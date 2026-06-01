@@ -1,0 +1,6 @@
+{
+  // Cloudflare Pages config. The site is 100% static — Pages serves dist/ directly,
+  // no Functions/Worker needed. Deploy with: wrangler pages deploy dist
+  "name": "justinbasil-archive",
+  "pages_build_output_dir": "./dist"
+}

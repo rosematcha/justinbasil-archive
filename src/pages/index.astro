@@ -1,0 +1,16 @@
+---
+import { getCollection, render } from 'astro:content';
+import RenderedEntry from '../components/RenderedEntry.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { siteTitle } from '../config/nav';
+
+const pages = await getCollection('pages');
+const home = pages.find((e) => e.id === 'home');
+---
+{home ? (
+  <RenderedEntry entry={home} />
+) : (
+  <BaseLayout title={siteTitle}>
+    <div class="jb-container jb-content"><p>Home page not yet imported.</p></div>
+  </BaseLayout>
+)}

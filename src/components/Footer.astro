@@ -1,0 +1,29 @@
+---
+import { patreonUrl, siteTitle } from '../config/nav';
+const year = 2026;
+---
+
+<footer class="jb-footer">
+  <div class="jb-container">
+    <p class="jb-footer__thanks">
+      A special thanks to my <a href={patreonUrl} target="_blank" rel="noopener">Patreon</a> supporters.
+    </p>
+    <p class="jb-footer__meta">
+      {siteTitle} · Preserved archive ({year}) ·
+      <a href="https://www.justinbasil.com" target="_blank" rel="noopener">original site</a>
+    </p>
+  </div>
+</footer>
+
+<style>
+  .jb-footer {
+    background: var(--jb-green-dark);
+    color: var(--jb-nav-text);
+    padding-block: 2.5rem;
+    margin-top: 3rem;
+    text-align: center;
+  }
+  .jb-footer__thanks { margin: 0 0 0.5rem; font-family: var(--jb-font-head); }
+  .jb-footer__meta { margin: 0; font-size: 0.8rem; opacity: 0.7; }
+  .jb-footer a { color: var(--jb-green-light); }
+</style>

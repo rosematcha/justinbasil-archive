@@ -1,0 +1,61 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { siteTitle } from '../config/nav';
+import '../styles/global.css';
+import '../styles/squarespace-compat.css';
+import '../styles/jb-custom.css';
+
+export interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  /** Original justinbasil.com URL this page was preserved from. */
+  sourceUrl?: string;
+}
+
+const { title, description = '', ogImage, sourceUrl } = Astro.props;
+const fullTitle = title === siteTitle ? title : `${title} — ${siteTitle}`;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const resolvedOg = ogImage ?? '/s/og-default.png';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.ico" />
+
+    <!-- Open Graph / Twitter (ported from the original pages) -->
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:image" content={resolvedOg} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:image" content={resolvedOg} />
+
+    <!-- Fonts: Rubik (body) + Montserrat (headings) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Rubik:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    {sourceUrl && <link rel="alternate" title="Original page" href={sourceUrl} />}
+    <slot name="head" />
+  </head>
+  <body>
+    <Header />
+    <main id="content">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

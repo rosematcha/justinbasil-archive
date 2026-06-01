@@ -1,0 +1,21 @@
+# dependencies & build artifacts
+node_modules/
+dist/
+.astro/
+.wrangler/
+*.log
+
+# OS
+.DS_Store
+
+# Keystatic local cache
+.keystatic/
+
+# Editor/workspace
+.claude/
+
+# Raw source snapshot — kept locally as the conversion input, not committed.
+_corpus/
+
+# Note: public/images/ (localized assets) is intentionally committed — it is
+# the preserved archive.

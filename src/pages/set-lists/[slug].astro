@@ -1,0 +1,13 @@
+---
+import { getCollection } from 'astro:content';
+import RenderedEntry from '../../components/RenderedEntry.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('setLists');
+  return entries
+    .filter((e) => !e.data.draft && !e.id.startsWith('_'))
+    .map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+const { entry } = Astro.props;
+---
+<RenderedEntry entry={entry} />

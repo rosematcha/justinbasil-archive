@@ -1,0 +1,122 @@
+/* Design tokens + base styles for the justinbasil.com recreation.
+   Tokens match the original site (Squarespace "Brine" family): a dark-green header
+   (#031400) with mint nav text, green accents, Montserrat type, and an 1800px-wide
+   content area. Edit the :root tokens to retheme. */
+
+:root {
+  /* Brand greens (JustInBasil → basil) */
+  --jb-green-dark: #031400;     /* header background */
+  --jb-green: #89b84b;          /* primary green accent / buttons */
+  --jb-green-light: #b1e88f;
+  --jb-nav-text: #ebfff5;       /* mint nav text on the dark header */
+
+  /* Tier / status indicators (from Jason's custom.css) */
+  --jb-up: #4cb84b;
+  --jb-down: #b84b4b;
+
+  --jb-bg: #ffffff;
+  --jb-bg-muted: #f7f7f7;
+  --jb-text: #000000;
+  --jb-text-muted: #595959;
+  --jb-link: #1d1d1d;
+  --jb-border: #e3e3e3;
+
+  --jb-content-width: 1800px;
+  --jb-content-pad: 38px;
+
+  --jb-font-body: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+  --jb-font-head: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+  --jb-font-nav: 'Rubik', 'Helvetica Neue', Arial, sans-serif;
+  --jb-radius: 0;               /* the original uses square corners */
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--jb-bg);
+  color: var(--jb-text);
+  font-family: var(--jb-font-body);
+  font-size: 15px;
+  line-height: 1.8;
+  letter-spacing: 0.04em;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Headings: Montserrat, light weight; h2/h3 uppercase (matches Brine config). */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--jb-font-head);
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 1.4em 0 0.5em;
+  color: #000;
+}
+h1 { font-size: 2.9rem; letter-spacing: 0.01em; }
+h2 { font-size: 2rem;  letter-spacing: 0.05em; text-transform: uppercase; }
+h3 { font-size: 1.55rem; letter-spacing: 0.02em; text-transform: uppercase; }
+h4 { font-size: 1.2rem; }
+
+a { color: var(--jb-link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img { max-width: 100%; height: auto; }
+hr { border: 0; border-top: 1px solid var(--jb-border); margin: 2rem 0; }
+
+table { border-collapse: collapse; width: 100%; margin: 1rem 0; }
+th, td { border: 1px solid var(--jb-border); padding: 0.2rem 0.6rem; text-align: left; vertical-align: top; }
+th { background: var(--jb-bg-muted); }
+
+blockquote {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  border-left: 4px solid var(--jb-green);
+  background: var(--jb-bg-muted);
+}
+
+code, pre { font-family: ui-monospace, 'SF Mono', Menlo, monospace; }
+
+/* ---- Layout primitives ---- */
+.jb-container {
+  width: 100%;
+  max-width: var(--jb-content-width);
+  margin-inline: auto;
+  padding-inline: var(--jb-content-pad);
+}
+.jb-content { padding-block: 2rem 4rem; }
+.jb-content > :first-child { margin-top: 0; }
+/* Pages that bake their own title (showHeading:false) lead with a heading nested
+   inside Squarespace wrapper divs. The global 1.4em heading top-margin collapses
+   up through those empty wrappers, opening a large gap below the header. Reset the
+   leading heading's top margin so it sits flush against the content padding. */
+.jb-content > .sqs-content > :first-child :where(h1, h2, h3, h4, h5, h6):first-child {
+  margin-top: 0;
+}
+
+/* ---- Buttons (green, square) ---- */
+.jb-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 1.4rem;
+  font-family: var(--jb-font-nav);
+  font-weight: 500;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  border: 1px solid var(--jb-green);
+  border-radius: var(--jb-radius);
+  color: #fff;
+  background: var(--jb-green);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.jb-btn:hover { background: #6f9c38; text-decoration: none; }
+.jb-btn--outline { background: transparent; color: var(--jb-green); }
+.jb-btn--outline:hover { background: var(--jb-green); color: #fff; }
+
+@media (max-width: 900px) { :root { --jb-content-pad: 20px; } }
+
+/* Neutralize the lazy-load "not yet initialized" opacity from custom.css */
+img.nyi { opacity: 1 !important; }

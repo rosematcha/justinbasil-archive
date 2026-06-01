@@ -1,0 +1,148 @@
+---
+import { nav, siteTitle } from '../config/nav';
+const path = Astro.url.pathname;
+const isActive = (href: string) =>
+  href === '/' ? path === '/' : path === href || path.startsWith(href + '/');
+---
+
+<header class="jb-header">
+  <div class="jb-container jb-header__inner">
+    <a class="jb-header__brand" href="/" aria-label={siteTitle}>
+      <img src="/s/logo.png" alt={siteTitle} class="jb-header__logo" />
+    </a>
+
+    <input type="checkbox" id="jb-nav-toggle" class="jb-nav-toggle" aria-hidden="true" />
+    <label for="jb-nav-toggle" class="jb-burger" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </label>
+
+    <nav class="jb-nav" aria-label="Primary">
+      <ul class="jb-nav__list">
+        {nav.map((entry) =>
+          entry.children ? (
+            <li class="jb-nav__item jb-nav__item--folder">
+              <span class="jb-nav__label">{entry.label}</span>
+              <ul class="jb-nav__submenu">
+                {entry.children.map((child) => (
+                  <li>
+                    <a href={child.href} class:list={['jb-nav__link', { 'is-active': isActive(child.href) }]}>
+                      {child.label}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ) : (
+            <li class="jb-nav__item">
+              <a
+                href={entry.href}
+                class:list={['jb-nav__link', { 'is-active': entry.href && isActive(entry.href) }]}
+                {...(entry.external ? { target: '_blank', rel: 'noopener' } : {})}
+              >
+                {entry.label}
+              </a>
+            </li>
+          )
+        )}
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .jb-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--jb-green-dark);
+    -webkit-font-smoothing: antialiased;
+  }
+  .jb-header__inner {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    padding-block: 16px 6px;
+  }
+  .jb-header__brand { display: flex; align-items: center; justify-content: center; }
+  .jb-header__logo { height: 92px; width: auto; display: block; }
+
+  .jb-nav__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .jb-nav__item { position: relative; }
+  .jb-nav__label,
+  .jb-nav__link {
+    display: block;
+    padding: 0.5rem 0.7rem;
+    font-family: var(--jb-font-nav);
+    font-size: 0.95rem;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+    color: var(--jb-nav-text);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .jb-nav__link:hover,
+  .jb-nav__label:hover { color: rgba(235, 255, 245, 0.5); text-decoration: none; }
+  .jb-nav__link.is-active { color: var(--jb-green-light); }
+
+  .jb-nav__submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 250px;
+    background: var(--jb-green-dark);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    list-style: none;
+    margin: 0;
+    padding: 0.4rem 0;
+    display: none;
+  }
+  .jb-nav__item--folder:hover .jb-nav__submenu,
+  .jb-nav__item--folder:focus-within .jb-nav__submenu { display: block; }
+  .jb-nav__submenu .jb-nav__link { padding: 0.55rem 1.1rem; }
+  .jb-nav__submenu .jb-nav__link:hover { background: rgba(255, 255, 255, 0.08); color: var(--jb-green-light); }
+
+  /* Mobile menu toggle (hidden on desktop) */
+  .jb-nav-toggle, .jb-burger { display: none; }
+
+  @media (max-width: 900px) {
+    .jb-header__logo { height: 56px; }
+    .jb-burger {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      padding: 8px;
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+    .jb-burger span { width: 26px; height: 3px; background: var(--jb-nav-text); display: block; }
+    .jb-nav {
+      display: none;
+      position: absolute;
+      top: 100%; left: 0; right: 0;
+      background: var(--jb-green-dark);
+      max-height: 80vh;
+      overflow-y: auto;
+    }
+    .jb-nav-toggle:checked ~ .jb-nav { display: block; }
+    .jb-nav__list { flex-direction: column; align-items: stretch; gap: 0; padding: 0.5rem 0; }
+    .jb-nav__submenu {
+      position: static; display: block; box-shadow: none;
+      padding-left: 1rem;
+    }
+    .jb-nav__label { color: rgba(235, 255, 245, 0.55); }
+  }
+</style>

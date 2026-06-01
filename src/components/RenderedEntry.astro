@@ -1,0 +1,59 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+
+// The body is preserved verbatim Squarespace HTML. We inject it raw with set:html
+// rather than letting Markdown process it (Markdown mangles indented HTML / code
+// blocks). entry.body is the raw content (frontmatter stripped).
+const { entry } = Astro.props;
+const data = entry.data as any;
+const body: string = entry.body ?? '';
+const youtubeId: string | undefined = data.youtubeId;
+---
+
+<PageLayout
+  title={data.title}
+  description={data.description}
+  ogImage={data.ogImage}
+  sourceUrl={data.sourceUrl}
+  showHeading={data.showHeading ?? true}
+>
+  {(youtubeId || (data.publishDate && data.showHeading === false)) && (
+    <header class="jb-video-header">
+      {data.publishDate && (
+        <p class="jb-video-date">{new Date(data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }).toUpperCase()}</p>
+      )}
+      <h1 class="jb-video-title">{data.title}</h1>
+    </header>
+  )}
+  {youtubeId && (
+    <div class="jb-video-embed">
+      <iframe
+        src={`https://www.youtube-nocookie.com/embed/${youtubeId}`}
+        title={data.title}
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+        loading="lazy"
+      ></iframe>
+    </div>
+  )}
+  <div class:list={['sqs-content', { 'has-video-embed': youtubeId }]} set:html={body} />
+</PageLayout>
+
+<style is:global>
+  .jb-video-embed {
+    position: relative;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto 1.5rem;
+    aspect-ratio: 16 / 9;
+    background: #000;
+  }
+  .jb-video-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+  .jb-video-header { text-align: center; }
+  .jb-video-date { font-size: 0.75rem; letter-spacing: 0.1em; color: var(--jb-text-muted); margin: 0 0 0.25rem; }
+  .jb-video-title { margin: 0 0 1.25rem; }
+  /* Hide the original (JS-dependent, double-escaped) embed block on video pages. */
+  .sqs-content.has-video-embed .sqs-block-video,
+  .sqs-content.has-video-embed .sqs-block-website { display: none; }
+</style>

@@ -1,0 +1,296 @@
+/* Minimal reproduction of the Squarespace block/grid system that the preserved
+   verbatim HTML depends on (rows, 12-col grid, blocks, images, galleries, spacers).
+   Modeled on the original site.css. Refined against reference screenshots. */
+
+/* ---- Squarespace utility classes ---- */
+.v6-visually-hidden, .visually-hidden, .sr-only {
+  position: absolute !important;
+  width: 1px !important; height: 1px !important;
+  padding: 0 !important; margin: -1px !important;
+  overflow: hidden !important; clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important; border: 0 !important;
+}
+.sqs-block-content > *:first-child:empty { display: none; }
+
+/* ---- Layout grid (float-based, 12 columns) ---- */
+.sqs-layout { margin: 0 auto; }
+.sqs-row { width: auto !important; }
+.sqs-row::after { content: ""; display: table; clear: both; }
+
+.sqs-row > .col,
+.sqs-row > [class*="sqs-col-"] { float: left; min-height: 1px; }
+
+.sqs-block { padding-left: 17px; padding-right: 17px; }
+.sqs-block-content > *:first-child { margin-top: 0; }
+
+/* Column widths N/12 (top level). */
+.sqs-col-1,  .span-1  { width: 8.3333%; }
+.sqs-col-2,  .span-2  { width: 16.6667%; }
+.sqs-col-3,  .span-3  { width: 25%; }
+.sqs-col-4,  .span-4  { width: 33.3333%; }
+.sqs-col-5,  .span-5  { width: 41.6667%; }
+.sqs-col-6,  .span-6  { width: 50%; }
+.sqs-col-7,  .span-7  { width: 58.3333%; }
+.sqs-col-8,  .span-8  { width: 66.6667%; }
+.sqs-col-9,  .span-9  { width: 75%; }
+.sqs-col-10, .span-10 { width: 83.3333%; }
+.sqs-col-11, .span-11 { width: 91.6667%; }
+.sqs-col-12, .span-12 { width: 100%; }
+
+/* Nested column widths — contextual (inner / parent * 100%), matching site.css exactly.
+   Scoped through the immediate `.sqs-row` (child combinator) so a column's width is
+   determined ONLY by its direct parent column, never a more distant ancestor. A plain
+   descendant combinator (`.sqs-col-8 .sqs-col-4`) let every ancestor column match at once;
+   for a doubly-nested column (col-12 > row > col-8 > row > col-4) both the col-8 (50%) and
+   col-12 (33.33%) rules matched at equal specificity and the later-defined col-12 rule won,
+   collapsing nested grids to the wrong widths. */
+.sqs-col-2 > .sqs-row > .sqs-col-1{width:50%}.sqs-col-2 > .sqs-row > .sqs-col-2{width:100%}
+.sqs-col-3 > .sqs-row > .sqs-col-1{width:33.3333%}.sqs-col-3 > .sqs-row > .sqs-col-2{width:66.6667%}.sqs-col-3 > .sqs-row > .sqs-col-3{width:100%}
+.sqs-col-4 > .sqs-row > .sqs-col-1{width:25%}.sqs-col-4 > .sqs-row > .sqs-col-2{width:50%}.sqs-col-4 > .sqs-row > .sqs-col-3{width:75%}.sqs-col-4 > .sqs-row > .sqs-col-4{width:100%}
+.sqs-col-5 > .sqs-row > .sqs-col-1{width:20%}.sqs-col-5 > .sqs-row > .sqs-col-2{width:40%}.sqs-col-5 > .sqs-row > .sqs-col-3{width:60%}.sqs-col-5 > .sqs-row > .sqs-col-4{width:80%}.sqs-col-5 > .sqs-row > .sqs-col-5{width:100%}
+.sqs-col-6 > .sqs-row > .sqs-col-1{width:16.6667%}.sqs-col-6 > .sqs-row > .sqs-col-2{width:33.3333%}.sqs-col-6 > .sqs-row > .sqs-col-3{width:50%}.sqs-col-6 > .sqs-row > .sqs-col-4{width:66.6667%}.sqs-col-6 > .sqs-row > .sqs-col-5{width:83.3333%}.sqs-col-6 > .sqs-row > .sqs-col-6{width:100%}
+.sqs-col-7 > .sqs-row > .sqs-col-1{width:14.2857%}.sqs-col-7 > .sqs-row > .sqs-col-2{width:28.5714%}.sqs-col-7 > .sqs-row > .sqs-col-3{width:42.8571%}.sqs-col-7 > .sqs-row > .sqs-col-4{width:57.1429%}.sqs-col-7 > .sqs-row > .sqs-col-5{width:71.4286%}.sqs-col-7 > .sqs-row > .sqs-col-6{width:85.7143%}.sqs-col-7 > .sqs-row > .sqs-col-7{width:100%}
+.sqs-col-8 > .sqs-row > .sqs-col-1{width:12.5%}.sqs-col-8 > .sqs-row > .sqs-col-2{width:25%}.sqs-col-8 > .sqs-row > .sqs-col-3{width:37.5%}.sqs-col-8 > .sqs-row > .sqs-col-4{width:50%}.sqs-col-8 > .sqs-row > .sqs-col-5{width:62.5%}.sqs-col-8 > .sqs-row > .sqs-col-6{width:75%}.sqs-col-8 > .sqs-row > .sqs-col-7{width:87.5%}.sqs-col-8 > .sqs-row > .sqs-col-8{width:100%}
+.sqs-col-9 > .sqs-row > .sqs-col-1{width:11.1111%}.sqs-col-9 > .sqs-row > .sqs-col-2{width:22.2222%}.sqs-col-9 > .sqs-row > .sqs-col-3{width:33.3333%}.sqs-col-9 > .sqs-row > .sqs-col-4{width:44.4444%}.sqs-col-9 > .sqs-row > .sqs-col-5{width:55.5556%}.sqs-col-9 > .sqs-row > .sqs-col-6{width:66.6667%}.sqs-col-9 > .sqs-row > .sqs-col-7{width:77.7778%}.sqs-col-9 > .sqs-row > .sqs-col-8{width:88.8889%}.sqs-col-9 > .sqs-row > .sqs-col-9{width:100%}
+.sqs-col-10 > .sqs-row > .sqs-col-1{width:10%}.sqs-col-10 > .sqs-row > .sqs-col-2{width:20%}.sqs-col-10 > .sqs-row > .sqs-col-3{width:30%}.sqs-col-10 > .sqs-row > .sqs-col-4{width:40%}.sqs-col-10 > .sqs-row > .sqs-col-5{width:50%}.sqs-col-10 > .sqs-row > .sqs-col-6{width:60%}.sqs-col-10 > .sqs-row > .sqs-col-7{width:70%}.sqs-col-10 > .sqs-row > .sqs-col-8{width:80%}.sqs-col-10 > .sqs-row > .sqs-col-9{width:90%}.sqs-col-10 > .sqs-row > .sqs-col-10{width:100%}
+.sqs-col-11 > .sqs-row > .sqs-col-1{width:9.0909%}.sqs-col-11 > .sqs-row > .sqs-col-2{width:18.1818%}.sqs-col-11 > .sqs-row > .sqs-col-3{width:27.2727%}.sqs-col-11 > .sqs-row > .sqs-col-4{width:36.3636%}.sqs-col-11 > .sqs-row > .sqs-col-5{width:45.4545%}.sqs-col-11 > .sqs-row > .sqs-col-6{width:54.5455%}.sqs-col-11 > .sqs-row > .sqs-col-7{width:63.6364%}.sqs-col-11 > .sqs-row > .sqs-col-8{width:72.7273%}.sqs-col-11 > .sqs-row > .sqs-col-9{width:81.8182%}.sqs-col-11 > .sqs-row > .sqs-col-10{width:90.9091%}.sqs-col-11 > .sqs-row > .sqs-col-11{width:100%}
+.sqs-col-12 > .sqs-row > .sqs-col-1{width:8.3333%}.sqs-col-12 > .sqs-row > .sqs-col-2{width:16.6667%}.sqs-col-12 > .sqs-row > .sqs-col-3{width:25%}.sqs-col-12 > .sqs-row > .sqs-col-4{width:33.3333%}.sqs-col-12 > .sqs-row > .sqs-col-5{width:41.6667%}.sqs-col-12 > .sqs-row > .sqs-col-6{width:50%}.sqs-col-12 > .sqs-row > .sqs-col-7{width:58.3333%}.sqs-col-12 > .sqs-row > .sqs-col-8{width:66.6667%}.sqs-col-12 > .sqs-row > .sqs-col-9{width:75%}.sqs-col-12 > .sqs-row > .sqs-col-10{width:83.3333%}.sqs-col-12 > .sqs-row > .sqs-col-11{width:91.6667%}.sqs-col-12 > .sqs-row > .sqs-col-12{width:100%}
+
+/* ---- Rich text blocks ---- */
+.sqs-html-content { word-wrap: break-word; }
+.sqs-html-content img { display: inline-block; }
+.sqs-html-content h1, .sqs-html-content h2, .sqs-html-content h3 { margin-top: 0.8em; }
+
+/* Float blocks (image/code/html blocks within a column that should wrap text). */
+.sqs-block.float.float-right { float: right; margin-left: 17px; }
+.sqs-block.float.float-left  { float: left;  margin-right: 17px; }
+
+/* ---- Image blocks (rendered statically; the Squarespace JS aspect-ratio loader
+   is stripped, so we must neutralize its padding-bottom box and the absolutely
+   positioned <img> it expects to swap in). ---- */
+.sqs-block-image .sqs-block-content { height: auto !important; }
+.image-block-outer-wrapper { margin: 0 auto; }
+figure.sqs-block-image-figure { margin: 0 auto; }
+
+/* Kill the aspect-ratio reservation box (the source of large blank gaps). */
+.has-aspect-ratio,
+.intrinsic,
+.image-intrinsic,
+.image-block-wrapper {
+  padding-bottom: 0 !important;
+  height: auto !important;
+  position: static !important;
+}
+
+/* Show the image at its natural size within the figure's max-width. */
+.sqs-block-image-figure img,
+.image-block-wrapper img,
+.sqs-image img,
+img[data-sqsp-image-classic-block-image] {
+  position: static !important;
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100%;
+  object-fit: contain !important;
+  margin: 0 auto;
+}
+
+figure, figcaption { margin: 0; }
+.image-caption-wrapper, .image-caption { text-align: center; font-size: 0.85em; color: var(--jb-text-muted); }
+
+/* ---- Galleries (grid gallery; normally JS-positioned, recreated with CSS grid) ---- */
+.sqs-gallery-block-grid .sqs-gallery,
+.sqs-gallery-design-grid {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+}
+.sqs-gallery-thumbnails-per-row-1 .sqs-gallery { grid-template-columns: repeat(1, 1fr); }
+.sqs-gallery-thumbnails-per-row-2 .sqs-gallery { grid-template-columns: repeat(2, 1fr); }
+.sqs-gallery-thumbnails-per-row-3 .sqs-gallery { grid-template-columns: repeat(3, 1fr); }
+.sqs-gallery-thumbnails-per-row-4 .sqs-gallery { grid-template-columns: repeat(4, 1fr); }
+.sqs-gallery-thumbnails-per-row-5 .sqs-gallery { grid-template-columns: repeat(5, 1fr); }
+.sqs-gallery-thumbnails-per-row-6 .sqs-gallery { grid-template-columns: repeat(6, 1fr); }
+.sqs-gallery-thumbnails-per-row-7 .sqs-gallery { grid-template-columns: repeat(7, 1fr); }
+.sqs-gallery-thumbnails-per-row-8 .sqs-gallery { grid-template-columns: repeat(8, 1fr); }
+.sqs-gallery-thumbnails-per-row-9 .sqs-gallery { grid-template-columns: repeat(9, 1fr); }
+.sqs-gallery-thumbnails-per-row-10 .sqs-gallery { grid-template-columns: repeat(10, 1fr); }
+.sqs-gallery-thumbnails-per-row-11 .sqs-gallery { grid-template-columns: repeat(11, 1fr); }
+.sqs-gallery-thumbnails-per-row-12 .sqs-gallery { grid-template-columns: repeat(12, 1fr); }
+
+/* Neutralize the JS slide positioning so cells flow in the grid. */
+.sqs-gallery .slide,
+.sqs-gallery .slide .margin-wrapper {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  float: none !important;
+  margin: 0 !important;
+  left: auto !important; top: auto !important;
+  padding: 0 !important;
+}
+.sqs-gallery .slide a { display: block; }
+.sqs-gallery img.thumb-image {
+  position: static !important;
+  width: 100% !important;
+  height: auto !important;
+  opacity: 1 !important;
+  padding: 0 !important;
+}
+
+@media (max-width: 767px) {
+  .sqs-gallery-block-grid .sqs-gallery,
+  .sqs-gallery-design-grid { grid-template-columns: repeat(3, 1fr) !important; }
+}
+
+/* ---- BlogList summary index (Squarespace blog index pages) ---- */
+.BlogList { display: block; }
+.BlogList-item {
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 3.5rem 0;
+  text-align: center;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+.BlogList-item:last-child { border-bottom: 0; }
+.BlogList-item-title {
+  display: block;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2;
+  margin: 0.5rem 0;
+  color: inherit;
+  text-decoration: none;
+}
+.BlogList-item-title:hover { text-decoration: underline; }
+.Blog-meta { display: block; font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--jb-text-muted, #666); }
+.Blog-meta-item--author { display: none; } /* author hidden in original styling */
+.Blog-meta-item { color: inherit; text-decoration: none; }
+
+/* ---- Cover-page slides (Squarespace "linktree"-style pages like /links) ---- */
+.sqs-slide-container { display: block; }
+.sqs-slide { padding: 2rem 1rem; text-align: center; }
+.sqs-slide .sqs-slide-layer.layer-back { display: none; } /* gallery background */
+.sqs-slide .sqs-slide-layer-content { max-width: 540px; margin: 0 auto; }
+.sqs-slide .sqs-slice[data-slice-type="image"] img {
+  max-width: 220px; height: auto; display: block; margin: 0 auto 1.25rem;
+}
+.sqs-slide .sqs-slice[data-slice-type="heading"] h1 {
+  text-align: center; margin: 0 0 1.25rem; letter-spacing: 0.2em; text-transform: uppercase; font-size: 1.4rem;
+}
+.sqs-slide .sqs-slice[data-slice-type="body"] p {
+  text-align: center; margin: 0.4em 0;
+}
+.sqs-slide .sqs-slice[data-slice-type="body"] a {
+  display: block; padding: 0.4em 0;
+}
+
+/* ---- Collection/system gallery (slideshow; JS stripped → render as static grid) ---- */
+.sqs-system-gallery .gallery-wrapper,
+.sqs-system-gallery .slides-controls,
+.sqs-system-gallery .slides { position: static !important; height: auto !important; width: auto !important; overflow: visible !important; }
+.sqs-system-gallery .slides {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(4, 1fr);
+}
+.sqs-system-gallery .slide {
+  position: static !important;
+  width: auto !important;
+  height: auto !important;
+  left: auto !important; top: auto !important;
+  opacity: 1 !important;
+  display: block;
+}
+.sqs-system-gallery .slide > img,
+.sqs-system-gallery .slide picture > img {
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  position: static !important;
+  opacity: 1 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.sqs-system-gallery .slide-meta { display: none !important; }
+.sqs-system-gallery .gallery-nav { display: none !important; }
+
+@media (max-width: 767px) {
+  .sqs-system-gallery .slides { grid-template-columns: repeat(2, 1fr); }
+}
+
+/* ---- Summary blocks (recent-videos carousel / list; JS layout stripped) ---- */
+.sqs-block-summary-v2 .summary-item-list { list-style: none; margin: 0; padding: 0; }
+.summary-item { position: static !important; float: none !important; }
+
+/* Neutralize the thumbnail aspect-ratio padding hack + lazy positioning. */
+.summary-thumbnail-container,
+.summary-thumbnail,
+.summary-thumbnail-image-container {
+  position: static !important;
+  height: auto !important;
+  padding-bottom: 0 !important;
+}
+.summary-thumbnail-image {
+  position: static !important;
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+}
+/* Squarespace renders multiple metadata containers (above/below title) and shows one
+   via CSS we don't load — keep the first (date above title), hide the duplicates. */
+.summary-item .summary-metadata-container ~ .summary-metadata-container { display: none; }
+.summary-title { font-family: var(--jb-font-head); font-size: 1rem; margin: 0.5rem 0 0.25rem; line-height: 1.3; }
+.summary-title a { color: var(--jb-text); }
+.summary-metadata, .summary-metadata-item { font-size: 0.75rem; color: var(--jb-text-muted); }
+
+/* Carousel design -> horizontal scroll row of cards (mimics the carousel). */
+.summary-block-setting-design-carousel .summary-item-list {
+  display: flex;
+  gap: 18px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 10px;
+}
+.summary-block-setting-design-carousel .summary-item-list .summary-item {
+  flex: 0 0 31%;
+  min-width: 280px;
+  scroll-snap-align: start;
+}
+
+/* List (thumbnail-left) design -> stacked rows. */
+.summary-block-setting-design-list .summary-item {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  margin-bottom: 18px;
+}
+.summary-block-setting-design-list .summary-thumbnail-container { flex: 0 0 220px; }
+
+@media (max-width: 767px) {
+  .summary-block-setting-design-carousel .summary-item-list .summary-item { flex-basis: 75%; }
+}
+
+/* ---- Buttons ---- */
+.sqs-block-button-container { text-align: center; margin: 1rem 0; }
+.sqs-block-button-element {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  font-family: var(--jb-font-head);
+  font-weight: 600;
+  background: var(--jb-accent);
+  color: #fff !important;
+  text-decoration: none;
+}
+.sqs-block-button-element:hover { background: var(--jb-accent-dark); }
+
+/* ---- Spacers / dividers ---- */
+.sqs-block-spacer .sqs-block-content { min-height: 1px; }
+.sqs-block-horizontalrule hr { border: 0; border-top: 1px solid var(--jb-border); }
+
+/* ---- Mobile: stack columns ---- */
+@media (max-width: 767px) {
+  .sqs-row > .col,
+  .sqs-row > [class*="sqs-col-"] { float: none; width: 100% !important; }
+}
