@@ -328,6 +328,7 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 .jb-set-card {
   margin: 10px;
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
   padding: 20px;
   color: #ffffff;
@@ -339,6 +340,7 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 }
 .jb-rotation-card {
   background-size: cover;
+  background-repeat: no-repeat;
   box-sizing: border-box;
   margin: 5px;
   width: calc(100% - 10px);

@@ -451,13 +451,18 @@ function convertBgCards(root) {
       const url = extractBgImage(raw);
       const pos = extractBgPosition(raw);
       const contain = /background-size\s*:\s*contain/i.test(raw);
-      const darkBg = /background-color\s*:\s*#444/i.test(raw);
+      const bg = (raw.match(/background-color\s*:\s*(#[0-9a-fA-F]{3,6}|[a-zA-Z]+)/i) || [])[1];
       el.removeAttribute('style');
       addClass(el, 'jb-rotation-card');
       if (contain) addClass(el, 'jb-bgsize-contain');
-      if (darkBg) addClass(el, 'jb-rotation-card-dark');
       if (pos && pos !== 'center') addClass(el, 'jb-bgpos-' + pos);
-      if (url) el.setAttribute('style', `background-image:url(${url})`);
+      // Keep the per-instance background-colour inline (it varies: #000 set logos,
+      // #444, etc.). The class default (#b1e88f green) covers the common tiles, so only
+      // emit inline when it differs — folding it into the class lost the black set cards.
+      const decls = [];
+      if (url) decls.push(`background-image:url(${url})`);
+      if (bg && bg.toLowerCase() !== '#b1e88f') decls.push(`background-color:${bg}`);
+      if (decls.length) el.setAttribute('style', decls.join('; '));
       return;
     }
     // Format "chips" (set/format tags): border:2px; border-color:XXX; background-color:#XXX;

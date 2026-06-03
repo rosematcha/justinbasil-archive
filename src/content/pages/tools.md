@@ -16,7 +16,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/gifts" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark jb-bgpos-top" style="background-image:url(/images/h-deci.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/h-deci.webp); background-color:#444">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Gift Guide</h1>
@@ -27,7 +27,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/battle-academy" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark" style="background-image:url(/images/2024-battle-academy.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/2024-battle-academy.webp); background-color:#444">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Supplement Decks</h1>
@@ -50,7 +50,7 @@ showHeading: false
 </div></a>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="https://events.pokemon.com/en-us/locations" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgsize-contain jb-rotation-card-dark" style="background-image:url(/images/play-pokemon.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/play-pokemon.webp); background-color:#444">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Event Locator</h1>
@@ -61,7 +61,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/resources" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark" style="background-image:url(/images/homepage-logo.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/homepage-logo.webp); background-color:#444">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Site Updates</h1>
@@ -72,7 +72,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/external" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark jb-bgpos-top" style="background-image:url(/images/switch.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/switch.webp); background-color:#444">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">External Resources</h1>
