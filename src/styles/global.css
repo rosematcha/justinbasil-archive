@@ -87,12 +87,9 @@ code, pre { font-family: ui-monospace, 'SF Mono', Menlo, monospace; }
 }
 .jb-content { padding-block: 2rem 4rem; }
 .jb-content > :first-child { margin-top: 0; }
-/* Home page only: flush (0) on mobile, where the card grid stacks to one column
-   (≤767px). On desktop (≥768px, the 3-up grid) it keeps the standard .jb-content /
-   .jb-container padding — no override. */
-@media (max-width: 767px) {
-  body.jb-home .jb-content { padding: 0; }
-}
+/* Home page only: no top/bottom padding on the content container; the sides keep the
+   standard .jb-container inline padding. */
+body.jb-home .jb-content { padding-block: 0; }
 /* Pages that bake their own title (showHeading:false) lead with a heading nested
    inside Squarespace wrapper divs. The global 1.4em heading top-margin collapses
    up through those empty wrappers, opening a large gap below the header. Reset the
