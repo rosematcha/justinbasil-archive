@@ -198,7 +198,7 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 
 /* Single-rule utility classes that recur across many elements. */
 .jb-bold { font-weight: bold; }
-.jb-center { text-align: center; }
+.jb-center { text-align: center; margin-top: 0; }
 .jb-vmid { vertical-align: middle; }
 .jb-th { font-size: 16px; font-weight: bold; text-transform: uppercase; }
 .jb-icon-center {
