@@ -172,7 +172,9 @@ CSS, not inline attributes:
 ## Architecture & compatibility (keep all of these true)
 
 - **Static build, no runtime.** Public site is pure static HTML (`astro build`), no Worker.
-  Don't introduce `<script>`, client JS, hydration, or per-request logic.
+  Don't introduce `<script>` or client JS **in content bodies**. (Exception already in the
+  repo: `BaseLayout.astro` has one small guarded inline script that re-wires the legacy
+  `.nrl_tab` tab widget on `/new`. Leave it; don't add new scripts to the `.md` files.)
 - **`.md` + standard Markdown pipeline.** Block-level raw HTML you keep (galleries, cards,
   iframes) must be **left-aligned and surrounded by blank lines**, or Markdown turns indented
   HTML into code blocks and wraps stray text in `<p>`. Your transform must enforce this.
