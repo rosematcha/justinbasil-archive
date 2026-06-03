@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 8: Spidops ex vs. Banette ex"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. We now march onward with new archetypes from Scarlet & Violet--this week, it's Spidops ex vs. Banette ex!     2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List"
-ogImage: "/images/f6965803049857b5.webp"
+ogImage: "/images/testing-part-8-spidops-ex-vs-banette-ex-f69658.webp"
 publishDate: 2023-02-24
 youtubeId: "eR3SdbE16NU"
 sourceUrl: "https://www.justinbasil.com/videos/tyw6lc54ow1awehvuj8t3adg9tzfj5"
@@ -29,7 +29,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/38e8555d5cb29aba.webp)
+![](/images/testing-part-8-spidops-ex-vs-banette-ex.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blacephalon vs. Durant (First Draft Monday!)"
 description: "In today's Eternal Monday, we discuss our approaches to Blacephalon and Durant in the Eternal format and pit them against one another for their first battle!"
-ogImage: "/images/d82d3ccadaffd8aa.webp"
+ogImage: "/images/first-drafts-series-2-d82d3c.webp"
 publishDate: 2024-04-22
 youtubeId: "R7PGck4iL2I"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blacephalon-vs-durant-first-draft-monday"
@@ -19,7 +19,7 @@ In today's Eternal Monday, we discuss our approaches to Blacephalon and Durant i
 
 
 
-![](/images/01e80be0dfbb8401.webp)
+![](/images/first-drafts-series-2.webp)
 
 
 

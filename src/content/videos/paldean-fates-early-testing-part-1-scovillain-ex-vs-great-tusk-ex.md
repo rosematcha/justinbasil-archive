@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Part 1: Scovillain ex vs. Great Tusk ex"
 description: "Our testing of Paldean Fates begins, with Scovillain ex taking on Great Tusk ex!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/4952eb8ee3077100.webp"
+ogImage: "/images/part-1-4952eb.webp"
 publishDate: 2023-12-01
 youtubeId: "Y0hkQoumM_E"
 sourceUrl: "https://www.justinbasil.com/videos/paldean-fates-early-testing-part-1-scovillain-ex-vs-great-tusk-ex"
@@ -26,7 +26,7 @@ Our testing of Paldean Fates begins, with Scovillain ex taking on Great Tusk ex!
 
 
 
-![](/images/995e13abc1b954ac.webp)
+![](/images/part-1-995e13.webp)
 
 
 

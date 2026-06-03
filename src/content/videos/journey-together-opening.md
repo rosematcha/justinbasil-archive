@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Opening"
 description: "It's time to see how bad (or awesome?) my pulls are from my boxes of Journey Together!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/e02d760754b56c70.webp"
+ogImage: "/images/jtg-box-opening-e02d76.webp"
 publishDate: 2025-03-29
 youtubeId: "Msh9lhYHYpA"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-opening"
@@ -27,7 +27,7 @@ It's time to see how bad (or awesome?) my pulls are from my boxes of Journey Tog
 
 
 
-![](/images/f5b8c1a656563e93.webp)
+![](/images/jtg-box-opening.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Obsidian Flames!"
 description: "It's that time! Let's look at the top 10 cards from the latest set in the Pokémon Trading Card Game— Scarlet & Violet—Obsidian Flames .  Obsidian Flames  releases internationally on 11 August 2023, with prerelease events beginning on 29 August 2023.  Check out these links to learn more!   Ob"
-ogImage: "/images/95a67094ef1e546d.webp"
+ogImage: "/images/obf-top-10-95a670.webp"
 publishDate: 2023-07-27
 youtubeId: "fiauiY62FDw"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-obsidian-flames"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/92dfbf3f9ba41e0e.webp)
+![](/images/obf-top-10.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following 6 October's Eternal Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 6 October 2023 Eternal format tournament.  The tournament's results were as follows:    Guil - Banette ex / Omastar    ThatUnlimitedProfessor - Weezing DX    Kaleidophoenix - Machamp    Mysterious Player - Charizard ex"
-ogImage: "/images/a23813a6d4fd04ff.webp"
+ogImage: "/images/banette-ex-a23813.webp"
 publishDate: 2023-10-07
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-6-octobers-eternal-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/4c9c93fb4191d8b0.webp)
+![](/images/banette-ex-4c9c93.webp)
 
 
 

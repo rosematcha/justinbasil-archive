@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following June 3rd's Theme Pool Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the June 3rd Theme Pool format tournament.  The tournament's results were as follows:    Bunnybird12 - Zeraora/Eelektrik    CursolaTCG - Empoleon CEC    TandemTCG - Turtonator    Twitchy - Duraludon    Click here to visit th"
-ogImage: "/images/b245762223fbf2a2.webp"
+ogImage: "/images/zeraora-unb-b24576.webp"
 publishDate: 2022-06-03
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-june-3rds-theme-pool-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/c28236736129e6dc.webp)
+![](/images/zeraora-unb.webp)
 
 
 

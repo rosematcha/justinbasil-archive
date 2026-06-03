@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Stellar Crown!"
 description: "With prereleases already quickly approaching this weekend, it's time to take a look at the best cards from Stellar Crown!   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/04c80d72c0389835.webp"
+ogImage: "/images/top-10-scr-04c80d.webp"
 publishDate: 2024-08-28
 youtubeId: "v9Y3OPG-BQg"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-stellar-crown"
@@ -27,7 +27,7 @@ With prereleases already quickly approaching this weekend, it's time to take a l
 
 
 
-![](/images/816bd36ba71a393d.webp)
+![](/images/top-10-scr.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Battle Styles (BST)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/bst"
 showHeading: false
 ---
@@ -53,7 +53,7 @@ With the arrival of Battle Styles this March, we’ve had a handful of new deck 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Atsuko Nishida](/images/2678fd1208251895.webp)
+![Illus. Atsuko Nishida](/images/maractus.webp)
 
 *Illus. Atsuko Nishida*
 
@@ -98,7 +98,7 @@ Pile energy onto Maractus using Cherrim's *Spring Bloom* ability, then fire away
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryota Murayama](/images/7dd6998aaaeace8f.webp)
+![Illus. Ryota Murayama](/images/tapu-bulu.webp)
 
 *Illus. Ryota Murayama*
 
@@ -142,7 +142,7 @@ Power-up Tapu Bulu using Cherrim's *Spring Bloom* ability, then attack with Tapu
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. kodama](/images/bd8e82390539ae0c.webp)
+![Illus. kodama](/images/durant-bd8e82.webp)
 
 *Illus. kodama*
 
@@ -189,7 +189,7 @@ Use Quick Ball and Level Ball to fill your bench with Durant and attach Cursed S
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/a35085c36d1d7fba.webp)
+![Illus. PLANETA Mochizuki](/images/victini.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -236,7 +236,7 @@ Prepare Victini VMAX by evolving Victini V early on. Attack using Max Victory wh
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Shibuzoh.](/images/9196c7df5e1d2802.webp)
+![Illus. Shibuzoh.](/images/salazzle.webp)
 
 *Illus. Shibuzoh.*
 
@@ -282,7 +282,7 @@ Bench both Bellsprout and Salandit early to prepare them to evolve, evolving Sal
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. sui](/images/1219850303933181.webp)
+![Illus. sui](/images/yamper.webp)
 
 *Illus. sui*
 
@@ -331,7 +331,7 @@ Set up and evolve Galarian Mr. Mime into Galarian Mr. Rime and use its Ball Jugg
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. kawayoo](/images/a09c3aceb3d44aab.webp)
+![Illus. kawayoo](/images/kingdra.webp)
 
 *Illus. kawayoo*
 
@@ -379,7 +379,7 @@ Bench and evolve Horsea, using Rare Candy to evolve them into Kingdra as soon as
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Tomokazu Komiya](/images/af47e2ace6493347.webp)
+![Illus. Tomokazu Komiya](/images/jellicent.webp)
 
 *Illus. Tomokazu Komiya*
 
@@ -416,7 +416,7 @@ Bench and evolve Frillish into Jellicent. Use Clay, Professor’s Research, and 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kazuma Koda](/images/4eaeb2554a2e01b9.webp)
+![Illus. Kazuma Koda](/images/luxray.webp)
 
 *Illus. Kazuma Koda*
 
@@ -454,7 +454,7 @@ Bench and evolve Shinx into Luxray with Rare Candy where possible and abuse Luxi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/8759d07e00c67275.webp)
+![Illus. PLANETA Tsuji](/images/tapu-koko-vmax.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -497,7 +497,7 @@ Bench Tapu Koko V and Voltorb early, evolving them as possible. Use Electrode's 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kouki Saitou](/images/0373dce5a8c5deda.webp)
+![Illus. Kouki Saitou](/images/primeape.webp)
 
 *Illus. Kouki Saitou*
 
@@ -544,7 +544,7 @@ Early game, bench Phanpy and Mankey and evolve Phanpy into Donphan. Use Donphan'
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. hatachu](/images/24e4178c8458b561.webp)
+![Illus. hatachu](/images/sandaconda.webp)
 
 *Illus. hatachu*
 
@@ -580,7 +580,7 @@ Use Level Ball and Gossifleur’s Call for Family attack to fish out Silicobra f
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/3b8e8c3dbae034eb.webp)
+![Illus. PLANETA Tsuji](/images/ss-urshifu.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -627,7 +627,7 @@ Get out Houndour and Single Strike Urshifu V on early turns so that they can evo
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/1a86177180eb44ee.webp)
+![Illus. PLANETA Tsuji](/images/rs-urshifu.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -673,7 +673,7 @@ Bench and evolve Remoraid, Dragapult V, and Rapid Strike Urshifu V. Spread damag
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ayaka Yoshida](/images/1c4e6b1334cea72b.webp)
+![Illus. Ayaka Yoshida](/images/tyranitar.webp)
 
 *Illus. Ayaka Yoshida*
 
@@ -713,7 +713,7 @@ Bench and build up Tyranitar V and Houndour, attaching Capture Energy to Tyranit
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Hasuno](/images/804fb645a9e13463.webp)
+![Illus. Hasuno](/images/bronzong.webp)
 
 *Illus. Hasuno*
 
@@ -751,7 +751,7 @@ Bench Bronzor and Copperajah V and evolve them as early as possible, taking adva
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/acc6acec847b244a.webp)
+![Illus. PLANETA Mochizuki](/images/corviknight.webp)
 
 *Illus. PLANETA Mochizuki*
 

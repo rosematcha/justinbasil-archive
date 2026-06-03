@@ -1,7 +1,7 @@
 ---
 title: "Mask of Change First Impressions (Twilight Masquerade)"
 description: "Now that we've seen the full reveal of Mask of Change from Japan, let's look at what's coming in May!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/66ffd6f5f8deb16d.webp"
+ogImage: "/images/mask-of-change-first-impressions-66ffd6.webp"
 publishDate: 2024-04-20
 youtubeId: "icqQH9daQKM"
 sourceUrl: "https://www.justinbasil.com/videos/mask-of-change-first-impressions-twilight-masquerade"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/6beb9b0b093b29be.webp)
+![](/images/mask-of-change-first-impressions.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Secondary Attackers"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/secondary-attackers"
 showHeading: false
 ---
@@ -20,7 +20,7 @@ Although not every deck includes one, Secondary Attackers are often critical par
 
 <div class="jb-row"><div class="jb-col-7">
 
-![](/images/a5315d2811151167.webp)
+![](/images/131-a5315d.webp)
 
 *Giratina VSTAR LOR 121*
 
@@ -32,7 +32,7 @@ A popular Single-Prize Attacker paired with Giratina VSTAR is Cramorant LOR 50. 
 
 </div><div class="jb-col-2">
 
-![](/images/ca5de906e25d7ff0.webp)
+![](/images/050.webp)
 
 *Cramorant LOR 50*
 
@@ -42,13 +42,13 @@ No matter the secondary attacker or attackers you choose for your deck, it’s i
 
 <div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-2">
 
-![](/images/f69f9bcf4c460b34.webp)
+![](/images/pgo-034-r-en-f69f9b.webp)
 
 *Lunatone PGO 34*
 
 </div><div class="jb-col-2">
 
-![](/images/b42a94f6e623ae84.webp)
+![](/images/066.webp)
 
 *Gengar LOR 66*
 
@@ -60,19 +60,19 @@ By contrast, Gengar has good synergy with a Colorless-type attacker, Hisuian Zor
 
 <div class="jb-row"><div class="jb-col-1"></div><div class="jb-col-2">
 
-![](/images/5cd42f9eb6bd46ed.webp)
+![](/images/147-5cd42f.webp)
 
 *Hisuian Zoroark VSTAR LOR 147*
 
 </div><div class="jb-col-2">
 
-![](/images/6c2853ad5e466276.webp)
+![](/images/131-7.webp)
 
 *Mewtwo VSTAR PGO 31*
 
 </div><div class="jb-col-2">
 
-![](/images/dac83963bb7b13e9.webp)
+![](/images/139-7.webp)
 
 *Solrock PGO 39*
 

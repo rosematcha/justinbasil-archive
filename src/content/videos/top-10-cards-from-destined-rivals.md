@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Destined Rivals!"
 description: "It's time to look at the top 10 cards from Destined Rivals!   Destined Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/121459307b40063b.webp"
+ogImage: "/images/thumbnail-top-10-from-destined-rivals-121459.webp"
 publishDate: 2025-05-14
 youtubeId: "LCSILu94SjM"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-destined-rivals"
@@ -27,7 +27,7 @@ It's time to look at the top 10 cards from Destined Rivals!
 
 
 
-![](/images/2a873a62d71cb275.webp)
+![](/images/thumbnail-top-10-from-destined-rivals.webp)
 
 
 

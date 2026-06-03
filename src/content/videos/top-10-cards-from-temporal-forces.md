@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Temporal Forces!"
 description: "It’s time to look at the top 10 cards from the upcoming Temporal Forces, which releases internationally on March 22nd!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/943d53bdab92c4fb.webp"
+ogImage: "/images/top-10-from-temporal-forces-943d53.webp"
 publishDate: 2024-03-04
 youtubeId: "PNR6Coj8g_M"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-temporal-forces"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/e444f9cc9b176a7a.webp)
+![](/images/top-10-from-temporal-forces.webp)
 
 
 

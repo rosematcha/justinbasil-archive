@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Magnezone Box vs. Charizard ex / Miraidon ex"
 description: "On today's Eternal Monday, a swarm of Magnezone charge up against Charizard ex and its Miraidon ex best friends."
-ogImage: "/images/46f2b72d950906d5.webp"
+ogImage: "/images/magnezone-v-charizard-46f2b7.webp"
 publishDate: 2025-04-14
 youtubeId: "T3pUniASzG4"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-magnezone-box-vs-charizard-ex-miraidon-ex"
@@ -19,7 +19,7 @@ On today's Eternal Monday, a swarm of Magnezone charge up against Charizard ex a
 
 
 
-![](/images/8dbe9089a9adeac3.webp)
+![](/images/magnezone-v-charizard.webp)
 
 
 

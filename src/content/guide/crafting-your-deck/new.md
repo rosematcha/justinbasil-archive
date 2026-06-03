@@ -1,6 +1,6 @@
 ---
 title: "Crafting Your Deck _Next"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/crafting-your-deck/new"
 showHeading: false
 ---
@@ -122,7 +122,7 @@ For our example deck, we’ll build around Aggron TWM 122, pictured below.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/7c39cba2844af060.webp)
+![](/images/twm-122-r-en-7c39cb.webp)
 
 *Aggron TWM 122*
 
@@ -136,7 +136,7 @@ So, in order to use this Aggron in our deck, we’ll need to include both Aron a
 
 Since we now know that we need to include both Aron and Lairon—we’ll start by looking at our options for Aron. Using the [Limitless TCG Card Database](https://limitlesstcg.com/cards/?cpp=default&display=grid&q=format%3Astandard%20Aron&show=all&sort=set), we can see that there are just two different Aron available to us in the Standard format. Each of these possibilities is pictured below.
 
-</div></div><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/cf0d181708b92eee.webp"><img src="/images/cf0d181708b92eee.webp" alt="Aron CRZ 87" loading="lazy"></a><figcaption>Aron CRZ 87</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/50017a9c8a9d19ec.webp"><img src="/images/50017a9c8a9d19ec.webp" alt="Aron TWM 120" loading="lazy"></a><figcaption>Aron TWM 120</figcaption></figure></div></div><div class="jb-col-4"></div></div></div></div>
+</div></div><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/crz-087-r-en.webp"><img src="/images/crz-087-r-en.webp" alt="Aron CRZ 87" loading="lazy"></a><figcaption>Aron CRZ 87</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/twm-120-r-en-50017a.webp"><img src="/images/twm-120-r-en-50017a.webp" alt="Aron TWM 120" loading="lazy"></a><figcaption>Aron TWM 120</figcaption></figure></div></div><div class="jb-col-4"></div></div></div></div>
 
 When considering which basic Pokémon to use for your Stage 1 or Stage 2 deck, you often will have more than one option—and some are certainly better than others. When selecting which Basic Pokémon to use, there are a few things to consider. In general, Basic Pokémon with one or more of the following attributes tend to be the best option:
 
@@ -152,7 +152,7 @@ We have two options to look at here. Aron CRZ 87 and Aron TWM 120, though in thi
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/cf0d181708b92eee.webp)
+![](/images/crz-087-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -163,7 +163,7 @@ We have two options to look at here. Aron CRZ 87 and Aron TWM 120, though in thi
 
 </div><div class="jb-col-2">
 
-![](/images/50017a9c8a9d19ec.webp)
+![](/images/twm-120-r-en-50017a.webp)
 
 </div><div class="jb-col-4">
 
@@ -180,7 +180,7 @@ Now that we’ve made our choices regarding Aron, we’ll add the Aron to our de
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/afd43243865a1e20.webp)
+![](/images/crz-088-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -190,7 +190,7 @@ This Lairon has less HP than its counterpart from Twilight Masquerade and also r
 
 </div><div class="jb-col-2">
 
-![](/images/e7edaa2845c708ce.webp)
+![](/images/twm-121-r-en-e7edaa.webp)
 
 </div><div class="jb-col-4">
 
@@ -268,7 +268,7 @@ As our deck focuses around a Stage 2 Pokémon, it can often take a couple of tur
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/d7fa43f3018d26cc.webp)
+![](/images/crz-094-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -280,7 +280,7 @@ To help ensure that we’re able to start with Volcanion to take advantage of it
 
 </div><div class="jb-col-2">
 
-![](/images/7ae427695cdcc389.webp)
+![](/images/crz-097-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -290,7 +290,7 @@ Heatran-GX’s biggest disadvantages are that it is a multi-prize Pokémon and o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a899ab6672ca4223.webp)
+![](/images/mew-085-r-en-a899ab.webp)
 
 </div><div class="jb-col-4">
 
@@ -300,7 +300,7 @@ Like Heatran-GX, Victini V is also a multi-prize Pokémon in a deck built around
 
 </div><div class="jb-col-2">
 
-![](/images/b68d6d7f3afb3343.webp)
+![](/images/twm-125-r-en-b68d6d.webp)
 
 </div><div class="jb-col-4">
 
@@ -385,31 +385,31 @@ Now, returning to the deck we’re building around Aggron, it’s time for us to
 <div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
   <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SSH_178_R_EN.png" data-type="image" src="/images/1a5a8abd70bbd014.webp" loading="lazy">
+                <img class="thumb-image" alt="SSH_178_R_EN.png" data-type="image" src="/images/ssh-178-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SHF_060_R_EN.png" data-type="image" src="/images/48f40bcddd7a06bd.webp" loading="lazy">
+                <img class="thumb-image" alt="SHF_060_R_EN.png" data-type="image" src="/images/shf-060-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="CEL_023_R_EN.png" data-type="image" src="/images/acde11fa3b44a7e8.webp" loading="lazy">
+                <img class="thumb-image" alt="CEL_023_R_EN.png" data-type="image" src="/images/cel-023-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="BRS_147_R_EN_LG.png" data-type="image" src="/images/e206d7a2e11adc94.webp" loading="lazy">
+                <img class="thumb-image" alt="BRS_147_R_EN_LG.png" data-type="image" src="/images/brs-147-r-en-lg.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SSP_178_R_EN_LG.png" data-type="image" src="/images/8b6035cc7e37e48a.webp" loading="lazy">
+                <img class="thumb-image" alt="SSP_178_R_EN_LG.png" data-type="image" src="/images/ssp-178-r-en-lg.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_189_Professor_s_Research_(Sada).png" data-type="image" src="/images/a9a18a29ba901ca5.webp" loading="lazy">
+                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_189_Professor_s_Research_(Sada).png" data-type="image" src="/images/pokemon-tcg-scarlet-violet-189-professor-s-research-sada.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_190_Professor_s_Research_(Turo).png" data-type="image" src="/images/fbf89837e1d3a633.webp" loading="lazy">
+                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_190_Professor_s_Research_(Turo).png" data-type="image" src="/images/pokemon-tcg-scarlet-violet-190-professor-s-research-turo.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
   </div>
@@ -428,23 +428,23 @@ For now, we’ll add four copies of Professor’s Research.
 </div></div></div><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
   <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="UL_078_R_EN_LG (1).png" data-type="image" src="/images/623ee22ee8f899e4.webp" loading="lazy">
+                <img class="thumb-image" alt="UL_078_R_EN_LG (1).png" data-type="image" src="/images/ul-078-r-en-lg-1.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="BKT_143_R_EN_LG.png" data-type="image" src="/images/52f666c109931fab.webp" loading="lazy">
+                <img class="thumb-image" alt="BKT_143_R_EN_LG.png" data-type="image" src="/images/bkt-143-r-en-lg.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="FLI_108_R_EN_LG.png" data-type="image" src="/images/6e5a29b35870fb0c.webp" loading="lazy">
+                <img class="thumb-image" alt="FLI_108_R_EN_LG.png" data-type="image" src="/images/fli-108-r-en-lg.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="FST_235_R_EN_LG.png" data-type="image" src="/images/c0120d9b215ae669.webp" loading="lazy">
+                <img class="thumb-image" alt="FST_235_R_EN_LG.png" data-type="image" src="/images/fst-235-r-en-lg-c0120d.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SVI_176_R_EN.png" data-type="image" src="/images/84a60aaee742df4d.webp" loading="lazy">
+                <img class="thumb-image" alt="SVI_176_R_EN.png" data-type="image" src="/images/svi-176-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
   </div>
@@ -464,7 +464,7 @@ Judge may still worth testing in the future, but for now, we’ll pass on it.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fadfd7276b286a51.webp)
+![](/images/paf-080-r-en-fadfd7.webp)
 
 </div><div class="jb-col-4">
 
@@ -474,7 +474,7 @@ ensures that your hand stays filled by letting you draw until you have six cards
 
 </div><div class="jb-col-2">
 
-![](/images/0101740c462141fa.webp)
+![](/images/twm-145-r-en-010174.webp)
 
 </div><div class="jb-col-4">
 
@@ -484,7 +484,7 @@ both offers a shuffle and draw option that doesn’t potential benefit your oppo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a47f4f801a5ddda.webp)
+![](/images/asr-150-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -498,7 +498,7 @@ Next, let’s look at a few Pokémon that may be able to help us draw additional
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/fd0cf773b1be483f.webp)
+![](/images/crz-045-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -510,7 +510,7 @@ Like both Salazzle and Pidgeotto, Cinccino is certainly a card to keep in mind d
 
 </div><div class="jb-col-2">
 
-![](/images/9f9961124ccf3c78.webp)
+![](/images/mew-085-r-en-9f9961.webp)
 
 </div><div class="jb-col-4">
 
@@ -522,7 +522,7 @@ We’ll include one copy of Oranguru in our deck list.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/76b4aadcb654f66a.webp)
+![](/images/brs-121-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -534,7 +534,7 @@ Decks that run Crobat V tend to run 1 copy. For now, we’ll pass on it, but it�
 
 </div><div class="jb-col-2">
 
-![](/images/5951c5cded666eeb.webp)
+![](/images/sit-068-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -617,7 +617,7 @@ The single most important Item card in nearly every deck is Quick Ball, but ther
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/3ea70a6161017e87.webp)
+![](/images/tef-144-r-en-3ea70a.webp)
 
 </div><div class="jb-col-4">
 
@@ -629,7 +629,7 @@ As it’s critical to be able to find our Charmander, Charizard, and Volcanion a
 
 </div><div class="jb-col-2">
 
-![](/images/f052e1d33c280c2b.webp)
+![](/images/paf-084-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -641,7 +641,7 @@ As merely relying on draw to help us find our Basic Pokémon is not a good idea,
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/945994ab1786c4e5.webp)
+![](/images/paf-091-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -653,7 +653,7 @@ As it’s important to find our main attacker, we’ll include 2 copies of Evolu
 
 </div><div class="jb-col-2">
 
-![](/images/ec29edaaee6d4d97.webp)
+![](/images/pal-183-r-en-ec29ed.webp)
 
 </div><div class="jb-col-4">
 
@@ -663,7 +663,7 @@ As it’s critical to be able to find our Charmander, Charizard, and Volcanion a
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3c93fa0c97c58ec6.webp)
+![](/images/sit-153-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -746,19 +746,19 @@ Our deck, like all decks, needs cards that will allow us to gust up our opponent
 <div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
   <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="PAL_172_R_EN.png" data-type="image" src="/images/a5837d011ea27d75.webp" loading="lazy">
+                <img class="thumb-image" alt="PAL_172_R_EN.png" data-type="image" src="/images/pal-172-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="BRS_132_R_EN.png" data-type="image" src="/images/5c350d21ca9a6ae4.webp" loading="lazy">
+                <img class="thumb-image" alt="BRS_132_R_EN.png" data-type="image" src="/images/brs-132-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SHF_058_R_EN.png" data-type="image" src="/images/c3f6c9edd7430f8a.webp" loading="lazy">
+                <img class="thumb-image" alt="SHF_058_R_EN.png" data-type="image" src="/images/shf-058-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="RCL_154_R_EN.png" data-type="image" src="/images/5e0d7fac7ad8c122.webp" loading="lazy">
+                <img class="thumb-image" alt="RCL_154_R_EN.png" data-type="image" src="/images/rcl-154-r-en.webp" loading="lazy">
               <div class="color-overlay"></div>
             </div>
   </div>
@@ -778,7 +778,7 @@ We’ll include two copies of Boss’s Orders.
 
 </div><div class="jb-col-2">
 
-![](/images/4479489fd61c5760.webp)
+![](/images/svi-187-r-en-447948.webp)
 
 </div><div class="jb-col-4">
 
@@ -788,7 +788,7 @@ We’ll pass on Pokémon Catcher.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8ea2a90b2c6fd4ab.webp)
+![](/images/par-160-r-en-8ea2a9.webp)
 
 </div><div class="jb-col-4">
 
@@ -796,7 +796,7 @@ We’ll pass on Pokémon Catcher.
 
 </div><div class="jb-col-2">
 
-![](/images/9dbcddfea96ddb74.webp)
+![](/images/tef-157-r-en-9dbcdd.webp)
 
 </div><div class="jb-col-4">
 
@@ -884,7 +884,7 @@ Starting with the average energy count gives us a good baseline from which to be
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/f095e5eeb6659071.webp)
+![](/images/asr-107-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -898,7 +898,7 @@ We’ve already included 4 copies of Welder.
 
 </div><div class="jb-col-2">
 
-![](/images/a3889131e4bae96e.webp)
+![](/images/tef-114-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -910,7 +910,7 @@ We’ll include two copies of Giant Hearth.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/374417222d370eb1.webp)
+![](/images/par-163-r-en-374417.webp)
 
 </div><div class="jb-col-4">
 
@@ -924,7 +924,7 @@ We’ll pass on including Energy Spinner.
 
 </div><div class="jb-col-2">
 
-![](/images/e2bf2856fadf9773.webp)
+![](/images/svi-172-r-en-e2bf28.webp)
 
 </div><div class="jb-col-4">
 
@@ -1013,7 +1013,7 @@ Now, let’s add the 10 Basic Metal Energy and the two copies of Giant Hearth to
 </div></a>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/83d36e479b02342a.webp)
+![](/images/twm-131-r-en-83d36e.webp)
 
 </div><div class="jb-col-4">
 
@@ -1027,7 +1027,7 @@ With this in mind, we’ll pass on including Jirachi in our deck for now. Howeve
 
 </div><div class="jb-col-2">
 
-![](/images/6c52532f4618a37c.webp)
+![](/images/obf-186-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1039,7 +1039,7 @@ We’ll keep Bill’s Analysis in the back of our minds during testing, but refr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/36065a325dc04cb0.webp)
+![](/images/svi-186-r-en-36065a.webp)
 
 </div><div class="jb-col-4">
 
@@ -1049,7 +1049,7 @@ For now, we’ll pass on including Pokégear 3.0, but it’s a card we should tr
 
 </div><div class="jb-col-2">
 
-![](/images/2dc4a082e0701a07.webp)
+![](/images/paf-089-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1059,7 +1059,7 @@ Rare Candy also allows us to drastically trim down the number of Charmeleon we h
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/18d6b66cf29376de.webp)
+![](/images/twm-163-r-en-18d6b6.webp)
 
 </div><div class="jb-col-4">
 
@@ -1067,7 +1067,7 @@ Rare Candy also allows us to drastically trim down the number of Charmeleon we h
 
 </div><div class="jb-col-2">
 
-![](/images/92c5252ad6bf6c37.webp)
+![](/images/sit-156-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1156,7 +1156,7 @@ When one of our Pokémon is knocked out, it’s important to have a pivot option
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ddc3c71d486e6308.webp)
+![](/images/svi-194-r-en-ddc3c7.webp)
 
 </div><div class="jb-col-4">
 
@@ -1168,7 +1168,7 @@ Switch is a common card in many decks and will make it easier for us to use Volc
 
 </div><div class="jb-col-2">
 
-![](/images/55e77bb59b326c8a.webp)
+![](/images/tef-159-r-en-55e77b.webp)
 
 </div><div class="jb-col-4">
 
@@ -1180,7 +1180,7 @@ We’ll include two copies of Air Balloon
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ed64cf961648e6ab.webp)
+![](/images/twm-154-r-en-ed64cf.webp)
 
 </div><div class="jb-col-4">
 
@@ -1192,7 +1192,7 @@ We may revisit the idea of including Scoop Up Net in our deck as the card works 
 
 </div><div class="jb-col-2">
 
-![](/images/d7b3483c6a06931c.webp)
+![](/images/twm-162-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1286,7 +1286,7 @@ When a deck only contains 60 cards, it’s likely that you’ll need to take adv
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/83686ed60a7f1c10.webp)
+![](/images/twm-155-r-en-83686e.webp)
 
 </div><div class="jb-col-4">
 
@@ -1298,7 +1298,7 @@ It’s definitely worth keeping Rosa in mind as we begin testing our deck, but f
 
 </div><div class="jb-col-2">
 
-![](/images/587684eaaffc3ca3.webp)
+![](/images/pal-188-r-en-587684.webp)
 
 </div><div class="jb-col-4">
 
@@ -1310,7 +1310,7 @@ For now, we’ll include 2 copies of Ordinary Rod, but as we test our deck, we m
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d5c87c5aa34f1ac3.webp)
+![](/images/svi-182-r-en-d5c87c.webp)
 
 </div><div class="jb-col-4">
 
@@ -1320,7 +1320,7 @@ Most decks don’t require the use of Pal Pad, so for now, we’ll keep it in mi
 
 </div><div class="jb-col-2">
 
-![](/images/c37d0deaf6eeb6ed.webp)
+![](/images/svi-179-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1417,7 +1417,7 @@ Although our deck doesn’t have a focus on disrupting our opponent’s strategy
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/1f2b8d914384af82.webp)
+![](/images/twm-165-r-en-1f2b8d.webp)
 
 </div><div class="jb-col-4">
 
@@ -1431,7 +1431,7 @@ We’ll keep Reset Stamp in mind as we begin testing our deck.
 
 </div><div class="jb-col-2">
 
-![](/images/fadfd7276b286a51.webp)
+![](/images/paf-080-r-en-fadfd7.webp)
 
 </div><div class="jb-col-4">
 
@@ -1471,7 +1471,7 @@ As we haven’t made any changes to our deck list after reviewing our Disruption
 </div></a>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1aff4a0dcade9f9a.webp)
+![](/images/lor-066-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1485,7 +1485,7 @@ We won’t be adding Giant Bomb to our deck list, but we’ll keep it in mind du
 
 </div><div class="jb-col-2">
 
-![](/images/189a5a55a5d9107a.webp)
+![](/images/asr-142-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -1499,7 +1499,7 @@ We’ll pass on including Galarian Zigzagoon for now, but will keep it in mind d
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e90ebe31b009a53d.webp)
+![](/images/tef-152-r-en-e90ebe.webp)
 
 </div><div class="jb-col-4">
 
@@ -1511,7 +1511,7 @@ We’ll pass on including Vitality Band.
 
 </div><div class="jb-col-2">
 
-![](/images/66efe60d404763d9.webp)
+![](/images/lor-156-r-en.webp)
 
 </div><div class="jb-col-4">
 

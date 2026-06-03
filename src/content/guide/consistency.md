@@ -1,6 +1,6 @@
 ---
 title: "Consistency and Setup"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/consistency"
 showHeading: false
 ---
@@ -49,7 +49,7 @@ Lugia VSTAR SIT 139 Rare Candy SVI 191
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/b01c2d4f54aca878.webp)
+![](/images/pokemon-tcg-pokemon-go-pokestop-68.webp)
 
 </div><div class="jb-col-4">
 
@@ -59,7 +59,7 @@ Many decks won’t play PokéStop, but those that do tend to play 2-3 copies of 
 
 </div><div class="jb-col-2">
 
-![](/images/0282fb6d9381d17b.webp)
+![](/images/156-0282fb.webp)
 
 </div><div class="jb-col-4">
 
@@ -69,7 +69,7 @@ Decks that don’t prefer to use another VSTAR Power, or decks that wouldn’t u
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/88275321709ae333.webp)
+![](/images/sv1-en-186.webp)
 
 *Other prints: HS 96, UNB 182, SSH 186*
 
@@ -87,7 +87,7 @@ Decks that run Pokégear 3.0 tend to include 3-4 copies.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/7d64d6619eae88b0.webp)
+![](/images/140-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -97,7 +97,7 @@ Decks that run Lumineon V tend to include just 1 copy, but some decks go so far 
 
 </div><div class="jb-col-2">
 
-![](/images/9aef8576e4c05f75.webp)
+![](/images/brs-123-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -109,7 +109,7 @@ Decks that include Arceus VSTAR tend to include 2-3 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9668b01b7794e964.webp)
+![](/images/1133-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -123,7 +123,7 @@ Most decks will not play Oranguru ASR 133. Those that would want it would be unl
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/f0f5d3de1dc99ea9.webp)
+![](/images/1135-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -133,7 +133,7 @@ Decks tend not to run Adaman. However, decks that find themselves wanting such a
 
 </div><div class="jb-col-2">
 
-![](/images/2304d4c5711c0a76.webp)
+![](/images/1147-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -143,7 +143,7 @@ Decks that run Irida tend to run 3-4 copies.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0d7d4b829ac99900.webp)
+![](/images/svi-166-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -159,7 +159,7 @@ Decks that run Arven tend to include 3-4 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/4c9962eae0b78820.webp)
+![](/images/1146-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -175,7 +175,7 @@ Decks that run Hisuian Heavy Ball tend to run 1-2 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/68122ce63e054f7b.webp)
+![](/images/139-68122c.webp)
 
 </div><div class="jb-col-4">
 
@@ -185,7 +185,7 @@ Decks that include Lugia VSTAR tend to include 2-3 copies of the card, in additi
 
 </div><div class="jb-col-2">
 
-![](/images/69f52eb5249a00a2.webp)
+![](/images/paf-089-r-en-lg.webp)
 
 </div><div class="jb-col-4">
 

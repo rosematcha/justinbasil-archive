@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 49: Supercharged Breaker & Pokemon TCG Pocket Details!"
 description: "This week we discuss the first cards from \"Supercharged Breaker,\" the winners of the 2024 Illustration Contest, and all the newly revealed \"Pokemon TCG Pocket\" details!"
-ogImage: "/images/ba5a3359e96dd0eb.webp"
+ogImage: "/images/venomoth-copy-768x432-ba5a33.webp"
 publishDate: 2024-09-22
 youtubeId: "WGFJ958hDeI"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-49-supercharged-breaker-amp-pokemon-tcg-pocket-details"
@@ -19,7 +19,7 @@ This week we discuss the first cards from "Supercharged Breaker," the winners of
 
 
 
-![](/images/cc87a5c4b031e1b6.webp)
+![](/images/venomoth-copy-768x432.webp)
 
 
 

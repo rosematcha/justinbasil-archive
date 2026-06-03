@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Trainer Cards I'd Love to See Reprinted"
 description: "In this bonus video, I look at a handful of Trainer cards that I'd love to see make a return to the Standard format!   Keep an eye out for the start of my Obsidian Flames coverage this Friday!"
-ogImage: "/images/fba65ab426095e1b.webp"
+ogImage: "/images/top-5-trainer-reprints-fba65a.webp"
 publishDate: 2023-06-21
 youtubeId: "9ajSfiNV_Ss"
 sourceUrl: "https://www.justinbasil.com/videos/top-5-trainer-cards-id-love-to-see-reprinted"
@@ -21,7 +21,7 @@ Keep an eye out for the start of my Obsidian Flames coverage this Friday!
 
 
 
-![](/images/960b5ab1e07e37be.webp)
+![](/images/top-5-trainer-reprints.webp)
 
 
 

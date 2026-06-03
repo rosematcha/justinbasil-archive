@@ -1,7 +1,7 @@
 ---
 title: "Pokémon TCG For Newbies: How to Fill Out a Deck List"
 description: "New to the Pokémon Trading Card Game but need to fill out a deck list for an upcoming tournament? Here's the crash course you need to fill it out with confidence!    Links       Play! Pokémon Rules & Resources Page      RK9 Deck List Editor (Sign-in Required)"
-ogImage: "/images/767ba74eb292c376.webp"
+ogImage: "/images/deck-list-video-767ba7.webp"
 publishDate: 2023-12-27
 youtubeId: "Rqtp9siKTu4"
 sourceUrl: "https://www.justinbasil.com/videos/pokmon-tcg-for-newbies-how-to-fill-out-a-deck-list"
@@ -24,7 +24,7 @@ New to the Pokémon Trading Card Game but need to fill out a deck list for an up
 
 
 
-![](/images/3bacd231c1f108df.webp)
+![](/images/deck-list-video.webp)
 
 
 

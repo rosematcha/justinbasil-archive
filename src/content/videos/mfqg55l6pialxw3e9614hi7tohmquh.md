@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 3: Paldean Clodsire ex vs. Chien-Pao ex"
 description: "Paldea Evolved testing continues! Up next, newcomer Paldean Clodsire ex gets toxic against last week's violent winner, Chien-Pao ex!  Check out these links to learn more!   Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Arch"
-ogImage: "/images/778f303201994735.webp"
+ogImage: "/images/part-3-778f30.webp"
 publishDate: 2023-04-28
 youtubeId: "j9DlSeLe55w"
 sourceUrl: "https://www.justinbasil.com/videos/mfqg55l6pialxw3e9614hi7tohmquh"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/f65ea715a8861650.webp)
+![](/images/part-3.webp)
 
 
 

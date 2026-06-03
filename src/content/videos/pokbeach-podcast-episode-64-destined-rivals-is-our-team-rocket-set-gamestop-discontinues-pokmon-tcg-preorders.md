@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 64: “Destined Rivals” is Our Team Rocket Set, GameStop Discontinues Pokémon TCG Preorders!"
 description: "This week we discuss the teasing of our Team Rocket set \"Destined Rivals,\" GameStop discontinuing preorders for Pokémon TCG products, new Arven and Cynthia cards from \"Heat Wave Arena,\" speculation about \"Pokémon Day\" reveals, and more!"
-ogImage: "/images/71bc9bf646ec571d.webp"
+ogImage: "/images/kadabra-copy-768x432-71bc9b.webp"
 publishDate: 2025-02-22
 youtubeId: "tR3z91OFYKs"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-64-destined-rivals-is-our-team-rocket-set-gamestop-discontinues-pokmon-tcg-preorders"
@@ -19,7 +19,7 @@ This week we discuss the teasing of our Team Rocket set "Destined Rivals," GameS
 
 
 
-![](/images/4799154a613923eb.webp)
+![](/images/kadabra-copy-768x432.webp)
 
 
 

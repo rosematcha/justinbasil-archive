@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 7: Iron Valiant ex vs. Skeledirge ex"
 description: "Today, we wrap up our bonus videos for Paradox Rift! In this bonus video, Iron Valiant ex takes on Skeledirge ex. Will these Tachyon Bits put an end to Skeledirge's Incendiary Song?  Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Vi"
-ogImage: "/images/235a85d8f45fb3fc.webp"
+ogImage: "/images/bonus-7-235a85.webp"
 publishDate: 2023-11-01
 youtubeId: "_c1ijNw6TCM"
 sourceUrl: "https://www.justinbasil.com/videos/7638b9shxrcg533mi4xg2sppqyoff3"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/bd526f937beb1cf1.webp)
+![](/images/bonus-7.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blindside Natu vs. Rapid Strike Urshifu VMAX"
 description: "In today's Eternal Monday, Natu from Roaring Skies buddies up with Technical Machine: Blindside to take on Rapid Strike Urshifu VMAX from Battle Styles.  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/aa227b01b86e5805.webp"
+ogImage: "/images/natu-vs-urshifu-aa227b.webp"
 publishDate: 2024-01-29
 youtubeId: "i_2rQjLeC8g"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blindside-natu-vs-rapid-strike-urshifu-vmax"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/bd6b0620005b8ef2.webp)
+![](/images/natu-vs-urshifu.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "NinecardTCG's Webcam Wars! Spidops ex vs. Koraidon ex"
 description: "In the latest of NinecardTCG's Webcam Wars, Spidops ex takes on Koraidon ex. Will Koraidon find itself caught in a web of misery and woe, or will Spidops find itself squashed like a bug?"
-ogImage: "/images/38155c137c9b6a86.webp"
+ogImage: "/images/36c2e2d9-d67a-4e3b-a164-81a81b14385a-38155c.webp"
 publishDate: 2023-03-08
 youtubeId: "kxfALEbwNyU"
 sourceUrl: "https://www.justinbasil.com/videos/ninecardtcgs-webcam-war-spidops-ex-vs-koraidon-ex"
@@ -19,7 +19,7 @@ In the latest of NinecardTCG's Webcam Wars, Spidops ex takes on Koraidon ex. Wil
 
 
 
-![](/images/f94de6983a4e7fa9.webp)
+![](/images/36c2e2d9-d67a-4e3b-a164-81a81b14385a.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Miraidon ex vs. Tsareena V"
 description: "In this week's Eternal Monday, Miraidon ex plays fetch with the many Pokémon that Tsareena V's quick kicks toss into the discard pile!"
-ogImage: "/images/0e3d19f47d94e42a.webp"
+ogImage: "/images/december-24-miraidon-ex-vs-tsareena-v-0e3d19.webp"
 publishDate: 2024-12-23
 youtubeId: "BtNdZKb2uuw"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-miraidon-ex-vs-tsareena-v"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Miraidon ex plays fetch with the many Pokémon th
 
 
 
-![](/images/b149815574c343ba.webp)
+![](/images/december-24-miraidon-ex-vs-tsareena-v.webp)
 
 
 

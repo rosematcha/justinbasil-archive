@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Alternate Formats Ban List Update: All Other Formats"
 description: "In addition to the ban list updates affecting the  345 format , the  Eternal format , and the  Aceless format , various other alternate formats have been impacted by ban list changes.    In the Dream, Pauper, Quick Draw, Type Focus,   and   Alola Formats   The following card is no longer banned in t"
-ogImage: "/images/01096a9c632126d7.webp"
+ogImage: "/images/unb-167-r-en-lg-01096a.webp"
 publishDate: 2024-07-25
 sourceUrl: "https://www.justinbasil.com/resources/shrouded-fable-alternate-formats-ban-list-update-all-other-formats"
 showHeading: false
@@ -21,7 +21,7 @@ The following card is no longer banned in the listed formats:
     <li><a href="https://pkmncards.com/card/dusk-stone-unbroken-bonds-unb-167/">Dusk Stone UNB 167</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/4a158685a1773685.webp"><img src="/images/4a158685a1773685.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-167-r-en-lg-4a1586.webp"><img src="/images/unb-167-r-en-lg-4a1586.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure></div>
 
 **In the Dream, Quick Draw, and Type Focus Formats**
 
@@ -36,7 +36,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://pkmncards.com/card/mismagius-unbroken-bonds-unb-78/">Mismagius UNB 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/853e6ad98f5930f4.webp"><img src="/images/853e6ad98f5930f4.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8b90d101c59ab22e.webp"><img src="/images/8b90d101c59ab22e.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f9466f9b957e7aa9.webp"><img src="/images/f9466f9b957e7aa9.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2b87d14d0285227.webp"><img src="/images/c2b87d14d0285227.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops.webp"><img src="/images/dusclops.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
 
 **In the Alola Format**
 
@@ -49,7 +49,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://pkmncards.com/card/mismagius-unbroken-bonds-unb-78/">Mismagius UNB 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/f9466f9b957e7aa9.webp"><img src="/images/f9466f9b957e7aa9.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2b87d14d0285227.webp"><img src="/images/c2b87d14d0285227.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
 
 **In the Pauper Format**
 
@@ -61,5 +61,5 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/sfa/19/">Dusclops SFA 19</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/68ed88573f46aa0a.webp"><img src="/images/68ed88573f46aa0a.webp" alt="Dusclops.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy"></a></figure></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 6: Ancient Box vs. Great Tusk Mill"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/28a80f77e498047e.webp"
+ogImage: "/images/part-6-28a80f.webp"
 publishDate: 2024-02-09
 youtubeId: "AxEHKk5z4aE"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-6-ancient-box-vs-great-tusk-mill"
@@ -27,7 +27,7 @@ Our testing of Temporal Forces continues! We now look to the post-rotation Tempo
 
 
 
-![](/images/ed488bd60a99c765.webp)
+![](/images/part-6-ed488b.webp)
 
 
 

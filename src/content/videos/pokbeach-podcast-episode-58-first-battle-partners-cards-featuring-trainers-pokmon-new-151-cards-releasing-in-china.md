@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 58: First \"Battle Partners\" Cards Featuring Trainer's Pokémon, New \"151\" Cards Releasing in China!"
 description: "A big week for news! We discuss the first card reveals from \"Battle Partners,\" our \"Journey Together\" English set, a new \"Mythical Island\" Pocket set, beautiful Chinese-exclusive cards releasing for \"151,\" the McDonald's \"Dragon Discovery\" promotion,"
-ogImage: "/images/e71de968a82eed46.webp"
+ogImage: "/images/growlithe-768x432-e71de9.webp"
 publishDate: 2024-12-22
 youtubeId: "dn6vLGLkoVw"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-58-first-battle-partners-cards-featuring-trainers-pokmon-new-151-cards-releasing-in-china"
@@ -19,7 +19,7 @@ A big week for news! We discuss the first card reveals from "Battle Partners," o
 
 
 
-![](/images/4c2d66e08589a29b.webp)
+![](/images/growlithe-768x432.webp)
 
 
 

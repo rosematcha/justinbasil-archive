@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Articuno Lock vs. Regigigas"
 description: "In today's Eternal Monday, Regigigas and friends get their Regi Moves on to take on Articuno Paralysis Lock!"
-ogImage: "/images/e6c47bf1af2578d5.webp"
+ogImage: "/images/r3-thumbnail-e6c47b.webp"
 publishDate: 2023-10-16
 youtubeId: "00WMtOlh8fc"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-articuno-lock-vs-regigigas"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Regigigas and friends get their Regi Moves on to take
 
 
 
-![](/images/7148b23e19902686.webp)
+![](/images/r3-thumbnail.webp)
 
 
 

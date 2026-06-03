@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format Deck Tier List (Surging Sparks Edition)"
 description: "In today's Eternal Monday, my friends and I discuss the Eternal format, giving place to each of the most popular decks in the format's Surging Sparks meta.  https://tiermaker.com/create/eternal-format-tier-list-surging-sparks-17369701"
-ogImage: "/images/f25c08cebf5835bf.webp"
+ogImage: "/images/ssp-eternal-tier-list-f25c08.webp"
 publishDate: 2025-04-02
 youtubeId: "7N0sltl613E"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-deck-tier-list-surging-sparks-edition"
@@ -21,7 +21,7 @@ https://tiermaker.com/create/eternal-format-tier-list-surging-sparks-17369701
 
 
 
-![](/images/39796148163b4366.webp)
+![](/images/ssp-eternal-tier-list.webp)
 
 
 

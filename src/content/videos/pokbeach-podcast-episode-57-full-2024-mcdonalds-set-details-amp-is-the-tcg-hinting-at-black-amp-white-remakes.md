@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 57: Full 2024 McDonald's Set Details & Is the TCG Hinting at Black & White Remakes?"
 description: "This week we discuss the McDonald's 2024 promotion that's mysteriously missing from the United States, all the details on the secret rares from \"Terastal Festival ex,\" and we question if the TCG is hinting at \"Black & White\" game remakes."
-ogImage: "/images/e8286fe49bc7250d.webp"
+ogImage: "/images/primeape-copy-e8286f.webp"
 publishDate: 2024-12-09
 youtubeId: "42tXiP2FsiI"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-57-full-2024-mcdonalds-set-details-amp-is-the-tcg-hinting-at-black-amp-white-remakes"
@@ -19,7 +19,7 @@ This week we discuss the McDonald's 2024 promotion that's mysteriously missing f
 
 
 
-![](/images/d3c3bb95d3ddb811.webp)
+![](/images/primeape-copy.webp)
 
 
 

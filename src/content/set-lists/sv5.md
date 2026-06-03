@@ -1,6 +1,6 @@
 ---
 title: "Temporal Forces Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv5"
 showHeading: false
 ---
@@ -8,7 +8,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/c5c2c2f1e4337a90.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our fifth Scarlet &amp; Violet set by visiting the articles below.
@@ -282,7 +282,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 
 <div class="jb-row"><div class="jb-col-5"></div><div class="jb-col-2">
 
-![](/images/7bb3396df54fce64.webp)
+![](/images/ace-specs-return.webp)
 
 </div><div class="jb-col-5"></div></div><div class="jb-row"><div class="jb-col-3">
 

@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 9: Feraligatr vs. Ancient Box"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/927a8a8ff20ca538.webp"
+ogImage: "/images/bonus-9-927a8a.webp"
 publishDate: 2024-03-06
 youtubeId: "aBhDrfkvE28"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-9-feraligatr-vs-ancient-box"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/5725a4136ec2e5a6.webp)
+![](/images/bonus-9.webp)
 
 
 

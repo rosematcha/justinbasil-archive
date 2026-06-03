@@ -1,7 +1,7 @@
 ---
 title: "Opening: The Missing Scarlet & Violet Booster Box!"
 description: "The missing booster box came in from the vendor, so now, it's time to crack it open to see what we pull!  Learn more about the set and about the Standard format rotation at the links below.   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prosp"
-ogImage: "/images/bf995d6052c72b6b.webp"
+ogImage: "/images/missing-box-opening-bf995d.webp"
 publishDate: 2023-04-25
 youtubeId: "52vcdUGU2-E"
 sourceUrl: "https://www.justinbasil.com/videos/opening-the-missing-scarlet-amp-violet-booster-box"
@@ -33,7 +33,7 @@ Learn more about the set and about the Standard format rotation at the links bel
 
 
 
-![](/images/4079d054ba5e964e.webp)
+![](/images/missing-box-opening.webp)
 
 
 

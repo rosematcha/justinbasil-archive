@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Bonus 5: Marowak vs Terapagos ex"
 description: "In this week's bonus video, it's Cubone and Marowak taking on the sparkly turtle, Terapagos ex!"
-ogImage: "/images/ac5a0a742e6c3085.webp"
+ogImage: "/images/bonus-5-ac5a0a.webp"
 publishDate: 2024-08-21
 youtubeId: "lK0-NmgEDMM"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-bonus-5-marowak-vs-terapagos-ex"
@@ -19,7 +19,7 @@ In this week's bonus video, it's Cubone and Marowak taking on the sparkly turtle
 
 
 
-![](/images/427e8bce7575ed02.webp)
+![](/images/bonus-5-427e8b.webp)
 
 
 

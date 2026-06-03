@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 6: Lillie Rondo Box vs. N"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/7fb162f13c6fcefc.webp"
+ogImage: "/images/part-6-7fb162.webp"
 publishDate: 2025-03-01
 youtubeId: "8vgea3Up9o0"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-6-lillie-rondo-box-vs-n"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/7285efe895050462.webp)
+![](/images/part-6.webp)
 
 
 

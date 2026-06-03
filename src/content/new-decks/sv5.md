@@ -1,6 +1,6 @@
 ---
 title: "Temporal Forces (TEF, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "ILH6nIDyAF0"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv5"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/c5c2c2f1e4337a90.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-white-center-margin5">New Decks from Temporal Forces</h1>
     <h3 class="jb-smallcaps-center">And Other Decks Worth Considering After Rotation</h3>
     <hr>
@@ -101,7 +101,7 @@ Below is a list of archetypes that may be reasonably playable after this year’
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f8d8298ba29d50cb.webp)
+![](/images/torterra-ex-f8d829.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -150,7 +150,7 @@ Using every search option available to you, fill your board with Grass-type Pok�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e34fa8dcea86ed8d.webp)
+![](/images/meowscarada-ex.webp)
 
 *Illus. 5ban Graphics*
 
@@ -184,7 +184,7 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0d5082487cbe8c7a.webp)
+![](/images/espathra-ex-0d5082.webp)
 
 *Illus. takuyoa*
 
@@ -218,7 +218,7 @@ Play down and evolve Natu into Xatu, using Xatu’s Clairvoyant Sense Ability to
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/b892b09b5bb07627.webp)
+![](/images/incineroar-ex-b892b0.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -267,7 +267,7 @@ Build your board up by getting a Bidoof or two into play alongside as many Litte
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/c8a19144e8a34b5e.webp)
+![](/images/gouging-fire-ex-c8a191.webp)
 
 *Illus. 5ban Graphics*
 
@@ -311,7 +311,7 @@ Using Magma Basin and manual attachments, power up and take knockouts with eithe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e25cdbc9d3a96f35.webp)
+![](/images/feraligatr-e25cdb.webp)
 
 *Illus. GOSSAN*
 
@@ -361,7 +361,7 @@ Build your board up by getting a Pidgey or two into play alongside as many Totod
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d1996fb3ffacea1c.webp)
+![](/images/chien-pao-ex-d1996f.webp)
 
 *Illus. aky CG Works*
 
@@ -411,7 +411,7 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d942ea104f23f9ac.webp)
+![](/images/garchomp-ex-d942ea.webp)
 
 *Illus. 5ban Graphics*
 
@@ -461,7 +461,7 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/60a1526c7bf87614.webp)
+![](/images/origin-forme-palkia-vstar.webp)
 
 *Illus. aky CG Works*
 
@@ -495,7 +495,7 @@ Using the deck’s various search cards and draw options, seek out and bench as 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/07f3f922d39c23a4.webp)
+![](/images/vikavolt-07f3f9.webp)
 
 *Illus. Hitoshi Ariga*
 
@@ -543,7 +543,7 @@ Using Rare Candy to evolve up Grubbin into a Vikavolt, manually evolve other Gru
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dfac2e4a0dffa7ac.webp)
+![](/images/miraidon-ex-dfac2e.webp)
 
 *Illus. 5ban Graphics*
 
@@ -594,7 +594,7 @@ Using Electric Generator and Energy Sticker, power up Miraidon ex and the deck�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e98608523cbcbe84.webp)
+![](/images/gardevoir-ex-e98608.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -641,7 +641,7 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4c9c93fb4191d8b0.webp)
+![](/images/banette-ex-4c9c93.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -689,7 +689,7 @@ Use Banette ex’s Eternal Darkness attack to slow down your opponent’s setup,
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/bbe1b40ab239d52b.webp)
+![](/images/cramorant.webp)
 
 *Illus. Midori Harada*
 
@@ -736,7 +736,7 @@ Source: Kento Imao - 5th Place Champions League Fukuoka
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/cede70005241b16f.webp)
+![](/images/iron-valiant-ex-cede70.webp)
 
 *Illus. aky CG Works*
 
@@ -771,7 +771,7 @@ Spread damage and even take Knock Outs using Iron Valiant ex’s Tachyon Bits Ab
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1fdbdac68d0fc63a.webp)
+![](/images/iron-crown-ex-1fdbda.webp)
 
 *Illus. 5ban Graphics*
 
@@ -819,7 +819,7 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/30a030897ab82e80.webp)
+![](/images/great-tusk-mill.webp)
 
 *Illus. GIDORA*
 
@@ -867,7 +867,7 @@ Using either Double Turbo Energy or Professor Sada’s Vitality and a manual att
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d177646686b1f32f.webp)
+![](/images/roaring-moon-d17764.webp)
 
 *Illus. hncl*
 
@@ -921,7 +921,7 @@ Early on, attack with Koraidon’s Primordial Beatdown attack which does 30 dama
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/55ac4f12deb2b314.webp)
+![](/images/paf-charizard-ex.webp)
 
 *Illus. AKIRA EGAWA*
 
@@ -955,7 +955,7 @@ Build your board up by getting a Bidoof or two into play alongside as many Charm
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0d7d660fb8b04bd0.webp)
+![](/images/charizard-ex-obf.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1003,7 +1003,7 @@ Build your board up by getting a Pidgey or two into play alongside as many Charm
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/fb5db4f70ae7bb3e.webp)
+![](/images/roaring-moon-ex-par.webp)
 
 *Illus. takuyoa*
 
@@ -1053,7 +1053,7 @@ Using a combination of Earthen Vessel, Dark Patch, and Professor Sada’s Vitali
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/020205013035ce74.webp)
+![](/images/scizor-ex-020205.webp)
 
 *Illus. toriyufu*
 
@@ -1103,7 +1103,7 @@ Bench Beldum evolve them into Metang. Bench Scyther and, depending on the matchu
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2c4d84b29bbe2597.webp)
+![](/images/origin-forme-dialga-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1137,7 +1137,7 @@ Using Buddy-Buddy Poffin get out Beldum to evolve them into Metang to take advan
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0bd1959f162e58bb.webp)
+![](/images/gholdengo-ex-0bd195.webp)
 
 *Illus. takuyoa*
 
@@ -1187,7 +1187,7 @@ Evolve Gimmighoul up into Gholdengo and Origin Forme Palkia V into Origin Forme 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/462cce726aa51c71.webp)
+![](/images/giratina-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1230,7 +1230,7 @@ Use Arceus V’s Trinity Charge and Arceus VSTAR’s Trinity Nova to power up Gi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/99cacf76f93531c8.webp)
+![](/images/h-goodra-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1265,7 +1265,7 @@ Using the components of the Comfey engine, get first to seven and then later ten
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/57a46ec93cc89eac.webp)
+![](/images/raging-bolt-ex-57a46e.webp)
 
 *Illus. aky CG Works*
 
@@ -1319,7 +1319,7 @@ Using a combination of Professor Sada’s Vitality and Energy Sticker, power up 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1cf27e1cebe107e1.webp)
+![](/images/wigglytuff-ex-mew.webp)
 
 *Illus. Saki Hayashiro*
 
@@ -1353,7 +1353,7 @@ Bench Jigglypuff and evolve it into Wigglytuff and Wigglytuff ex. Use Wigglytuff
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/05b3072e05c93678.webp)
+![](/images/snorlax-pgo-05b307.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -1390,7 +1390,7 @@ Run your opponent out of resources by using the deck’s combination of resource
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1260cd3066615a2d.webp)
+![](/images/lugia-vstar-fr.webp)
 
 *Illus. PLANETA Mochizuki*
 

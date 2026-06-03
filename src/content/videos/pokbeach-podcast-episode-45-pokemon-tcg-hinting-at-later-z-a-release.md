@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 45: Pokemon TCG Hinting at Later Z-A Release?!"
 description: "No bonus video this week!  But, if you missed it, be sure to check out the latest episode of the PokéBeach Podcast, where we discuss the TCG hinting at a later Legends Z-A release, Worlds 2025 merchandise, and more!"
-ogImage: "/images/9c580558eea7de5f.webp"
+ogImage: "/images/vileplume-768x432-9c5805.webp"
 publishDate: 2024-08-14
 youtubeId: "bAzfGib6Vfo"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-45-pokemon-tcg-hinting-at-later-z-a-release"
@@ -21,7 +21,7 @@ But, if you missed it, be sure to check out the latest episode of the PokéBeach
 
 
 
-![](/images/d67309ecf794d9ef.webp)
+![](/images/vileplume-768x432.webp)
 
 
 

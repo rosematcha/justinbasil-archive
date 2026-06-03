@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Early Testing, Part 1: Cynthia's Garchomp ex vs. Ethan's Typhlosion"
 description: "Destiny Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/76e654c2244d9209.webp"
+ogImage: "/images/dri-part-1-76e654.webp"
 publishDate: 2025-04-19
 youtubeId: "Wz3HEq1WdRk"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-early-testing-part-1-cynthias-garchomp-ex-vs-ethans-typhlosion"
@@ -24,7 +24,7 @@ showHeading: false
 
 
 
-![](/images/50ff0d82c247bf0d.webp)
+![](/images/dri-part-1.webp)
 
 
 

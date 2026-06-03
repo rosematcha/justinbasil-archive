@@ -1,7 +1,7 @@
 ---
 title: "Prismatic Evolutions Opening"
 description: "In today's bonus video, I crack a few packs of Prismatic Evolutions. Join me as I seek out some of the best cards from the set!   Prismatic Evolutions Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/52f0eae0b664fd4f.webp"
+ogImage: "/images/pre-opening-52f0ea.webp"
 publishDate: 2025-01-22
 youtubeId: "QywO7SxxOZA"
 sourceUrl: "https://www.justinbasil.com/videos/prismatic-evolutions-opening"
@@ -27,7 +27,7 @@ In today's bonus video, I crack a few packs of Prismatic Evolutions. Join me as 
 
 
 
-![](/images/c2c3f9d4193db40e.webp)
+![](/images/pre-opening.webp)
 
 
 

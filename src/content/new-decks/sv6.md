@@ -1,6 +1,6 @@
 ---
 title: "Twilight Masquerade (TWM, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "-R8zKvL6-e8"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv6"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/d3ee81b261623886.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">New Decks from Twilight Masquerade</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
@@ -58,7 +58,7 @@ With the arrival of Twilight Masquerade in May, we’ll have a handful of new de
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/11e470b78ee6ecd2.webp)
+![](/images/sinistcha-11e470.webp)
 
 *Illus. Kouki Saitou*
 
@@ -109,7 +109,7 @@ Set up your board by getting Poltchageist in play alongside several Teal Mask Og
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dbb0138e4e129c2c.webp)
+![](/images/festival-grounds-dbb013.webp)
 
 *Illus. MARINA Chikazawa*
 
@@ -158,7 +158,7 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/b1c3eb74a549fae8.webp)
+![](/images/magcargo-ex-b1c3eb.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -206,7 +206,7 @@ Evolve Slugma into Magcargo and, with the aid of cards like Ciphermaniac’s Cod
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/861f6b42b8520b9a.webp)
+![](/images/infernape-861f6b.webp)
 
 *Illus. Takumi Wada*
 
@@ -256,7 +256,7 @@ Evolve Chimchar into Infernape with Rare Candy. With Infernape’s Pyro Dance Ab
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/9ce829571fbb5e2e.webp)
+![](/images/froslass-9ce829.webp)
 
 *Illus. Makura Tami*
 
@@ -307,7 +307,7 @@ On early turns, use Absol and its Swirling Disaster attack to spread damage on y
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/9a3748c0c1ba3c0e.webp)
+![](/images/palafin-ex-9a3748.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -356,7 +356,7 @@ Evolve Finizen up into the Palafin into the Palafin from Twilight Masquerade. Us
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/ceec98eda508445d.webp)
+![](/images/luxray-ex-ceec98.webp)
 
 *Illus. PLANETA Yamashita*
 
@@ -407,7 +407,7 @@ Using Miraidon ex’s Tandem Unit, get Shinx into play and then use Rare Candy t
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f85648a73963ffdf.webp)
+![](/images/future-iron-crown-ex.webp)
 
 *Illus. PLANETA Mochizuki & 5ban Graphics*
 
@@ -458,7 +458,7 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4bc577eafb5aae9f.webp)
+![](/images/iron-thorns-ex-4bc577.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -505,7 +505,7 @@ Slam down Iron Thorns ex and use its Initialization Ability to cripple your oppo
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8772edfc96145ebc.webp)
+![](/images/conkeldurr.webp)
 
 *Illus. Takeshi Nakamura*
 
@@ -540,7 +540,7 @@ Evolve Timburr into Conkeldurr with Rare Candy. Use Brute Bonnet’s Toxic Powde
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/fdcf95ef9aef14be.webp)
+![](/images/greninja-ex.webp)
 
 *Illus. 5ban Graphics*
 
@@ -601,7 +601,7 @@ Evolve Pidgey into Pidgeotto and Froakie into Greninja ex with Rare Candy. Attac
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/998553d6a8e69945.webp)
+![](/images/dragapult-ex-998553.webp)
 
 *Illus. 5ban Graphics*
 
@@ -657,7 +657,7 @@ Source: Kengo Ishida - 3rd Place, Sapporo Championship League
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f11165b4450a5470.webp)
+![](/images/bloodmoon-ursaluna-ex-f11165.webp)
 
 *Illus. aky CG Works*
 

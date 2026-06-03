@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Update: Monoblock and Quick Draw Formats Added"
 description: "The Alternate Formats article has been updated to include the new Monoblock and Quick Draw formats. The article also includes a specific format description and ban lists for the PTCGL versions of the Pauper and Type Focus formats.    Visit the updated Alternate Formats article !  These PTCGL-specifi"
-ogImage: "/images/e56e427286a44f61.webp"
+ogImage: "/images/keldeo-e56e42.webp"
 publishDate: 2021-10-08
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-update-monoblock-and-quick-draw-formats-added"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Keldeo.png](/images/b6be7758c9972195.webp)
+![Keldeo.png](/images/keldeo.webp)
 
 
 

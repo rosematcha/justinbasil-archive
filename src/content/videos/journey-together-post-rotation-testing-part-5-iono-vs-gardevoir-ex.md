@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 5: Iono vs. Gardevoir ex"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/1fbbad2802800cac.webp"
+ogImage: "/images/part-5-1fbbad.webp"
 publishDate: 2025-02-22
 youtubeId: "EspYCDcYhBQ"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-5-iono-vs-gardevoir-ex"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/62e966ebc9b3b01f.webp)
+![](/images/part-5-62e966.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Bonus 1: Vikavolt vs. Orthworm ex"
 description: "With the full reveal of Stellar Miracle from Japan on the horizon, let's look at what's coming in August!"
-ogImage: "/images/2772d576c12c2dfa.webp"
+ogImage: "/images/bonus-1-2772d5.webp"
 publishDate: 2024-07-10
 youtubeId: "zKvVD8YyKQE"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-1-vikavolt-vs-orthworm-ex"
@@ -19,7 +19,7 @@ With the full reveal of Stellar Miracle from Japan on the horizon, let's look at
 
 
 
-![](/images/dd03e00cec3891c4.webp)
+![](/images/bonus-1-dd03e0.webp)
 
 
 

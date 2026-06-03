@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 32: New \"Supercharged Breaker\" Set Coming, Pecharunt for August's Special English Set?"
 description: "This week we discuss a new \"Supercharged Breaker\" set for October, our English August set potentially featuring Pecharunt and The Loyal Three, the reveal of all the secret rares from \"Mask of Change,\" and much more!"
-ogImage: "/images/491bb71725d9eb4a.webp"
+ogImage: "/images/nidoran-m-768x432-491bb7.webp"
 publishDate: 2024-04-26
 youtubeId: "OpFpj2QolN8"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-32-new-supercharged-breaker-set-coming-pecharunt-for-augusts-special-english-set"
@@ -19,7 +19,7 @@ This week we discuss a new "Supercharged Breaker" set for October, our English A
 
 
 
-![](/images/d0eea9ca2938aa5e.webp)
+![](/images/nidoran-m-768x432.webp)
 
 
 

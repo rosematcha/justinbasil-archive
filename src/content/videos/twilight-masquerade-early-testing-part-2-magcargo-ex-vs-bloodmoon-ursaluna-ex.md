@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Part 2: Magcargo ex vs. Bloodmoon Ursaluna ex"
 description: "Now that we've seen the full reveal of Crimson Haze from Japan, let's continue looking at the newest decks from Twilight Masquerade!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New D"
-ogImage: "/images/50cc22477385c7ff.webp"
+ogImage: "/images/part-2-50cc22.webp"
 publishDate: 2024-04-06
 youtubeId: "hdkS8yNxC7g"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-part-2-magcargo-ex-vs-bloodmoon-ursaluna-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/b68187f313625d1b.webp)
+![](/images/part-2-b68187.webp)
 
 
 

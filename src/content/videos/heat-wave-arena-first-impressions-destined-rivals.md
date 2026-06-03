@@ -1,7 +1,7 @@
 ---
 title: "Heat Wave Arena First Impressions (Destined Rivals)"
 description: "Destined Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/3ae2f24242704a39.webp"
+ogImage: "/images/heat-wave-arena-1st-impressions-3ae2f2.webp"
 publishDate: 2025-03-08
 youtubeId: "uMdsSpqZxrk"
 sourceUrl: "https://www.justinbasil.com/videos/heat-wave-arena-first-impressions-destined-rivals"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/73be225a8cd53aeb.webp)
+![](/images/heat-wave-arena-1st-impressions.webp)
 
 
 

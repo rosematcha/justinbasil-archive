@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Gardevoir vs. Origin Forme Palkia VSTAR"
 description: "On today's Eternal Monday, Origin Forme Palkia VSTAR travels to the past to take on Gardevoir Toolbox."
-ogImage: "/images/9966b1ac060b4a4e.webp"
+ogImage: "/images/gardevoir-vs-of-palkia-vstar-9966b1.webp"
 publishDate: 2024-04-01
 youtubeId: "5hA0P8gFaHU"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-gardevoir-vs-origin-forme-palkia-vstar"
@@ -19,7 +19,7 @@ On today's Eternal Monday, Origin Forme Palkia VSTAR travels to the past to take
 
 
 
-![](/images/95172d5815422e1f.webp)
+![](/images/gardevoir-vs-of-palkia-vstar.webp)
 
 
 

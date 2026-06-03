@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 2: Feraligatr vs. Chien-Pao ex"
 description: "In this week's bonus video, Chien-Pao ex gives the owls a call to fight off the mighty Feraligatr!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/fb218e01f72354da.webp"
+ogImage: "/images/bonus-2-fb218e.webp"
 publishDate: 2025-02-05
 youtubeId: "qVjd6Ep0e-0"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-2-feraligatr-vs-chien-pao-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Chien-Pao ex gives the owls a call to fight off the 
 
 
 
-![](/images/dbf2db59bf9fe5fa.webp)
+![](/images/bonus-2-dbf2db.webp)
 
 
 

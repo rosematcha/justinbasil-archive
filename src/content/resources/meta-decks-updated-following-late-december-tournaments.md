@@ -1,7 +1,7 @@
 ---
 title: "Meta Decks Updated Following Late December Tournaments"
 description: "After examining results from recent tournament that took place throughout the second half of December 2020, the site’s page on Meta Decks has been updated with more recent deck lists for eight of the most prevalent decks in the current metagame.   Visit the updated page on meta decks !"
-ogImage: "/images/e237694260883c38.webp"
+ogImage: "/images/creation-trio-e23769.webp"
 publishDate: 2020-12-28
 sourceUrl: "https://www.justinbasil.com/resources/meta-decks-updated-following-late-december-tournaments"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Creation Trio.png](/images/cdfa2a82525846aa.webp)
+![Creation Trio.png](/images/creation-trio-cdfa2a.webp)
 
 <div class="jb-code-container">
     <div class="box box_red">
@@ -27,7 +27,7 @@ After examining results from recent tournament that took place throughout the se
 
 
 
-![Top Archetypes 28 Dec 20.png](/images/0ca4dc395e6319ea.webp)
+![Top Archetypes 28 Dec 20.png](/images/top-archetypes-28-dec-20.webp)
 
 
 

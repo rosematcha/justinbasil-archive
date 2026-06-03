@@ -1,6 +1,6 @@
 ---
 title: "Alternate Formats"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/formats"
 showHeading: false
 ---
@@ -456,7 +456,7 @@ Note: Games in this format can take significantly longer than in a “typical”
 
 <div class="jb-row"><div class="jb-col-6">
 
-![](/images/bf544ab42ab44648.webp)
+![](/images/narode.webp)
 
 
 

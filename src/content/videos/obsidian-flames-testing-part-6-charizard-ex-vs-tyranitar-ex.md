@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 6: Charizard ex vs. Tyranitar ex"
 description: "In this video testing the new decks from Obsidian Flames, Tyranitar ex and Charizard ex duke it out to decide who goes on to face THE WORLD next week!   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selecte"
-ogImage: "/images/3b099f1b084c8a74.webp"
+ogImage: "/images/obf-part-6-3b099f.webp"
 publishDate: 2023-08-05
 youtubeId: "647JhlrvFm8"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-part-6-charizard-ex-vs-tyranitar-ex"
@@ -28,7 +28,7 @@ In this video testing the new decks from Obsidian Flames, Tyranitar ex and Chari
 
 
 
-![](/images/93f9866f181c67c3.webp)
+![](/images/obf-part-6.webp)
 
 
 

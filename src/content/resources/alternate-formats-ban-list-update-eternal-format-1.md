@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Ban List Update: Eternal Format"
 description: "Ten cards have been added to and two cards have been removed from the ban list for the Eternal Format, effective immediately. Please review  the full ban list for the Eternal format  and keep these bans in mind when constructing your deck for August 20th’s Eternal format tournament.   This brings th"
-ogImage: "/images/ee739dbad86777a3.webp"
+ogImage: "/images/trode-ee739d.webp"
 publishDate: 2022-08-06
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-ban-list-update-eternal-format-1"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/f50464e4ca822dd0.webp)
+![](/images/trode.webp)
 
 
 
@@ -33,7 +33,7 @@ This brings the total number of cards banned in the format to 126.
       <li><a href="https://pkmncards.com/card/walrein-ex-power-keepers-pk-99/">Walrein ex PK 99</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/032c803043193c5f.webp"><img src="/images/032c803043193c5f.webp" alt="en_US-SM8-019-celebi.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/21110444215f8480.webp"><img src="/images/21110444215f8480.webp" alt="electrode-base-set-bs-21.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7fadd4c03bf60b7e.webp"><img src="/images/7fadd4c03bf60b7e.webp" alt="en_US-EX06-107-electrode_ex.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5f8cbaf1a3096a1a.webp"><img src="/images/5f8cbaf1a3096a1a.webp" alt="en_US-SM7-048-electrode_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a69be669292f4811.webp"><img src="/images/a69be669292f4811.webp" alt="en_US-SM7-097-jirachi.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5d8c3682453a3d1a.webp"><img src="/images/5d8c3682453a3d1a.webp" alt="mr.-mime-jungle-ju-6.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7ae9261e38c29237.webp"><img src="/images/7ae9261e38c29237.webp" alt="psyduck-platinum-pl-87.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/65916c8f4de550b8.webp"><img src="/images/65916c8f4de550b8.webp" alt="en_US-SM9-026-psyduck.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/025e9ecb9e69d715.webp"><img src="/images/025e9ecb9e69d715.webp" alt="psyduck-team-rocket-returns-rr-70.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/586a536b6ddb77ae.webp"><img src="/images/586a536b6ddb77ae.webp" alt="walrein-ex-power-keepers-pk-99.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-sm8-019-celebi.webp"><img src="/images/en-us-sm8-019-celebi.webp" alt="en_US-SM8-019-celebi.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/electrode-base-set-bs-21.webp"><img src="/images/electrode-base-set-bs-21.webp" alt="electrode-base-set-bs-21.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-ex06-107-electrode-ex.webp"><img src="/images/en-us-ex06-107-electrode-ex.webp" alt="en_US-EX06-107-electrode_ex.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm7-048-electrode-gx.webp"><img src="/images/en-us-sm7-048-electrode-gx.webp" alt="en_US-SM7-048-electrode_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm7-097-jirachi.webp"><img src="/images/en-us-sm7-097-jirachi.webp" alt="en_US-SM7-097-jirachi.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/mr-mime-jungle-ju-6.webp"><img src="/images/mr-mime-jungle-ju-6.webp" alt="mr.-mime-jungle-ju-6.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/psyduck-platinum-pl-87.webp"><img src="/images/psyduck-platinum-pl-87.webp" alt="psyduck-platinum-pl-87.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm9-026-psyduck.webp"><img src="/images/en-us-sm9-026-psyduck.webp" alt="en_US-SM9-026-psyduck.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/psyduck-team-rocket-returns-rr-70.webp"><img src="/images/psyduck-team-rocket-returns-rr-70.webp" alt="psyduck-team-rocket-returns-rr-70.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/walrein-ex-power-keepers-pk-99.webp"><img src="/images/walrein-ex-power-keepers-pk-99.webp" alt="walrein-ex-power-keepers-pk-99.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
     <b>Removed from Ban List</b>
 <div class="mobile-collapse links jb-mt-10">
   <ul>
@@ -41,5 +41,5 @@ This brings the total number of cards banned in the format to 126.
       <li><a href="https://pkmncards.com/card/vileplume-ex-hidden-legends-hl-100/">Vileplume ex HL 100</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/9899b1cd2e2811a0.webp"><img src="/images/9899b1cd2e2811a0.webp" alt="en_US-BW4-072-shiftry.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f6ae5e4a9a87a9a3.webp"><img src="/images/f6ae5e4a9a87a9a3.webp" alt="vileplume-ex-hidden-legends-hl-100.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-bw4-072-shiftry-9899b1.webp"><img src="/images/en-us-bw4-072-shiftry-9899b1.webp" alt="en_US-BW4-072-shiftry.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/vileplume-ex-hidden-legends-hl-100.webp"><img src="/images/vileplume-ex-hidden-legends-hl-100.webp" alt="vileplume-ex-hidden-legends-hl-100.jpg" loading="lazy"></a></figure></div>
 

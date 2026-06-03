@@ -1,7 +1,7 @@
 ---
 title: "Eternal @ NAIC 2025 - Top 8 Lists"
 description: "In this week's Eternal Monday, we're exploring the deck lists that were featured in the Eternal @ NAIC 2025 tournament that took place in New Orleans, Louisiana!"
-ogImage: "/images/ab82558b0b26e330.webp"
+ogImage: "/images/top-8-from-naic-2025-ab8255.webp"
 publishDate: 2025-06-23
 youtubeId: "j9hoVAo3564"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-naic-2025-top-8-lists"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, we're exploring the deck lists that were featured
 
 
 
-![](/images/63cef276ab5d7cf4.webp)
+![](/images/top-8-from-naic-2025.webp)
 
 
 

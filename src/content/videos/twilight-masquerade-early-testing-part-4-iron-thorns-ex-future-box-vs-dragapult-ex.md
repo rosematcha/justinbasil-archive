@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Part 4: Iron Thorns ex (Future Box) vs. Dragapult ex"
 description: "Now that we've seen the full reveal of Mask of Change from Japan, let's look at what's coming in May!   Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/0c201107e4d09d15.webp"
+ogImage: "/images/part-4-0c2011.webp"
 publishDate: 2024-04-27
 youtubeId: "Vw0K7-wJeMg"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-part-4-iron-thorns-ex-future-box-vs-dragapult-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/f203a5324d7c7ddd.webp)
+![](/images/part-4.webp)
 
 
 

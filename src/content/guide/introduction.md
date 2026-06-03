@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/introduction"
 showHeading: false
 ---
@@ -19,7 +19,7 @@ When referring to specific cards, this guide makes use of the standard **Set Abb
 
 <div class="jb-row"><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/b0be9bbc0a8f7113.webp)
+![](/images/brilliant-stars-on.webp)
 
 *The F regulation block, first introduced with Brilliant Stars, is the first regulation block with cards legal in the 2024 Standard format.*
 
@@ -30,25 +30,25 @@ For the 2024 Season, beginning April 5th, 2024, the Standard format consists of 
 <div class="jb-code-container">
 <div class="mobile-collapse">
   <ol>
-  <dd><img src="/images/bd09d724c0a1e067.webp" width="30" height="30" loading="lazy"> Brilliant Stars</dd>
-  <dd><img src="/images/74bfef05616bbff5.webp" width="30" height="30" loading="lazy"> Astral Radiance</dd>
-  <dd><img src="/images/1b456501241adca5.webp" width="30" height="30" loading="lazy"> Pokémon GO</dd>
-  <dd><img src="/images/bbf69a033c347436.webp" width="30" height="30" loading="lazy"> Lost Origin</dd>
-  <dd><img src="/images/3f7a61618a7077e0.webp" width="30" height="30" loading="lazy"> Silver Tempest</dd>
-  <dd><img src="/images/f781819abc99e27d.webp" width="30" height="30" loading="lazy"> Crown Zenith</dd>
-  <dd><img src="/images/baf90be99ef64afa.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
-  <dd><img src="/images/4b659a46d552e840.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
-  <dd><img src="/images/6b44f384d6f5b707.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
-  <dd><img src="/images/db79bb9a69efeb84.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
-  <dd><img src="/images/bf2b29d0874216fa.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
-  <dd><img src="/images/e6c9dae0bcab2f5e.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
-  <dd><img src="/images/64e9b0f1acf13e18.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
-    <dd><img src="/images/f98018a13b969fe0.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
+  <dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy"> Brilliant Stars</dd>
+  <dd><img src="/images/ss10-png.webp" width="30" height="30" loading="lazy"> Astral Radiance</dd>
+  <dd><img src="/images/pgo.webp" width="30" height="30" loading="lazy"> Pokémon GO</dd>
+  <dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy"> Lost Origin</dd>
+  <dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy"> Silver Tempest</dd>
+  <dd><img src="/images/cze.webp" width="30" height="30" loading="lazy"> Crown Zenith</dd>
+  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
+  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
+  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
+  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
+  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
+  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
+  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
+    <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
   </ol>
 </div>
 </div>
 
-![](/images/f587cd23c5d41173.webp)
+![](/images/f-regulation-mark.webp)
 
 *The “F” regulation mark is circled in red above. The regulation mark makes it easy to identify cards that are legal in the Standard format.*
 
@@ -72,13 +72,13 @@ Note that in addition to the card having the same name, it also has the same eff
 
 </div><div class="jb-col-3">
 
-![](/images/33298fa06f024c51.webp)
+![](/images/plb-094-r-en-lg.webp)
 
 *Escape Rope PLS 120*
 
 </div><div class="jb-col-3">
 
-![](/images/1be5abf16a9dd9ac.webp)
+![](/images/tef-153-r-en-lg.webp)
 
 *Escape Rope BUS 114*
 

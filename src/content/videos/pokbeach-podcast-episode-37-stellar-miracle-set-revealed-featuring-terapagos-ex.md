@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 37: \"Stellar Miracle\" Set Revealed Featuring Terapagos ex!"
 description: "This week we discuss the MAJOR reveal of the \"Stellar Miracle\" set introducing Stellar Tera Pokémon, all of the cards from \"Night Wanderer,\" CardMarket taking legal action against Pokémon TCG price manipulators, and more!  Links to the Eternal format tournaments at NAIC:  #1:  Et"
-ogImage: "/images/501e425eca5222cc.webp"
+ogImage: "/images/vulpix-768x432-501e42.webp"
 publishDate: 2024-06-02
 youtubeId: "We91v3iYVOU"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-37-stellar-miracle-set-revealed-featuring-terapagos-ex"
@@ -25,7 +25,7 @@ Links to the Eternal format tournaments at NAIC:
 
 
 
-![](/images/a32ccf6dafe0a14e.webp)
+![](/images/vulpix-768x432.webp)
 
 
 

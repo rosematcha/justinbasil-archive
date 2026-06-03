@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Miraidon ex vs. Malamar"
 description: "In today's Eternal Monday, newcomer Malamar tries to enter the Eternal format meta, going head-to-head with Miraidon ex / Pidgeot!"
-ogImage: "/images/1c26c29cddea4e85.webp"
+ogImage: "/images/miraidon-ex-vs-malamar-1c26c2.webp"
 publishDate: 2023-12-11
 youtubeId: "GfZpxj9yOUY"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-miraidon-ex-vs-malamar"
@@ -19,7 +19,7 @@ In today's Eternal Monday, newcomer Malamar tries to enter the Eternal format me
 
 
 
-![](/images/385f098a3b1f7fed.webp)
+![](/images/miraidon-ex-vs-malamar.webp)
 
 
 

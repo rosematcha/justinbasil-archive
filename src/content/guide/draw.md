@@ -1,6 +1,6 @@
 ---
 title: "Draw Cards"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/draw"
 showHeading: false
 ---
@@ -69,7 +69,7 @@ Draw Supporters in Class A are the best Draw Supporters currently in the game. T
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/d8397479bf3f3640.webp)
+![](/images/sv1-en-190.webp)
 
 *☆ COMMON INCLUSION*
 
@@ -83,7 +83,7 @@ Many decks run 2-3 copies of Professor’s Research.
 
 </div><div class="jb-col-2">
 
-![](/images/2355642206ec992e.webp)
+![](/images/sv2-en-185-235564.webp)
 
 *☆ COMMON INCLUSION*
 
@@ -101,7 +101,7 @@ Draw Supporters in Class B are excellent supporters that have a smaller niche th
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ff18001b5a418f47.webp)
+![](/images/brs-138-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -111,7 +111,7 @@ Decks that include Cynthia’s Ambition tend to run 1-2 copies of the card.
 
 </div><div class="jb-col-2">
 
-![](/images/31d7d10c948027e4.webp)
+![](/images/1143-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -121,7 +121,7 @@ Decks that make use of Gardenia's Vigor tend to use 1-2 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0ea626d4b53a3ca0.webp)
+![](/images/155.webp)
 
 </div><div class="jb-col-4">
 
@@ -131,7 +131,7 @@ Only decks focused on interaction with the Lost Zone and the Lost Engine are lik
 
 </div><div class="jb-col-2">
 
-![](/images/55ea5d87cc87eaa0.webp)
+![](/images/164-55ea5d.webp)
 
 </div><div class="jb-col-4">
 
@@ -141,7 +141,7 @@ Decks that often find themselves gusting Pokémon that aren’t Pokémon V won�
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/690d956aa55ea5e2.webp)
+![](/images/sv1-en-176.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -151,7 +151,7 @@ Because of the popularity of Iono, Judge has to compete with it for deck space. 
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e32a4205fb49b319.webp)
+![](/images/sv4-en-167.webp)
 
 </div><div class="jb-col-4">
 
@@ -161,7 +161,7 @@ In order to make adequate use of Mela, a deck must be built to contain Basic Fir
 
 </div></div></div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d35c2e4b5cc1801c.webp)
+![](/images/sv4-en-170.webp)
 
 </div><div class="jb-col-4">
 
@@ -171,7 +171,7 @@ Decks that make use of Professor Sada’s Vitality tend to use 4 copies of the c
 
 </div><div class="jb-col-2">
 
-![](/images/fa1df58f2aaa2147.webp)
+![](/images/twm-145-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -187,7 +187,7 @@ Draw Supporters in Class C are mostly outclassed by Draw Supporters in Classes A
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/45ee26a7a7ee81a0.webp)
+![](/images/167-45ee26.webp)
 
 </div><div class="jb-col-4">
 
@@ -197,7 +197,7 @@ In decks that are easily shut down by a hostile Stadium cards like Lost City, Te
 
 </div><div class="jb-col-2">
 
-![](/images/b0aae8d54c17bdd2.webp)
+![](/images/sv1-en-198.webp)
 
 </div><div class="jb-col-4">
 
@@ -225,7 +225,7 @@ A little overwhelmed by the choices? That’s okay. Below is a generic set of Dr
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/5798a5be3c5a181f.webp)
+![](/images/137-8.webp)
 
 </div><div class="jb-col-4">
 
@@ -237,7 +237,7 @@ Decks tend not to include Empoleon, but a deck that would include the card would
 
 </div><div class="jb-col-2">
 
-![](/images/ec7a1545d3061e37.webp)
+![](/images/191-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -247,7 +247,7 @@ Decks tend to run Cinccino over Liepard, but a deck that runs Liepard would like
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f05d5b0dc4eb247.webp)
+![](/images/1105-2-3f05d5.webp)
 
 </div><div class="jb-col-4">
 
@@ -257,7 +257,7 @@ Decks tend not to include Zamazenta V.
 
 </div><div class="jb-col-2">
 
-![](/images/582d4a6044a6d573.webp)
+![](/images/1121-2-582d4a.webp)
 
 </div><div class="jb-col-4">
 
@@ -267,7 +267,7 @@ Decks that run Bibarel tend to run 2-3 copies of the card in combination with 3 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/81e0b77fc77d565b.webp)
+![](/images/146-7-81e0b7.webp)
 
 </div><div class="jb-col-4">
 
@@ -277,7 +277,7 @@ Many decks run Radiant Greninja. As Radiant Greninja is a Radiant Pokémon, deck
 
 </div><div class="jb-col-2">
 
-![](/images/aeeeaac3f8994308.webp)
+![](/images/169-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -287,7 +287,7 @@ Most decks won’t run Wyrdeer—but those that would run it would most likely i
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/04c1f931abc113b2.webp)
+![](/images/1118-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -297,7 +297,7 @@ Though most decks would not choose to run Regidrago, decks that do would include
 
 </div><div class="jb-col-2">
 
-![](/images/4fad540125f91cb1.webp)
+![](/images/058.webp)
 
 </div><div class="jb-col-4">
 
@@ -307,7 +307,7 @@ Many decks will not run Rotom V, as other options that don’t end your turn exi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4a3d66bea3b1b8e9.webp)
+![](/images/079.webp)
 
 </div><div class="jb-col-4">
 
@@ -317,7 +317,7 @@ Only decks focused on interaction with the Lost Zone and the Lost Engine are lik
 
 </div><div class="jb-col-2">
 
-![](/images/53c7fa63f5d93780.webp)
+![](/images/068-53c7fa.webp)
 
 </div><div class="jb-col-4">
 
@@ -327,7 +327,7 @@ Decks that run Kirlia tend to run 3-4 copies, in combination with 3-4 copies of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/297f858a2a3d8d37.webp)
+![](/images/sv2-en-169-297f85.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -337,7 +337,7 @@ Most decks don’t run Squawkabilly ex, but those that do tend to run 1-2 copies
 
 </div><div class="jb-col-2">
 
-![](/images/30feed19ecf0fd97.webp)
+![](/images/sv05-en-129-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -347,7 +347,7 @@ Decks that run Dundunsparce tend to run 3-4 copies of the card, in addition to 3
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/76e757dcd63f1e81.webp)
+![](/images/twm-129-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -361,7 +361,7 @@ Drakloak tends not to be run outside of decks featuring its fully evolved form, 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/38322d5bcd563c12.webp)
+![](/images/1145-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -371,7 +371,7 @@ Decks that can make use of Gutsy Pickaxe tend to run 3-4 copies.
 
 </div><div class="jb-col-2">
 
-![](/images/49f1bafae5a8fd6a.webp)
+![](/images/145-49f1ba.webp)
 
 </div><div class="jb-col-4">
 
@@ -385,7 +385,7 @@ Decks that make use of Trekking Shoes tend to include 2-4 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/f2c73ac6f684f623.webp)
+![](/images/1148-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -399,7 +399,7 @@ Because use of Jubilife Village ends your turn when it is used, it won’t often
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/1492fac67c4a4315.webp)
+![](/images/171-1492fa.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 5: Special Pokemon TCG Set Coming in January! Shiny Pokemon?!"
 description: "In this week’s PokeBeach episode we discuss a special English set coming out in January, a new way to get the Van Gogh Pikachu promo, new cards from Ancient Roar and Future Flash, Paradox Rift cards, and more!"
-ogImage: "/images/f338e1d7fc12843b.webp"
+ogImage: "/images/387326484-2784783981661844-1806212294217441865-n-f338e1.webp"
 publishDate: 2023-10-13
 youtubeId: "jW5KEW_gubM"
 sourceUrl: "https://www.justinbasil.com/videos/nivelez8l8d79ztafuqfqxjz3fzu1p"
@@ -19,7 +19,7 @@ In this week’s PokeBeach episode we discuss a special English set coming out i
 
 
 
-![](/images/8b226f3cdc046524.webp)
+![](/images/387326484-2784783981661844-1806212294217441865-n.webp)
 
 
 

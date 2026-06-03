@@ -1,7 +1,7 @@
 ---
 title: "Meta Decks Updated Following Early January Tournaments"
 description: "After examining results from recent tournament that took place throughout the first half of January 2021, the site’s page on Meta Decks has been updated with more recent deck lists for eight of the most prevalent decks in the current metagame.   Visit the updated page on meta decks !"
-ogImage: "/images/397d4425077daa67.webp"
+ogImage: "/images/pikachu-zekrom-397d44.webp"
 publishDate: 2021-01-11
 sourceUrl: "https://www.justinbasil.com/resources/meta-decks-updated-following-early-january-tournaments"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Pikachu & Zekrom.png](/images/9c65df8d4b38e91c.webp)
+![Pikachu & Zekrom.png](/images/pikachu-zekrom.webp)
 
 <div class="jb-code-container">
     <div class="box box_red">
@@ -27,7 +27,7 @@ After examining results from recent tournament that took place throughout the fi
 
 
 
-![Top Archetypes 11 Jan 21.png](/images/55904cfef24d8c17.webp)
+![Top Archetypes 11 Jan 21.png](/images/top-archetypes-11-jan-21.webp)
 
 
 

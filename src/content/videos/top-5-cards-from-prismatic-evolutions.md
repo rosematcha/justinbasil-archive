@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Cards from Prismatic Evolutions!"
 description: "Prismatic Evolutions is fast approaching. It's time to look at the best cards for players releasing in this collector-focused set.  Here are my top 5 cards from Prismatic Evolutions!   Prismatic Evolutions Coverage      Prospective Set List      Card Translations      Visual Set List      Selected P"
-ogImage: "/images/4b112ff949c13b8e.webp"
+ogImage: "/images/top-5-from-pre-4b112f.webp"
 publishDate: 2025-01-08
 youtubeId: "lUKEku2izCM"
 sourceUrl: "https://www.justinbasil.com/videos/top-5-cards-from-prismatic-evolutions"
@@ -29,7 +29,7 @@ Here are my top 5 cards from Prismatic Evolutions!
 
 
 
-![](/images/73ff33cb52ffaa06.webp)
+![](/images/top-5-from-pre.webp)
 
 
 

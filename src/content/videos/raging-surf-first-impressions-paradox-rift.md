@@ -1,7 +1,7 @@
 ---
 title: "Raging Surf First Impressions! (Paradox Rift)"
 description: "In this video, it's we take a first look at the cards from Raging Surf, 1/3 of our Paradox Rift set in November!  Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/05858ab20802d3fc.webp"
+ogImage: "/images/raging-surf-first-impressions-05858a.webp"
 publishDate: 2023-09-15
 youtubeId: "g8kevVcNO7o"
 sourceUrl: "https://www.justinbasil.com/videos/raging-surf-first-impressions-paradox-rift"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/5d3117d554a24c1c.webp)
+![](/images/raging-surf-first-impressions.webp)
 
 
 

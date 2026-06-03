@@ -1,13 +1,13 @@
 ---
 title: "Highlights from Chilling Reign"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss6"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![IMG_1235.jpeg](/images/3e91ca24af86a32d.webp)
+![IMG_1235.jpeg](/images/img-1235.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -60,79 +60,79 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Blaziken VMAX](/images/442a87e09819005e.webp)
+![Blaziken VMAX](/images/201.webp)
 
 *Blaziken VMAX*
 
 </div><div class="jb-col-2">
 
-![Ice Rider Calyrex V](/images/698c5fe6f69ce40a.webp)
+![Ice Rider Calyrex V](/images/164.webp)
 
 *Ice Rider Calyrex V*
 
 </div><div class="jb-col-2">
 
-![Ice Rider Calyrex VMAX](/images/00e7433d5012d02d.webp)
+![Ice Rider Calyrex VMAX](/images/203.webp)
 
 *Ice Rider Calyrex VMAX*
 
 </div><div class="jb-col-2">
 
-![Zeraora V](/images/5fe979d033885e6d.webp)
+![Zeraora V](/images/166.webp)
 
 *Zeraora V*
 
 </div><div class="jb-col-2">
 
-![Galarian Rapidash V](/images/e2d6acced97e32df.webp)
+![Galarian Rapidash V](/images/168-e2d6ac.webp)
 
 *Galarian Rapidash V*
 
 </div><div class="jb-col-2">
 
-![Galarian Articuno V](/images/cea4b91e93c74dcb.webp)
+![Galarian Articuno V](/images/170.webp)
 
 *Galarian Articuno V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Shadow Rider Calyrex V](/images/b50cfbd782417cff.webp)
+![Shadow Rider Calyrex V](/images/172.webp)
 
 *Shadow Rider Calyrex V*
 
 </div><div class="jb-col-2">
 
-![Shadow Rider Calyrex VMAX](/images/dec34096d3d99569.webp)
+![Shadow Rider Calyrex VMAX](/images/205.webp)
 
 *Shadow Rider Calyrex VMAX*
 
 </div><div class="jb-col-2">
 
-![Galarian Zapdos V](/images/4ceba215ddad7816.webp)
+![Galarian Zapdos V](/images/174.webp)
 
 *Galarian Zapdos V*
 
 </div><div class="jb-col-2">
 
-![Galarian Moltres V](/images/55eb0c8161d847ae.webp)
+![Galarian Moltres V](/images/177.webp)
 
 *Galarian Moltres V*
 
 </div><div class="jb-col-2">
 
-![Galarian Slowking V](/images/01987933062587cc.webp)
+![Galarian Slowking V](/images/179.webp)
 
 *Galarian Slowking V*
 
 </div><div class="jb-col-2">
 
-![Tornadus V](/images/7a7ef903700b9f96.webp)
+![Tornadus V](/images/185.webp)
 
 *Tornadus V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Blissey V](/images/74bdeabc3ef7dc15.webp)
+![Blissey V](/images/183.webp)
 
 *Blissey V*
 
@@ -145,79 +145,79 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Agatha](/images/e6c8530cbc37ad60.webp)
+![Agatha](/images/186.webp)
 
 *Agatha*
 
 </div><div class="jb-col-2">
 
-![Avery](/images/15ece0f8fe81e58d.webp)
+![Avery](/images/187.webp)
 
 *Avery*
 
 </div><div class="jb-col-2">
 
-![Brawly](/images/3f9560eb79402817.webp)
+![Brawly](/images/188.webp)
 
 *Brawly*
 
 </div><div class="jb-col-2">
 
-![Caitlin](/images/1ee835c9aac50633.webp)
+![Caitlin](/images/189.webp)
 
 *Caitlin*
 
 </div><div class="jb-col-2">
 
-![Doctor](/images/dbbba9f38b6c95d3.webp)
+![Doctor](/images/190.webp)
 
 *Doctor*
 
 </div><div class="jb-col-2">
 
-![Flannery](/images/c18031e66dfa6001.webp)
+![Flannery](/images/191.webp)
 
 *Flannery*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Honey](/images/4cdd188389e2f0af.webp)
+![Honey](/images/192-2.webp)
 
 *Honey*
 
 </div><div class="jb-col-2">
 
-![Karen’s Conviction](/images/ca193cc6375ea3e1.webp)
+![Karen’s Conviction](/images/193.webp)
 
 *Karen’s Conviction*
 
 </div><div class="jb-col-2">
 
-![Klara](/images/4150b3888913fb7f.webp)
+![Klara](/images/194.webp)
 
 *Klara*
 
 </div><div class="jb-col-2">
 
-![Melony](/images/2f64c65f8df28c76.webp)
+![Melony](/images/195.webp)
 
 *Melony*
 
 </div><div class="jb-col-2">
 
-![Peonia](/images/6a886333b8a8a909.webp)
+![Peonia](/images/196.webp)
 
 *Peonia*
 
 </div><div class="jb-col-2">
 
-![Peony](/images/7566f842096cab4c.webp)
+![Peony](/images/197-1.webp)
 
 *Peony*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Siebold](/images/fddc997b05ee1c84.webp)
+![Siebold](/images/198.webp)
 
 *Siebold*
 
@@ -230,97 +230,97 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![Celebi V](/images/b0cc460b982aecea.webp)
+![Celebi V](/images/160.webp)
 
 *Celebi V*
 
 </div><div class="jb-col-2">
 
-![Blaziken V](/images/0154c3792264bab2.webp)
+![Blaziken V](/images/161.webp)
 
 *Blaziken V*
 
 </div></div></div><div class="jb-col-2">
 
-![Volcanion V](/images/22d83b05f932ee3d.webp)
+![Volcanion V](/images/162.webp)
 
 *Volcanion V*
 
 </div><div class="jb-col-2">
 
-![Ice Rider Calyrex V](/images/6e7a9ee05c6f3f91.webp)
+![Ice Rider Calyrex V](/images/163.webp)
 
 *Ice Rider Calyrex V*
 
 </div><div class="jb-col-2">
 
-![Zeraora V](/images/0b05223ce8e98d1c.webp)
+![Zeraora V](/images/165.webp)
 
 *Zeraora V*
 
 </div><div class="jb-col-2">
 
-![Galarian Rapidash V](/images/8c769a15e503e16e.webp)
+![Galarian Rapidash V](/images/167.webp)
 
 *Galarian Rapidash V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Shadow Rider Calyrex V](/images/936209a88f094a2b.webp)
+![Shadow Rider Calyrex V](/images/171.webp)
 
 *Shadow Rider Calyrex V*
 
 </div><div class="jb-col-2">
 
-![Galarian Articuno V](/images/1eaa99ebf9117732.webp)
+![Galarian Articuno V](/images/169-1eaa99.webp)
 
 *Galarian Articuno V*
 
 </div><div class="jb-col-2">
 
-![Galarian Zapdos V](/images/96fc640ee6027349.webp)
+![Galarian Zapdos V](/images/173.webp)
 
 *Galarian Zapdos V*
 
 </div><div class="jb-col-2">
 
-![Sandaconda V](/images/d2af19bf77a84930.webp)
+![Sandaconda V](/images/175.webp)
 
 *Sandaconda V*
 
 </div><div class="jb-col-2">
 
-![Galarian Moltres V](/images/0086a7dc9958e0bb.webp)
+![Galarian Moltres V](/images/176.webp)
 
 *Galarian Moltres V*
 
 </div><div class="jb-col-2">
 
-![Galarian Slowking V](/images/4b29666e539348e4.webp)
+![Galarian Slowking V](/images/178.webp)
 
 *Galarian Slowking V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Liepard V](/images/a81d6e347933e478.webp)
+![Liepard V](/images/180.webp)
 
 *Liepard V*
 
 </div><div class="jb-col-2">
 
-![Metagross V](/images/f2f53881c47dac66.webp)
+![Metagross V](/images/181.webp)
 
 *Metagross V*
 
 </div><div class="jb-col-2">
 
-![Blissey V](/images/862ffa083a6e112c.webp)
+![Blissey V](/images/182.webp)
 
 *Blissey V*
 
 </div><div class="jb-col-2">
 
-![Tornadus V](/images/69fb23111f94514f.webp)
+![Tornadus V](/images/184.webp)
 
 *Tornadus V*
 
@@ -333,19 +333,19 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Electrode](/images/bf4b4b733421ea73.webp)
+![Electrode](/images/222.webp)
 
 *Electrode*
 
 </div><div class="jb-col-2">
 
-![Bronzong](/images/e2f3d59eee6fa3e3.webp)
+![Bronzong](/images/223.webp)
 
 *Bronzong*
 
 </div><div class="jb-col-2">
 
-![Snorlax](/images/59a0bca936109fcb.webp)
+![Snorlax](/images/224.webp)
 
 *Snorlax*
 
@@ -358,37 +358,37 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Celebi VMAX](/images/98bee1a35275fd6d.webp)
+![Celebi VMAX](/images/199.webp)
 
 *Celebi VMAX*
 
 </div><div class="jb-col-2">
 
-![Blaziken VMAX](/images/f8bd8e722f683ffd.webp)
+![Blaziken VMAX](/images/200.webp)
 
 *Blaziken VMAX*
 
 </div><div class="jb-col-2">
 
-![Ice Rider Calyrex VMAX](/images/af1b3051d53d27ba.webp)
+![Ice Rider Calyrex VMAX](/images/202.webp)
 
 *Ice Rider Calyrex VMAX*
 
 </div><div class="jb-col-2">
 
-![Shadow Rider Calyrex VMAX](/images/9f82bbcd46b00a03.webp)
+![Shadow Rider Calyrex VMAX](/images/204.webp)
 
 *Shadow Rider Calyrex VMAX*
 
 </div><div class="jb-col-2">
 
-![Sandaconda VMAX](/images/c8ac45065d941f09.webp)
+![Sandaconda VMAX](/images/206.webp)
 
 *Sandaconda VMAX*
 
 </div><div class="jb-col-2">
 
-![Slowking VMAX](/images/d0c84512c63f0660.webp)
+![Slowking VMAX](/images/207.webp)
 
 *Slowking VMAX*
 
@@ -397,13 +397,13 @@ The following are likely to be the most sought after cards from the set by colle
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![Metagross VMAX](/images/ea4b360f97de3279.webp)
+![Metagross VMAX](/images/208.webp)
 
 *Metagross VMAX*
 
 </div><div class="jb-col-2">
 
-![Tornadus VMAX](/images/ab06f34103891c7e.webp)
+![Tornadus VMAX](/images/209.webp)
 
 *Tornadus VMAX*
 
@@ -413,73 +413,73 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![Agatha](/images/81a0dcab145f303a.webp)
+![Agatha](/images/210.webp)
 
 *Agatha*
 
 </div><div class="jb-col-2">
 
-![Avery](/images/e33f9e39eafd0aef.webp)
+![Avery](/images/211.webp)
 
 *Avery*
 
 </div></div></div><div class="jb-col-2">
 
-![Brawly](/images/a4c595d8d3d5f087.webp)
+![Brawly](/images/212.webp)
 
 *Brawly*
 
 </div><div class="jb-col-2">
 
-![Caitlin](/images/a7d730582e3f446f.webp)
+![Caitlin](/images/213.webp)
 
 *Caitlin*
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![Doctor](/images/602bc97b26a50b4d.webp)
+![Doctor](/images/214.webp)
 
 *Doctor*
 
 </div><div class="jb-col-2">
 
-![Flannery](/images/33555ff10518b6b8.webp)
+![Flannery](/images/215.webp)
 
 *Flannery*
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![Karen’s Conviction](/images/46c7d534377e0c99.webp)
+![Karen’s Conviction](/images/216.webp)
 
 *Karen’s Conviction*
 
 </div><div class="jb-col-2">
 
-![Klara](/images/e7daaa4f19d769f8.webp)
+![Klara](/images/217.webp)
 
 *Klara*
 
 </div><div class="jb-col-2">
 
-![Melony](/images/dc72647a6fb3d3ee.webp)
+![Melony](/images/218.webp)
 
 *Melony*
 
 </div><div class="jb-col-2">
 
-![Peonia](/images/7d6da5ccfb3c1abb.webp)
+![Peonia](/images/219.webp)
 
 *Peonia*
 
 </div><div class="jb-col-2">
 
-![Peony](/images/9534e833b1b992b0.webp)
+![Peony](/images/220.webp)
 
 *Peony*
 
 </div><div class="jb-col-2">
 
-![Siebold](/images/5f52f989acda9710.webp)
+![Siebold](/images/221.webp)
 
 *Siebold*
 
@@ -492,55 +492,55 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Echoing Horn](/images/96d6302774301344.webp)
+![Echoing Horn](/images/225.webp)
 
 *Echoing Horn*
 
 </div><div class="jb-col-2">
 
-![Fan of Waves](/images/d41fff8a7d837a05.webp)
+![Fan of Waves](/images/226.webp)
 
 *Fan of Waves*
 
 </div><div class="jb-col-2">
 
-![Fog Crystal](/images/3e8d9cdb1fdd76d4.webp)
+![Fog Crystal](/images/227.webp)
 
 *Fog Crystal*
 
 </div><div class="jb-col-2">
 
-![Rugged Helmet](/images/208205538c15f8b7.webp)
+![Rugged Helmet](/images/228.webp)
 
 *Rugged Helmet*
 
 </div><div class="jb-col-2">
 
-![Urn of Vitality](/images/16e07368b290e9b8.webp)
+![Urn of Vitality](/images/229-1.webp)
 
 *Urn of Vitality*
 
 </div><div class="jb-col-2">
 
-![Welcoming Lantern](/images/b479dc9612805465.webp)
+![Welcoming Lantern](/images/230-1.webp)
 
 *Welcoming Lantern*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Water Energy](/images/5fc3c1a3481da3e9.webp)
+![Water Energy](/images/231.webp)
 
 *Water Energy*
 
 </div><div class="jb-col-2">
 
-![Psychic Energy](/images/01ad90a60bc601bb.webp)
+![Psychic Energy](/images/232-1.webp)
 
 *Psychic Energy*
 
 </div><div class="jb-col-2">
 
-![Fighting Energy](/images/6e39be1a491d38c5.webp)
+![Fighting Energy](/images/233-1.webp)
 
 *Fighting Energy*
 
@@ -557,7 +557,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Abomasnow](/images/314f64ab9ffa643a.webp)
+![Abomasnow](/images/10-15.webp)
 
 *Abomasnow*
 
@@ -571,7 +571,7 @@ Ability: Toughness Up As long as this Pokémon is in play, the maximum HP of you
 
 </div><div class="jb-col-2">
 
-![43-1.jpg](/images/d778b382f88cf041.webp)
+![43-1.jpg](/images/43-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -579,7 +579,7 @@ Ability: Toughness Up As long as this Pokémon is in play, the maximum HP of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Galarian Articuno V](/images/7eeb3bdbac72982a.webp)
+![Galarian Articuno V](/images/58-1.webp)
 
 *Galarian Articuno V*
 
@@ -593,7 +593,7 @@ Ability: Psychic Construct Once during your turn, you may discard 2 cards from y
 
 </div><div class="jb-col-2">
 
-![Gardevoir](/images/f1d42678a4a0e4d1.webp)
+![Gardevoir](/images/61-1.webp)
 
 *Gardevoir*
 
@@ -607,7 +607,7 @@ Ability: Arcana Shine Once during your turn you may look at the top 2 cards of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Cresselia](/images/72cd3fdbdeeee2db.webp)
+![Cresselia](/images/64-1.webp)
 
 *Cresselia*
 
@@ -621,7 +621,7 @@ Ability: Arcana Shine Once during your turn you may look at the top 2 cards of y
 
 </div><div class="jb-col-2">
 
-![Galarian Weezing](/images/442af9ce4c6142ae.webp)
+![Galarian Weezing](/images/96-3.webp)
 
 *Galarian Weezing*
 
@@ -635,7 +635,7 @@ Ability: Energy Factory Each basic [D] Energy attached to your Pokémon with “
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Galarian Moltres V](/images/67afa131a2622cf3.webp)
+![Galarian Moltres V](/images/97-2.webp)
 
 *Galarian Moltres V*
 
@@ -649,7 +649,7 @@ Ability: Bolstered Wings Once during your turn, you may attach a [D] Energy from
 
 </div><div class="jb-col-2">
 
-![Spiritomb](/images/d176fbb0b119015f.webp)
+![Spiritomb](/images/103-1.webp)
 
 *Spiritomb*
 
@@ -663,7 +663,7 @@ Ability: Bolstered Wings Once during your turn, you may attach a [D] Energy from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Liepard V](/images/d4df57fcd5b77455.webp)
+![Liepard V](/images/104-2.webp)
 
 *Liepard V*
 
@@ -677,7 +677,7 @@ Ability: Hidden Claw Once during your turn when you play this Pokémon from your
 
 </div><div class="jb-col-2">
 
-![Greedent](/images/e56817498b6e1491.webp)
+![Greedent](/images/128.webp)
 
 *Greedent*
 
@@ -698,7 +698,7 @@ Ability: Brazen Tail Prevent all effects of your opponent’s Item and Supporter
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Rillaboom](/images/0f46a19aca370716.webp)
+![Rillaboom](/images/18-10.webp)
 
 *Rillaboom*
 
@@ -712,7 +712,7 @@ Ability: Brazen Tail Prevent all effects of your opponent’s Item and Supporter
 
 </div><div class="jb-col-2">
 
-![21-8.jpg](/images/5376c47459219916.webp)
+![21-8.jpg](/images/21-8.webp)
 
 </div><div class="jb-col-4">
 
@@ -720,7 +720,7 @@ Ability: Brazen Tail Prevent all effects of your opponent’s Item and Supporter
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Cinderace](/images/0c07ef591c42cc0b.webp)
+![Cinderace](/images/28-2.webp)
 
 *Cinderace*
 
@@ -734,7 +734,7 @@ Ability: Crisis Power This Pokémon’s attacks do 30 more damage to your oppone
 
 </div><div class="jb-col-2">
 
-![Rapid Strike Urshifu](/images/91aa5e9b12c48e45.webp)
+![Rapid Strike Urshifu](/images/44-3.webp)
 
 *Rapid Strike Urshifu*
 
@@ -748,7 +748,7 @@ Ability: Crisis Power This Pokémon’s attacks do 30 more damage to your oppone
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Ice Rider Calyrex VMAX](/images/501effa2c84f5842.webp)
+![Ice Rider Calyrex VMAX](/images/46-1.webp)
 
 *Ice Rider Calyrex VMAX*
 
@@ -762,7 +762,7 @@ Ability: Crisis Power This Pokémon’s attacks do 30 more damage to your oppone
 
 </div><div class="jb-col-2">
 
-![Zeraora V](/images/3465cc6e59e90dc8.webp)
+![Zeraora V](/images/53-1.webp)
 
 *Zeraora V*
 
@@ -774,7 +774,7 @@ Ability: Crisis Power This Pokémon’s attacks do 30 more damage to your oppone
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Banette](/images/e746ae530dffa38d.webp)
+![Banette](/images/63-2.webp)
 
 *Banette*
 
@@ -788,7 +788,7 @@ Ability: Crisis Power This Pokémon’s attacks do 30 more damage to your oppone
 
 </div><div class="jb-col-2">
 
-![Malamar](/images/20abfa956a6526a5.webp)
+![Malamar](/images/70.webp)
 
 *Malamar*
 
@@ -800,7 +800,7 @@ Ability: Crisis Power This Pokémon’s attacks do 30 more damage to your oppone
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Shadow Rider Calyrex VMAX](/images/2b78c0b257a41b71.webp)
+![Shadow Rider Calyrex VMAX](/images/75.webp)
 
 *Shadow Rider Calyrex VMAX*
 
@@ -814,7 +814,7 @@ Ability: Underworld Door Once during your turn you may attach a [P] Energy card 
 
 </div><div class="jb-col-2">
 
-![Galarian Zapdos V](/images/0cb54ea30d99dd93.webp)
+![Galarian Zapdos V](/images/80.webp)
 
 *Galarian Zapdos V*
 
@@ -828,7 +828,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Gallade](/images/a8b3b116ef24ffa6.webp)
+![Gallade](/images/81.webp)
 
 *Gallade*
 
@@ -842,7 +842,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div><div class="jb-col-2">
 
-![Lycanroc](/images/44b6624ea6a3099c.webp)
+![Lycanroc](/images/87.webp)
 
 *Lycanroc*
 
@@ -854,7 +854,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Sandaconda VMAX](/images/4b6cd642f9d0fda7.webp)
+![Sandaconda VMAX](/images/90.webp)
 
 *Sandaconda VMAX*
 
@@ -868,7 +868,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div><div class="jb-col-2">
 
-![Weezing](/images/f17f23cdb1f490f2.webp)
+![Weezing](/images/95-2.webp)
 
 *Weezing*
 
@@ -882,7 +882,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Galarian Slowking VMAX](/images/8e3c9fd23abb8a5c.webp)
+![Galarian Slowking VMAX](/images/100.webp)
 
 *Galarian Slowking VMAX*
 
@@ -894,7 +894,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div><div class="jb-col-2">
 
-![Single Strike Urshifu](/images/390ff02fb1407461.webp)
+![Single Strike Urshifu](/images/108-1.webp)
 
 *Single Strike Urshifu*
 
@@ -908,7 +908,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Metagross VMAX](/images/a3b80775040589fe.webp)
+![Metagross VMAX](/images/113-1.webp)
 
 *Metagross VMAX*
 
@@ -922,7 +922,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div><div class="jb-col-2">
 
-![Tauros](/images/974553273478bda4.webp)
+![Tauros](/images/115-1.webp)
 
 *Tauros*
 
@@ -936,7 +936,7 @@ Ability: Fighting Instinct For each Pokémon V your opponent has in play, this P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Blissey](/images/722bd69067fb0b26.webp)
+![Blissey](/images/119-1.webp)
 
 *Blissey*
 
@@ -957,7 +957,7 @@ Ability: Natural Cure Whenever you attach an Energy from your hand to this Poké
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Avery](/images/5a2b91ed22bfba36.webp)
+![Avery](/images/130.webp)
 
 *Avery*
 
@@ -969,7 +969,7 @@ Draw 3 cards. Then, your opponent discards their Benched Pokémon until they hav
 
 </div><div class="jb-col-2">
 
-![Brawly](/images/3d68d518198fa206.webp)
+![Brawly](/images/131-3d68d5.webp)
 
 *Brawly*
 
@@ -981,7 +981,7 @@ Search your deck for up to 3 Rapid Strike Basic Pokémon and put them on your Be
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Caitlin](/images/668bc7a50188e83e.webp)
+![Caitlin](/images/132-1.webp)
 
 *[Caitlin](https://www.pokebeach.com/2021/04/silver-lance-and-jet-black-spirit-fully-revealed)*
 
@@ -995,7 +995,7 @@ Put as many cards from your hand as you like on the bottom of your deck in any o
 
 </div><div class="jb-col-2">
 
-![Flannery](/images/2bd39b8f58df4cbf.webp)
+![Flannery](/images/139.webp)
 
 *[Flannery](https://www.pokebeach.com/2021/04/cinderace-rilaboom-flannery-siebold-two-energy-and-more-from-s6-revealed)*
 
@@ -1007,7 +1007,7 @@ Choose a Special Energy card attached to 1 of your opponent’s Pokémon, and an
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Karen’s Conviction](/images/16ccdde1f2e03f4c.webp)
+![Karen’s Conviction](/images/144.webp)
 
 *[Karen’s Conviction](https://www.pokebeach.com/2021/03/all-70-matchless-fighters-cards-revealed/2)*
 
@@ -1019,7 +1019,7 @@ During this turn, your Single Strike Pokémon’s attacks do 20 more damage to y
 
 </div><div class="jb-col-2">
 
-![Klara](/images/5aaeb1eab57ccc5d.webp)
+![Klara](/images/145.webp)
 
 *[Klara](https://www.pokebeach.com/2021/03/all-70-matchless-fighters-cards-revealed/2)*
 
@@ -1031,7 +1031,7 @@ Choose up to 2 Pokémon and up to 2 Basic Energy from your discard pile, show th
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Melony](/images/04ec5a133420d84d.webp)
+![Melony](/images/146.webp)
 
 *[Melony](https://www.pokebeach.com/2021/03/ice-rider-shadow-rider-calyrex-vmax-cresselia-melony-and-more-from-s6-revealed)*
 
@@ -1043,7 +1043,7 @@ Attach a [W] Energy from your discard pile to 1 of your Pokémon V. Then, draw 3
 
 </div><div class="jb-col-2">
 
-![Peonia](/images/e1f780d215f7508e.webp)
+![Peonia](/images/149.webp)
 
 *[Peonia](https://www.pokebeach.com/2021/04/gardevoir-peon-and-peonia-from-s6-revealed)*
 
@@ -1055,7 +1055,7 @@ Choose up to 3 of your Prize cards and put them into your hand. Then, place the 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Peony](/images/3e9c71b7fb6a42c9.webp)
+![Peony](/images/150.webp)
 
 *[Peony](https://www.pokebeach.com/2021/04/gardevoir-peon-and-peonia-from-s6-revealed)*
 
@@ -1074,7 +1074,7 @@ Discard your hand and search your deck for up to 2 Trainer cards, reveal them, a
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Echoing Horn](/images/67fab8cc2ece4e4e.webp)
+![Echoing Horn](/images/136.webp)
 
 *[Echoing Horn](https://www.pokebeach.com/2021/03/all-70-matchless-fighters-cards-revealed/2)*
 
@@ -1086,7 +1086,7 @@ Put a Basic Pokémon from your opponent’s discard pile onto their Bench.
 
 </div><div class="jb-col-2">
 
-![Fog Crystal](/images/32a3e6cfecdf2f19.webp)
+![Fog Crystal](/images/140.webp)
 
 *[Fog Crystal](https://www.pokebeach.com/2021/03/ice-rider-shadow-rider-calyrex-vmax-cresselia-melony-and-more-from-s6-revealed)*
 
@@ -1098,7 +1098,7 @@ Search your deck for either a [P] Basic Pokémon or [P] Energy, reveal it, and p
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![uRugged Helmet](/images/eb0cf7e772f9c183.webp)
+![uRugged Helmet](/images/152.webp)
 
 *[uRugged Helmet](https://www.pokebeach.com/2021/04/silver-lance-and-jet-black-spirit-fully-revealed)*
 
@@ -1110,7 +1110,7 @@ When the Pokémon this card is attached to is your Active Pokémon and is damage
 
 </div><div class="jb-col-2">
 
-![Single Strike Scroll of Piercing](/images/15a697b014f84986.webp)
+![Single Strike Scroll of Piercing](/images/154.webp)
 
 *[Single Strike Scroll of Piercing](https://www.pokebeach.com/2021/04/cinderace-rilaboom-flannery-siebold-two-energy-and-more-from-s6-revealed)*
 
@@ -1124,7 +1124,7 @@ The Single Strike Pokémon this card is attached to can use the attack on this c
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Welcoming Lantern](/images/bbeeb7080d6c4d94.webp)
+![Welcoming Lantern](/images/156.webp)
 
 *[Welcoming Lantern](https://www.pokebeach.com/2021/03/all-70-matchless-fighters-cards-revealed/2)*
 
@@ -1143,7 +1143,7 @@ Choose a Single Strike Supporter card from your discard pile and put it into you
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Dyna Tree Hill](/images/708129ee3e5b7b81.webp)
+![Dyna Tree Hill](/images/135.webp)
 
 *[Dyna Tree Hill](https://www.pokebeach.com/2021/03/all-70-matchless-fighters-cards-revealed/2)*
 
@@ -1155,7 +1155,7 @@ Pokémon in play (both yours and your opponent’s) can’t be healed.
 
 </div><div class="jb-col-2">
 
-![Old Cemetery](/images/0b6b7f08af6bfbcb.webp)
+![Old Cemetery](/images/147.webp)
 
 *[Old Cemetery](https://www.pokebeach.com/2021/03/ice-rider-shadow-rider-calyrex-vmax-cresselia-melony-and-more-from-s6-revealed)*
 
@@ -1167,7 +1167,7 @@ Whenever a player attaches an Energy from their hand to one of their Pokémon (e
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Path to the Peak](/images/c04e2bd5a4a63644.webp)
+![Path to the Peak](/images/148.webp)
 
 *[Path to the Peak](https://www.pokebeach.com/2021/03/ice-rider-shadow-rider-calyrex-vmax-cresselia-melony-and-more-from-s6-revealed)*
 
@@ -1179,7 +1179,7 @@ Each player’s Pokémon in play with a Rule Box has no Abilities.
 
 </div><div class="jb-col-2">
 
-![Impact Energy](/images/c712b28ffc456d66.webp)
+![Impact Energy](/images/157.webp)
 
 *[Impact Energy](https://www.pokebeach.com/2021/04/cinderace-rilaboom-flannery-siebold-two-energy-and-more-from-s6-revealed)*
 
@@ -1195,7 +1195,7 @@ The Pokémon this card is attached to cannot be Poisoned. (If the Pokémon this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Spiral Energy](/images/05ed50a84be3913d.webp)
+![Spiral Energy](/images/159.webp)
 
 *[Spiral Energy](https://www.pokebeach.com/2021/04/cinderace-rilaboom-flannery-siebold-two-energy-and-more-from-s6-revealed)*
 

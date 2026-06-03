@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 4: Mamoswine ex vs. Gholdengo ex"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/b25d0b714c441379.webp"
+ogImage: "/images/part-4-b25d0b.webp"
 publishDate: 2025-02-15
 youtubeId: "jAqjz9A9wAw"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-4-mamoswine-ex-vs-gholdengo-ex"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/d0237be828423cea.webp)
+![](/images/part-4-d0237b.webp)
 
 
 

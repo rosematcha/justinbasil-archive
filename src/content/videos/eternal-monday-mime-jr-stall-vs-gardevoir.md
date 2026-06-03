@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Mime Jr. Stall vs. Gardevoir"
 description: "In this week's Eternal Monday, it's Mime Jr. gets suuuuper sleepy as Gardevoir looks to do something, anything to get this little tyke to behave!"
-ogImage: "/images/f4dbcdb26216d409.webp"
+ogImage: "/images/mime-jr-v-gardy-f4dbcd.webp"
 publishDate: 2025-04-07
 youtubeId: "U4Mnuwd6Tks"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-mime-jr-stall-vs-gardevoir"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, it's Mime Jr. gets suuuuper sleepy as Gardevoir l
 
 
 
-![](/images/871223255eb97ae4.webp)
+![](/images/mime-jr-v-gardy.webp)
 
 
 

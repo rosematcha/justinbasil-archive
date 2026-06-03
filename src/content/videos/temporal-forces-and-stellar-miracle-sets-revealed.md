@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 18: \"Temporal Forces\" and \"Stellar Miracle\" Sets Revealed!"
 description: "In this week's episode we talk about the official English reveal of \"Temporal Forces,\" an upcoming Japanese set named \"Stellar Miracle,\" the Standard format rotation, and new card reveals from \"Wild Force\" and \"Cyber Judge.\""
-ogImage: "/images/caffcf8190f3c4f1.webp"
+ogImage: "/images/pidgeot-768x432-caffcf.webp"
 publishDate: 2024-01-11
 youtubeId: "NKhLy9X4gZ4"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-and-stellar-miracle-sets-revealed"
@@ -19,7 +19,7 @@ In this week's episode we talk about the official English reveal of "Temporal Fo
 
 
 
-![](/images/02827e996ce6b8a3.webp)
+![](/images/pidgeot-768x432.webp)
 
 
 

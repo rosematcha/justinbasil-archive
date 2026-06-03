@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Translations"
 description: "Below is a running summary of translations for all base-rarity cards currently believed to be part of our Twilight Masquerade set. To view secret rare cards, visit the set’s  Visual Set List ."
-ogImage: "/images/bf4ab5182db37aed.webp"
+ogImage: "/images/045577-p-monjixyara-bf4ab5.webp"
 publishDate: 2024-02-03
 sourceUrl: "https://www.justinbasil.com/translations/sv6"
 showHeading: false
@@ -10,7 +10,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/d3ee81b261623886.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Card Translations</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
@@ -52,7 +52,7 @@ Below is a running summary of translations for all base-rarity cards currently b
     <span id="G" class="symb">G</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/42b1be980e194ca9.webp)
+![](/images/045577-p-monjixyara.webp)
 
 </div><div class="jb-col-10">
 
@@ -64,7 +64,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dc1feb2203ca3550.webp)
+![](/images/045578-p-mojixyanbo.webp)
 
 </div><div class="jb-col-10">
 
@@ -76,7 +76,7 @@ Ability: Jungle Body This Pokémon takes 30 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0921eaa170c3b8b4.webp)
+![](/images/pinsir.webp)
 
 </div><div class="jb-col-10">
 
@@ -88,7 +88,7 @@ Ability: Jungle Body This Pokémon takes 30 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4a3ec38ddfe188bd.webp)
+![](/images/spinarak.webp)
 
 </div><div class="jb-col-10">
 
@@ -98,7 +98,7 @@ Ability: Jungle Body This Pokémon takes 30 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/820ff483e6a0082a.webp)
+![](/images/untitled.webp)
 
 </div><div class="jb-col-10">
 
@@ -110,7 +110,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/00dccf73db6735f7.webp)
+![](/images/sunkern-00dccf.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -122,7 +122,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0f8d5a35562fce5d.webp)
+![](/images/sunflora-0f8d5a.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -136,7 +136,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d627e39384f1c58e.webp)
+![](/images/045694-p-herakurosu.webp)
 
 </div><div class="jb-col-10">
 
@@ -148,7 +148,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/57b7c9c02e3740d1.webp)
+![](/images/volbeat.webp)
 
 </div><div class="jb-col-10">
 
@@ -160,7 +160,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9f6b72e6312a9adb.webp)
+![](/images/illumise.webp)
 
 </div><div class="jb-col-10">
 
@@ -172,7 +172,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/789fee0cb69205f0.webp)
+![](/images/045582-p-rifuia.webp)
 
 </div><div class="jb-col-10">
 
@@ -184,7 +184,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ec2618faaeb229f3.webp)
+![](/images/045697-p-bokure.webp)
 
 </div><div class="jb-col-10">
 
@@ -194,7 +194,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8fd2761f63e359b7.webp)
+![](/images/045698-p-orotto.webp)
 
 </div><div class="jb-col-10">
 
@@ -206,7 +206,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c1b43b6aa89ecfe2.webp)
+![](/images/omatsuri-card-5-2.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -220,7 +220,7 @@ Ability: Big Net Your opponent’s Active Evolution Pokémon’s Retreat Cost is
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/100554abc4019025.webp)
+![](/images/omatsuri-card-5.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -234,7 +234,7 @@ Ability: Boom Boom Drum Once during your turn, if your Active Pokémon has the �
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d49b05005ce423d2.webp)
+![](/images/omatsuri-card-5-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -246,7 +246,7 @@ Ability: Boom Boom Drum Once during your turn, if your Active Pokémon has the �
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8c727b27fe73f095.webp)
+![](/images/omatsuri-card-2-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -256,7 +256,7 @@ Ability: Boom Boom Drum Once during your turn, if your Active Pokémon has the �
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f98d6564926c741a.webp)
+![](/images/dipplin-f98d65.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -272,7 +272,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/68fa658f95bf39db.webp)
+![](/images/iron-leaves.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -286,7 +286,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/26668184c0610a10.webp)
+![](/images/poltchageist-twm-20.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -300,7 +300,7 @@ Ability: Storehouse Hideaway As long as this Pokémon is on your Bench, prevent 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/325d53edbd6cd394.webp)
+![](/images/pokemon-card-2-1.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -314,7 +314,7 @@ Ability: Storehouse Hideaway As long as this Pokémon is on your Bench, prevent 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1bebb1177ecbe140.webp)
+![](/images/pokemon-card-2-1bebb1.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -328,7 +328,7 @@ Ability: Storehouse Hideaway As long as this Pokémon is on your Bench, prevent 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/05b23d29ed32ac3d.webp)
+![](/images/045585-p-yabasochixyaex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -344,7 +344,7 @@ Ability: Storehouse Hideaway As long as this Pokémon is on your Bench, prevent 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9b531bae94c1ffd6.webp)
+![](/images/teal-mask-ogerpon.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -358,7 +358,7 @@ Ability: Storehouse Hideaway As long as this Pokémon is on your Bench, prevent 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f7f1deab9920fcc6.webp)
+![](/images/teal-mask-ogrepon-ex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -374,7 +374,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
     <span id="R" class="symb">R</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f0abeb2a8a6920b9.webp)
+![](/images/045586-p-rokon.webp)
 
 </div><div class="jb-col-10">
 
@@ -384,7 +384,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3e77ee884101cc39.webp)
+![](/images/045587-p-kixyuukon.webp)
 
 </div><div class="jb-col-10">
 
@@ -394,7 +394,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/33167956863f9271.webp)
+![](/images/slugma.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -406,7 +406,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2a556da609d307ac.webp)
+![](/images/magcargoex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -420,7 +420,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/66d05b45f7033914.webp)
+![](/images/045590-p-kotasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -432,7 +432,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/57ac1d21cdb64801.webp)
+![](/images/chimchar.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -444,7 +444,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/90ce556e59688492.webp)
+![](/images/monferno.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -458,7 +458,7 @@ Ability: Teal Dance Once during your turn, you may attach a Basic [G] Energy car
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e578a7b17ae40d3a.webp)
+![](/images/infernape.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -472,7 +472,7 @@ Ability: Fire Dancing Once during your turn, you may attach a Basic [R] Energy, 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fb9a157ad37fc276.webp)
+![](/images/045708-p-darumakka.webp)
 
 </div><div class="jb-col-10">
 
@@ -484,7 +484,7 @@ Ability: Fire Dancing Once during your turn, you may attach a Basic [R] Energy, 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e4094018626c1129.webp)
+![](/images/045709-p-hihidaruma.webp)
 
 </div><div class="jb-col-10">
 
@@ -496,7 +496,7 @@ Ability: Fire Dancing Once during your turn, you may attach a Basic [R] Energy, 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/952f2269c09c283a.webp)
+![](/images/litwick-952f22.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -510,7 +510,7 @@ Ability: Fire Dancing Once during your turn, you may attach a Basic [R] Energy, 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1cedda26b87d79cf.webp)
+![](/images/lampent-1cedda.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -524,7 +524,7 @@ Ability: Fire Dancing Once during your turn, you may attach a Basic [R] Energy, 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ec58c280323b9fd3.webp)
+![](/images/chandelure-ec58c2.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -538,7 +538,7 @@ Ability: Inviting Light Once during your turn, you may use this Ability. Each pl
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/67b34832bf6969bb.webp)
+![](/images/045594-p-iyui.webp)
 
 </div><div class="jb-col-10">
 
@@ -550,7 +550,7 @@ Ability: Inviting Light Once during your turn, you may use this Ability. Each pl
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3c14bf32d9eef86f.webp)
+![](/images/hearthflame-mask-ogerpon-ex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -566,7 +566,7 @@ Ability: Inviting Light Once during your turn, you may use this Ability. Each pl
     <span id="W" class="symb">W</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fd0b57d66a029cb6.webp)
+![](/images/poliwag.webp)
 
 </div><div class="jb-col-10">
 
@@ -578,7 +578,7 @@ Ability: Inviting Light Once during your turn, you may use this Ability. Each pl
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e75d19f908b38aef.webp)
+![](/images/poliwhirl.webp)
 
 </div><div class="jb-col-10">
 
@@ -590,7 +590,7 @@ Ability: Inviting Light Once during your turn, you may use this Ability. Each pl
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4724931e28f69b21.webp)
+![](/images/poliwrath.webp)
 
 </div><div class="jb-col-10">
 
@@ -602,7 +602,7 @@ Ability: Inviting Light Once during your turn, you may use this Ability. Each pl
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2c9b185ac722a479.webp)
+![](/images/omatsuri-card-3.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -618,7 +618,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/de1bef359ff6c426.webp)
+![](/images/omatsuri-card-3-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -630,7 +630,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/62813c1a75bc9009.webp)
+![](/images/045719-p-rujixyura.webp)
 
 </div><div class="jb-col-10">
 
@@ -642,7 +642,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4474dcb9d8f9d27a.webp)
+![](/images/045595-p-heigani.webp)
 
 </div><div class="jb-col-10">
 
@@ -652,7 +652,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c5ac4efdc25e04b9.webp)
+![](/images/045596-p-shizariga.webp)
 
 </div><div class="jb-col-10">
 
@@ -664,7 +664,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4eaf6831ae905820.webp)
+![](/images/feebas-4eaf68.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -676,7 +676,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/14210af829f47f18.webp)
+![](/images/milotic.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -690,7 +690,7 @@ Ability: Serenity Your opponent's Pokémon in play, and any cards attached to th
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ee136892f1f8d2ed.webp)
+![](/images/snorunt-ee1368.webp)
 
 </div><div class="jb-col-10">
 
@@ -700,7 +700,7 @@ Ability: Serenity Your opponent's Pokémon in play, and any cards attached to th
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/408f13d931727a58.webp)
+![](/images/glalie.webp)
 
 </div><div class="jb-col-10">
 
@@ -712,7 +712,7 @@ Ability: Serenity Your opponent's Pokémon in play, and any cards attached to th
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4825b975bc43581e.webp)
+![](/images/froslass.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -726,7 +726,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/465a5835e3645605.webp)
+![](/images/045597-p-gureishia.webp)
 
 </div><div class="jb-col-10">
 
@@ -738,7 +738,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bb519b23ab27c2cb.webp)
+![](/images/sv5a-8.webp)
 
 </div><div class="jb-col-10">
 
@@ -750,7 +750,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6138e64d963bea3a.webp)
+![](/images/045599-p-keromatsu.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -764,7 +764,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ffc74f65b6de6868.webp)
+![](/images/045600-p-gekogashira.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -776,7 +776,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/582603fa868734c2.webp)
+![](/images/cramorant-582603.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -790,7 +790,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b5ac61af648403eb.webp)
+![](/images/pokemonex-card-3.webp)
 
 </div><div class="jb-col-10">
 
@@ -800,7 +800,7 @@ Ability: Freezing Curtain During Pokémon Checkup, put 1 damage counter on each 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/46052efdea25f492.webp)
+![](/images/pokemonex-card-2.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -814,7 +814,7 @@ Ability: Zero to Hero Once during your turn, when this Pokémon moves from the A
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1d56a823c381e267.webp)
+![](/images/pokemonex-card-1.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -828,7 +828,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/06662e835ee22393.webp)
+![](/images/iron-bundle-06662e.webp)
 
 </div><div class="jb-col-10">
 
@@ -838,7 +838,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8f313f4ec45ad745.webp)
+![](/images/walking-wake.webp)
 
 </div><div class="jb-col-10">
 
@@ -850,7 +850,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a2261d43c178636.webp)
+![](/images/wellspring-mask-ogerpon-ex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -866,7 +866,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
     <span id="L" class="symb">L</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d581a18a5462c5bf.webp)
+![](/images/045603-p-sanda.webp)
 
 </div><div class="jb-col-10">
 
@@ -878,7 +878,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0761693051274d0b.webp)
+![](/images/045730-p-korinku.webp)
 
 </div><div class="jb-col-10">
 
@@ -890,7 +890,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2b1a171c0934f940.webp)
+![](/images/045731-p-rukushio.webp)
 
 </div><div class="jb-col-10">
 
@@ -900,7 +900,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f8a3188a08ed8ed7.webp)
+![](/images/045732-p-rentoraex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -914,7 +914,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/91a7d39d9ed9e8ee.webp)
+![](/images/emolga.webp)
 
 </div><div class="jb-col-10">
 
@@ -924,7 +924,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b519d14a5e0f13e9.webp)
+![](/images/045604-p-erikiteru.webp)
 
 </div><div class="jb-col-10">
 
@@ -936,7 +936,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5a3287add54651ec.webp)
+![](/images/045605-p-erezado.webp)
 
 </div><div class="jb-col-10">
 
@@ -946,7 +946,7 @@ Ability: Hero’s Spirit Put this Pokémon into play only with the effect of Pal
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ed58e7de3f757862.webp)
+![](/images/morpeko-ed58e7.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -960,7 +960,7 @@ Ability: Snack Search Once during your turn, you may look at the top card of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9cd0685a395e67a4.webp)
+![](/images/045607-p-zupika.webp)
 
 </div><div class="jb-col-10">
 
@@ -972,7 +972,7 @@ Ability: Snack Search Once during your turn, you may look at the top card of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d59506ea5934c87c.webp)
+![](/images/045608-p-harabari.webp)
 
 </div><div class="jb-col-10">
 
@@ -984,7 +984,7 @@ Ability: Snack Search Once during your turn, you may look at the top card of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/eb9788ecf761435e.webp)
+![](/images/045734-p-kaiden.webp)
 
 </div><div class="jb-col-10">
 
@@ -994,7 +994,7 @@ Ability: Snack Search Once during your turn, you may look at the top card of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e9e1f20574470cc6.webp)
+![](/images/045735-p-taikaiden.webp)
 
 </div><div class="jb-col-10">
 
@@ -1006,7 +1006,7 @@ Ability: Snack Search Once during your turn, you may look at the top card of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/142af343fc6c2780.webp)
+![](/images/sv5a-5.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1022,7 +1022,7 @@ Ability: Initialize As long as this Pokémon is in the Active Spot, Pokémon wit
     <span id="P" class="symb">P</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d418ca422e22618c.webp)
+![](/images/pokemon-card-6-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -1032,7 +1032,7 @@ Ability: Initialize As long as this Pokémon is in the Active Spot, Pokémon wit
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e22e0ed001d0fab1.webp)
+![](/images/pokemon-card-6.webp)
 
 </div><div class="jb-col-10">
 
@@ -1044,7 +1044,7 @@ Ability: Initialize As long as this Pokémon is in the Active Spot, Pokémon wit
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e2ccd77b26fb92c9.webp)
+![](/images/abra-e2ccd7.webp)
 
 </div><div class="jb-col-10">
 
@@ -1056,7 +1056,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dbd278b3c1ed88dd.webp)
+![](/images/kadabra-dbd278.webp)
 
 </div><div class="jb-col-10">
 
@@ -1066,7 +1066,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/07e9405dc0503e98.webp)
+![](/images/alakazam.webp)
 
 </div><div class="jb-col-10">
 
@@ -1078,7 +1078,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0fb309145b4b26c8.webp)
+![](/images/girafarig-0fb309.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1090,7 +1090,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8a0a2750589ef625.webp)
+![](/images/farigiraf.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1104,7 +1104,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/69f5742b46bedc3f.webp)
+![](/images/045741-p-chirin.webp)
 
 </div><div class="jb-col-10">
 
@@ -1116,7 +1116,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c0ba7865f82a96ca.webp)
+![](/images/045612-p-furabebe.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1130,7 +1130,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/be925c2bc2023144.webp)
+![](/images/045613-p-furaette.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1144,7 +1144,7 @@ Ability: Teleporter Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/12b2ae9a73a3ae17.webp)
+![](/images/045614-p-furajiesu.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1158,7 +1158,7 @@ Ability: Captivating Temptation Once during your turn, you may flip a coin. If h
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/57cca30391492709.webp)
+![](/images/omatsuri-card-4.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1174,7 +1174,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9bd367123a11f288.webp)
+![](/images/omatsuri-card-4-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -1184,7 +1184,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/47f943ff8db7d87d.webp)
+![](/images/045744-p-sunabaa.webp)
 
 </div><div class="jb-col-10">
 
@@ -1196,7 +1196,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c2a1e7b0ac210d35.webp)
+![](/images/045745-p-shirodesuna.webp)
 
 </div><div class="jb-col-10">
 
@@ -1208,7 +1208,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7ac40d2f1cebef63.webp)
+![](/images/045615-p-rabutorosu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1220,7 +1220,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0c6e7b23a47f7500.webp)
+![](/images/sv5a-4.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1234,7 +1234,7 @@ Ability: Festival Lead If Festival Grounds is in play, this Pokémon may use any
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/353064c8e83c9a5a.webp)
+![](/images/pokemon-card-3-353064.webp)
 
 </div><div class="jb-col-10">
 
@@ -1246,7 +1246,7 @@ Ability: Adrenaline Brain If this Pokémon has any [D] Energy attached, you may 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7373765f300e280c.webp)
+![](/images/pokemon-card-4-737376.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1265,7 +1265,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
     <span id="F" class="symb">F</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/19cb277778d331c2.webp)
+![](/images/045748-p-sando.webp)
 
 </div><div class="jb-col-10">
 
@@ -1277,7 +1277,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/74350e32cbca05dd.webp)
+![](/images/045749-p-sandopan.webp)
 
 </div><div class="jb-col-10">
 
@@ -1289,7 +1289,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c272df920b8d6d16.webp)
+![](/images/045617-p-hisuigadei.webp)
 
 </div><div class="jb-col-10">
 
@@ -1301,7 +1301,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4a49185c9d7db9bb.webp)
+![](/images/045618-p-hisuiuindei.webp)
 
 </div><div class="jb-col-10">
 
@@ -1313,7 +1313,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fa95aa0e393f9f28.webp)
+![](/images/045619-p-nozupasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1323,7 +1323,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/004cf5341eca71ef.webp)
+![](/images/045620-p-dainozu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1335,7 +1335,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0a471f341daad8ab.webp)
+![](/images/pokemon-card-7-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -1345,7 +1345,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4c04424b0735dfac.webp)
+![](/images/pokemon-card-7-2.webp)
 
 </div><div class="jb-col-10">
 
@@ -1357,7 +1357,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2d05be9cfc418f8c.webp)
+![](/images/pokemon-card-7.webp)
 
 </div><div class="jb-col-10">
 
@@ -1369,7 +1369,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fae612cae375b604.webp)
+![](/images/045621-p-gekkougaex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1383,7 +1383,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4635e3ca40405cf1.webp)
+![](/images/045622-p-ruchixyaburu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1393,7 +1393,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6c3103c53483d8ab.webp)
+![](/images/045753-p-kirame.webp)
 
 </div><div class="jb-col-10">
 
@@ -1403,7 +1403,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/76bdf73d454aa53d.webp)
+![](/images/045754-p-kirafuroru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1415,7 +1415,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cc44f79cc6582538.webp)
+![](/images/045623-p-deinru.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1429,7 +1429,7 @@ Ability: Adrenaline Pheromones If any damage is done to this Pokémon by attacks
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/64bfb294fbebadb5.webp)
+![](/images/pokemon-card-5-64bfb2.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1443,7 +1443,7 @@ Ability: Adrenaline Power If this Pokémon has any [D] Energy attached, it gets 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ae65fe09ae9bdd4a.webp)
+![](/images/cornerstone-mask-ogerpon-ex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1459,7 +1459,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
     <span id="D" class="symb">D</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ca76d8f90e59b969.webp)
+![](/images/045757-p-pochiena.webp)
 
 </div><div class="jb-col-10">
 
@@ -1471,7 +1471,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4209306be36d37e3.webp)
+![](/images/045758-p-guraena.webp)
 
 </div><div class="jb-col-10">
 
@@ -1485,7 +1485,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0b651a0ef0c4a780.webp)
+![](/images/045759-p-fushide.webp)
 
 </div><div class="jb-col-10">
 
@@ -1497,7 +1497,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4907f6c34643fadc.webp)
+![](/images/045760-p-hoiga.webp)
 
 </div><div class="jb-col-10">
 
@@ -1509,7 +1509,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/05267518faacf03f.webp)
+![](/images/045761-p-pendora.webp)
 
 </div><div class="jb-col-10">
 
@@ -1521,7 +1521,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/de2651d9ca436292.webp)
+![](/images/brute-bonnet-de2651.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1537,7 +1537,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
     <span id="M" class="symb">M</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fd6c05b88d832294.webp)
+![](/images/045763-p-eamudo.webp)
 
 </div><div class="jb-col-10">
 
@@ -1549,7 +1549,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f0bbe350e991cbb.webp)
+![](/images/aron.webp)
 
 </div><div class="jb-col-10">
 
@@ -1559,7 +1559,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/69914dbbdf3cc0fa.webp)
+![](/images/lairon.webp)
 
 </div><div class="jb-col-10">
 
@@ -1571,7 +1571,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b9fea1f10f31e750.webp)
+![](/images/aggron.webp)
 
 </div><div class="jb-col-10">
 
@@ -1583,7 +1583,7 @@ Ability: Cornerstone Stance Prevent all damage from attacks done to this Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/edeacabd78527c1c.webp)
+![](/images/045767-p-hidoran.webp)
 
 </div><div class="jb-col-10">
 
@@ -1595,7 +1595,7 @@ Ability: Incandescent Body If this Pokémon is in the Active Spot and is damaged
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bce1116449a7d8bb.webp)
+![](/images/varoom-bce111.webp)
 
 </div><div class="jb-col-10">
 
@@ -1607,7 +1607,7 @@ Ability: Incandescent Body If this Pokémon is in the Active Spot and is damaged
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/52dea59610b3c61e.webp)
+![](/images/revavroom-52dea5.webp)
 
 </div><div class="jb-col-10">
 
@@ -1621,7 +1621,7 @@ Ability: Incandescent Body If this Pokémon is in the Active Spot and is damaged
     <span id="N" class="symb">N</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c289756b1cf6401a.webp)
+![](/images/sv5a-7.webp)
 
 </div><div class="jb-col-10">
 
@@ -1633,7 +1633,7 @@ Ability: Incandescent Body If this Pokémon is in the Active Spot and is damaged
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a974c14a77b16dfd.webp)
+![](/images/sv5a-6.webp)
 
 </div><div class="jb-col-10">
 
@@ -1643,7 +1643,7 @@ Ability: Incandescent Body If this Pokémon is in the Active Spot and is damaged
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b0fab5105b7b7abb.webp)
+![](/images/pokemonex-card-6.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1657,7 +1657,7 @@ Ability: Incandescent Body If this Pokémon is in the Active Spot and is damaged
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/21b4bf33eeff786e.webp)
+![](/images/pokemonex-card-5.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1671,7 +1671,7 @@ Ability: Reconnaissance Raid Once during your turn, you may look at the top 2 ca
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/26cbd97f57da3c8d.webp)
+![](/images/pokemonex-card-4.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1685,7 +1685,7 @@ Ability: Reconnaissance Raid Once during your turn, you may look at the top 2 ca
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bb642f43b6bfdde4.webp)
+![](/images/pokemon-card-8.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1701,7 +1701,7 @@ Ability: Attract Customers Once during your turn, if this Pokémon is in the Act
     <span id="C" class="symb">C</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d10f2e92238a5234.webp)
+![](/images/farfetchd.webp)
 
 </div><div class="jb-col-10">
 
@@ -1713,7 +1713,7 @@ Ability: Sonic Duty When you play this Pokémon from your hand onto your Bench d
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ce1c38984c38fe31.webp)
+![](/images/chansey.webp)
 
 </div><div class="jb-col-10">
 
@@ -1725,7 +1725,7 @@ Ability: Sonic Duty When you play this Pokémon from your hand onto your Bench d
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/477353f3034057b8.webp)
+![](/images/blissey-ex.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1739,7 +1739,7 @@ Ability: Happy Switch Once during your turn, you may move a Basic Energy card fr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/927afea0ea3f955d.webp)
+![](/images/045626-p-ibui.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1753,7 +1753,7 @@ Ability: Happy Switch Once during your turn, you may move a Basic Energy card fr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/80ee30ae857f3102.webp)
+![](/images/045627-p-kabigon.webp)
 
 </div><div class="jb-col-10">
 
@@ -1765,7 +1765,7 @@ Ability: Happy Switch Once during your turn, you may move a Basic Energy card fr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9ffa26cbc00b92c8.webp)
+![](/images/045777-p-eipamu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1777,7 +1777,7 @@ Ability: Happy Switch Once during your turn, you may move a Basic Energy card fr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/afd715d8566536f1.webp)
+![](/images/045778-p-etebosu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1789,7 +1789,7 @@ Ability: Wicked Tail When you play this Pokémon from your hand to evolve 1 of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ecb5095ab79ad264.webp)
+![](/images/045779-p-koaruhi.webp)
 
 </div><div class="jb-col-10">
 
@@ -1801,7 +1801,7 @@ Ability: Wicked Tail When you play this Pokémon from your hand to evolve 1 of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ed4d8be781cbc0d8.webp)
+![](/images/045780-p-suwanna.webp)
 
 </div><div class="jb-col-10">
 
@@ -1813,7 +1813,7 @@ Ability: Wicked Tail When you play this Pokémon from your hand to evolve 1 of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/60ec5ea2d0427231.webp)
+![](/images/sv5a-3.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1829,7 +1829,7 @@ Ability: Veteran’s Technique This Pokémon's Blood Moon attack costs [C] less 
     <span id="Trainers" class="jb-bold">Trainer Cards</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b3f3b7f86925d357.webp)
+![](/images/trainers-card-4.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1841,7 +1841,7 @@ Reveal the top 5 cards of your opponent’s deck and put any number of Basic Pok
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/20e31d76cc3babcc.webp)
+![](/images/trainers-card-3-20e31d.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1853,7 +1853,7 @@ Look at the top 7 cards of your deck. You may reveal up to 2 in any combination 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a22b7541910247e.webp)
+![](/images/sv5a-13.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1865,7 +1865,7 @@ Draw 2 cards. Then, if Community Center is in play, shuffle this Caretaker back 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dd3a13c4fee0ca1c.webp)
+![](/images/trainers-card-1-dd3a13.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1879,7 +1879,7 @@ Discard your hand and draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3d4e52df4eafccb4.webp)
+![](/images/sv5a-14.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1891,7 +1891,7 @@ Once during each player's turn, if that player played a Supporter card from thei
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9c9160c076886e98.webp)
+![](/images/045508-t-kokku.webp)
 
 </div><div class="jb-col-10">
 
@@ -1903,7 +1903,7 @@ Heal 70 damage from your Active Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/efc630132358d73b.webp)
+![](/images/sv5a-10.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1917,7 +1917,7 @@ Discard a Special Energy attached to 1 of your opponent's Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4b964e688b1eab6a.webp)
+![](/images/omatsuri-card-1.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1929,7 +1929,7 @@ Each Pokémon that has Energy attached can't be affected by any Special Conditio
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bf97f69763ce8f2b.webp)
+![](/images/045786-t-handeisakixyureta.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1941,7 +1941,7 @@ If the Pokémon this card is attached to is your Active Pokémon and is damaged 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b8a80829e90cd957.webp)
+![](/images/hassel.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1955,7 +1955,7 @@ Look at the top 8 cards of your deck and put 3 of them into your hand. Shuffle t
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/53b535d68bd60177.webp)
+![](/images/045641-t-haipaaroma.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1967,7 +1967,7 @@ Search your deck for up to 3 Stage 1 Pokémon, reveal them, and put them into yo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/47d5ff5fc1a9c256.webp)
+![](/images/jamming-tower.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1979,7 +1979,7 @@ Pokémon Tool cards in play <em>(both yours and your opponent's)</em> have no ef
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e558a6c1323534da.webp)
+![](/images/trainers-card-2-e558a6.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -1994,7 +1994,7 @@ Choose 1:
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b9799a80819a7bd6.webp)
+![](/images/lana-s-care.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2006,7 +2006,7 @@ Put up to 3 in any combination of Pokémon that don't have a Rule Box and Basic 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/318d793ac0f8d15f.webp)
+![](/images/love-ball-318d79.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2018,7 +2018,7 @@ Search your deck for a Pokémon with the same name as 1 of your opponent’s Pok
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4f665eb7c6d5b75a.webp)
+![](/images/045635-t-goyou.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2030,7 +2030,7 @@ Each player shuffles their hand and puts it on the bottom of their deck. If eith
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b98abc00106dbcd3.webp)
+![](/images/sv5a-11.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2044,7 +2044,7 @@ If the Pokémon this card is attached to is in the Active Spot and is damaged by
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2db645cf40c73c94.webp)
+![](/images/ogre-s-mask.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2056,7 +2056,7 @@ Choose a Pokémon ex in your discard pile that has “Ogerpon” in its name, an
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ba24157040cb8cd5.webp)
+![](/images/sv5a-12.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2068,7 +2068,7 @@ Reveal up to 2 Pokémon from your hand and put them into your deck. If you do, s
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f41c872a2c0282fb.webp)
+![](/images/raifort.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2080,7 +2080,7 @@ Look at the top 5 cards of your deck. You may discard any number of cards you fi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d4ed45f90818fa39.webp)
+![](/images/scoop-up-cyclone.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2094,7 +2094,7 @@ Put 1 of your Pokémon and all attached cards into your hand.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8b53a1991fe67447.webp)
+![](/images/045783-t-shikurettobokkusu.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2108,7 +2108,7 @@ Search your deck for an Item card, a Pokémon Tool card, a Supporter card, and a
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2a4053638afb1a2d.webp)
+![](/images/suvival-cast.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2120,7 +2120,7 @@ If the Pokémon this card is attached to has full HP and would be Knocked Out by
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/88fd5d37babddd00.webp)
+![](/images/sv5a-9.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2136,7 +2136,7 @@ Each player shuffles their hand into their deck. Then, you draw 5 cards, and you
     <span id="Energy" class="jb-bold">Special Energy</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/61582e51d68c8e98.webp)
+![](/images/boomerang-energy.webp)
 
 *[Proxy Available](/proxies/sv6)*
 
@@ -2150,7 +2150,7 @@ If this card is discarded by the effect of an attack used by the Pokémon this c
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bd4a9438b6dae5b9.webp)
+![](/images/acespec-card-1.webp)
 
 *[Proxy Available](/proxies/sv6)*
 

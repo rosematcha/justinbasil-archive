@@ -1,6 +1,6 @@
 ---
 title: "Appendix V: Pre-release Deck Building"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/appendix5"
 showHeading: false
 ---
@@ -74,11 +74,11 @@ These are other cards that are included in the Evolution Pack that simply don’
 
 ## Primary Pokémon Type
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/8b0b96bf0183d7e6.webp"><img src="/images/8b0b96bf0183d7e6.webp" alt="4 Ethan's Cyndaquil DRI 32" loading="lazy"></a><figcaption>4 Ethan's Cyndaquil DRI 32</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/da55b9003a7374a9.webp"><img src="/images/da55b9003a7374a9.webp" alt="2 Quilava DRI 33" loading="lazy"></a><figcaption>2 Quilava DRI 33</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/063ccbb81a54e5bd.webp"><img src="/images/063ccbb81a54e5bd.webp" alt="1 Ethan's Typhlosion (Cosmos)" loading="lazy"></a><figcaption>1 Ethan's Typhlosion (Cosmos)</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/0c7ae91c87b32f89.webp"><img src="/images/0c7ae91c87b32f89.webp" alt="2 Ethan's Typhlosion DRI 34" loading="lazy"></a><figcaption>2 Ethan's Typhlosion DRI 34</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ethan-s-cyndaquil.webp"><img src="/images/ethan-s-cyndaquil.webp" alt="4 Ethan's Cyndaquil DRI 32" loading="lazy"></a><figcaption>4 Ethan's Cyndaquil DRI 32</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-quilava.webp"><img src="/images/ethan-s-quilava.webp" alt="2 Quilava DRI 33" loading="lazy"></a><figcaption>2 Quilava DRI 33</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv10-en-34.webp"><img src="/images/sv10-en-34.webp" alt="1 Ethan's Typhlosion (Cosmos)" loading="lazy"></a><figcaption>1 Ethan's Typhlosion (Cosmos)</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-typhlosion-0c7ae9.webp"><img src="/images/ethan-s-typhlosion-0c7ae9.webp" alt="2 Ethan's Typhlosion DRI 34" loading="lazy"></a><figcaption>2 Ethan's Typhlosion DRI 34</figcaption></figure></div>
 
 ## Secondary Type
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/8814afc7790688e6.webp"><img src="/images/8814afc7790688e6.webp" alt="3 Misty's Staryu DRI 46" loading="lazy"></a><figcaption>3 Misty's Staryu DRI 46</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/6269ff7d2471681f.webp"><img src="/images/6269ff7d2471681f.webp" alt="2 Misty's Starmie DRI 47" loading="lazy"></a><figcaption>2 Misty's Starmie DRI 47</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/8a0659bda8defcb0.webp"><img src="/images/8a0659bda8defcb0.webp" alt="1 Misty's Magikarp DRI 48" loading="lazy"></a><figcaption>1 Misty's Magikarp DRI 48</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/6f3c1d0cc389b7f0.webp"><img src="/images/6f3c1d0cc389b7f0.webp" alt="1 Misty's Gyarados DRI 49" loading="lazy"></a><figcaption>1 Misty's Gyarados DRI 49</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/5a3d526161bc81e4.webp"><img src="/images/5a3d526161bc81e4.webp" alt="1 Misty's Lapras DRI 50" loading="lazy"></a><figcaption>1 Misty's Lapras DRI 50</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/misty-s-staryu-8814af.webp"><img src="/images/misty-s-staryu-8814af.webp" alt="3 Misty's Staryu DRI 46" loading="lazy"></a><figcaption>3 Misty's Staryu DRI 46</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-starmie-6269ff.webp"><img src="/images/misty-s-starmie-6269ff.webp" alt="2 Misty's Starmie DRI 47" loading="lazy"></a><figcaption>2 Misty's Starmie DRI 47</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-magikarp.webp"><img src="/images/misty-s-magikarp.webp" alt="1 Misty's Magikarp DRI 48" loading="lazy"></a><figcaption>1 Misty's Magikarp DRI 48</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-gyarados.webp"><img src="/images/misty-s-gyarados.webp" alt="1 Misty's Gyarados DRI 49" loading="lazy"></a><figcaption>1 Misty's Gyarados DRI 49</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-lapras.webp"><img src="/images/misty-s-lapras.webp" alt="1 Misty's Lapras DRI 50" loading="lazy"></a><figcaption>1 Misty's Lapras DRI 50</figcaption></figure></div>
 
 ## Other Pokémon
 
@@ -86,19 +86,19 @@ No cards from this category are included in this Build & Battle deck.
 
 ## Pokémon Search
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><img src="/images/24ff623a7deefae5.webp" alt="2 Ethan's Adventure" loading="lazy"><figcaption>2 Ethan's Adventure</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/94fabf2d9037949e.webp" alt="1 Brock's Scouting" loading="lazy"><figcaption>1 Brock's Scouting</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/e723e477b471e24d.webp" alt="1 Buddy-Buddy Poffin" loading="lazy"><figcaption>1 Buddy-Buddy Poffin</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/c468f05d81138968.webp" alt="1 Nest Ball" loading="lazy"><figcaption>1 Nest Ball</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/ec29edaaee6d4d97.webp" alt="1 Great Ball" loading="lazy"><figcaption>1 Great Ball</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><img src="/images/ethan-s-adventure.webp" alt="2 Ethan's Adventure" loading="lazy"><figcaption>2 Ethan's Adventure</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/sv09-en-146-2x.webp" alt="1 Brock's Scouting" loading="lazy"><figcaption>1 Brock's Scouting</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/tef-144-r-en-e723e4.webp" alt="1 Buddy-Buddy Poffin" loading="lazy"><figcaption>1 Buddy-Buddy Poffin</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/svi-181-r-en-lg-c468f0.webp" alt="1 Nest Ball" loading="lazy"><figcaption>1 Nest Ball</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/pal-183-r-en-ec29ed.webp" alt="1 Great Ball" loading="lazy"><figcaption>1 Great Ball</figcaption></figure></div>
 
 ## Draw Cards
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/9952ef04e7f1bafe.webp"><img src="/images/9952ef04e7f1bafe.webp" alt="1 Professor's Research" loading="lazy"></a><figcaption>1 Professor's Research</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/c7b27c5d38ca057b.webp"><img src="/images/c7b27c5d38ca057b.webp" alt="1 Surfer" loading="lazy"></a><figcaption>1 Surfer</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv09-en-155-2x.webp"><img src="/images/sv09-en-155-2x.webp" alt="1 Professor's Research" loading="lazy"></a><figcaption>1 Professor's Research</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv08-en-187-2x.webp"><img src="/images/sv08-en-187-2x.webp" alt="1 Surfer" loading="lazy"></a><figcaption>1 Surfer</figcaption></figure></div>
 
 ## Energy
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6b3e94cfe483849e.webp"><img src="/images/6b3e94cfe483849e.webp" alt="6 Basic Fire Energy" loading="lazy"></a><figcaption>6 Basic Fire Energy</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/cfb9c72eef25e25b.webp"><img src="/images/cfb9c72eef25e25b.webp" alt="7 Basic Water Energy" loading="lazy"></a><figcaption>7 Basic Water Energy</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sve-010-r-en-lg.webp"><img src="/images/sve-010-r-en-lg.webp" alt="6 Basic Fire Energy" loading="lazy"></a><figcaption>6 Basic Fire Energy</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sve-011-r-en-lg.webp"><img src="/images/sve-011-r-en-lg.webp" alt="7 Basic Water Energy" loading="lazy"></a><figcaption>7 Basic Water Energy</figcaption></figure></div>
 
 ## Misc.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/587684eaaffc3ca3.webp"><img src="/images/587684eaaffc3ca3.webp" alt="1 Super Rod" loading="lazy"></a><figcaption>1 Super Rod</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/bc2e326e0a06d9f6.webp"><img src="/images/bc2e326e0a06d9f6.webp" alt="1 Rare Candy " loading="lazy"></a><figcaption>1 Rare Candy</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pal-188-r-en-587684.webp"><img src="/images/pal-188-r-en-587684.webp" alt="1 Super Rod" loading="lazy"></a><figcaption>1 Super Rod</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/svi-191-r-en-lg-bc2e32.webp"><img src="/images/svi-191-r-en-lg-bc2e32.webp" alt="1 Rare Candy " loading="lazy"></a><figcaption>1 Rare Candy</figcaption></figure></div>
 
 As you open the four booster packs that are included in your Build & Battle Box, continue to use these same categories to sort the cards, sorting each Pokémon type into its own pile. From there, you’ll have four options for how to continue with the construction of your deck.
 
@@ -196,28 +196,28 @@ This set’s Promo cards are pictured below.
 </div>
 </div>
 
-![](/images/222c19c925a8fc67.webp)
+![](/images/sv10-en-34-222c19.webp)
 
 </div><div class="jb-col-3"><div class="jb-code-container">
     <div id="promo2">
 </div>
 </div>
 
-![](/images/10cfc8d972e9e76c.webp)
+![](/images/sv10-en-49.webp)
 
 </div><div class="jb-col-3"><div class="jb-code-container">
     <div id="promo3">
 </div>
 </div>
 
-![](/images/eed5bcb85065c2f4.webp)
+![](/images/sv10-en-87.webp)
 
 </div><div class="jb-col-3"><div class="jb-code-container">
     <div id="promo4">
 </div>
 </div>
 
-![](/images/85b4a79f3e6e7656.webp)
+![](/images/sv10-en-96.webp)
 
 </div></div>
 

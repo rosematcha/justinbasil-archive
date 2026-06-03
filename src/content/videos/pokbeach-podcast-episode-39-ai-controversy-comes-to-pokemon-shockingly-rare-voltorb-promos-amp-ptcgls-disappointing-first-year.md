@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 39: AI Controversy Comes to Pokemon, Shockingly Rare Voltorb Promos, & PTCGL's Disappointing First Year"
 description: "This week we discuss AI controversy in this year's Illustrator Contest, two incredibly rare Voltorb prints that were released at NAIC, Pokemon TCG Live's disappointing first year, new anime promo cards featuring characters from \"Pokemon Horizons,\" new cards from \"Stellar Miracle,\""
-ogImage: "/images/844903a68da8dcb1.webp"
+ogImage: "/images/jigglypuff-copy-768x432-844903.webp"
 publishDate: 2024-06-21
 youtubeId: "z8-gR019oqI"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-39-ai-controversy-comes-to-pokemon-shockingly-rare-voltorb-promos-amp-ptcgls-disappointing-first-year"
@@ -19,7 +19,7 @@ This week we discuss AI controversy in this year's Illustrator Contest, two incr
 
 
 
-![](/images/9f38bfdfbc1f8374.webp)
+![](/images/jigglypuff-copy-768x432.webp)
 
 
 

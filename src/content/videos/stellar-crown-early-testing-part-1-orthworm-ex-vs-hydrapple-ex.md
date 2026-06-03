@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Part 1: Orthworm ex vs. Hydrapple ex"
 description: "Now that we’ve seen the full reveal of Stellar Miracle from Japan, let's look at what's coming in August!   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/9401c157c0360712.webp"
+ogImage: "/images/part-1-9401c1.webp"
 publishDate: 2024-07-20
 youtubeId: "j7Q0oNL8qvI"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-1-orthworm-ex-vs-hydrapple-ex"
@@ -27,7 +27,7 @@ Now that we’ve seen the full reveal of Stellar Miracle from Japan, let's look 
 
 
 
-![](/images/c795f1c610703943.webp)
+![](/images/part-1-c795f1.webp)
 
 
 

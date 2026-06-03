@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 6: Arcanine ex vs. Miraidon ex"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. We now march onward with new archetypes from Scarlet & Violet--this week, it's Miraidon ex vs. Arcanine ex!     2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List"
-ogImage: "/images/fa24027d2f392768.webp"
+ogImage: "/images/testing-part-6-arcanine-vs-miraidon-fa2402.webp"
 publishDate: 2023-02-10
 youtubeId: "EotY_Pvv6BI"
 sourceUrl: "https://www.justinbasil.com/videos/ry7i1gkpzmb6cxy8rrkysz0cuwth43"
@@ -29,7 +29,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/e404019e95066650.webp)
+![](/images/testing-part-6-arcanine-vs-miraidon.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format Ban List Explained: Part 1"
 description: "There are inevitably questions about the Eternal format's ban list, especially when people feel a bit daunted by the ban list's size. In today's Eternal Monday, we look at a few of the ban list's entries."
-ogImage: "/images/b35579ca9379d570.webp"
+ogImage: "/images/eternal-format-ban-list-explained-part-1-b35579.webp"
 publishDate: 2024-05-20
 youtubeId: "_km2GyN71uY"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-ban-list-explained-part-1"
@@ -19,7 +19,7 @@ There are inevitably questions about the Eternal format's ban list, especially w
 
 
 
-![](/images/f9afc2564c0b99ff.webp)
+![](/images/eternal-format-ban-list-explained-part-1.webp)
 
 
 

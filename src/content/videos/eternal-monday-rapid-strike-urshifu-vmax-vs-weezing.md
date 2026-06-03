@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Rapid Strike Urshifu VMAX vs. Weezing"
 description: "In today's Eternal Monday, Rapid Strike Urshifu VMAX brings the G-MAX Rapid Flow against Weezing from EX Deoxys!"
-ogImage: "/images/7dc97acb3a238d72.webp"
+ogImage: "/images/rs-urshifu-vmax-vs-weezing-7dc97a.webp"
 publishDate: 2024-02-26
 youtubeId: "wiWqeJSqbao"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-rapid-strike-urshifu-vmax-vs-weezing"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Rapid Strike Urshifu VMAX brings the G-MAX Rapid Flow
 
 
 
-![](/images/5ff2b9b3f8e2267b.webp)
+![](/images/rs-urshifu-vmax-vs-weezing.webp)
 
 
 

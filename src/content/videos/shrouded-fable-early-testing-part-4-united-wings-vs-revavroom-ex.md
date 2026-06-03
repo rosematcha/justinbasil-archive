@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Part 4: United Wings vs. Revavroom ex"
 description: "Now that we've seen the full reveal of Night Wanderer from Japan, let's look at what's coming in August!   Check out these links to learn more!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/16ca1320510feb37.webp"
+ogImage: "/images/part-4-16ca13.webp"
 publishDate: 2024-06-29
 youtubeId: "deZATCEFw40"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-part-4-united-wings-vs-revavroom-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/b016c25c7002e996.webp)
+![](/images/part-4-b016c2.webp)
 
 
 

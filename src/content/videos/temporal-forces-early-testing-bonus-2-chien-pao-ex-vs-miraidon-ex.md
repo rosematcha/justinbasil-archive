@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 2: Chien-Pao ex vs. Miraidon ex"
 description: "Our testing of Temporal Forces continues! We now look ahead to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/de16ddba46e03079.webp"
+ogImage: "/images/bonus-2-de16dd.webp"
 publishDate: 2024-01-10
 youtubeId: "cwYDzji6peM"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-2-chien-pao-ex-vs-miraidon-ex"
@@ -27,7 +27,7 @@ Our testing of Temporal Forces continues! We now look ahead to the post-rotation
 
 
 
-![](/images/a01861c330e592f2.webp)
+![](/images/bonus-2-a01861.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Testing"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/testing"
 showHeading: false
 ---
@@ -48,7 +48,7 @@ If you find your deck **Bricking** or **Dead Drawing**—becoming unable to draw
 
 
 
-![](/images/6bc213bf50d8a9c1.webp)
+![](/images/pokemoncard-io.webp)
 
 *Pokemoncard.io has an excellent Sample Hand and Prizing simulator built into its deck editor.*
 
@@ -60,7 +60,7 @@ Typically, goldfishing requires you to have a physical copy of the deck you inte
 
 
 
-![](/images/362c8846275639e3.webp)
+![](/images/logo.webp)
 
 *PTCGL is a great place to start testing your decks—and a great place to play against lots of other people’s decks, too!*
 

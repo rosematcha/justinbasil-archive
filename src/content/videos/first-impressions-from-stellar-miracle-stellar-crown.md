@@ -1,7 +1,7 @@
 ---
 title: "First Impressions from Stellar Miracle (Stellar Crown)"
 description: "Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/ce2f916f9eb016c0.webp"
+ogImage: "/images/scr-first-impressions-ce2f91.webp"
 publishDate: 2024-07-13
 youtubeId: "Zvu7v1HjWeQ"
 sourceUrl: "https://www.justinbasil.com/videos/first-impressions-from-stellar-miracle-stellar-crown"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/0359b67074e68560.webp)
+![](/images/scr-first-impressions.webp)
 
 
 

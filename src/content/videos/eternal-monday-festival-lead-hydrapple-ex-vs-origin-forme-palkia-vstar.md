@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Festival Lead Hydrapple ex vs. Origin Forme Palkia VSTAR"
 description: "In this week's Eternal Monday, it's a party as Festival Lead Hydrapple ex takes on Origin Forme Palkia VSTAR in the finals of the March 2025 IRL Eternal Format tournament that took place at Dragon's Lair at Alamo Ranch."
-ogImage: "/images/38f19cb93d1ccb9e.webp"
+ogImage: "/images/festival-lead-vs-palkia-38f19c.webp"
 publishDate: 2025-03-10
 youtubeId: "r23QJVqQweI"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-festival-lead-hydrapple-ex-vs-origin-forme-palkia-vstar"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, it's a party as Festival Lead Hydrapple ex takes 
 
 
 
-![](/images/5edb1cc25953c1f4.webp)
+![](/images/festival-lead-vs-palkia.webp)
 
 
 

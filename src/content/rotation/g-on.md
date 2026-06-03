@@ -1,6 +1,6 @@
 ---
 title: "Table of Contents (2025)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/g-on"
 showHeading: false
 ---
@@ -16,7 +16,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/g-on/introduction" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/56d890ceeb0c2db1.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/forest-seal-stone.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Introduction to Rotation</h1>
@@ -27,7 +27,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/g-on/noteworthy-losses-and-retentions" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/f543a1c9e3c670aa.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/radninja.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Noteworthy Losses and Retentions</h1>
@@ -39,7 +39,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/g-on/essentials" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/6ffb63260aa0156d.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/dudunsparce-6ffb63.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">The New Essentials</h1>
@@ -50,7 +50,7 @@ showHeading: false
 </div></a>
 </div></div></div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/new-decks/sv9" class="jb-onclick-link"><div class="jb-tile-button"> 
-<div class="inner jb-rotation-card" style="background-image:url(/images/0bd1959f162e58bb.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/gholdengo-ex-0bd195.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Decks to Consider After Rotation</h1>
@@ -61,7 +61,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/g-on/card-status" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/8024c7482ec13fff.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/brs-boss-s-orders.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">2025 Rotation Card Status</h1>

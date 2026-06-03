@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Magnezone Box vs. Celebi Grass Box"
 description: "In this week's Eternal Monday, Magnezone links up with the rest of its magnet family to take on Celebi and its forest friends!"
-ogImage: "/images/f08e66c3f133eb76.webp"
+ogImage: "/images/magnezone-v-celebi-f08e66.webp"
 publishDate: 2025-01-13
 youtubeId: "uq9Gb2NdTb8"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-magnezone-box-vs-celebi-grass-box"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Magnezone links up with the rest of its magnet fa
 
 
 
-![](/images/aaca73377657641e.webp)
+![](/images/magnezone-v-celebi.webp)
 
 
 

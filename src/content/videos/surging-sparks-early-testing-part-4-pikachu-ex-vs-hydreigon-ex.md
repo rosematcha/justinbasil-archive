@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Part 4: Pikachu ex vs. Hydreigon ex"
 description: "Now that we've seen the full reveal of Paradise Dragona from Japan, it's time to start looking ahead to the new decks releasing coming Surging Sparks!  Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected P"
-ogImage: "/images/db794aaa9c61378b.webp"
+ogImage: "/images/part-4-db794a.webp"
 publishDate: 2024-10-19
 youtubeId: "nkdZKdKMisw"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-part-4-pikachu-ex-vs-hydreigon-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/866feca558c00e8e.webp)
+![](/images/part-4-866fec.webp)
 
 
 

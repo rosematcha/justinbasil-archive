@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Turbo Zacian V vs. Ceruledge ex (First Drafts)"
 description: "In today's Eternal Monday, Turbo Zacian V swings its sword against the dual-bladed inferno, Ceruledge ex!"
-ogImage: "/images/774024891833647b.webp"
+ogImage: "/images/first-drafts-11-ceruledge-ex-vs-zacian-v-774024.webp"
 publishDate: 2024-11-18
 youtubeId: "nXJkTK8SSgk"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-turbo-zacian-v-vs-ceruledge-ex-first-drafts"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Turbo Zacian V swings its sword against the dual-blad
 
 
 
-![](/images/d533856d9b80badd.webp)
+![](/images/first-drafts-11-ceruledge-ex-vs-zacian-v.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Bonus 2: Hydrapple ex vs. Slowking"
 description: "Now that we’ve seen the full reveal of Stellar Miracle from Japan, let's look at what's coming in August!   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/7ae28c593c50a82d.webp"
+ogImage: "/images/bonus-2-7ae28c.webp"
 publishDate: 2024-07-17
 youtubeId: "hrMdtyPXxtU"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-bonus-2-hydrapple-ex-vs-slowking"
@@ -27,7 +27,7 @@ Now that we’ve seen the full reveal of Stellar Miracle from Japan, let's look 
 
 
 
-![](/images/53d72d2ebb160e76.webp)
+![](/images/bonus-2-53d72d.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Magnezone Box vs. Banette ex"
 description: "In this week's Eternal Monday, newcomer Magnezone Box must face off against the old Eternal format boogeyman, Banette ex / Vileplume!"
-ogImage: "/images/e473ac85b01924f5.webp"
+ogImage: "/images/magnezone-box-vs-banette-ex-e473ac.webp"
 publishDate: 2025-01-27
 youtubeId: "msx6CfBz4gc"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-magnezone-box-vs-banette-ex"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, newcomer Magnezone Box must face off against the 
 
 
 
-![](/images/ebaba35818054fc4.webp)
+![](/images/magnezone-box-vs-banette-ex.webp)
 
 
 

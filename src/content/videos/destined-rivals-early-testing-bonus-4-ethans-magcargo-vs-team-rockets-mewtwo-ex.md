@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Early Testing, Bonus 4: Ethan's Magcargo vs. Team Rocket's Mewtwo ex"
 description: "In today's bonus video, Ethan's Typhlosion steps aside to let things really erupt with Ethan's Magcargo.   Destined Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/db1d89788c0a4da4.webp"
+ogImage: "/images/dri-bonus-4-db1d89.webp"
 publishDate: 2025-05-07
 youtubeId: "_67SLvEDbhg"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-early-testing-bonus-4-ethans-magcargo-vs-team-rockets-mewtwo-ex"
@@ -27,7 +27,7 @@ In today's bonus video, Ethan's Typhlosion steps aside to let things really erup
 
 
 
-![](/images/6258d38969e559c1.webp)
+![](/images/dri-bonus-4.webp)
 
 
 

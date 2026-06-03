@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 15: Major Set Reveals This Weekend, Black & White Era Returning?"
 description: "This week we discuss Christmas, the upcoming reveal of Wild Force & Cyber Judge, a new Premium Tournament collection that may feature Bianca, a surprising Ultra PRO product, more exclusive cards in other countries, and more!"
-ogImage: "/images/911222a1eedea479.webp"
+ogImage: "/images/beedrill-768x432-911222.webp"
 publishDate: 2023-12-22
 youtubeId: "hLG_FpvyS3E"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-15-major-set-reveals-this-weekend-black-amp-white-era-returning"
@@ -19,7 +19,7 @@ This week we discuss Christmas, the upcoming reveal of Wild Force & Cyber Judge,
 
 
 
-![](/images/5ff6add074d958ec.webp)
+![](/images/beedrill-768x432.webp)
 
 
 

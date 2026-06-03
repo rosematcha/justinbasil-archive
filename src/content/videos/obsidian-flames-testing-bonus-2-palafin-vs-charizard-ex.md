@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing, Bonus #2: Palafin vs. Charizard ex"
 description: "We continue to take a look at new decks from Obsidian Flames! In this week's bonus video, Palafin goes head to head with Charizard ex! Will Palafin drown Charizard in a tsunami, or will Charizard ex burn Palafin to a crisp?   Obsidian Flames Coverage      Prospective Set List      Card Translations"
-ogImage: "/images/2d5265f625bcb2d2.webp"
+ogImage: "/images/bonus-2-2d5265.webp"
 publishDate: 2023-07-12
 youtubeId: "lAtpAqb9i4c"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-bonus-2-palafin-vs-charizard-ex"
@@ -28,7 +28,7 @@ We continue to take a look at new decks from Obsidian Flames! In this week's bon
 
 
 
-![](/images/56eaaa7b4683dc68.webp)
+![](/images/bonus-2-56eaaa.webp)
 
 
 

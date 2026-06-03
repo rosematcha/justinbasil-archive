@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Dragapult ex vs. Rapid Strike Urshifu VMAX"
 description: "In today's Eternal Monday, Rapid Strike Urshifu VMAX and Dragapult ex look to determine once and for all which of them is the biggest, baddest bench terrorizer in the Pokémon TCG!  Learn more about the Eternal format at  justinbasil.com/eternal"
-ogImage: "/images/22214aa7732fec07.webp"
+ogImage: "/images/dragapult-ex-vs-rs-urshifu-vmax-22214a.webp"
 publishDate: 2024-06-10
 youtubeId: "H6Mv5Dh9O8A"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-dragapult-ex-vs-rapid-strike-urshifu-vmax"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at [justinbasil.com/eternal](/eternal)
 
 
 
-![](/images/59fb835bdf01521c.webp)
+![](/images/dragapult-ex-vs-rs-urshifu-vmax.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 17: Most Expensive & Popular Pokemon Cards of 2023!"
 description: "This week we discuss random PokeTopics, the most expensive and popular cards of 2023, the missing \"Jirachi V Box,\" new \"ex Deluxe Battle Decks,\" new Ultra PRO products, a new \"Knock Out Collection,\" and more!"
-ogImage: "/images/2f553e4025d89223.webp"
+ogImage: "/images/pidgeotto-768x432-2f553e.webp"
 publishDate: 2024-01-05
 youtubeId: "FWAv5XsX_pI"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-17-most-expensive-amp-popular-pokemon-cards-of-2023"
@@ -19,7 +19,7 @@ This week we discuss random PokeTopics, the most expensive and popular cards of 
 
 
 
-![](/images/df9d7247c0221f21.webp)
+![](/images/pidgeotto-768x432.webp)
 
 
 

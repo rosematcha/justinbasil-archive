@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Shrouded Fable!"
 description: "It's time to look at the best cards from the upcoming Shrouded Fable set, which releases internationally on August 2nd! Here is my list of the top 10 cards from Shrouded Fable!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/c14951a1cdd8258f.webp"
+ogImage: "/images/top-10-sfa-c14951.webp"
 publishDate: 2024-07-24
 youtubeId: "wUG3tSD6PaE"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-shrouded-fable"
@@ -27,7 +27,7 @@ It's time to look at the best cards from the upcoming Shrouded Fable set, which 
 
 
 
-![](/images/538707a678a5564d.webp)
+![](/images/top-10-sfa.webp)
 
 
 

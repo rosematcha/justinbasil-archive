@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Banette ex / Vileplume vs. Wugtrio Mill"
 description: "In this week's Eternal Monday, Banette ex and Vileplume try to spook their three-headed friend Wugtrio in round one of the May 2025 IRL Eternal Format tournament that took place at Dragon's Lair at Alamo Ranch."
-ogImage: "/images/0751f4f6687d7690.webp"
+ogImage: "/images/04-banette-wugtrio-0751f4.webp"
 publishDate: 2025-05-26
 youtubeId: "U4kcgo2l90c"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-banette-ex-vileplume-vs-wugtrio-mill"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Banette ex and Vileplume try to spook their three
 
 
 
-![](/images/1184517491c34e93.webp)
+![](/images/04-banette-wugtrio.webp)
 
 
 

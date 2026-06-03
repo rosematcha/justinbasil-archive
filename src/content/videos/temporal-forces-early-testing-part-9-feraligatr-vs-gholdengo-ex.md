@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 9: Feraligatr vs. Gholdengo ex"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/b14447727c141752.webp"
+ogImage: "/images/part-9-b14447.webp"
 publishDate: 2024-03-01
 youtubeId: "VQOLaF57kPk"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-9-feraligatr-vs-gholdengo-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/f64bc8a0b2f6320e.webp)
+![](/images/part-9.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Ultra Necrozma vs. Lost Link Box (Cyrus Checkmate)"
 description: "In its last hurrah, Lost Link Box takes on Ultra Necrozma in the finals of the November 2023 IRL Eternal Format Tournament. Will Ultra Necrozma's blinding light end Lost Link Box, or will Cyrus Prism Star darken Ultra Necrozma's reign?"
-ogImage: "/images/3a86d6fdefbae95e.webp"
+ogImage: "/images/nov-23-finals-3a86d6.webp"
 publishDate: 2023-12-18
 youtubeId: "lm7Fu6l_sfI"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-ultra-necrozma-vs-lost-link-box-cyrus-checkmate"
@@ -19,7 +19,7 @@ In its last hurrah, Lost Link Box takes on Ultra Necrozma in the finals of the N
 
 
 
-![](/images/9a81a32317373d58.webp)
+![](/images/nov-23-finals.webp)
 
 
 

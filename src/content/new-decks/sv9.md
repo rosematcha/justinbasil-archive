@@ -1,6 +1,6 @@
 ---
 title: "Journey Together (JTG, Post Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "lmsnf6w0izc"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv9"
 showHeading: false
@@ -9,8 +9,8 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/0293e4a4729b3918.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV9 Set Identifier" src="/images/072edfd473175429.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp" loading="lazy" class="jb-deck-thumb">
+    <img alt="SV9 Set Identifier" src="/images/jtg.webp" loading="lazy" class="jb-icon-center-mt15">
     <h1 class="jb-white-center-margin5">New Decks from Journey Together</h1>
     <h3 class="jb-smallcaps-center">And Other Decks Worth Considering After Rotation</h3>
     <hr>
@@ -101,7 +101,7 @@ With the arrival of *Journey Together* in March, we’ll have a handful of new d
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dbb0138e4e129c2c.webp)
+![](/images/festival-grounds-dbb013.webp)
 
 *Illus. MARINA Chikazawa*
 
@@ -115,7 +115,7 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 
 
 
-![](/images/cf8380b5ec8fa943.webp)
+![](/images/01-festival-grounds.webp)
 
 </div><div class="jb-col-6">
 
@@ -146,7 +146,7 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6ab4f9d6d32ecf9c.webp)
+![](/images/hydrapple-ex-6ab4f9.webp)
 
 *Illus. 5ban Graphics*
 
@@ -160,7 +160,7 @@ Coming soon.
 
 
 
-![](/images/f167323985ec4723.webp)
+![](/images/02-hydrapple-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -177,7 +177,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3689f4b7e2b984a8.webp)
+![](/images/flareon-ex-3689f4.webp)
 
 *Illus. 5ban Graphics*
 
@@ -191,7 +191,7 @@ Coming soon.
 
 
 
-![](/images/c05d0b14f2742107.webp)
+![](/images/28-flareon-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -208,7 +208,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/802962f55aeec84b.webp)
+![](/images/blaziken-weavile.webp)
 
 *Illus. aspara and takuyoa*
 
@@ -222,7 +222,7 @@ Coming soon.
 
 
 
-![](/images/cb51e570a6b6f618.webp)
+![](/images/03-blaziken-weavile.webp)
 
 </div><div class="jb-col-6">
 
@@ -239,7 +239,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/42ca6da194ec3928.webp)
+![](/images/volcanion-ex-42ca6d.webp)
 
 *Illus. 5ban Graphics*
 
@@ -253,7 +253,7 @@ Coming soon.
 
 
 
-![](/images/ce0de5340a07728e.webp)
+![](/images/04-volcanion-magmortar.webp)
 
 </div><div class="jb-col-6">
 
@@ -276,7 +276,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1c93d38c8add7cad.webp)
+![](/images/ceruledge-ex-1c93d3.webp)
 
 *Illus. 5ban Graphics*
 
@@ -290,7 +290,7 @@ Quickly use the deck’s resources like Squawkabilly ex, Carmine, Professor’s 
 
 
 
-![](/images/e4c6c20a4d46923c.webp)
+![](/images/05-ceruledge-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -307,7 +307,7 @@ Quickly use the deck’s resources like Squawkabilly ex, Carmine, Professor’s 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e25cdbc9d3a96f35.webp)
+![](/images/feraligatr-e25cdb.webp)
 
 *Illus. GOSSAN*
 
@@ -321,7 +321,7 @@ Coming soon.
 
 
 
-![](/images/6ced373e957ee749.webp)
+![](/images/27-feraligatr.webp)
 
 </div><div class="jb-col-6">
 
@@ -352,7 +352,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3096c04584c2caca.webp)
+![](/images/milotic-ex-3096c0.webp)
 
 *Illus. hncl*
 
@@ -366,7 +366,7 @@ Coming soon.
 
 
 
-![](/images/33b71ba395c0c47b.webp)
+![](/images/31-milotic-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -383,7 +383,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/9ce829571fbb5e2e.webp)
+![](/images/froslass-9ce829.webp)
 
 *Illus. Makura Tami*
 
@@ -397,7 +397,7 @@ Pile damage counters on Pokémon in play with Abilities, except for Froslass, wi
 
 
 
-![](/images/c4ad343ba37c3c38.webp)
+![](/images/06-froslass-munkidori.webp)
 
 </div><div class="jb-col-6">
 
@@ -414,7 +414,7 @@ Pile damage counters on Pokémon in play with Abilities, except for Froslass, wi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d942ea104f23f9ac.webp)
+![](/images/garchomp-ex-d942ea.webp)
 
 *Illus. 5ban Graphics*
 
@@ -426,7 +426,7 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
 
 
 
-![](/images/450e1bcaec180501.webp)
+![](/images/07-garchomp.webp)
 
 </div><div class="jb-col-6">
 
@@ -443,7 +443,7 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d1996fb3ffacea1c.webp)
+![](/images/chien-pao-ex-d1996f.webp)
 
 *Illus. aky CG Works*
 
@@ -457,7 +457,7 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 
 
 
-![](/images/e37efe47326e91d2.webp)
+![](/images/08-chien-pao-ex-baxcalibur.webp)
 
 </div><div class="jb-col-6">
 
@@ -488,7 +488,7 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4389d60518418630.webp)
+![](/images/iono-4389d6.webp)
 
 *Illus. 5ban Graphics*
 
@@ -502,7 +502,7 @@ Coming soon.
 
 
 
-![](/images/57e71885d6814d06.webp)
+![](/images/09-iono.webp)
 
 </div><div class="jb-col-6">
 
@@ -533,7 +533,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dd2dca91c62e06cf.webp)
+![](/images/future-box-iron-hands-ex.webp)
 
 *Illus. PLANETA Mochizuki & 5ban Graphics*
 
@@ -547,7 +547,7 @@ Coming soon.
 
 
 
-![](/images/6d36479fd64a72f4.webp)
+![](/images/32-future-box.webp)
 
 </div><div class="jb-col-6">
 
@@ -564,7 +564,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dfac2e4a0dffa7ac.webp)
+![](/images/miraidon-ex-dfac2e.webp)
 
 *Illus. 5ban Graphics*
 
@@ -578,7 +578,7 @@ Set up with the assistance of Miraidon ex’s Tandem Unit Ability. Accelerate en
 
 
 
-![](/images/46ee73813372a9ad.webp)
+![](/images/10-miraidon-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -595,7 +595,7 @@ Set up with the assistance of Miraidon ex’s Tandem Unit Ability. Accelerate en
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/218d08782176ff69.webp)
+![](/images/lillie-218d08.webp)
 
 *Illus. 5ban Graphics*
 
@@ -609,7 +609,7 @@ Coming soon.
 
 
 
-![](/images/cb83a29c6545709b.webp)
+![](/images/11-lillie-v2.webp)
 
 </div><div class="jb-col-6">
 
@@ -640,7 +640,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/64467c786dcfa758.webp)
+![](/images/slowking-64467c.webp)
 
 *Illus. Tetsu Kayama*
 
@@ -654,7 +654,7 @@ Coming soon.
 
 
 
-![](/images/54e20bdb09e54882.webp)
+![](/images/29-slowking.webp)
 
 </div><div class="jb-col-6">
 
@@ -671,7 +671,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e98608523cbcbe84.webp)
+![](/images/gardevoir-ex-e98608.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -685,7 +685,7 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 
 
 
-![](/images/57a122756eb58815.webp)
+![](/images/12-gardevoir-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -716,7 +716,7 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/92e7aa5a75139b07.webp)
+![](/images/flygon-ex-92e7aa.webp)
 
 *Illus. 5ban Graphics*
 
@@ -730,7 +730,7 @@ Evolve up Trapinch into Flygon ex and Pidgey into Pidgeot ex via regular evoluti
 
 
 
-![](/images/5e5e195e2375766c.webp)
+![](/images/13-flygon-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -747,7 +747,7 @@ Evolve up Trapinch into Flygon ex and Pidgey into Pidgeot ex via regular evoluti
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/60925aa03494ae03.webp)
+![](/images/mamoswine-ex-60925a.webp)
 
 *Illus. Nisota Niso*
 
@@ -761,7 +761,7 @@ Coming soon.
 
 
 
-![](/images/445cc8070e1d5b02.webp)
+![](/images/14-mamoswine-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -792,7 +792,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8772edfc96145ebc.webp)
+![](/images/conkeldurr.webp)
 
 *Illus. Takeshi Nakamura*
 
@@ -806,7 +806,7 @@ Coming soon.
 
 
 
-![](/images/35fcdb21f29e43a1.webp)
+![](/images/34-conkeldurr.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 21</p><ul> <li>4 Timburr TWM 103</li> <li>3 Conkeldurr TWM 105</li> <li>2 Brute Bonnet PAR 123</li> <li>2 Budew PRE 4</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey OBF 162</li> <li>1 Bloodmoon Ursaluna ex TWM 141</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Gurdurr TWM 104</li> <li>1 Latias ex SSP 76</li> <li>1 Pecharunt SVP 129</li> <li>1 Pidgeotto MEW 17<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Nest Ball PAF 84</li> <li>4 Rare Candy PAF 89</li> <li>3 Pokégear 3.0 SVI 186</li> <li>3 Ultra Ball PAF 91</li> <li>2 Night Stretcher SFA 61</li> <li>2 Switch SVI 194</li> <li>1 Counter Catcher PAR 160</li> <li>1 Precious Trolley SSP 185</li> <li>3 Ancient Booster Energy Capsule TEF 140</li> <li>2 Binding Mochi PRE 95</li> <li>2 Gravity Mountain SSP 177</li> </ul><p class="jb-decklist-section">Energy - 3</p><ul> <li>3 Jet Energy PAL 190</li> </ul>
@@ -819,7 +819,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0d7d660fb8b04bd0.webp)
+![](/images/charizard-ex-obf.webp)
 
 *Illus. 5ban Graphics*
 
@@ -833,7 +833,7 @@ Build your board up by getting a Hoothoot or two into play alongside as many Cha
 
 
 
-![](/images/7eb5f2c0bcf5696a.webp)
+![](/images/15-charizard-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -864,7 +864,7 @@ Build your board up by getting a Hoothoot or two into play alongside as many Cha
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dd48ddddf0e58991.webp)
+![](/images/tyranitar-jtg.webp)
 
 *Illus. AKIRA EGAWA*
 
@@ -878,7 +878,7 @@ Coming soon.
 
 
 
-![](/images/c4f99b2ab29e250b.webp)
+![](/images/33-tyranitar.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Larvitar PRE 47</li> <li>3 Budew PRE 4</li> <li>3 Pupitar PRE 48</li> <li>3 Tyranitar JTG 95</li> <li>1 Klefki SVI 96</li> <li>1 Munkidori TWM 95</li> <li>1 Tyranitar PAL 135</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Arven OBF 186</li> <li>4 Professor's Research PRE 125</li> <li>3 Iono PAF 80</li> <li>2 Iris's Fighting Spirit JTG 149</li> <li>1 Lana's Aid TWM 155</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>2 Earthen Vessel PRE 106</li> <li>2 Super Rod PAL 188</li> <li>1 Unfair Stamp TWM 165</li> <li>3 Handheld Fan TWM 150</li> <li>1 Luxurious Cape PAR 166</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>5 Basic Darkness Energy SVE 7</li> <li>4 Reversal Energy PAL 192</li>
@@ -900,7 +900,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/58d5cc424eda73db.webp)
+![](/images/n-s-zoroark-ex-58d5cc.webp)
 
 *Illus. takuyoa*
 
@@ -914,7 +914,7 @@ Coming soon.
 
 
 
-![](/images/8fabdf07dfd39d4d.webp)
+![](/images/16-n.webp)
 
 </div><div class="jb-col-6">
 
@@ -945,7 +945,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/06303f3ced12b86a.webp)
+![](/images/hydreigon-ex-06303f.webp)
 
 *Illus. 5ban Graphics*
 
@@ -959,7 +959,7 @@ Evolve Deino up into Hydreigon ex and use its Crashing Headbutt attack to do 200
 
 
 
-![](/images/426203faa98448d9.webp)
+![](/images/17-hydreigon-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -976,7 +976,7 @@ Evolve Deino up into Hydreigon ex and use its Crashing Headbutt attack to do 200
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/188c0756c96d4864.webp)
+![](/images/ancient-box.webp)
 
 *Illus. Teeziro & hncl*
 
@@ -990,7 +990,7 @@ Attack with Roaring Moon and its Vengeance Fletching attack, which does 70 damag
 
 
 
-![](/images/abda6308010acfd4.webp)
+![](/images/18-ancient-box-v2.webp)
 
 </div><div class="jb-col-6">
 
@@ -1021,7 +1021,7 @@ Attack with Roaring Moon and its Vengeance Fletching attack, which does 70 damag
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/fb5db4f70ae7bb3e.webp)
+![](/images/roaring-moon-ex-par.webp)
 
 *Illus. takuyoa*
 
@@ -1035,7 +1035,7 @@ Using a combination of Earthen Vessel, Professor Sada’s Vitality, and Janine�
 
 
 
-![](/images/fd246b6d993e8ea2.webp)
+![](/images/19-roaring-moon-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -1052,7 +1052,7 @@ Using a combination of Earthen Vessel, Professor Sada’s Vitality, and Janine�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3c52bcd504ed5aed.webp)
+![](/images/aegislash-3c52bc.webp)
 
 *Illus. Jiro Sasumo*
 
@@ -1066,7 +1066,7 @@ Coming soon.
 
 
 
-![](/images/66ba2992696d7de3.webp)
+![](/images/30-aegislash.webp)
 
 </div><div class="jb-col-6">
 
@@ -1083,7 +1083,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0bd1959f162e58bb.webp)
+![](/images/gholdengo-ex-0bd195.webp)
 
 *Illus. takuyoa*
 
@@ -1097,7 +1097,7 @@ Evolve Gimmighoul up into Gholdengo and Togepi into Togekiss via Rare Candy. Dra
 
 
 
-![](/images/18280b77c4e0b863.webp)
+![](/images/20-gholdengo-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -1128,7 +1128,7 @@ Evolve Gimmighoul up into Gholdengo and Togepi into Togekiss via Rare Candy. Dra
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/37744721d2bf4109.webp)
+![](/images/archaludon-ex-377447.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1142,7 +1142,7 @@ Coming soon.
 
 
 
-![](/images/aae81d3217aff287.webp)
+![](/images/21-archaludon-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -1168,7 +1168,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0baacd26f8279567.webp)
+![](/images/salamence-ex-0baacd.webp)
 
 *Illus. toriyufu*
 
@@ -1182,7 +1182,7 @@ Coming soon.
 
 
 
-![](/images/5276455e8f376868.webp)
+![](/images/22-salamence-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -1205,7 +1205,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/998553d6a8e69945.webp)
+![](/images/dragapult-ex-998553.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1219,7 +1219,7 @@ Evolve Dreepy up into Drakloak to take advantage of its Recon Directive Ability 
 
 
 
-![](/images/ead71516ca3d3965.webp)
+![](/images/23-dragapult-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -1250,7 +1250,7 @@ Evolve Dreepy up into Drakloak to take advantage of its Recon Directive Ability 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4da408c2f7b56e68.webp)
+![](/images/raging-bolt-ex-4da408.webp)
 
 *Illus. aky CG Works*
 
@@ -1264,7 +1264,7 @@ Coming soon.
 
 
 
-![](/images/3621e43c9d682598.webp)
+![](/images/24-raging-bolt-ex.webp)
 
 </div><div class="jb-col-6">
 
@@ -1287,7 +1287,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f497988877dbe344.webp)
+![](/images/hop-s-zacian-ex-f49798.webp)
 
 *Illus. aky CG Works*
 
@@ -1301,7 +1301,7 @@ Coming soon.
 
 
 
-![](/images/f2a2606d08b821ec.webp)
+![](/images/25-hop-v2.webp)
 
 </div><div class="jb-col-6">
 

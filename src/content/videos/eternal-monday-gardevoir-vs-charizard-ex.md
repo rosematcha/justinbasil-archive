@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Gardevoir vs. Charizard ex"
 description: "In today's Eternal Monday, the immensely complex Eternal Gardevoir Box faces off against Charizard ex, itself bolstered by the Miraidon ex setup engine!"
-ogImage: "/images/70696081c952d5b3.webp"
+ogImage: "/images/gardy-vs-zard-706960.webp"
 publishDate: 2024-09-23
 youtubeId: "7wLQOAIJNrA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-gardevoir-vs-charizard-ex"
@@ -19,7 +19,7 @@ In today's Eternal Monday, the immensely complex Eternal Gardevoir Box faces off
 
 
 
-![](/images/40528d784f1729bf.webp)
+![](/images/gardy-vs-zard.webp)
 
 
 

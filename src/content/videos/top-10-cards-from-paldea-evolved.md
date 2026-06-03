@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Paldea Evolved!"
 description: "It's that time! Let's look at the top 10 cards from the latest set in the Pokémon Trading Card Game--Scarlet & Violet--Paldea Evolved. Paldea Evolved releases internationally on 9 June 2023, with prerelease events beginning on 27 May 2023.  Check out these links to learn more!   Paldea Evolv"
-ogImage: "/images/a45c22c4a63c1ace.webp"
+ogImage: "/images/pal-top-10-a45c22.webp"
 publishDate: 2023-05-25
 youtubeId: "JQ1NVaUSCI4"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-paldea-evolved"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/cdaef6f59e4ea4be.webp)
+![](/images/pal-top-10.webp)
 
 
 

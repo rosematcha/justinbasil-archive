@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 3: Gholdengo vs. Dragapult ex"
 description: "In this week's bonus video, Gholdengo ex attempts to make it rain against Dragapult ex featuring Pelipper!     Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/b15e9fdd3a389875.webp"
+ogImage: "/images/bonus-3-b15e9f.webp"
 publishDate: 2025-02-12
 youtubeId: "VbAXePhMxYs"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-3-gholdengo-vs-dragapult-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Gholdengo ex attempts to make it rain against Dragap
 
 
 
-![](/images/d94858519a92bb39.webp)
+![](/images/bonus-3-d94858.webp)
 
 
 

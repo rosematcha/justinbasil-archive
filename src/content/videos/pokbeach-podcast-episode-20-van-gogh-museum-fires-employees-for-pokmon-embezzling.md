@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 20: Van Gogh Museum Fires Employees for Pokémon Embezzling"
 description: "This week we discuss employees fired at the Van Gogh Museum for embezzling Pokemon products, a new set called \"Mask of Change\" featuring Ogerpon ex, the new secret rares from \"Wild Force\" and \"Cyber Judge,\" the release of \"Paldean Fates,\" and much more!"
-ogImage: "/images/eb2b51fdeebbd696.webp"
+ogImage: "/images/raticate-768x432-eb2b51.webp"
 publishDate: 2024-01-26
 youtubeId: "ih1DPr7rVmA"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-20-van-gogh-museum-fires-employees-for-pokmon-embezzling"
@@ -19,7 +19,7 @@ This week we discuss employees fired at the Van Gogh Museum for embezzling Pokem
 
 
 
-![](/images/ed50a4785f251c6e.webp)
+![](/images/raticate-768x432.webp)
 
 
 

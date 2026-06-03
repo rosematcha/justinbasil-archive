@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 13: New February Products and Inside Look into Pokemon Card Art Design Process!"
 description: "This week we discuss new products coming in February and March, the latest info about \"Indigo Disk,\" and a rare look into the design process between Pokemon TCG illustrators and Creatures!"
-ogImage: "/images/c19172ef987018d9.webp"
+ogImage: "/images/e13-copy-768x432-c19172.webp"
 publishDate: 2023-12-08
 youtubeId: "52CxJHH7eyE"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-13-new-february-products-and-inside-look-into-pokemon-card-art-design-process"
@@ -19,7 +19,7 @@ This week we discuss new products coming in February and March, the latest info 
 
 
 
-![](/images/03b431d7e609724e.webp)
+![](/images/e13-copy-768x432.webp)
 
 
 

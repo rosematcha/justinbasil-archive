@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Tsareena V vs. Regigigas"
 description: "In this week's Eternal Monday, Tsareena V tries to sweep away the Regis with its powerful, queenly kicks!  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/ab08719b04324051.webp"
+ogImage: "/images/december-24-tsareena-v-vs-regigigas-ab0871.webp"
 publishDate: 2024-12-16
 youtubeId: "33zJk0czg2E"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-tsareena-v-vs-regigigas"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/c8506fc4f3d51dfd.webp)
+![](/images/december-24-tsareena-v-vs-regigigas.webp)
 
 
 

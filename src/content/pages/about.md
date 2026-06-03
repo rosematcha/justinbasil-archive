@@ -1,6 +1,6 @@
 ---
 title: "About"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/about"
 showHeading: false
 ---
@@ -58,19 +58,19 @@ A.
     <tr>
       <td>
         Bellossom
-        <img alt="Bellossom" src="/images/f680ddea2f6b81e4.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Bellossom" src="/images/600px-182bellossom.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Torkoal
-        <img alt="Torkoal" src="/images/ea46f9fa2b2d82df.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Torkoal" src="/images/324torkoal.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Cramorant
-              <img alt="Cramorant" src="/images/70b4dc288dadc983.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Cramorant" src="/images/250px-845cramorant.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Wattrel
-              <img alt="Wattrel" src="/images/eeb7836379f98d73.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Wattrel" src="/images/0940wattrel.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -82,19 +82,19 @@ A.
     <tr>
       <td>
         Unown
-              <img alt="Unown" src="/images/dd4a5e054d48fa7d.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Unown" src="/images/home201j.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Heracross
-        <img alt="Heracross" src="/images/3d6ca2201be388bc.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Heracross" src="/images/600px-214heracross.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Bewear
-              <img alt="Bewear" src="/images/54ba9a6363f1bd6a.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Bewear" src="/images/250px-760bewear.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Umbreon
-              <img alt="Umbreon" src="/images/d4cbb1365849a048.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Umbreon" src="/images/197umbreon.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -106,19 +106,19 @@ A.
         <tr>
             <td>
         Sylveon
-              <img alt="Sylveon" src="/images/823ba6a610d2154a.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Sylveon" src="/images/600px-700sylveon.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Ultra Necrozma
-              <img alt="Ultra Necrozma" src="/images/6130ef3f9308a7f7.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Ultra Necrozma" src="/images/800necrozma-ultra.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Oddish
-        <img alt="Oddish" src="/images/31ff58e1aeb6a169.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Oddish" src="/images/img-2904.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Carracosta
-              <img alt="Carracosta" src="/images/faa6cc192c604e4a.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Carracosta" src="/images/600px-565carracosta.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -130,19 +130,19 @@ A.
     <tr>
             <td>
         Quagsire
-              <img alt="Quagsire" src="/images/c11f3f0230ace6d0.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Quagsire" src="/images/600px-195quagsire.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
                   <td>
         Dragapult
-              <img alt="Dragapult" src="/images/45e1cdcae184bc61.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Dragapult" src="/images/887dragapult.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Magneton
-              <img alt="Magneton" src="/images/e61c28a658a44ff0.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Magneton" src="/images/082magneton.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Cryogonal
-              <img alt="Cryogonal" src="/images/80bc7bfb274b396b.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Cryogonal" src="/images/615cryogonal.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
 </tr>
 <tr class="jb-bold">
@@ -154,11 +154,11 @@ A.
 <tr>
           <td>
            Lugia 
-            <img alt="Lugia" src="/images/aafcad29b7a9d5fb.webp" loading="lazy" class="jb-icon-70"><br>
+            <img alt="Lugia" src="/images/600px-249lugia.webp" loading="lazy" class="jb-icon-70"><br>
           </td>
       <td>
         Audino
-        <img alt="Audino" src="/images/038bab20c74ce8ed.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Audino" src="/images/531audino.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -181,19 +181,19 @@ A.
     <tr>
             <td>
         Magneton
-              <img alt="Magneton" src="/images/e61c28a658a44ff0.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Magneton" src="/images/082magneton.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Bellossom
-        <img alt="Bellssom" src="/images/f680ddea2f6b81e4.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Bellssom" src="/images/600px-182bellossom.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Torkoal
-        <img alt="Torkoal" src="/images/ea46f9fa2b2d82df.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Torkoal" src="/images/324torkoal.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Gastrodon
-              <img alt="Gastrodon" src="/images/0206e82347cb1986.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Gastrodon" src="/images/gastrodon.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -205,19 +205,19 @@ A.
     <tr>
             <td>
         Cryogonal
-              <img alt="Cryogonal" src="/images/80bc7bfb274b396b.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Cryogonal" src="/images/615cryogonal.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Sylveon
-              <img alt="Sylveon" src="/images/823ba6a610d2154a.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Sylveon" src="/images/600px-700sylveon.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Ultra Necrozma
-              <img alt="Ultra Necrozma" src="/images/6130ef3f9308a7f7.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Ultra Necrozma" src="/images/800necrozma-ultra.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Cramorant
-              <img alt="Cramorant" src="/images/70b4dc288dadc983.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Cramorant" src="/images/250px-845cramorant.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -229,7 +229,7 @@ A.
    <tr>
             <td>
         Wattrel
-              <img alt="Wattrel" src="/images/eeb7836379f98d73.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Wattrel" src="/images/0940wattrel.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -269,15 +269,15 @@ A. This is a bit of a hard question to answer, but would be grass, ice, or flyin
     </tr>
       <tr><td>
         Bellossom
-        <img alt="Bellssom" src="/images/f680ddea2f6b81e4.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Bellssom" src="/images/600px-182bellossom.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Venusaur
-        <img alt="Venusaur" src="/images/620ec8b6ff69d5ff.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Venusaur" src="/images/0003venusaur.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Meganium
-        <img alt="Meganium" src="/images/902da05303253e06.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Meganium" src="/images/0154meganium.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -288,15 +288,15 @@ A. This is a bit of a hard question to answer, but would be grass, ice, or flyin
     <tr>
             <td>
         Leafeon
-              <img alt="Leafeon" src="/images/db8cb692e067bef3.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Leafeon" src="/images/0470leafeon.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Torterra
-              <img alt="Torterra" src="/images/60bff5e7b62f33f1.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Torterra" src="/images/0389torterra.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Decidueye
-              <img alt="Decidueye" src="/images/b8381a79a620b1c7.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Decidueye" src="/images/0724decidueye.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
 </tbody></table>
@@ -313,15 +313,15 @@ A. This is a bit of a hard question to answer, but would be grass, ice, or flyin
     </tr>
       <tr><td>
         Alolan Ninetales
-        <img alt="Alolan Ninetales" src="/images/d3ac5c09bb09542d.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Alolan Ninetales" src="/images/0038ninetales-alola.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Cryogonal
-        <img alt="Cryogonal" src="/images/80bc7bfb274b396b.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Cryogonal" src="/images/615cryogonal.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Weavile
-        <img alt="Weavile" src="/images/dc50004372dc1762.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Weavile" src="/images/0461weavile.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -332,15 +332,15 @@ A. This is a bit of a hard question to answer, but would be grass, ice, or flyin
     <tr>
             <td>
         Aurorus
-              <img alt="Aurorus" src="/images/dd1fb61073844147.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Aurorus" src="/images/0699aurorus.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Baxcalibur
-              <img alt="Baxcalibur" src="/images/8a51bb87d57b1ba2.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Baxcalibur" src="/images/0998baxcalibur.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Alolan Sandslash
-              <img alt="Alolan Sandslash" src="/images/b8ab696196183665.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Alolan Sandslash" src="/images/0028sandslash-alola.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
 </tbody></table>
@@ -357,15 +357,15 @@ A. This is a bit of a hard question to answer, but would be grass, ice, or flyin
     </tr>
       <tr><td>
         Kilowattrel
-        <img alt="Kilowattrel" src="/images/a6ce2707f86da477.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Kilowattrel" src="/images/0941kilowattrel.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Talonflame
-        <img alt="Talonflame" src="/images/336d6e2f15456d98.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Talonflame" src="/images/0663talonflame.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
       <td>
         Tropius
-        <img alt="Tropius" src="/images/1f9c5c429e8b3d01.webp" loading="lazy" class="jb-icon-70"><br>
+        <img alt="Tropius" src="/images/0357tropius.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
     <tr class="jb-bold">
@@ -376,15 +376,15 @@ A. This is a bit of a hard question to answer, but would be grass, ice, or flyin
     <tr>
             <td>
         Cramorant
-              <img alt="Cramorant" src="/images/9d40625fa0a85ba2.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Cramorant" src="/images/0845cramorant.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Skarmory
-              <img alt="Skarmory" src="/images/4cad74b14f639ec5.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Skarmory" src="/images/0227skarmory.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
             <td>
         Xatu
-              <img alt="Xatu" src="/images/a3a2e6121220dca2.webp" loading="lazy" class="jb-icon-70"><br>
+              <img alt="Xatu" src="/images/0178xatu.webp" loading="lazy" class="jb-icon-70"><br>
       </td>
     </tr>
 </tbody></table>

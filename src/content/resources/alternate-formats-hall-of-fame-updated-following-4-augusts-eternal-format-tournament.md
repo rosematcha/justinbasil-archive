@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following 4 August's Eternal Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 4 August 2023 Eternal Format tournament.  The tournament's results were as follows:    Guil - Rapid Strike Urshifu VMAX    MysteriousPlayer - Copperajah ex    kingK4RP - Zacian VSTAR    Grayson H. - Glimmora    Click  he"
-ogImage: "/images/d9657ff65cdd78f3.webp"
+ogImage: "/images/rs-urshifu-d9657f.webp"
 publishDate: 2023-08-05
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-4-augusts-eternal-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/a59fd4adb614a68f.webp)
+![](/images/rs-urshifu-a59fd4.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 25: “Pokémon TCG Pocket” Will Usher in a New Era for the Pokémon TCG!"
 description: "This week we discuss Pokemon TCG Pocket, Pokemon Legends: Z-A, new cards from Crimson Haze and Battle Academy, the decreasing price of Pikachu Van Gogh, and more!"
-ogImage: "/images/698dbd0f947e6a23.webp"
+ogImage: "/images/pikachu-768x432-698dbd.webp"
 publishDate: 2024-03-02
 youtubeId: "x4BKalBfB6A"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-25-pokmon-tcg-pocket-will-usher-in-a-new-era-for-the-pokmon-tcg"
@@ -19,7 +19,7 @@ This week we discuss Pokemon TCG Pocket, Pokemon Legends: Z-A, new cards from Cr
 
 
 
-![](/images/b13a712bf604dcef.webp)
+![](/images/pikachu-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blastoise Water Box vs. Ultra Necrozma"
 description: "In today's Eternal Monday, I utter the phrase, \"Goodbye, trash bag. To the discard with you,\" So you know it's going to be good! Blastoise Water Box takes on Ultra Necrozma!   Learn more about the Eternal format here:  justinbasil.com/eternal"
-ogImage: "/images/6e83be822581b407.webp"
+ogImage: "/images/img-6146-6e83be.webp"
 publishDate: 2023-11-20
 youtubeId: "FdAd3st6NPk"
 sourceUrl: "https://www.justinbasil.com/videos/Eternal-Monday-Blastoise-Water-Box-vs-Ultra-Necrozma"
@@ -23,7 +23,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/eb677339baafa3b5.webp)
+![](/images/img-6146.webp)
 
 
 

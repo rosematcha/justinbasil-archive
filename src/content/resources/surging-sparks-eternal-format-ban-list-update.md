@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Eternal Format Ban List Update"
 description: "The following cards, and any alternate printings they may have, are now banned in the Eternal format, effectively immediately."
-ogImage: "/images/563d9597b3985e27.webp"
+ogImage: "/images/twm-130-r-en-563d95.webp"
 publishDate: 2024-10-24
 sourceUrl: "https://www.justinbasil.com/resources/surging-sparks-eternal-format-ban-list-update"
 showHeading: false
@@ -25,7 +25,7 @@ The following cards, and any alternate printings they may have, are now banned i
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f0c3cf3137363f8.webp)
+![](/images/twm-130-r-en-3f0c3c.webp)
 
 </div><div class="jb-col-4">
 
@@ -35,7 +35,7 @@ To finally let the format breathe, this card is now banned in the Eternal format
 
 </div><div class="jb-col-2">
 
-![](/images/5e9c8acab1ccf42e.webp)
+![](/images/unb-175-r-en-5e9c8a.webp)
 
 </div><div class="jb-col-4">
 
@@ -47,7 +47,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b453b16f863bd048.webp)
+![](/images/sv08-en-59-2x-b453b1.webp)
 
 </div><div class="jb-col-4">
 
@@ -55,7 +55,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div><div class="jb-col-2">
 
-![](/images/89b40d36f86d2b41.webp)
+![](/images/fli-056-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -63,7 +63,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/770a8ef6f9ee88c5.webp)
+![](/images/11-hires.webp)
 
 </div><div class="jb-col-4">
 
@@ -71,7 +71,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div><div class="jb-col-2">
 
-![](/images/f79bd035213c2008.webp)
+![](/images/sv08-en-142-2x-f79bd0.webp)
 
 </div><div class="jb-col-4">
 
@@ -81,7 +81,7 @@ While effects like these are incredibly cool, they unfortunately tend to be a bi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/138637962b64861d.webp)
+![](/images/cec-052-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -106,5 +106,5 @@ Additionally, the following cards, and any alternate printings they may have, ar
     <li><a href="https://limitlesstcg.com/cards/nvi/14/">Victini NVI 14</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/103fdaed27d68618.webp"><img src="/images/103fdaed27d68618.webp" alt="DAA_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ab10bc9fddb0f906.webp"><img src="/images/ab10bc9fddb0f906.webp" alt="CL_080_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f881ea4a4e39b3b7.webp"><img src="/images/f881ea4a4e39b3b7.webp" alt="Mewtwo V-UNION.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f56c1703f76b1439.webp"><img src="/images/f56c1703f76b1439.webp" alt="ASR_114_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d3054baa6963806d.webp"><img src="/images/d3054baa6963806d.webp" alt="SCR_024_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9379f76c6d282ba1.webp"><img src="/images/9379f76c6d282ba1.webp" alt="PHF_108_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e29b13977cf8887c.webp"><img src="/images/e29b13977cf8887c.webp" alt="GRI_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/29d7b9d06a790e6d.webp"><img src="/images/29d7b9d06a790e6d.webp" alt="LTR_023_R_EN.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/daa-162-r-en.webp"><img src="/images/daa-162-r-en.webp" alt="DAA_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cl-080-r-en.webp"><img src="/images/cl-080-r-en.webp" alt="CL_080_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/mewtwo-v-union.webp"><img src="/images/mewtwo-v-union.webp" alt="Mewtwo V-UNION.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/asr-114-r-en.webp"><img src="/images/asr-114-r-en.webp" alt="ASR_114_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/scr-024-r-en.webp"><img src="/images/scr-024-r-en.webp" alt="SCR_024_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/phf-108-r-en.webp"><img src="/images/phf-108-r-en.webp" alt="PHF_108_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/gri-010-r-en.webp"><img src="/images/gri-010-r-en.webp" alt="GRI_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ltr-023-r-en.webp"><img src="/images/ltr-023-r-en.webp" alt="LTR_023_R_EN.png" loading="lazy"></a></figure></div>
 

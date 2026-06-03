@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blastoise Water Box vs. Roaring Moon ex"
 description: "In today's Eternal Monday, it's Roaring Moon ex vs. Blastoise Water Box! Will Roaring Moon terrorize Blastoise Water Box in a Frenzied Gouging super-spree, or will Blastoise wield the flyswatter that puts this pest down?"
-ogImage: "/images/6e2a928f4c5c905c.webp"
+ogImage: "/images/blastoise-vs-roaring-moon-6e2a92.webp"
 publishDate: 2023-12-25
 youtubeId: "EengRFo4iEQ"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blastoise-water-box-vs-roaring-moon-ex"
@@ -19,7 +19,7 @@ In today's Eternal Monday, it's Roaring Moon ex vs. Blastoise Water Box! Will Ro
 
 
 
-![](/images/8f4e0e1158f8510f.webp)
+![](/images/blastoise-vs-roaring-moon.webp)
 
 
 

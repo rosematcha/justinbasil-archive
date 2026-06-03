@@ -1,7 +1,7 @@
 ---
 title: "SV11 Translations"
 description: "Below is a running summary of translations for all base-rarity cards currently believed to be part of our Mega Evolution set. To view secret rare cards, visit the set’s  Visual Set List ."
-ogImage: "/images/6a5e9ee164e2e161.webp"
+ogImage: "/images/001-6a5e9e.webp"
 publishDate: 2025-02-27
 sourceUrl: "https://www.justinbasil.com/translations/mega1"
 showHeading: false
@@ -10,7 +10,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/e795a2f742d840ce.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-mega-evolution-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Card Translations</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our third main set of 2025 by visiting the articles below.
@@ -50,7 +50,7 @@ Below is a running summary of translations for all base-rarity cards currently b
     <span id="G" class="symb">G</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b524e2f678583f68.webp)
+![](/images/001-b524e2.webp)
 
 </div><div class="jb-col-10">
 
@@ -60,7 +60,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1fb9971ddd385de6.webp)
+![](/images/002-1fb997.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -72,7 +72,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/16bb598f7d3c20e0.webp)
+![](/images/mega-venusaur-ex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -86,7 +86,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/057ba9d2fa05ab3f.webp)
+![](/images/047737-p-tamatama.webp)
 
 </div><div class="jb-col-10">
 
@@ -96,7 +96,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8ffac8532e44b7fe.webp)
+![](/images/047738-p-nasshi.webp)
 
 </div><div class="jb-col-10">
 
@@ -108,7 +108,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/147aeacc4ad06883.webp)
+![](/images/047797-p-monjixyara.webp)
 
 </div><div class="jb-col-10">
 
@@ -120,7 +120,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cab88fdf37ec4f33.webp)
+![](/images/047798-p-mojixyanbo.webp)
 
 </div><div class="jb-col-10">
 
@@ -132,7 +132,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3ef5b40aeb4719c7.webp)
+![](/images/chikorita.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -144,7 +144,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/06b4fe37f4b1b26e.webp)
+![](/images/bayleef.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -156,7 +156,7 @@ Ability: Solar Transfer As often as you like during your turn, you may use this 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/62e2ea94b6617a1f.webp)
+![](/images/meganium.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -170,7 +170,7 @@ Ability: Wild Growth Each Basic [G] Energy attached to your Pokémon provides 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/27462e81d3cd90fb.webp)
+![](/images/047802-p-tsubotsubo.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -184,7 +184,7 @@ Ability: Ferment Juice Once during your turn, if this Pokémon has any [G] Energ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/84966ab0bca099b1.webp)
+![](/images/celebi.webp)
 
 </div><div class="jb-col-10">
 
@@ -196,7 +196,7 @@ Ability: Ferment Juice Once during your turn, if this Pokémon has any [G] Energ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dbd6dfe127712496.webp)
+![](/images/047740-p-tanebo.webp)
 
 </div><div class="jb-col-10">
 
@@ -208,7 +208,7 @@ Ability: Ferment Juice Once during your turn, if this Pokémon has any [G] Energ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6a859f6f496af788.webp)
+![](/images/047741-p-konohana.webp)
 
 </div><div class="jb-col-10">
 
@@ -220,7 +220,7 @@ Ability: Ferment Juice Once during your turn, if this Pokémon has any [G] Energ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/10b311630dd09bb6.webp)
+![](/images/047742-p-datengu.webp)
 
 </div><div class="jb-col-10">
 
@@ -232,7 +232,7 @@ Ability: Ferment Juice Once during your turn, if this Pokémon has any [G] Energ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ef13c75a6c10799e.webp)
+![](/images/nincada-ef13c7.webp)
 
 </div><div class="jb-col-10">
 
@@ -242,7 +242,7 @@ Ability: Ferment Juice Once during your turn, if this Pokémon has any [G] Energ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e40230f9ba57d4e4.webp)
+![](/images/ninjask-e40230.webp)
 
 </div><div class="jb-col-10">
 
@@ -254,7 +254,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/251d8c0e18245f71.webp)
+![](/images/047805-p-dadarin.webp)
 
 </div><div class="jb-col-10">
 
@@ -266,7 +266,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
     <span id="R" class="symb">R</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6f82d1a772e0d672.webp)
+![](/images/010-6f82d1.webp)
 
 </div><div class="jb-col-10">
 
@@ -278,7 +278,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f8bf4ca3a2ac087f.webp)
+![](/images/011.webp)
 
 </div><div class="jb-col-10">
 
@@ -290,7 +290,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9db096244a8ace6d.webp)
+![](/images/047745-p-donmeru.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -304,7 +304,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7306b1ac352f20a5.webp)
+![](/images/047746-p-mbakudaex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -318,7 +318,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/533d72ac597bdd3e.webp)
+![](/images/047806-p-shishiko.webp)
 
 </div><div class="jb-col-10">
 
@@ -328,7 +328,7 @@ Ability: Cast-off Shell When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8899a605aa697263.webp)
+![](/images/047807-p-kaenjishi.webp)
 
 </div><div class="jb-col-10">
 
@@ -340,7 +340,7 @@ Ability: Intimidating Fang As long as this Pokémon is in the Active Spot, your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e599e9657e58211a.webp)
+![](/images/047747-p-borukenion.webp)
 
 </div><div class="jb-col-10">
 
@@ -352,7 +352,7 @@ Ability: Intimidating Fang As long as this Pokémon is in the Active Spot, your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/048ff607227c2908.webp)
+![](/images/scorbunny-048ff6.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -364,7 +364,7 @@ Ability: Intimidating Fang As long as this Pokémon is in the Active Spot, your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/152e8659cb551810.webp)
+![](/images/raboot-152e86.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -376,7 +376,7 @@ Ability: Intimidating Fang As long as this Pokémon is in the Active Spot, your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f8cf0da5976720df.webp)
+![](/images/cinderace-f8cf0d.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -390,7 +390,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2def6b128a4eec17.webp)
+![](/images/047808-p-yakude.webp)
 
 </div><div class="jb-col-10">
 
@@ -402,7 +402,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c022c8146c249262.webp)
+![](/images/047809-p-maruyakude.webp)
 
 </div><div class="jb-col-10">
 
@@ -414,7 +414,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a9aa07e7691e484f.webp)
+![](/images/047810-p-iyui.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -428,7 +428,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
     <span id="W" class="symb">W</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7dee395bd521d068.webp)
+![](/images/047811-p-mantain.webp)
 
 </div><div class="jb-col-10">
 
@@ -440,7 +440,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f9947c8ae24ade1c.webp)
+![](/images/047751-p-heigani.webp)
 
 </div><div class="jb-col-10">
 
@@ -452,7 +452,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5c618dde8cdfdbea.webp)
+![](/images/kyogre-5c618d.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -466,7 +466,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4e1c9dc53b9fdd59.webp)
+![](/images/047813-p-yukikaburi.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -480,7 +480,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cc85dd90cf5c63b1.webp)
+![](/images/047814-p-myukinooex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -494,7 +494,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a27d1bef12909c88.webp)
+![](/images/047815-p-udeppou.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -506,7 +506,7 @@ Ability: Explosiveness If this Pokémon is in your hand when you are setting up
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7fb69ffce874f925.webp)
+![](/images/047816-p-burosuta.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -520,7 +520,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5e7f9591267507db.webp)
+![](/images/021-5e7f95.webp)
 
 </div><div class="jb-col-10">
 
@@ -530,7 +530,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9443854c2e81c3e4.webp)
+![](/images/022-944385.webp)
 
 </div><div class="jb-col-10">
 
@@ -540,7 +540,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ce2b6d6a10bc2d92.webp)
+![](/images/023-ce2b6d.webp)
 
 </div><div class="jb-col-10">
 
@@ -552,7 +552,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9625b23e7e2bf024.webp)
+![](/images/047820-p-yukihami.webp)
 
 </div><div class="jb-col-10">
 
@@ -562,7 +562,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a3c7613e428a4f16.webp)
+![](/images/047821-p-mosunou.webp)
 
 </div><div class="jb-col-10">
 
@@ -572,7 +572,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/505917178ea82817.webp)
+![](/images/047822-p-koorippo.webp)
 
 </div><div class="jb-col-10">
 
@@ -586,7 +586,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
     <span id="L" class="symb">L</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2834a1717f8bdf8a.webp)
+![](/images/047823-p-koiru.webp)
 
 </div><div class="jb-col-10">
 
@@ -596,7 +596,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9d99f1deb3d9e983.webp)
+![](/images/047824-p-reakoiru.webp)
 
 </div><div class="jb-col-10">
 
@@ -606,7 +606,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f18b4cb45996f065.webp)
+![](/images/047825-p-jibakoiru.webp)
 
 </div><div class="jb-col-10">
 
@@ -618,7 +618,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/80193ff525cf52df.webp)
+![](/images/047826-p-raikou.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -630,7 +630,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e88180b3a2423890.webp)
+![](/images/047827-p-rakurai.webp)
 
 </div><div class="jb-col-10">
 
@@ -640,7 +640,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e0381636398470c2.webp)
+![](/images/047828-p-mraiborutoex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -654,7 +654,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f760c4404ce89658.webp)
+![](/images/033-f760c4.webp)
 
 </div><div class="jb-col-10">
 
@@ -664,7 +664,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e0c289d563a70c15.webp)
+![](/images/047830-p-erikiteru.webp)
 
 </div><div class="jb-col-10">
 
@@ -674,7 +674,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/474573ebc6c7c63a.webp)
+![](/images/047831-p-erezado.webp)
 
 </div><div class="jb-col-10">
 
@@ -688,7 +688,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
     <span id="P" class="symb">P</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c0e3db44519c908a.webp)
+![](/images/abra-c0e3db.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -700,7 +700,7 @@ Ability: Reverse and Reload Once during your turn, when this Pokémon moves from
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c35c81c11aa9dfaf.webp)
+![](/images/kadabra-c35c81.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -714,7 +714,7 @@ Ability: Psychic Draw When you play this Pokémon from your hand to evolve 1 of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0d3f20b41d5c52fe.webp)
+![](/images/alakazam-0d3f20.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -728,7 +728,7 @@ Ability: Psychic Draw When you play this Pokémon from your hand to evolve 1 of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/17a902e983937c24.webp)
+![](/images/047835-p-rujixyura.webp)
 
 </div><div class="jb-col-10">
 
@@ -738,7 +738,7 @@ Ability: Psychic Draw When you play this Pokémon from your hand to evolve 1 of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8505daf81ac459a5.webp)
+![](/images/040-8505da.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -752,7 +752,7 @@ Ability: Psychic Draw When you play this Pokémon from your hand to evolve 1 of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/40770da93ce15d8a.webp)
+![](/images/041-40770d.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -766,7 +766,7 @@ Ability: Psychic Draw When you play this Pokémon from your hand to evolve 1 of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b41eda263cff836c.webp)
+![](/images/m-gardevoir-ex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -780,7 +780,7 @@ Ability: Psychic Draw When you play this Pokémon from your hand to evolve 1 of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/20f27d7d1df0f237.webp)
+![](/images/shedinja-20f27d.webp)
 
 </div><div class="jb-col-10">
 
@@ -792,7 +792,7 @@ Ability: Fragile Shell If this Pokémon is Knocked Out by damage from an attack 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ae6145db2dda772c.webp)
+![](/images/047840-p-banebu.webp)
 
 </div><div class="jb-col-10">
 
@@ -802,7 +802,7 @@ Ability: Fragile Shell If this Pokémon is Knocked Out by damage from an attack 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/70b9f8270be1e0c9.webp)
+![](/images/047841-p-bupiggu.webp)
 
 </div><div class="jb-col-10">
 
@@ -814,7 +814,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6a21fcf90e08dd53.webp)
+![](/images/047842-p-zeruneasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -826,7 +826,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/64bad9c5c7270c82.webp)
+![](/images/047843-p-bochi.webp)
 
 </div><div class="jb-col-10">
 
@@ -838,7 +838,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d38d511cd0d51909.webp)
+![](/images/047844-p-hakadoggu.webp)
 
 </div><div class="jb-col-10">
 
@@ -850,7 +850,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f082d937c52a760f.webp)
+![](/images/047752-p-korekure.webp)
 
 </div><div class="jb-col-10">
 
@@ -865,7 +865,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
     <span id="F" class="symb">F</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c1e29b17892fa115.webp)
+![](/images/047753-p-sando.webp)
 
 </div><div class="jb-col-10">
 
@@ -877,7 +877,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2c3073bca08cdd90.webp)
+![](/images/047754-p-sandopan.webp)
 
 </div><div class="jb-col-10">
 
@@ -889,7 +889,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2d9919c08d8a155c.webp)
+![](/images/047755-p-iwaku.webp)
 
 </div><div class="jb-col-10">
 
@@ -901,7 +901,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c15efc18ed0f2a98.webp)
+![](/images/047756-p-baruki.webp)
 
 </div><div class="jb-col-10">
 
@@ -911,7 +911,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2cd87be4b93e4a5e.webp)
+![](/images/024-2cd87b.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -925,7 +925,7 @@ Ability: Energy Step Once during your turn, when you play this Pokémon from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e5d88000f1388ae0.webp)
+![](/images/025-e5d880.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -939,7 +939,7 @@ Ability: Heave-Ho Catcher Once during your turn, when you play this Pokémon fro
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/17bc45d294849cac.webp)
+![](/images/047759-p-runaton.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -953,7 +953,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/835c6178e7409f2b.webp)
+![](/images/047760-p-sorurokku.webp)
 
 </div><div class="jb-col-10">
 
@@ -963,7 +963,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/58d3ab725044f534.webp)
+![](/images/028-58d3ab.webp)
 
 </div><div class="jb-col-10">
 
@@ -973,7 +973,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/669aa5244fc28664.webp)
+![](/images/m-lucario-ex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -987,7 +987,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e5a48d3adb3ab423.webp)
+![](/images/047763-p-guregguru.webp)
 
 </div><div class="jb-col-10">
 
@@ -997,7 +997,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bf5bb3b1d9ef71e9.webp)
+![](/images/047764-p-dokuroggu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1007,7 +1007,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/71bc82e762446e8a.webp)
+![](/images/marshadow.webp)
 
 </div><div class="jb-col-10">
 
@@ -1017,7 +1017,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ea6e79b3198881d5.webp)
+![](/images/047766-p-ishihenjin.webp)
 
 </div><div class="jb-col-10">
 
@@ -1029,7 +1029,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dfedec59c93eec67.webp)
+![](/images/nacli.webp)
 
 </div><div class="jb-col-10">
 
@@ -1039,7 +1039,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1aeceadfc60cc590.webp)
+![](/images/naclstack-1aecea.webp)
 
 </div><div class="jb-col-10">
 
@@ -1049,7 +1049,7 @@ Ability: Lunar Cycle Once during your turn, if you have Solrock in play, you may
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a433d21e2d2d7246.webp)
+![](/images/garganacl-a433d2.webp)
 
 </div><div class="jb-col-10">
 
@@ -1063,7 +1063,7 @@ Ability: Power Salt Attacks used by your [F] Pokémon do 30 more damage to your 
     <span id="D" class="symb">D</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3a77d5fc5fc9e554.webp)
+![](/images/047770-p-shizariga.webp)
 
 </div><div class="jb-col-10">
 
@@ -1075,7 +1075,7 @@ Ability: Power Salt Attacks used by your [F] Pokémon do 30 more damage to your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1550d975cbe5dbf9.webp)
+![](/images/038.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1089,7 +1089,7 @@ Ability: Power Salt Attacks used by your [F] Pokémon do 30 more damage to your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/32063d64d40bf6c5.webp)
+![](/images/047772-p-mikaruge.webp)
 
 </div><div class="jb-col-10">
 
@@ -1101,7 +1101,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fbccb66b3c7558da.webp)
+![](/images/047773-p-iberutaru.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1115,7 +1115,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d51df3b806be1b9d.webp)
+![](/images/047774-p-kusune.webp)
 
 </div><div class="jb-col-10">
 
@@ -1125,7 +1125,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d30f5874d62d1129.webp)
+![](/images/047775-p-fuokusurai.webp)
 
 </div><div class="jb-col-10">
 
@@ -1137,7 +1137,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f9ba7c5767da406f.webp)
+![](/images/047776-p-shirushixyuru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1147,7 +1147,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3b15277e447ab27b.webp)
+![](/images/047777-p-taginguru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1159,7 +1159,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
     <span id="M" class="symb">M</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f5cc019bb1c60f06.webp)
+![](/images/047778-p-haganeru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1171,7 +1171,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/221173e76faa8621.webp)
+![](/images/046-221173.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1185,7 +1185,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c5e31241c30b58ce.webp)
+![](/images/047780-p-deiaruga.webp)
 
 </div><div class="jb-col-10">
 
@@ -1197,7 +1197,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cf29096ea35d7f36.webp)
+![](/images/tinkatink-cf2909.webp)
 
 </div><div class="jb-col-10">
 
@@ -1207,7 +1207,7 @@ Ability: Resentful Maelstrom Whenever your Active [D] Pokémon is damaged by an 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/79b5eb3e358850af.webp)
+![](/images/tinkatuff.webp)
 
 </div><div class="jb-col-10">
 
@@ -1219,7 +1219,7 @@ Ability: Surprise Hammer When you play this Pokémon from your hand to evolve 1 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3817bd857fe4ef5a.webp)
+![](/images/tinkaton-3817bd.webp)
 
 </div><div class="jb-col-10">
 
@@ -1229,7 +1229,7 @@ Ability: Surprise Hammer When you play this Pokémon from your hand to evolve 1 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4ed03337032a1b7d.webp)
+![](/images/047784-p-safugo.webp)
 
 </div><div class="jb-col-10">
 
@@ -1243,7 +1243,7 @@ Ability: Surprise Hammer When you play this Pokémon from your hand to evolve 1 
     <span id="N" class="symb">N</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5082d87ce5cac4b1.webp)
+![](/images/mega-latias-ex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1257,7 +1257,7 @@ Ability: Surprise Hammer When you play this Pokémon from your hand to evolve 1 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/84bbb7d402f6b099.webp)
+![](/images/050-84bbb7.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1273,7 +1273,7 @@ Ability: Lustrous Assist Once during your turn, when your Mega Latias ex moves f
     <span id="C" class="symb">C</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7f6be138ecd90ef4.webp)
+![](/images/047785-p-onisuzume.webp)
 
 </div><div class="jb-col-10">
 
@@ -1283,7 +1283,7 @@ Ability: Lustrous Assist Once during your turn, when your Mega Latias ex moves f
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4a228e4392593e80.webp)
+![](/images/047786-p-onidoriru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1293,7 +1293,7 @@ Ability: Lustrous Assist Once during your turn, when your Mega Latias ex moves f
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f139148340919527.webp)
+![](/images/047847-p-mgaruraex.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1307,7 +1307,7 @@ Ability: Run Errand Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c2a1500b49d7273e.webp)
+![](/images/047848-p-deribado.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1321,7 +1321,7 @@ Ability: Run Errand Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f04484b01bf3775a.webp)
+![](/images/047787-p-mirutanku.webp)
 
 </div><div class="jb-col-10">
 
@@ -1333,7 +1333,7 @@ Ability: Run Errand Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/76ccd9c51c5f203e.webp)
+![](/images/047849-p-mimiroru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1345,7 +1345,7 @@ Ability: Run Errand Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7e1fece5c29bccc6.webp)
+![](/images/047850-p-mimiroppu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1357,7 +1357,7 @@ Ability: Run Errand Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/12b356d447d4ab56.webp)
+![](/images/047788-p-yangusu.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1371,7 +1371,7 @@ Ability: Run Errand Once during your turn, if this Pokémon is in the Active Spo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4bfb009985907281.webp)
+![](/images/047789-p-dekagusu.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1385,7 +1385,7 @@ Ability: Gather Evidence Once during your turn, you may use this Ability. Switch
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6706bf62b508a446.webp)
+![](/images/047851-p-nuikoguma.webp)
 
 </div><div class="jb-col-10">
 
@@ -1397,7 +1397,7 @@ Ability: Gather Evidence Once during your turn, you may use this Ability. Switch
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f18ccba13019880b.webp)
+![](/images/047852-p-kiteruguma.webp)
 
 </div><div class="jb-col-10">
 
@@ -1411,7 +1411,7 @@ Ability: Gather Evidence Once during your turn, you may use this Ability. Switch
     <span id="Trainers" class="jb-bold">Trainer Cards</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/87e24ada294a831e.webp)
+![](/images/059-87e24a.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1425,7 +1425,7 @@ Choose 1 of your Pokémon in play. During your opponent's next turn, prevent all
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ca80a14a0bf0ed55.webp)
+![](/images/047898-t-bosunoshirei.webp)
 
 </div><div class="jb-col-10">
 
@@ -1437,7 +1437,7 @@ Switch in 1 of your opponent’s Benched Pokémon to the Active Spot.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/33100b07a096b0d4.webp)
+![](/images/047796-t-abunaihaikixyo.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1449,7 +1449,7 @@ Whenever either player puts a non-[D] Basic Pokémon onto their Bench, put 2 dam
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/21246ecee7746d58.webp)
+![](/images/047871-t-enerugitsukekae.webp)
 
 </div><div class="jb-col-10">
 
@@ -1461,7 +1461,7 @@ Move a Basic Energy from 1 of your Pokémon to another of your Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/448e4cd39957faf0.webp)
+![](/images/047792-t-fuaitogongu.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1473,7 +1473,7 @@ Search your deck for a Basic [F] Pokémon or a Basic [F] Energy card, reveal it,
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/57845be2776e5a49.webp)
+![](/images/047790-t-aiandeifuenda.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1485,7 +1485,7 @@ During your opponent's next turn, all of your [M] Pokémon take 30 less damage f
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d7b9ff007ed3dfea.webp)
+![](/images/lillie-s-determination.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1497,7 +1497,7 @@ Shuffle your hand into your deck. Then, draw 6 cards. If you have exactly 6 Priz
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1e32b5974b0ac601.webp)
+![](/images/047794-t-machisunotorihiki.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1509,7 +1509,7 @@ Ask your opponent if both players may draw a Prize card. If yes, both players dr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/49147cb5393c36b2.webp)
+![](/images/047857-t-katsurixyokunomori.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1521,7 +1521,7 @@ Each player's [G] Pokémon can evolve into another [G] Pokémon during the turn 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/13dcbf1ac2e76f87.webp)
+![](/images/058-13dcbf.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1533,7 +1533,7 @@ Search your deck for a Mega Evolution Pokémon ex, reveal it, and put it into yo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8d733f8352d272a7.webp)
+![](/images/063-8d733f.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1545,7 +1545,7 @@ Once during each player's turn, that player may discard an Energy card from thei
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9155cee569358eaf.webp)
+![](/images/004799-3.webp)
 
 </div><div class="jb-col-10">
 
@@ -1557,7 +1557,7 @@ Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5999794cf7e987ed.webp)
+![](/images/premium-power-pro.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1569,7 +1569,7 @@ During this turn, attacks used by your [F] Pokémon do 30 more damage to your op
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/46eac89779e48837.webp)
+![](/images/047880-t-fushiginaame.webp)
 
 </div><div class="jb-col-10">
 
@@ -1581,7 +1581,7 @@ Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a43a2109e267ec98.webp)
+![](/images/047793-t-mushiyokesupure.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1595,7 +1595,7 @@ Switch out your opponent's Active Pokémon to the Bench. <em>(Your opponent choo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b7e645dc41f69dd6.webp)
+![](/images/047858-t-naminoribichi.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1607,7 +1607,7 @@ Once during each player’s turn, that player may switch their Active [W] Pokém
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2ece91ca670e183a.webp)
+![](/images/047853-t-ayashiitokei-1.webp)
 
 *[Proxy Available](/proxies/sv11)*
 
@@ -1619,7 +1619,7 @@ Devolve 1 of your evolved [P] Pokémon by returning any number of Evolution card
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c3f8024e9713d88c.webp)
+![](/images/047882-t-pokemonirekae.webp)
 
 </div><div class="jb-col-10">
 
@@ -1631,7 +1631,7 @@ Switch your Active Pokémon with 1 of your Benched Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/31769fb0e4003ed6.webp)
+![](/images/047879-t-haipaboru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1643,7 +1643,7 @@ You can use this card only if you discard 2 other cards from your hand. Search y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/845321a592876862.webp)
+![](/images/wally-s-compassion.webp)
 
 *[Proxy Available](/proxies/sv11)*
 

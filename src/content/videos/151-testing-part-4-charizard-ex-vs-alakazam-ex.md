@@ -1,7 +1,7 @@
 ---
 title: "151 Testing, Part 4: Charizard ex vs. Alakazam ex"
 description: "In this week's bonus video, Charizard ex faces off against Alakazam ex. Will Alakazam bring the pain or will Charizard torch its spoons?   151 Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/bd89df38a057e220.webp"
+ogImage: "/images/part-4-bd89df.webp"
 publishDate: 2023-08-30
 youtubeId: "y7ZtfM1HF-4"
 sourceUrl: "https://www.justinbasil.com/videos/151-testing-part-4-charizard-ex-vs-alakazam-ex"
@@ -28,7 +28,7 @@ In this week's bonus video, Charizard ex faces off against Alakazam ex. Will Ala
 
 
 
-![](/images/1d8a6a31630e1fc8.webp)
+![](/images/part-4-1d8a6a.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 6: Gholdengo ex vs. Roaring Moon ex"
 description: "We continue testing Paradox Rift! In this bonus video, Gholdengo ex takes on Roaring Moon ex. Will Gholdengo make it rain, or will Roaring Moon bring about eternal night?  Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set Li"
-ogImage: "/images/3a09ac1ce6462dcd.webp"
+ogImage: "/images/bonus-6-3a09ac.webp"
 publishDate: 2023-10-18
 youtubeId: "8oT1eGCpCNU"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-bonus-6-gholdengo-ex-vs-roaring-moon-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/36f031a46de0fd70.webp)
+![](/images/bonus-6-36f031.webp)
 
 
 

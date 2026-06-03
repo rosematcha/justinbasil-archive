@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 3: Garchomp ex vs. Roaring Moon ex"
 description: "In today's bonus video, post-rotation builds of Garchomp ex and Roaring Moon ex jump into the ring to decide which of them is the superior dragon.   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/b59383d9d01ea81e.webp"
+ogImage: "/images/bonus-3-b59383.webp"
 publishDate: 2024-01-24
 youtubeId: "Xp1AaWZA-yE"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-3-garchomp-ex-vs-roaring-moon-ex"
@@ -27,7 +27,7 @@ In today's bonus video, post-rotation builds of Garchomp ex and Roaring Moon ex 
 
 
 
-![](/images/4bd64e7ae69216df.webp)
+![](/images/bonus-3-4bd64e.webp)
 
 
 

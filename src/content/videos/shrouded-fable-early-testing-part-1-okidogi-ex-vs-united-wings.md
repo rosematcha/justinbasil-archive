@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Part 1: Okidogi ex vs. United Wings"
 description: "Today, my friends and I begin looking ahead to Shrouded Fable. Up first, it's Okidogi ex vs. a Dartrix-enhanced United Wings!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/cc44610549dd5a03.webp"
+ogImage: "/images/part-1-cc4461.webp"
 publishDate: 2024-06-08
 youtubeId: "lEpQamUpdUI"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-part-1-okidogi-ex-vs-united-wings"
@@ -27,7 +27,7 @@ Today, my friends and I begin looking ahead to Shrouded Fable. Up first, it's Ok
 
 
 
-![](/images/315d527835364d4e.webp)
+![](/images/part-1-315d52.webp)
 
 
 

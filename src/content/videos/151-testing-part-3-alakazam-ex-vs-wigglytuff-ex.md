@@ -1,7 +1,7 @@
 ---
 title: "151 Testing, Part 3: Alakazam ex vs. Wigglytuff ex"
 description: "In this video, Alakazam ex goes bench-to-head against Wigglytuff ex! Will Wigglytuff pound Alakazam into the ground, or will Alakazam be bending Wiggytuff instead of spoons?   151 Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes"
-ogImage: "/images/e0e16a96defa4ef6.webp"
+ogImage: "/images/part-3-e0e16a.webp"
 publishDate: 2023-08-26
 youtubeId: "6u-gaXjwQJs"
 sourceUrl: "https://www.justinbasil.com/videos/151-testing-part-3-alakazam-ex-vs-wigglytuff-ex"
@@ -28,7 +28,7 @@ In this video, Alakazam ex goes bench-to-head against Wigglytuff ex! Will Wiggly
 
 
 
-![](/images/18597e0eac0d9719.webp)
+![](/images/part-3-18597e.webp)
 
 
 

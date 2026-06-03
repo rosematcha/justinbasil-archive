@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Magcargo vs. M Rayquaza-EX (First Drafts Series)"
 description: "In today's Eternal Monday, we take the first drafts of two of our decks and pit them against one another. Today, Magcargo gears up to melt down the battlefield as M Rayquaza-EX brings out the Sky Field."
-ogImage: "/images/ea4985a2681a7829.webp"
+ogImage: "/images/first-drafts-17-magcargo-v-m-rayquaza-ex-ea4985.webp"
 publishDate: 2025-03-31
 youtubeId: "420_GVkaPgA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-magcargo-vs-m-rayquaza-ex-first-drafts-series"
@@ -19,7 +19,7 @@ In today's Eternal Monday, we take the first drafts of two of our decks and pit 
 
 
 
-![](/images/61e478a368d6778b.webp)
+![](/images/first-drafts-17-magcargo-v-m-rayquaza-ex.webp)
 
 
 

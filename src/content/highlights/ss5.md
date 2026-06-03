@@ -1,13 +1,13 @@
 ---
 title: "Highlights from Battle Styles"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss5"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![battlestyles.png](/images/f814a03ef51e33ea.webp)
+![battlestyles.png](/images/battlestyles.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -54,27 +54,27 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![146tex-5.png](/images/b3b606fecc534973.webp)
+![146tex-5.png](/images/146tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![151tex-5.png](/images/5988937e1f1068da.webp)
+![151tex-5.png](/images/151tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![153tex-5.png](/images/eb52df1b307c91d9.webp)
+![153tex-5.png](/images/153tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![155tex-5.png](/images/3f4929e4e6091c55.webp)
+![155tex-5.png](/images/155tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![168tex-5.png](/images/7c83730cea71bb56.webp)
+![168tex-5.png](/images/168tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![170tex-6.png](/images/72c0ad8172ab003a.webp)
+![170tex-6.png](/images/170tex-6.webp)
 
 </div></div><div class="jb-code-container">
     <div id="fullartsupporters">
@@ -85,27 +85,27 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![158tex-5.png](/images/5f338979b3a42217.webp)
+![158tex-5.png](/images/158tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![159tex-5.png](/images/0fe2005b7a3b16e9.webp)
+![159tex-5.png](/images/159tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![160tex-6.png](/images/3a75763812ab075d.webp)
+![160tex-6.png](/images/160tex-6.webp)
 
 </div><div class="jb-col-2">
 
-![161tex-5.png](/images/909ecdaf4395782a.webp)
+![161tex-5.png](/images/161tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![162tex-5.png](/images/dbe38206033dec5a.webp)
+![162tex-5.png](/images/162tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![163tex-5.png](/images/cd92ba10ffcc5ec8.webp)
+![163tex-5.png](/images/163tex-5.webp)
 
 </div></div><div class="jb-code-container">
     <div id="fullartpkmn">
@@ -116,51 +116,51 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![142tex-6.png](/images/462c0cc5db1a2440.webp)
+![142tex-6.png](/images/142tex-6.webp)
 
 </div><div class="jb-col-2">
 
-![143tex-5.png](/images/4f78b0576186c4de.webp)
+![143tex-5.png](/images/143tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![144tex-5.png](/images/4cd691fc06315a54.webp)
+![144tex-5.png](/images/144tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![145tex-5.png](/images/747bfdaafca60a49.webp)
+![145tex-5.png](/images/145tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![147tex-5.png](/images/b6a3d82d50bd254c.webp)
+![147tex-5.png](/images/147tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![148tex-5.png](/images/1bea842885bceca4.webp)
+![148tex-5.png](/images/148tex-5.webp)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![149tex-5.png](/images/b9b6ce571bada553.webp)
+![149tex-5.png](/images/149tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![150tex-5.png](/images/223bb6503392bf88.webp)
+![150tex-5.png](/images/150tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![152tex-5.png](/images/6b5b3fff2806a6d0.webp)
+![152tex-5.png](/images/152tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![154tex-5.png](/images/9956b9a2485d4434.webp)
+![154tex-5.png](/images/154tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![156tex-5.png](/images/550d4faeb7fe8855.webp)
+![156tex-5.png](/images/156tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![157tex-5.png](/images/6e293f0a75deaf8f.webp)
+![157tex-5.png](/images/157tex-5.webp)
 
 </div></div><div class="jb-code-container">
     <div id="srpkmn">
@@ -171,11 +171,11 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![178tex-5.png](/images/b3c89cbd6c36c6bd.webp)
+![178tex-5.png](/images/178tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![179tex-5.png](/images/57b7b4e6e1537620.webp)
+![179tex-5.png](/images/179tex-5.webp)
 
 </div><div class="jb-col-8"></div></div><div class="jb-code-container">
     <div id="rrpkmn">
@@ -186,27 +186,27 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![164tex-5.png](/images/2b4277792a8da1c3.webp)
+![164tex-5.png](/images/164tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![165tex-5.png](/images/ffe1bf931c762f13.webp)
+![165tex-5.png](/images/165tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![166tex-5.png](/images/c54463b8fd874598.webp)
+![166tex-5.png](/images/166tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![167tex-5.png](/images/42e3b5d63e451a94.webp)
+![167tex-5.png](/images/167tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![169tex-5.png](/images/ba3520ad4863cfdf.webp)
+![169tex-5.png](/images/169tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![171tex-5.png](/images/0b8e8cb09893eb4f.webp)
+![171tex-5.png](/images/171tex-5.webp)
 
 </div></div><div class="jb-code-container">
     <div id="rrsupporters">
@@ -217,27 +217,27 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![172tex-5.png](/images/7423f88e05e9d94f.webp)
+![172tex-5.png](/images/172tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![173tex-5.png](/images/eece4c6aa738a15c.webp)
+![173tex-5.png](/images/173tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![174tex-5.png](/images/cb08bde9ae9208e7.webp)
+![174tex-5.png](/images/174tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![175tex-5.png](/images/e003bb20f235fbd8.webp)
+![175tex-5.png](/images/175tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![176tex-5.png](/images/00bb1ccd1565d0c6.webp)
+![176tex-5.png](/images/176tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![177tex-5.png](/images/7ba0e4150765e73c.webp)
+![177tex-5.png](/images/177tex-5.webp)
 
 </div></div><div class="jb-code-container">
     <div id="srtrainers">
@@ -248,19 +248,19 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![180tex-6.png](/images/99346dc563bf1c7c.webp)
+![180tex-6.png](/images/180tex-6.webp)
 
 </div><div class="jb-col-2">
 
-![181tex-5.png](/images/3c0214edf0ee11f3.webp)
+![181tex-5.png](/images/181tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![182tex-5.png](/images/8fef66dba770d6b3.webp)
+![182tex-5.png](/images/182tex-5.webp)
 
 </div><div class="jb-col-2">
 
-![183tex-5.png](/images/3a4d7dc832203553.webp)
+![183tex-5.png](/images/183tex-5.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -275,7 +275,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![006tex-5.png](/images/70329479c48256e0.webp)
+![006tex-5.png](/images/006tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -285,7 +285,7 @@ Kricketune V’s *Exciting Stage* ability is a near perfect echo of a similar ab
 
 </div><div class="jb-col-2">
 
-![008tex-5.png](/images/9cde4a6e9c7c3494.webp)
+![008tex-5.png](/images/008tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -295,7 +295,7 @@ Cherrim’s *Spring Bloom* ability is reminiscent of previous <em>Rain Dance-</e
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![037tex-5.png](/images/815d765eae48f3d1.webp)
+![037tex-5.png](/images/037tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -305,7 +305,7 @@ Octillery’s *Rapid Strike Search* is a supremely powerful consistency booster 
 
 </div><div class="jb-col-2">
 
-![062tex-5.png](/images/5700aaa19bb50088.webp)
+![062tex-5.png](/images/062tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -315,7 +315,7 @@ Although not a utility Pokémon in the most traditional of senses, Mimikyu V’s
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![096tex-6.png](/images/be1af4bd780d059a.webp)
+![096tex-6.png](/images/096tex-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -325,7 +325,7 @@ Although it is more limited than Octillery’s *Rapid Strike Search* in that Hou
 
 </div><div class="jb-col-2">
 
-![102tex-6.png](/images/936147baf963054b.webp)
+![102tex-6.png](/images/102tex-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -342,7 +342,7 @@ Like Quagsire and Aromatisse did for Water- and Fairy-type Pokémon before it, B
 
 <div class="jb-row"><div class="jb-col-2">
 
-![022tex-5.png](/images/3ea0e28287dfc737.webp)
+![022tex-5.png](/images/022tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -352,7 +352,7 @@ Victini VMAX has the advantage of hitting popular Metal-type Pokémon V and VMAX
 
 </div><div class="jb-col-2">
 
-![051tex-5.png](/images/f9dacbaa2368d36b.webp)
+![051tex-5.png](/images/051tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -362,7 +362,7 @@ Combined with Electrode from Vivid Voltage—and perhaps even Omastar from Team 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![086tex-6.png](/images/a85711621193fd36.webp)
+![086tex-6.png](/images/086tex-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -372,7 +372,7 @@ With the powerful tools at its disposal—namely Houndoom and Single Strike Ener
 
 </div><div class="jb-col-2">
 
-![088tex-6.png](/images/4437e7b74ddc8d90.webp)
+![088tex-6.png](/images/088tex-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -382,7 +382,7 @@ Rapid Strike Urshifu VMAX is one of the most flexible attackers introduced in Ba
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![110tex-5.png](/images/64d6ee443806952c.webp)
+![110tex-5.png](/images/110tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -392,7 +392,7 @@ As the great metal bird in the sky, Corviknight VMAX hits hard all while being a
 
 </div><div class="jb-col-2">
 
-![117tex-5.png](/images/ddb57dfd1ddfc69f.webp)
+![117tex-5.png](/images/117tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -409,7 +409,7 @@ Stoutland V’s strength is in its potential as a tech attacker. When used again
 
 <div class="jb-row"><div class="jb-col-2">
 
-![121tex-5.png](/images/c3d9260e9d4459c4.webp)
+![121tex-5.png](/images/121tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -419,7 +419,7 @@ Bruno is both a shuffle-draw Supporter and a lifeline when one of your Pokémon 
 
 </div><div class="jb-col-2">
 
-![123tex-5.png](/images/ea3e39cc45241b38.webp)
+![123tex-5.png](/images/123tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -431,7 +431,7 @@ Cheryl’s effect isn’t limited to Pokémon VMAX, but they are the ones who wi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![128tex-5.png](/images/a01624b14857398c.webp)
+![128tex-5.png](/images/128tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -441,7 +441,7 @@ Korrina’s Focus is a effectively a reprint of Bianca from Legendary Treasures,
 
 </div><div class="jb-col-2">
 
-![130tex-5.png](/images/2ec7cee7e4a29dfa.webp)
+![130tex-5.png](/images/130tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -451,7 +451,7 @@ Is something preventing your Pokémon VMAX from taking a crucial knockout? Worry
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![132tex-5.png](/images/60747f01824c18fc.webp)
+![132tex-5.png](/images/132tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -461,7 +461,7 @@ Cheating in evolution Pokémon, including Pokémon VMAX and Stage 1 or 2 Pokémo
 
 </div><div class="jb-col-2">
 
-![134tex-5.png](/images/1e51238e4a426375.webp)
+![134tex-5.png](/images/134tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -478,7 +478,7 @@ Cheating in evolution Pokémon, including Pokémon VMAX and Stage 1 or 2 Pokémo
 
 <div class="jb-row"><div class="jb-col-2">
 
-![124tex-5.png](/images/8b3b6e8fb379f6b2.webp)
+![124tex-5.png](/images/124tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -488,7 +488,7 @@ Energy Recycler returns to the Standard format, lost to it since its secret rare
 
 </div><div class="jb-col-2">
 
-![125tex-5.png](/images/1f606a2f7bbf2934.webp)
+![125tex-5.png](/images/125tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -498,7 +498,7 @@ Escape Rope is an old friend returning to the Standard format that left when its
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![126tex-5.png](/images/c00d5fadf48aff55.webp)
+![126tex-5.png](/images/126tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -508,7 +508,7 @@ Although Exp. Share was seeing very little play when its previous print in Sun &
 
 </div><div class="jb-col-2">
 
-![127tex-5.png](/images/9859623bf73092c7.webp)
+![127tex-5.png](/images/127tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -518,7 +518,7 @@ Fan of Waves is, in practice, a less destructive version of Enhanced Hammer, las
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![129tex-5.png](/images/c8b06feb9e21aeac.webp)
+![129tex-5.png](/images/129tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -528,7 +528,7 @@ Level Ball is a big consistency booster for decks that run high counts of low HP
 
 </div><div class="jb-col-2">
 
-![133tex-5.png](/images/8a966f0d758f598b.webp)
+![133tex-5.png](/images/133tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -538,7 +538,7 @@ For *Single Strike* archetypes that can really take a pounding, like Single Stri
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![136tex-5.png](/images/8b507d45f8dffbf4.webp)
+![136tex-5.png](/images/136tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -548,7 +548,7 @@ As a tool-disruptor, Tool Jammer may find its niche in shutting off the effects 
 
 </div><div class="jb-col-2">
 
-![139tex-5.png](/images/934136e5ea8ae249.webp)
+![139tex-5.png](/images/139tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -565,7 +565,7 @@ Urn of Vitality is what helps *Single Strike* archetypes tick. It ensures that H
 
 <div class="jb-row"><div class="jb-col-2">
 
-![137tex-5.png](/images/d1cd5305c3d6b178.webp)
+![137tex-5.png](/images/137tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -575,7 +575,7 @@ Tower of Darkness is similar to Scorched Earth—a card that would let you draw 
 
 </div><div class="jb-col-2">
 
-![138tex-5.png](/images/6b13959aa7100969.webp)
+![138tex-5.png](/images/138tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -585,7 +585,7 @@ Tower of Waters is similar to Altar of the Moone before it in that it reduces th
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![140tex-5.png](/images/2b32df4dc0ce0416.webp)
+![140tex-5.png](/images/140tex-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -595,7 +595,7 @@ Rapid Strike Energy serves as a pseudo Twin Energy or pseudo Double Rainbow Ener
 
 </div><div class="jb-col-2">
 
-![141tex-6.png](/images/0834ede637b69173.webp)
+![141tex-6.png](/images/141tex-6.webp)
 
 </div><div class="jb-col-4">
 

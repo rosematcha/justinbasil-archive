@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Pack Opening"
 description: "It's time for me to open my box of Stellar Crown.  How will I do?"
-ogImage: "/images/833b6f1552cd953e.webp"
+ogImage: "/images/scr-opening-833b6f.webp"
 publishDate: 2024-09-11
 youtubeId: "WDKSWoFZork"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-pack-opening"
@@ -21,7 +21,7 @@ How will I do?
 
 
 
-![](/images/6a46433ad25956bb.webp)
+![](/images/scr-opening.webp)
 
 
 

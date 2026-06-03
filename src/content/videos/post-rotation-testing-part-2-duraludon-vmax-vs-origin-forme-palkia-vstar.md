@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 3: Duraludon VMAX vs. Origin Forme Palkia VSTAR"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. As we prepare for rotation, we'll first look at existing archetypes that change, however slightly or dramatically, to rebuild themselves without the cards they'll be losing at rotation.    Rotation Survival Guide"
-ogImage: "/images/61dfdeaf75cff214.webp"
+ogImage: "/images/testing-part-3-duraludon-vs-palkia-61dfde.webp"
 publishDate: 2023-01-21
 youtubeId: "6ttG13UsoF0"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-part-2-duraludon-vmax-vs-origin-forme-palkia-vstar"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/1c04ea706ec688e7.webp)
+![](/images/testing-part-3-duraludon-vs-palkia.webp)
 
 
 

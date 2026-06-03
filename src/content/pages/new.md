@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Releases"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new"
 showHeading: false
 ---
@@ -61,7 +61,7 @@ showHeading: false
 </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/686ef9f1f07ac40b.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-black-bolt-and-scarlet-violet-whi.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Black Bolt &amp; White Flare</h1>
@@ -79,7 +79,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/e795a2f742d840ce.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-mega-evolution-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Mega Evolution</h1>
@@ -96,7 +96,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/daea8240275070c5.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/sv-unknown-bg.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Unaffiliated Cards</h1>
@@ -115,7 +115,7 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/1cddcc6917c8fe1b.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-destined-rivals-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Destined Rivals</h1>
@@ -133,7 +133,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/0293e4a4729b3918.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Journey Together</h1>
@@ -151,7 +151,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/62b83b51183ecc8f.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pps6.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prize Pack</h1>
@@ -166,7 +166,7 @@ showHeading: false
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/43bafe2646ea28aa.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-prismatic-evolutions-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prismatic Evolutions</h1>
@@ -184,7 +184,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/36284b3570417977.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-surging-sparks-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Surging Sparks</h1>
@@ -202,7 +202,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/01d8e4e6ca913276.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-stellar-crown-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Stellar Crown</h1>
@@ -220,7 +220,7 @@ showHeading: false
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/0af5d4a346eb9f25.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pps5.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prize Pack</h1>
@@ -235,7 +235,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/d62f79d634ea506d.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-shrouded-fable-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Shrouded Fable</h1>
@@ -253,7 +253,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/d3ee81b261623886.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/twilightmasquerade.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Twilight Masquerade</h1>
@@ -271,7 +271,7 @@ showHeading: false
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/c5c2c2f1e4337a90.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Temporal Forces</h1>
@@ -289,7 +289,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/06eaf1fad6c59628.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/prize-pack-series-4.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prize Pack</h1>
@@ -304,7 +304,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/3641718514db8f2b.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-paldean-fates-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Paldean Fates</h1>
@@ -322,7 +322,7 @@ showHeading: false
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/dbf88939215a7309.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Paradox Rift</h1>
@@ -340,7 +340,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/b0b787766c8e60b4.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-trading-card-game-classic-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Pokémon TCG Classic</h1>
@@ -354,7 +354,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/77ad6198b9920672.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-151-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">151</h1>
@@ -373,7 +373,7 @@ showHeading: false
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/fb68be8144a88b94.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Obsidian Flames</h1>

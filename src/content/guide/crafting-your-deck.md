@@ -1,6 +1,6 @@
 ---
 title: "Crafting Your Deck"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/crafting-your-deck"
 showHeading: false
 ---
@@ -127,7 +127,7 @@ For our example deck, we’ll build around Charizard TEU 14, pictured below.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Charizard TEU 14](/images/d8a11baf15f150cb.webp)
+![Charizard TEU 14](/images/teu-014-r-en-sm.webp)
 
 *Charizard TEU 14*
 
@@ -143,31 +143,31 @@ Since we now know that we need to include both Charmander and Charmeleon—we’
 
 </div></div><div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-2">
 
-![Charmander TEU 11](/images/8926107f59f11365.webp)
+![Charmander TEU 11](/images/image-asset-892610.webp)
 
 *Charmander TEU 11*
 
 </div><div class="jb-col-2">
 
-![Charmander TEU 12](/images/a001da24d9770414.webp)
+![Charmander TEU 12](/images/image-asset-a001da.webp)
 
 *Charmander TEU 12*
 
 </div><div class="jb-col-2">
 
-![Charmander DET 4](/images/23698ca9910978e1.webp)
+![Charmander DET 4](/images/det-004-r-en-sm.webp)
 
 *Charmander DET 4*
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![Charmander HIF 7](/images/821b82552964c055.webp)
+![Charmander HIF 7](/images/image-asset-821b82.webp)
 
 *Charmander HIF 7*
 
 </div><div class="jb-col-2">
 
-![VIV_023_R_EN_SM.png](/images/22d4266718d58265.webp)
+![VIV_023_R_EN_SM.png](/images/viv-023-r-en-sm.webp)
 
 </div></div></div></div>
 
@@ -184,7 +184,7 @@ We have three reasonably good options here. Charmander TEU 12, Charmander DET 4,
 
 <div class="jb-row"><div class="jb-col-3">
 
-![](/images/a001da24d9770414.webp)
+![](/images/image-asset-a001da.webp)
 
 </div><div class="jb-col-3">
 
@@ -195,7 +195,7 @@ We have three reasonably good options here. Charmander TEU 12, Charmander DET 4,
 
 </div><div class="jb-col-3">
 
-![DET_004_R_EN_SM.png](/images/23698ca9910978e1.webp)
+![DET_004_R_EN_SM.png](/images/det-004-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -205,7 +205,7 @@ We have three reasonably good options here. Charmander TEU 12, Charmander DET 4,
 
 </div></div><div class="jb-row"><div class="jb-col-3"></div><div class="jb-col-3">
 
-![VIV_023_R_EN_SM.png](/images/22d4266718d58265.webp)
+![VIV_023_R_EN_SM.png](/images/viv-023-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -221,7 +221,7 @@ Amongst these three choices, it looks like Charmander VIV 23 is probably our bes
 
 <div class="jb-row"><div class="jb-col-3">
 
-![](/images/1500a6f2f44051f2.webp)
+![](/images/image-asset-1500a6.webp)
 
 </div><div class="jb-col-3">
 
@@ -229,7 +229,7 @@ Amongst these three choices, it looks like Charmander VIV 23 is probably our bes
 
 </div><div class="jb-col-3">
 
-![](/images/326751ccba32c509.webp)
+![](/images/image-asset-326751.webp)
 
 </div><div class="jb-col-3">
 
@@ -307,7 +307,7 @@ As our deck focuses around a Stage 2 Pokémon, it can often take a couple of tur
 
 <div class="jb-row"><div class="jb-col-3">
 
-![UNB_025_R_EN_SM.png](/images/dd6a4fb7e274d157.webp)
+![UNB_025_R_EN_SM.png](/images/unb-025-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -319,7 +319,7 @@ To help ensure that we’re able to start with Volcanion to take advantage of it
 
 </div><div class="jb-col-3">
 
-![UNM_025_R_EN_SM.png](/images/27d2e36c6c2fa4d1.webp)
+![UNM_025_R_EN_SM.png](/images/unm-025-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -329,7 +329,7 @@ Heatran-GX’s biggest disadvantages are that it is a multi-prize Pokémon and o
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![SSH_025_R_EN_SM.png](/images/288e39d66a387986.webp)
+![SSH_025_R_EN_SM.png](/images/ssh-025-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -339,7 +339,7 @@ Like Heatran-GX, Victini V is also a multi-prize Pokémon in a deck built around
 
 </div><div class="jb-col-3">
 
-![](/images/c0a1740360bcac11.webp)
+![](/images/image-asset-c0a174.webp)
 
 </div><div class="jb-col-3">
 
@@ -422,7 +422,7 @@ Now, returning to the deck we’re building around Charizard, it’s time for us
 
 <div class="jb-row"><div class="jb-col-3">
 
-![UNB_189_R_EN_SM.png](/images/7a783e25a571c7cf.webp)
+![UNB_189_R_EN_SM.png](/images/unb-189-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -435,7 +435,7 @@ We’ll include 4 copies of Welder.
 
 </div><div class="jb-col-3">
 
-![](/images/e64fc28d9a559820.webp)
+![](/images/image-asset-e64fc2.webp)
 
 </div><div class="jb-col-3">
 
@@ -445,7 +445,7 @@ Erika’s Hospitality is worth keeping in mind as we test our deck. Should we fi
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![SSH_169_R_EN_SM.png](/images/99d04cfc9daa4785.webp)
+![SSH_169_R_EN_SM.png](/images/ssh-169-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -457,7 +457,7 @@ For now, we’ll add four copies of Marnie.
 
 </div><div class="jb-col-3">
 
-![SSH_178_R_EN_SM.png](/images/b17207c50d32c5eb.webp)
+![SSH_178_R_EN_SM.png](/images/ssh-178-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -471,7 +471,7 @@ Next, let’s look at a few Pokémon that may be able to help us draw additional
 
 <div class="jb-row"><div class="jb-col-3">
 
-![](/images/8fc6c12e68a7feb5.webp)
+![](/images/image-asset-8fc6c1.webp)
 
 </div><div class="jb-col-3">
 
@@ -483,7 +483,7 @@ Pidgeotto is truly a strong contender for inclusion in our deck. For now, howeve
 
 </div><div class="jb-col-3">
 
-![](/images/4fc72c87f3d46ce9.webp)
+![](/images/image-asset-4fc72c.webp)
 
 </div><div class="jb-col-3">
 
@@ -495,7 +495,7 @@ For now, we’ll pass on including it.
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/edbcff4299527cf9.webp)
+![](/images/image-asset-edbcff.webp)
 
 </div><div class="jb-col-3">
 
@@ -505,7 +505,7 @@ Decks that run Dedenne-GX tend to run 1 or 2 copies, but some decks will run up 
 
 </div><div class="jb-col-3">
 
-![](/images/ef90e46e12a229fd.webp)
+![](/images/image-asset-ef90e4.webp)
 
 </div><div class="jb-col-3">
 
@@ -515,7 +515,7 @@ Like both Salazzle and Pidgeotto, Cinccino is certainly a card to keep in mind d
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![SSH_148_R_EN_SM.png](/images/1ae579318a7b715a.webp)
+![SSH_148_R_EN_SM.png](/images/ssh-148-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -525,7 +525,7 @@ We’ll include one copy of Oranguru in our deck list.
 
 </div><div class="jb-col-3">
 
-![DAA_104_R_EN_SM.png](/images/99e9cbf8a1807da4.webp)
+![DAA_104_R_EN_SM.png](/images/daa-104-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -607,7 +607,7 @@ The single most important Item card in nearly every deck is Quick Ball, but ther
 
 <div class="jb-row"><div class="jb-col-3">
 
-![](/images/3dba807f54a18f82.webp)
+![](/images/image-asset-3dba80.webp)
 
 </div><div class="jb-col-3">
 
@@ -617,7 +617,7 @@ As merely relying on draw to help us find our Basic Pokémon is not a good idea,
 
 </div><div class="jb-col-3">
 
-![TEU_152_R_EN_SM.png](/images/85b329ad08d58595.webp)
+![TEU_152_R_EN_SM.png](/images/teu-152-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -627,7 +627,7 @@ Right now, the number of Pokémon in our deck looks pretty favorable for Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/f1c7df417b4025b5.webp)
+![](/images/ssh-164-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -637,7 +637,7 @@ As it’s critical to be able to find our Charmander, Charizard, and Volcanion a
 
 </div><div class="jb-col-3">
 
-![SSH_163_R_EN_SM.png](/images/73f1473947dbf909.webp)
+![SSH_163_R_EN_SM.png](/images/ssh-163-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -723,7 +723,7 @@ Our deck, like all decks, needs cards that will allow us to gust up our opponent
 
 <div class="jb-row"><div class="jb-col-3">
 
-![RCL_154_R_EN_SM.png](/images/36a8151bc9586d3c.webp)
+![RCL_154_R_EN_SM.png](/images/rcl-154-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -735,7 +735,7 @@ We’ll include two copies of Boss’s Orders.
 
 </div><div class="jb-col-3">
 
-![](/images/c74574dfb53706c2.webp)
+![](/images/image-asset-c74574.webp)
 
 </div><div class="jb-col-3">
 
@@ -745,7 +745,7 @@ For now, we’ll pass on Ninetales but keep it in mind for future testing.
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/2cc09f9f15f7a02f.webp)
+![](/images/image-asset-2cc09f.webp)
 
 </div><div class="jb-col-3">
 
@@ -757,7 +757,7 @@ For now, we’ll pass on Great Catcher, but it may be worth trying out a single 
 
 </div><div class="jb-col-3">
 
-![](/images/5f84f99d451474a0.webp)
+![](/images/image-asset-5f84f9.webp)
 
 </div><div class="jb-col-3">
 
@@ -846,7 +846,7 @@ For our energy count, we’ll stick with the average count—11—and add 11 Fir
 
 <div class="jb-row"><div class="jb-col-3">
 
-![UNB_189_R_EN_SM.png](/images/68b17f570de2acc1.webp)
+![UNB_189_R_EN_SM.png](/images/unb-189-r-en-sm-68b17f.webp)
 
 </div><div class="jb-col-3">
 
@@ -858,7 +858,7 @@ We’ve already included 4 copies of Welder.
 
 </div><div class="jb-col-3">
 
-![](/images/a54899fd7c15677b.webp)
+![](/images/image-asset-a54899.webp)
 
 </div><div class="jb-col-3">
 
@@ -868,7 +868,7 @@ We’ll include two copies of Giant Hearth.
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/86a4ef72ef63c4f3.webp)
+![](/images/image-asset-86a4ef.webp)
 
 </div><div class="jb-col-3">
 
@@ -880,7 +880,7 @@ We’ll pass on including Energy Spinner.
 
 </div><div class="jb-col-3">
 
-![RCL_107_R_EN_SM.png](/images/5f97227b630848a8.webp)
+![RCL_107_R_EN_SM.png](/images/rcl-107-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -968,7 +968,7 @@ Now, let’s add the 11 Fire energy and the two copies of Giant Hearth to our de
 </div></a>
 </div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/bf2a17d53bac227a.webp)
+![](/images/image-asset-bf2a17.webp)
 
 </div><div class="jb-col-3">
 
@@ -980,7 +980,7 @@ With this in mind, we’ll pass on including Jirachi in our deck for now. Howeve
 
 </div><div class="jb-col-3">
 
-![](/images/4e232a5b26519d72.webp)
+![](/images/image-asset-4e232a.webp)
 
 </div><div class="jb-col-3">
 
@@ -990,7 +990,7 @@ We’ll keep Bill’s Analysis in the back of our minds during testing, but refr
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/21fe5915737dd88f.webp)
+![](/images/image-asset-21fe59.webp)
 
 </div><div class="jb-col-3">
 
@@ -1000,7 +1000,7 @@ For now, we’ll pass on including Pokégear 3.0, but it’s a card we should tr
 
 </div><div class="jb-col-3">
 
-![](/images/108f6ffd814aa263.webp)
+![](/images/image-asset-108f6f.webp)
 
 </div><div class="jb-col-3">
 
@@ -1089,7 +1089,7 @@ When one of our Pokémon is knocked out, it’s important to have a pivot option
 
 <div class="jb-row"><div class="jb-col-3">
 
-![](/images/d779dd33e785302a.webp)
+![](/images/image-asset-d779dd.webp)
 
 </div><div class="jb-col-3">
 
@@ -1101,7 +1101,7 @@ Switch is a common card in many decks and will make it easier for us to use Volc
 
 </div><div class="jb-col-3">
 
-![](/images/0c645383240a6c52.webp)
+![](/images/image-asset-0c6453.webp)
 
 </div><div class="jb-col-3">
 
@@ -1111,7 +1111,7 @@ We’ll include two copies of Air Balloon
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/1253356d4b4c1f2c.webp)
+![](/images/image-asset-125335.webp)
 
 </div><div class="jb-col-3">
 
@@ -1121,7 +1121,7 @@ We may revisit the idea of including Scoop Up Net in our deck as the card works 
 
 </div><div class="jb-col-3">
 
-![159tex-2.png](/images/38861e1481225037.webp)
+![159tex-2.png](/images/159tex-2.webp)
 
 </div><div class="jb-col-3">
 
@@ -1212,7 +1212,7 @@ When a deck only contains 60 cards, it’s likely that you’ll need to take adv
 
 <div class="jb-row"><div class="jb-col-3">
 
-![](/images/1d4b31e91b64c246.webp)
+![](/images/image-asset-1d4b31.webp)
 
 </div><div class="jb-col-3">
 
@@ -1222,7 +1222,7 @@ As Continous Blaze Ball discards all of the energy attached to Charizard, it’s
 
 </div><div class="jb-col-3">
 
-![](/images/1e56de22e6408e96.webp)
+![](/images/image-asset-1e56de.webp)
 
 </div><div class="jb-col-3">
 
@@ -1232,7 +1232,7 @@ If deck space becomes especially tight, a Brock’s Grit may be a consideration.
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![CEC_204_R_EN_SM.png](/images/25e9a93d1c6a0bb7.webp)
+![CEC_204_R_EN_SM.png](/images/cec-204-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1242,7 +1242,7 @@ It’s definitely worth keeping Rosa in mind as we begin testing our deck, but f
 
 </div><div class="jb-col-3">
 
-![SSH_171_R_EN_SM.png](/images/2be2825857cf81a4.webp)
+![SSH_171_R_EN_SM.png](/images/ssh-171-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1252,7 +1252,7 @@ For now, we’ll include 2 copies of Ordinary Rod, but as we test our deck, we m
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![SSH_172_R_EN_SM.png](/images/3e71d328a308f992.webp)
+![SSH_172_R_EN_SM.png](/images/ssh-172-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1262,7 +1262,7 @@ Most decks don’t require the use of Pal Pad, so for now, we’ll keep it in mi
 
 </div><div class="jb-col-3">
 
-![](/images/469447e018caf9ac.webp)
+![](/images/image-asset-469447.webp)
 
 </div><div class="jb-col-3">
 
@@ -1357,7 +1357,7 @@ Although our deck doesn’t have a focus on disrupting our opponent’s strategy
 
 <div class="jb-row"><div class="jb-col-3">
 
-![UNM_206_R_EN_SM.png](/images/94a32f82840ffcd5.webp)
+![UNM_206_R_EN_SM.png](/images/unm-206-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1369,7 +1369,7 @@ We’ll keep Reset Stamp in mind as we begin testing our deck.
 
 </div><div class="jb-col-3">
 
-![SSH_169_R_EN_SM.png](/images/99d04cfc9daa4785.webp)
+![SSH_169_R_EN_SM.png](/images/ssh-169-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1407,7 +1407,7 @@ As we haven’t made any changes to our deck list after reviewing our Disruption
 </div></a>
 </div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/e16ee5a5afff95ec.webp)
+![](/images/image-asset-e16ee5.webp)
 
 </div><div class="jb-col-3">
 
@@ -1419,7 +1419,7 @@ We won’t be adding Giant Bomb to our deck list, but we’ll keep it in mind du
 
 </div><div class="jb-col-3">
 
-![SSH_117_R_EN_SM.png](/images/babfb26ec9427fec.webp)
+![SSH_117_R_EN_SM.png](/images/ssh-117-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1431,7 +1431,7 @@ We’ll pass on including Galarian Zigzagoon for now, but will keep it in mind d
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-![SSH_185_R_EN_SM.png](/images/2064e65abb0f65bd.webp)
+![SSH_185_R_EN_SM.png](/images/ssh-185-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 
@@ -1441,7 +1441,7 @@ We’ll pass on including Vitality Band.
 
 </div><div class="jb-col-3">
 
-![RCL_155_R_EN_SM.png](/images/d2a9be45d93f6d73.webp)
+![RCL_155_R_EN_SM.png](/images/rcl-155-r-en-sm.webp)
 
 </div><div class="jb-col-3">
 

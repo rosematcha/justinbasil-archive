@@ -1,6 +1,6 @@
 ---
 title: "Fusion Strike (FST, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/ss8"
 showHeading: false
 ---
@@ -50,7 +50,7 @@ With the arrival of Fusion Strike this November, we’ll have a handful of new d
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. AKIRA EGAWA](/images/bb5e0d69d4ab1e12.webp)
+![Illus. AKIRA EGAWA](/images/chandelure-vmax.webp)
 
 *Illus. AKIRA EGAWA*
 
@@ -92,7 +92,7 @@ Bench and power up Victini V and Chandelure V, choosing which to focus on buildi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Uta](/images/1c4dfc5fecb836a5.webp)
+![Illus. Uta](/images/starmie-1c4dfc.webp)
 
 *Illus. Uta*
 
@@ -130,7 +130,7 @@ Bench Snom and Staryu and evolve Snom into Frosmoth and Staryu into Starmie as s
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. MUGENUP](/images/61a32165b9187321.webp)
+![Illus. MUGENUP](/images/crabominable-v.webp)
 
 *Illus. MUGENUP*
 
@@ -173,7 +173,7 @@ Using the deck’s various search cards including Quick Ball and Capture Energy,
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/62b06113e991d4c3.webp)
+![Illus. 5ban Graphics](/images/inteleon-v-fst.webp)
 
 *Illus. 5ban Graphics*
 
@@ -224,7 +224,7 @@ Bench and evolve Inteleon V into Inteleon VMAX, and bench Sobble to prepare it t
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/25ab3d0b120e56ec.webp)
+![Illus. PLANETA Tsuji](/images/boltund-vmax.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -275,7 +275,7 @@ Bench and evolve Mareep into Flaaffy and use Boltund V’s Electrify attack and 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/63eb65e9c2d41ca2.webp)
+![Illus. 5ban Graphics](/images/mew-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -324,7 +324,7 @@ Bench Mew V and Genesect V, filling your bench with Genesect V and a spare Mew V
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kouki Saitou](/images/abc76aa7eb6b4aff.webp)
+![Illus. Kouki Saitou](/images/deoxys.webp)
 
 *Illus. Kouki Saitou*
 
@@ -365,7 +365,7 @@ Bench Houndour and evolve it to Houndoom as quickly as possible. Prepare Deoxys 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryota Fuse](/images/f6474f34224e4387.webp)
+![Illus. Ryota Fuse](/images/steelix.webp)
 
 *Illus. Ryota Fuse*
 
@@ -405,7 +405,7 @@ Play down Onix, Cherubi, and Minccino, evolving them to Steelix, Cherrim, and Ci
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/56389db8d42462fc.webp)
+![Illus. 5ban Graphics](/images/gengar-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -452,7 +452,7 @@ Bench Houndour and evolve it to Houndoom as quickly as possible. Play down Umbre
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Teeziro](/images/37f7ba0d9876070b.webp)
+![Illus. Teeziro](/images/morpeko.webp)
 
 *Illus. Teeziro*
 
@@ -494,7 +494,7 @@ Bench Houndour and evolve it to Houndoom as quickly as possible. Play down Morpe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Mizue](/images/a70af428dce038f2.webp)
+![Illus. Mizue](/images/blissey.webp)
 
 *Illus. Mizue*
 
@@ -534,7 +534,7 @@ Fill your bench with a Chansey and various Let’s All Rollout Pokémon. Evolve 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/44ae0c4b4bb7a28f.webp)
+![Illus. PLANETA Mochizuki](/images/greedent.webp)
 
 *Illus. PLANETA Mochizuki*
 

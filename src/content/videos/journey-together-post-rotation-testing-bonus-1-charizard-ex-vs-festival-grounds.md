@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 1: Charizard ex vs. Festival Grounds"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/0e4fca66f1828b21.webp"
+ogImage: "/images/bonus-1-0e4fca.webp"
 publishDate: 2025-01-29
 youtubeId: "BbJtTdo-axM"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-1-charizard-ex-vs-festival-grounds"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/e4d9b59efef0c0aa.webp)
+![](/images/bonus-1.webp)
 
 
 

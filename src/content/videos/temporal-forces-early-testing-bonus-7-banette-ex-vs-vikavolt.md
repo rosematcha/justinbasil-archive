@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 7: Banette ex vs. Vikavolt"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.   Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/930018fd866b465b.webp"
+ogImage: "/images/bonus-7-930018.webp"
 publishDate: 2024-02-21
 youtubeId: "1nINe_HUceI"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-7-banette-ex-vs-vikavolt"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/a0716cf6a466a696.webp)
+![](/images/bonus-7-a0716c.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with the Eternal Format"
 description: "Want to learn more about the Eternal format? Visit  justinbasil.com/eternal"
-ogImage: "/images/567f751f8092c653.webp"
+ogImage: "/images/getting-started-in-eternal-567f75.webp"
 publishDate: 2024-03-18
 youtubeId: "xhOtFl3Q7Hs"
 sourceUrl: "https://www.justinbasil.com/videos/getting-started-with-the-eternal-format"
@@ -19,7 +19,7 @@ Want to learn more about the Eternal format? Visit [justinbasil.com/eternal](/et
 
 
 
-![](/images/2097ab0bf7e0abb1.webp)
+![](/images/getting-started-in-eternal.webp)
 
 
 

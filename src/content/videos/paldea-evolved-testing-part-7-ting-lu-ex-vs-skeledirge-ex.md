@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 7: Ting-Lu ex vs. Skeledirge ex"
 description: "Paldea Evolved testing continues! Up next, Ting-Lu ex gets ANGRY, bringing out the RUIN against Skeledirge ex, which looks ready to give up the ghost!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highl"
-ogImage: "/images/5fe8af7a1cfd3d61.webp"
+ogImage: "/images/part-7-5fe8af.webp"
 publishDate: 2023-05-26
 youtubeId: "UpHP8PdoJ3k"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-part-7-ting-lu-ex-vs-skeledirge-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/8e1b5d8dbd717091.webp)
+![](/images/part-7-8e1b5d.webp)
 
 
 

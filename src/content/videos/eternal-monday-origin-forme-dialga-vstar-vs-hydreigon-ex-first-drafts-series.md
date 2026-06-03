@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Origin Forme Dialga VSTAR vs. Hydreigon ex (First Drafts Series)"
 description: "In today's Eternal Monday, Origin Forme Dialga VSTAR prepares to its canine friends to combat the terror that is Hydreigon ex!"
-ogImage: "/images/ab70dc897a828bba.webp"
+ogImage: "/images/first-drafts-12-of-dialga-vstar-vs-hydreigon-ex-ab70dc.webp"
 publishDate: 2024-11-25
 youtubeId: "YUvOjmxCeiE"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-origin-forme-dialga-vstar-vs-hydreigon-ex-first-drafts-series"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Origin Forme Dialga VSTAR prepares to its canine frie
 
 
 
-![](/images/2be8abb2032a26a4.webp)
+![](/images/first-drafts-12-of-dialga-vstar-vs-hydreigon-ex.webp)
 
 
 

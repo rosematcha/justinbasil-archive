@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #4: Spidops ex vs. Rapid Strike Urshifu VMAX"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, it's time for Spidops ex to take on Rapid Strike Urshifu VMAX!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List"
-ogImage: "/images/e71c330da48b245f.webp"
+ogImage: "/images/bonus-part-4-spidops-ex-vs-rapid-strike-urshifu-vmax-e71c33.webp"
 publishDate: 2023-02-22
 youtubeId: "80anYxjSYcE"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-bonus-4-spidops-ex-vs-rapid-strike-urshifu-vmax"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/1c6ed956006d8851.webp)
+![](/images/bonus-part-4-spidops-ex-vs-rapid-strike-urshifu-vmax.webp)
 
 
 

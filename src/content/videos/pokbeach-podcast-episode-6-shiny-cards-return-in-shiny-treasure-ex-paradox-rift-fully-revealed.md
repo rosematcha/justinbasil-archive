@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 6: Shiny Cards Return in Shiny Treasure ex, Paradox Rift Fully Revealed!"
 description: "This week we discuss the reveal of Shiny Treasure ex, Paradox Rift, a new Pikachu promo, the release of a new Oddish promo, the Pikachu Van Gogh promotion, and more!"
-ogImage: "/images/ec42a1007485a429.webp"
+ogImage: "/images/387463607-654421500009602-8214785830139430870-n-ec42a1.webp"
 publishDate: 2023-10-20
 youtubeId: "fmYd5Qxl_AE"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-6-shiny-cards-return-in-shiny-treasure-ex-paradox-rift-fully-revealed"
@@ -19,7 +19,7 @@ This week we discuss the reveal of Shiny Treasure ex, Paradox Rift, a new Pikach
 
 
 
-![](/images/342bfd4f6d57ec88.webp)
+![](/images/387463607-654421500009602-8214785830139430870-n.webp)
 
 
 

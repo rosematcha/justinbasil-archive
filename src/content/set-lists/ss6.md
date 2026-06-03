@@ -1,13 +1,13 @@
 ---
 title: "Chilling Reign Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss6"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![800px-SWSH6_Logo_EN.png](/images/6bef79f5501329e8.webp)
+![800px-SWSH6_Logo_EN.png](/images/800px-swsh6-logo-en.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -19,7 +19,7 @@ showHeading: false
 
 
 
-![ss6.png](/images/adc51327cff0298b.webp)
+![ss6.png](/images/ss6.webp)
 
 
 

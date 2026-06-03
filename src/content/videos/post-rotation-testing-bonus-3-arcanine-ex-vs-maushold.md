@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #3: Arcanine ex vs. Maushold"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, it's time down to chill with the family in this battle of Maushold vs. Arcanine ex!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage"
-ogImage: "/images/b3d3c17755656a64.webp"
+ogImage: "/images/bonus-part-3-arcanine-ex-vs-maushold-b3d3c1.webp"
 publishDate: 2023-02-15
 youtubeId: "ipfDwc0tbzs"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-bonus-3-arcanine-ex-vs-maushold"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/62b1023ba62cbce4.webp)
+![](/images/bonus-part-3-arcanine-ex-vs-maushold.webp)
 
 
 

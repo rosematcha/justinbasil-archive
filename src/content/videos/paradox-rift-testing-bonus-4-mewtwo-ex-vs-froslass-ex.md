@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 4: Mewtwo ex vs. Froslass ex"
 description: "In this week's bonus video, Mewtwo ex faces off against Froslass ex. Will the result be chilling—or shocking?   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/208b72185796fbb0.webp"
+ogImage: "/images/bonus-4-208b72.webp"
 publishDate: 2023-10-04
 youtubeId: "K1sj1uxz0qw"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-bonus-4-mewtwo-ex-vs-froslass-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Mewtwo ex faces off against Froslass ex. Will the re
 
 
 
-![](/images/0b40ae2d3147c5db.webp)
+![](/images/bonus-4-0b40ae.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Obsidian Flames (OBF, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "tRbF857Ke5A"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv3"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/fb68be8144a88b94.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">New Archetypes from Obsidian Flames</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.
@@ -52,7 +52,7 @@ With the arrival of Obsidian Flames this August, we’ll have a handful of new d
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/22b299b1bd70e090.webp)
+![](/images/toedscruel-ex-22b299.webp)
 
 *Illus. 5ban Graphics*
 
@@ -112,7 +112,7 @@ After evolving Cherubi into Cherrim, pile Grass Energy onto each of your Pokémo
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/be432bd5dbda0275.webp)
+![](/images/palafin-be432b.webp)
 
 *Illus. Souichirou Gunjima*
 
@@ -173,7 +173,7 @@ After evolving Finizen into Palafin via manual evolution or via Finizen OBF 60�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1783e53e132c0652.webp)
+![](/images/tyranitar-ex.webp)
 
 *Illus. 5ban Graphics*
 
@@ -243,7 +243,7 @@ Evolve up Larvitar into Tyranitar ex and use its Mountain Bash and Thunderous Ra
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/ff497586f7dbf97b.webp)
+![](/images/vespiquen-ex-ff4975.webp)
 
 *Illus. 5ban Graphics*
 
@@ -304,7 +304,7 @@ Flood your board with Combee and Cherubi. After evolving Cherubi into Cherrim, p
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3cddba58c4d42dd1.webp)
+![](/images/houndstone-ex-3cddba.webp)
 
 *Illus. 5ban Graphics*
 
@@ -360,7 +360,7 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0d7d660fb8b04bd0.webp)
+![](/images/charizard-ex-obf.webp)
 
 *Illus. 5ban Graphics*
 

@@ -1,6 +1,6 @@
 ---
 title: "Team Battle"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/teambattle"
 showHeading: false
 ---
@@ -45,9 +45,9 @@ Here is an example 10-card Pokémon deck, featuring Bellossom from Ancient Origi
 
 </div><div class="jb-col-2">
 
-![](/images/ad4a659c7da9c41d.webp)
+![](/images/aor-004-r-en-ad4a65.webp)
 
-</div></div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/a9d598d26ce158bc.webp"><img src="/images/a9d598d26ce158bc.webp" alt="AOR_004_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/32fc748ddd0d964f.webp"><img src="/images/32fc748ddd0d964f.webp" alt="SHF_013_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/412614128afd5d00.webp"><img src="/images/412614128afd5d00.webp" alt="SLG_003_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ce0cc44cce5eaaa1.webp"><img src="/images/ce0cc44cce5eaaa1.webp" alt="UNM_009_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/70110ba01f3f45bb.webp"><img src="/images/70110ba01f3f45bb.webp" alt="DET_002_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3920257a0162eb40.webp"><img src="/images/3920257a0162eb40.webp" alt="PLS_061_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7a9974c1ce36a289.webp"><img src="/images/7a9974c1ce36a289.webp" alt="CES_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1632ddd4662012cc.webp"><img src="/images/1632ddd4662012cc.webp" alt="LOT_033_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/24825bae79c8461a.webp"><img src="/images/24825bae79c8461a.webp" alt="ASR_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/400d622d9880dd31.webp"><img src="/images/400d622d9880dd31.webp" alt="CES_003_R_EN.png" loading="lazy"></a></figure></div>
+</div></div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/aor-004-r-en.webp"><img src="/images/aor-004-r-en.webp" alt="AOR_004_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/shf-013-r-en.webp"><img src="/images/shf-013-r-en.webp" alt="SHF_013_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/slg-003-r-en.webp"><img src="/images/slg-003-r-en.webp" alt="SLG_003_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/unm-009-r-en.webp"><img src="/images/unm-009-r-en.webp" alt="UNM_009_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/det-002-r-en.webp"><img src="/images/det-002-r-en.webp" alt="DET_002_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pls-061-r-en.webp"><img src="/images/pls-061-r-en.webp" alt="PLS_061_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ces-010-r-en.webp"><img src="/images/ces-010-r-en.webp" alt="CES_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lot-033-r-en.webp"><img src="/images/lot-033-r-en.webp" alt="LOT_033_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/asr-010-r-en.webp"><img src="/images/asr-010-r-en.webp" alt="ASR_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ces-003-r-en.webp"><img src="/images/ces-003-r-en.webp" alt="CES_003_R_EN.png" loading="lazy"></a></figure></div>
 
 ---
 

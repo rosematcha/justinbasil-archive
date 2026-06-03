@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Flygon LV.X Mill vs. United Wings (First Draft Monday!)"
 description: "In today's Eternal Monday, we take a different approach to Eternal Monday by taking the first drafts of two of our decks and pitting them against one another. Today, newcomer Flygon LV.X from Rising Rivals is set to face off against veteran United Wings!  Learn more about the Eternal format at justi"
-ogImage: "/images/6462b7f54db99806.webp"
+ogImage: "/images/first-drafts-7-flygon-lv-x-mill-vs-united-wings-6462b7.webp"
 publishDate: 2024-09-09
 youtubeId: "IBJ8VX37xXI"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-flygon-lvx-mill-vs-united-wings-first-draft-monday"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/6c0f903c664c582c.webp)
+![](/images/first-drafts-7-flygon-lv-x-mill-vs-united-wings.webp)
 
 
 

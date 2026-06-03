@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 7: Banette ex vs. Arcanine ex"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. We now march onward with new archetypes from Scarlet & Violet--this week, it's Arcanine ex vs. Banette ex!     2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List"
-ogImage: "/images/196760d4ed3371a8.webp"
+ogImage: "/images/testing-part-7-banette-ex-vs-arcanine-ex-196760.webp"
 publishDate: 2023-02-18
 youtubeId: "p0tnltD-c50"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-part-7-banette-ex-vs-arcanine-ex"
@@ -29,7 +29,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/a0b0e9e044551c2f.webp)
+![](/images/testing-part-7-banette-ex-vs-arcanine-ex.webp)
 
 
 

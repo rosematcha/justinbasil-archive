@@ -1,7 +1,7 @@
 ---
 title: "Prismatic Evolutions Early Testing, Bonus 2: Budew vs. Blaziken ex / Pikachu ex"
 description: "In this week's bonus video, Blaziken ex works to bring out the flamethrower against Budew.   Prismatic Evolutions Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/c92dfcaa0c563204.webp"
+ogImage: "/images/bonus-2-c92dfc.webp"
 publishDate: 2024-12-25
 youtubeId: "JRpg9XAmwl4"
 sourceUrl: "https://www.justinbasil.com/videos/prismatic-evolutions-early-testing-bonus-2-budew-vs-blaziken-ex-pikachu-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Blaziken ex works to bring out the flamethrower agai
 
 
 
-![](/images/547df44445fe7f83.webp)
+![](/images/bonus-2-547df4.webp)
 
 
 

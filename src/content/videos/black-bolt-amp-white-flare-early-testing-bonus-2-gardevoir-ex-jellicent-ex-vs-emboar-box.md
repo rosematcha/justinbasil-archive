@@ -1,7 +1,7 @@
 ---
 title: "Black Bolt & White Flare Early Testing, Bonus 2: Gardevoir ex + Jellicent ex vs. Emboar Box"
 description: "In this week's bonus video, Jellicent ex haunts Emboar with a powerful curse!   Black Bolt & White Flare Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/68fcc3e3fd8edfae.webp"
+ogImage: "/images/blk-wht-bonus-2-68fcc3.webp"
 publishDate: 2025-07-12
 youtubeId: "jYItORxUALY"
 sourceUrl: "https://www.justinbasil.com/videos/black-bolt-amp-white-flare-early-testing-bonus-2-gardevoir-ex-jellicent-ex-vs-emboar-box"
@@ -27,7 +27,7 @@ In this week's bonus video, Jellicent ex haunts Emboar with a powerful curse!
 
 
 
-![](/images/ea8ee8ff6bb592c0.webp)
+![](/images/blk-wht-bonus-2.webp)
 
 
 

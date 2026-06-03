@@ -1,14 +1,14 @@
 ---
 title: "Paldea Evolved Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv2"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/60d005ebb5328c31.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
   <div>
-    <img src="/images/7f8eb7c3a9397327.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.

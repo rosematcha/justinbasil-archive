@@ -1,7 +1,7 @@
 ---
 title: "Rotation Survival Guide (2022-2023 Edition) Now Available"
 description: "With the upcoming rotation looming, it’s time to start thinking about which cards survive the upcoming Standard format rotation and which cards will not. This year’s rotation will likely be announced in mid-late April, with rotation itself happening in August or September of this year.  Four of the"
-ogImage: "/images/14f141449b563450.webp"
+ogImage: "/images/crobat-14f141.webp"
 publishDate: 2022-03-14
 sourceUrl: "https://www.justinbasil.com/resources/rotation-survival-guide-2022-2023-edition-now-available"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/7844639d8aa380f8.webp)
+![](/images/crobat.webp)
 
 
 

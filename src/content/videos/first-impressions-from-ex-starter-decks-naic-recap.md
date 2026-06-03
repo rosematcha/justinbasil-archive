@@ -1,7 +1,7 @@
 ---
 title: "First Impressions from ex Starter Decks + NAIC Recap"
 description: "We take a look at new cards from the latest batch of ex Starter Decks from Japan and recap our trip to the North America International Championships in Columbus, Ohio!  Check out these links to learn more!   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set Li"
-ogImage: "/images/39534e4ffff7867f.webp"
+ogImage: "/images/ex-starter-deck-first-impressions-naic-recap-2023-39534e.webp"
 publishDate: 2023-07-05
 youtubeId: "DF76XO9z7v0"
 sourceUrl: "https://www.justinbasil.com/videos/first-impressions-from-ex-starter-decks-naic-recap"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/9a448a92e3d6c804.webp)
+![](/images/ex-starter-deck-first-impressions-naic-recap-2023.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "March 2023 JustInBasil Online League - Eternal Format"
 description: "Join us as we watch the latest Eternal format tournament (Base Set through Crown Zenith)—a sort of \"Unlimited\" format that also tries to be a playable format.   This format is played via Untap.in. Learn more about the Eternal format here:   Alternate Formats — JustInBasil's Pokémon TCG Res"
-ogImage: "/images/e6c1d0a89e6edba9.webp"
+ogImage: "/images/lah-e6c1d0.webp"
 publishDate: 2023-03-03
 youtubeId: "H4MWUaHqxkw"
 sourceUrl: "https://www.justinbasil.com/videos/t2iz40rhxirbykz8vc9rt9omfavwmb"
@@ -23,7 +23,7 @@ This format is played via Untap.in. Learn more about the Eternal format here:
 
 
 
-![](/images/81e87f0c712775bf.webp)
+![](/images/lah.webp)
 
 
 

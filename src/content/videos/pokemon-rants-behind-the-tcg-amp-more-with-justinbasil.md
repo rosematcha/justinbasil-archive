@@ -1,7 +1,7 @@
 ---
 title: "Pokemon Rants - Behind the TCG & More With JustInBasil"
 description: "Going live! Watch and listen as  Pokemon Wonder  and I chat about everything Pokémon TCG on Pokémon Rants."
-ogImage: "/images/93fc363b0ea8d071.webp"
+ogImage: "/images/maxresdefault-93fc36.webp"
 publishDate: 2023-12-14
 youtubeId: "i9aMHJP-pWo"
 sourceUrl: "https://www.justinbasil.com/videos/pokemon-rants-behind-the-tcg-amp-more-with-justinbasil"
@@ -19,7 +19,7 @@ Going live! Watch and listen as [Pokemon Wonder](https://www.youtube.com/@pokemo
 
 
 
-![](/images/4fd8e6068720f090.webp)
+![](/images/maxresdefault.webp)
 
 
 

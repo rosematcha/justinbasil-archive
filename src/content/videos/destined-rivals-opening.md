@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Opening"
 description: "Hang out with me as I learn what I got from a booster box of Destined Rivals!    Destined Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/45496059a5282502.webp"
+ogImage: "/images/dri-box-opening-454960.webp"
 publishDate: 2025-05-21
 youtubeId: "7Lot30HZnL0"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-opening"
@@ -27,7 +27,7 @@ Hang out with me as I learn what I got from a booster box of Destined Rivals!
 
 
 
-![](/images/56b4ff44fd20baf0.webp)
+![](/images/dri-box-opening.webp)
 
 
 

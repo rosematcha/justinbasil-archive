@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Part 1: Alolan Exeggutor ex vs. Ceruledge ex"
 description: "Now that we've seen the full reveal of Paradise Dragona from Japan, it's time to start looking ahead to the new decks releasing coming Surging Sparks!   Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected"
-ogImage: "/images/901a1c0fcbb3dd06.webp"
+ogImage: "/images/part-1-901a1c.webp"
 publishDate: 2024-09-21
 youtubeId: "kjV3TTl2YyU"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-part-1-alolan-exeggutor-ex-vs-ceruledge-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/62d871d571d775ad.webp)
+![](/images/part-1-62d871.webp)
 
 
 

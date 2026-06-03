@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Pikachu V-UNION vs. Ursaluna V Stall"
 description: "In today's Eternal Monday, it's the invasion of Pikachu! Pikachu V-UNION takes on Ursaluna V Stall! Will the march of the Pikachu overwhelm Ursaluna, or will Ursaluna prove too beefy to take down?  Learn more about the Eternal format here:  justinbasil.com/eternal"
-ogImage: "/images/b8e970ce11fc842b.webp"
+ogImage: "/images/pikachu-v-union-vs-ursaluna-v-stall-b8e970.webp"
 publishDate: 2023-11-13
 youtubeId: "NDmMlI29YaE"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-pikachu-v-union-vs-ursaluna-v-stall"
@@ -23,7 +23,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/ddcfd807fbab6268.webp)
+![](/images/pikachu-v-union-vs-ursaluna-v-stall.webp)
 
 
 

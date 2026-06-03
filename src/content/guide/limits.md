@@ -1,6 +1,6 @@
 ---
 title: "Limits - What You Can and Can’t Put into Your Deck"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "2v4g4XXoPe0"
 sourceUrl: "https://www.justinbasil.com/guide/limits"
 showHeading: false
@@ -65,49 +65,49 @@ A deck can include up to fifty-nine of any Basic Energy card (provided the sixti
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/68758eee8b5ebd4b.webp)
+![](/images/5d4821d9-8529-46d8-83b1-1d331ab176ac.webp)
 
 *Grass Energy (G)*
 
 </div><div class="jb-col-2">
 
-![](/images/608915f8fb63b853.webp)
+![](/images/25d19190-122f-4d61-b7b5-1a5ef7175367.webp)
 
 *Fire Energy (R)*
 
 </div><div class="jb-col-2">
 
-![](/images/5755649bac7e0bdb.webp)
+![](/images/c1ff2daf-0ff4-45bb-8511-64eb53335462.webp)
 
 *Water Energy (W)*
 
 </div><div class="jb-col-2">
 
-![](/images/68525b49d65c2ae0.webp)
+![](/images/ce565cfc-f4a9-43eb-a59b-3244c8b741a8.webp)
 
 *Lightning Energy (L)*
 
 </div><div class="jb-col-4"></div></div><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-2">
 
-![](/images/9cd58d6cfe149b5e.webp)
+![](/images/af54c754-0e0d-4a60-a508-628e39c2f80e.webp)
 
 *Psychic Energy (P)*
 
 </div><div class="jb-col-2">
 
-![](/images/fc302d5215614faa.webp)
+![](/images/43ec08b7-e32e-4de8-a0b4-72e539377756.webp)
 
 *Fighting Energy (F)*
 
 </div><div class="jb-col-2">
 
-![](/images/2bb2a4ee2cab336d.webp)
+![](/images/d3434bef-893c-47ee-8ad6-78db0a892670.webp)
 
 *Darkness Energy (D)*
 
 </div><div class="jb-col-2">
 
-![](/images/1bc1f79df7307263.webp)
+![](/images/b3236572-16e2-4e3c-84dc-0126b0b20a3d.webp)
 
 *Metal Energy (M)*
 
@@ -119,7 +119,7 @@ Although Fairy Energy is also a Basic Energy card, Fairy Energy is not legal in 
 
 
 
-![Fairy Energy (Y)](/images/9e582f18bd884ecf.webp)
+![Fairy Energy (Y)](/images/fairy-energyjpg.webp)
 
 *Fairy Energy (Y)*
 
@@ -129,13 +129,13 @@ Although Fairy Energy is also a Basic Energy card, Fairy Energy is not legal in 
 
 Whereas you can have up to 59 copies of any basic Energy in your deck, Radiant Pokémon are a bit more restrictive. Not only can you have just a single copy of your Radiant Pokémon, you can only include one Radiant Pokémon of any kind. This means that if you include Radiant Greninja ASR 46, you can’t also include Radiant Gardevoir LOR 69 in your deck.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/9580fb880b10b218.webp"><img src="/images/9580fb880b10b218.webp" alt="SSP_230_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0f4d9b64c53a2d6d.webp"><img src="/images/0f4d9b64c53a2d6d.webp" alt="181-6.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/81e0b77fc77d565b.webp"><img src="/images/81e0b77fc77d565b.webp" alt="146-7.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fe49cc34bd11b04c.webp"><img src="/images/fe49cc34bd11b04c.webp" alt="127-18.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/60ee0a8d0c1358a3.webp"><img src="/images/60ee0a8d0c1358a3.webp" alt="14-53.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c5057fe10f002822.webp"><img src="/images/c5057fe10f002822.webp" alt="111-29.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f843744c9ba92ef7.webp"><img src="/images/f843744c9ba92ef7.webp" alt="Pokemon_TCG_Pokemon_GO_Radiant_Blastoise_(18).png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/695ca995b9782d32.webp"><img src="/images/695ca995b9782d32.webp" alt="069.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f9ba0fe181fe4ec8.webp"><img src="/images/f9ba0fe181fe4ec8.webp" alt="123.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/50aef35c4b185587.webp"><img src="/images/50aef35c4b185587.webp" alt="124.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3eccc51c67c63476.webp"><img src="/images/3eccc51c67c63476.webp" alt="016.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/85c3e94ec7c6e3d8.webp"><img src="/images/85c3e94ec7c6e3d8.webp" alt="059.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/21af8d4e0278f783.webp"><img src="/images/21af8d4e0278f783.webp" alt="120.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/02114058fc2ffab3.webp"><img src="/images/02114058fc2ffab3.webp" alt="IMG_3661.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/796e07758498857e.webp"><img src="/images/796e07758498857e.webp" alt="IMG_3662.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ff3dd32ba4058f36.webp"><img src="/images/ff3dd32ba4058f36.webp" alt="IMG_3663.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ssp-230-r-en-lg.webp"><img src="/images/ssp-230-r-en-lg.webp" alt="SSP_230_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/181-6-0f4d9b.webp"><img src="/images/181-6-0f4d9b.webp" alt="181-6.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/146-7-81e0b7.webp"><img src="/images/146-7-81e0b7.webp" alt="146-7.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/127-18-fe49cc.webp"><img src="/images/127-18-fe49cc.webp" alt="127-18.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/14-53.webp"><img src="/images/14-53.webp" alt="14-53.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/111-29.webp"><img src="/images/111-29.webp" alt="111-29.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp"><img src="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp" alt="Pokemon_TCG_Pokemon_GO_Radiant_Blastoise_(18).png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/069.webp"><img src="/images/069.webp" alt="069.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/123.webp"><img src="/images/123.webp" alt="123.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/124.webp"><img src="/images/124.webp" alt="124.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/016-3eccc5.webp"><img src="/images/016-3eccc5.webp" alt="016.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/059-85c3e9.webp"><img src="/images/059-85c3e9.webp" alt="059.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/120-21af8d.webp"><img src="/images/120-21af8d.webp" alt="120.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3661.webp"><img src="/images/img-3661.webp" alt="IMG_3661.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3662.webp"><img src="/images/img-3662.webp" alt="IMG_3662.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3663.webp"><img src="/images/img-3663.webp" alt="IMG_3663.png" loading="lazy"></a></figure></div>
 
 ### Third Exception to the Rule of Four - ACE SPECs
 
 Like Radiant Pokémon, ACE SPECs are extremely powerful cards that are limited to just a single copy of any one ACE SPEC in your deck. This means that if you include Prime Catcher, you can’t also include Unfair Stamp in your deck.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/4b14627227a1d218.webp"><img src="/images/4b14627227a1d218.webp" alt="SV05_EN_141-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2d5fc0689a57f9fc.webp"><img src="/images/2d5fc0689a57f9fc.webp" alt="SV05_EN_152-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3880f5dc4816b591.webp"><img src="/images/3880f5dc4816b591.webp" alt="TWM_152_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6ec81a70c1318402.webp"><img src="/images/6ec81a70c1318402.webp" alt="TWM_167_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/52f95610d430fb92.webp"><img src="/images/52f95610d430fb92.webp" alt="SV05_EN_153-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/098667eeadbc9f2c.webp"><img src="/images/098667eeadbc9f2c.webp" alt="SV05_EN_154-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/54b9889e6addf056.webp"><img src="/images/54b9889e6addf056.webp" alt="SV05_EN_162-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/039cef25505b041f.webp"><img src="/images/039cef25505b041f.webp" alt="SV05_EN_157-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cf69836db24e6f25.webp"><img src="/images/cf69836db24e6f25.webp" alt="SV05_EN_158-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bfa7e8cc625831b1.webp"><img src="/images/bfa7e8cc625831b1.webp" alt="TWM_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6e464c02b8ff5f96.webp"><img src="/images/6e464c02b8ff5f96.webp" alt="TWM_163_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3222688e285b382f.webp"><img src="/images/3222688e285b382f.webp" alt="TWM_164_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ff5a45d1a7e0c399.webp"><img src="/images/ff5a45d1a7e0c399.webp" alt="TWM_165_R_EN.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv05-en-141-2x.webp"><img src="/images/sv05-en-141-2x.webp" alt="SV05_EN_141-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-152-2x.webp"><img src="/images/sv05-en-152-2x.webp" alt="SV05_EN_152-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-152-r-en.webp"><img src="/images/twm-152-r-en.webp" alt="TWM_152_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-167-r-en.webp"><img src="/images/twm-167-r-en.webp" alt="TWM_167_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-153-2x.webp"><img src="/images/sv05-en-153-2x.webp" alt="SV05_EN_153-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-154-2x.webp"><img src="/images/sv05-en-154-2x.webp" alt="SV05_EN_154-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-162-2x.webp"><img src="/images/sv05-en-162-2x.webp" alt="SV05_EN_162-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-157-2x.webp"><img src="/images/sv05-en-157-2x.webp" alt="SV05_EN_157-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-158-2x.webp"><img src="/images/sv05-en-158-2x.webp" alt="SV05_EN_158-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-162-r-en-bfa7e8.webp"><img src="/images/twm-162-r-en-bfa7e8.webp" alt="TWM_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-163-r-en.webp"><img src="/images/twm-163-r-en.webp" alt="TWM_163_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-164-r-en.webp"><img src="/images/twm-164-r-en.webp" alt="TWM_164_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-165-r-en.webp"><img src="/images/twm-165-r-en.webp" alt="TWM_165_R_EN.png" loading="lazy"></a></figure></div>
 
 ## What’s Not Allowed
 
@@ -173,7 +173,7 @@ Other cards that specifically mention that they are not tournament legal on the 
 
 </div><div class="jb-col-2">
 
-![World Championship.png](/images/6870e13ff4de9349.webp)
+![World Championship.png](/images/world-championship.webp)
 
 </div></div><div class="jb-code-container">
     <div id="language">
@@ -251,22 +251,22 @@ Every card that is used in your deck must be legal in the format you’re buildi
 <div class="jb-code-container">
 <div class="mobile-collapse">
   <ol>
-  <dd><img src="/images/bd09d724c0a1e067.webp" width="30" height="30" loading="lazy"> Brilliant Stars</dd>
-  <dd><img src="/images/74bfef05616bbff5.webp" width="30" height="30" loading="lazy"> Astral Radiance</dd>
-  <dd><img src="/images/1b456501241adca5.webp" width="30" height="30" loading="lazy"> Pokémon GO</dd>
-  <dd><img src="/images/bbf69a033c347436.webp" width="30" height="30" loading="lazy"> Lost Origin</dd>
-  <dd><img src="/images/3f7a61618a7077e0.webp" width="30" height="30" loading="lazy"> Silver Tempest</dd>
-  <dd><img src="/images/f781819abc99e27d.webp" width="30" height="30" loading="lazy"> Crown Zenith</dd>
-  <dd><img src="/images/baf90be99ef64afa.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
-  <dd><img src="/images/4b659a46d552e840.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
-  <dd><img src="/images/6b44f384d6f5b707.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
-  <dd><img src="/images/db79bb9a69efeb84.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
-  <dd><img src="/images/bf2b29d0874216fa.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
-  <dd><img src="/images/e6c9dae0bcab2f5e.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
-  <dd><img src="/images/64e9b0f1acf13e18.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
-  <dd><img src="/images/f98018a13b969fe0.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
-  <dd><img src="/images/20c2101c5d580edf.webp" width="35" height="30" loading="lazy"> Shrouded Fable (SFA)</dd>
-  <dd><img src="/images/9d385a0743f8d1ea.webp" width="35" height="30" loading="lazy"> Stellar Crown (SCR)</dd>
+  <dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy"> Brilliant Stars</dd>
+  <dd><img src="/images/ss10-png.webp" width="30" height="30" loading="lazy"> Astral Radiance</dd>
+  <dd><img src="/images/pgo.webp" width="30" height="30" loading="lazy"> Pokémon GO</dd>
+  <dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy"> Lost Origin</dd>
+  <dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy"> Silver Tempest</dd>
+  <dd><img src="/images/cze.webp" width="30" height="30" loading="lazy"> Crown Zenith</dd>
+  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
+  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
+  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
+  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
+  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
+  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
+  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
+  <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
+  <dd><img src="/images/sfa.webp" width="35" height="30" loading="lazy"> Shrouded Fable (SFA)</dd>
+  <dd><img src="/images/scr.webp" width="35" height="30" loading="lazy"> Stellar Crown (SCR)</dd>
   </ol>
 </div>
 </div><div class="jb-row"><div class="jb-col-8">
@@ -282,37 +282,37 @@ As mentioned in the introduction of this guide, Reprints are cards that were pri
 </div>
 </div></div><div class="jb-col-4">
 
-![](/images/b0be9bbc0a8f7113.webp)
+![](/images/brilliant-stars-on.webp)
 
 *The F regulation block, first introduced with Brilliant Stars, is the first regulation block with cards legal in the 2024 Standard format.*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Switch ROS 91](/images/c36186b8f3d44cb8.webp)
+![Switch ROS 91](/images/ros-091-r-en-sm.webp)
 
 *Switch ROS 91*
 
 </div><div class="jb-col-2">
 
-![Switch SLG 67](/images/3234b0a5452b3844.webp)
+![Switch SLG 67](/images/image-asset-3234b0.webp)
 
 *Switch SLG 67*
 
 </div><div class="jb-col-2">
 
-![Switch CES 147](/images/8fc4c1ec2bb625c4.webp)
+![Switch CES 147](/images/image-asset-8fc4c1.webp)
 
 *Switch CES 147*
 
 </div><div class="jb-col-2">
 
-![Switch SSH 183](/images/d779dd33e785302a.webp)
+![Switch SSH 183](/images/image-asset-d779dd.webp)
 
 *Switch SSH 183*
 
 </div><div class="jb-col-2">
 
-![](/images/4db66d37c04a224e.webp)
+![](/images/sv1-en-194.webp)
 
 *Switch SVI 194*
 
@@ -327,13 +327,13 @@ Sometimes, older cards with the same name as a card printed in a Standard-legal 
 
 <div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-2">
 
-![](/images/d786f6fe3c6534d4.webp)
+![](/images/great-ball-retro.webp)
 
 *Quick Ball MD 86*
 
 </div><div class="jb-col-2">
 
-![](/images/dce3f6a2dcff231c.webp)
+![](/images/132-dce3f6.webp)
 
 *Quick Ball SSH 179*
 
@@ -349,19 +349,19 @@ If you’re unsure about whether a card you’re interested in using from an old
 
 <div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-2">
 
-![Recycle Energy N1 105](/images/3a0c036c27b7d52d.webp)
+![Recycle Energy N1 105](/images/recycleenergyneogenesis105.webp)
 
 *Recycle Energy N1 105*
 
 </div><div class="jb-col-2">
 
-![Recycle Energy UNM 212](/images/a34ac542fbf168eb.webp)
+![Recycle Energy UNM 212](/images/image-asset-a34ac5.webp)
 
 *Recycle Energy UNM 212*
 
 </div><div class="jb-col-2">
 
-![Mr. Mime TEU 66](/images/7d89824a1d6cbd63.webp)
+![Mr. Mime TEU 66](/images/image-asset.webp)
 
 *Mr. Mime TEU 66*
 
@@ -374,7 +374,7 @@ If you’re unsure about whether a card you’re interested in using from an old
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Mismagius UNB 78 and Bellelba &amp; Brycen-Man CEC 186 were banned in the Standard format prior to their rotating out of the format on 10 September 2021.](/images/37d98e4131880f09.webp)
+![Mismagius UNB 78 and Bellelba &amp; Brycen-Man CEC 186 were banned in the Standard format prior to their rotating out of the format on 10 September 2021.](/images/bannedcards.webp)
 
 *Mismagius UNB 78 and Bellelba & Brycen-Man CEC 186 were banned in the Standard format prior to their rotating out of the format on 10 September 2021.*
 

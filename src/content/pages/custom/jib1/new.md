@@ -1,6 +1,6 @@
 ---
 title: "JIB Base Set V2"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/custom/jib1/new"
 showHeading: false
 ---
@@ -34,7 +34,7 @@ Click on a card to zoom in.
     <span id="G" class="symb">G</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a2819617db432616.webp)
+![](/images/bulbasaur.webp)
 
 </div><div class="jb-col-10">
 
@@ -48,7 +48,7 @@ Artist: [asteroid\_ill](https://www.pixiv.net/en/artworks/109281400)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -56,7 +56,7 @@ Artist: [asteroid\_ill](https://www.pixiv.net/en/artworks/109281400)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -64,7 +64,7 @@ Artist: [asteroid\_ill](https://www.pixiv.net/en/artworks/109281400)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/071bba5de1af3467.webp)
+![](/images/oddish-071bba.webp)
 
 </div><div class="jb-col-10">
 
@@ -78,7 +78,7 @@ Artist: [Suzuki](https://www.pixiv.net/en/artworks/96523750)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -86,7 +86,7 @@ Artist: [Suzuki](https://www.pixiv.net/en/artworks/96523750)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -94,7 +94,7 @@ Artist: [Suzuki](https://www.pixiv.net/en/artworks/96523750)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ba32f44e8f46a2d9.webp)
+![](/images/scyther-ba32f4.webp)
 
 </div><div class="jb-col-10">
 
@@ -108,7 +108,7 @@ Artist: [Ririri](https://www.pixiv.net/en/artworks/100339765)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a884fb4e107ad6a.webp)
+![](/images/chikorita-1a884f.webp)
 
 </div><div class="jb-col-10">
 
@@ -122,7 +122,7 @@ Artist: [Aya Kusube](https://limitlesstcg.com/cards/LOT/5) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6602c968a16518e9.webp)
+![](/images/bayleef-6602c9.webp)
 
 </div><div class="jb-col-10">
 
@@ -136,7 +136,7 @@ Artist: [Mizue](https://limitlesstcg.com/cards/BKP/2) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6e779cdaf5abe8b1.webp)
+![](/images/meganium-6e779c.webp)
 
 </div><div class="jb-col-10">
 
@@ -150,7 +150,7 @@ Artist: [KoriArredondo](https://www.deviantart.com/koriarredondo/art/C-Moonlit-F
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f1ec00f88814f01.webp)
+![](/images/celebi-3f1ec0.webp)
 
 </div><div class="jb-col-10">
 
@@ -164,7 +164,7 @@ Artist: [REND](https://www.pixiv.net/en/artworks/96566374)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2a88eee6cc3627b9.webp)
+![](/images/seedot.webp)
 
 </div><div class="jb-col-10">
 
@@ -176,7 +176,7 @@ Artist: [sui](https://limitlesstcg.com/cards/STS/9) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7500d8132cda88fd.webp)
+![](/images/tropius.webp)
 
 </div><div class="jb-col-10">
 
@@ -190,7 +190,7 @@ Artist: [Meron](https://www.pixiv.net/en/artworks/85988750)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -200,7 +200,7 @@ Artist: [Meron](https://www.pixiv.net/en/artworks/85988750)
     <span id="R" class="symb">R</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a10e67bdad3bd85f.webp)
+![](/images/charmander-a10e67.webp)
 
 </div><div class="jb-col-10">
 
@@ -214,7 +214,7 @@ Artist: [mochafushigi](https://www.pixiv.net/en/artworks/85441632)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -222,7 +222,7 @@ Artist: [mochafushigi](https://www.pixiv.net/en/artworks/85441632)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -230,7 +230,7 @@ Artist: [mochafushigi](https://www.pixiv.net/en/artworks/85441632)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6711584dd79978c9.webp)
+![](/images/flareon-671158.webp)
 
 </div><div class="jb-col-10">
 
@@ -244,7 +244,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -252,7 +252,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -260,7 +260,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -268,7 +268,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -276,7 +276,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -284,7 +284,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -292,7 +292,7 @@ Artist: [kikuyosy](https://www.pixiv.net/en/artworks/86979226)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/25fef9a4a17126e3.webp)
+![](/images/ho-oh-25fef9.webp)
 
 </div><div class="jb-col-10">
 
@@ -306,7 +306,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -314,7 +314,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -322,7 +322,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -332,7 +332,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
     <span id="W" class="symb">W</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -340,7 +340,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -348,7 +348,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -356,7 +356,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -364,7 +364,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -372,7 +372,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -380,7 +380,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -388,7 +388,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -396,7 +396,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -404,7 +404,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -412,7 +412,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -420,7 +420,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -428,7 +428,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -436,7 +436,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -446,7 +446,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
     <span id="L" class="symb">L</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -454,7 +454,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -462,7 +462,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -470,7 +470,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -478,7 +478,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -486,7 +486,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -494,7 +494,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -502,7 +502,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -510,7 +510,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -518,7 +518,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -526,7 +526,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -534,7 +534,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -542,7 +542,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -552,7 +552,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
     <span id="P" class="symb">P</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -560,7 +560,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -568,7 +568,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -576,7 +576,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -584,7 +584,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -592,7 +592,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -600,7 +600,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -608,7 +608,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -616,7 +616,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -624,7 +624,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -632,7 +632,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -640,7 +640,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -648,7 +648,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -656,7 +656,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Land-Gu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/85a603a9e908ab0b.webp)
+![](/images/zacian.webp)
 
 </div><div class="jb-col-10">
 
@@ -672,7 +672,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
     <span id="F" class="symb">F</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -680,7 +680,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -688,7 +688,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -696,7 +696,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -704,7 +704,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -712,7 +712,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -720,7 +720,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -728,7 +728,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -736,7 +736,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -744,7 +744,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -752,7 +752,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -760,7 +760,7 @@ Artist: [G4ROooon](https://www.pixiv.net/en/artworks/99135323)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a1d2f43b9044d01.webp)
+![](/images/marshadow-1a1d2f.webp)
 
 </div><div class="jb-col-10">
 
@@ -774,7 +774,7 @@ Artist: [n\_elq5](https://www.pixiv.net/en/artworks/72777617)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -782,7 +782,7 @@ Artist: [n\_elq5](https://www.pixiv.net/en/artworks/72777617)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1780de6ea1c6e7e9.webp)
+![](/images/zamazenta.webp)
 
 </div><div class="jb-col-10">
 
@@ -800,7 +800,7 @@ Artist: [Ashang](https://www.pixiv.net/en/artworks/108280319)
     <span id="D" class="symb">D</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/68098000bc411dfd.webp)
+![](/images/umbreon-680980.webp)
 
 </div><div class="jb-col-10">
 
@@ -814,7 +814,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Starry-
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -822,7 +822,7 @@ Artist: [RenePolumorfous](https://www.deviantart.com/renepolumorfous/art/Starry-
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3ac7319a1a41c32e.webp)
+![](/images/nuzleaf.webp)
 
 </div><div class="jb-col-10">
 
@@ -834,7 +834,7 @@ Artist: [Naoyo Kimura](https://limitlesstcg.com/cards/NXD/71) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -842,7 +842,7 @@ Artist: [Naoyo Kimura](https://limitlesstcg.com/cards/NXD/71) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -850,7 +850,7 @@ Artist: [Naoyo Kimura](https://limitlesstcg.com/cards/NXD/71) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/64ca5adb0dd53224.webp)
+![](/images/sharpedo.webp)
 
 </div><div class="jb-col-10">
 
@@ -864,7 +864,7 @@ Artist: [dasigori](https://www.pixiv.net/en/artworks/85890190)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5b87f8773756d07f.webp)
+![](/images/sableye-5b87f8.webp)
 
 </div><div class="jb-col-10">
 
@@ -878,7 +878,7 @@ Artist: [Kotobuki Tsukasa](https://www.pixiv.net/en/artworks/80270707)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/434257efcc249b8f.webp)
+![](/images/absol-434257.webp)
 
 </div><div class="jb-col-10">
 
@@ -892,7 +892,7 @@ Artist: [TAPI](https://www.pixiv.net/en/artworks/85140402)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -900,7 +900,7 @@ Artist: [TAPI](https://www.pixiv.net/en/artworks/85140402)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -908,7 +908,7 @@ Artist: [TAPI](https://www.pixiv.net/en/artworks/85140402)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e89a2e78f23adf1f.webp)
+![](/images/zoroark-e89a2e.webp)
 
 </div><div class="jb-col-10">
 
@@ -922,7 +922,7 @@ Artist: [TheNormOnTheGo](https://www.deviantart.com/thenornonthego/art/Walking-i
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -930,7 +930,7 @@ Artist: [TheNormOnTheGo](https://www.deviantart.com/thenornonthego/art/Walking-i
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9908b2adb51e5173.webp)
+![](/images/malamar-9908b2.webp)
 
 </div><div class="jb-col-10">
 
@@ -944,7 +944,7 @@ Artist: [br-soule](https://www.deviantart.com/br-soule/art/Pokecember-02-Psychic
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f6d35af0d49e6404.webp)
+![](/images/blank.webp)
 
 </div><div class="jb-col-10">
 
@@ -954,7 +954,7 @@ Artist: [br-soule](https://www.deviantart.com/br-soule/art/Pokecember-02-Psychic
     <span id="M" class="symb">M</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2b832d29bf18a6d0.webp)
+![](/images/larvitar-2b832d.webp)
 
 </div><div class="jb-col-10">
 
@@ -966,7 +966,7 @@ Artist: [Chaos](https://www.pixiv.net/en/artworks/79758053)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/68b7d19595761a3e.webp)
+![](/images/pupitar-68b7d1.webp)
 
 </div><div class="jb-col-10">
 
@@ -982,7 +982,7 @@ Artist: Ken Sugimori (Stock Artwork)
     <span id="C" class="symb">C</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e181e073d2589a11.webp)
+![](/images/eevee-e181e0.webp)
 
 </div><div class="jb-col-10">
 
@@ -996,7 +996,7 @@ Artist: [You Iribi](https://limitlesstcg.com/cards/SSP/42) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f377bdf4e4ca3cdc.webp)
+![](/images/lugia.webp)
 
 </div><div class="jb-col-10">
 
@@ -1012,7 +1012,7 @@ Artist: [Katsuragi Nakomo](https://www.pixiv.net/en/artworks/78217444)
     <span id="Trainers"><b>Trainers</b></span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4e0831fa37a6f2d9.webp)
+![](/images/boss-s-orders.webp)
 
 </div><div class="jb-col-10">
 
@@ -1024,7 +1024,7 @@ Artist: [NC Empire](https://limitlesstcg.com/cards/PAL/172) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1547545097897056.webp)
+![](/images/champion-s-triumph.webp)
 
 </div><div class="jb-col-10">
 
@@ -1036,7 +1036,7 @@ Artist: [The-Blue-Wind](https://www.deviantart.com/the-blue-wind/art/VS-Champion
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e0450c839e181bce.webp)
+![](/images/energy-retrieval.webp)
 
 </div><div class="jb-col-10">
 
@@ -1048,7 +1048,7 @@ Artist: [Studio Bora Inc.](https://limitlesstcg.com/cards/SVI/171) (Official Art
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/404dea7be36bd528.webp)
+![](/images/erika-s-command.webp)
 
 </div><div class="jb-col-10">
 
@@ -1062,7 +1062,7 @@ Artist: [Hidaka](https://www.pixiv.net/en/artworks/9034968)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f9708b693a20d37.webp)
+![](/images/escape-rope.webp)
 
 </div><div class="jb-col-10">
 
@@ -1074,7 +1074,7 @@ Artist: [Toyste Beach](https://limitlesstcg.com/cards/jp/SM10a/51) (Official Art
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/405ab6a950d27ad5.webp)
+![](/images/field-blower.webp)
 
 </div><div class="jb-col-10">
 
@@ -1086,7 +1086,7 @@ Artist: [Toyste Beach](https://limitlesstcg.com/cards/jp/SM9/93) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bb564948f4c3561c.webp)
+![](/images/level-ball.webp)
 
 </div><div class="jb-col-10">
 
@@ -1098,7 +1098,7 @@ Artist: [Ryo Ueda](https://limitlesstcg.com/cards/en/BST/129) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a2e2c7c1b11be728.webp)
+![](/images/lorelei.webp)
 
 </div><div class="jb-col-10">
 
@@ -1110,7 +1110,7 @@ Artist: [Y](https://www.pixiv.net/en/artworks/71652942)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3acb241f3c08954f.webp)
+![](/images/matori.webp)
 
 </div><div class="jb-col-10">
 
@@ -1124,7 +1124,7 @@ Artist: [Mulberry Leaf Silkworm](https://www.pixiv.net/en/artworks/93442028)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2c71d03caaa71ae6.webp)
+![](/images/n-2c71d0.webp)
 
 </div><div class="jb-col-10">
 
@@ -1136,7 +1136,7 @@ Artist: [Mi](https://www.pixiv.net/en/artworks/87889587)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a418df8c95bd54fd.webp)
+![](/images/plumeria.webp)
 
 </div><div class="jb-col-10">
 
@@ -1148,7 +1148,7 @@ Artist: [Bunnyloz](https://www.deviantart.com/bunnyloz/art/Team-Skull-s-Big-Sist
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1222d274f0559198.webp)
+![](/images/pok-gear-3-0.webp)
 
 </div><div class="jb-col-10">
 
@@ -1160,7 +1160,7 @@ Artist: [Studio Bora Inc.](https://limitlesstcg.com/cards/jp/SM11/92) (Official 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/441659ce1a16688f.webp)
+![](/images/pow-hand-extension.webp)
 
 </div><div class="jb-col-10">
 
@@ -1177,7 +1177,7 @@ Artist: Satoshi Yamamoto (Official Art, Colorized)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/12378d7cb1d29a57.webp)
+![](/images/premier-ball.webp)
 
 </div><div class="jb-col-10">
 
@@ -1192,7 +1192,7 @@ Artist: [Baconb0y](https://www.deviantart.com/baconb0y/art/Premier-Ball-35345711
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/40e3d3c6a35b0ef2.webp)
+![](/images/professor-s-guidance.webp)
 
 </div><div class="jb-col-10">
 
@@ -1206,7 +1206,7 @@ Artist: [Miyuki Harada](https://www.pixiv.net/en/artworks/75726082)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e89fb3116009bf35.webp)
+![](/images/rare-candy.webp)
 
 </div><div class="jb-col-10">
 
@@ -1218,7 +1218,7 @@ Artist: [Shizurow](https://www.pokemon-card.com/card-search/details.php/card/257
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/768d96c2eeafa352.webp)
+![](/images/rescue-stretcher.webp)
 
 </div><div class="jb-col-10">
 
@@ -1233,7 +1233,7 @@ Artist: [Yoshinobu Saito](https://limitlesstcg.com/cards/jp/SM10/93) (Official A
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e7cea1b5a56659c3.webp)
+![](/images/roseanne-s-research.webp)
 
 </div><div class="jb-col-10">
 
@@ -1247,7 +1247,7 @@ Artist: [Kanako Eo](https://pkmncards.com/card/roseannes-research-pop-series-8-p
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2024d8789b1d76e1.webp)
+![](/images/safari-zone.webp)
 
 </div><div class="jb-col-10">
 
@@ -1259,7 +1259,7 @@ Artist: [mark331](https://www.deviantart.com/mark331/art/POKEMON-Somewhere-in-Sa
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/850e0d8153a285d3.webp)
+![](/images/silver-bangle.webp)
 
 </div><div class="jb-col-10">
 
@@ -1271,7 +1271,7 @@ Artist: [5ban Graphics](https://limitlesstcg.com/cards/PLB/88) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8484f3fb4bbf8a47.webp)
+![](/images/super-potion-8484f3.webp)
 
 </div><div class="jb-col-10">
 
@@ -1283,7 +1283,7 @@ Artist: [Keiji Kinebuchi](https://limitlesstcg.com/cards/EVO/87) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9cc3c7556dda5e29.webp)
+![](/images/super-rod-9cc3c7.webp)
 
 </div><div class="jb-col-10">
 
@@ -1295,7 +1295,7 @@ Artist: [5ban Graphics](https://limitlesstcg.com/cards/NVI/95) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d362358ea220ab49.webp)
+![](/images/super-scoop-up.webp)
 
 </div><div class="jb-col-10">
 
@@ -1307,7 +1307,7 @@ Artist: [Wataru Kawahara](https://limitlesstcg.com/cards/UL/83) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bf6bc0093b47bff3.webp)
+![](/images/switch-bf6bc0.webp)
 
 </div><div class="jb-col-10">
 
@@ -1319,7 +1319,7 @@ Artist: [Ryo Ueda](https://limitlesstcg.com/cards/SLG/67) (Offical Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a64da91fc1b3a138.webp)
+![](/images/tate-liza-a64da9.webp)
 
 </div><div class="jb-col-10">
 
@@ -1334,7 +1334,7 @@ Artist: [Nin](https://www.pixiv.net/en/artworks/87402018)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e6dd1a707e8a4013.webp)
+![](/images/teammates.webp)
 
 </div><div class="jb-col-10">
 
@@ -1348,7 +1348,7 @@ Artist: [TM](https://www.pixiv.net/en/artworks/48264740)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f73434bbc0b66476.webp)
+![](/images/trainers-mail.webp)
 
 </div><div class="jb-col-10">
 
@@ -1360,7 +1360,7 @@ Artist: [Toyste Beach](https://limitlesstcg.com/cards/ROS/92a) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c4155f90f4bac6ea.webp)
+![](/images/ultra-ball.webp)
 
 </div><div class="jb-col-10">
 
@@ -1374,7 +1374,7 @@ Artist: [5ban Graphics](https://limitlesstcg.com/cards/PLB/90) (Official Art)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b253c27a0fafa943.webp)
+![](/images/viridian-forest.webp)
 
 </div><div class="jb-col-10">
 
@@ -1386,7 +1386,7 @@ Artist: Stable Diffusion
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/427062ab609c913f.webp)
+![](/images/vs-seeker.webp)
 
 </div><div class="jb-col-10">
 
@@ -1398,7 +1398,7 @@ Artist: [Wataru Kawahara](https://pkmncards.com/card/vs-seeker-supreme-victors-s
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ac64e7aea6ccd61b.webp)
+![](/images/wondrous-crystal.webp)
 
 </div><div class="jb-col-10">
 

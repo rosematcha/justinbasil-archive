@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 3: Iron Thorns ex vs. Infernape"
 description: "On this week's bonus video, it's time for some monkey business. Quad Iron Thorns ex takes on Infernape!    Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/fa9ce666a10db6d6.webp"
+ogImage: "/images/bonus-3-fa9ce6.webp"
 publishDate: 2024-04-17
 youtubeId: "G6ypk4sBczc"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-bonus-3-iron-thorns-ex-vs-infernape"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/2947171e26aab524.webp)
+![](/images/bonus-3-294717.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 2: Garchomp ex vs. Mewtwo ex"
 description: "In this video, we continue testing Paradox Rift! In this bonus video, Garchomp ex takes on Mewtwo ex!  Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/76b73d40d24647b1.webp"
+ogImage: "/images/bonus-2-76b73d.webp"
 publishDate: 2023-09-20
 youtubeId: "tqxeHHBV2D4"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-bonus-2-garchomp-ex-vs-mewtwo-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/45989496a55f403d.webp)
+![](/images/bonus-2-459894.webp)
 
 
 

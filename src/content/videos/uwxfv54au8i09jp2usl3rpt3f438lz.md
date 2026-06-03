@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 1: Mew VMAX vs. Giratina VSTAR"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. As we prepare for rotation, we'll first look at existing archetypes that change, however slightly or dramatically, to rebuild themselves without the cards they'll be losing at rotation.    Rotation Survival Guide"
-ogImage: "/images/08bfc7c3f3214080.webp"
+ogImage: "/images/testing-part-1-mew-vs-giratina-08bfc7.webp"
 publishDate: 2022-12-30
 sourceUrl: "https://www.justinbasil.com/videos/uwxfv54au8i09jp2usl3rpt3f438lz"
 showHeading: false
@@ -30,7 +30,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/5b889d1132a8201e.webp)
+![](/images/testing-part-1-mew-vs-giratina.webp)
 
 
 

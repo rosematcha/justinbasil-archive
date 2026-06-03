@@ -1,6 +1,6 @@
 ---
 title: "Battle Academy 2"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ba2"
 showHeading: false
 ---
@@ -14,7 +14,7 @@ showHeading: false
 </p>
 </div><div class="jb-row"><div class="jb-col-7"><div class="jb-row"><div class="jb-col-5"></div><div class="jb-col-2">
 
-![](/images/b0bee426d34b9189.webp)
+![](/images/pokemon-tcg-battle-academy-2022-box-shot-2.webp)
 
 </div></div></div><div class="jb-col-5"></div></div>
 
@@ -29,7 +29,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 </p>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![05 Appletun V.png](/images/c364af08368d554b.webp)
+![05 Appletun V.png](/images/05-appletun-v.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-2">
 
@@ -41,7 +41,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 
 </div><div class="jb-col-2">
 
-![10 Cinderace V.png](/images/a922f188657d59f6.webp)
+![10 Cinderace V.png](/images/10-cinderace-v.webp)
 
 </div><div class="jb-col-2">
 
@@ -51,7 +51,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 
 </div><div class="jb-col-2">
 
-![02 Greninja V.png](/images/6f176e1348d0139d.webp)
+![02 Greninja V.png](/images/02-greninja-v.webp)
 
 </div><div class="jb-col-2">
 
@@ -63,7 +63,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![07 Pikachu V.png](/images/3386617b187a83ea.webp)
+![07 Pikachu V.png](/images/07-pikachu-v.webp)
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
@@ -75,7 +75,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 
 </div><div class="jb-col-2">
 
-![03 Lucario V.png](/images/2e4bf815ad414086.webp)
+![03 Lucario V.png](/images/03-lucario-v.webp)
 
 </div></div></div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
@@ -85,7 +85,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 
 </div><div class="jb-col-2">
 
-![07 Tyranitar V.png](/images/01e0e9d51ae82465.webp)
+![07 Tyranitar V.png](/images/07-tyranitar-v.webp)
 
 </div></div></div><div class="jb-col-2">
 
@@ -97,7 +97,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![19 Chef.png](/images/2dec6ada95335044.webp)
+![19 Chef.png](/images/19-chef.webp)
 
 </div><div class="jb-col-2">
 
@@ -107,7 +107,7 @@ Heal 70 damage from your Active Pokémon.
 
 </div><div class="jb-col-2">
 
-![21 Judge.png](/images/887321cde8fb402b.webp)
+![21 Judge.png](/images/21-judge.webp)
 
 </div><div class="jb-col-2">
 
@@ -117,7 +117,7 @@ Each player shuffles their hand into their deck and draws 4 cards.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![Shauna](/images/899dbd598c458691.webp)
+![Shauna](/images/20-shauna.webp)
 
 </div><div class="jb-col-2">
 
@@ -134,7 +134,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 </p>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![01 Phantump.png](/images/f2ed59240feb1c8c.webp)
+![01 Phantump.png](/images/01-phantump.webp)
 
 </div><div class="jb-col-2">
 
@@ -146,7 +146,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![02 Trevenant.png](/images/b06ad89961cd3dd5.webp)
+![02 Trevenant.png](/images/02-trevenant.webp)
 
 </div><div class="jb-col-2">
 
@@ -158,7 +158,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![03 Gossifleur.png](/images/05307abb489ef113.webp)
+![03 Gossifleur.png](/images/03-gossifleur.webp)
 
 </div><div class="jb-col-2">
 
@@ -170,7 +170,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0c51ea44692ae497.webp)
+![](/images/6610998b-8d34-49ea-8f2b-b1d721525c16.webp)
 
 </div><div class="jb-col-2">
 
@@ -180,7 +180,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![05 Appletun V.png](/images/0727d207052825c9.webp)
+![05 Appletun V.png](/images/05-appletun-v-0727d2.webp)
 
 </div><div class="jb-col-2">
 
@@ -192,7 +192,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![06 Zarude.png](/images/c1feb74d10148df0.webp)
+![06 Zarude.png](/images/06-zarude.webp)
 
 </div><div class="jb-col-2">
 
@@ -204,7 +204,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![07 Vulpix.png](/images/643a9ea8cb82b070.webp)
+![07 Vulpix.png](/images/07-vulpix.webp)
 
 </div><div class="jb-col-2">
 
@@ -214,7 +214,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![08 Ninetales.png](/images/3bc8ce5d2115dc0d.webp)
+![08 Ninetales.png](/images/08-ninetales.webp)
 
 </div><div class="jb-col-2">
 
@@ -224,7 +224,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![09 Victini.png](/images/4a16ba0a9a4ad797.webp)
+![09 Victini.png](/images/09-victini.webp)
 
 </div><div class="jb-col-2">
 
@@ -236,7 +236,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![10 Cinderace V.png](/images/f9b2fe18310dd4e7.webp)
+![10 Cinderace V.png](/images/10-cinderace-v-f9b2fe.webp)
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
@@ -246,7 +246,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![11 Sizzlipede.png](/images/dd233add81bc0f9f.webp)
+![11 Sizzlipede.png](/images/11-sizzlipede.webp)
 
 </div></div></div><div class="jb-col-2">
 
@@ -258,7 +258,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![12 Centiskorch.png](/images/4534e432b7e80ea9.webp)
+![12 Centiskorch.png](/images/12-centiskorch.webp)
 
 </div><div class="jb-col-2">
 
@@ -270,7 +270,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![01 Qwilfish.png](/images/23f6363facb734f2.webp)
+![01 Qwilfish.png](/images/01-qwilfish.webp)
 
 </div><div class="jb-col-2">
 
@@ -282,7 +282,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![02 Greninja V.png](/images/089279232eb7e778.webp)
+![02 Greninja V.png](/images/02-greninja-v-089279.webp)
 
 </div><div class="jb-col-2">
 
@@ -294,7 +294,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![03 Chewtle.png](/images/6de304568d2264a0.webp)
+![03 Chewtle.png](/images/03-chewtle.webp)
 
 </div><div class="jb-col-2">
 
@@ -304,7 +304,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![04 Drewnaw.png](/images/408b7a2e3e509ed0.webp)
+![04 Drewnaw.png](/images/04-drewnaw.webp)
 
 </div><div class="jb-col-2">
 
@@ -314,7 +314,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![05 Arrokuda.png](/images/c0f8ea17341090de.webp)
+![05 Arrokuda.png](/images/05-arrokuda.webp)
 
 </div><div class="jb-col-2">
 
@@ -324,7 +324,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![06 Barraskewda.png](/images/d07c14be1e04ba66.webp)
+![06 Barraskewda.png](/images/06-barraskewda.webp)
 
 </div><div class="jb-col-2">
 
@@ -334,7 +334,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![07 Pikachu V.png](/images/06996ec850532f78.webp)
+![07 Pikachu V.png](/images/07-pikachu-v-06996e.webp)
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
@@ -346,7 +346,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![08 Shinx.png](/images/ff5040a8df009a2f.webp)
+![08 Shinx.png](/images/08-shinx.webp)
 
 </div></div></div><div class="jb-col-2">
 
@@ -358,7 +358,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![09 Luxio.png](/images/abc809a6051074d9.webp)
+![09 Luxio.png](/images/09-luxio.webp)
 
 </div><div class="jb-col-2">
 
@@ -368,7 +368,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![10 Luxray.png](/images/64a77a507b6bf158.webp)
+![10 Luxray.png](/images/10-luxray.webp)
 
 </div><div class="jb-col-2">
 
@@ -378,7 +378,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![11 Zeraora.png](/images/b3f00959832698e8.webp)
+![11 Zeraora.png](/images/11-zeraora.webp)
 
 </div><div class="jb-col-2">
 
@@ -388,7 +388,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![12 Morpeko.png](/images/91aa964d733988bb.webp)
+![12 Morpeko.png](/images/12-morpeko.webp)
 
 </div><div class="jb-col-2">
 
@@ -398,7 +398,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![01 Mankey.png](/images/594cdfdc46276bbd.webp)
+![01 Mankey.png](/images/01-mankey.webp)
 
 </div><div class="jb-col-2">
 
@@ -408,7 +408,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![02 Primeape.png](/images/b93e77ab4caff2c3.webp)
+![02 Primeape.png](/images/02-primeape.webp)
 
 </div><div class="jb-col-2">
 
@@ -418,7 +418,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![03 Lucario V.png](/images/a1aa9d4ab37d7e87.webp)
+![03 Lucario V.png](/images/03-lucario-v-a1aa9d.webp)
 
 </div><div class="jb-col-2">
 
@@ -428,7 +428,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![04 Clobbopus.png](/images/da639289de44b7d1.webp)
+![04 Clobbopus.png](/images/04-clobbopus.webp)
 
 </div><div class="jb-col-2">
 
@@ -440,7 +440,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![05 Grapploct.png](/images/6ef10e83e27b10fd.webp)
+![05 Grapploct.png](/images/05-grapploct.webp)
 
 </div><div class="jb-col-2">
 
@@ -452,7 +452,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![06 Falinks.png](/images/4340aab39992798e.webp)
+![06 Falinks.png](/images/06-falinks.webp)
 
 </div><div class="jb-col-2">
 
@@ -462,7 +462,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![07 Tyranitar V.png](/images/6e6d8e06a4ca63f7.webp)
+![07 Tyranitar V.png](/images/07-tyranitar-v-6e6d8e.webp)
 
 </div><div class="jb-col-2">
 
@@ -474,7 +474,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![08 Carvhana.png](/images/62307fb1a86dc39d.webp)
+![08 Carvhana.png](/images/08-carvhana.webp)
 
 </div><div class="jb-col-2">
 
@@ -484,7 +484,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-2">
 
-![09 Sharpedo.png](/images/67e2de271033c080.webp)
+![09 Sharpedo.png](/images/09-sharpedo.webp)
 
 </div><div class="jb-col-2">
 
@@ -494,7 +494,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![10 Darkrai.png](/images/7deadb9e6e1401c7.webp)
+![10 Darkrai.png](/images/10-darkrai.webp)
 
 </div><div class="jb-col-2">
 
@@ -504,7 +504,7 @@ Dark Cutter: 90 damage.
 
 </div><div class="jb-col-2">
 
-![11 Zorua.png](/images/1718000d42078bd8.webp)
+![11 Zorua.png](/images/11-zorua.webp)
 
 </div><div class="jb-col-2">
 
@@ -516,7 +516,7 @@ Dark Cutter: 90 damage.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![12 Zoroark.png](/images/d94ed6200242a50d.webp)
+![12 Zoroark.png](/images/12-zoroark.webp)
 
 </div><div class="jb-col-2">
 
@@ -528,7 +528,7 @@ Dark Cutter: 90 damage.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![13 Eevee.png](/images/fc8bbcdbd9b3c9d1.webp)
+![13 Eevee.png](/images/13-eevee.webp)
 
 </div><div class="jb-col-2">
 
@@ -538,7 +538,7 @@ Dark Cutter: 90 damage.
 
 </div><div class="jb-col-2">
 
-![13 Snorlax.png](/images/c6312b9ef03116e4.webp)
+![13 Snorlax.png](/images/13-snorlax.webp)
 
 </div><div class="jb-col-2">
 
@@ -548,7 +548,7 @@ Dark Cutter: 90 damage.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![13 Wooloo.png](/images/5cfe96f45f688e1f.webp)
+![13 Wooloo.png](/images/13-wooloo.webp)
 
 </div><div class="jb-col-2">
 
@@ -558,7 +558,7 @@ Dark Cutter: 90 damage.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![24 Bug Keeper.png](/images/996c60a9c7b69b4a.webp)
+![24 Bug Keeper.png](/images/24-bug-keeper.webp)
 
 </div><div class="jb-col-2">
 
@@ -570,7 +570,7 @@ Draw 2 cards. Flip a coin. If heads, draw 2 more cards.
 
 </div><div class="jb-col-2">
 
-![19 Chef.png](/images/d82a884ef0363d27.webp)
+![19 Chef.png](/images/19-chef-d82a88.webp)
 
 </div></div></div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
@@ -580,7 +580,7 @@ Heal 70 damage from your Active Pokémon.
 
 </div><div class="jb-col-4"><div class="jb-row"><div class="jb-col-2">
 
-![21 Judge.png](/images/004f786261be2645.webp)
+![21 Judge.png](/images/21-judge-004f78.webp)
 
 </div><div class="jb-col-2">
 
@@ -592,7 +592,7 @@ Each player shuffles their hand into their deck and draws 4 cards.
 
 </div></div></div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![20 Shauna.png](/images/683916ae5bd86d11.webp)
+![20 Shauna.png](/images/20-shauna-683916.webp)
 
 </div><div class="jb-col-2">
 

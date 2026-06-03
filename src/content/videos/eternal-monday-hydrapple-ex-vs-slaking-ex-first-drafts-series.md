@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Hydrapple ex vs. Slaking ex (First Drafts Series)"
 description: "In today's Eternal Monday, Hydrapple ex brings out the apple juice to take on Slaking ex!"
-ogImage: "/images/e9209a46d9d8e34e.webp"
+ogImage: "/images/first-drafts-13-hydrapple-ex-vs-slaking-ex-e9209a.webp"
 publishDate: 2024-12-02
 youtubeId: "6IkvJ2fE1L0"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-hydrapple-ex-vs-slaking-ex-first-drafts-series"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Hydrapple ex brings out the apple juice to take on Sl
 
 
 
-![](/images/703174fd33c07ba6.webp)
+![](/images/first-drafts-13-hydrapple-ex-vs-slaking-ex.webp)
 
 
 

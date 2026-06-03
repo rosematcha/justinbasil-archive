@@ -1,7 +1,7 @@
 ---
 title: "345 Goes Wide: New 345 Format's Initial Ban List"
 description: "As  noted previously , beginning with the official rotation of the Standard format on April 5th, 2024, the 345 format will “go wide” and expand its card pool to include cards from sets prior to  Sword & Shield—Battle Styles . On that date, the 345 Format will expand to include all rule-confo"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 publishDate: 2024-03-13
 sourceUrl: "https://www.justinbasil.com/resources/345-wide-initial-ban-list"
 showHeading: false

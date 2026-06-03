@@ -1,6 +1,6 @@
 ---
 title: "Net Decking"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/net-decking"
 showHeading: false
 ---
@@ -15,7 +15,7 @@ The website Limitless TCG provides great resources for these purposes.
 
 <div class="jb-row"><div class="jb-col-3"></div><div class="jb-col-2">
 
-![](/images/f4a61fc5c9831893.webp)
+![](/images/image-asset-f4a61f.webp)
 
 </div><div class="jb-col-4">
 

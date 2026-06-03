@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Ultra Necrozma vs. Turbo Darkrai VSTAR"
 description: "In today's Eternal Monday, it's Ultra Necrozma vs. Turbo Darkrai VSTAR! Will Ultra Necrozma and its Luster of Downfall spell the end of Darkrai? Or will Darkrai put Ultra Necrozma to sleep for eternity?"
-ogImage: "/images/355d9610ac38afb6.webp"
+ogImage: "/images/ultra-necrozma-vs-darkrai-vstar-355d96.webp"
 publishDate: 2023-10-30
 youtubeId: "Yz8JJGn7Akg"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-ultra-necrozma-vs-turbo-darkrai-vstar"
@@ -19,7 +19,7 @@ In today's Eternal Monday, it's Ultra Necrozma vs. Turbo Darkrai VSTAR! Will Ult
 
 
 
-![](/images/b5eaa5add3df8ac7.webp)
+![](/images/ultra-necrozma-vs-darkrai-vstar.webp)
 
 
 

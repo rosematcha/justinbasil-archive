@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following November 12th's Quick Draw Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the November 12th Quick Draw (LOT, UNB, CEC, SHF, BST) format tournament.  The tournament's results were as follows:    Twitchy - Rapid Strike Urshifu VMAX    bunnybird12 - Lost March    JAMR - Gardevoir & Sylveon-GX"
-ogImage: "/images/1a32791350a9bffc.webp"
+ogImage: "/images/rs-urshifu-1a3279.webp"
 publishDate: 2021-11-13
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-november-12ths-quick-draw-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/a59fd4adb614a68f.webp)
+![](/images/rs-urshifu-a59fd4.webp)
 
 
 

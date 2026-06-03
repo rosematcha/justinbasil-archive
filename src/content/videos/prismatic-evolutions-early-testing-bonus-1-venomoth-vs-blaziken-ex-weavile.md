@@ -1,7 +1,7 @@
 ---
 title: "Prismatic Evolutions Early Testing, Bonus 1: Venomoth vs. Blaziken ex / Weavile"
 description: "In this week's bonus episode, Venomoth brings its new pal Budew along for a ride against Blaziken ex and its chilling buddy, Weavile.   Prismatic Evolutions Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/377bf4beacb590ba.webp"
+ogImage: "/images/bonus-1-377bf4.webp"
 publishDate: 2024-12-08
 youtubeId: "TrMaTG_7YsY"
 sourceUrl: "https://www.justinbasil.com/videos/prismatic-evolutions-early-testing-bonus-1-venomoth-vs-blaziken-ex-weavile"
@@ -27,7 +27,7 @@ In this week's bonus episode, Venomoth brings its new pal Budew along for a ride
 
 
 
-![](/images/b0529650336db212.webp)
+![](/images/bonus-1-b05296.webp)
 
 
 

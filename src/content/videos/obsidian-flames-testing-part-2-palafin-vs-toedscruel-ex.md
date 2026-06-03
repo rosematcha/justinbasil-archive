@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 2: Palafin vs. Toedscruel ex"
 description: "We continue to look at new decks from Obsidian Flames! This week, it's Palafin's turn to take on Toedscruel ex! Will Palafin make a splash, or will Toedscruel ex make the dolphin hero push up daisies?   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List"
-ogImage: "/images/e1a295863771f6b8.webp"
+ogImage: "/images/part-2-e1a295.webp"
 publishDate: 2023-06-30
 youtubeId: "N-1rz1fsf90"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-part-2-palafin-vs-toedscruel-ex"
@@ -28,7 +28,7 @@ We continue to look at new decks from Obsidian Flames! This week, it's Palafin's
 
 
 
-![](/images/cfc297f9e591e02f.webp)
+![](/images/part-2-cfc297.webp)
 
 
 

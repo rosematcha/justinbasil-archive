@@ -1,6 +1,6 @@
 ---
 title: "Staples and Essentials"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/appendix2"
 showHeading: false
 ---
@@ -47,7 +47,7 @@ Noteworthy cards from each set in the Standard format have been split into three
 
 </div></div>
 
-![](/images/c64e26aa44f71111.webp)
+![](/images/brs.webp)
 
 
 
@@ -92,7 +92,7 @@ Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 
 
 </div></div>
 
-![](/images/129a56daff9ccbde.webp)
+![](/images/ss10-129a56.webp)
 
 
 
@@ -137,7 +137,7 @@ Kricketune ASR 10 Shaymin ASR 14 Radiant Heatran ASR 27 Regice ASR 37 Hisuian Ba
 
 </div></div>
 
-![](/images/a8486ae6b77c43d6.webp)
+![](/images/pgo-a8486a.webp)
 
 
 
@@ -182,7 +182,7 @@ Charizard PGO 10 Magikarp PGO 21 Mewtwo V PGO 30 Mewtwo VSTAR PGO 31 Lunatone PG
 
 </div></div>
 
-![](/images/bbf69a033c347436.webp)
+![](/images/swsh11-symbol-38x38.webp)
 
 
 
@@ -227,7 +227,7 @@ Parasect LOR 5 Beautifly LOR 8 Shiftry LOR 13 Trevenant LOR 17 Chandelure LOR 26
 
 </div></div>
 
-![](/images/921cd58ea5bb5f32.webp)
+![](/images/swsh12-symbol-38x38-921cd5.webp)
 
 
 
@@ -272,7 +272,7 @@ Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alol
 
 </div></div>
 
-![](/images/f781819abc99e27d.webp)
+![](/images/cze.webp)
 
 
 
@@ -317,7 +317,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/03cb87ae2d15bd85.webp)
+![](/images/svi.webp)
 
 
 
@@ -414,7 +414,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/5725375ad5e946b8.webp)
+![](/images/sv02-symbol-38x38.webp)
 
 
 
@@ -502,7 +502,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/6b44f384d6f5b707.webp)
+![](/images/obf.webp)
 
 
 
@@ -577,7 +577,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/db79bb9a69efeb84.webp)
+![](/images/mew.webp)
 
 
 
@@ -661,7 +661,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/f32b9c4720dac441.webp)
+![](/images/par-f32b9c.webp)
 
 
 
@@ -765,7 +765,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/e6c9dae0bcab2f5e.webp)
+![](/images/paf.webp)
 
 
 
@@ -838,7 +838,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/64e9b0f1acf13e18.webp)
+![](/images/tef.webp)
 
 
 
@@ -935,7 +935,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/bc36db44511a1a8a.webp)
+![](/images/twm-bc36db.webp)
 
 
 
@@ -1019,7 +1019,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div></div>
 
-![](/images/20c2101c5d580edf.webp)
+![](/images/sfa.webp)
 
 
 
@@ -1079,7 +1079,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6"></div></div>
 
-![](/images/9d385a0743f8d1ea.webp)
+![](/images/scr.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 48: New \"Black & White\" Set Trademarks & \"Paradise Dragona\" Released!"
 description: "This week we discuss three new set trademarks, the release of \"Paradise Dragona,\" a new 7-11 promo card, more Chinese \"Pokémon GO\" cards, and more!"
-ogImage: "/images/b5be39b748e11a47.webp"
+ogImage: "/images/venonat-768x432-b5be39.webp"
 publishDate: 2024-09-15
 youtubeId: "dSyvM6Gg6Ac"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-48-new-black-amp-white-set-trademarks-amp-paradise-dragona-released"
@@ -19,7 +19,7 @@ This week we discuss three new set trademarks, the release of "Paradise Dragona,
 
 
 
-![](/images/b441ef1dcea2acfe.webp)
+![](/images/venonat-768x432.webp)
 
 
 

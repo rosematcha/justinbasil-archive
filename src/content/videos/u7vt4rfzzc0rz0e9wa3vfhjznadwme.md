@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 1: Meowscarada ex vs. Regigigas"
 description: "It's time to start testing Paldea Evolved! Up first, newcomer Meowscarada ex goes against the resurrection of Regigigas!?  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes"
-ogImage: "/images/bdd52b83a4fa383d.webp"
+ogImage: "/images/part-1-bdd52b.webp"
 publishDate: 2023-04-15
 youtubeId: "-fNmLTMou6s"
 sourceUrl: "https://www.justinbasil.com/videos/u7vt4rfzzc0rz0e9wa3vfhjznadwme"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/2bb4f25ad777471d.webp)
+![](/images/part-1-2bb4f2.webp)
 
 
 

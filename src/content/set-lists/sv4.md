@@ -1,6 +1,6 @@
 ---
 title: "Paradox Rift Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv4"
 showHeading: false
 ---
@@ -8,7 +8,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/dbf88939215a7309.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.

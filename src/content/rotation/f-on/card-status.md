@@ -1,6 +1,6 @@
 ---
 title: "2024 Rotation Card Status (BST-FST)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on/card-status"
 showHeading: false
 ---

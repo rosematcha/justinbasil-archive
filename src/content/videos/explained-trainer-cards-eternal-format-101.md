@@ -1,7 +1,7 @@
 ---
 title: "EXPLAINED: Trainer Cards (Eternal Format 101)"
 description: "In this video, I go over Trainer cards and how their history in the Pokémon Trading Card Game card makes understanding them at times as clear as mud.  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/4017b29287d84796.webp"
+ogImage: "/images/eternal-101-episode-2-trainer-cards-4017b2.webp"
 publishDate: 2024-11-27
 youtubeId: "4hefVm-O_m4"
 sourceUrl: "https://www.justinbasil.com/videos/explained-trainer-cards-eternal-format-101"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/7d7efc7013b91f55.webp)
+![](/images/eternal-101-episode-2-trainer-cards.webp)
 
 
 

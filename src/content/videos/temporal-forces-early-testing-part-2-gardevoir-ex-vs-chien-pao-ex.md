@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 2: Gardevoir ex vs. Chien Pao ex"
 description: "Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/f1a43cfc079c3308.webp"
+ogImage: "/images/part-2-f1a43c.webp"
 publishDate: 2024-01-06
 youtubeId: "8eZhaDrpWJE"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-2-gardevoir-ex-vs-chien-pao-ex"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/a8a9f89f7d8ed6f5.webp)
+![](/images/part-2.webp)
 
 
 

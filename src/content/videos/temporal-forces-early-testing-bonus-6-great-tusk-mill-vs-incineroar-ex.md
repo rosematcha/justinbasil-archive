@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 6: Great Tusk Mill vs. Incineroar ex"
 description: "In today's bonus video, Great Tusk slings the millstones against Incineroar ex!     Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/cb0bba31ef90ff01.webp"
+ogImage: "/images/bonus-6-cb0bba.webp"
 publishDate: 2024-02-14
 youtubeId: "0W__LfKjP8U"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-6-great-tusk-mill-vs-incineroar-ex"
@@ -27,7 +27,7 @@ In today's bonus video, Great Tusk slings the millstones against Incineroar ex!
 
 
 
-![](/images/2114ce60f79f23dd.webp)
+![](/images/bonus-6-2114ce.webp)
 
 
 

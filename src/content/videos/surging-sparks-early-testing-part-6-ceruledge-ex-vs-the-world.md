@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Part 6: Ceruledge ex vs. The World"
 description: "In this week’s bonus video, Ceruledge ex takes on the Standard format meta as it takes on the world. Its challenger: REGIDRAGO VSTAR!  Check out these links to learn more about Surging Sparks!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Select"
-ogImage: "/images/b13cb3bc39c2692a.webp"
+ogImage: "/images/part-6-b13cb3.webp"
 publishDate: 2024-11-02
 youtubeId: "bZs2UHBGvH8"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-part-6-ceruledge-ex-vs-the-world"
@@ -29,7 +29,7 @@ Check out these links to learn more about Surging Sparks!
 
 
 
-![](/images/ab16334ab127a694.webp)
+![](/images/part-6-ab1633.webp)
 
 
 

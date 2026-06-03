@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 3: Tyranitar ex vs. Palafin"
 description: "We continue looking ahead to Obsidian Flames, this week looking at Tyranitar ex and Palafin! Is Tyranitar going to rock Palafin's world, or will Palafin send Tyranitar to the botttom of the sea?   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set"
-ogImage: "/images/3fe11294df553c18.webp"
+ogImage: "/images/part-3-3fe112.webp"
 publishDate: 2023-07-08
 youtubeId: "tOGIK4_n-Uk"
 sourceUrl: "https://www.justinbasil.com/videos/c42irkgas72a9dordk713rhgewg70c"
@@ -28,7 +28,7 @@ We continue looking ahead to Obsidian Flames, this week looking at Tyranitar ex 
 
 
 
-![](/images/2db1fd604375c151.webp)
+![](/images/part-3-2db1fd.webp)
 
 
 

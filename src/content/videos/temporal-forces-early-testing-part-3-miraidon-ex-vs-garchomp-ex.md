@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 3: Miraidon ex vs. Garchomp ex"
 description: "Our testing of Temporal Forces continues! We now look ahead to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/406525ab80042652.webp"
+ogImage: "/images/part-3-406525.webp"
 publishDate: 2024-01-12
 youtubeId: "daU1ktvTZ04"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-3-miraidon-ex-vs-garchomp-ex"
@@ -27,7 +27,7 @@ Our testing of Temporal Forces continues! We now look ahead to the post-rotation
 
 
 
-![](/images/0c50b36c263bf483.webp)
+![](/images/part-3-0c50b3.webp)
 
 
 

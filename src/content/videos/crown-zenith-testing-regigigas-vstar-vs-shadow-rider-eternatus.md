@@ -1,7 +1,7 @@
 ---
 title: "Crown Zenith Testing: Regigigas VSTAR vs. Shadow Rider Eternatus"
 description: "Join us for the first of two streams featuring new decks from Crown Zenith!"
-ogImage: "/images/59070308c44e732b.webp"
+ogImage: "/images/crown-zenith-part-1-590703.webp"
 publishDate: 2022-12-09
 youtubeId: "X8GhuhhL1BM"
 sourceUrl: "https://www.justinbasil.com/videos/crown-zenith-testing-regigigas-vstar-vs-shadow-rider-eternatus"
@@ -19,7 +19,7 @@ Join us for the first of two streams featuring new decks from Crown Zenith!
 
 
 
-![](/images/10ad78e7cd41912f.webp)
+![](/images/crown-zenith-part-1.webp)
 
 
 

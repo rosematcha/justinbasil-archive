@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous Translations"
 description: "Below is a running summary of translations for cards not tied to a specific set. In most cases, these cards appear as promo cards."
-ogImage: "/images/593687cf5c14ac32.webp"
+ogImage: "/images/venusaur-ex-art-2-593687.webp"
 publishDate: 2023-03-23
 sourceUrl: "https://www.justinbasil.com/translations/misc"
 showHeading: false
@@ -20,7 +20,7 @@ Below is a running summary of translations for cards not tied to a specific set.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/0ad9de9d87ccf798.webp)
+![](/images/venusaur-ex-art-2.webp)
 
 </div><div class="jb-col-10">
 
@@ -32,7 +32,7 @@ Ability: Tranquil Flower Once during your turn, if this Pokémon is in the Activ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4c37f1758655175b.webp)
+![](/images/044480-p-rizadonex.webp)
 
 </div><div class="jb-col-10">
 
@@ -44,7 +44,7 @@ Ability: Tranquil Flower Once during your turn, if this Pokémon is in the Activ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1d388bf38380fc7d.webp)
+![](/images/044406-p-baoppu.webp)
 
 </div><div class="jb-col-10">
 
@@ -56,7 +56,7 @@ Ability: Tranquil Flower Once during your turn, if this Pokémon is in the Activ
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/15fba276cc5eac3c.webp)
+![](/images/044487-p-kamekkusuex.webp)
 
 </div><div class="jb-col-10">
 
@@ -68,7 +68,7 @@ Ability: Solid Shell This Pokémon takes 30 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/81090a2b8462a4db.webp)
+![](/images/044407-p-tattsu.webp)
 
 </div><div class="jb-col-10">
 
@@ -78,7 +78,7 @@ Ability: Solid Shell This Pokémon takes 30 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f1c90c6cb3abc26d.webp)
+![](/images/004047-4.webp)
 
 </div><div class="jb-col-10">
 
@@ -90,7 +90,7 @@ Alternate art print of [Carvanha OBF 46](https://limitlesstcg.com/cards/OBF/46).
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0eea13cfc34b97e4.webp)
+![](/images/greninja-ex-0eea13.webp)
 
 </div><div class="jb-col-10">
 
@@ -102,7 +102,7 @@ Alternate art print of [Carvanha OBF 46](https://limitlesstcg.com/cards/OBF/46).
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2130ec6523f1b53f.webp)
+![](/images/044029-p-erezun.webp)
 
 </div><div class="jb-col-10">
 
@@ -114,7 +114,7 @@ Alternate art print of [Toxel OBF 71](https://limitlesstcg.com/cards/OBF/71).
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8905d888f6e7e1bc.webp)
+![](/images/1500-svp-052-harabarie.webp)
 
 </div><div class="jb-col-10">
 
@@ -126,7 +126,7 @@ Alternate art print of [Toxel OBF 71](https://limitlesstcg.com/cards/OBF/71).
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/798c638c2c428288.webp)
+![](/images/004047-6.webp)
 
 </div><div class="jb-col-10">
 
@@ -136,7 +136,7 @@ Alternate art print of [Toxel OBF 71](https://limitlesstcg.com/cards/OBF/71).
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cf2de3cdb9607a36.webp)
+![](/images/044838-p-rateiasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -148,7 +148,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/87a688f53cd93b92.webp)
+![](/images/044408-p-desumasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -158,7 +158,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/021a4a72c1f188e5.webp)
+![](/images/img-4098.webp)
 
 </div><div class="jb-col-10">
 
@@ -168,7 +168,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dc2ad27462bab869.webp)
+![](/images/tinkaton-dc2ad2.webp)
 
 </div><div class="jb-col-10">
 
@@ -180,7 +180,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6091b1318241d57c.webp)
+![](/images/1509-rr035-0959dekanuchanex.webp)
 
 </div><div class="jb-col-10">
 
@@ -192,7 +192,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b65410f90f5bfc5d.webp)
+![](/images/044031-p-sanagirasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -206,7 +206,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/21e6f1f4b634bba8.webp)
+![](/images/0ea14f48f57ed500ce8e9b3a3c70c72b5cf955c0.webp)
 
 </div><div class="jb-col-10">
 
@@ -218,7 +218,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/65311850d70a609d.webp)
+![](/images/043909-p-parudeaupa.webp)
 
 </div><div class="jb-col-10">
 
@@ -230,7 +230,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/deef17f13980f3c5.webp)
+![](/images/mabosstiff-ex.webp)
 
 </div><div class="jb-col-10">
 
@@ -242,7 +242,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/643e4cc901b45155.webp)
+![](/images/044032-p-burororomu.webp)
 
 </div><div class="jb-col-10">
 
@@ -254,7 +254,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/05f5b3d34fb6e9fc.webp)
+![](/images/044411-p-porigon2.webp)
 
 </div><div class="jb-col-10">
 
@@ -264,7 +264,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b74a501367845642.webp)
+![](/images/043842-p-shirushixyuru.webp)
 
 </div><div class="jb-col-10">
 
@@ -276,7 +276,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/85d418874847ca6c.webp)
+![](/images/044025-p-taginguruex.webp)
 
 </div><div class="jb-col-10">
 
@@ -288,7 +288,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d6f930c69ce301a5.webp)
+![](/images/cyclizarsvpromo97.webp)
 
 </div><div class="jb-col-10">
 
@@ -300,7 +300,7 @@ Ability: Mist Float If this Pokémon has any [P] Energy attached, it has no Retr
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f41c872a2c0282fb.webp)
+![](/images/raifort.webp)
 
 </div><div class="jb-col-10">
 

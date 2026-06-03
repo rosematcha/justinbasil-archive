@@ -1,6 +1,6 @@
 ---
 title: "Stellar Crown (SCR, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "j7Q0oNL8qvI"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv7"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/01d8e4e6ca913276.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-stellar-crown-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-white-center-margin5">New Decks from Stellar Crown</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our seventh Scarlet &amp; Violet set by visiting the articles below.
@@ -58,7 +58,7 @@ With the arrival of Shrouded Fable in August, we’ll have a handful of new deck
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6ab4f9d6d32ecf9c.webp)
+![](/images/hydrapple-ex-6ab4f9.webp)
 
 *Illus. 5ban Graphics*
 
@@ -105,7 +105,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/bdec3c93305288a2.webp)
+![](/images/salazzle-bdec3c.webp)
 
 *Illus. Taiga Kasai*
 
@@ -152,7 +152,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/37457ea5c7402882.webp)
+![](/images/cinderace-ex-37457e.webp)
 
 *Illus. 5ban Graphics*
 
@@ -204,7 +204,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/60a1526c7bf87614.webp)
+![](/images/origin-forme-palkia-vstar.webp)
 
 *Illus. aky CG Works*
 
@@ -261,7 +261,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/388305083be232d4.webp)
+![](/images/galvantula-ex-388305.webp)
 
 *Illus. 5ban Graphics*
 
@@ -294,7 +294,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/07f3f922d39c23a4.webp)
+![](/images/vikavolt-07f3f9.webp)
 
 *[I](https://limitlesstcg.com/cards?q=!artist:eske_yoshinob)llus. Hitoshi Ariga*
 
@@ -336,7 +336,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/64467c786dcfa758.webp)
+![](/images/slowking-64467c.webp)
 
 *Illus. Tetsu Kayama*
 
@@ -383,7 +383,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/c1497358c02ed313.webp)
+![](/images/marowak-c14973.webp)
 
 *Illus. cochi8i*
 
@@ -425,7 +425,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/46e9b0933418de34.webp)
+![](/images/medicham-ex-46e9b0.webp)
 
 *Illus. PLANETA Yamashita*
 
@@ -458,7 +458,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/32f2939db1d247ff.webp)
+![](/images/garganacl-ex-32f293.webp)
 
 *Illus. 5ban Graphics*
 
@@ -505,7 +505,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/72a28279dfc55679.webp)
+![](/images/orthworm-ex.webp)
 
 *Illus. PLANETA Yamashita*
 
@@ -552,7 +552,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8598063c4f0a44f2.webp)
+![](/images/regigigas-859806.webp)
 
 *Illus. Yuya Oka*
 
@@ -585,7 +585,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/63750e5bf90e7bab.webp)
+![](/images/terapagos-ex-63750e.webp)
 
 *Illus. 5ban Graphics*
 

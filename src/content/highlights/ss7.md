@@ -1,13 +1,13 @@
 ---
 title: "Highlights from Evolving Skies"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss7"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![E1rwOHEXoAEjgQY (1).png](/images/2db3bf8d1d546322.webp)
+![E1rwOHEXoAEjgQY (1).png](/images/e1rwohexoaejgqy-1.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -55,103 +55,103 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Leafeon V](/images/e0894b38e6df26af.webp)
+![Leafeon V](/images/1167.webp)
 
 *Leafeon V*
 
 </div><div class="jb-col-2">
 
-![Leafeon VMAX](/images/ea5db80d6e0eec09.webp)
+![Leafeon VMAX](/images/1205.webp)
 
 *Leafeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Glaceon V](/images/ebe866978819e0e7.webp)
+![Glaceon V](/images/1175.webp)
 
 *Glaceon V*
 
 </div><div class="jb-col-2">
 
-![Glaceon VMAX](/images/998a9a86bdbb3174.webp)
+![Glaceon VMAX](/images/1209.webp)
 
 *Glaceon VMAX*
 
 </div><div class="jb-col-2">
 
-![Espeon V](/images/60c2267026dbf596.webp)
+![Espeon V](/images/1180.webp)
 
 *Espeon V*
 
 </div><div class="jb-col-2">
 
-![Golurk V](/images/6f9d3af0a191c4e5.webp)
+![Golurk V](/images/1182.webp)
 
 *Golurk V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Sylveon V](/images/de34b8d7ecb17e1d.webp)
+![Sylveon V](/images/1184.webp)
 
 *Sylveon V*
 
 </div><div class="jb-col-2">
 
-![Sylveon VMAX](/images/f01bdf1c22d470b6.webp)
+![Sylveon VMAX](/images/1212.webp)
 
 *Sylveon VMAX*
 
 </div><div class="jb-col-2">
 
-![Medicham V](/images/f718d45a627b2aa2.webp)
+![Medicham V](/images/1186.webp)
 
 *Medicham V*
 
 </div><div class="jb-col-2">
 
-![Umbreon V](/images/060ea1f2d52350f2.webp)
+![Umbreon V](/images/1189.webp)
 
 *Umbreon V*
 
 </div><div class="jb-col-2">
 
-![Umbreon VMAX](/images/47075fbe96a6e394.webp)
+![Umbreon VMAX](/images/1215.webp)
 
 *Umbreon VMAX*
 
 </div><div class="jb-col-2">
 
-![Dragonite V](/images/ba20d253721f3868.webp)
+![Dragonite V](/images/1192.webp)
 
 *Dragonite V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Rayquaza V](/images/116830d61a63d28b.webp)
+![Rayquaza V](/images/1194.webp)
 
 *Rayquaza V*
 
 </div><div class="jb-col-2">
 
-![Rayquaza VMAX](/images/217956548e41a910.webp)
+![Rayquaza VMAX](/images/1218.webp)
 
 *Rayquaza VMAX*
 
 </div><div class="jb-col-2">
 
-![Noivern V](/images/68512f527627ce6f.webp)
+![Noivern V](/images/1196.webp)
 
 *Noivern V*
 
 </div><div class="jb-col-2">
 
-![Duraludon V](/images/a95bf67b474e9af5.webp)
+![Duraludon V](/images/1198.webp)
 
 *Duraludon V*
 
 </div><div class="jb-col-2">
 
-![Duraludon VMAX](/images/abbbd46b2b369906.webp)
+![Duraludon VMAX](/images/1220.webp)
 
 *Duraludon VMAX*
 
@@ -164,31 +164,31 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Aroma Lady](/images/c932892b88a6efef.webp)
+![Aroma Lady](/images/1199.webp)
 
 *Aroma Lady*
 
 </div><div class="jb-col-2">
 
-![Copycat](/images/c3df18a28cb1539b.webp)
+![Copycat](/images/1200.webp)
 
 *Copycat*
 
 </div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-2">
 
-![Gordie](/images/ddd79d91db7dca14.webp)
+![Gordie](/images/1201.webp)
 
 *Gordie*
 
 </div><div class="jb-col-2">
 
-![Raihan](/images/540224f43a15087d.webp)
+![Raihan](/images/1202.webp)
 
 *Raihan*
 
 </div><div class="jb-col-2">
 
-![Zinnia’s Resolve](/images/d092b8aee9c30605.webp)
+![Zinnia’s Resolve](/images/1203.webp)
 
 *Zinnia’s Resolve*
 
@@ -201,133 +201,133 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Leafeon V](/images/dc8420a19c8cd9df.webp)
+![Leafeon V](/images/1166.webp)
 
 *Leafeon V*
 
 </div><div class="jb-col-2">
 
-![Trevenant V](/images/5790ea14b1029697.webp)
+![Trevenant V](/images/1168.webp)
 
 *Trevenant V*
 
 </div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-2">
 
-![Flareon V](/images/6030c11341b0b74f.webp)
+![Flareon V](/images/1169.webp)
 
 *Flareon V*
 
 </div><div class="jb-col-2">
 
-![Volcarona V](/images/ce7e9c083857d897.webp)
+![Volcarona V](/images/1170.webp)
 
 *Volcarona V*
 
 </div><div class="jb-col-2">
 
-![Gyarados V](/images/309f4577c21af36a.webp)
+![Gyarados V](/images/1171.webp)
 
 *Gyarados V*
 
 </div><div class="jb-col-2">
 
-![Vaporeon V](/images/3f96b76e9d675e4b.webp)
+![Vaporeon V](/images/1172.webp)
 
 *Vaporeon V*
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![Suicune V](/images/edcaed1b50b87efc.webp)
+![Suicune V](/images/1173.webp)
 
 *Suicune V*
 
 </div><div class="jb-col-2">
 
-![Glaceon V](/images/7bf3c1333d359ce9.webp)
+![Glaceon V](/images/1174.webp)
 
 *Glaceon V*
 
 </div><div class="jb-col-2">
 
-![Arctovish V](/images/381f6d437911c957.webp)
+![Arctovish V](/images/1176.webp)
 
 *Arctovish V*
 
 </div><div class="jb-col-2">
 
-![Jolteon V](/images/03e07f5016f09628.webp)
+![Jolteon V](/images/1177.webp)
 
 *Jolteon V*
 
 </div><div class="jb-col-2">
 
-![Dracozolt V](/images/113434bf6e0eb080.webp)
+![Dracozolt V](/images/1178.webp)
 
 *Dracozolt V*
 
 </div><div class="jb-col-2">
 
-![Espeon V](/images/70575e4c7bd85e3a.webp)
+![Espeon V](/images/1179.webp)
 
 *Espeon V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Sylveon V](/images/5cd4862b622a551a.webp)
+![Sylveon V](/images/1183.webp)
 
 *Sylveon V*
 
 </div><div class="jb-col-2">
 
-![Medicham V](/images/214e8685310b5b16.webp)
+![Medicham V](/images/1185.webp)
 
 *Medicham V*
 
 </div><div class="jb-col-2">
 
-![Golurk V](/images/71e931d07c99eb3e.webp)
+![Golurk V](/images/1181.webp)
 
 *Golurk V*
 
 </div><div class="jb-col-2">
 
-![Lycanroc V](/images/ae62b23e3436a6ce.webp)
+![Lycanroc V](/images/1187.webp)
 
 *Lycanroc V*
 
 </div><div class="jb-col-2">
 
-![Umbreon V](/images/ec6361485b7f2fa1.webp)
+![Umbreon V](/images/1188.webp)
 
 *Umbreon V*
 
 </div><div class="jb-col-2">
 
-![Garbodor V](/images/112cda55384f18bb.webp)
+![Garbodor V](/images/1190.webp)
 
 *Garbodor V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Dragonite V](/images/e283b95bdb027bd9.webp)
+![Dragonite V](/images/1191.webp)
 
 *Dragonite V*
 
 </div><div class="jb-col-2">
 
-![Rayquaza V](/images/fc4eb74db8bbf347.webp)
+![Rayquaza V](/images/1193.webp)
 
 *Rayquaza V*
 
 </div><div class="jb-col-2">
 
-![Noivern V](/images/0ddabae926c2912f.webp)
+![Noivern V](/images/1195.webp)
 
 *Noivern V*
 
 </div><div class="jb-col-2">
 
-![Duraludon V](/images/c7e4caca2dfc19f9.webp)
+![Duraludon V](/images/1197.webp)
 
 *Duraludon V*
 
@@ -340,19 +340,19 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Froslass](/images/6e2bbe7afcce4520.webp)
+![Froslass](/images/1226.webp)
 
 *Froslass*
 
 </div><div class="jb-col-2">
 
-![Inteleon](/images/9717a5b24fa4397c.webp)
+![Inteleon](/images/1227.webp)
 
 *Inteleon*
 
 </div><div class="jb-col-2">
 
-![Cresselia](/images/70e26dc5bffcdc02.webp)
+![Cresselia](/images/1228.webp)
 
 *Cresselia*
 
@@ -365,61 +365,61 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Leafeon VMAX](/images/d770481e83a30006.webp)
+![Leafeon VMAX](/images/1204.webp)
 
 *Leafeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Trevenant VMAX](/images/8050d4f224a981d6.webp)
+![Trevenant VMAX](/images/1206.webp)
 
 *Trevenant VMAX*
 
 </div><div class="jb-col-2">
 
-![Gyarados VMAX](/images/736702b920277f86.webp)
+![Gyarados VMAX](/images/1207.webp)
 
 *Gyarados VMAX*
 
 </div><div class="jb-col-2">
 
-![Glaceon VMAX](/images/015546adc3ff3792.webp)
+![Glaceon VMAX](/images/1208.webp)
 
 *Glaceon VMAX*
 
 </div><div class="jb-col-2">
 
-![Sylveon VMAX](/images/3fe1b803976f9e1b.webp)
+![Sylveon VMAX](/images/1211.webp)
 
 *Sylveon VMAX*
 
 </div><div class="jb-col-2">
 
-![Lycanroc VMAX](/images/faa160fafbbc5ada.webp)
+![Lycanroc VMAX](/images/1213.webp)
 
 *Lycanroc VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Umbreon VMAX](/images/36ffa28bb4441cf9.webp)
+![Umbreon VMAX](/images/1214.webp)
 
 *Umbreon VMAX*
 
 </div><div class="jb-col-2">
 
-![Garbodor VMAX](/images/ff4164d32d3437c6.webp)
+![Garbodor VMAX](/images/1216.webp)
 
 *Garbodor VMAX*
 
 </div><div class="jb-col-2">
 
-![Rayquaza VMAX](/images/c278f45e3f12c9e7.webp)
+![Rayquaza VMAX](/images/1217.webp)
 
 *Rayquaza VMAX*
 
 </div><div class="jb-col-2">
 
-![Duraludon VMAX](/images/b4626f53a470e333.webp)
+![Duraludon VMAX](/images/1219.webp)
 
 *Duraludon VMAX*
 
@@ -432,91 +432,91 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Leafeon V](/images/2bd0e26d5c37115d.webp)
+![Leafeon V](/images/17-16-2bd0e2.webp)
 
 *Leafeon V*
 
 </div><div class="jb-col-2">
 
-![Leafeon VMAX](/images/f4e90779095cad0e.webp)
+![Leafeon VMAX](/images/18-19-f4e907.webp)
 
 *Leafeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Flareon VMAX](/images/d308c94298af7824.webp)
+![Flareon VMAX](/images/118-2-d308c9.webp)
 
 *Flareon VMAX*
 
 </div><div class="jb-col-2">
 
-![Vaporeon VMAX](/images/6d900a016421321a.webp)
+![Vaporeon VMAX](/images/130-1-6d900a.webp)
 
 *Vaporeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Glaceon V](/images/0dc33291a14add03.webp)
+![Glaceon V](/images/140-1.webp)
 
 *Glaceon V*
 
 </div><div class="jb-col-2">
 
-![Glaceon VMAX](/images/842429e0acab01f8.webp)
+![Glaceon VMAX](/images/141-1-842429.webp)
 
 *Glaceon VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Pikachu](/images/8e9c4fda695d6419.webp)
+![Pikachu](/images/149-1.webp)
 
 *Pikachu*
 
 </div><div class="jb-col-2">
 
-![Jolteon VMAX](/images/c4a4dfae947a3272.webp)
+![Jolteon VMAX](/images/151-1.webp)
 
 *Jolteon VMAX*
 
 </div><div class="jb-col-2">
 
-![Espeon V](/images/cce53fc4919b965c.webp)
+![Espeon V](/images/164-2-cce53f.webp)
 
 *Espeon V*
 
 </div><div class="jb-col-2">
 
-![Espeon VMAX](/images/fdac30951dcb6b38.webp)
+![Espeon VMAX](/images/165-2-fdac30.webp)
 
 *Espeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Sylveon V](/images/dd7a3901ad9d89a3.webp)
+![Sylveon V](/images/174-2.webp)
 
 *Sylveon V*
 
 </div><div class="jb-col-2">
 
-![Sylveon VMAX](/images/1774e6bdc9a614ae.webp)
+![Sylveon VMAX](/images/175-2.webp)
 
 *Sylveon VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Umbreon V](/images/4389a54d806c78b1.webp)
+![Umbreon V](/images/194-2.webp)
 
 *Umbreon V*
 
 </div><div class="jb-col-2">
 
-![Umbreon VMAX](/images/acca58406d13dfe8.webp)
+![Umbreon VMAX](/images/195-2-acca58.webp)
 
 *Umbreon VMAX*
 
 </div><div class="jb-col-2">
 
-![Eevee](/images/f0c832878f02acc7.webp)
+![Eevee](/images/1125.webp)
 
 *Eevee*
 
@@ -529,31 +529,31 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Aroma Lady](/images/4c602547f484ed13.webp)
+![Aroma Lady](/images/1221.webp)
 
 *Aroma Lady*
 
 </div><div class="jb-col-2">
 
-![Copycat](/images/e80b43ecede40901.webp)
+![Copycat](/images/1222.webp)
 
 *Copycat*
 
 </div><div class="jb-col-2">
 
-![Gordie](/images/6879f9dad0ca3f91.webp)
+![Gordie](/images/1223.webp)
 
 *Gordie*
 
 </div><div class="jb-col-2">
 
-![Raihan](/images/47f2cb1dd7dd2a74.webp)
+![Raihan](/images/1224.webp)
 
 *Raihan*
 
 </div><div class="jb-col-2">
 
-![Zinnia’s Resolve](/images/f9ea03fdec286e81.webp)
+![Zinnia’s Resolve](/images/1225.webp)
 
 *Zinnia’s Resolve*
 
@@ -566,55 +566,55 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Boost Shake](/images/9b3e679bb777c1bf.webp)
+![Boost Shake](/images/1229.webp)
 
 *Boost Shake*
 
 </div><div class="jb-col-2">
 
-![Crystal Caves](/images/d20c74d715d544c2.webp)
+![Crystal Caves](/images/1230.webp)
 
 *Crystal Caves*
 
 </div><div class="jb-col-2">
 
-![Full Face Guard](/images/3b5b689329882919.webp)
+![Full Face Guard](/images/1231-2.webp)
 
 *Full Face Guard*
 
 </div><div class="jb-col-2">
 
-![Stormy Mountains](/images/0d2a9fb4862a44dc.webp)
+![Stormy Mountains](/images/1232.webp)
 
 *Stormy Mountains*
 
 </div><div class="jb-col-2">
 
-![Toy Catcher](/images/65d55b6b41c3c531.webp)
+![Toy Catcher](/images/1233.webp)
 
 *Toy Catcher*
 
 </div><div class="jb-col-2">
 
-![Turffield Stadium](/images/41189b8d9d01229c.webp)
+![Turffield Stadium](/images/1234.webp)
 
 *Turffield Stadium*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Lightning Energy](/images/7b2c8e42f031e101.webp)
+![Lightning Energy](/images/1235.webp)
 
 *Lightning Energy*
 
 </div><div class="jb-col-2">
 
-![Darkness Energy](/images/0e5e59a99d274b76.webp)
+![Darkness Energy](/images/1236.webp)
 
 *Darkness Energy*
 
 </div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-2">
 
-![Metal Energy](/images/80e8aa607d8c12df.webp)
+![Metal Energy](/images/1237.webp)
 
 *Metal Energy*
 
@@ -631,7 +631,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Pinsir](/images/45146e73efe53d6c.webp)
+![Pinsir](/images/11-25.webp)
 
 *Pinsir*
 
@@ -645,7 +645,7 @@ Ability: Vise Coach Damage from your Single Strike Pokémon’s attacks isn’t 
 
 </div><div class="jb-col-2">
 
-![Leafeon V](/images/15a35d470670096e.webp)
+![Leafeon V](/images/17-16.webp)
 
 *Leafeon V*
 
@@ -659,7 +659,7 @@ Ability: Greening Cells Once during your turn, you may search your deck for a [G
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Eldegoss](/images/01210e922316404c.webp)
+![Eldegoss](/images/116-1.webp)
 
 *Eldegoss*
 
@@ -673,7 +673,7 @@ Ability: Cotton Lift Once during your turn, you may search your deck for up to 2
 
 </div><div class="jb-col-2">
 
-![Milotic](/images/3268a08ae071cd11.webp)
+![Milotic](/images/138-1.webp)
 
 *Milotic*
 
@@ -687,7 +687,7 @@ Ability: Dew Guard Whenever your opponent plays a Supporter card from their hand
 
 </div></div><div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![Ludicolo](/images/b8f71db133691f74.webp)
+![Ludicolo](/images/134-1.webp)
 
 *Ludicolo*
 
@@ -701,7 +701,7 @@ Ability: Enthusiastic Dance When you play this Pokémon from your hand to evolve
 
 </div></div></div><div class="jb-col-2">
 
-![Glaceon VMAX](/images/3f4a1f5903990ff2.webp)
+![Glaceon VMAX](/images/141-1.webp)
 
 *Glaceon VMAX*
 
@@ -715,7 +715,7 @@ Ability: Crystal Veil Prevent all damage done to this Pokémon by attacks from y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![143-1.jpg](/images/2c25f88569035efd.webp)
+![143-1.jpg](/images/143-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -727,7 +727,7 @@ Ability: Crystal Veil Prevent all damage done to this Pokémon by attacks from y
 
 </div><div class="jb-col-2">
 
-![Flaaffy](/images/db67110be7c74a7a.webp)
+![Flaaffy](/images/155-1.webp)
 
 *Flaaffy*
 
@@ -741,7 +741,7 @@ Ability: Dynamotor Once during your turn, you may attach a [L] Energy card fro
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Umbreon VMAX](/images/084418e5b879c171.webp)
+![Umbreon VMAX](/images/195-2.webp)
 
 *Umbreon VMAX*
 
@@ -755,7 +755,7 @@ Ability: Dark Signal Once during your turn when you play this card from your han
 
 </div><div class="jb-col-2">
 
-![Zoroark](/images/d5fe472cebf9fe49.webp)
+![Zoroark](/images/1103.webp)
 
 *Zoroark*
 
@@ -769,7 +769,7 @@ Ability: Phantom Transformation Once during your turn, you may choose a Stage 1 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Thievul](/images/521784276fbaa8c3.webp)
+![Thievul](/images/1105.webp)
 
 *Thievul*
 
@@ -783,7 +783,7 @@ Ability: Fumbling Hand When you play this Pokemon from your hand to evolve 1 of 
 
 </div><div class="jb-col-2">
 
-![Altaria](/images/62eccd7fa4d830ea.webp)
+![Altaria](/images/1106.webp)
 
 *Altaria*
 
@@ -804,7 +804,7 @@ Ability: Tempting Tune Once during your turn, you may search your deck for a Sup
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Jumpluff](/images/f51d3b1c750c82a3.webp)
+![Jumpluff](/images/14-19.webp)
 
 *Jumpluff*
 
@@ -818,7 +818,7 @@ Ability: Fluffy Barrage This Pokémon may attack twice a turn. If the first atta
 
 </div><div class="jb-col-2">
 
-![Leafeon VMAX](/images/4f456e38afb0ab2f.webp)
+![Leafeon VMAX](/images/18-19.webp)
 
 *Leafeon VMAX*
 
@@ -832,7 +832,7 @@ Ability: Fluffy Barrage This Pokémon may attack twice a turn. If the first atta
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Flareon VMAX](/images/20f9e217a69be484.webp)
+![Flareon VMAX](/images/118-2.webp)
 
 *Flareon VMAX*
 
@@ -844,7 +844,7 @@ Ability: Fluffy Barrage This Pokémon may attack twice a turn. If the first atta
 
 </div><div class="jb-col-2">
 
-![Gyarados](/images/3ee53503abfc95a4.webp)
+![Gyarados](/images/128-1.webp)
 
 *Gyarados*
 
@@ -858,7 +858,7 @@ Ability: Fluffy Barrage This Pokémon may attack twice a turn. If the first atta
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![Gyarados VMAX](/images/418633357b9509e7.webp)
+![Gyarados VMAX](/images/129-1.webp)
 
 *Gyarados VMAX*
 
@@ -872,7 +872,7 @@ Ability: Fluffy Barrage This Pokémon may attack twice a turn. If the first atta
 
 </div><div class="jb-col-2">
 
-![Vaporeon VMAX](/images/f5662bcbf4fd739b.webp)
+![Vaporeon VMAX](/images/130-1.webp)
 
 *Vaporeon VMAX*
 
@@ -886,7 +886,7 @@ Ability: Fluffy Barrage This Pokémon may attack twice a turn. If the first atta
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Suicune V](/images/06f4df03d39e299e.webp)
+![Suicune V](/images/131-1.webp)
 
 *Suicune V*
 
@@ -900,7 +900,7 @@ Ability: Fleet Footed Once during your turn, if this Pokémon is in the Active S
 
 </div><div class="jb-col-2">
 
-![Wishiwashi](/images/6ecb879771cc3aca.webp)
+![Wishiwashi](/images/146-1.webp)
 
 *Wishiwashi*
 
@@ -914,7 +914,7 @@ Ability: Group Power If this Pokemon has 3 or more [W] Energy attached, it gets 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Raichu](/images/a075e3365b2a2001.webp)
+![Raichu](/images/150-1.webp)
 
 *Raichu*
 
@@ -928,7 +928,7 @@ Ability: Group Power If this Pokemon has 3 or more [W] Energy attached, it gets 
 
 </div><div class="jb-col-2">
 
-![Dracozolt VMAX](/images/0778ab52286b1019.webp)
+![Dracozolt VMAX](/images/159-1.webp)
 
 *Dracozolt VMAX*
 
@@ -942,7 +942,7 @@ Ability: Group Power If this Pokemon has 3 or more [W] Energy attached, it gets 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9b4a4bb91762f766.webp)
+![](/images/163-2.webp)
 
 *Galarian Articuno*
 
@@ -956,7 +956,7 @@ Ability: Cruel Charge When you play this Pokémon from your hand onto your Bench
 
 </div><div class="jb-col-2">
 
-![Golurk V](/images/41c5fc32ddd1172a.webp)
+![Golurk V](/images/170-2.webp)
 
 *Golurk V*
 
@@ -970,7 +970,7 @@ Ability: Cruel Charge When you play this Pokémon from your hand onto your Bench
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Espeon V](/images/bacfac9560e5ea5d.webp)
+![Espeon V](/images/164-2.webp)
 
 *Espeon V*
 
@@ -984,7 +984,7 @@ Ability: Cruel Charge When you play this Pokémon from your hand onto your Bench
 
 </div><div class="jb-col-2">
 
-![Espeon VMAX](/images/f5f9dab5d29017da.webp)
+![Espeon VMAX](/images/165-2.webp)
 
 *Espeon VMAX*
 
@@ -998,7 +998,7 @@ Ability: Solar Revelation Prevent all effects of attacks from your opponent’s 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Galarian Zapdos](/images/aaa3fd802200b34b.webp)
+![Galarian Zapdos](/images/182-2.webp)
 
 *Galarian Zapdos*
 
@@ -1012,7 +1012,7 @@ Ability: Strong Legs Charge When you play this Pokémon from your hand onto your
 
 </div><div class="jb-col-2">
 
-![Galarian Moltres](/images/88dc6164e8608843.webp)
+![Galarian Moltres](/images/193-2.webp)
 
 *Galarian Moltres*
 
@@ -1026,7 +1026,7 @@ Ability: Malevolent Charge When you play this Pokémon from your hand onto your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Dragonite V](/images/7f34ea88e0b09a88.webp)
+![Dragonite V](/images/1191-7f34ea.webp)
 
 *Dragonite V*
 
@@ -1042,7 +1042,7 @@ Ability: Malevolent Charge When you play this Pokémon from your hand onto your 
 
 </div><div class="jb-col-2">
 
-![Dialga](/images/d211d112480b03d2.webp)
+![Dialga](/images/1112.webp)
 
 *Dialga*
 
@@ -1056,7 +1056,7 @@ Ability: Malevolent Charge When you play this Pokémon from your hand onto your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Noivern V](/images/11d291c09a55bfc7.webp)
+![Noivern V](/images/1117.webp)
 
 *Noivern V*
 
@@ -1070,7 +1070,7 @@ Ability: Malevolent Charge When you play this Pokémon from your hand onto your 
 
 </div><div class="jb-col-2">
 
-![Rayquaza VMAX](/images/d2bd860e21d26be1.webp)
+![Rayquaza VMAX](/images/1111.webp)
 
 *Rayquaza VMAX*
 
@@ -1084,7 +1084,7 @@ Ability: Azure Pulse Once during your turn, you may discard your hand and draw 3
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Duraludon VMAX](/images/4d7f51edfae23cb4.webp)
+![Duraludon VMAX](/images/1123.webp)
 
 *Duraludon VMAX*
 
@@ -1098,7 +1098,7 @@ Ability: Skyscraper Prevent all damage done to this Pokémon by attacks from you
 
 </div><div class="jb-col-2">
 
-![Flapple](/images/23642e7f0e461179.webp)
+![Flapple](/images/1120.webp)
 
 *Flapple*
 
@@ -1112,7 +1112,7 @@ Ability: Skyscraper Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Appletun](/images/0ffb00468d43513d.webp)
+![Appletun](/images/1121.webp)
 
 *Appletun*
 
@@ -1126,7 +1126,7 @@ Ability: Skyscraper Prevent all damage done to this Pokémon by attacks from you
 
 </div><div class="jb-col-2">
 
-![Regidrago](/images/bf39e25c442f6819.webp)
+![Regidrago](/images/1124.webp)
 
 *Regidrago*
 
@@ -1140,7 +1140,7 @@ Ability: Skyscraper Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Smeargle](/images/4acfa93e289cd3aa.webp)
+![Smeargle](/images/1128.webp)
 
 *Smeargle*
 
@@ -1159,7 +1159,7 @@ Ability: Skyscraper Prevent all damage done to this Pokémon by attacks from you
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Copycat](/images/6f0f991dfb910817.webp)
+![Copycat](/images/1143.webp)
 
 *Copycat*
 
@@ -1173,7 +1173,7 @@ Shuffle your hand into your deck. Then, draw a card for each card in your oppone
 
 </div><div class="jb-col-2">
 
-![Gordie](/images/b08f78a54a9777be.webp)
+![Gordie](/images/1149.webp)
 
 *Gordie*
 
@@ -1185,7 +1185,7 @@ Look at the top 7 cards of your deck. You may reveal any number of Energy cards 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Raihan](/images/bdc5ee8faf0a8953.webp)
+![Raihan](/images/1152.webp)
 
 *Raihan*
 
@@ -1199,7 +1199,7 @@ Attach a basic Energy card from your discard pile to 1 of your Pokémon. If you 
 
 </div><div class="jb-col-2">
 
-![Zinnia’s Resolve](/images/34a6b7d8c7b9cbbe.webp)
+![Zinnia’s Resolve](/images/1164.webp)
 
 *Zinnia’s Resolve*
 
@@ -1220,7 +1220,7 @@ Draw a card for each of your opponent’s Pokémon in play.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Boost Shake](/images/30c54c3dcaed9eb8.webp)
+![Boost Shake](/images/1142.webp)
 
 *Boost Shake*
 
@@ -1232,7 +1232,7 @@ Search your deck for a card that evolves from 1 of your Pokémon and put it onto
 
 </div><div class="jb-col-2">
 
-![Dream Ball](/images/7f41f887f5622754.webp)
+![Dream Ball](/images/1146.webp)
 
 *Dream Ball*
 
@@ -1246,7 +1246,7 @@ Search your deck for a Pokémon and put it onto your bench. Then, shuffle your d
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Elemental Badge](/images/63921342429878ed.webp)
+![Elemental Badge](/images/1147.webp)
 
 *Elemental Badge*
 
@@ -1258,7 +1258,7 @@ If the Pokémon this card is attached to has Vaporeon V, Jolteon V, or Flareon V
 
 </div><div class="jb-col-2">
 
-![Full Face Guard](/images/ad05a521a6f370dd.webp)
+![Full Face Guard](/images/1148.webp)
 
 *Full Face Guard*
 
@@ -1270,7 +1270,7 @@ If the Pokémon this card is attached to has no Abilities, it takes 20 less dama
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Moon &amp; Sun Badge](/images/8b5c86c1e29b4702.webp)
+![Moon &amp; Sun Badge](/images/1151.webp)
 
 *Moon & Sun Badge*
 
@@ -1282,7 +1282,7 @@ If the Pokémon V this card is attached to has “Espeon” or “Umbreon” in 
 
 </div><div class="jb-col-2">
 
-![Rescue Carrier](/images/62e1aaab00486417.webp)
+![Rescue Carrier](/images/1154.webp)
 
 *Rescue Carrier*
 
@@ -1294,7 +1294,7 @@ Put up to 2 Pokémon, each with 90 HP or less, from your discard pile into your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Ribbon Badge](/images/e5a32ff43c28c4bd.webp)
+![Ribbon Badge](/images/1155.webp)
 
 *Ribbon Badge*
 
@@ -1306,7 +1306,7 @@ If the Pokémon V this card is attached to has “Sylveon” in its name and is 
 
 </div><div class="jb-col-2">
 
-![Frozen Badge](/images/d350a087dda1b4a6.webp)
+![Frozen Badge](/images/1159.webp)
 
 *Frozen Badge*
 
@@ -1318,7 +1318,7 @@ If the Pokémon V this card is attached to has “Leafeon” or “Glaceon” in
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Spirit Mask](/images/06668e698451fbc9.webp)
+![Spirit Mask](/images/1160.webp)
 
 *Spirit Mask*
 
@@ -1330,7 +1330,7 @@ If the Pokémon this card is attached to is in the Active Spot and is damaged by
 
 </div><div class="jb-col-2">
 
-![Toy Catcher](/images/41864e556843d105.webp)
+![Toy Catcher](/images/1163.webp)
 
 *Toy Catcher*
 
@@ -1349,7 +1349,7 @@ Switch 1 of your opponent’s Benched Pokémon that has 50 HP or less remaining 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Crystal Caves](/images/0754f20afb915524.webp)
+![Crystal Caves](/images/1144.webp)
 
 *Crystal Caves*
 
@@ -1361,7 +1361,7 @@ Once during each player’s turn, that player may heal 30 damage from each of th
 
 </div><div class="jb-col-2">
 
-![Shopping Center](/images/128fd9b4afc2916f.webp)
+![Shopping Center](/images/1157.webp)
 
 *Shopping Center*
 
@@ -1373,7 +1373,7 @@ Once during each player’s turn, that player may put a Pokémon Tool card attac
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Stormy Mountains](/images/39f0ddcba77c8d2e.webp)
+![Stormy Mountains](/images/1161.webp)
 
 *Stormy Mountains*
 
@@ -1385,7 +1385,7 @@ Once during each player’s turn, that player may search their deck for a Basic 
 
 </div><div class="jb-col-2">
 
-![Treasure Energy](/images/418291ec76b84f6d.webp)
+![Treasure Energy](/images/1165.webp)
 
 *Treasure Energy*
 

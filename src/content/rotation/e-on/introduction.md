@@ -1,6 +1,6 @@
 ---
 title: "Introduction RSG 2022-2023"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on/introduction"
 showHeading: false
 ---
@@ -13,13 +13,13 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/12659824c68adb59.webp)
+![](/images/battle-styles-on.webp)
 
 *The E regulation block, first introduced with Shining Fates and Battle Styles, is the first regulation block with cards legal in the 2022-2023 Standard format.*
 
 </div></div></div><div class="jb-col-4"></div></div>
 
-![](/images/2cd3b69acedec1c1.webp)
+![](/images/e-regulation-mark.webp)
 
 *The “E” regulation mark is circled in red above. The regulation mark makes it easy to identify cards that are legal in the Standard format.*
 
@@ -33,7 +33,7 @@ This rotation means that many cards that were familiar to players and commonplac
 
 
 
-![](/images/50e307727548d356.webp)
+![](/images/fst-237-r-en.webp)
 
 *As of this year’s rotation, Quick Ball will no longer be legal in the Standard format—not even its newer print in Fusion Strike.*
 

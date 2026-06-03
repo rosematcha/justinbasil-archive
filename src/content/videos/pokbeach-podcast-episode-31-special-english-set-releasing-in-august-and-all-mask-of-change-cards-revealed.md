@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 31: Special English Set Releasing in August and All \"Mask of Change\" Cards Revealed!"
 description: "This week we discuss a special English set releasing in August, our theories about its contents, the full reveal of \"Mask of Change,\" upcoming English and Japanese products, and more!"
-ogImage: "/images/44730b07e417ed95.webp"
+ogImage: "/images/nidoqueen-768x432-44730b.webp"
 publishDate: 2024-04-20
 youtubeId: "q_WpAwBJI_Q"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-31-special-english-set-releasing-in-august-and-all-mask-of-change-cards-revealed"
@@ -19,7 +19,7 @@ This week we discuss a special English set releasing in August, our theories abo
 
 
 
-![](/images/fff6869f121c66ce.webp)
+![](/images/nidoqueen-768x432.webp)
 
 
 

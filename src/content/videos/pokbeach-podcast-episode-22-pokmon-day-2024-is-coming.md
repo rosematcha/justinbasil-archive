@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 22: Pokémon Day 2024 is Coming!"
 description: "This week we discuss a new Ceruledge promo for Pokémon Day, our predictions for Pokémon Day, the set list for Prize Pack Series Four, new English products, and Temporal Forces!"
-ogImage: "/images/44d2a67507a6a5d0.webp"
+ogImage: "/images/fearow-768x432-44d2a6.webp"
 publishDate: 2024-02-09
 youtubeId: "ZKsOy4_vDDM"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-22-pokmon-day-2024-is-coming"
@@ -19,7 +19,7 @@ This week we discuss a new Ceruledge promo for Pokémon Day, our predictions for
 
 
 
-![](/images/d090fc5697b0ded0.webp)
+![](/images/fearow-768x432.webp)
 
 
 

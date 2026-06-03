@@ -1,6 +1,6 @@
 ---
 title: "Hall of Fame Format"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/formats/hall-of-fame"
 showHeading: false
 ---
@@ -38,55 +38,55 @@ For an alternate point Hall of Fame point system proposed by Charlie Lockyer, re
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Shaymin-EX ROS 77](/images/5b8474611bbc2b27.webp)
+![Shaymin-EX ROS 77](/images/en-us-xy6-077-shaymin-ex.webp)
 
 *Shaymin-EX ROS 77*
 
 </div><div class="jb-col-2">
 
-![Seeker TM 88](/images/36c1fc961c683453.webp)
+![Seeker TM 88](/images/en-us-hgss4-088-seeker.webp)
 
 *Seeker TM 88*
 
 </div><div class="jb-col-2">
 
-![Unown R LA 77](/images/c1fa2cf9d8a8a29c.webp)
+![Unown R LA 77](/images/unown-r-legends-awakened-la-77.webp)
 
 *Unown R LA 77*
 
 </div><div class="jb-col-2">
 
-![Azelf LA 19](/images/57f49006c1782a6c.webp)
+![Azelf LA 19](/images/azelf-legends-awakened-la-19.webp)
 
 *Azelf LA 19*
 
 </div><div class="jb-col-2">
 
-![Stark Mountain LA 135](/images/fbddb48394e034e1.webp)
+![Stark Mountain LA 135](/images/stark-mountain-legends-awakened-la-135.webp)
 
 *Stark Mountain LA 135*
 
 </div><div class="jb-col-2">
 
-![Poké Drawer + SF  89](/images/214250b752bb2fb0.webp)
+![Poké Drawer + SF  89](/images/poke-drawer-stormfront-sf-89.webp)
 
 *Poké Drawer + SF 89*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Crobat G PL 47](/images/347bda76335391d5.webp)
+![Crobat G PL 47](/images/crobat-g-platinum-pl-47.webp)
 
 *Crobat G PL 47*
 
 </div><div class="jb-col-2">
 
-![Weavile UD 25](/images/bcc0bc160e00abde.webp)
+![Weavile UD 25](/images/en-us-hgss3-025-weavile.webp)
 
 *Weavile UD 25*
 
 </div><div class="jb-col-2">
 
-![Hypnotoxic Laser PLS 123](/images/a2073ff905e036da.webp)
+![Hypnotoxic Laser PLS 123](/images/en-us-bw8-123-hypnotoxic-laser.webp)
 
 *Hypnotoxic Laser PLS 123*
 
@@ -96,43 +96,43 @@ For an alternate point Hall of Fame point system proposed by Charlie Lockyer, re
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Claydol GE 15](/images/9b5cef6d6bc3e75c.webp)
+![Claydol GE 15](/images/claydol-great-encounters-ge-15.webp)
 
 *Claydol GE 15*
 
 </div><div class="jb-col-2">
 
-![Forest of Giant Plants AOR 74](/images/fa51592d2333acfa.webp)
+![Forest of Giant Plants AOR 74](/images/en-us-xy7-074-forest-of-giant-plants.webp)
 
 *Forest of Giant Plants AOR 74*
 
 </div><div class="jb-col-2">
 
-![Time-Space Distortion MT 124](/images/b7440a34f6edbba8.webp)
+![Time-Space Distortion MT 124](/images/time-space-distortion-mysterious-treasures-mt-124.webp)
 
 *Time-Space Distortion MT 124*
 
 </div><div class="jb-col-2">
 
-![Cyrus’s Initiative SV 137](/images/cd1d90bc808b938e.webp)
+![Cyrus’s Initiative SV 137](/images/cyruss-initiative-supreme-victors-sv-137.webp)
 
 *Cyrus’s Initiative SV 137*
 
 </div><div class="jb-col-2">
 
-![Junk Arm TM 87](/images/21adafcafd7f786b.webp)
+![Junk Arm TM 87](/images/en-us-hgss4-087-junk-arm.webp)
 
 *Junk Arm TM 87*
 
 </div><div class="jb-col-2">
 
-![Mew TM 97](/images/df6747ed1d3f7df2.webp)
+![Mew TM 97](/images/en-us-hgss4-097-mew.webp)
 
 *Mew TM 97*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Archeops NVI 67](/images/22e9f624c824b730.webp)
+![Archeops NVI 67](/images/en-us-bw3-067-archeops.webp)
 
 *Archeops NVI 67*
 
@@ -142,37 +142,37 @@ For an alternate point Hall of Fame point system proposed by Charlie Lockyer, re
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Shiftry NXD 72](/images/48d76f1321da346f.webp)
+![Shiftry NXD 72](/images/en-us-bw4-072-shiftry.webp)
 
 *Shiftry NXD 72*
 
 </div><div class="jb-col-2">
 
-![Forretress LA 28](/images/1995dc3c1ba367fa.webp)
+![Forretress LA 28](/images/forrestress-legends-awakened-la-28.webp)
 
 *Forretress LA 28*
 
 </div><div class="jb-col-2">
 
-![Porygon2 GE 49](/images/a8b5a8e66a1282d6.webp)
+![Porygon2 GE 49](/images/porygon2-great-encounters-ge-49.webp)
 
 *Porygon2 GE 49*
 
 </div><div class="jb-col-2">
 
-![Uxie LA 43](/images/b8bbea36617b1a6c.webp)
+![Uxie LA 43](/images/uxie-legends-awakened-la-43.webp)
 
 *Uxie LA 43*
 
 </div><div class="jb-col-2">
 
-![Broken Space-Time PL 104](/images/a53e6f9ab8b6b7f6.webp)
+![Broken Space-Time PL 104](/images/broken-time-space-platinum-pl-104.webp)
 
 *Broken Space-Time PL 104*
 
 </div><div class="jb-col-2">
 
-![Shuckle HGSS15](/images/8d6d631dfc423e0f.webp)
+![Shuckle HGSS15](/images/en-us-promo-hgss-hgss15-shuckle.webp)
 
 *Shuckle HGSS15*
 

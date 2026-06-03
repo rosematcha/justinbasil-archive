@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 3: Dragapult ex vs. Feraligatr"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/2aad07462cea3a1d.webp"
+ogImage: "/images/part-3-2aad07.webp"
 publishDate: 2025-02-08
 youtubeId: "fbWk_2gLH8M"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-3-dragapult-ex-vs-feraligatr"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/7f5dca5b0a750dcd.webp)
+![](/images/part-3-7f5dca.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Translations"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 publishDate: 2025-05-03
 sourceUrl: "https://www.justinbasil.com/translations"
 showHeading: false

@@ -1,7 +1,7 @@
 ---
 title: "Prismatic Evolutions Early Testing, Bonus 3: Festival Grounds vs. Jolteon ex"
 description: "In this week's bonus video, Jolteon ex and Festival Ground fight to see who the real life of the party is.   Prismatic Evolutions Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/ca70568e536733d6.webp"
+ogImage: "/images/bonus-3-ca7056.webp"
 publishDate: 2025-01-01
 youtubeId: "Ku8WKvjsy94"
 sourceUrl: "https://www.justinbasil.com/videos/prismatic-evolutions-early-testing-bonus-3-festival-grounds-vs-jolteon-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Jolteon ex and Festival Ground fight to see who the 
 
 
 
-![](/images/ef19eac8b361ebf7.webp)
+![](/images/bonus-3-ef19ea.webp)
 
 
 

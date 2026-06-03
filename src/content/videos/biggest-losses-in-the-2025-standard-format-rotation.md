@@ -1,7 +1,7 @@
 ---
 title: "Biggest Losses in the 2025 Standard Format Rotation"
 description: "Rotation has been announced for 2025! It hits PTCGL March 27th and IRL play on April 11th!   Let's look at some of the biggest losses in this year's Standard format rotation."
-ogImage: "/images/14e433ff56ac8936.webp"
+ogImage: "/images/20-biggest-loses-2025-rotation-14e433.webp"
 publishDate: 2025-01-15
 youtubeId: "H7dlOHpHnaQ"
 sourceUrl: "https://www.justinbasil.com/videos/biggest-losses-in-the-2025-standard-format-rotation"
@@ -21,7 +21,7 @@ Let's look at some of the biggest losses in this year's Standard format rotation
 
 
 
-![](/images/2233f5a0c510f293.webp)
+![](/images/20-biggest-loses-2025-rotation.webp)
 
 
 

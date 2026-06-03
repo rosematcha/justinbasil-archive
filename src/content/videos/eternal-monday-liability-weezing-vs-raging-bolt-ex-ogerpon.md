@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Liability Weezing vs. Raging Bolt ex / Ogerpon"
 description: "In this week's Eternal Monday, Liability Weezing takes Raging Bolt and Ogerpon on a truly explosive journey."
-ogImage: "/images/a64b24ce7938c5da.webp"
+ogImage: "/images/05-weezing-raging-bolt-a64b24.webp"
 publishDate: 2025-06-02
 youtubeId: "37HJ3H57qWo"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-liability-weezing-vs-raging-bolt-ex-ogerpon"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Liability Weezing takes Raging Bolt and Ogerpon o
 
 
 
-![](/images/db2e9c90eea5b06b.webp)
+![](/images/05-weezing-raging-bolt.webp)
 
 
 

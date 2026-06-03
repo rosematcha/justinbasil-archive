@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Fusion Dragapult vs. Darkrai VSTAR (First Draft Monday!)"
 description: "In today's Eternal Monday, we take a different approach to Eternal Monday by taking the first drafts of two of our decks and pitting them against one another. Today, the Dragapult from Fusion Strike prepares to send its Dreepy flying against Darkrai VSTAR!"
-ogImage: "/images/2018dac597c5e580.webp"
+ogImage: "/images/first-drafts-9-darkrai-vstar-vs-fusion-dragapult-2018da.webp"
 publishDate: 2024-11-04
 youtubeId: "ucBTynoU0YA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-fusion-dragapult-vs-darkrai-vstar-first-draft-monday"
@@ -19,7 +19,7 @@ In today's Eternal Monday, we take a different approach to Eternal Monday by tak
 
 
 
-![](/images/d7c0ee6d0af6138a.webp)
+![](/images/first-drafts-9-darkrai-vstar-vs-fusion-dragapult.webp)
 
 
 

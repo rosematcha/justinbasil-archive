@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Raging Bolt ex / Naganadel vs. Banette ex / Vileplume"
 description: "On today's Eternal Monday, Raging Bolt ex pairs up with Naganadel to take on the Eternal format's old boogeyman, Banette ex / Vileplume!"
-ogImage: "/images/0ed5790610bc2e38.webp"
+ogImage: "/images/02-raging-bolt-ex-v-banette-ex-vileplume-0ed579.webp"
 publishDate: 2025-05-19
 youtubeId: "MHJ-cu4TW8g"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-raging-bolt-ex-naganadel-vs-banette-ex-vileplume"
@@ -19,7 +19,7 @@ On today's Eternal Monday, Raging Bolt ex pairs up with Naganadel to take on the
 
 
 
-![](/images/7d0435e648a6fece.webp)
+![](/images/02-raging-bolt-ex-v-banette-ex-vileplume.webp)
 
 
 

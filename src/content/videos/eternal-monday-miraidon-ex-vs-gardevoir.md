@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Miraidon ex vs. Gardevoir"
 description: "In today's Eternal Monday, an Eternal format version of Miraidon ex takes on a Gardevoir Toolbox deck!"
-ogImage: "/images/a56cfeef75b23736.webp"
+ogImage: "/images/miraidon-v-gardevoir-a56cfe.webp"
 publishDate: 2024-03-25
 youtubeId: "k4I-GBJ9ESE"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-miraidon-ex-vs-gardevoir"
@@ -19,7 +19,7 @@ In today's Eternal Monday, an Eternal format version of Miraidon ex takes on a G
 
 
 
-![](/images/d5aa889a820d39be.webp)
+![](/images/miraidon-v-gardevoir.webp)
 
 
 

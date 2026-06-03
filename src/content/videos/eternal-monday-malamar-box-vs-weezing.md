@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Malamar Box vs. Weezing"
 description: "In today's Eternal Monday, it's Malamar Box vs. Weezing in the latest Eternal format brawl. Will Malamar come out on top or will Weezing's Liability prove too much for Malamar to handle?  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/d55bbcd5da243717.webp"
+ogImage: "/images/weezing-v-malamar-d55bbc.webp"
 publishDate: 2024-01-15
 youtubeId: "A2izabXHYiI"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-malamar-box-vs-weezing"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/11d376d410d8691a.webp)
+![](/images/weezing-v-malamar.webp)
 
 
 

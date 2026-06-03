@@ -1,13 +1,13 @@
 ---
 title: "Highlights from Fusion Strike"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss8"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![Pokemon_TCG_Sword_Shield—Fusion_Strike_Logo.png](/images/b116d952c7586454.webp)
+![Pokemon_TCG_Sword_Shield—Fusion_Strike_Logo.png](/images/pokemon-tcg-sword-shield-fusion-strike-logo.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -55,55 +55,55 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/115fbb3770c26f44.webp)
+![](/images/1245-3.webp)
 
 *Celebi V*
 
 </div><div class="jb-col-2">
 
-![](/images/71117a21ad84f6a2.webp)
+![](/images/1266-3.webp)
 
 *Inteleon VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/39666446bdbd7ab6.webp)
+![](/images/1251-3.webp)
 
 *Mew V*
 
 </div><div class="jb-col-2">
 
-![](/images/1eaca5da53984265.webp)
+![](/images/1269-3.webp)
 
 *Mew VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/f4e3db771fc5da1b.webp)
+![](/images/1270-3.webp)
 
 *Espeon VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/f79bd36cea5ca72a.webp)
+![](/images/1252-3.webp)
 
 *Sandaconda V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6b50892135b2a816.webp)
+![](/images/1271-3.webp)
 
 *Gengar VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/cf92e1e8d7a4534e.webp)
+![](/images/1255-3.webp)
 
 *Genesect V*
 
 </div><div class="jb-col-2">
 
-![](/images/7f7808e81b09890b.webp)
+![](/images/1257-3.webp)
 
 *Greedent V*
 
@@ -116,43 +116,43 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/a9315404a6f8e827.webp)
+![](/images/1258-3.webp)
 
 *Chili & Cilan & Cress*
 
 </div><div class="jb-col-2">
 
-![](/images/a295023a9db20c5a.webp)
+![](/images/1259-3.webp)
 
 *Dancer*
 
 </div><div class="jb-col-2">
 
-![](/images/6f281d80c4b7f3a4.webp)
+![](/images/1260-3.webp)
 
 *Elesa’s Sparkle*
 
 </div><div class="jb-col-2">
 
-![](/images/e44b5d496f3db3be.webp)
+![](/images/1261-3.webp)
 
 *School Boy*
 
 </div><div class="jb-col-2">
 
-![](/images/a9dfdb4a5600069b.webp)
+![](/images/1262-3.webp)
 
 *School Girl*
 
 </div><div class="jb-col-2">
 
-![](/images/a125ffc765534754.webp)
+![](/images/1263-3.webp)
 
 *Shauna*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/08942259633f6d00.webp)
+![](/images/1264-3.webp)
 
 *Sidney*
 
@@ -165,49 +165,49 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/eac7ade5d04cf7ee.webp)
+![](/images/1246-3.webp)
 
 *Tsareena V*
 
 </div><div class="jb-col-2">
 
-![](/images/1ba0204dbb1e922e.webp)
+![](/images/1247-2.webp)
 
 *Chandelure V*
 
 </div><div class="jb-col-2">
 
-![](/images/4823b109a87f3a6b.webp)
+![](/images/1248-3.webp)
 
 *Crabominable V*
 
 </div><div class="jb-col-2">
 
-![](/images/99c612812ba14f78.webp)
+![](/images/1249-3.webp)
 
 *Boltund V*
 
 </div><div class="jb-col-2">
 
-![](/images/de0119f7952263d4.webp)
+![](/images/1250-3.webp)
 
 *Mew V*
 
 </div><div class="jb-col-2">
 
-![](/images/e30bad86a71524d2.webp)
+![](/images/1253-3.webp)
 
 *Hoopa V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d7d0f11fd66c25c2.webp)
+![](/images/1254-3.webp)
 
 *Genesect V*
 
 </div><div class="jb-col-2">
 
-![](/images/4e3df0edadd34b44.webp)
+![](/images/1256-3.webp)
 
 *Greedent V*
 
@@ -220,7 +220,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/67e8ba3d57c61e69.webp)
+![](/images/1280-3.webp)
 
 *Flaaffy*
 
@@ -233,25 +233,25 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/833d5a6b5eb7156b.webp)
+![](/images/1265-3.webp)
 
 *Chandelure VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/2e261801c94e2fa6.webp)
+![](/images/1267-3.webp)
 
 *Boltund VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/780382cbfaec0a6c.webp)
+![](/images/1268-3.webp)
 
 *Mew VMAX*
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/21aa97717b7e0790.webp)
+![](/images/1272-3.webp)
 
 *Greedent VMAX*
 
@@ -264,43 +264,43 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/a97efc3f73923732.webp)
+![](/images/173-4.webp)
 
 *Greninja V*
 
 </div><div class="jb-col-2">
 
-![](/images/3c4384567a76bbf4.webp)
+![](/images/186-3.webp)
 
 *Pikachu V*
 
 </div><div class="jb-col-2">
 
-![](/images/56dbf36a9fb82e0b.webp)
+![](/images/1113-1.webp)
 
 *Mew V*
 
 </div><div class="jb-col-2">
 
-![](/images/2a8a9a6970c147dd.webp)
+![](/images/1114-1.webp)
 
 *Mew VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/3659aa315da329a8.webp)
+![](/images/1156-2.webp)
 
 *Gengar V*
 
 </div><div class="jb-col-2">
 
-![](/images/d5a0fcfc20b6577a.webp)
+![](/images/1157-2.webp)
 
 *Gengar VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ad3f72788f607488.webp)
+![](/images/1205-2.webp)
 
 *Eevee*
 
@@ -313,37 +313,37 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/63e15e80641a6157.webp)
+![](/images/1273-3.webp)
 
 *Chili & Cilan & Cress*
 
 </div><div class="jb-col-2">
 
-![](/images/59bed21175abc031.webp)
+![](/images/1274-3.webp)
 
 *Dancer*
 
 </div><div class="jb-col-2">
 
-![](/images/ef95f912695fbb33.webp)
+![](/images/1275-3.webp)
 
 *Elesa’s Sparkle*
 
 </div><div class="jb-col-2">
 
-![](/images/615ed856aad31673.webp)
+![](/images/1276-3.webp)
 
 *School Boy*
 
 </div><div class="jb-col-2">
 
-![](/images/1ddde26b23a99428.webp)
+![](/images/1277-3.webp)
 
 *School Girl*
 
 </div><div class="jb-col-2">
 
-![](/images/0b275301095460e2.webp)
+![](/images/1263-3-0b2753.webp)
 
 *Shauna*
 
@@ -352,7 +352,7 @@ The following are likely to be the most sought after cards from the set by colle
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/21644980891ce908.webp)
+![](/images/1264-3-216449.webp)
 
 *Sidney*
 
@@ -362,25 +362,25 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ff1c2da1e2b0d12e.webp)
+![](/images/1281-3.webp)
 
 *Power Tablets*
 
 </div><div class="jb-col-2">
 
-![](/images/81af37802c5205e2.webp)
+![](/images/1282-3.webp)
 
 *Training Court*
 
 </div><div class="jb-col-2">
 
-![](/images/31193b8e3f0507c0.webp)
+![](/images/1283-3.webp)
 
 *Grass Energy*
 
 </div><div class="jb-col-2">
 
-![](/images/c858a2eeed495315.webp)
+![](/images/1284-3.webp)
 
 *Fire Energy*
 
@@ -397,7 +397,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/435e0efa76edccd4.webp)
+![](/images/142-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -409,7 +409,7 @@ Ability: Lesson in Zeal All of your Fusion Strike Pokémon take 20 less damage f
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0ff2b5f84bcc83e4.webp)
+![](/images/166-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -421,7 +421,7 @@ Ability: Single Strike Jammer Your opponent’s Single Strike Pokémon’s attac
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2d50a221ff31d883.webp)
+![](/images/167-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -433,7 +433,7 @@ Ability: Rapid Strike Canceler Your opponent’s Rapid Strike Pokémon in play h
 
 </div><div class="jb-col-2">
 
-![](/images/1cd19df0fa4fc4bf.webp)
+![](/images/179-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -445,7 +445,7 @@ Ability: Double Gunner You must discard a [W] Energy card from your hand in orde
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9b03203ef4467c7b.webp)
+![](/images/1108-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -457,7 +457,7 @@ Ability: Maximum Downer If all of your Pokéon in play are Fusion Strike Pokémo
 
 </div><div class="jb-col-2">
 
-![](/images/2b4445a6cf74a0be.webp)
+![](/images/1116-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -469,7 +469,7 @@ Ability: Dig Up When you play this Pokémon from your hand to evolve 1 of your P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ace25f7e977992af.webp)
+![](/images/1185-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -481,7 +481,7 @@ Ability: Fusion Strike System Once during your turn, you may draw cards until yo
 
 </div><div class="jb-col-2">
 
-![](/images/cc59915e4b75aab7.webp)
+![](/images/1207-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -500,7 +500,7 @@ Ability: Mysterious Nest [C] Pokémon in play <em>(both yours and your opponent�
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/8b20dcea89519c6c.webp)
+![](/images/121-7.webp)
 
 </div><div class="jb-col-4">
 
@@ -510,7 +510,7 @@ Ability: Mysterious Nest [C] Pokémon in play <em>(both yours and your opponent�
 
 </div><div class="jb-col-2">
 
-![](/images/9c30ec4000d560a9.webp)
+![](/images/140-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -522,7 +522,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/adf3ece80bcd096b.webp)
+![](/images/153-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -532,7 +532,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div><div class="jb-col-2">
 
-![](/images/aa1b7036f1a45b46.webp)
+![](/images/170-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -542,7 +542,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2fdeb5d72d317a43.webp)
+![](/images/176-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -554,7 +554,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div><div class="jb-col-2">
 
-![](/images/11d19258acd227f6.webp)
+![](/images/1114-1-11d192.webp)
 
 </div><div class="jb-col-4">
 
@@ -566,7 +566,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0d87294eeadbf4f0.webp)
+![](/images/1118-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -578,7 +578,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div><div class="jb-col-2">
 
-![](/images/17f7e981db58965b.webp)
+![](/images/1120-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -588,7 +588,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f5a5cf806a28deba.webp)
+![](/images/1124-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -598,7 +598,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div><div class="jb-col-2">
 
-![](/images/c162fbaeef6d674a.webp)
+![](/images/1139-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -610,7 +610,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9cc310d4b9f7d15a.webp)
+![](/images/1157-2-9cc310.webp)
 
 </div><div class="jb-col-4">
 
@@ -622,7 +622,7 @@ Ability: Cursed Shimmer As long as this Pokémon is in the Active Spot, your opp
 
 </div><div class="jb-col-2">
 
-![](/images/d5badabf8870d5e4.webp)
+![](/images/1253-3-d5bada.webp)
 
 </div><div class="jb-col-4">
 
@@ -636,7 +636,7 @@ Ability: Two-Faced As long as this Pokémon is in play, it is [P] and [D] type.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/82c1f37356de42ea.webp)
+![](/images/1179-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -646,7 +646,7 @@ Ability: Two-Faced As long as this Pokémon is in play, it is [P] and [D] type.
 
 </div><div class="jb-col-2">
 
-![](/images/82da0bb48585352e.webp)
+![](/images/1193-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -658,7 +658,7 @@ Ability: Red Assist Once during your turn, you may attach a [P] card from your h
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/73cd99a9e9506873.webp)
+![](/images/1194-2.webp)
 
 </div><div class="jb-col-4">
 
@@ -670,7 +670,7 @@ Ability: Blue Assist Once during your turn, you may use this Ability. Attach a [
 
 </div><div class="jb-col-2">
 
-![](/images/0752cb8782a64701.webp)
+![](/images/1218-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -689,7 +689,7 @@ Ability: Blue Assist Once during your turn, you may use this Ability. Attach a [
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/772db9643fa89aea.webp)
+![](/images/1224-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -699,7 +699,7 @@ Search your deck for up to 3 Pokémon V, reveal them, and put them into your han
 
 </div><div class="jb-col-2">
 
-![](/images/0974e372e056281c.webp)
+![](/images/1227-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -709,7 +709,7 @@ Search your deck for up to 3 Fusion Strike Pokémon, reveal them, and put them i
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/287b2de2db77fd10.webp)
+![](/images/1233-3.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -719,7 +719,7 @@ Choose up to 2 of your Fusion Strike Pokémon. For each of those Pokémon, searc
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2895abffddb719c7.webp)
+![](/images/1235-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -729,7 +729,7 @@ Each player shuffles their hand into their deck and draws 4 cards.
 
 </div></div></div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/abee66bc65b0fc82.webp)
+![](/images/1240.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -739,7 +739,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c6d31465e5f96349.webp)
+![](/images/1241.webp)
 
 </div><div class="jb-col-4">
 
@@ -756,7 +756,7 @@ Your opponent reveals their hand. Discard up to 2 in any combination of Pokémon
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/468f0c7c3a4bf178.webp)
+![](/images/1229-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -768,7 +768,7 @@ Flip a coin. If heads, search your deck for a card and put it into your hand. Th
 
 </div><div class="jb-col-2">
 
-![](/images/f60565c844361a99.webp)
+![](/images/1231-5.webp)
 
 </div><div class="jb-col-4">
 
@@ -780,7 +780,7 @@ Put a Pokémon or Supporter card from your discard pile into your hand.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/678f0faa932d73ef.webp)
+![](/images/1230-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -792,7 +792,7 @@ Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. If you 
 
 </div><div class="jb-col-2">
 
-![](/images/ddc76dd7748252c9.webp)
+![](/images/1234-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -805,7 +805,7 @@ When the Pokémon VMAX this card is attached to is Knocked Out by damage from an
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b69fc8468c012d8d.webp)
+![](/images/1236-3.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -819,7 +819,7 @@ During this turn, your Fusion Strike Pokémon’s attacks do 30 more damage to y
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/132282e7aee42f32.webp)
+![](/images/1242.webp)
 
 </div><div class="jb-col-4">
 
@@ -829,7 +829,7 @@ Whenever either player’s Active Pokémon retreats, put any basic Energy that w
 
 </div><div class="jb-col-2">
 
-![](/images/237f53872bceb5a5.webp)
+![](/images/1244.webp)
 
 </div><div class="jb-col-4">
 

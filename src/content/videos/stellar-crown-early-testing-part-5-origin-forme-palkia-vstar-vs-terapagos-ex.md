@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Part 5: Origin Forme Palkia VSTAR vs. Terapagos ex"
 description: "Now that we've seen the full reveal of Stellar Miracle from Japan, let's look at what's coming in September! Check out these links to learn more!   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/2c083f38887b9e2c.webp"
+ogImage: "/images/part-5-2c083f.webp"
 publishDate: 2024-08-17
 youtubeId: "YuIUkaQZ3IE"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-5-origin-forme-palkia-vstar-vs-terapagos-ex"
@@ -27,7 +27,7 @@ Now that we've seen the full reveal of Stellar Miracle from Japan, let's look at
 
 
 
-![](/images/ecd42bca46a83b84.webp)
+![](/images/part-5-ecd42b.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 74: Stunning New \"Mega Evolution\" Cards and Mega Dragonite Revealed!"
 description: "This week we discuss this morning's Pokémon Presents, including new \"Mega Evolution\" cards, Mega Dragonite, upcoming changes to booster packs, new promo cards, and more!"
-ogImage: "/images/9009c481b27b6769.webp"
+ogImage: "/images/geodude-9009c4.webp"
 publishDate: 2025-07-22
 youtubeId: "pembXpuKoYM"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-74-stunning-new-mega-evolution-cards-and-mega-dragonite-revealed"
@@ -19,7 +19,7 @@ This week we discuss this morning's Pokémon Presents, including new "Mega Evolu
 
 
 
-![](/images/63b01407d0059872.webp)
+![](/images/geodude-63b014.webp)
 
 
 

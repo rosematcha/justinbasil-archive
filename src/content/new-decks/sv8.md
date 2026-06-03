@@ -1,6 +1,6 @@
 ---
 title: "Surging Sparks (SSP, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "kjV3TTl2YyU"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv8"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/36284b3570417977.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-surging-sparks-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-white-center-margin5">New Decks from Surging Sparks</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
@@ -54,7 +54,7 @@ With the arrival of Surging Sparks in November, we’ll have a handful of new de
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1c93d38c8add7cad.webp)
+![](/images/ceruledge-ex-1c93d3.webp)
 
 *Illus. 5ban Graphics*
 
@@ -101,7 +101,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/ac9b3dfaf891bd80.webp)
+![](/images/scovillain-ex-ssp.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -140,7 +140,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/fc205ec7588ed319.webp)
+![](/images/pikachu-ex-ssp.webp)
 
 *Illus. aky CG Works*
 
@@ -179,7 +179,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/c18bd1729e9bbdc2.webp)
+![](/images/azumarill-c18bd1.webp)
 
 *Illus. Orca*
 
@@ -221,7 +221,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/cbf0909c4a73ecf3.webp)
+![](/images/sylveon-ex-cbf090.webp)
 
 *Illus. 5ban Graphics*
 
@@ -260,7 +260,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/92e7aa5a75139b07.webp)
+![](/images/flygon-ex-92e7aa.webp)
 
 *Illus. 5ban Graphics*
 
@@ -299,7 +299,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/06303f3ced12b86a.webp)
+![](/images/hydreigon-ex-06303f.webp)
 
 *Illus. 5ban Graphics*
 
@@ -338,7 +338,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/37744721d2bf4109.webp)
+![](/images/archaludon-ex-377447.webp)
 
 *Illus. 5ban Graphics*
 
@@ -377,7 +377,7 @@ Coming soon.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2899245960e6a427.webp)
+![](/images/a-exeggutor-ex.webp)
 
 *Illus. aky CG Works*
 

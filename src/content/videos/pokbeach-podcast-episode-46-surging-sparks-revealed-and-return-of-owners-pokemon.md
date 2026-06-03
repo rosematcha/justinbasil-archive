@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 46: \"Surging Sparks\" Revealed and Return of Owner's Pokemon!"
 description: "This week we have an extra-long episode discussing \"Surging Sparks,\" the return of beloved Owner's Pokémon, Pokémon TCG Pocket, Worlds, the first \"Paradise Dragona\" cards, two new Ultra-Premium Collections, and much more!"
-ogImage: "/images/952c7cd2c63c295d.webp"
+ogImage: "/images/paras-768x432-952c7c.webp"
 publishDate: 2024-08-24
 youtubeId: "JGWHqadP1V0"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-46-surging-sparks-revealed-and-return-of-owners-pokemon"
@@ -19,7 +19,7 @@ This week we have an extra-long episode discussing "Surging Sparks," the return 
 
 
 
-![](/images/31a654abb1c95422.webp)
+![](/images/paras-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Bonus 6: Hydreigon ex vs. The World"
 description: "In this week’s bonus video, Hydreigon ex takes on the Standard format meta as it takes on the world. Its challenger: LUGIA VSTAR!  Check out these links to learn more about Surging Sparks!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected P"
-ogImage: "/images/00f1cd91051cf181.webp"
+ogImage: "/images/bonus-6-00f1cd.webp"
 publishDate: 2024-10-30
 youtubeId: "Bpcab5_R7h8"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-bonus-6-hydreigon-ex-vs-the-world"
@@ -29,7 +29,7 @@ Check out these links to learn more about Surging Sparks!
 
 
 
-![](/images/b33c371e951334e3.webp)
+![](/images/bonus-6-b33c37.webp)
 
 
 

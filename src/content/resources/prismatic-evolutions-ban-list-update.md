@@ -1,7 +1,7 @@
 ---
 title: "Prismatic Evolutions Eternal Format Ban List Update"
 description: "The following cards, and any alternate printings they may have, are now banned in the Eternal format, effectively immediately."
-ogImage: "/images/551065b03c1111d0.webp"
+ogImage: "/images/131-area-zero-underdepths-stellar-crown-551065.webp"
 publishDate: 2025-01-09
 sourceUrl: "https://www.justinbasil.com/resources/prismatic-evolutions-ban-list-update"
 showHeading: false
@@ -21,7 +21,7 @@ The following cards, and any alternate printings they may have, are now banned i
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/25ad84c598b9f41b.webp)
+![](/images/131-area-zero-underdepths-stellar-crown.webp)
 
 </div><div class="jb-col-3">
 
@@ -31,7 +31,7 @@ Because a similar and less-exploitable card exists in the form of Sky Field, thi
 
 </div><div class="jb-col-2">
 
-![](/images/8d83603c0f6e9bc4.webp)
+![](/images/celebi-ex.webp)
 
 </div><div class="jb-col-5">
 
@@ -41,7 +41,7 @@ Thus, for the same reasons as Puzzle of Time, Celebi P2 17 has now joined the Et
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1c7232cd14b51378.webp)
+![](/images/sum-095-r-en.webp)
 
 </div><div class="jb-col-3">
 

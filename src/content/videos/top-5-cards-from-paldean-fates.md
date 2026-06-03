@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Cards from Paldean Fates!"
 description: "Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/f0608d3541cd54e5.webp"
+ogImage: "/images/top-5-from-paldean-fates-f0608d.webp"
 publishDate: 2024-01-17
 youtubeId: "cLcfCETigoc"
 sourceUrl: "https://www.justinbasil.com/videos/top-5-cards-from-paldean-fates"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/cb77bedcb074c7d0.webp)
+![](/images/top-5-from-paldean-fates.webp)
 
 
 

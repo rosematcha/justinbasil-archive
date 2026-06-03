@@ -1,7 +1,7 @@
 ---
 title: "August 2023 Eternal Format Tournament (Full Tournament)"
 description: "Watch the August 2023 Eternal Format tournament at Dragon's Lair at Alamo Ranch!  With ten players, this tournament had three best of one Swiss rounds followed by a Top Two finals best of three match!  Learn more about the Eternal format here:    https://www.justinbasil.com/eternal"
-ogImage: "/images/cdbaea8b44f7b003.webp"
+ogImage: "/images/main-thumbnail-cdbaea.webp"
 publishDate: 2023-09-28
 youtubeId: "-pDI7vPK1zE"
 sourceUrl: "https://www.justinbasil.com/videos/august-2023-eternal-format-tournament-full-tournament"
@@ -25,7 +25,7 @@ Learn more about the Eternal format here:
 
 
 
-![](/images/1938e2266a879928.webp)
+![](/images/main-thumbnail.webp)
 
 
 

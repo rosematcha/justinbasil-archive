@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing Part 5: Torterra ex vs. Future Box"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game. Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/9a669b588cdb4406.webp"
+ogImage: "/images/part-5-9a669b.webp"
 publishDate: 2024-02-02
 youtubeId: "ILH6nIDyAF0"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-5-torterra-ex-vs-future-box"
@@ -27,7 +27,7 @@ Our testing of Temporal Forces continues! We now look to the post-rotation Tempo
 
 
 
-![](/images/1a3dd9b8fd968d90.webp)
+![](/images/part-5-1a3dd9.webp)
 
 
 

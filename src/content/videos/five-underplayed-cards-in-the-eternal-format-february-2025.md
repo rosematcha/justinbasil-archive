@@ -1,7 +1,7 @@
 ---
 title: "Five Underplayed Cards in the Eternal Format (February 2025)"
 description: "In this week's Eternal Monday, we have a quick think about some severely underplayed cards in the Eternal Format!"
-ogImage: "/images/0aeb7e6c447692ef.webp"
+ogImage: "/images/5-underplayed-cards-eternal-feb-2025-0aeb7e.webp"
 publishDate: 2025-02-24
 youtubeId: "JZCfbD2Y7Dc"
 sourceUrl: "https://www.justinbasil.com/videos/five-underplayed-cards-in-the-eternal-format-february-2025"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, we have a quick think about some severely underpl
 
 
 
-![](/images/e9143c8d31ee70d3.webp)
+![](/images/5-underplayed-cards-eternal-feb-2025.webp)
 
 
 

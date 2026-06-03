@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following 6 January's Pauper Format"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 6 January 2023 Pauper format tournament.  The tournament's results were as follows:    Twitchy - Lunarock    Oatey99 - Lunarock    okowen02- Mad Party    JustInBasil - Wailord SIT    Click here to visit the updated  Alte"
-ogImage: "/images/572484f983d60154.webp"
+ogImage: "/images/lunatone-pgo-572484.webp"
 publishDate: 2023-01-06
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-6-januarys-pauper-format"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/98ed4fc9215ca719.webp)
+![](/images/lunatone-pgo.webp)
 
 
 

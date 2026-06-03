@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 4: Gholdengo ex vs. Mewtwo ex"
 description: "Our early testing of Paradox Rift continues. Gholdengo ex surfs into battle against the Mewtwo menace!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/9e619ff708d13178.webp"
+ogImage: "/images/part-5-9e619f.webp"
 publishDate: 2023-09-29
 youtubeId: "T7Swn2EE_Ks"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-4-gholdengo-ex-vs-mewtwo-ex"
@@ -27,7 +27,7 @@ Our early testing of Paradox Rift continues. Gholdengo ex surfs into battle agai
 
 
 
-![](/images/f9a347260d7d2e9f.webp)
+![](/images/part-5-f9a347.webp)
 
 
 

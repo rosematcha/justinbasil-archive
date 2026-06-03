@@ -1,7 +1,7 @@
 ---
 title: "Banette ex / Vileplume vs. Turbo Zacian V"
 description: "In a special Eternal bonus video, Turbo Zacian V comes out swinging against the Eternal format nightmare, Banette ex / Vileplume!"
-ogImage: "/images/ad4ba2289a289dfd.webp"
+ogImage: "/images/banette-ex-v-turbo-zacian-v-ad4ba2.webp"
 publishDate: 2024-11-20
 youtubeId: "RAtTkm7oiK0"
 sourceUrl: "https://www.justinbasil.com/videos/banette-ex-vileplume-vs-turbo-zacian-v"
@@ -19,7 +19,7 @@ In a special Eternal bonus video, Turbo Zacian V comes out swinging against the 
 
 
 
-![](/images/f0598dbf50ec3c99.webp)
+![](/images/banette-ex-v-turbo-zacian-v.webp)
 
 
 

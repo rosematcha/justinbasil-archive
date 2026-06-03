@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 40: New Eeveelution Set Coming with \"Terastal Festival\" and Stunning \"Stellar Crown\" Reveals!"
 description: "This week we discuss the Eeveelutions coming in \"Terastal Festival,\" the English reveal of \"Stellar Crown\" and its products, TPCi changing how Worlds invites work, new Chinese-exclusive cards, new products, and more!"
-ogImage: "/images/f80b91dff70198b9.webp"
+ogImage: "/images/wigglytuff-768x432-f80b91.webp"
 publishDate: 2024-06-30
 youtubeId: "zPXUsV-P-Kk"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-40-new-eeveelution-set-coming-with-terastal-festival-and-stunning-stellar-crown-reveals"
@@ -19,7 +19,7 @@ This week we discuss the Eeveelutions coming in "Terastal Festival," the English
 
 
 
-![](/images/bdbfbaf4473564b7.webp)
+![](/images/wigglytuff-768x432.webp)
 
 
 

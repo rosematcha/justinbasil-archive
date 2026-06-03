@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blastoise Water Box vs. Magnezone Lightning Box"
 description: "In this week's Eternal Monday, it's a battle of the energy storms—Magnezone and Blastoise bring the rain and the lightning.  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/79fb25d8874de1c4.webp"
+ogImage: "/images/rain-dance-battle-79fb25.webp"
 publishDate: 2025-02-03
 youtubeId: "WJL_zIPlNa8"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blastoise-water-box-vs-magnezone-lightning-box"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/a013d480fad05bb9.webp)
+![](/images/rain-dance-battle.webp)
 
 
 

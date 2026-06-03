@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 7: Tyranitar vs. Archaludon ex"
 description: "In this week's bonus video, Tyranitar attempts to suppress Archaludon ex's impressive, metallic rage!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/59dd6597aac829ce.webp"
+ogImage: "/images/bonus-7-59dd65.webp"
 publishDate: 2025-03-12
 youtubeId: "67oVer7GCFw"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-7-tyranitar-vs-archaludon-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Tyranitar attempts to suppress Archaludon ex's impre
 
 
 
-![](/images/b8374b709f588ac8.webp)
+![](/images/bonus-7-b8374b.webp)
 
 
 

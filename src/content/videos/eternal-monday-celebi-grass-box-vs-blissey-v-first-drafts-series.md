@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Celebi Grass Box vs. Blissey V (First Drafts Series)"
 description: "In today's Eternal Monday, we take the first drafts of two Eternal format decks and pit them against one another. Today, Celebi brings its forest friends along to put Blissey V back into the Pokémon Center!"
-ogImage: "/images/99784dca6baf80a9.webp"
+ogImage: "/images/first-drafts-14-celebi-grass-box-vs-blissey-v-99784d.webp"
 publishDate: 2024-12-30
 youtubeId: "Dk7oIeYwBPM"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-celebi-grass-box-vs-blissey-v-first-drafts-series"
@@ -19,7 +19,7 @@ In today's Eternal Monday, we take the first drafts of two Eternal format decks 
 
 
 
-![](/images/bf9e10376beedcdf.webp)
+![](/images/first-drafts-14-celebi-grass-box-vs-blissey-v.webp)
 
 
 

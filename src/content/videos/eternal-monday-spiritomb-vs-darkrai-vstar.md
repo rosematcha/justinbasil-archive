@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Spiritomb vs Darkrai VSTAR"
 description: "In today's Eternal Monday, Spiritomb from Unbroken Bonds unites with Alakazam from Base Set to take on Darkrai VSTAR from Astral Radiance.  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/8d55d19d7f8492d3.webp"
+ogImage: "/images/spiritomb-v-darkrai-vstar-8d55d1.webp"
 publishDate: 2024-01-22
 youtubeId: "fjkAN0vruR0"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-spiritomb-vs-darkrai-vstar"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/fb996c8a5ff658a0.webp)
+![](/images/spiritomb-v-darkrai-vstar.webp)
 
 
 

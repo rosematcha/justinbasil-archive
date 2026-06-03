@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 5: United Wings vs. Quaquaval ex"
 description: "Paldea Evolved testing continues! Up next, United Wings (Wings of Unity) takes flight--or can it? Quaquaval ex may just clip its wings!  Check out these links to learn more!   Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New A"
-ogImage: "/images/0c069223fc189c5d.webp"
+ogImage: "/images/part-5-0c0692.webp"
 publishDate: 2023-05-13
 youtubeId: "MKYhl9lB_-M"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-part-5-wings-of-unity-vs-quaquaval-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/dcfcab7e63c8ca33.webp)
+![](/images/part-5-dcfcab.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 1: Van Gogh Pokémon TCG Cards?! First Ever PokéBeach Weekly News Roundup!"
 description: "This week we discuss mysterious set trademarks, possible Van Gogh Pokémon promos, the 2024 Pokémon TCG Illustration Contest, scary new TM cards from Ancient Roar and Future Flash, the full set reveal of Raging Surf, and much more!"
-ogImage: "/images/2130aab78a485f4c.webp"
+ogImage: "/images/pbpc-e1-2130aa.webp"
 publishDate: 2023-09-15
 youtubeId: "BNIyh09bVAM"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-1-van-gogh-pokemon-tcg-cards-first-ever-pokebeach-weekly-news-roundup"
@@ -19,7 +19,7 @@ This week we discuss mysterious set trademarks, possible Van Gogh Pokémon promo
 
 
 
-![](/images/a6d0c362e2ca853a.webp)
+![](/images/pbpc-e1.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Chilling Reign (CRE)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/ss6"
 showHeading: false
 ---
@@ -58,7 +58,7 @@ With the arrival of Chilling Reign this June, we’ve had a handful of new deck 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Hitoshi Ariga](/images/aa6a0834d6e4516a.webp)
+![Illus. Hitoshi Ariga](/images/rillaboom.webp)
 
 *Illus. Hitoshi Ariga*
 
@@ -96,7 +96,7 @@ Play down and evolve both Cherubi and Grookey into Cherrim and Rillaboom, respec
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Yuka Morii](/images/55960951a848a0bf.webp)
+![Illus. Yuka Morii](/images/castform.webp)
 
 *Illus. Yuka Morii*
 
@@ -135,7 +135,7 @@ From turn 1, draw for and search out Stadium cards with Stadium Nav and discard 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Mika Pikazo](/images/f40e734bf389ef2f.webp)
+![Illus. Mika Pikazo](/images/volcarona.webp)
 
 *Illus. Mika Pikazo*
 
@@ -173,7 +173,7 @@ Going second, play down Volcanion as your Active Pokémon and play down Larvesta
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryuta Fuse](/images/017b30b3bf62de26.webp)
+![Illus. Ryuta Fuse](/images/cinderace.webp)
 
 *Illus. Ryuta Fuse*
 
@@ -209,7 +209,7 @@ Play down Scorbunny and evolve it into Cinderace SSH using Rare Candy to get it 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Naoki Saito](/images/3aa19bc5e9be9c39.webp)
+![Illus. Naoki Saito](/images/rs-urshifu-3aa19b.webp)
 
 *Illus. Naoki Saito*
 
@@ -248,7 +248,7 @@ Fill your bench and evolve Kubfu as quickly as you can so that each of your Pok�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/3519181591fdaaf4.webp)
+![Illus. 5ban Graphics](/images/ice-rider.webp)
 
 *Illus. 5ban Graphics*
 
@@ -292,7 +292,7 @@ Going second, start Cryogonal and play down Path to the Peak. Lock out your oppo
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Chibi](/images/c1b8afa24fd2fe9d.webp)
+![Illus. Chibi](/images/zeraora.webp)
 
 *Illus. Chibi*
 
@@ -335,7 +335,7 @@ Bench and evolve Blaziken V into Blaziken VMAX, and bench two Zeraora V. In doin
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Megumi Higuchi](/images/66e6fa9779e80566.webp)
+![Illus. Megumi Higuchi](/images/banette.webp)
 
 *Illus. Megumi Higuchi*
 
@@ -371,7 +371,7 @@ Bench Shuppet and Spiritomb, using Building Spite to build damage on benched Spi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kagemaru Himeno](/images/d790610b23946ba9.webp)
+![Illus. Kagemaru Himeno](/images/malamar-d79061.webp)
 
 *Illus. Kagemaru Himeno*
 
@@ -413,7 +413,7 @@ Set up by benching Inkay, Sobble, and Remoraid, and evolve them as the opportuni
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/97d87c92e831d6f7.webp)
+![Illus. 5ban Graphics](/images/shadow-rider.webp)
 
 *Illus. 5ban Graphics*
 
@@ -461,7 +461,7 @@ Given the opportunity, use Gengar & Mimikyu-GX’s Horror House-GX attack to buy
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Teeziro](/images/48cac8e0fd0d5e16.webp)
+![Illus. Teeziro](/images/lycanroc-48cac8.webp)
 
 *Illus. Teeziro*
 
@@ -503,7 +503,7 @@ Bench and evolve Houndour and Rockruff into Houndoom and Lycanroc, respectively.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. aky CG Works](/images/09bca1642b25f539.webp)
+![Illus. aky CG Works](/images/sandaconda-vmax.webp)
 
 *Illus. aky CG Works*
 
@@ -546,7 +546,7 @@ Bench Sandaconda V and Sobble on your first turn, attacking using Sandaconda V�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Uta](/images/4b4a5e2d56782587.webp)
+![Illus. Uta](/images/sirfetchd.webp)
 
 *Illus. Uta*
 
@@ -585,7 +585,7 @@ Bench and evolve Houndour and Galarian Farfetch’d into Houndoom and Galarian S
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryuta Fuse](/images/95b865f98b134fa7.webp)
+![Illus. Ryuta Fuse](/images/weezing.webp)
 
 *Illus. Ryuta Fuse*
 
@@ -622,7 +622,7 @@ Build up your bench with Koffing and use them to evolve into both Galarian Weezi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Miki Tanaka](/images/cc27f8be50f0bcb7.webp)
+![Illus. Miki Tanaka](/images/g-weezing.webp)
 
 *Illus. Miki Tanaka*
 
@@ -661,7 +661,7 @@ Build up your bench by placing Greninja & Zoroark-GX and Koffing, preparing the 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/74cb72b417012f69.webp)
+![Illus. 5ban Graphics](/images/slowking.webp)
 
 *Illus. 5ban Graphics*
 
@@ -699,7 +699,7 @@ Using Green’s Exploration, get 1-2 Galarian Slowking V in play to evolve into 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Megumi Higuchi](/images/d100891a438854fb.webp)
+![Illus. Megumi Higuchi](/images/scolipede.webp)
 
 *Illus. Megumi Higuchi*
 
@@ -735,7 +735,7 @@ Play down Trubbish, Venipede, and Spiritomb, using Spiritomb’s Building Spite 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Mitsuhiro Arita](/images/07f47acf1dfcc42e.webp)
+![Illus. Mitsuhiro Arita](/images/ss-urshifu-07f47a.webp)
 
 *Illus. Mitsuhiro Arita*
 
@@ -772,7 +772,7 @@ Bench and evolve Houndour and Kubfu into Houndoom and Single Strike Urshifu, res
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryota Murayama](/images/09e541c13e0e6f71.webp)
+![Illus. Ryota Murayama](/images/metagross-vmax.webp)
 
 *Illus. Ryota Murayama*
 
@@ -810,7 +810,7 @@ Place down Metagross V and evolve it into a Metagross VMAX as necessary. Use Gre
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. nagimiso](/images/42c439b46bbff746.webp)
+![Illus. nagimiso](/images/tauros.webp)
 
 *Illus. nagimiso*
 
@@ -847,7 +847,7 @@ Bench Tauros and Houndour and evolve Houndour into Houndoom as soon as possible.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Saki Hayashiro](/images/08efb98c6ce0b7ae.webp)
+![Illus. Saki Hayashiro](/images/blissey-v.webp)
 
 *Illus. Saki Hayashiro*
 
@@ -885,7 +885,7 @@ Bench Blissey V and Porygon, evolving Porygon into Porygon-Z as early as possibl
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Mitsuhiro Arita](/images/9e021680d20e8a85.webp)
+![Illus. Mitsuhiro Arita](/images/tornadus-vmax.webp)
 
 *Illus. Mitsuhiro Arita*
 

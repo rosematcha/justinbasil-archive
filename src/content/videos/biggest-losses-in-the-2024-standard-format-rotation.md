@@ -1,7 +1,7 @@
 ---
 title: "Biggest Losses in the 2024 Standard Format Rotation!"
 description: "Rotation is fast approaching! It hits PTCGL this Thursday and IRL play on April 5th! Let's look at some of the biggest losses in this year's Standard format rotation.  Learn more about the 2024 rotation  here !"
-ogImage: "/images/26bd0e5b6b72c5cf.webp"
+ogImage: "/images/20-biggest-loses-2024-rotation-26bd0e.webp"
 publishDate: 2024-03-20
 youtubeId: "EvAYgGxavQE"
 sourceUrl: "https://www.justinbasil.com/videos/biggest-losses-in-the-2024-standard-format-rotation"
@@ -21,7 +21,7 @@ Learn more about the 2024 rotation [here](/rotation/f-on)!
 
 
 
-![](/images/964140154c3d96c8.webp)
+![](/images/20-biggest-loses-2024-rotation.webp)
 
 
 

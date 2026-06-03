@@ -1,7 +1,7 @@
 ---
 title: "PokeBeach Podcast Episode 9: Upcoming Japanese Sets and New Shiny Treasure ex Cards!"
 description: "In this week's episode we discuss new Shiny Treasure ex cards, the next Japanese sets, and upcoming English products! As always, you can read the latest Pokémon TCG news at PokéBeach!"
-ogImage: "/images/161c857dc9bf3bae.webp"
+ogImage: "/images/ep9-768x432-161c85.webp"
 publishDate: 2023-11-10
 youtubeId: "5VRYIG0ZLY4"
 sourceUrl: "https://www.justinbasil.com/videos/pokebeach-podcast-episode-9-upcoming-japanese-sets-and-new-shiny-treasure-ex-cards"
@@ -19,7 +19,7 @@ In this week's episode we discuss new Shiny Treasure ex cards, the next Japanese
 
 
 
-![](/images/04968b9a5051771e.webp)
+![](/images/ep9-768x432.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "External Resources"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/external"
 showHeading: false
 ---
@@ -16,7 +16,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/6ce82ec369e679ef.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/tv-reporter.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">News and Information</h1>
@@ -33,7 +33,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/144145957f1fa376.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/indigo-plateau.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Competitive Information</h1>
@@ -50,7 +50,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/d8a4dc82443c5944.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/peeking-red-card.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Deck Builders</h1>
@@ -65,7 +65,7 @@ showHeading: false
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/68a3e25f11111c3d.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/furisode.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Japanese Deck Lists</h1>
@@ -81,7 +81,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/835296412baefedc.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/celio-s-network.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Card Databases</h1>
@@ -96,7 +96,7 @@ showHeading: false
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <div class="jb-tile">
-<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/a613e86ad019be85.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/misc.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Miscellaneous Resources</h1>

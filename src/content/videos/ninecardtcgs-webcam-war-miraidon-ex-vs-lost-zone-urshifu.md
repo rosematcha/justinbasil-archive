@@ -1,7 +1,7 @@
 ---
 title: "NinecardTCG's Webcam War! Miraidon ex vs. Lost Zone Urshifu"
 description: "If you've ever wanted to witness the \"Stop! Stop! He's already dead!\" meme as a pair of Pokémon TCG matches, here's your chance! It's post-rotation Turbo Miraidon ex vs. Rapid Strike Urshifu Lost Box on this week's edition of  @ninecardtcg 's Webcam War!"
-ogImage: "/images/87fccafc9d08904e.webp"
+ogImage: "/images/justinbasil-www-miraidon-vs-lz-urshi-02jan2023-87fcca.webp"
 publishDate: 2023-01-04
 youtubeId: "BoTToNuIAGI"
 sourceUrl: "https://www.justinbasil.com/videos/ninecardtcgs-webcam-war-miraidon-ex-vs-lost-zone-urshifu"
@@ -19,7 +19,7 @@ If you've ever wanted to witness the "Stop! Stop! He's already dead!" meme as a 
 
 
 
-![](/images/a1d14c9b972ff7e0.webp)
+![](/images/justinbasil-www-miraidon-vs-lz-urshi-02jan2023.webp)
 
 
 

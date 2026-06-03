@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 5: Future Box vs. Ancient Box"
 description: "In today's bonus video, it’s a battle of the past versus the future! Ancient Box versus Future Box!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/54728642a82af1e0.webp"
+ogImage: "/images/bonus-5-547286.webp"
 publishDate: 2024-02-07
 youtubeId: "ileKxI8x6qE"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-5-future-box-vs-ancient-box"
@@ -27,7 +27,7 @@ In today's bonus video, it’s a battle of the past versus the future! Ancient B
 
 
 
-![](/images/5fd2073282d11ed8.webp)
+![](/images/bonus-5-5fd207.webp)
 
 
 

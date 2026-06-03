@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 7: Dragapult ex vs. The World"
 description: "Now that we've seen the full reveal of Mask of Change from Japan, let's start looking at the newest decks from Twilight Masquerade!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New De"
-ogImage: "/images/6b37b9a18d0e26b5.webp"
+ogImage: "/images/bonus-7-6b37b9.webp"
 publishDate: 2024-05-22
 youtubeId: "LPbNZE8Yxt8"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-bonus-7-dragapult-ex-vs-the-world"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/8ec20afa48a89218.webp)
+![](/images/bonus-7-8ec20a.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blacephalon vs. Charizard ex"
 description: "In today's Eternal Monday, Blacephalon from Unbroken Bonds shows off its Fireball Circus as it takes on Charizard ex from Obsidian Flames!  Learn more about the Eternal format here:   https://www.justinbasil.com/eternal"
-ogImage: "/images/44a1cfbd1535d770.webp"
+ogImage: "/images/naic-blowns-v-zard-44a1cf.webp"
 publishDate: 2024-07-08
 youtubeId: "H1JSROzy4YA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blacephalon-vs-charizard-ex"
@@ -23,7 +23,7 @@ Learn more about the Eternal format here:
 
 
 
-![](/images/40b4c720f122e2ab.webp)
+![](/images/naic-blowns-v-zard.webp)
 
 
 

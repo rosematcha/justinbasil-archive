@@ -1,7 +1,7 @@
 ---
 title: "Opening Obsidian Flames!"
 description: "Obsidian Flames has arrived! It's time to crack open three booster boxes and see what's inside!  Check out these links to learn more!   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/5f7ce0ebb3e2e7b2.webp"
+ogImage: "/images/obf-pack-opening-5f7ce0.webp"
 publishDate: 2023-08-16
 youtubeId: "8MXFt5HlbQo"
 sourceUrl: "https://www.justinbasil.com/videos/opening-obsidian-flames"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/32e038d373e0249f.webp)
+![](/images/obf-pack-opening.webp)
 
 
 

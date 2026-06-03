@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 1: Roaring Moon ex vs. Charizard ex"
 description: "Our testing of Temporal Forces begins! We now look ahead to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/52f88d24066f3ceb.webp"
+ogImage: "/images/part-1-52f88d.webp"
 publishDate: 2023-12-29
 youtubeId: "4Twl0xEhjow"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-1-roaring-moon-ex-vs-charizard-ex"
@@ -27,7 +27,7 @@ Our testing of Temporal Forces begins! We now look ahead to the post-rotation Te
 
 
 
-![](/images/4a550e5309910d8f.webp)
+![](/images/part-1-4a550e.webp)
 
 
 

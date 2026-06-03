@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Surging Sparks!"
 description: "It's the time we've all been waiting for—the time to take a look at the best cards from the upcoming Pokémon TCG expansion Surging Sparks! Here are my top 10!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/cb3b950480a3e447.webp"
+ogImage: "/images/top-10-ssp-cb3b95.webp"
 publishDate: 2024-10-21
 youtubeId: "NPIo7IE-f_0"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-surging-sparks"
@@ -27,7 +27,7 @@ It's the time we've all been waiting for—the time to take a look at the best c
 
 
 
-![](/images/e3b2dfc076165664.webp)
+![](/images/top-10-ssp.webp)
 
 
 

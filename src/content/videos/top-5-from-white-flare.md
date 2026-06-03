@@ -1,7 +1,7 @@
 ---
 title: "Top 5 from White Flare!"
 description: "Black Bolt & White Flare are just around the corner. It's time to look at the best cards these sets have to offer, continuing on with White Flare!   Black Bolt & White Flare Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New"
-ogImage: "/images/0c177fbc7f49b9fe.webp"
+ogImage: "/images/top-5-from-white-flare-0c177f.webp"
 publishDate: 2025-07-09
 youtubeId: "r6uE4mTluRs"
 sourceUrl: "https://www.justinbasil.com/videos/top-5-from-white-flare"
@@ -27,7 +27,7 @@ Black Bolt & White Flare are just around the corner. It's time to look at the be
 
 
 
-![](/images/7d97d4305546786a.webp)
+![](/images/top-5-from-white-flare.webp)
 
 
 

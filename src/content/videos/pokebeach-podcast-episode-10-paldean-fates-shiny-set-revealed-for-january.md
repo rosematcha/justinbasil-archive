@@ -1,7 +1,7 @@
 ---
 title: "PokeBeach Podcast Episode 10: \"Paldean Fates\" Shiny Set Revealed for January!"
 description: "In this week's episode we discuss the release of Paldean Fates!    https://www.pokebeach.com/2023/11/paldean-fates-special-pokemon-tcg-set-officially-revealed-for-january"
-ogImage: "/images/325c4c1b8974c1db.webp"
+ogImage: "/images/episode-10-768x432-325c4c.webp"
 publishDate: 2023-11-17
 youtubeId: "tt6y6pH9laE"
 sourceUrl: "https://www.justinbasil.com/videos/pokebeach-podcast-episode-10-paldean-fates-shiny-set-revealed-for-january"
@@ -21,7 +21,7 @@ In this week's episode we discuss the release of Paldean Fates!
 
 
 
-![](/images/9269806c2d7d606a.webp)
+![](/images/episode-10-768x432.webp)
 
 
 

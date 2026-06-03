@@ -1,6 +1,6 @@
 ---
 title: "The Main Attacker"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/main-attacker"
 showHeading: false
 ---
@@ -26,25 +26,25 @@ In short, big numbers like high HP and high damage aren’t enough. For example,
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ad5a4348486c03c2.webp)
+![](/images/118-20.webp)
 
 *Charizard VSTAR BRS 18*
 
 </div><div class="jb-col-2">
 
-![](/images/be13e9b0d23de24f.webp)
+![](/images/brs-144-r-en.webp)
 
 *Magma Basin BRS 144*
 
 </div><div class="jb-col-1"></div><div class="jb-col-2">
 
-![](/images/a57867e4d48976f5.webp)
+![](/images/sv05-en-123-2x.webp)
 
 *Ice Rider Calyrex VMAX CRE 46*
 
 </div><div class="jb-col-2">
 
-![](/images/d35c2e4b5cc1801c.webp)
+![](/images/sv4-en-170.webp)
 
 *Melony CRE 146*
 
@@ -62,7 +62,7 @@ In the examples above, Charizard VSTAR is an evolved Pokémon V—specifically a
 
 
 
-![](/images/f69f9bcf4c460b34.webp)
+![](/images/pgo-034-r-en-f69f9b.webp)
 
 *As a single-prize Pokémon, Lunatone is a glass cannon. Its Moon Kinesis attack often packs quite a wallop, but Lunatone typically can’t take more than a single hit itself.*
 
@@ -129,7 +129,7 @@ In the first example, the speaker is referring to four copies of the Basic Poké
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/69f52eb5249a00a2.webp)
+![](/images/paf-089-r-en-lg.webp)
 
 *Rare Candy is a staple of Stage 2 decks—it allows its player to skip the Stage 1 Evolution, evolving a Basic Pokémon directly into a Stage 2 Pokémon.*
 

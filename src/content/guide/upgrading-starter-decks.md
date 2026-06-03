@@ -1,6 +1,6 @@
 ---
 title: "Upgrading Starter Decks"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/upgrading-starter-decks"
 showHeading: false
 ---
@@ -113,7 +113,7 @@ Now that we've chosen all of our attackers, we can thicken up their lines. As ou
 </tbody></table>
 </div></div></div>
 
-![](/images/31e8bffa5d0a05ae.webp)
+![](/images/sv1-en-191.webp)
 
 
 

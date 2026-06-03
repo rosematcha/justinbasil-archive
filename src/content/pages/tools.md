@@ -1,6 +1,6 @@
 ---
 title: "Other Tools"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/tools"
 showHeading: false
 ---
@@ -16,7 +16,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/gifts" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark jb-bgpos-top" style="background-image:url(/images/1f33fabf89670544.webp)">
+<div class="inner jb-rotation-card jb-rotation-card-dark jb-bgpos-top" style="background-image:url(/images/h-deci.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Gift Guide</h1>
@@ -27,7 +27,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/battle-academy" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark" style="background-image:url(/images/1d97919137e1ed57.webp)">
+<div class="inner jb-rotation-card jb-rotation-card-dark" style="background-image:url(/images/2024-battle-academy.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Supplement Decks</h1>
@@ -39,7 +39,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/guide/teu-on/fakes" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/c995025f1660fd7b.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/copycat.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Guide to Identifying Fake Cards</h1>
@@ -50,7 +50,7 @@ showHeading: false
 </div></a>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="https://events.pokemon.com/en-us/locations" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgsize-contain jb-rotation-card-dark" style="background-image:url(/images/4fddcbc04acf6281.webp)">
+<div class="inner jb-rotation-card jb-bgsize-contain jb-rotation-card-dark" style="background-image:url(/images/play-pokemon.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Event Locator</h1>
@@ -61,7 +61,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/resources" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark" style="background-image:url(/images/102c55d593b1cd76.webp)">
+<div class="inner jb-rotation-card jb-rotation-card-dark" style="background-image:url(/images/homepage-logo.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Site Updates</h1>
@@ -72,7 +72,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/external" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-rotation-card-dark jb-bgpos-top" style="background-image:url(/images/fb3686e9197d628e.webp)">
+<div class="inner jb-rotation-card jb-rotation-card-dark jb-bgpos-top" style="background-image:url(/images/switch.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">External Resources</h1>

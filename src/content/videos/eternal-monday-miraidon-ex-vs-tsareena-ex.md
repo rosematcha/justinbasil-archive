@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Miraidon ex vs. Tsareena ex"
 description: "In today's Eternal Monday, Tsareena ex comes out kicking against Miraidon ex!"
-ogImage: "/images/1ac7e5d465bbd178.webp"
+ogImage: "/images/miraidon-v-tsareena-1ac7e5.webp"
 publishDate: 2024-02-19
 youtubeId: "My4Umt6AQ1k"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-miraidon-ex-vs-tsareena-ex"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Tsareena ex comes out kicking against Miraidon ex!
 
 
 
-![](/images/385e3eb23a90a21e.webp)
+![](/images/miraidon-v-tsareena.webp)
 
 
 

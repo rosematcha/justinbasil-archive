@@ -1,7 +1,7 @@
 ---
 title: "SPOOKY Night! Format"
 description: "In a little celebration of Halloween, have some fun building around some of Pokémon’s spookiest monsters!  Restrictions:    No Rule Box Pokémon.    Cards from SUM-onward are legal, as are prior prints of cards in a legal set.    The following cards and any alternate prints of them are banned:     Ch"
-ogImage: "/images/6b9f3bea76758a8c.webp"
+ogImage: "/images/gengar-6b9f3b.webp"
 publishDate: 2022-10-28
 sourceUrl: "https://www.justinbasil.com/resources/spooky-night-format"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/2ed8ddd817d2f218.webp)
+![](/images/gengar-2ed8dd.webp)
 
 
 

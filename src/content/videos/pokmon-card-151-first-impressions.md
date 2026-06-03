@@ -1,7 +1,7 @@
 ---
 title: "Pokémon Card 151 First Impressions!"
 description: "It's time to look at the rest of the cards cards that will make up our September collector's set! Let's look at Venusaur ex, Charizard ex, Blastoise ex, and more!    Check out these links to learn more!       Prospective Set List      Card Translations      Visual Set List      Set Highlights      N"
-ogImage: "/images/df41d9290823cccf.webp"
+ogImage: "/images/151-first-impressions-df41d9.webp"
 publishDate: 2023-06-09
 youtubeId: "JWu1nSAipEE"
 sourceUrl: "https://www.justinbasil.com/videos/pokmon-card-151-first-impressions"
@@ -28,7 +28,7 @@ It's time to look at the rest of the cards cards that will make up our September
 
 
 
-![](/images/14e69509cf002457.webp)
+![](/images/151-first-impressions.webp)
 
 
 

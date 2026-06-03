@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Translations"
 description: "Below is a running summary of translations for all base-rarity cards currently believed to be part of our Temporal Forces set. To view secret rare cards, visit the set’s  Visual Set List ."
-ogImage: "/images/1c74bdc15adf9f79.webp"
+ogImage: "/images/scyther-1c74bd.webp"
 publishDate: 2023-12-07
 sourceUrl: "https://www.justinbasil.com/translations/sv5"
 showHeading: false
@@ -10,7 +10,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/c5c2c2f1e4337a90.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Card Translations</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Temporal Forces by visiting the articles below.
@@ -56,7 +56,7 @@ Below is a running summary of translations for all base-rarity cards currently b
     <span id="G" class="symb">G</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b4e38da6cfae20a3.webp)
+![](/images/scyther-b4e38d.webp)
 
 </div><div class="jb-col-10">
 
@@ -68,7 +68,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/860ae157013006db.webp)
+![](/images/045219-p-kunugidama.webp)
 
 </div><div class="jb-col-10">
 
@@ -78,7 +78,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b2e9f9f6a4d8b007.webp)
+![](/images/img-6439.webp)
 
 </div><div class="jb-col-10">
 
@@ -90,7 +90,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0c260248c208a99a.webp)
+![](/images/img-6440.webp)
 
 </div><div class="jb-col-10">
 
@@ -102,7 +102,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fc57d52b8a00a154.webp)
+![](/images/img-6438.webp)
 
 </div><div class="jb-col-10">
 
@@ -114,7 +114,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5472d502dd86867e.webp)
+![](/images/045223-p-kinokoko.webp)
 
 </div><div class="jb-col-10">
 
@@ -126,7 +126,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c66033b02afb9f7b.webp)
+![](/images/045224-p-kinogassa.webp)
 
 </div><div class="jb-col-10">
 
@@ -138,7 +138,7 @@ Below is a running summary of translations for all base-rarity cards currently b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c93674bdac1c7392.webp)
+![](/images/045147-p-rozeria.webp)
 
 </div><div class="jb-col-10">
 
@@ -150,7 +150,7 @@ Ability: Poison Point If this Pokémon is your Active Pokémon and is damaged by
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/159cbb69a6057034.webp)
+![](/images/045148-p-rozureido.webp)
 
 </div><div class="jb-col-10">
 
@@ -162,7 +162,7 @@ Ability: Poison Point If this Pokémon is your Active Pokémon and is damaged by
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fdc9b1276cb221b2.webp)
+![](/images/045149-p-naetoru.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -176,7 +176,7 @@ Ability: Solid Shell This Pokémon takes 20 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/10ae16aec8c9ff15.webp)
+![](/images/045150-p-hayashigame.webp)
 
 </div><div class="jb-col-10">
 
@@ -188,7 +188,7 @@ Ability: Solid Shell This Pokémon takes 20 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9f3827edd5ded3f0.webp)
+![](/images/045151-p-dodaitosuex.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -202,7 +202,7 @@ Ability: Solid Shell This Pokémon takes 20 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f55ee88d5532bd70.webp)
+![](/images/045152-p-shieimi.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -216,7 +216,7 @@ Ability: Solid Shell This Pokémon takes 20 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3ec83e6e4b518a53.webp)
+![](/images/img-6434.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -228,7 +228,7 @@ Ability: Solid Shell This Pokémon takes 20 less damage from attacks <em>(after 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/782c0f5ee15b02d0.webp)
+![](/images/img-6433.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -242,7 +242,7 @@ Ability: Uplifting Heal When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9b9562b19b318688.webp)
+![](/images/045225-p-shikijika.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -256,7 +256,7 @@ Ability: Uplifting Heal When you play this Pokémon from your hand to evolve 1 o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9651268370b08fef.webp)
+![](/images/045226-p-mebukijika.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -270,7 +270,7 @@ Ability: Seasonal Change Once during your turn, you may search your deck for a S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7b165245a165d3b7.webp)
+![](/images/grubbin.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -284,7 +284,7 @@ Ability: Seasonal Change Once during your turn, you may search your deck for a S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6dcfe6a7bd7d6650.webp)
+![](/images/045228-p-dadarin.webp)
 
 </div><div class="jb-col-10">
 
@@ -296,7 +296,7 @@ Ability: Seasonal Change Once during your turn, you may search your deck for a S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bdf5a92f53a9463b.webp)
+![](/images/045229-p-anokusa.webp)
 
 </div><div class="jb-col-10">
 
@@ -306,7 +306,7 @@ Ability: Seasonal Change Once during your turn, you may search your deck for a S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/73e9f61215d81985.webp)
+![](/images/045230-p-anohoragusa.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -320,7 +320,7 @@ Ability: Weedy Resilience For each Prize card your opponent has taken, this Pok�
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/987df557f55ec8bd.webp)
+![](/images/044027-p-sukovuiranex.webp)
 
 </div><div class="jb-col-10">
 
@@ -332,7 +332,7 @@ Ability: Weedy Resilience For each Prize card your opponent has taken, this Pok�
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/acf85a975437d23e.webp)
+![](/images/rellor-acf85a.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -344,7 +344,7 @@ Ability: Weedy Resilience For each Prize card your opponent has taken, this Pok�
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7cb2e3805f672f2b.webp)
+![](/images/rabsca-7cb2e3.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -358,7 +358,7 @@ Ability: Spherical Shield Prevent all damage from and effects of attacks done to
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/12a671d03f1f4a4e.webp)
+![](/images/sv5-9.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -374,7 +374,7 @@ Ability: Rapid Vernier Once during your turn, when you play this Pokémon from y
     <span id="R" class="symb">R</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8379384a035f67da.webp)
+![](/images/045289-p-ponita.webp)
 
 </div><div class="jb-col-10">
 
@@ -386,7 +386,7 @@ Ability: Rapid Vernier Once during your turn, when you play this Pokémon from y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fb78f8064f40aa53.webp)
+![](/images/045290-p-gixyaroppu.webp)
 
 </div><div class="jb-col-10">
 
@@ -398,7 +398,7 @@ Ability: Rapid Vernier Once during your turn, when you play this Pokémon from y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2ea330889763b37f.webp)
+![](/images/045234-p-magumaggu.webp)
 
 </div><div class="jb-col-10">
 
@@ -408,7 +408,7 @@ Ability: Rapid Vernier Once during your turn, when you play this Pokémon from y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bebf5db2d92a82d8.webp)
+![](/images/045235-p-magukarugo.webp)
 
 </div><div class="jb-col-10">
 
@@ -420,7 +420,7 @@ Ability: Lava Pools Whenever your opponent’s Active Pokémon moves to the Benc
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2d967e4ff8fe43c5.webp)
+![](/images/045236-p-bikuteini.webp)
 
 </div><div class="jb-col-10">
 
@@ -432,7 +432,7 @@ Ability: Lava Pools Whenever your opponent’s Active Pokémon moves to the Benc
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/75708d4c032124d1.webp)
+![](/images/045155-p-kuitaran.webp)
 
 </div><div class="jb-col-10">
 
@@ -444,7 +444,7 @@ Ability: Lava Pools Whenever your opponent’s Active Pokémon moves to the Benc
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/107a4345d96fc6f3.webp)
+![](/images/img-6422.webp)
 
 </div><div class="jb-col-10">
 
@@ -454,7 +454,7 @@ Ability: Lava Pools Whenever your opponent’s Active Pokémon moves to the Benc
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/92c76de2751a8fbf.webp)
+![](/images/img-6423.webp)
 
 </div><div class="jb-col-10">
 
@@ -466,7 +466,7 @@ Ability: Lava Pools Whenever your opponent’s Active Pokémon moves to the Benc
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7ae306329aabba36.webp)
+![](/images/img-6421.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -480,7 +480,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/65ab0f9fd32a507e.webp)
+![](/images/045291-p-bakugamesu.webp)
 
 </div><div class="jb-col-10">
 
@@ -492,7 +492,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a4e5a6134e4f9e94.webp)
+![](/images/045156-p-yakude.webp)
 
 </div><div class="jb-col-10">
 
@@ -502,7 +502,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bd18c536451e17be.webp)
+![](/images/045157-p-maruyakude.webp)
 
 </div><div class="jb-col-10">
 
@@ -514,7 +514,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/aa6b9f7221fa8da2.webp)
+![](/images/sv5-3.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -530,7 +530,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
     <span id="W" class="symb">W</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6ea226326f180cc3.webp)
+![](/images/img-6436.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -542,7 +542,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/98a19b92bc16df6f.webp)
+![](/images/img-6437.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -554,7 +554,7 @@ Ability: Hustle Play Attacks used by this Pokémon cost [C] less for each of you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ae7a04bc10312ec9.webp)
+![](/images/img-6435.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -568,7 +568,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d75a42062143d6d4.webp)
+![](/images/045162-p-kibania.webp)
 
 </div><div class="jb-col-10">
 
@@ -578,7 +578,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e44fb074d4898edd.webp)
+![](/images/045163-p-samehada.webp)
 
 </div><div class="jb-col-10">
 
@@ -590,7 +590,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0a9fac2608f34eba.webp)
+![](/images/045164-p-kerudeio.webp)
 
 </div><div class="jb-col-10">
 
@@ -602,7 +602,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3adcc8bb9bdc27b9.webp)
+![](/images/045165-p-yukihami.webp)
 
 </div><div class="jb-col-10">
 
@@ -612,7 +612,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/99565dfea9d26ef8.webp)
+![](/images/045166-p-mosunou.webp)
 
 </div><div class="jb-col-10">
 
@@ -622,7 +622,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fd9e4768f7591293.webp)
+![](/images/img-6420.webp)
 
 </div><div class="jb-col-10">
 
@@ -634,7 +634,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/57906799f6c2da23.webp)
+![](/images/045168-p-namiiruka.webp)
 
 </div><div class="jb-col-10">
 
@@ -646,7 +646,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1466d5652ec2df72.webp)
+![](/images/045169-p-irukaman.webp)
 
 </div><div class="jb-col-10">
 
@@ -658,7 +658,7 @@ Ability: Torrential Heart Once during your turn, you may put 5 damage counters o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3a2703800090c989.webp)
+![](/images/sv5-4.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -674,7 +674,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
     <span id="L" class="symb">L</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f7efd35df6f37964.webp)
+![](/images/img-6442.webp)
 
 </div><div class="jb-col-10">
 
@@ -684,7 +684,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7aa687d1ad1fdb1f.webp)
+![](/images/img-6441.webp)
 
 </div><div class="jb-col-10">
 
@@ -696,7 +696,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/10f8a8925570395e.webp)
+![](/images/045242-p-erebu.webp)
 
 </div><div class="jb-col-10">
 
@@ -708,7 +708,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/86b7649515ef7b1c.webp)
+![](/images/045243-p-erekiburu.webp)
 
 </div><div class="jb-col-10">
 
@@ -720,7 +720,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/29496a7426f78afb.webp)
+![](/images/charjabug.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -732,7 +732,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f8813f2835e6a166.webp)
+![](/images/vikavolt-f8813f.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -746,7 +746,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/61cfbcb35b402893.webp)
+![](/images/045246-p-zeraora.webp)
 
 </div><div class="jb-col-10">
 
@@ -758,7 +758,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0a87f654e5eb0ca2.webp)
+![](/images/045345-p-wanpachi.webp)
 
 </div><div class="jb-col-10">
 
@@ -768,7 +768,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e3851a366b5ab442.webp)
+![](/images/045346-p-parusuwan.webp)
 
 </div><div class="jb-col-10">
 
@@ -778,7 +778,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2fc9639b541bd165.webp)
+![](/images/img-6419.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -792,7 +792,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f314823a68bd2e8.webp)
+![](/images/1530-006-0992tetsunokaina-ol.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -806,7 +806,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1c4b92d8e4358543.webp)
+![](/images/sv5-19.webp)
 
 </div><div class="jb-col-10">
 
@@ -820,7 +820,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
     <span id="P" class="symb">P</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/851bdaa1e80b2ed7.webp)
+![](/images/045248-p-bariyado.webp)
 
 </div><div class="jb-col-10">
 
@@ -832,7 +832,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fcfbedb92cc93286.webp)
+![](/images/045172-p-mariru.webp)
 
 </div><div class="jb-col-10">
 
@@ -844,7 +844,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3152c6cec2d628d5.webp)
+![](/images/045173-p-mariruri.webp)
 
 </div><div class="jb-col-10">
 
@@ -856,7 +856,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a230b59025d4b2d0.webp)
+![](/images/img-6425.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -868,7 +868,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6a28c8ab43f08ee7.webp)
+![](/images/045348-p-rateiasu.webp)
 
 </div><div class="jb-col-10">
 
@@ -880,7 +880,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/934555524853429d.webp)
+![](/images/045174-p-domira.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -892,7 +892,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/95fd9dc4dc101c5f.webp)
+![](/images/045175-p-dotakun.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -906,7 +906,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/03de229fd9f44574.webp)
+![](/images/solosis-03de22.webp)
 
 </div><div class="jb-col-10">
 
@@ -916,7 +916,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cf00ce3ade37ebbc.webp)
+![](/images/duosion-cf00ce.webp)
 
 </div><div class="jb-col-10">
 
@@ -926,7 +926,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/551cd52dc29edfc7.webp)
+![](/images/reuniclus-551cd5.webp)
 
 </div><div class="jb-col-10">
 
@@ -938,7 +938,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b0988167a33ed1e7.webp)
+![](/images/045349-p-rigure.webp)
 
 </div><div class="jb-col-10">
 
@@ -948,7 +948,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5e3be73ae27b7d3b.webp)
+![](/images/045350-p-obemu.webp)
 
 </div><div class="jb-col-10">
 
@@ -958,7 +958,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2967fe82734f2fe3.webp)
+![](/images/045250-p-aburi.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -970,7 +970,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6aee2bc01b4da459.webp)
+![](/images/045251-p-aburibon.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -982,7 +982,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ad21a56018390227.webp)
+![](/images/1529-007-0985sakebushippo-ol.webp)
 
 </div><div class="jb-col-10">
 
@@ -994,7 +994,7 @@ Ability: Azure Wave Damage from attacks used by this Pokémon isn’t affected b
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e8acc916363e2738.webp)
+![](/images/sv5-12.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1008,7 +1008,7 @@ Ability: Midnight Fluttering As long as this Pokémon is in the Active Spot, you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e3ce02a6d1db639b.webp)
+![](/images/1530-010-1006tetsunobujin-ol.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1022,7 +1022,7 @@ Ability: Midnight Fluttering As long as this Pokémon is in the Active Spot, you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7fe48b4ad676f69a.webp)
+![](/images/img-6429.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1036,7 +1036,7 @@ Ability: Midnight Fluttering As long as this Pokémon is in the Active Spot, you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/684db79efa154d7d.webp)
+![](/images/sv5-10.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1055,7 +1055,7 @@ Ability: Cobalt Command Your Future Pokémon’s attacks, except any Iron Crown 
     <span id="F" class="symb">F</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/84bfec9bea39f621.webp)
+![](/images/045254-p-asanan.webp)
 
 </div><div class="jb-col-10">
 
@@ -1067,7 +1067,7 @@ Ability: Cobalt Command Your Future Pokémon’s attacks, except any Iron Crown 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4444204ed71551f8.webp)
+![](/images/045255-p-chixyaremu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1079,7 +1079,7 @@ Ability: Cobalt Command Your Future Pokémon’s attacks, except any Iron Crown 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cfe21e0f6a6fef2a.webp)
+![](/images/img-6432.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1093,7 +1093,7 @@ Ability: Memory Dive Each of your evolved Pokémon can use any attack from its p
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e39c20d319a066a4.webp)
+![](/images/045256-p-mogurixyu.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1107,7 +1107,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/abf602073be8a4cc.webp)
+![](/images/045257-p-dorixyuuzu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1119,7 +1119,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bd6abf91493566dd.webp)
+![](/images/045181-p-gobitto.webp)
 
 </div><div class="jb-col-10">
 
@@ -1131,7 +1131,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/02948cf1bf50641a.webp)
+![](/images/045182-p-gorugu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1143,7 +1143,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2681af50215a6476.webp)
+![](/images/045296-p-iwanko.webp)
 
 </div><div class="jb-col-10">
 
@@ -1153,7 +1153,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5bbe79ac61deaa32.webp)
+![](/images/045297-p-rugarugan.webp)
 
 </div><div class="jb-col-10">
 
@@ -1163,7 +1163,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c337c1a06c9319d0.webp)
+![](/images/045183-p-dorobanko.webp)
 
 </div><div class="jb-col-10">
 
@@ -1175,7 +1175,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fb14b98792fe0d06.webp)
+![](/images/045184-p-banbadoro.webp)
 
 </div><div class="jb-col-10">
 
@@ -1187,7 +1187,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f75291db23f4e18b.webp)
+![](/images/045185-p-tandon.webp)
 
 </div><div class="jb-col-10">
 
@@ -1199,7 +1199,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/20d5f67ebadb8c2e.webp)
+![](/images/045186-p-toroggon.webp)
 
 </div><div class="jb-col-10">
 
@@ -1211,7 +1211,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f02efc0211a5f0da.webp)
+![](/images/045187-p-sekitanzan.webp)
 
 </div><div class="jb-col-10">
 
@@ -1223,7 +1223,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/764ac3e00830aa3f.webp)
+![](/images/1529-010-0984idainakiba-ol.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1237,7 +1237,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6f2f82d09d48b1af.webp)
+![](/images/img-6428.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1251,7 +1251,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c8817aced1438512.webp)
+![](/images/1529-011-0989sunanokegawa-ol.webp)
 
 </div><div class="jb-col-10">
 
@@ -1263,7 +1263,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c8b8acecaad0319d.webp)
+![](/images/sv5-11.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1279,7 +1279,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
     <span id="D" class="symb">D</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a7f9197ce7802e44.webp)
+![](/images/045189-p-abo.webp)
 
 </div><div class="jb-col-10">
 
@@ -1291,7 +1291,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3d6f071edf165456.webp)
+![](/images/045190-p-abokku.webp)
 
 </div><div class="jb-col-10">
 
@@ -1303,7 +1303,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/09ae264fc56de198.webp)
+![](/images/img-6417.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1317,7 +1317,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/cfcc6210a76b61d9.webp)
+![](/images/img-6418.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1329,7 +1329,7 @@ Ability: Dig About When you play this Pokémon from your hand onto your Bench du
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/347cb07492972b57.webp)
+![](/images/img-6416.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1343,7 +1343,7 @@ Ability: Gnawing Curse Whenever your opponent attaches an Energy card from their
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ac42db343beba66e.webp)
+![](/images/045194-p-pochiena.webp)
 
 </div><div class="jb-col-10">
 
@@ -1353,7 +1353,7 @@ Ability: Gnawing Curse Whenever your opponent attaches an Energy card from their
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/919d6ff761d17808.webp)
+![](/images/045195-p-guraena.webp)
 
 </div><div class="jb-col-10">
 
@@ -1365,7 +1365,7 @@ Ability: Gnawing Curse Whenever your opponent attaches an Energy card from their
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/78d2bf7134e221f3.webp)
+![](/images/sableye.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1379,7 +1379,7 @@ Ability: Gnawing Curse Whenever your opponent attaches an Energy card from their
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/daba30c5989c7c2a.webp)
+![](/images/img-6424.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1393,7 +1393,7 @@ Ability: Armor Tail Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/db5c17ead39390bc.webp)
+![](/images/sv5-40.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1409,7 +1409,7 @@ Ability: Armor Tail Prevent all damage done to this Pokémon by attacks from you
     <span id="M" class="symb">M</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b2bf2710a5ba31da.webp)
+![](/images/045260-p-fuoretosu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1421,7 +1421,7 @@ Ability: Armor Tail Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/10dc8adab7f7406e.webp)
+![](/images/scizor-ex.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1435,7 +1435,7 @@ Ability: Armor Tail Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c236b96c7661e2cc.webp)
+![](/images/045262-p-kuchito.webp)
 
 </div><div class="jb-col-10">
 
@@ -1447,7 +1447,7 @@ Ability: Armor Tail Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/59f6d9ccf4f9df12.webp)
+![](/images/img-6445.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1461,7 +1461,7 @@ Ability: Armor Tail Prevent all damage done to this Pokémon by attacks from you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9b1194bbc4a09835.webp)
+![](/images/img-6444.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1475,7 +1475,7 @@ Ability: Metal Maker Once during your turn, you may look at the top 4 cards of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a157c0116401bcef.webp)
+![](/images/img-6443.webp)
 
 </div><div class="jb-col-10">
 
@@ -1487,7 +1487,7 @@ Ability: Metal Maker Once during your turn, you may look at the top 4 cards of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2bc845ce39eb38e6.webp)
+![](/images/045266-p-merutan.webp)
 
 </div><div class="jb-col-10">
 
@@ -1497,7 +1497,7 @@ Ability: Metal Maker Once during your turn, you may look at the top 4 cards of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/de58d63dd26e5b2f.webp)
+![](/images/045267-p-merumetaru.webp)
 
 </div><div class="jb-col-10">
 
@@ -1509,7 +1509,7 @@ Ability: Metal Maker Once during your turn, you may look at the top 4 cards of y
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b38d408d1cfea060.webp)
+![](/images/img-6431.webp)
 
 </div><div class="jb-col-10">
 
@@ -1523,7 +1523,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
     <span id="N" class="symb">N</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2f22c126e08fac67.webp)
+![](/images/img-6427.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1537,7 +1537,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5efae84098b7d34e.webp)
+![](/images/1529-012-1007koraidonex.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1551,7 +1551,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/44cbd5e21077e57a.webp)
+![](/images/img-6430.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1565,7 +1565,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c86669f7f1f46b1e.webp)
+![](/images/1530-011-1008miraidonex.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1579,7 +1579,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/04f83c872cd2dc4a.webp)
+![](/images/sv5-6.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1595,7 +1595,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
     <span id="C" class="symb">C</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4f28522d6ce69509.webp)
+![](/images/045270-p-beroringa.webp)
 
 </div><div class="jb-col-10">
 
@@ -1607,7 +1607,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d695c5a59d9aa107.webp)
+![](/images/045271-p-beroberuto.webp)
 
 </div><div class="jb-col-10">
 
@@ -1619,7 +1619,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9a8641f358e3d207.webp)
+![](/images/045200-p-hoho.webp)
 
 </div><div class="jb-col-10">
 
@@ -1629,7 +1629,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7f0d8a17b501f009.webp)
+![](/images/045201-p-yorunozuku.webp)
 
 </div><div class="jb-col-10">
 
@@ -1639,7 +1639,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c7b93b002fa1b2f9.webp)
+![](/images/dunsparce-c7b93b.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1653,7 +1653,7 @@ Ability: Dual Core As long as this Pokémon has a Future Booster Energy Capsule 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6dfa21b1b9412848.webp)
+![](/images/dudunsparce-6dfa21.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1667,7 +1667,7 @@ Ability: Dashing Draw Once during your turn, you may draw 3 cards. If you do, sh
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a41cecf072f0d7c2.webp)
+![](/images/045272-p-eneko.webp)
 
 </div><div class="jb-col-10">
 
@@ -1679,7 +1679,7 @@ Ability: Dashing Draw Once during your turn, you may draw 3 cards. If you do, sh
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/663becaadee16830.webp)
+![](/images/045273-p-enekororo.webp)
 
 </div><div class="jb-col-10">
 
@@ -1691,7 +1691,7 @@ Ability: Dashing Draw Once during your turn, you may draw 3 cards. If you do, sh
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/124a5df4cde7c4fb.webp)
+![](/images/045204-p-perappu.webp)
 
 </div><div class="jb-col-10">
 
@@ -1703,7 +1703,7 @@ Ability: Dashing Draw Once during your turn, you may draw 3 cards. If you do, sh
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3fb1559e3bd80909.webp)
+![](/images/045274-p-mamepato.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1717,7 +1717,7 @@ Ability: Emergency Evolution Once during your turn, if this Pokémon’s remaini
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ff176d46febbdbb4.webp)
+![](/images/045275-p-hatobo.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1731,7 +1731,7 @@ Ability: Emergency Evolution Once during your turn, if this Pokémon’s remaini
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/95be62250d50f528.webp)
+![](/images/045276-p-kenhorou.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1745,7 +1745,7 @@ Ability: Emergency Evolution Once during your turn, if this Pokémon’s remaini
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f984779e8d407a64.webp)
+![](/images/045205-p-chiramii.webp)
 
 </div><div class="jb-col-10">
 
@@ -1757,7 +1757,7 @@ Ability: Emergency Evolution Once during your turn, if this Pokémon’s remaini
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a1019f6366978dd5.webp)
+![](/images/045206-p-chirachino.webp)
 
 </div><div class="jb-col-10">
 
@@ -1769,7 +1769,7 @@ Ability: Emergency Evolution Once during your turn, if this Pokémon’s remaini
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5c9110ad4b12f760.webp)
+![](/images/045277-p-jijiron.webp)
 
 </div><div class="jb-col-10">
 
@@ -1781,7 +1781,7 @@ Ability: Emergency Evolution Once during your turn, if this Pokémon’s remaini
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0f05c8f67444ceea.webp)
+![](/images/1530-017-0993tetsunokoube-ol.webp)
 
 </div><div class="jb-col-10">
 
@@ -1795,7 +1795,7 @@ Ability: Auto Marshal If this Pokémon is in the Active Spot and is damaged by a
     <span id="Trainers" class="jb-bold">Trainer Cards</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3ed7ac974382486b.webp)
+![](/images/sv4-en-159.webp)
 
 </div><div class="jb-col-10">
 
@@ -1805,7 +1805,7 @@ The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Spe
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4cb93cf354c32ca3.webp)
+![](/images/img-6446.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1817,7 +1817,7 @@ Draw a card for each of your Ancient Pokémon in play.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d50a477e988e6f14.webp)
+![](/images/img-6449.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1829,7 +1829,7 @@ Heal all damage from 1 of your Pokémon that has 30 HP or less remaining.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/95cc8ba4b5ca0369.webp)
+![](/images/img-6451.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1843,7 +1843,7 @@ Your turn ends.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a591e100696b58d.webp)
+![](/images/buddy-poffin.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1855,7 +1855,7 @@ Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a0a4f224291b8c7a.webp)
+![](/images/sv5-14.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1867,7 +1867,7 @@ Search your deck for 2 cards, shuffle your deck, then put those cards on top of 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1897666b6fab27a6.webp)
+![](/images/img-6448.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1879,7 +1879,7 @@ Your opponent reveals their hand. Choose up to 2 Item cards you find there and d
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/265c516188e7c11c.webp)
+![](/images/sv5-13.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1891,7 +1891,7 @@ Look at the top 6 cards of your deck and put 2 of them into your hand. Discard t
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5bfdb71622ef513a.webp)
+![](/images/045287-t-furumetarurabo.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1903,7 +1903,7 @@ All [M] Pokémon <em>(both yours and your opponent’s)</em> take 30 less damage
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bf29c4cc47aa80b7.webp)
+![](/images/sv4-en-164.webp)
 
 </div><div class="jb-col-10">
 
@@ -1913,7 +1913,7 @@ The Future Pokémon this card is attached to has no Retreat Cost, and the attack
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/4464b3571002b2cb.webp)
+![](/images/img-6452.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1925,7 +1925,7 @@ Each player discards cards until they have 5 cards in their hand. (Your opponent
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/33996b1b3cbf5fc7.webp)
+![](/images/045283-t-hebibaton.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1937,7 +1937,7 @@ If the Pokémon with a Retreat Cost of exactly 4 this card is attached to is you
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3638f6804c90c28e.webp)
+![](/images/045281-t-hiromanto.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1949,7 +1949,7 @@ The Pokémon this card is attached to gets +100 HP.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ee6944523a493243.webp)
+![](/images/1530-032-t-masterball-ol.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1963,7 +1963,7 @@ Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shu
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6ed2467fbb44c03e.webp)
+![](/images/045212-t-makishimamuberuto.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1975,7 +1975,7 @@ Attacks used by the Pokémon this card is attached to do 50 more damage to your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/52df4db4091aaa55.webp)
+![](/images/045215-t-matsubanokakushin.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -1989,7 +1989,7 @@ Draw a card for each of your opponent’s Benched Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/46f2fd92fc53b685.webp)
+![](/images/045216-t-kikennamitsurin.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -2001,7 +2001,7 @@ During Pokémon Checkup, put 2 more damage counters on each Poisoned Pokémon (e
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/74b9e77a3234168e.webp)
+![](/images/sv5-17.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -2013,7 +2013,7 @@ Switch in 1 of your opponent’s Benched Pokémon to the Active Spot. If you do,
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8db9bf1989f7f74e.webp)
+![](/images/img-6447.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -2025,7 +2025,7 @@ Attach a Basic Energy card from your discard pile to each of your Future Pokémo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0a5b0cc3f7812054.webp)
+![](/images/img-6450.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -2037,7 +2037,7 @@ The Retreat Cost of the Pokémon this card is attached to is [C] less. If that P
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/aebfc2d34c3c4496.webp)
+![](/images/045285-t-seiji.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -2051,7 +2051,7 @@ Search your deck for a Pokémon, except any Pokémon with an Ability, that evolv
     <span id="Energy" class="jb-bold">Special Energy</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e71af93e14759a2e.webp)
+![](/images/mist-energy.webp)
 
 *[Proxy Available](/proxies/sv5)*
 
@@ -2065,7 +2065,7 @@ Prevent all effects of attacks from your opponent’s Pokémon done to the Poké
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3dccde9f1440c50a.webp)
+![](/images/sv5-16.webp)
 
 *[Proxy Available](/proxies/sv5)*
 

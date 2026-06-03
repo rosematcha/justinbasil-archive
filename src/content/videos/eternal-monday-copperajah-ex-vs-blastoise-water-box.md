@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Copperajah ex vs. Blastoise Water Box"
 description: "In today's Eternal Monday, it's Copperajah ex vs. Blastoise Water Box! Will Copperajah ex and Full Metal Wall be too much for Blastoise and friends to handle? Or will Blastoise bring the heat necessary to melt Copperajah down?"
-ogImage: "/images/174dd8c16e8bee01.webp"
+ogImage: "/images/copperajah-vs-blastoise-water-box-174dd8.webp"
 publishDate: 2023-10-23
 youtubeId: "IvoCESTz3hQ"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-copperajah-ex-vs-blastoise-water-box"
@@ -19,7 +19,7 @@ In today's Eternal Monday, it's Copperajah ex vs. Blastoise Water Box! Will Copp
 
 
 
-![](/images/d521e6678323d3dd.webp)
+![](/images/copperajah-vs-blastoise-water-box.webp)
 
 
 

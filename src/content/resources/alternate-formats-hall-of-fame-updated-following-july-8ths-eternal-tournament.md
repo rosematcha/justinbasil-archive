@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following July 8th's Eternal Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the July 8th Eternal format tournament.  The tournament's results were as follows:    Mysterious Player - Ultra Necrozma CEC    Sleight - Sylveon VMAX    Willyazaa - Sylveon VMAX    Jake Gearhart - Holon Circle Lock    Click"
-ogImage: "/images/6a8bc641a0e377fd.webp"
+ogImage: "/images/ultra-necrozma-6a8bc6.webp"
 publishDate: 2022-07-09
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-july-8ths-eternal-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/6d436a85e97f5cf9.webp)
+![](/images/ultra-necrozma.webp)
 
 
 

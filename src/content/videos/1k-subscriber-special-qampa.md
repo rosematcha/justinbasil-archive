@@ -1,7 +1,7 @@
 ---
 title: "1K Subscriber Special: Q&A!"
 description: "I recently hit a thousand subscribers on YouTube thanks to all of you awesome trainers! So, in this week’s bonus video, it’s time for a channel first—a Q&A! In this video, I answer some questions from the community, ranging from “What is your favorite color” to “Who is the most handsome pers"
-ogImage: "/images/cbb5a402646db5a4.webp"
+ogImage: "/images/qa-questions-cbb5a4.webp"
 publishDate: 2023-04-05
 youtubeId: "85MvRjpCKQc"
 sourceUrl: "https://www.justinbasil.com/videos/1k-subscriber-special-qampa"
@@ -19,7 +19,7 @@ I recently hit a thousand subscribers on YouTube thanks to all of you awesome tr
 
 
 
-![](/images/d037c1d48ee6e7d5.webp)
+![](/images/qa-questions.webp)
 
 
 

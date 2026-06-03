@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Charizard ex vs. Ultra Necrozma"
 description: "In today's Eternal Monday, it's Charizard ex vs. the boogeyman of the Eternal format, Ultra Necrozma from Cosmic Eclipse!   Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/918e4bb0f4566d12.webp"
+ogImage: "/images/zard-vs-necro-918e4b.webp"
 publishDate: 2024-01-08
 youtubeId: "KtM-Bssc3x0"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-charizard-ex-vs-ultra-necrozma"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/6b77829daa08cc7e.webp)
+![](/images/zard-vs-necro.webp)
 
 
 

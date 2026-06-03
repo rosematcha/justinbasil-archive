@@ -1,13 +1,13 @@
 ---
 title: "Fusion Strike Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss8"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![Pokemon_TCG_Sword_Shield—Fusion_Strike_Logo.png](/images/b116d952c7586454.webp)
+![Pokemon_TCG_Sword_Shield—Fusion_Strike_Logo.png](/images/pokemon-tcg-sword-shield-fusion-strike-logo.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -19,7 +19,7 @@ showHeading: false
 
 
 
-![swsh8_symbol_38x38.png](/images/93a5d5d024838e95.webp)
+![swsh8_symbol_38x38.png](/images/swsh8-symbol-38x38.webp)
 
 
 

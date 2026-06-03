@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Bonus #5: Tinkaton ex vs. Chien-Pao ex"
 description: "Paldea Evolved testing continues! Up next, the it's hammer time as Tinkaton ex takes on Chien-Pao ex!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/f274f7af897ba54a.webp"
+ogImage: "/images/bonus-5-f274f7.webp"
 publishDate: 2023-05-17
 youtubeId: "EOiQT7Zt4Jc"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-5-tinkaton-ex-vs-chien-pao-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/838a9b2e9a50df74.webp)
+![](/images/bonus-5-838a9b.webp)
 
 
 

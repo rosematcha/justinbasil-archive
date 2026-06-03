@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Liability Weezing vs. United Wings"
 description: "In today's Eternal Monday, Weezing from EX Deoxys contends with THE BIRDS from Paldea Evolved. Will United Wings take the W or will Weezing's Liability simply prove too toxic?  Learn more about the Eternal format here:   justinbasil.com/eternal"
-ogImage: "/images/1a97d9a66ff4fe3a.webp"
+ogImage: "/images/weezing-dx-vs-united-wings-1a97d9.webp"
 publishDate: 2024-01-01
 youtubeId: "QdYr55dnju0"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-liability-weezing-vs-united-wings"
@@ -23,7 +23,7 @@ Learn more about the Eternal format here:
 
 
 
-![](/images/aadf7e19adafd1e8.webp)
+![](/images/weezing-dx-vs-united-wings.webp)
 
 
 

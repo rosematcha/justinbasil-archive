@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Part 3: Mabosstiff ex vs. Espathra ex"
 description: "Mabosstiff ex goes paw-to-wing with Espathra ex as we continue our pre-release testing for Paldean Fates!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/b95550e8ccf7f14e.webp"
+ogImage: "/images/part-3-b95550.webp"
 publishDate: 2023-12-15
 youtubeId: "qg9eBjdAB3w"
 sourceUrl: "https://www.justinbasil.com/videos/paldean-fates-early-testing-part-3-mabosstiff-ex-vs-espathra-ex"
@@ -27,7 +27,7 @@ Mabosstiff ex goes paw-to-wing with Espathra ex as we continue our pre-release t
 
 
 
-![](/images/0ec64ee31b3c611c.webp)
+![](/images/part-3-0ec64e.webp)
 
 
 

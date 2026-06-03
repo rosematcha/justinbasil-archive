@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 26: Stellar Tera Type Coming to the Pokemon TCG!"
 description: "This week we discuss the Stellar Tera type coming in the \"Stellar Miracle\" set, the release of \"Temporal Forces,\" new cards from \"Crimson Haze,\" new English and Japanese products, and more!"
-ogImage: "/images/e5fbab3a40d79b65.webp"
+ogImage: "/images/raichu-768x432-e5fbab.webp"
 publishDate: 2024-03-09
 youtubeId: "5_GYCVmmluA"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-26-stellar-tera-type-coming-to-the-pokemon-tcg"
@@ -19,7 +19,7 @@ This week we discuss the Stellar Tera type coming in the "Stellar Miracle" set, 
 
 
 
-![](/images/f8e2a69d0724c4ec.webp)
+![](/images/raichu-768x432.webp)
 
 
 

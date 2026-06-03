@@ -1,14 +1,14 @@
 ---
 title: "Brilliant Stars (BRS, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/ss9"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/36b057cfb4895166.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
   <div>
-    <img src="/images/a96cc021e871042a.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb">
     <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center">
     <h1 class="jb-cta-title">New Archetypes from Brilliant Stars</h1>
     <hr>
@@ -68,7 +68,7 @@ With the arrival of Brilliant Stars in February of 2022, we’ll have a handful 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e8720e51adf67bde.webp)
+![](/images/torterra.webp)
 
 *Illus. Oswaldo KATO*
 
@@ -114,7 +114,7 @@ Bench Turtwig and evolve at least one of them into Grotle. Use Grotle’s Sun-Dr
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/51c4b82c8128cf16.webp)
+![](/images/burmy-box.webp)
 
 *Illus. Miki Tanaka*
 
@@ -152,7 +152,7 @@ Evolve Burmy into the most advantageous typing of Wormadam, to hit for Weakness 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6448695bb0b85f57.webp)
+![](/images/shaymin-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -192,7 +192,7 @@ Bench Leafeon V and use its Greening Cells ability early to attach a Grass Energ
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/35c628e10cd33623.webp)
+![](/images/durant.webp)
 
 *Illus. kodama*
 
@@ -236,7 +236,7 @@ Use the deck’s various searching options, get as many Durant in play as possib
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/31c6d9203da145cd.webp)
+![](/images/charizard-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -283,7 +283,7 @@ Evolve Minccino into Cinccino and Charizard V into Charizard VSTAR. Power up you
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/751cedbec6f466d3.webp)
+![](/images/entei.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -326,7 +326,7 @@ Attack with Entei V’s Burning Rondo attack, which does 20 damage plus 20 more 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/992108e679b0fe7c.webp)
+![](/images/magmortar-992108.webp)
 
 *Illus. AKIRA EGAWA*
 
@@ -366,7 +366,7 @@ Evolve Magmar into Magmortar, Minccino into Cinccino, and Electabuzz into Electi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/80ecb42a8c4af9b8.webp)
+![](/images/kingler-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -404,7 +404,7 @@ Use Kingler V’s Falling Bubbles attack, with the help of Glimwood Tangle to re
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0ba73c6494e9ade0.webp)
+![](/images/raichu-v.webp)
 
 *Illus. MUGENUP*
 
@@ -448,7 +448,7 @@ Get Raichu V and Mareep into play as early as possible, evolving into Flaaffy as
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/c1b61f3d17f370ad.webp)
+![](/images/flaaffy.webp)
 
 *Illus. OKACHEKE*
 
@@ -483,7 +483,7 @@ Evolve Mareep into Flaaffy, and bench Reshiram and Zekrom, using Tapu Koko as a 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3bb4e02ccbb6e525.webp)
+![](/images/pachirisu-3bb4e0.webp)
 
 *Illus. HYOGONOSUKE*
 
@@ -527,7 +527,7 @@ Attach Energy to Pachirisu to prepare for its Windup Thunder attack, which does 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d790610b23946ba9.webp)
+![](/images/malamar-d79061.webp)
 
 *Illus. Kagemaru Himeno*
 
@@ -565,7 +565,7 @@ Set up by benching Inkay, Minccino, and Remoraid, and evolve them as the opportu
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/424cf6ba8f5baa15.webp)
+![](/images/mimikyu-vmax.webp)
 
 *Illus. Studio Bora Inc.*
 
@@ -607,7 +607,7 @@ Using Arceus V’s Trinity Charge to power up a benched Arceus V or VSTAR and Mi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/b8d26e346d68e3bd.webp)
+![](/images/alcremie.webp)
 
 *Illus. sowsow*
 
@@ -652,7 +652,7 @@ Evolve Milcery into Alcremie, Bidoof into Bibarel, and Swablu into Altaria. Usin
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/a0885f443fdcc127.webp)
+![](/images/whimsicott-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -697,7 +697,7 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/11c9e85b8d9c0c58.webp)
+![](/images/lucario-11c9e8.webp)
 
 *Illus. GIDORA*
 
@@ -736,7 +736,7 @@ Evolve Riolu into Lucario and use its Roaring Resolve ability to attach a Fighti
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/79e2015234a4cb00.webp)
+![](/images/rayquaza-vmax-79e201.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -781,7 +781,7 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/250c18ca0dd51ca4.webp)
+![](/images/garchomp.webp)
 
 *Illus. Nurikabe*
 
@@ -818,7 +818,7 @@ Evolve Gible into Garchomp using Rare Candy (or by manually evolving it from Gab
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/deffc1b5b1155303.webp)
+![](/images/arceus-vstar-deffc1.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1070,7 +1070,7 @@ Use Arceus V’s Trinity Charge attack to power up the deck’s partner of choic
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2f79e87735232b9b.webp)
+![](/images/mad-party.webp)
 
 *Illus. Tomokazu Komiya*
 

@@ -1,7 +1,7 @@
 ---
 title: "151 Testing, Part 2: Arbok ex vs. Blastoise ex"
 description: "In this week's bonus video, two new decks from 151 go head-to-head! Blastoise ex takes on Arbok ex. Will Arbok ruin Blastoise's day, or does Arbok ex just ssssssssuck?   151 Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Se"
-ogImage: "/images/9947362927e31922.webp"
+ogImage: "/images/part-2-994736.webp"
 publishDate: 2023-08-23
 youtubeId: "KIC4m2bB4Dk"
 sourceUrl: "https://www.justinbasil.com/videos/151-testing-part-2-arbok-ex-vs-blastoise-ex"
@@ -28,7 +28,7 @@ In this week's bonus video, two new decks from 151 go head-to-head! Blastoise ex
 
 
 
-![](/images/2606a7fd87e44bac.webp)
+![](/images/part-2-2606a7.webp)
 
 
 

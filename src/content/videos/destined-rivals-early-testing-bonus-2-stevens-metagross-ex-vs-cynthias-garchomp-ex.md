@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Early Testing, Bonus 2: Steven's Metagross ex vs. Cynthia's Garchomp ex"
 description: "Destiny Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/aa2916e861d810ed.webp"
+ogImage: "/images/dri-bonus-2-aa2916.webp"
 publishDate: 2025-04-23
 youtubeId: "6Btcm84zleY"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-early-testing-bonus-2-stevens-metagross-ex-vs-cynthias-garchomp-ex"
@@ -24,7 +24,7 @@ showHeading: false
 
 
 
-![](/images/ce57e66672d4b7bd.webp)
+![](/images/dri-bonus-2.webp)
 
 
 

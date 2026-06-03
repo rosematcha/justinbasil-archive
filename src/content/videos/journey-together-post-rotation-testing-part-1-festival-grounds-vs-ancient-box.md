@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 1: Festival Grounds vs. Ancient Box"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/db5ed6a89c17bccf.webp"
+ogImage: "/images/part-1-db5ed6.webp"
 publishDate: 2025-01-25
 youtubeId: "lmsnf6w0izc"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-1-festival-grounds-vs-ancient-box"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/c763a1af9df3953b.webp)
+![](/images/part-1-c763a1.webp)
 
 
 

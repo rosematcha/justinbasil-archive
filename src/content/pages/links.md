@@ -1,6 +1,6 @@
 ---
 title: "Links"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/links"
 showHeading: false
 ---
@@ -15,7 +15,7 @@ showHeading: false
   <div class="jb-slide-layer-content align-content-center-vert">
     <div class="jb-slice-group group-copy copy-layer-background align-center-vert">
       <div class="jb-slice" data-slice-type="image" data-compound-type="logo" data-slice-id="62e7d1391b6952301aa10f3e">
-  <img alt="Logo V4 Transparent.png" src="/images/d3b20fc756585373.png" loading="lazy">
+  <img alt="Logo V4 Transparent.png" src="/images/logo-v4-transparent.png" loading="lazy">
 </div>
       <div class="jb-slice" data-slice-type="heading" data-slice-id="62e7d2232f07337554163dcd"><h1 id="sqs-slash-page-header">Links</h1>
 </div>

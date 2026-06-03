@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 1: Froslass ex vs. Garchomp ex"
 description: "In this video, it's time to start looking ahead to Paradox Rift! In this stream, Froslass ex and Garchomp go head-to-head! Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/d76ff1551fd365a7.webp"
+ogImage: "/images/part-1-d76ff1.webp"
 publishDate: 2023-09-01
 youtubeId: "PHaUNmo_urQ"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-1-froslass-ex-vs-garchomp-ex"
@@ -27,7 +27,7 @@ In this video, it's time to start looking ahead to Paradox Rift! In this stream,
 
 
 
-![](/images/0b27ed09bc4993b2.webp)
+![](/images/part-1-0b27ed.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "SUM-LOT"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/retro/sum-lot"
 showHeading: false
 ---
@@ -41,7 +41,7 @@ Below are a handful of archetypes from the Sun & Moon through Lost Thunder forma
     </div>
 </div></div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/a53f78cde1eac700.webp)
+![](/images/lost-march.webp)
 
 *Illus. Masakazu Fukuda*
 

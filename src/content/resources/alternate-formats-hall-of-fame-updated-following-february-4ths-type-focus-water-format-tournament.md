@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following February 4th's Type Focus: Water Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the February 4th Type Focus—Water format tournament.  The tournament's results were as follows:  1. Microscope12 - Inteleon VMAX  2. Sarbear2890 - Togekiss VMAX  3. Mew7926 - Suicune V  4. JustInBasil - Wailord V Stall  Clic"
-ogImage: "/images/9fd8a763d47f4a0d.webp"
+ogImage: "/images/inteleon-v-fst-9fd8a7.webp"
 publishDate: 2022-02-05
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-february-4ths-type-focus-water-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/62b06113e991d4c3.webp)
+![](/images/inteleon-v-fst.webp)
 
 
 

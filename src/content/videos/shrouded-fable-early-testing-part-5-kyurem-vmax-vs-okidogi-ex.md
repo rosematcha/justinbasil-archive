@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Part 5: Kyurem VMAX vs. Okidogi ex"
 description: "Now that we've seen the full reveal of Night Wanderer from Japan, let's look at what's coming in August!   Check out these links to learn more!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/61657427f679b0e6.webp"
+ogImage: "/images/part-5-616574.webp"
 publishDate: 2024-07-06
 youtubeId: "Rv8Gxr6wJG4"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-part-5-kyurem-vmax-vs-okidogi-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/13b257061d8e83fc.webp)
+![](/images/part-5-13b257.webp)
 
 
 

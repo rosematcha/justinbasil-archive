@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following 5 January's 345 Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 5 January 2024 Eternal format tournament.  The tournament's results were as follows:    PianoLegPete - Klawf    Triniray974 - United Wings    JustInBasil - Falinks    Ryan10 - Whiscash Mill    Click  here  to visit the u"
-ogImage: "/images/84a9797d65629fc3.webp"
+ogImage: "/images/klawf-84a979.webp"
 publishDate: 2024-01-05
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-5-januarys-345-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/9bc700e2ffd5dc46.webp)
+![](/images/klawf-9bc700.webp)
 
 *Illus. Yuya Oka*
 

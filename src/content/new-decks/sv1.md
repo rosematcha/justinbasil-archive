@@ -1,16 +1,16 @@
 ---
 title: "Scarlet & Violet (SVI, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "eR3SdbE16NU"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv1"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/d70c918967379e1a.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
   <div> 
-    <img src="/images/cfc488fb9adc6354.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV1 Set Identifier" src="/images/03cb87ae2d15bd85.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb">
+    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15">
     <h1 class="jb-white-center-margin5">New Archetypes from Scarlet &amp; Violet</h1>
     <h3 class="jb-smallcaps-center">And Other Archetypes Worth Considering After Rotation</h3>
     <hr>
@@ -112,7 +112,7 @@ Below is a list of archetypes that may be reasonably playable after this year’
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2709d806b3f30f27.webp)
+![](/images/serperior-vstar-2709d8.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -153,7 +153,7 @@ Evolve Serperior V into Serperior VSTAR to prepare it to attack and Kricketot in
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/527ad9499c3174fc.webp)
+![](/images/spidpos-ex.webp)
 
 *Illus. takuyoa*
 
@@ -204,7 +204,7 @@ Using Nest Ball, Ultra Ball, and Mesagoza, set up Leafeon V to evolve into Leafe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/bff172b136e6b9fc.webp)
+![](/images/arcanine-ex-bff172.webp)
 
 *Illus. 5ban Graphics*
 
@@ -265,7 +265,7 @@ Using a combination of Magma Basin and manual attachments, power up Entei V’s 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/21b097bb16b5f6b8.webp)
+![](/images/gyarados-ex-21b097.webp)
 
 *Illus. 5ban Graphics*
 
@@ -315,7 +315,7 @@ Play down Magikarp and Origin Forme Palkia V and evolve them into Gyarados ex an
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/60a1526c7bf87614.webp)
+![](/images/origin-forme-palkia-vstar.webp)
 
 *Illus. aky CG Works*
 
@@ -367,7 +367,7 @@ Using the deck’s various search cards and draw options, seek out and bench as 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/9cdbf156008868e9.webp)
+![](/images/kyurem-vmax.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -409,7 +409,7 @@ Bench and evolve Kyurem V and Origin Forme Palkia V into Kyurem VMAX and Origin 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/bbe1b40ab239d52b.webp)
+![](/images/cramorant.webp)
 
 *Illus. Midori Harada*
 
@@ -514,7 +514,7 @@ Source: Champion's League Aichi, 1st Place
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3519181591fdaaf4.webp)
+![](/images/ice-rider.webp)
 
 *Illus. 5ban Graphics*
 
@@ -555,7 +555,7 @@ Bench and evolve Ice Rider Calyrex V into Ice Rider Calyrex VMAX, and bench Bido
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8cc946a9c3a603a9.webp)
+![](/images/wugtrio-8cc946.webp)
 
 *Illus. KIYOTAKA OSHIYAMA*
 
@@ -601,7 +601,7 @@ Evolve Wiglett into Wugtrio and Cherubi into Cherrim. Power up Wugtrio with Cher
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2fc679ec56c5ba5c.webp)
+![](/images/dondozo-2fc679.webp)
 
 *Illus. Souichirou Gunjima*
 
@@ -646,7 +646,7 @@ Using Level Ball, fish each of your Tatsugiri out of the deck. Discard the Tatsu
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/fd4a6eef999f713f.webp)
+![](/images/magnezone-ex.webp)
 
 *Illus. hncl*
 
@@ -686,7 +686,7 @@ Use Miraidon ex to seek Magnemite in the early game so that they can be evolved 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/5af6ebb4688a2844.webp)
+![](/images/magnezone-vstar.webp)
 
 
 
@@ -732,7 +732,7 @@ Power up Magnezone VSTAR’s Magnet Grip attack, which does 180 damage and lets 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e45aac39a829115f.webp)
+![](/images/ampharos-ex-e45aac.webp)
 
 *Illus. Planeta Tsuji*
 
@@ -779,7 +779,7 @@ Get Mareep into play as early as possible with the assistance of Miraidon ex’s
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dfac2e4a0dffa7ac.webp)
+![](/images/miraidon-ex-dfac2e.webp)
 
 *Illus. 5ban Graphics*
 
@@ -902,7 +902,7 @@ Get Mareep into play as early as possible with the assistance of Miraidon ex’s
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/63eb65e9c2d41ca2.webp)
+![](/images/mew-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1012,7 +1012,7 @@ Bench Meloetta, Mew V, and Genesect V, filling your bench with Genesect V and a 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/afeedef5a267ede5.webp)
+![](/images/gardevoir-ex-afeede.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -1076,7 +1076,7 @@ While using Klefki’s Mischievous Lock Ability to slow down your opponent’s s
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4c9c93fb4191d8b0.webp)
+![](/images/banette-ex-4c9c93.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -1135,7 +1135,7 @@ While using Klefki’s Mischievous Lock Ability and Banette ex’s Eternal Darkn
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/97d87c92e831d6f7.webp)
+![](/images/shadow-rider.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1174,7 +1174,7 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3b8e8c3dbae034eb.webp)
+![](/images/ss-urshifu.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -1213,7 +1213,7 @@ Get out Houndour and Single Strike Urshifu V on early turns so that they can evo
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1a86177180eb44ee.webp)
+![](/images/rs-urshifu.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -1252,7 +1252,7 @@ Evolve Rapid Strike Urshifu V into Rapid Strike Urshifu VMAX and use the deck’
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d66252538f9d9b9a.webp)
+![](/images/darkrai-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1295,7 +1295,7 @@ Evolve Darkrai V into Darkrai VSTAR and use its Dark Pulse attack, which does 30
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2c4d84b29bbe2597.webp)
+![](/images/origin-forme-dialga-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1334,7 +1334,7 @@ Using Magnezone’s Giga Magnet Ability and manual attachments, prepare to take 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/cfc63aff6247c910.webp)
+![](/images/rayquaza-vmax.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -1382,7 +1382,7 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/462cce726aa51c71.webp)
+![](/images/giratina-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1435,7 +1435,7 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/99cacf76f93531c8.webp)
+![](/images/h-goodra-vstar.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1530,7 +1530,7 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e7b31bbfdcfde757.webp)
+![](/images/duraludon-vmax.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -1580,7 +1580,7 @@ Play down Arceus V and Duraludon V, using Arceus V’s Trinity Charge attack to 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2372b8c88b63604e.webp)
+![](/images/regidrago-vstar.webp)
 
 *Illus. PLANETA Yamashita*
 
@@ -1624,7 +1624,7 @@ Using Ultra Ball and Professor’s Research, Discard your Dragon-type attackers 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/08efb98c6ce0b7ae.webp)
+![](/images/blissey-v.webp)
 
 *Illus. Saki Hayashiro*
 
@@ -1663,7 +1663,7 @@ Bench Blissey V and attach an energy to it to prepare its Blissful Blast attack,
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1260cd3066615a2d.webp)
+![](/images/lugia-vstar-fr.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -1818,7 +1818,7 @@ Get two Archeops into the discard pile while benching and eventually evolving Lu
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0179e8a9112760c0.webp)
+![](/images/regigigas-vstar-0179e8.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -1859,7 +1859,7 @@ Play down Regigigas V and Ralts, then evolve Ralts into Kirlia to take advantage
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/deffc1b5b1155303.webp)
+![](/images/arceus-vstar-deffc1.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1898,7 +1898,7 @@ Use Arceus V’s Trinity Charge attack to power up another Arceus V or VSTAR. Ev
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3622921caa5ac09e.webp)
+![](/images/h-zoroark-vstar.webp)
 
 *Illus. aky CG Works*
 
@@ -1939,7 +1939,7 @@ Build up your bench, with Gapejaw Bog in play if possible (and/or with the help 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2db5f73b12152382.webp)
+![](/images/oinkologne-ex-2db5f7.webp)
 
 *Illus. aky CG Works*
 
@@ -1983,7 +1983,7 @@ Evolve Lechonk into Oinkologne ex and attack using its Fragrance Fury attack, wh
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/485d40e0a246667e.webp)
+![](/images/maushold-485d40.webp)
 
 *Illus. KIYOTAKA OSHIYAMA*
 

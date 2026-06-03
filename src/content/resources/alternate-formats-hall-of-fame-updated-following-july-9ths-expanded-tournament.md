@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following July 9th's Expanded Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the July 9th Expanded format tournament.  The tournament's results were such that JustInBasil came in first with a 3/0/0 record and the other three participants tied for second place with 1/2/0 records. As Twitchy had put a"
-ogImage: "/images/a05a0501a9fa7810.webp"
+ogImage: "/images/zacianv-a05a05.webp"
 publishDate: 2021-07-09
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-july-9ths-expanded-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![ZacianV.png](/images/f3f3f347de30e689.webp)
+![ZacianV.png](/images/zacianv.webp)
 
 
 

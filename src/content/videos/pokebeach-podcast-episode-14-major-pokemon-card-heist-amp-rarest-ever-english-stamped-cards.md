@@ -1,7 +1,7 @@
 ---
 title: "PokeBeach Podcast Episode 14: Major Pokemon Card Heist & Rarest Ever English Stamped Cards"
 description: "In this week's episode we discuss the release of incredibly rare English stamped cards, newly revealed English products, a major store theft in Tokyo, and we show off some memorabilia in our collections!"
-ogImage: "/images/260576fe4ff22348.webp"
+ogImage: "/images/kakuna-768x432-260576.webp"
 publishDate: 2023-12-15
 youtubeId: "Zq-5UxNLTg0"
 sourceUrl: "https://www.justinbasil.com/videos/pokebeach-podcast-episode-14-major-pokemon-card-heist-amp-rarest-ever-english-stamped-cards"
@@ -19,7 +19,7 @@ In this week's episode we discuss the release of incredibly rare English stamped
 
 
 
-![](/images/325144d06eaafdb2.webp)
+![](/images/kakuna-768x432.webp)
 
 
 

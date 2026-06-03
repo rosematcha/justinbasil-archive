@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Part 1: Infernape vs. Sinistcha"
 description: "Now that we've seen the full reveal of Crimson Haze from Japan, let's start looking at the newest decks from Twilight Masquerade!   Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Dec"
-ogImage: "/images/8dc62688a79eeeb1.webp"
+ogImage: "/images/part-1-8dc626.webp"
 publishDate: 2024-03-30
 youtubeId: "-R8zKvL6-e8"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-part-1-infernape-vs-sinistcha"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/4caff3e150eabb28.webp)
+![](/images/part-1-4caff3.webp)
 
 
 

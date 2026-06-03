@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Bonus #7: Ting-Lu ex vs. Lycanroc ex"
 description: "Paldea Evolved testing continues! Up next, it's the earthen moose versus the angry werewolf!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/ebd8360fb53c4dbb.webp"
+ogImage: "/images/bonus-7-ebd836.webp"
 publishDate: 2023-05-31
 youtubeId: "3GBu0wQStVc"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-7-ting-lu-ex-vs-lycanroc-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/893938d28201d9e4.webp)
+![](/images/bonus-7-893938.webp)
 
 
 

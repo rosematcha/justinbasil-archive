@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Roaring Moon ex vs. Ultra Necrozma"
 description: "In today's Eternal Monday, Roaring Moon ex tries out some extra toys from the Eternal format as it goes head on against the ultimate ender of nuzlockes, Ultra Necrozma!"
-ogImage: "/images/0307a2dd3268fb1a.webp"
+ogImage: "/images/r2-roaring-moon-vs-ultra-necrozma-0307a2.webp"
 publishDate: 2023-12-04
 youtubeId: "M3SPy9XZOo0"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-roaring-moon-ex-vs-ultra-necrozma"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Roaring Moon ex tries out some extra toys from the Et
 
 
 
-![](/images/fa06b947db6d0a96.webp)
+![](/images/r2-roaring-moon-vs-ultra-necrozma.webp)
 
 
 

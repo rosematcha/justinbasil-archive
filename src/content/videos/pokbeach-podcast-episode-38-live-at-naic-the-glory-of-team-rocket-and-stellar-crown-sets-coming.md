@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 38: Live at NAIC! \"The Glory of Team Rocket\" and \"Stellar Crown\" Sets Coming!"
 description: "We're live at NAIC! This week we discuss trademarks for \"The Glory of Team Rocket\" and \"Terastal Festival,\" our next English set \"Stellar Crown,\" exclusive Chinese \"Pokémon GO\" cards, the secret rares from \"Night Wanderer,\" Target cracking down on sc"
-ogImage: "/images/802daa17b9b39f63.webp"
+ogImage: "/images/ninetales-copy-768x432-802daa.webp"
 publishDate: 2024-06-08
 youtubeId: "nvAfOKOUciw"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-38-live-at-naic-the-glory-of-team-rocket-and-stellar-crown-sets-coming"
@@ -19,7 +19,7 @@ We're live at NAIC! This week we discuss trademarks for "The Glory of Team Rocke
 
 
 
-![](/images/5a5ae097ecc52055.webp)
+![](/images/ninetales-copy-768x432.webp)
 
 
 

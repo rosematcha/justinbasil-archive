@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 4: Quaquaval ex vs. Paldean Clodsire ex"
 description: "Paldea Evolved testing continues! Up next, Quaquaval ex dusts itself off to go head to head against Paldean Clodsire ex!  Check out these links to learn more!   Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes"
-ogImage: "/images/63291bdc59958bec.webp"
+ogImage: "/images/part-4-63291b.webp"
 publishDate: 2023-05-05
 youtubeId: "CykIR7tP6Yg"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-part-4-quaquaval-ex-vs-paldean-clodsire-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/7c1001c925892b4a.webp)
+![](/images/part-4-7c1001.webp)
 
 
 

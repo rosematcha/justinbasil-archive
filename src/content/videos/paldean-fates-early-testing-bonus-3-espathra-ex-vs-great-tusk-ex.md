@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Bonus 3: Espathra ex vs. Great Tusk ex"
 description: "In today's bonus video, our testing of Paldean Fates continues. Espathra ex sets its dazzling gaze on Great Tusk ex!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/6e97c1ff34b1de77.webp"
+ogImage: "/images/bonus-3-6e97c1.webp"
 publishDate: 2023-12-20
 youtubeId: "j9VIZe4FLL4"
 sourceUrl: "https://www.justinbasil.com/videos/paldean-fates-early-testing-bonus-3-espathra-ex-vs-great-tusk-ex"
@@ -27,7 +27,7 @@ In today's bonus video, our testing of Paldean Fates continues. Espathra ex sets
 
 
 
-![](/images/a75fde373eeb72d5.webp)
+![](/images/bonus-3-a75fde.webp)
 
 
 

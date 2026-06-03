@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 3: Skeledirge ex vs. Chien-Pao ex with Iron Hands ex"
 description: "In this video, we continue testing Paradox Rift! In this bonus video, Skeledirge ex vs. Chien-Pao ex with Iron Hands ex!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/44c2b42d3af5593b.webp"
+ogImage: "/images/bonus-3-44c2b4.webp"
 publishDate: 2023-09-27
 youtubeId: "uL2ECWPlS4g"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-bonus-3-skeledirge-ex-vs-chien-pao-ex-with-iron-hands-ex"
@@ -27,7 +27,7 @@ In this video, we continue testing Paradox Rift! In this bonus video, Skeledirge
 
 
 
-![](/images/903524d2f74f9ade.webp)
+![](/images/bonus-3-903524.webp)
 
 
 

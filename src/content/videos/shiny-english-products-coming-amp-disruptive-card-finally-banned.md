@@ -1,7 +1,7 @@
 ---
 title: "Shiny English Products Coming & Disruptive Card FINALLY Banned!"
 description: "This week we discuss new shiny products coming to America, a banned card, more Van Gogh drama, and we answer some of your questions!"
-ogImage: "/images/bc51492e46772f17.webp"
+ogImage: "/images/episode-7-lq-bc5149.webp"
 publishDate: 2023-10-27
 youtubeId: "jU8TS-TmlP0"
 sourceUrl: "https://www.justinbasil.com/videos/shiny-english-products-coming-amp-disruptive-card-finally-banned"
@@ -19,7 +19,7 @@ This week we discuss new shiny products coming to America, a banned card, more V
 
 
 
-![](/images/c6c3e123a08f04d9.webp)
+![](/images/episode-7-lq.webp)
 
 
 

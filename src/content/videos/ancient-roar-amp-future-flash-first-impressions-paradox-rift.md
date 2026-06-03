@@ -1,7 +1,7 @@
 ---
 title: "Ancient Roar & Future Flash First Impressions (Paradox Rift)"
 description: "We get to look at Ancient Roar and Future Flash--right before we head off to prerelease!   Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/07e83294ba8b14e2.webp"
+ogImage: "/images/ancient-roar-future-flash-first-impressions-07e832.webp"
 publishDate: 2023-10-20
 youtubeId: "eKlGejX1k84"
 sourceUrl: "https://www.justinbasil.com/videos/ancient-roar-amp-future-flash-first-impressions-paradox-rift"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/44e47b4d3244fd2c.webp)
+![](/images/ancient-roar-future-flash-first-impressions.webp)
 
 
 

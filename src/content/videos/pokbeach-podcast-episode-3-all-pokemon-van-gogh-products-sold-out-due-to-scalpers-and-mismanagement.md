@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 3: All Pokemon Van Gogh Products SOLD OUT Due to Scalpers and Mismanagement"
 description: "This week we discuss the disastrous Van Gogh Pokemon collaboration, a discovery about the 151 holo Energy, and a few other TCG products."
-ogImage: "/images/c089956a66c7da0e.webp"
+ogImage: "/images/s01e03-c08995.webp"
 publishDate: 2023-09-29
 youtubeId: "q1hbfWP6WxY"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-3-all-pokemon-van-gogh-products-sold-out-due-to-scalpers-and-mismanagement"
@@ -19,7 +19,7 @@ This week we discuss the disastrous Van Gogh Pokemon collaboration, a discovery 
 
 
 
-![](/images/c47811b0978d2fca.webp)
+![](/images/s01e03.webp)
 
 
 

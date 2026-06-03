@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 2: Garchomp ex vs. Skeledirge ex"
 description: "In this video, it's time to start looking ahead to Paradox Rift! In this stream, Skeledirge ex tests its metal against Garchomp! Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxie"
-ogImage: "/images/86ac5d20376ee71d.webp"
+ogImage: "/images/part-2-86ac5d.webp"
 publishDate: 2023-09-08
 youtubeId: "YkIJ518SWFE"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-2-garchomp-ex-vs-skeledirge-ex"
@@ -27,7 +27,7 @@ In this video, it's time to start looking ahead to Paradox Rift! In this stream,
 
 
 
-![](/images/671c9be75e27258e.webp)
+![](/images/part-2-671c9b.webp)
 
 
 

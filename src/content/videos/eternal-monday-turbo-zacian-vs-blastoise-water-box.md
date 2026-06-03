@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Turbo Zacian vs. Blastoise Water Box"
 description: "In this week's Eternal Monday, Turbo Zacian V sets out to prove just how much bite it has as it takes on Blastoise Water Box!"
-ogImage: "/images/6f66d229244fc140.webp"
+ogImage: "/images/blastoise-v-zacian-6f66d2.webp"
 publishDate: 2025-02-17
 youtubeId: "QnXitemVzsI"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-turbo-zacian-vs-blastoise-water-box"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Turbo Zacian V sets out to prove just how much bi
 
 
 
-![](/images/d705a6252e455970.webp)
+![](/images/blastoise-v-zacian.webp)
 
 
 

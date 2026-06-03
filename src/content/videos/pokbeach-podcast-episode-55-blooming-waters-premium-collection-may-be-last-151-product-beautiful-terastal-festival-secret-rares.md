@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 55: Blooming Waters Premium Collection May Be Last “151” Product, Beautiful “Terastal Festival” Secret Rares!"
 description: "This week we discuss the 151 \"Blooming Waters Premium Collection\" and if it's the last 151 product, the newly revealed secret rares from \"Terastal Festival ex,\" when the annual McDonald's promotion might be coming, new promo cards, the TCG's timeline for the next two years, and m"
-ogImage: "/images/501093b41d9e9cb8.webp"
+ogImage: "/images/golduck-copy-768x432-501093.webp"
 publishDate: 2024-11-23
 youtubeId: "DjaAe82mw04"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-55-blooming-waters-premium-collection-may-be-last-151-product-beautiful-terastal-festival-secret-rares"
@@ -19,7 +19,7 @@ This week we discuss the 151 "Blooming Waters Premium Collection" and if it's th
 
 
 
-![](/images/82bbe1b57989ed28.webp)
+![](/images/golduck-copy-768x432.webp)
 
 
 

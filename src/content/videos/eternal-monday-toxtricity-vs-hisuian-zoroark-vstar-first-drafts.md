@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Toxtricity vs. Hisuian Zoroark VSTAR (First Drafts)"
 description: "Today's Eternal Monday is episode 6 of First Drafts!  Eternal’s Rainbow Road? Toxtricity LOUD MIXes in its very first game against Hisuian Zoroark VSTAR, who’s made best friends with Unown P to PUT its opponents in grave peril.  Learn more about the Eternal format at  justinbasil.com/eternal"
-ogImage: "/images/5b30ed984b11ada1.webp"
+ogImage: "/images/first-drafts-6-toxtricity-vs-h-zoroark-vstar-5b30ed.webp"
 publishDate: 2024-07-15
 youtubeId: "02tzGLJSf3M"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-toxtricity-vs-hisuian-zoroark-vstar-first-drafts"
@@ -23,7 +23,7 @@ Learn more about the Eternal format at [justinbasil.com/eternal](/eternal)
 
 
 
-![](/images/cfa5088d54e31170.webp)
+![](/images/first-drafts-6-toxtricity-vs-h-zoroark-vstar.webp)
 
 
 

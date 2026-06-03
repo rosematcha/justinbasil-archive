@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 23: “Twilight Masquerade” and “Crimson Haze” Coming!"
 description: "In this week's episode we talk about the \"Twilight Masquerade\" set, more exclusive English cards releasing in Southeast Asia, the first weekend of the new Pikachu Van Gogh distribution, Worlds 2026 in San Francisco, \"Temporal Forces\" prerelease promos, and more!"
-ogImage: "/images/0c45fc5413174211.webp"
+ogImage: "/images/ekans-768x432-0c45fc.webp"
 publishDate: 2024-02-16
 youtubeId: "WZhrifliBQY"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-23-twilight-masquerade-and-crimson-haze-coming"
@@ -19,7 +19,7 @@ In this week's episode we talk about the "Twilight Masquerade" set, more exclusi
 
 
 
-![](/images/add32bd180650cd7.webp)
+![](/images/ekans-768x432.webp)
 
 
 

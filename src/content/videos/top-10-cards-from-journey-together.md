@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Journey Together!"
 description: "It's time to look at the top 10 cards from Journey Together!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/472d1494e3914ed7.webp"
+ogImage: "/images/top-10-from-journey-together-472d14.webp"
 publishDate: 2025-03-17
 youtubeId: "MQARzHCjXSA"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-journey-together"
@@ -27,7 +27,7 @@ It's time to look at the top 10 cards from Journey Together!
 
 
 
-![](/images/4e1ba7cf3da21da8.webp)
+![](/images/top-10-from-journey-together.webp)
 
 
 

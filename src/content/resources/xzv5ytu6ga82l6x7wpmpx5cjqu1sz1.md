@@ -1,7 +1,7 @@
 ---
 title: "Meta Decks Updated Following Late January Tournaments"
 description: "After examining results from recent tournament that took place throughout the second half of January 2021, the site’s page on Meta Decks has been updated with more recent deck lists for eight of the most prevalent decks in the current metagame.   Visit the updated page on meta decks !"
-ogImage: "/images/6a8fe346f46bc610.webp"
+ogImage: "/images/eternatus-vmax-6a8fe3.webp"
 publishDate: 2021-01-28
 sourceUrl: "https://www.justinbasil.com/resources/xzv5ytu6ga82l6x7wpmpx5cjqu1sz1"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Eternatus VMAX.png](/images/ecb242fa69425830.webp)
+![Eternatus VMAX.png](/images/eternatus-vmax-ecb242.webp)
 
 <div class="jb-code-container">
     <div class="box box_red">
@@ -27,7 +27,7 @@ After examining results from recent tournament that took place throughout the se
 
 
 
-![Top Archetypes 25 Jan 21.png](/images/19f8673fd69b0923.webp)
+![Top Archetypes 25 Jan 21.png](/images/top-archetypes-25-jan-21.webp)
 
 
 

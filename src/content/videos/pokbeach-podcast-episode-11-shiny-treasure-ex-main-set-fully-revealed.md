@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 11: \"Shiny Treasure ex\" Main Set Fully Revealed!"
 description: "This week we discuss the reveal of all the cards from \"Shiny Treasure ex,\" a new upcoming foil effect, and March's English products!"
-ogImage: "/images/c7cc055780c8279e.webp"
+ogImage: "/images/e11-768x432-c7cc05.webp"
 publishDate: 2023-11-24
 youtubeId: "GX7rI7YoTkw"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-11-shiny-treasure-ex-main-set-fully-revealed"
@@ -19,7 +19,7 @@ This week we discuss the reveal of all the cards from "Shiny Treasure ex," a new
 
 
 
-![](/images/c14ea1b67d859352.webp)
+![](/images/e11-768x432.webp)
 
 
 

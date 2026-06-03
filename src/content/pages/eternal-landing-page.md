@@ -1,6 +1,6 @@
 ---
 title: "Eternal Landing Page"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/eternal-landing-page"
 showHeading: false
 ---
@@ -13,7 +13,7 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/meta/eternal" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/63fa5db676a9d1a2.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/vileplume-ud.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Deck Lists</h1>
@@ -24,7 +24,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/league/formats#eternal" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/aeebb6557ef7ab41.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/penny-aeebb6.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Ban List and Rules</h1>
@@ -35,7 +35,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/f-on/essentials" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/1f12e44096e57da4.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/luxuryball.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Essential Cards</h1>
@@ -46,7 +46,7 @@ showHeading: false
 </div></a>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/eternal-format-rulings" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/b3ae0ed94822b022.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/goodbye-greens.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Key Rulings</h1>
@@ -70,7 +70,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/paradoxrifteternalbanlistupdate" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="IMG_5846.jpeg" class="summary-thumbnail-image" src="/images/2ccd02b251861d7b.webp" loading="lazy">
+          <img alt="IMG_5846.jpeg" class="summary-thumbnail-image" src="/images/img-5846.webp" loading="lazy">
     </div>
   </a>
     </div>
@@ -107,7 +107,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/emergency-ban-list-update-eternal-format-1" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Houndoom UF Header.png" class="summary-thumbnail-image" src="/images/215c26645194029f.webp" loading="lazy">
+          <img alt="Houndoom UF Header.png" class="summary-thumbnail-image" src="/images/houndoom-uf-header.webp" loading="lazy">
     </div>
   </a>
     </div>
@@ -144,7 +144,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/obsidian-flames-alternate-formats-ban-list-update-345-aceless-and-eternal-formats" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Hariyama.png" class="summary-thumbnail-image" src="/images/baa5217ceb42c67d.webp" loading="lazy">
+          <img alt="Hariyama.png" class="summary-thumbnail-image" src="/images/hariyama-baa521.webp" loading="lazy">
     </div>
   </a>
     </div>
@@ -181,7 +181,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/paldea-evolved-alternate-formats-ban-list-update-345-aceless-and-eternal-formats" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Brock's Box.png" class="summary-thumbnail-image" src="/images/d3f34fcbed06e23e.webp" loading="lazy">
+          <img alt="Brock's Box.png" class="summary-thumbnail-image" src="/images/brock-s-box.webp" loading="lazy">
     </div>
   </a>
     </div>
@@ -218,7 +218,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/alternate-formats-ban-list-update-scarlet-amp-violet-eternal-format-updates" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Penny.png" class="summary-thumbnail-image" src="/images/aeebb6557ef7ab41.webp" loading="lazy">
+          <img alt="Penny.png" class="summary-thumbnail-image" src="/images/penny-aeebb6.webp" loading="lazy">
     </div>
   </a>
     </div>

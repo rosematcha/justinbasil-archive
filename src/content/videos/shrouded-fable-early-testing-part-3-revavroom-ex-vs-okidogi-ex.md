@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Part 3: Revavroom ex vs. Okidogi ex"
 description: "Now that we've seen the full reveal of Night Wanderer from Japan, let's look at what's coming in August!   Check out these links to learn more!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/42b7028d9fff9bda.webp"
+ogImage: "/images/part-3-42b702.webp"
 publishDate: 2024-06-23
 youtubeId: "eTVpkXDazlY"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-part-3-revavroom-ex-vs-okidogi-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/6744c19b67d67683.webp)
+![](/images/part-3-6744c1.webp)
 
 
 

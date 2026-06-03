@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Regigigas vs. Turbo Iron Hands ex"
 description: "For today's Eternal Monday, Regigigas and Turbo Iron Hands ex face off: will Iron Hands repeat its mantra of \"Amp You Very Much!\" or will Regigigas tell Iron Hands to Amp off?  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/16236f6d5a67f3a0.webp"
+ogImage: "/images/regigigas-vs-iron-hands-16236f.webp"
 publishDate: 2024-04-08
 youtubeId: "GHoF8wBUH-s"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-regigigas-vs-turbo-iron-hands-ex"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/536f987f80c9ecdb.webp)
+![](/images/regigigas-vs-iron-hands.webp)
 
 
 

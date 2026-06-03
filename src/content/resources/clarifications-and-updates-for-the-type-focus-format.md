@@ -1,7 +1,7 @@
 ---
 title: "Clarifications and Updates for the Type Focus Format"
 description: "The description of the Type Focus format has been updated ahead of the Type Focus–Fairy format tournament on April 9th. Please be aware of the following changes to the format:  Two exceptions have been made with regard to permitting types other than the assigned Type Focus format.   Exception 1 : Po"
-ogImage: "/images/4e564aa87cf39e4d.webp"
+ogImage: "/images/gri-021a-r-en-lg-4e564a.webp"
 publishDate: 2021-03-16
 sourceUrl: "https://www.justinbasil.com/resources/clarifications-and-updates-for-the-type-focus-format"
 showHeading: false
@@ -9,11 +9,11 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-3"></div><div class="jb-col-3">
 
-![GRI_021a_R_EN_LG.png](/images/f5b138be27a1ee69.webp)
+![GRI_021a_R_EN_LG.png](/images/gri-021a-r-en-lg.webp)
 
 </div><div class="jb-col-3">
 
-![STS_079_R_EN_LG.png](/images/11b13d61d0fb582c.webp)
+![STS_079_R_EN_LG.png](/images/sts-079-r-en-lg.webp)
 
 </div><div class="jb-col-3"></div></div>
 

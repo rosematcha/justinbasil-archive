@@ -1,6 +1,6 @@
 ---
 title: "Vivid Voltage (VIV)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/viv"
 showHeading: false
 ---
@@ -47,7 +47,7 @@ With the arrival of Vivid Voltage this November, we’ve had a handful of new de
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/fe288c705d6f678f.webp)
+![Illus. 5ban Graphics](/images/orbeetle-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -106,7 +106,7 @@ Setup early by playing down Koffing and Orbeetle V, evolving them into Weezing a
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/e93da56ff8d9ef51.webp)
+![Illus. 5ban Graphics](/images/rillaboom-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -165,7 +165,7 @@ Source: Based on [this winning Japanese deck list](https://twitter.com/ds_nippon
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryuta Fuse](/images/755f4fe9b947a1c1.webp)
+![Illus. Ryuta Fuse](/images/arcanine.webp)
 
 *Illus. Ryuta Fuse*
 
@@ -223,7 +223,7 @@ Use Dedenne-GX’s Dedechange ability, Charizard’s Battle Sense ability, Quick
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. SATOSHI NAKAI](/images/8d3e15fdeab63019.webp)
+![Illus. SATOSHI NAKAI](/images/image-asset-8d3e15.webp)
 
 *Illus. SATOSHI NAKAI*
 
@@ -275,7 +275,7 @@ Play down Snom and Wailmer, evolving them into Frosmoth and Wailord as quickly a
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/8e1d528db3a00502.webp)
+![Illus. 5ban Graphics](/images/gdarmanitan-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -329,7 +329,7 @@ Source: Based on [this winning Japanese list](https://twitter.com/kdpl2/status/1
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Sanosuke Sakuma](/images/e0582f8173e0f88d.webp)
+![Illus. Sanosuke Sakuma](/images/bestbirb.webp)
 
 *Illus. Sanosuke Sakuma*
 
@@ -385,7 +385,7 @@ Quickly search out and play down as many Arrokuda as you can, preparing a Cramor
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus.aky CG Works](/images/363b6a50d06c4b07.webp)
+![Illus.aky CG Works](/images/centiskorch.webp)
 
 *Illus.aky CG Works*
 
@@ -442,7 +442,7 @@ Use a combination of Electrode’s Buzzap Generator ability, Tapu Koko {\*}’s 
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ayaka Yoshida](/images/baf5bd7945068794.webp)
+![Illus. Ayaka Yoshida](/images/image-asset-baf5bd.webp)
 
 *Illus. Ayaka Yoshida*
 
@@ -496,7 +496,7 @@ Search for Pokémon Research Lab with Green’s Exploration, attach an energy to
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Tomokazu Komiya](/images/bbe609288aecf9b9.webp)
+![Illus. Tomokazu Komiya](/images/shedinja.webp)
 
 *Illus. Tomokazu Komiya*
 
@@ -548,7 +548,7 @@ Evolve Nincada into Ninjask to bring Shedinja into play with Ninjask’s Shell S
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Naoyo Kimura](/images/39fbb75858a66812.webp)
+![Illus. Naoyo Kimura](/images/whimsicott.webp)
 
 *Illus. Naoyo Kimura*
 
@@ -609,7 +609,7 @@ Bench Skwovet and Cottonee, evolving them into Greedent and Whimsicott as soon a
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Anesaki Dynamic](/images/4e79dbe17a1e8a91.webp)
+![Illus. Anesaki Dynamic](/images/machamp.webp)
 
 *Illus. Anesaki Dynamic*
 
@@ -661,7 +661,7 @@ In the early game, setup and evolve Drilbur, working toward attacking with Excad
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Hasegawa Saki](/images/e4e0a23e7e8c3acd.webp)
+![Illus. Hasegawa Saki](/images/donphan.webp)
 
 *Illus. Hasegawa Saki*
 
@@ -721,7 +721,7 @@ Source: Based on [this winning Japanese deck list](https://twitter.com/t_chigasa
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/b5026cafc2f8f2a9.webp)
+![Illus. 5ban Graphics](/images/coalossal-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -785,7 +785,7 @@ Setup Coalossal V and Oranguru early, then evolve into Coalossal VMAX as soon as
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. aky CG Works](/images/55364256188d984d.webp)
+![Illus. aky CG Works](/images/image-asset-553642.webp)
 
 *Illus. aky CG Works*
 
@@ -836,7 +836,7 @@ Use Quick Ball, Poké Ball, Great Ball, Capture Energy, the deck’s own general
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. Hasuno](/images/5e0841d609d65442.webp)
+![Illus. Hasuno](/images/garbodor.webp)
 
 *Illus. Hasuno*
 
@@ -893,7 +893,7 @@ Play down Trubbish and use Quick Ball and the attachement of Capture Energy to b
 
 <div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/356044d121d02baa.webp)
+![Illus. 5ban Graphics](/images/togekiss-vmax.webp)
 
 *Illus. 5ban Graphics*
 

@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Early Testing, Part 1: Ethan's Typhlosion vs. Marnie's Morpeko"
 description: "Destiny Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/28fcf9cb14c59cf7.webp"
+ogImage: "/images/dri-bonus-1-28fcf9.webp"
 publishDate: 2025-04-16
 youtubeId: "7h8J2Lbs7JI"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-early-testing-part-1-ethans-typhlosion-vs-marnies-morpeko"
@@ -24,7 +24,7 @@ showHeading: false
 
 
 
-![](/images/edc7de162aabb03c.webp)
+![](/images/dri-bonus-1.webp)
 
 
 

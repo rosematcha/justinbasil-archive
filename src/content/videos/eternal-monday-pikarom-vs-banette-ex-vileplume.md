@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Pikarom vs. Banette ex / Vileplume"
 description: "What's this? Another morsel of delicious Eternal format goodness? It's Pikarom vs. Banette ex / Vileplume in the first ever Eternal Monday!"
-ogImage: "/images/86f9b02e9d7ea161.webp"
+ogImage: "/images/r1-thumbnail-86f9b0.webp"
 publishDate: 2023-10-02
 youtubeId: "RlQ6Bk8FQoU"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-pikarom-vs-banette-ex-vileplume"
@@ -19,7 +19,7 @@ What's this? Another morsel of delicious Eternal format goodness? It's Pikarom v
 
 
 
-![](/images/eba31421e31a19e9.webp)
+![](/images/r1-thumbnail.webp)
 
 
 

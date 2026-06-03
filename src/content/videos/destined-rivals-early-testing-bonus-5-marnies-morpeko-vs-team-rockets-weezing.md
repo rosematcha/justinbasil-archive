@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Early Testing, Bonus 5: Marnie's Morpeko vs. Team Rocket's Weezing"
 description: "In this week's bonus video, Marnie's Morpeko gets hangry against Team Rocket's Weezing!   Destined Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/815879e8f1714a01.webp"
+ogImage: "/images/dri-bonus-5-815879.webp"
 publishDate: 2025-05-28
 youtubeId: "PUJLJ5kQgMY"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-early-testing-bonus-5-marnies-morpeko-vs-team-rockets-weezing"
@@ -27,7 +27,7 @@ In this week's bonus video, Marnie's Morpeko gets hangry against Team Rocket's W
 
 
 
-![](/images/380232a0bf061b4d.webp)
+![](/images/dri-bonus-5.webp)
 
 
 

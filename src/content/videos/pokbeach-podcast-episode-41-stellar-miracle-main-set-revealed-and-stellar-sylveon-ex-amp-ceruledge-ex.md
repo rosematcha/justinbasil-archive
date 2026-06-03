@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 41: \"Stellar Miracle\" Main Set Revealed and Stellar Sylveon ex & Ceruledge ex!"
 description: "This week we discuss the \"Stellar Miracle\" main set reveal and English \"Stellar Crown\" card reveals, the reveals of Stellar Sylveon ex and Ceruledge ex, the \"Pokemon Together\" promos finally releasing in the U.S. and Canada, new \"Pokemon GO\" cards in China, an"
-ogImage: "/images/ee7cc9a6b226a4d7.webp"
+ogImage: "/images/zubat-768x432-ee7cc9.webp"
 publishDate: 2024-07-13
 youtubeId: "7ax041BYYLw"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-41-stellar-miracle-main-set-revealed-and-stellar-sylveon-ex-amp-ceruledge-ex"
@@ -19,7 +19,7 @@ This week we discuss the "Stellar Miracle" main set reveal and English "Stellar 
 
 
 
-![](/images/4abf421081d82be0.webp)
+![](/images/zubat-768x432.webp)
 
 
 

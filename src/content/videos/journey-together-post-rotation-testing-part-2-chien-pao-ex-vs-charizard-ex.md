@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 2: Chien-Pao ex vs. Charizard ex"
 description: "In this week’s livestream, Chien-Pao ex tries out the Revavroom engine against Charizard ex and its owls!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/13fc779a0e9fdae8.webp"
+ogImage: "/images/part-2-13fc77.webp"
 publishDate: 2025-02-01
 youtubeId: "5iilte3UPQo"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-2-chien-pao-ex-vs-charizard-ex"
@@ -27,7 +27,7 @@ In this week’s livestream, Chien-Pao ex tries out the Revavroom engine against
 
 
 
-![](/images/61afdd675afdf0c6.webp)
+![](/images/part-2-61afdd.webp)
 
 
 

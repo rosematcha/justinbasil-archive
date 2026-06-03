@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing, Bonus #5: Vespiquen ex vs. Palafin"
 description: "We continue to take a look at new decks from Obsidian Flames! In this week's bonus video, Vespiquen ex takes on Palafin! Is Vespiqen the bee's knees or is Palafin too tough a dolphin?   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights"
-ogImage: "/images/e2ae64456f89817a.webp"
+ogImage: "/images/obf-bonus-5-e2ae64.webp"
 publishDate: 2023-08-02
 youtubeId: "ab_6jhKUUd8"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-bonus-5-vespiquen-ex-vs-palafin"
@@ -28,7 +28,7 @@ We continue to take a look at new decks from Obsidian Flames! In this week's bon
 
 
 
-![](/images/d00647c92b51dd79.webp)
+![](/images/obf-bonus-5.webp)
 
 
 

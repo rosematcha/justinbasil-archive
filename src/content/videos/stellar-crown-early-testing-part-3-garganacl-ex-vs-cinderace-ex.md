@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Part 3: Garganacl ex vs. Cinderace ex"
 description: "Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/49236f2e1f1edc73.webp"
+ogImage: "/images/part-3-49236f.webp"
 publishDate: 2024-08-03
 youtubeId: "HbZxSdZpLZg"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-3-garganacl-ex-vs-cinderace-ex"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/8f878e71e5aa43ae.webp)
+![](/images/part-3-8f878e.webp)
 
 
 

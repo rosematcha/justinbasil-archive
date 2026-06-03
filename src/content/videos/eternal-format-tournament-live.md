@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format Tournament LIVE!"
 description: "Learn more about the Eternal format here:  justinbasil.com/eternal"
-ogImage: "/images/089030a2c2156967.webp"
+ogImage: "/images/video-thumbnails-v2-089030.webp"
 publishDate: 2023-11-17
 youtubeId: "anJ9PeRmJC8"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-tournament-live"
@@ -21,7 +21,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/47343d48f4c8aa73.webp)
+![](/images/video-thumbnails-v2.webp)
 
 
 

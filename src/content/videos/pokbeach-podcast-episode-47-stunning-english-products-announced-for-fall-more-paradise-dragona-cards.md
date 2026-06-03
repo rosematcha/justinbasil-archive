@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 47: Stunning English Products Announced for Fall, More “Paradise Dragona” Cards!"
 description: "This week we discuss several new upcoming Pokémon TCG products, more \"Paradise Dragona\" card reveals, and more!"
-ogImage: "/images/e40b4ee3e7d538a4.webp"
+ogImage: "/images/parasect-768x432-e40b4e.webp"
 publishDate: 2024-08-31
 youtubeId: "S2u7pMF9UuE"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-47-stunning-english-products-announced-for-fall-more-paradise-dragona-cards"
@@ -19,7 +19,7 @@ This week we discuss several new upcoming Pokémon TCG products, more "Paradise 
 
 
 
-![](/images/53a76f8f70e6b2ca.webp)
+![](/images/parasect-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 5: Miraidon ex vs. Gardevoir ex"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. We now march onward with new archetypes from Scarlet & Violet--this week, it's Gardevoir ex vs. Miraidon ex!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage"
-ogImage: "/images/1454382c6ffb713d.webp"
+ogImage: "/images/testing-part-5-miraidon-vs-gardevoir-145438.webp"
 publishDate: 2023-02-03
 youtubeId: "WBM-ox67aoE"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-part-5-miraidon-ex-vs-gardevoir-ex"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
     </div>
   </div></div>
 
-![](/images/7e517d8c0f1fe316.webp)
+![](/images/testing-part-5-miraidon-vs-gardevoir.webp)
 
 
 

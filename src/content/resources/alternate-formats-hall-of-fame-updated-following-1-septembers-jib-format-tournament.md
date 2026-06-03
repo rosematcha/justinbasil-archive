@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following 1 September's JIB Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 1 September 2023 JIB Format tournament.  The tournament's results were as follows:    Guil - Houndoom/Zeraora    Grayson H. - Bellossom ACE    Techster011 - Alolan Sandslash    kingK4RP - Stufful/Mew    Click  here  to v"
-ogImage: "/images/083f55d6cc684b6d.webp"
+ogImage: "/images/houndoom-083f55.webp"
 publishDate: 2023-09-07
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-1-septembers-jib-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/f372b97cb3d6b056.webp)
+![](/images/houndoom-f372b9.webp)
 
 *Illus. [satoru](https://www.pixiv.net/en/artworks/82158301)*
 

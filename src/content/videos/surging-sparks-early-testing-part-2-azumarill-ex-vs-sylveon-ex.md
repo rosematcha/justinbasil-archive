@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Part 2: Azumarill ex vs. Sylveon ex"
 description: "Now that we've seen the full reveal of Paradise Dragona from Japan, it's time to start looking ahead to the new decks releasing coming Surging Sparks!   Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected"
-ogImage: "/images/e4707b20d6e23bf1.webp"
+ogImage: "/images/part-2-e4707b.webp"
 publishDate: 2024-09-28
 youtubeId: "JVXJkRzBCFc"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-part-2-azumarill-ex-vs-sylveon-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/d0dd638e371b7ac0.webp)
+![](/images/part-2-d0dd63.webp)
 
 
 

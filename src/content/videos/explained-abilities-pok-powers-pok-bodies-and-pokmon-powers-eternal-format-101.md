@@ -1,7 +1,7 @@
 ---
 title: "EXPLAINED: Abilities, Poké-POWERS, Poké-BODIES, and Pokémon Powers (Eternal Format 101)"
 description: "In this video, I go over one of the most basic but potentially confusing parts of the Eternal (and Unlimited) format. What are Abilities, Poké-Powers, Poké-Bodies, and Pokémon Powers, and how do they interact with everything else in the format?  Learn more about the Eternal format at justinbasil.com"
-ogImage: "/images/feb44b0c177dff63.webp"
+ogImage: "/images/eternal-powers-abilities-feb44b.webp"
 publishDate: 2024-11-13
 youtubeId: "N2Wn9T2BRFI"
 sourceUrl: "https://www.justinbasil.com/videos/explained-abilities-pok-powers-pok-bodies-and-pokmon-powers-eternal-format-101"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/c86d6457b56b14f9.webp)
+![](/images/eternal-powers-abilities.webp)
 
 
 

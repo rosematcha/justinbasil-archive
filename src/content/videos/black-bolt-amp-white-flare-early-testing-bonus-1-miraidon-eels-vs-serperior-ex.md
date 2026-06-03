@@ -1,7 +1,7 @@
 ---
 title: "Black Bolt & White Flare Early Testing, Bonus 1: Miraidon + Eels vs. Serperior ex"
 description: "In this week's bonus video, Miraidon ex pairs up with Eelektrik and Zekrom to take on a draft of Serperior ex so rough, it's practically a sketch!   Black Bolt & White Flare Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/b2433ea978d6beb5.webp"
+ogImage: "/images/blk-wht-bonus-1-b2433e.webp"
 publishDate: 2025-07-02
 youtubeId: "3T4ljKwMZJA"
 sourceUrl: "https://www.justinbasil.com/videos/black-bolt-amp-white-flare-early-testing-bonus-1-miraidon-eels-vs-serperior-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Miraidon ex pairs up with Eelektrik and Zekrom to ta
 
 
 
-![](/images/90a344e37803eb28.webp)
+![](/images/blk-wht-bonus-1.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #7: Regidrago VSTAR vs. Darkrai VSTAR"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, it's time for Regidrago VSTAR to take on Darkrai VSTAR!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List      Vi"
-ogImage: "/images/4e6d494fefbd0bee.webp"
+ogImage: "/images/bonus-7-regidrago-vstar-vs-darkrai-vstar-4e6d49.webp"
 publishDate: 2023-03-29
 youtubeId: "Gixnb_46Jgw"
 sourceUrl: "https://www.justinbasil.com/videos/yycr6v8jf8jsmb7a9msp605ngboxou"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/f7a005877d33ca8c.webp)
+![](/images/bonus-7-regidrago-vstar-vs-darkrai-vstar.webp)
 
 
 

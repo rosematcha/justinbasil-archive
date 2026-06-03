@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Pack Opening"
 description: "Hang out with me as I learn what I got from my booster boxes of Temporal Forces!   Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/347f2dd854502051.webp"
+ogImage: "/images/tef-pack-opening-347f2d.webp"
 publishDate: 2024-03-27
 youtubeId: "5EzExdg_3Vs"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-pack-opening"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/bc00d5cba6494613.webp)
+![](/images/tef-pack-opening.webp)
 
 
 

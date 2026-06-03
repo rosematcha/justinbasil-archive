@@ -1,13 +1,13 @@
 ---
 title: "Vivid Voltage Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss4"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![vividvoltage_small.png](/images/4db8e9840965fd5d.webp)
+![vividvoltage_small.png](/images/vividvoltage-small.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -19,7 +19,7 @@ showHeading: false
 
 
 
-![VVO.png](/images/52c125d21589da93.webp)
+![VVO.png](/images/vvo.webp)
 
 
 

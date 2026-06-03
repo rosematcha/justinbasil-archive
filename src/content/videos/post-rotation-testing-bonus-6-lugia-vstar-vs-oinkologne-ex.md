@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #6: Lugia VSTAR vs. Oinkologne ex"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, it's time for Lugia VSTAR to take on Oinkologne ex!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List      Visual"
-ogImage: "/images/d6e2c8f262b26e22.webp"
+ogImage: "/images/bonus-part-6-lugia-vstar-vs-oinkologne-ex-d6e2c8.webp"
 publishDate: 2023-03-22
 youtubeId: "E-nM-MpULNo"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-bonus-6-lugia-vstar-vs-oinkologne-ex"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/526e863bc2699538.webp)
+![](/images/bonus-part-6-lugia-vstar-vs-oinkologne-ex.webp)
 
 
 

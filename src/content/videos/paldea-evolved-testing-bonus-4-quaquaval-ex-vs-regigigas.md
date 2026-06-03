@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Bonus #4: Quaquaval ex vs. Regigigas"
 description: "Paldea Evolved testing continues! Up next, the big duck takes on the Regis!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/0846ad76ef6b3edd.webp"
+ogImage: "/images/bonus-4-0846ad.webp"
 publishDate: 2023-05-10
 youtubeId: "Rgu3U0GF04A"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-4-quaquaval-ex-vs-regigigas"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/e4be5406532b4a19.webp)
+![](/images/bonus-4-e4be54.webp)
 
 
 

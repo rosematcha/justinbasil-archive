@@ -1,7 +1,7 @@
 ---
 title: "Pokémon TCG For Newbies: How to Make and Use Proxy Cards"
 description: "New to the Pokémon Trading Card Game and need to get some testing in? Here's the crash course on making proxy cards so that you can test away!"
-ogImage: "/images/e0c0d7397125aa58.webp"
+ogImage: "/images/how-to-make-proxies-e0c0d7.webp"
 publishDate: 2024-06-26
 youtubeId: "dBkfngEqmQU"
 sourceUrl: "https://www.justinbasil.com/videos/pokmon-tcg-for-newbies-how-to-make-and-use-proxy-cards"
@@ -19,7 +19,7 @@ New to the Pokémon Trading Card Game and need to get some testing in? Here's th
 
 
 
-![](/images/2dd1254c571626e0.webp)
+![](/images/how-to-make-proxies.webp)
 
 
 

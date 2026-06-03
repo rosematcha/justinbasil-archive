@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following August 13th's Galar Format Tourmament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the August 13th Galar format tournament.  The tournament's results were as follows:    KingK4RP - Rapid Strike Urshifu VMAX / Galarian Moltres V    Paveway42 - Zacian V / Inteleon    bunnybird12 - Ice Rider Calyrex VMAX    J"
-ogImage: "/images/8fce3c28007dc047.webp"
+ogImage: "/images/rs-urshifu-8fce3c.webp"
 publishDate: 2021-08-13
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-august-13ths-galar-format-tourmament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![RS Urshifu.png](/images/1a86177180eb44ee.webp)
+![RS Urshifu.png](/images/rs-urshifu.webp)
 
 
 

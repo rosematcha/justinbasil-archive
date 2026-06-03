@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Part 4: Scovillain ex vs. Iron Treads ex"
 description: "Our testing of Paldean Fates continues, with Scovillain ex getting spicy with Iron Treads ex!   Check out these links to learn more!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/4b866241c57fa0e0.webp"
+ogImage: "/images/part-4-4b8662.webp"
 publishDate: 2023-12-22
 youtubeId: "IFsGCCTNbys"
 sourceUrl: "https://www.justinbasil.com/videos/4b3n47gk5fwqgsdpdcbzhsv0lr9cv6"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/10e950b1186d8e79.webp)
+![](/images/part-4-10e950.webp)
 
 
 

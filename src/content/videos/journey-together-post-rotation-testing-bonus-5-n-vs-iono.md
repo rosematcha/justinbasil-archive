@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 5: N vs. Iono"
 description: "In this week's bonus video, N and Iono bring Zoroark and Bellibolt to face off at Levincia--or is it N's Castle?!     Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/e88f7b7d187db0f7.webp"
+ogImage: "/images/bonus-5-e88f7b.webp"
 publishDate: 2025-02-26
 youtubeId: "86Y05OYGxvw"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-5-n-vs-iono"
@@ -27,7 +27,7 @@ In this week's bonus video, N and Iono bring Zoroark and Bellibolt to face off a
 
 
 
-![](/images/626326bc1d9f1fe8.webp)
+![](/images/bonus-5-626326.webp)
 
 
 

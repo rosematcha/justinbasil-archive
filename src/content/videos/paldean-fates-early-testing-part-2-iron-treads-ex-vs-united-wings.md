@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Part 2: Iron Treads ex vs. United Wings"
 description: "Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/0f32b0fbc461a9c5.webp"
+ogImage: "/images/part-2-0f32b0.webp"
 publishDate: 2023-12-08
 youtubeId: "wcH8ifYUCSE"
 sourceUrl: "https://www.justinbasil.com/videos/paldean-fates-early-testing-part-2-iron-treads-ex-vs-united-wings"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/29c5150c35186683.webp)
+![](/images/part-2-29c515.webp)
 
 
 

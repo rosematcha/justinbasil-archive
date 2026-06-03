@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Typhlosion vs. Charizard ex (First Draft Monday!)"
 description: "In today's Eternal Monday, the First Draft Series debuts! We discuss our approaches to Typhlosion Prime and Charizard ex in the Eternal format and pit them against one another for their first battle!  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/414ad30bac9e9969.webp"
+ogImage: "/images/first-drafts-series-1-414ad3.webp"
 publishDate: 2024-04-15
 youtubeId: "xz_sMWTvLk4"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-typhlosion-vs-charizard-ex-first-draft-monday"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/ddbb9ac4a3e7ff5d.webp)
+![](/images/first-drafts-series-1.webp)
 
 
 

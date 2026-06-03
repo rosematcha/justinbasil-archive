@@ -1,13 +1,13 @@
 ---
 title: "Evolving Skies Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss7"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![E1rwOHEXoAEjgQY (1).png](/images/2db3bf8d1d546322.webp)
+![E1rwOHEXoAEjgQY (1).png](/images/e1rwohexoaejgqy-1.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -19,7 +19,7 @@ showHeading: false
 
 
 
-![ss7.png](/images/60effaa4af1ffb2b.webp)
+![ss7.png](/images/ss7.webp)
 
 
 
@@ -419,97 +419,97 @@ The following cards have been cut from Evolving Skies and are likely to appear i
 
 <div class="jb-row"><div class="jb-col-2">
 
-![Schoolboy](/images/8559b2a66f537085.webp)
+![Schoolboy](/images/fa-school-boy.webp)
 
 *Schoolboy*
 
 </div><div class="jb-col-2">
 
-![](/images/5191963f343c5c38.webp)
+![](/images/fa-schoolgirl.webp)
 
 *Schoolgirl*
 
 </div><div class="jb-col-2">
 
-![Shauna](/images/da9849f7b8566dff.webp)
+![Shauna](/images/fa-shauna.webp)
 
 *Shauna*
 
 </div><div class="jb-col-2">
 
-![Flareon V](/images/73b6884344e932c5.webp)
+![Flareon V](/images/039595-p-busutav.webp)
 
 *Flareon V*
 
 </div><div class="jb-col-2">
 
-![Flareon V](/images/7aba1f385553ebeb.webp)
+![Flareon V](/images/img-0052.webp)
 
 *Flareon V*
 
 </div><div class="jb-col-2">
 
-![Flareon VMAX](/images/888f31662dba4aab.webp)
+![Flareon VMAX](/images/flareon-vmax.webp)
 
 *Flareon VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Vaporeon V](/images/1c42d0b14326300b.webp)
+![Vaporeon V](/images/039599-p-shawazuv.webp)
 
 *Vaporeon V*
 
 </div><div class="jb-col-2">
 
-![Vaporeon V](/images/7e7aefa644170c5a.webp)
+![Vaporeon V](/images/img-0054.webp)
 
 *Vaporeon V*
 
 </div><div class="jb-col-2">
 
-![Vaporeon VMAX](/images/d97913b87adcfbec.webp)
+![Vaporeon VMAX](/images/vaporeon-vmax.webp)
 
 *Vaporeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Jolteon V](/images/985b5ad8d7ab6e9d.webp)
+![Jolteon V](/images/039614-p-sandasuv.webp)
 
 *Jolteon V*
 
 </div><div class="jb-col-2">
 
-![Jolteon V](/images/868b32eb4003a823.webp)
+![Jolteon V](/images/img-0058.webp)
 
 *Jolteon V*
 
 </div><div class="jb-col-2">
 
-![Jolteon VMAX](/images/e01c2eef9aa34c2c.webp)
+![Jolteon VMAX](/images/jolteon-vmax-e01c2e.webp)
 
 *Jolteon VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![Espeon VMAX](/images/a0b295cd6995c08f.webp)
+![Espeon VMAX](/images/eeveelution-set-espeon-vmax.webp)
 
 *Espeon VMAX*
 
 </div><div class="jb-col-2">
 
-![Schoolboy](/images/a350f1d52cb2dbe5.webp)
+![Schoolboy](/images/rr-schoolboy.webp)
 
 *Schoolboy*
 
 </div><div class="jb-col-2">
 
-![Schoolgirl](/images/bcd38bb48fa3aceb.webp)
+![Schoolgirl](/images/rr-schoolgirl.webp)
 
 *Schoolgirl*
 
 </div><div class="jb-col-2">
 
-![Shauna](/images/3b0b8783fcd63bf7.webp)
+![Shauna](/images/rr-shauna.webp)
 
 *Shauna*
 

@@ -1,6 +1,6 @@
 ---
 title: "Table of Contents RSG 2022-2023"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on"
 showHeading: false
 ---
@@ -16,7 +16,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/e-on/introduction" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/ae00a41d94a31736.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/crobat-ae00a4.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Introduction to Rotation</h1>
@@ -27,7 +27,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/e-on/noteworthy-losses-and-retentions" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/133926b39711f959.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/marnie.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Noteworthy Losses and Retentions</h1>
@@ -39,7 +39,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/e-on/essentials" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/8cafafa5d159bb5f.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/lumineon-v.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">The New Essentials</h1>
@@ -50,7 +50,7 @@ showHeading: false
 </div></a>
 </div></div></div></div></div><div class="jb-row"><div class="jb-col-6"><div class="jb-code-container">
     <a href="/new-decks/sv1" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/deffc1b5b1155303.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/arceus-vstar-deffc1.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Decks to Consider After Rotation</h1>
@@ -61,7 +61,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-6"><div class="jb-code-container">
     <a href="/rotation/e-on/card-status" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/bffddd9735204059.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/switch-bffddd.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">2023 Rotation Card Status</h1>

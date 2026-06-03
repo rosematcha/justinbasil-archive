@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Bonus #8: Regigigas vs. the World"
 description: "Paldea Evolved testing now concludes! To wrap it all up, it's Regigigas vs. The World! Regigigas takes on Lugia VSTAR and Mew VMAX in this bonus video!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set High"
-ogImage: "/images/296af1f67f1833fb.webp"
+ogImage: "/images/bonus-8-296af1.webp"
 publishDate: 2023-06-07
 youtubeId: "e0j6PSjNQEI"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-8-regigigas-vs-the-world"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/e832f896acdeb523.webp)
+![](/images/bonus-8-e832f8.webp)
 
 
 

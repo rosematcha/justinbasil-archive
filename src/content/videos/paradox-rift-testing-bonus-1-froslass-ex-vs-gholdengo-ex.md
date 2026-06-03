@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 1: Froslass ex vs. Gholdengo ex"
 description: "In this video, it's we continue testing Paradox Rift! In this bonus video, Froslass ex takes on Gholdengo ex!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/4950a8fafcc2ef53.webp"
+ogImage: "/images/bonus-1-4950a8.webp"
 publishDate: 2023-09-13
 youtubeId: "emwOJujqpl4"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-bonus-1-froslass-ex-vs-gholdengo-ex"
@@ -27,7 +27,7 @@ In this video, it's we continue testing Paradox Rift! In this bonus video, Frosl
 
 
 
-![](/images/f128d35371738231.webp)
+![](/images/bonus-1-f128d3.webp)
 
 
 

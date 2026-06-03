@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Dragapult ex vs. Charizard ex / Bunnelby Control"
 description: "In today's Eternal Monday, Dragapult ex from Twilight Masquerade sends its Dreepy flying as it takes on Charizard ex / Bunnelby Control!  Learn more about the Eternal format at  justinbasil.com/eternal"
-ogImage: "/images/c000246db231f0ad.webp"
+ogImage: "/images/june-24-finals-dragapult-ex-vs-charizard-ex-control-c00024.webp"
 publishDate: 2024-07-29
 youtubeId: "mzyJgxtB3Pg"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-dragapult-ex-vs-charizard-ex-bunnelby-control"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at [justinbasil.com/eternal](/eternal)
 
 
 
-![](/images/fbe028929d52c055.webp)
+![](/images/june-24-finals-dragapult-ex-vs-charizard-ex-control.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Black Bolt & White Flare Eternal Format Ban List Update"
 description: "The following cards, and any alternate printings they may have, are now banned in the Eternal format, effectively immediately."
-ogImage: "/images/d92d3c3f3f751a8a.webp"
+ogImage: "/images/bbwf-d92d3c.webp"
 publishDate: 2025-07-10
 sourceUrl: "https://www.justinbasil.com/resources/black-bolt-amp-white-flare-eternal-format-ban-list-update"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/545a8dfcc78b14b7.webp)
+![](/images/bbwf.webp)
 
 
 
@@ -27,7 +27,7 @@ The following cards, and any alternate printings they may have, are now banned i
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a3de1d99300be027.webp)
+![](/images/ssp-143-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -39,7 +39,7 @@ Because other, less problematic, yet still powerful Eevee exist in the the cardp
 
 </div><div class="jb-col-2">
 
-![](/images/7422ef38f6049ca5.webp)
+![](/images/g2-018-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -49,7 +49,7 @@ To avoid situations like the example that ultimately devolve into watching your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e332ebce7e34b034.webp)
+![](/images/par-089-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -59,7 +59,7 @@ Now, to ensure the format doesn’t devolve into a turn one donkfest, Iron Valia
 
 </div><div class="jb-col-2">
 
-![](/images/e7677714c3752e2c.webp)
+![](/images/meloetta-ex.webp)
 
 </div><div class="jb-col-4">
 
@@ -69,7 +69,7 @@ However, when coupled with the large variety of Technical Machine cards—both o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/28e0b7738752e05f.webp)
+![](/images/bst-088-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -89,7 +89,7 @@ Additionally, the following cards, and any alternate printings they may have, ar
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e305a299892e3fd6.webp)
+![](/images/lot-008-r-en.webp)
 
 </div><div class="jb-col-4">
 

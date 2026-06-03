@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Magmortar Burn vs. Glimmora Prize Denial (First Drafts)"
 description: "In today's Eternal Monday, one deck unironically finds itself running Dangerous Laser while the other hunts for Focus Sashes in its Secret Box."
-ogImage: "/images/491e83de5d341407.webp"
+ogImage: "/images/first-drafts-18-magmortar-vs-glimmora-491e83.webp"
 publishDate: 2025-04-21
 youtubeId: "9DPg2Wk_V3w"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-magmortar-burn-vs-glimmora-prize-denial-first-drafts"
@@ -19,7 +19,7 @@ In today's Eternal Monday, one deck unironically finds itself running Dangerous 
 
 
 
-![](/images/239504977c0a21cd.webp)
+![](/images/first-drafts-18-magmortar-vs-glimmora.webp)
 
 
 

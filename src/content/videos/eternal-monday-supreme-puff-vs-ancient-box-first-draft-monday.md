@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Supreme Puff vs. Ancient Box (First Draft Monday!)"
 description: "In today's Eternal Monday, we take a different approach to Eternal Monday by taking the first drafts of two of our decks and pitting them against one another. Today, the babies GX try to Supreme Puff against the daunting Eternal Ancient Box!   Learn more about the Eternal format at justinbasil.com/e"
-ogImage: "/images/d042336518e621a7.webp"
+ogImage: "/images/first-drafts-8-d04233.webp"
 publishDate: 2024-10-14
 youtubeId: "VT4TdhZaLhA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-supreme-puff-vs-ancient-box-first-draft-monday"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/fd4c30002c2e2a93.webp)
+![](/images/first-drafts-8.webp)
 
 
 

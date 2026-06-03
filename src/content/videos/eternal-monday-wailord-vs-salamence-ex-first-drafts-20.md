@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Wailord vs. Salamence ex (First Drafts #20)"
 description: "In today's Eternal Monday, Wailord and Salamence ex from Journey Together assemble their armies and go to war."
-ogImage: "/images/e5185f03335fa301.webp"
+ogImage: "/images/06-first-drafts-wailor-v-salamence-ex-e5185f.webp"
 publishDate: 2025-06-08
 youtubeId: "KuVUQ7TP2UE"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-wailord-vs-salamence-ex-first-drafts-20"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Wailord and Salamence ex from Journey Together assemb
 
 
 
-![](/images/b22c40d1f86136dc.webp)
+![](/images/06-first-drafts-wailor-v-salamence-ex.webp)
 
 
 

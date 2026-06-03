@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 2: Pokemon TCG Classic, The Most Expensive Pokemon TCG Product Ever Released!"
 description: "This week we discuss Pokemon's legal action against fake cards, the upcoming Jirachi V Box, the secret rares from Raging Surf, Pokemon TCG Classic's $400 price, and the release of 151!"
-ogImage: "/images/cc98df2f3fc986c5.webp"
+ogImage: "/images/pkbe2-cc98df.webp"
 publishDate: 2023-09-23
 youtubeId: "d0tfio5YkRc"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-2-pokemon-tcg-classic-the-most-expensive-pokemon-tcg-product-ever-released"
@@ -19,7 +19,7 @@ This week we discuss Pokemon's legal action against fake cards, the upcoming Jir
 
 
 
-![](/images/a24ea164c970b015.webp)
+![](/images/pkbe2.webp)
 
 
 

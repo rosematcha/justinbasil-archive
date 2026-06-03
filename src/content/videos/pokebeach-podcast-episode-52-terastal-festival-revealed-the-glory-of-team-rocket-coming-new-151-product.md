@@ -1,7 +1,7 @@
 ---
 title: "PokeBeach Podcast Episode 52: \"Terastal Festival\" Revealed, \"The Glory of Team Rocket\" Coming, New \"151\" Product!"
 description: "This week we discuss BIG news! We have the first details of \"The Glory of Team Rocket\" and \"Heat Wave Arena,\" the first cards from Japan's special \"Terastal Festival\" set, an upcoming English \"151\" product, a reprint of the \"151\" Japanese set, the re"
-ogImage: "/images/01ba6823e517694f.webp"
+ogImage: "/images/meowth-copy-768x432-01ba68.webp"
 publishDate: 2024-10-26
 youtubeId: "Pd2qCyZHhMs"
 sourceUrl: "https://www.justinbasil.com/videos/pokebeach-podcast-episode-52-terastal-festival-revealed-the-glory-of-team-rocket-coming-new-151-product"
@@ -19,7 +19,7 @@ This week we discuss BIG news! We have the first details of "The Glory of Team R
     </div>
   </div></div>
 
-![](/images/3dd0f1625901abee.webp)
+![](/images/meowth-copy-768x432.webp)
 
 
 

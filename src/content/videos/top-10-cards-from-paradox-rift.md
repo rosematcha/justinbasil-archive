@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Paradox Rift!"
 description: "Paradox Rift is nigh upon us! It's time to look over the set's many, many great cards and shake out the top 10 best!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/3ec8056ac4cdd8c5.webp"
+ogImage: "/images/top-10-from-paradox-rift-3ec805.webp"
 publishDate: 2023-10-25
 youtubeId: "PLxCq02MH2k"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-paradox-rift"
@@ -27,7 +27,7 @@ Paradox Rift is nigh upon us! It's time to look over the set's many, many great 
 
 
 
-![](/images/9decc928fe0b6bc0.webp)
+![](/images/top-10-from-paradox-rift.webp)
 
 
 

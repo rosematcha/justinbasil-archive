@@ -1,7 +1,7 @@
 ---
 title: "PokeBeach Podcast Episode 8: Prerelease Raichu Graded After 25 Years, Win “151” Code Cards!"
 description: "In this week's episode we discuss new Paradox Rift promos, the legendary prerelease Raichu card, new Walmart products, The Indigo Disc release date, new Illustration Rares of the Kanto Starters, and more!   This week we also have three opportunities for you to win a bunch of Scarlet & Violet"
-ogImage: "/images/a6db5871f6a92c7b.webp"
+ogImage: "/images/episode-8-768x432-a6db58.webp"
 publishDate: 2023-11-03
 youtubeId: "5tKxKBlQiOw"
 sourceUrl: "https://www.justinbasil.com/videos/pokebeach-podcast-episode-8-prerelease-raichu-graded-after-25-years-win-151-code-cards"
@@ -21,7 +21,7 @@ This week we also have three opportunities for you to win a bunch of Scarlet & V
 
 
 
-![](/images/8dfbbb764736056e.webp)
+![](/images/episode-8-768x432.webp)
 
 
 

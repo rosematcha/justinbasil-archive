@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following 2 February 2024's Eternal Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 2 February 2024 Eternal format tournament.  The tournament's results were as follows:     Guil  - Florges Hand Control     iFly  - Blastoise Water Box     PianoLegPete  - Porygon Box     Kaleidophoenix  - Miraidon ex"
-ogImage: "/images/243930205fe67c93.webp"
+ogImage: "/images/florges-243930.webp"
 publishDate: 2024-02-04
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-2-february-2024s-eternal-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/0e7139ac00d0a947.webp)
+![](/images/florges-0e7139.webp)
 
 
 

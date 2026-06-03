@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 27: \"Twilight Masquerade\" Officially Revealed and All \"Crimson Haze\" Cards!"
 description: "This week we discuss the huge reveals of \"Twilight Masquerade,\" \"Mask of Change,\" and \"Crimson Haze,\" a deep dive into the gameplay differences of \"Pokemon TCG Pocket,\" more TCG vending machines in the U.S., and more!"
-ogImage: "/images/721d5de97aba4aa8.webp"
+ogImage: "/images/sandshrew-768x432-721d5d.webp"
 publishDate: 2024-03-15
 youtubeId: "waS7l4JY6KE"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-27-twilight-masquerade-officially-revealed-and-all-crimson-haze-cards"
@@ -19,7 +19,7 @@ This week we discuss the huge reveals of "Twilight Masquerade," "Mask of Change,
 
 
 
-![](/images/bc736a5d2a04d6c6.webp)
+![](/images/sandshrew-768x432.webp)
 
 
 

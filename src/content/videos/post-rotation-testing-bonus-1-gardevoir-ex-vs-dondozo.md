@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #1: Gardevoir ex vs. Dondozo"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, we send the first draft of my Dondozo deck list off the deep end of the pool to combat Gardevoir ex in fun a best-of-one! And in the process, we end up figuring out just what the list was m"
-ogImage: "/images/63e7b5b0218b1218.webp"
+ogImage: "/images/bonus-part-1-gardevoir-ex-vs-dondozo-63e7b5.webp"
 publishDate: 2023-02-01
 youtubeId: "CAlNAv7NkWY"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-bonus-1-gardevoir-ex-vs-dondozo"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/83ae2bd24f1b66d2.webp)
+![](/images/bonus-part-1-gardevoir-ex-vs-dondozo.webp)
 
 
 

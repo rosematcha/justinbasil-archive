@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Created"
 description: "A new Hall of Fame page has been created for the alternate format tournaments held each month on the  JustInBasil Discord server . On this page, you’ll see the results of past alternate format tournaments, including the deck lists for the top 4 players from each tournament!  Visit the new  Alternate"
-ogImage: "/images/ad4764151c17b53a.webp"
+ogImage: "/images/snorlax-ad4764.webp"
 publishDate: 2021-02-03
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-created"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Snorlax.png](/images/67a0b4f69714035f.webp)
+![Snorlax.png](/images/snorlax.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Bonus 1: United Wings vs. Kingdra ex"
 description: "On this week's bonus video, our foray into Shrouded Fable has us observing a flock of birds crashing beak first into a mighty seahorse. It's United Wings vs. Kingdra ex!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Dec"
-ogImage: "/images/5377ae61c41e3b6e.webp"
+ogImage: "/images/bonus-1-5377ae.webp"
 publishDate: 2024-06-12
 youtubeId: "NYNY3iyeM04"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-bonus-1-united-wings-vs-kingdra-ex"
@@ -27,7 +27,7 @@ On this week's bonus video, our foray into Shrouded Fable has us observing a flo
 
 
 
-![](/images/6bbca7dafd621c4b.webp)
+![](/images/bonus-1-6bbca7.webp)
 
 
 

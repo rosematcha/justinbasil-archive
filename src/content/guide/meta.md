@@ -1,6 +1,6 @@
 ---
 title: "What to Play - Standard Meta"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/meta"
 showHeading: false
 ---
@@ -31,7 +31,7 @@ The decks below have proven to be noteworthy contenders in the competitive scene
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/a545cb17119cd4f5.webp)
+![](/images/marnie-s-grimmsnarl-ex-froslass.webp)
 
 *Illus. PLANETA Mochizuki & Makura Tami*
 
@@ -67,7 +67,7 @@ Source: Piper Lepine - 6th Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4da408c2f7b56e68.webp)
+![](/images/raging-bolt-ex-4da408.webp)
 
 *Illus. aky CG Works*
 
@@ -103,7 +103,7 @@ Source: Christian LaBella - 1st Place - Milkaukee Regional Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/998553d6a8e69945.webp)
+![](/images/dragapult-ex-998553.webp)
 
 *Illus. 5ban Graphics*
 
@@ -137,7 +137,7 @@ Source: Tord Reklev - 3rd Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/afeedef5a267ede5.webp)
+![](/images/gardevoir-ex-afeede.webp)
 
 *Illus. 5ban Graphics*
 
@@ -173,7 +173,7 @@ Source: Isaiah Bradner - 1st Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/62ca64b8bc90bf82.webp)
+![](/images/dragzard.webp)
 
 *Illus. 5ban Graphics*
 
@@ -207,7 +207,7 @@ Source: Ryan Antonucci - 10th Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/a418a348a005983b.webp)
+![](/images/joltik-a418a3.webp)
 
 *Illus. Nisota Niso*
 
@@ -242,7 +242,7 @@ Source: Tyler Mathews - 7th Place - Monterrey Regional Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0bd1959f162e58bb.webp)
+![](/images/gholdengo-ex-0bd195.webp)
 
 *Illus. aky CG Works*
 
@@ -277,7 +277,7 @@ Source: Bodhi Robinson - 9th Place, Atlanta Regional Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0d7d660fb8b04bd0.webp)
+![](/images/charizard-ex-obf.webp)
 
 *Illus. 5ban Graphics*
 
@@ -319,7 +319,7 @@ The decks that appear below may have recently appeared in the top 8 but have sin
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/498e8e01ca878f45.webp)
+![](/images/gholdengo-dragapult.webp)
 
 *Illus. Shigenori Negishi & Jerky*
 
@@ -354,7 +354,7 @@ Source: Caleb Rogerson - 4th Place, Monterrey Regional Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3689f4b7e2b984a8.webp)
+![](/images/flareon-ex-3689f4.webp)
 
 *Illus. 5ban Graphics*
 
@@ -389,7 +389,7 @@ Source: Michael Bio - 11th Place, Melbourne Regional Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1c96b252dccb37a8.webp)
+![](/images/ethan-s-typhlosion.webp)
 
 *Illus. danciao*
 
@@ -425,7 +425,7 @@ Source: Generic List
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/37744721d2bf4109.webp)
+![](/images/archaludon-ex-377447.webp)
 
 *Illus. 5ban Graphics & PLANETA Mochizuki*
 
@@ -460,7 +460,7 @@ Source: Joshyl - 5th Place, Tournament of Doom “Regional” Championships V
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/58d5cc424eda73db.webp)
+![](/images/n-s-zoroark-ex-58d5cc.webp)
 
 *Illus. takuyoa*
 
@@ -496,7 +496,7 @@ Source: Cameron Shenoy - 7th Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/06303f3ced12b86a.webp)
+![](/images/hydreigon-ex-06303f.webp)
 
 *Illus. 5ban Graphics*
 
@@ -531,7 +531,7 @@ Source: yakumaru72 - 1st Place, TOURNAMENT OF DOOM! Star....
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4bc577eafb5aae9f.webp)
+![](/images/iron-thorns-ex-4bc577.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -565,7 +565,7 @@ Source: Aidan T - 1st Place, Challenge of Doom! Last One of the Season
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3dee33ce1cd27bcd.webp)
+![](/images/ethan-s-ho-oh-ex-armarouge.webp)
 
 *Illus. aky CG Works & AKIRA EGAWA*
 
@@ -598,7 +598,7 @@ Source: Generic List
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/30190215bb9e28e3.webp)
+![](/images/cynthia-s-garchomp-301902.webp)
 
 *Illus. 5ban Graphics*
 
@@ -635,7 +635,7 @@ Source: Fabien Pujol - 60th Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1c93d38c8add7cad.webp)
+![](/images/ceruledge-ex-1c93d3.webp)
 
 *Illus. 5ban Graphics*
 
@@ -670,7 +670,7 @@ Source: nelcq - 8th Place, Pumpka Weekly (31 March 2025)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/95b0846c992e5336.webp)
+![](/images/pidgeot-ex-control.webp)
 
 *Illus. takuya*
 
@@ -704,7 +704,7 @@ Source: Alloutblitzle - 6th Place, Tournament of Doom “Regional” Championshi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/30a030897ab82e80.webp)
+![](/images/great-tusk-mill.webp)
 
 *Illus. GIDORA*
 
@@ -740,7 +740,7 @@ Source: Generic List
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/22b299b1bd70e090.webp)
+![](/images/toedscruel-ex-22b299.webp)
 
 *Illus. 5ban Graphics*
 
@@ -775,7 +775,7 @@ Source: Ray Chen - 5th Place, North America International Championships
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6562c797bdf22176.webp)
+![](/images/yanmega-ex-6562c7.webp)
 
 *Illus. takuyoa*
 
@@ -808,7 +808,7 @@ Source: Generic List
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/de65617e5cee0d10.webp)
+![](/images/team-rocket-s-mewtwo-ex-de6561.webp)
 
 *Illus. aky CG Works*
 
@@ -846,7 +846,7 @@ Source: Juan - 2nd Place, Tournament of Doom! Wait, Where Did Last Week Go?
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/99cacf76f93531c8.webp)
+![](/images/h-goodra-vstar.webp)
 
 *Illus. 5ban Graphics*
 

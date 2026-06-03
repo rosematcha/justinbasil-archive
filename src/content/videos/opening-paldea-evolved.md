@@ -1,7 +1,7 @@
 ---
 title: "Opening Paldea Evolved!"
 description: "Paldea Evolved has arrived! It's time to crack open three booster boxes and see what's inside!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/5bf9e1ac885fda2b.webp"
+ogImage: "/images/pal-opening-5bf9e1.webp"
 publishDate: 2023-06-14
 youtubeId: "u3W9HisVkVU"
 sourceUrl: "https://www.justinbasil.com/videos/opening-paldea-evolved"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/ec39f3d101fd1295.webp)
+![](/images/pal-opening.webp)
 
 
 

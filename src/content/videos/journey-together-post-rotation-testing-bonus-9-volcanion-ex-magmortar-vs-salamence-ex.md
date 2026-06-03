@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 9: Volcanion ex / Magmortar vs. Salamence ex"
 description: "In this week's bonus video and the final Journey Together testing video, Volcanion ex and Magmortar turn up the heat against Salamence ex!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/2bdf86ecfba487ec.webp"
+ogImage: "/images/bonus-9-2bdf86.webp"
 publishDate: 2025-03-26
 youtubeId: "pRS-xk1IvxE"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-9-volcanion-ex-magmortar-vs-salamence-ex"
@@ -27,7 +27,7 @@ In this week's bonus video and the final Journey Together testing video, Volcani
 
 
 
-![](/images/a2c4bd87080df97c.webp)
+![](/images/bonus-9-a2c4bd.webp)
 
 
 

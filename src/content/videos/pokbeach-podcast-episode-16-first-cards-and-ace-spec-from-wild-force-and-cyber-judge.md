@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 16: First Cards and ACE SPEC from \"Wild Force\" and \"Cyber Judge!\""
 description: "This week we discuss the first revealed cards from \"Wild Force\" and \"Cyber Judge,\" including pink ACE SPEC cards!"
-ogImage: "/images/952893cca24e462e.webp"
+ogImage: "/images/pidgey-768x432-952893.webp"
 publishDate: 2023-12-29
 youtubeId: "HF-08LSiEVQ"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-16-first-cards-and-ace-spec-from-wild-force-and-cyber-judge"
@@ -19,7 +19,7 @@ This week we discuss the first revealed cards from "Wild Force" and "Cyber Judge
 
 
 
-![](/images/1eb10a2147d4eed0.webp)
+![](/images/pidgey-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Light Jolteon Stall vs. Blastoise Water Box"
 description: "In today's Eternal Monday, Light Jolteon from Neo Destiny sets off one Pulse Guard after another as it takes on Blastoise Water Box!"
-ogImage: "/images/797105245d2e7ac4.webp"
+ogImage: "/images/july-24-light-jolteon-stall-vs-blastoise-water-box-797105.webp"
 publishDate: 2024-08-05
 youtubeId: "7NqVyuX1uLA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-light-jolteon-stall-vs-blastoise-water-box"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Light Jolteon from Neo Destiny sets off one Pulse Gua
 
 
 
-![](/images/13fc846ea9982b8e.webp)
+![](/images/july-24-light-jolteon-stall-vs-blastoise-water-box.webp)
 
 
 

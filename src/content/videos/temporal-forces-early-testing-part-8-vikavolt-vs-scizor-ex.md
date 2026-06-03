@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 8: Vikavolt vs. Scizor ex"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.   Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/cbd9f3c0e3bb08a1.webp"
+ogImage: "/images/part-8-cbd9f3.webp"
 publishDate: 2024-02-23
 youtubeId: "YGyiPX7om-Q"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-8-vikavolt-vs-scizor-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/62461e5f8dae0ef7.webp)
+![](/images/part-8-62461e.webp)
 
 
 

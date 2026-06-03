@@ -1,14 +1,14 @@
 ---
 title: "Brilliant Stars"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss9"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/36b057cfb4895166.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
   <div>
-    <img src="/images/a96cc021e871042a.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb">
     <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center">
     <h1 class="jb-cta-title">Set List</h1>
     <hr>
@@ -244,11 +244,11 @@ This set introduces Pokémon VSTAR. Like Pokémon VMAX, Pokémon VSTAR evolve fr
     </div>
   </div></div></div><div class="jb-col-2">
 
-![](/images/8aaad49cd7e7e155.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-arceus-vstar-123.webp)
 
 </div><div class="jb-col-2">
 
-![](/images/98b21a7537671163.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-charizard-vstar-18-98b21a.webp)
 
 </div><div class="jb-col-2"></div></div>
 

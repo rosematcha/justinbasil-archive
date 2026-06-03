@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 36: FBI Arrests Pokemon TCG Scammers & Record 11.9 Billion Cards Printed in 2023!"
 description: "In this week's episode we discuss new cards from \"Night Wanderer,\" Pokémon printing a record 11.9 billion cards last year, and the FBI arresting a duo for forging $2 million worth of PSA graded Pokémon and sports cards."
-ogImage: "/images/568a3c4140198c1b.webp"
+ogImage: "/images/clefable-copy-768x432-568a3c.webp"
 publishDate: 2024-05-25
 youtubeId: "FYSHNKrK8qM"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-36-fbi-arrests-pokemon-tcg-scammers-amp-record-119-billion-cards-printed-in-2023"
@@ -19,7 +19,7 @@ In this week's episode we discuss new cards from "Night Wanderer," Pokémon prin
 
 
 
-![](/images/8f6a5f08e0fa109b.webp)
+![](/images/clefable-copy-768x432.webp)
 
 
 

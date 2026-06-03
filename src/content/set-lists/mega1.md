@@ -1,6 +1,6 @@
 ---
 title: "Mega Evolution Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/mega1"
 showHeading: false
 ---
@@ -8,7 +8,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/e795a2f742d840ce.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-mega-evolution-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-white-center-margin5">Prospective Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our third main set of 2025 by visiting the articles below.

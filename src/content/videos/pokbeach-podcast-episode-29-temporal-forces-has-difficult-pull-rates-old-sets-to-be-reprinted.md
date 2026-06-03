@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 29: \"Temporal Forces\" Has Difficult Pull Rates, Old Sets to be Reprinted!"
 description: "This week we discuss the difficult pull rates of \"Temporal Forces,\" Japan reprinting older sets, some \"Mask of Change\" reveals, more \"Twilight Masquerade\" products, and we chit chat about various Pokemon TCG topics in our lives!"
-ogImage: "/images/13ad3b24633d58a2.webp"
+ogImage: "/images/nidoranf-768x432-13ad3b.webp"
 publishDate: 2024-03-29
 youtubeId: "_xqkW41Wx10"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-29-temporal-forces-has-difficult-pull-rates-old-sets-to-be-reprinted"
@@ -19,7 +19,7 @@ This week we discuss the difficult pull rates of "Temporal Forces," Japan reprin
 
 
 
-![](/images/1a7c959176ed7890.webp)
+![](/images/nidoranf-768x432.webp)
 
 
 

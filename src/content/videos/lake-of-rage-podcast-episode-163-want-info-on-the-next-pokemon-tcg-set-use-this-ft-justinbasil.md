@@ -1,7 +1,7 @@
 ---
 title: "Lake of Rage Podcast Episode 163: Want info on the next Pokemon TCG set? Use this! ft ‪@JustInBasil‬"
 description: "For episode 163 of Mellow_Magikarp’s Lake of Rage podcast, I’m the very special temporary guest host!"
-ogImage: "/images/c3503886f88e15ed.webp"
+ogImage: "/images/gwbrcktayaaheip-c35038.webp"
 publishDate: 2024-09-02
 youtubeId: "UZE1f0LZCyc"
 sourceUrl: "https://www.justinbasil.com/videos/lake-of-rage-podcast-episode-163-want-info-on-the-next-pokemon-tcg-set-use-this-ft-justinbasil"
@@ -19,7 +19,7 @@ For episode 163 of Mellow\_Magikarp’s Lake of Rage podcast, I’m the very spe
 
 
 
-![](/images/fbac8a28ea6ecef2.webp)
+![](/images/gwbrcktayaaheip.webp)
 
 
 

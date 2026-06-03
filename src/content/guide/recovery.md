@@ -1,6 +1,6 @@
 ---
 title: "Recovery and Rebound"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/recovery"
 showHeading: false
 ---
@@ -49,7 +49,7 @@ Canceling Cologne ASR 136
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/3eccc51c67c63476.webp)
+![](/images/016-3eccc5.webp)
 
 </div><div class="jb-col-4">
 
@@ -59,7 +59,7 @@ As a Radiant Pokémon, you can only run a single copy of the card in your deck�
 
 </div><div class="jb-col-2">
 
-![](/images/01caa5e20ead1848.webp)
+![](/images/sv2-en-033.webp)
 
 </div><div class="jb-col-4">
 
@@ -75,7 +75,7 @@ That said, Oricorio is not a common inclusion in decks and tends not to be playe
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/68f43755939e7bd5.webp)
+![](/images/brs-148-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -85,7 +85,7 @@ Not many decks will include any copies of Roseanne’s Backup, but those that do
 
 </div><div class="jb-col-2">
 
-![](/images/b2cf36484365bcda.webp)
+![](/images/1149-3-b2cf36.webp)
 
 </div><div class="jb-col-4">
 
@@ -95,7 +95,7 @@ Most decks do not include any copies of Team Yell’s Cheer.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/04634527f78048e4.webp)
+![](/images/1138-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -105,7 +105,7 @@ Decks that run Cyllene tend to run 1-2 copies of the card.
 
 </div><div class="jb-col-2">
 
-![](/images/23a5a1af26b9c9c9.webp)
+![](/images/twm-155-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -121,7 +121,7 @@ Lana’s Aid isn’t an especially common card in decks. Decks that do include t
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/cf348891d0df3529.webp)
+![](/images/127-cf3488.webp)
 
 </div><div class="jb-col-4">
 
@@ -131,7 +131,7 @@ Decks that *do* want to run Energy Retrieval are those that can and do quickly m
 
 </div><div class="jb-col-2">
 
-![Other prints (errata): FLF 92, UPR 132](/images/b908cd83fffe3ea3.webp)
+![Other prints (errata): FLF 92, UPR 132](/images/image-asset-b908cd.webp)
 
 </div><div class="jb-col-4">
 
@@ -141,7 +141,7 @@ In most cases, decks will simply run more copies of their preferred Supporter ca
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/51098f2a82146177.webp)
+![](/images/pal-188-r-en-51098f.webp)
 
 </div><div class="jb-col-4">
 
@@ -151,7 +151,7 @@ Decks that run Super Rod tend to run 1-2 copies.
 
 </div><div class="jb-col-2">
 
-![](/images/3043273ab497016f.webp)
+![](/images/pal-189-r-en-lg-304327.webp)
 
 </div><div class="jb-col-4">
 
@@ -167,7 +167,7 @@ Decks that *do* want to run Superior Energy Retrieval are those that can and do 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/e32a4205fb49b319.webp)
+![](/images/sv4-en-167.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -181,7 +181,7 @@ In order to make adequate use of Mela, a deck must be built to contain Basic Fir
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/c995f416f03c019e.webp)
+![](/images/1136-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 

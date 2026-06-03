@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 11: Ancient Box vs. the World"
 description: "Our testing of Temporal Forces now concludes with our second and final VS The World video! We wrap up our look at the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game.  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card"
-ogImage: "/images/52127b9a78263d2a.webp"
+ogImage: "/images/part-11-52127b.webp"
 publishDate: 2024-03-23
 youtubeId: "n4rgKQJOQPE"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-11-ancient-box-vs-the-world"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/7fa92ee32ed3d948.webp)
+![](/images/part-11.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "JIB Promos"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/custom/jibp"
 showHeading: false
 ---
@@ -17,13 +17,13 @@ Click on a card to zoom in.
 
 ### Gallery View
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/1a59d2ce07fc73f8.webp"><img src="/images/1a59d2ce07fc73f8.webp" alt="Lillie.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/980a756a11f166d7.webp"><img src="/images/980a756a11f166d7.webp" alt="N.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fef37743d94dff9d.webp"><img src="/images/fef37743d94dff9d.webp" alt="Grass Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3660df426f198266.webp"><img src="/images/3660df426f198266.webp" alt="Fire Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/eb6bfb6b93586170.webp"><img src="/images/eb6bfb6b93586170.webp" alt="Water Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2a18d7bf07e476d0.webp"><img src="/images/2a18d7bf07e476d0.webp" alt="Lightning Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a0bf968e22bb165c.webp"><img src="/images/a0bf968e22bb165c.webp" alt="Psychic Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7ab98f02fe6d65c5.webp"><img src="/images/7ab98f02fe6d65c5.webp" alt="Fighting Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d71b5ddc2d995040.webp"><img src="/images/d71b5ddc2d995040.webp" alt="Darkness Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6518e1ac23b8de70.webp"><img src="/images/6518e1ac23b8de70.webp" alt="Metal Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a9266d96aa84bd6a.webp"><img src="/images/a9266d96aa84bd6a.webp" alt="Lorelei.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/da2ea4d97a4c5335.webp"><img src="/images/da2ea4d97a4c5335.webp" alt="Shadow Energy.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1e1a94e26b0bc429.webp"><img src="/images/1e1a94e26b0bc429.webp" alt="Miasmic Swamp.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/90dc6c2f24590d69.webp"><img src="/images/90dc6c2f24590d69.webp" alt="Giratina.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5813b4dce25d1a88.webp"><img src="/images/5813b4dce25d1a88.webp" alt="Zeraora.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f5ef4dc19ff6217f.webp"><img src="/images/f5ef4dc19ff6217f.webp" alt="Mewtwo.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/lillie.webp"><img src="/images/lillie.webp" alt="Lillie.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/n.webp"><img src="/images/n.webp" alt="N.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/grass-energy-jib.webp"><img src="/images/grass-energy-jib.webp" alt="Grass Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fire-energy-jib.webp"><img src="/images/fire-energy-jib.webp" alt="Fire Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/water-energy-jib.webp"><img src="/images/water-energy-jib.webp" alt="Water Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lightning-energy-jib.webp"><img src="/images/lightning-energy-jib.webp" alt="Lightning Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/psychic-energy-jib.webp"><img src="/images/psychic-energy-jib.webp" alt="Psychic Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fighting-energy-jib.webp"><img src="/images/fighting-energy-jib.webp" alt="Fighting Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/darkness-energy-jib.webp"><img src="/images/darkness-energy-jib.webp" alt="Darkness Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/metal-energy-jib.webp"><img src="/images/metal-energy-jib.webp" alt="Metal Energy JIB.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lorelei-a9266d.webp"><img src="/images/lorelei-a9266d.webp" alt="Lorelei.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/shadow-energy.webp"><img src="/images/shadow-energy.webp" alt="Shadow Energy.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/miasmic-swamp.webp"><img src="/images/miasmic-swamp.webp" alt="Miasmic Swamp.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/giratina-90dc6c.webp"><img src="/images/giratina-90dc6c.webp" alt="Giratina.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/zeraora-5813b4.webp"><img src="/images/zeraora-5813b4.webp" alt="Zeraora.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/mewtwo-f5ef4d.webp"><img src="/images/mewtwo-f5ef4d.webp" alt="Mewtwo.png" loading="lazy"></a></figure></div>
 
 ### Text View
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/1a59d2ce07fc73f8.webp)
+![](/images/lillie.webp)
 
 </div><div class="jb-col-10">
 
@@ -37,7 +37,7 @@ Artist: [Gonzarez](https://www.pixiv.net/en/artworks/86849969)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/980a756a11f166d7.webp)
+![](/images/n.webp)
 
 </div><div class="jb-col-10">
 
@@ -49,7 +49,7 @@ Artist: [ALZi米](https://www.pixiv.net/en/artworks/87889587)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fef37743d94dff9d.webp)
+![](/images/grass-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -59,7 +59,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3660df426f198266.webp)
+![](/images/fire-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -69,7 +69,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/eb6bfb6b93586170.webp)
+![](/images/water-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -79,7 +79,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2a18d7bf07e476d0.webp)
+![](/images/lightning-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -89,7 +89,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a0bf968e22bb165c.webp)
+![](/images/psychic-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -99,7 +99,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7ab98f02fe6d65c5.webp)
+![](/images/fighting-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -109,7 +109,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d71b5ddc2d995040.webp)
+![](/images/darkness-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -119,7 +119,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6518e1ac23b8de70.webp)
+![](/images/metal-energy-jib.webp)
 
 </div><div class="jb-col-10">
 
@@ -129,7 +129,7 @@ Artist: The Pokémon Company
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a9266d96aa84bd6a.webp)
+![](/images/lorelei-a9266d.webp)
 
 </div><div class="jb-col-10">
 
@@ -141,7 +141,7 @@ Artist: [Y](https://www.pixiv.net/en/artworks/71652942)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/da2ea4d97a4c5335.webp)
+![](/images/shadow-energy.webp)
 
 </div><div class="jb-col-10">
 
@@ -157,7 +157,7 @@ Artist: JustInBasil
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1e1a94e26b0bc429.webp)
+![](/images/miasmic-swamp.webp)
 
 </div><div class="jb-col-10">
 
@@ -169,7 +169,7 @@ Artist: [Stable Diffusion (AI)](https://www.bing.com/ck/a?%21&fclid=3bc87eca-525
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/90dc6c2f24590d69.webp)
+![](/images/giratina-90dc6c.webp)
 
 </div><div class="jb-col-10">
 
@@ -183,7 +183,7 @@ Artist: [徒夢](https://www.pixiv.net/en/artworks/100394278)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5813b4dce25d1a88.webp)
+![](/images/zeraora-5813b4.webp)
 
 </div><div class="jb-col-10">
 
@@ -197,7 +197,7 @@ Artist: [カネオト](https://www.pixiv.net/en/artworks/100308223)
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f5ef4dc19ff6217f.webp)
+![](/images/mewtwo-f5ef4d.webp)
 
 </div><div class="jb-col-10">
 

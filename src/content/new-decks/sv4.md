@@ -1,6 +1,6 @@
 ---
 title: "Paradox Rift (PAR, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "PHaUNmo_urQ"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv4"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/dbf88939215a7309.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">New Archetypes from Paradox Rift</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
@@ -58,7 +58,7 @@ With the arrival of Paradox Rift this November, we’ll have a handful of new de
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/526cc0d801b1be0b.webp)
+![](/images/froslass-ex.webp)
 
 *Illus. 5ban Graphics*
 
@@ -115,7 +115,7 @@ Evolve Snorunt into Froslass so that it can have its Evanescent Ability active, 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/898725b3f9e1e6a9.webp)
+![](/images/armarouge-ex-par.webp)
 
 *Illus. takuyoa*
 
@@ -154,7 +154,7 @@ Using a combination of manual attachments and Magma Basin together with Armaroug
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d942ea104f23f9ac.webp)
+![](/images/garchomp-ex-d942ea.webp)
 
 *Illus. 5ban Graphics*
 
@@ -217,7 +217,7 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/75596e76266ead8c.webp)
+![](/images/tsareena-ex-75596e.webp)
 
 *Illus. 5ban Graphics*
 
@@ -254,7 +254,7 @@ Evolve Bounsweet up into Tsareena ex with the help of Rare Candy. Using Tsareena
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d1996fb3ffacea1c.webp)
+![](/images/chien-pao-ex-d1996f.webp)
 
 *Illus. aky CG Works*
 
@@ -311,7 +311,7 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/59aa37e03c8d4d08.webp)
+![](/images/mewtwo-ex-59aa37.webp)
 
 *Illus. aky CG Works*
 
@@ -371,7 +371,7 @@ Play down and evolve Natu into Xatu, using Xatu’s Clairvoyant Sense Ability to
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/cede70005241b16f.webp)
+![](/images/iron-valiant-ex-cede70.webp)
 
 *Illus. aky CG Works*
 
@@ -422,7 +422,7 @@ Spread damage and even take Knock Outs using Iron Valiant ex’s Tachyon Bits Ab
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/cede70005241b16f.webp)
+![](/images/iron-valiant-ex-cede70.webp)
 
 *Illus. aky CG Works*
 
@@ -461,7 +461,7 @@ Spread damage and even take Knock Outs using Iron Valiant ex’s Tachyon Bits Ab
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/756a922835915893.webp)
+![](/images/ursaluna-v-756a92.webp)
 
 *Illus. 5ban Graphics*
 
@@ -495,7 +495,7 @@ Bulk up Ursaluna V with the help of Rock Chestplate and Lake Acuity. Heal away d
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/fb5db4f70ae7bb3e.webp)
+![](/images/roaring-moon-ex-par.webp)
 
 *Illus. takuyoa*
 
@@ -548,7 +548,7 @@ Using a combination of Earthen Vessel, Dark Patch, and Professor Sada’s Vitali
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0f395c5fb23d239e.webp)
+![](/images/skeledirge-ex-par.webp)
 
 *Illus. 5ban Graphics*
 
@@ -605,7 +605,7 @@ Evolve Fuecoco up into Skeledirge ex. Attack with Entei V, Skeledirge ex, or wit
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/0bd1959f162e58bb.webp)
+![](/images/gholdengo-ex-0bd195.webp)
 
 *Illus. takuyoa*
 

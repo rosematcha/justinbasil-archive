@@ -1,7 +1,7 @@
 ---
 title: "Newly-Overhauled Deck Building Guide (TEU-CPA) Now Available on justinbasil.com"
 description: "The newly-overhauled version of the  Basic Guide to Deck Building in the Standard Format  has been made available prior to full completion so that new deck builders for the Pokémon Trading Card Game can once again have a handy, relevant deck building resource at their fingertips.   This new guide fe"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 publishDate: 2020-10-11
 sourceUrl: "https://www.justinbasil.com/resources/newly-overhauled-deck-building-guide-teu-cpa-now-available-on-justinbasilcom"
 showHeading: false

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 43: PokeBeach Podcast: “Battle Partners” and “Surging Sparks” Sets Coming!"
 description: "This week we discuss the potential return of Owner's Pokémon in Japan's upcoming \"Battle Partners\" set, the next English set named \"Surging Sparks,\" more cards from the Stellar Sylveon and Ceruledge ex decks, the top 100 winners of 2024's Pokémon TCG Illustrator Contest, a new Wo"
-ogImage: "/images/770588c9dc10d5c7.webp"
+ogImage: "/images/oddish-768x432-770588.webp"
 publishDate: 2024-07-26
 youtubeId: "iZTbjvFAIc0"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-43-pokebeach-podcast-battle-partners-and-surging-sparks-sets-coming"
@@ -19,7 +19,7 @@ This week we discuss the potential return of Owner's Pokémon in Japan's upcomin
 
 
 
-![](/images/aff3ede47ca61e2c.webp)
+![](/images/oddish-768x432.webp)
 
 
 

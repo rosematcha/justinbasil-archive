@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Ban List Update: Eternal Format"
 description: "In today's Eternal Monday, we take a look at the ban list changes that went into effect for Surging Sparks!"
-ogImage: "/images/b64e2d6fa7a2e3bc.webp"
+ogImage: "/images/ssp-eternal-ban-list-update-b64e2d.webp"
 publishDate: 2024-10-28
 youtubeId: "f8xjKVxARoE"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-ban-list-update-eternal-format"
@@ -19,7 +19,7 @@ In today's Eternal Monday, we take a look at the ban list changes that went into
 
 
 
-![](/images/9bd94488fc351865.webp)
+![](/images/ssp-eternal-ban-list-update.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Bonus #3: Skeledirge ex vs. Paldean Clodsire ex"
 description: "Paldea Evolved testing continues! Up next, Skeledirge ex comes out to cook Paldean Clodsire ex?!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/b8c80cff6372801b.webp"
+ogImage: "/images/bonus-3-b8c80c.webp"
 publishDate: 2023-05-03
 youtubeId: "BARL9laoaPY"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-3-skeledirge-ex-vs-paldean-clodsire-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/870a6d5765851f77.webp)
+![](/images/bonus-3-870a6d.webp)
 
 
 

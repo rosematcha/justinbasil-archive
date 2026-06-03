@@ -1,7 +1,7 @@
 ---
 title: "Snow Hazard & Clay Burst First Impressions! (Paldea Evolved)"
 description: "It's time to look at the rest of the cards cards that will make up our Paldea Evolved set in June! Let's look at Chien-Pao ex, Slowking ex, Wattrel, and more!   Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List"
-ogImage: "/images/b57b4d420afa43e0.webp"
+ogImage: "/images/snow-hazard-clay-burst-first-impressions-b57b4d.webp"
 publishDate: 2023-04-08
 youtubeId: "qXAgnCvyHLA"
 sourceUrl: "https://www.justinbasil.com/videos/snow-hazard-amp-clay-burst-first-impressions-paldea-evolved"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/d3a69e70a804bce0.webp)
+![](/images/snow-hazard-clay-burst-first-impressions.webp)
 
 
 

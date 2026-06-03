@@ -1,6 +1,6 @@
 ---
 title: "Deck Strategy"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "cS41pSiVpjw"
 sourceUrl: "https://www.justinbasil.com/guide/deck-strategy"
 showHeading: false

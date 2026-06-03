@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 53: “Pokémon TCG Pocket” Will Usher in a New Era for the Pokémon TCG!"
 description: "This week we discuss the official reveal of \"Prismatic Evolutions\" and its full product lineup, the reveal of all 18 Eeveelutions from \"Terastal Festival ex,\" our surprising impressions of \"Pokémon TCG Pocket,\" and more!"
-ogImage: "/images/c79f0d6b821a64e5.webp"
+ogImage: "/images/persian-copy-768x432-c79f0d.webp"
 publishDate: 2024-11-02
 youtubeId: "_XgfMoyFP2w"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-53-pokmon-tcg-pocket-will-usher-in-a-new-era-for-the-pokmon-tcg"
@@ -19,7 +19,7 @@ This week we discuss the official reveal of "Prismatic Evolutions" and its full 
 
 
 
-![](/images/41eb8aa2c9a57768.webp)
+![](/images/persian-copy-768x432.webp)
 
 
 

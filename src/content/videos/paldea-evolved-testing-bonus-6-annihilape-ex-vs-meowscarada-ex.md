@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Bonus #6: Annihilape ex vs. Meowscarada ex"
 description: "Paldea Evolved testing continues! Up next, the it's the mad ape against the mysterious kitty!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/2a26211d66a65abd.webp"
+ogImage: "/images/bonus-6-2a2621.webp"
 publishDate: 2023-05-24
 youtubeId: "o7SlRVTnY-c"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-6-annihilape-ex-vs-meowscarada-ex"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/62d920b8a203a938.webp)
+![](/images/bonus-6-62d920.webp)
 
 
 

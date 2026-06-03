@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Bonus 1: Great Tusk ex vs. Iron Treads ex"
 description: "In this week's bonus video, Great Tusk ex lets loose against Iron Treads ex!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/d11446ff4d12ec77.webp"
+ogImage: "/images/bonus-1-d11446.webp"
 publishDate: 2023-12-06
 youtubeId: "Zpo4BVM5xSw"
 sourceUrl: "https://www.justinbasil.com/videos/paldean-fates-early-testing-bonus-1-great-tusk-ex-vs-iron-treads-ex"
@@ -26,7 +26,7 @@ In this week's bonus video, Great Tusk ex lets loose against Iron Treads ex!
 
 
 
-![](/images/d7afd207e3a4cf4f.webp)
+![](/images/bonus-1-d7afd2.webp)
 
 
 

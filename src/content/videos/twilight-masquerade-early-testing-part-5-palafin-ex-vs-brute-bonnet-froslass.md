@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Part 5: Palafin ex vs. Brute Bonnet / Froslass"
 description: "Now that we've seen the full reveal of Mask of Change from Japan, let's look at what's coming in May!  Check out these links to learn more!   Twilight Masquerade Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/959b0500adc5b12b.webp"
+ogImage: "/images/part-5-959b05.webp"
 publishDate: 2024-05-04
 youtubeId: "hcrfUpN7EXM"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-part-5-palafin-ex-vs-brute-bonnet-froslass"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/c573f3328efed476.webp)
+![](/images/part-5-c573f3.webp)
 
 
 

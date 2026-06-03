@@ -1,7 +1,7 @@
 ---
 title: "First Impressions from Shiny Treasure ex"
 description: "Now that we've seen the full reveal of the core set of Shiny Treasure ex from Japan, let's look at what we believe will become part of our Paldean Fates set in January!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/5c11f71cba4580b8.webp"
+ogImage: "/images/first-impressions-5c11f7.webp"
 publishDate: 2023-11-24
 youtubeId: "aJMd7b-aST8"
 sourceUrl: "https://www.justinbasil.com/videos/first-impressions-from-shiny-treasure-ex"
@@ -26,7 +26,7 @@ Now that we've seen the full reveal of the core set of Shiny Treasure ex from Ja
 
 
 
-![](/images/1ec62b5f9730f239.webp)
+![](/images/first-impressions.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Gardevoir ex vs. Ultra Malamar"
 description: "In today's Eternal Monday, Gardevoir ex suits up alongside its many Gardevoir siblings to take on Malamar Box with Ultra Necrozma-GX!  Learn more about the Eternal format here:   https://www.justinbasil.com/eternal"
-ogImage: "/images/c940ab7916f43ff7.webp"
+ogImage: "/images/gardevoir-ex-vs-ultra-necrozma-gx-c940ab.webp"
 publishDate: 2024-07-01
 youtubeId: "dm6FDTOLcCM"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-gardevoir-ex-vs-ultra-malamar"
@@ -23,7 +23,7 @@ Learn more about the Eternal format here:
 
 
 
-![](/images/dd7f6f8975a5d815.webp)
+![](/images/gardevoir-ex-vs-ultra-necrozma-gx.webp)
 
 
 

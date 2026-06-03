@@ -1,7 +1,7 @@
 ---
 title: "White Flare (& Black Bolt) Opening"
 description: "Hang out with me as I learn what I got from a Black Bolt & White Flare Poster Collection and a White Flare Binder Collection!    Black Bolt & White Flare Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/a1a3a5484f387577.webp"
+ogImage: "/images/blw-wht-pack-opening-a1a3a5.webp"
 publishDate: 2025-07-23
 youtubeId: "ITZ8hHCmbpc"
 sourceUrl: "https://www.justinbasil.com/videos/white-flare-amp-black-bolt-opening"
@@ -27,7 +27,7 @@ Hang out with me as I learn what I got from a Black Bolt & White Flare Poster Co
 
 
 
-![](/images/ede4241550e488b2.webp)
+![](/images/blw-wht-pack-opening.webp)
 
 
 

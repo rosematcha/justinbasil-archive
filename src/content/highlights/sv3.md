@@ -1,6 +1,6 @@
 ---
 title: "Highlights from Obsidian Flames"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/sv3"
 showHeading: false
 ---
@@ -8,7 +8,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/fb68be8144a88b94.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-white-center-margin5">Highlights from Obsidian Flames</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.
@@ -71,63 +71,63 @@ The following are likely to be the most sought after cards from the set by colle
 
 **Illustration Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/bd758d735c924bd2.webp"><img src="/images/bd758d735c924bd2.webp" alt="sv3_en_198.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f4f28ed419871c79.webp"><img src="/images/f4f28ed419871c79.webp" alt="sv3_en_199.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fa988256f14504e0.webp"><img src="/images/fa988256f14504e0.webp" alt="sv3_en_200.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/53d2cd8379905e5a.webp"><img src="/images/53d2cd8379905e5a.webp" alt="sv3_en_201.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/90f0853b9104003e.webp"><img src="/images/90f0853b9104003e.webp" alt="sv3_en_202.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d13925d188bdadba.webp"><img src="/images/d13925d188bdadba.webp" alt="sv3_en_203.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7810f19dac78b3ec.webp"><img src="/images/7810f19dac78b3ec.webp" alt="sv3_en_204.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6c0c46923731d0e3.webp"><img src="/images/6c0c46923731d0e3.webp" alt="sv3_en_205.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/28fda22e134ce40c.webp"><img src="/images/28fda22e134ce40c.webp" alt="sv3_en_206.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4aa1f970ef9d8e90.webp"><img src="/images/4aa1f970ef9d8e90.webp" alt="sv3_en_207.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/62d7a5735e2eb0e7.webp"><img src="/images/62d7a5735e2eb0e7.webp" alt="sv3_en_208.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a340e1674e54447d.webp"><img src="/images/a340e1674e54447d.webp" alt="sv3_en_209.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-198.webp"><img src="/images/sv3-en-198.webp" alt="sv3_en_198.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-199.webp"><img src="/images/sv3-en-199.webp" alt="sv3_en_199.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-200.webp"><img src="/images/sv3-en-200.webp" alt="sv3_en_200.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-201.webp"><img src="/images/sv3-en-201.webp" alt="sv3_en_201.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-202.webp"><img src="/images/sv3-en-202.webp" alt="sv3_en_202.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-203.webp"><img src="/images/sv3-en-203.webp" alt="sv3_en_203.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-204.webp"><img src="/images/sv3-en-204.webp" alt="sv3_en_204.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-205.webp"><img src="/images/sv3-en-205.webp" alt="sv3_en_205.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-206.webp"><img src="/images/sv3-en-206.webp" alt="sv3_en_206.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-207.webp"><img src="/images/sv3-en-207.webp" alt="sv3_en_207.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-208.webp"><img src="/images/sv3-en-208.webp" alt="sv3_en_208.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-209.webp"><img src="/images/sv3-en-209.webp" alt="sv3_en_209.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="sirpkmn">
 </div>
 </div>
 
 **Special Illustration Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6e4e7d950fdb441f.webp"><img src="/images/6e4e7d950fdb441f.webp" alt="sv3_en_222.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a8e61adcfca35edd.webp"><img src="/images/a8e61adcfca35edd.webp" alt="sv3_en_223.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4ade236557f7fda4.webp"><img src="/images/4ade236557f7fda4.webp" alt="sv3_en_224.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b102f626ad3299af.webp"><img src="/images/b102f626ad3299af.webp" alt="sv3_en_225.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-222.webp"><img src="/images/sv3-en-222.webp" alt="sv3_en_222.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-223.webp"><img src="/images/sv3-en-223.webp" alt="sv3_en_223.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-224.webp"><img src="/images/sv3-en-224.webp" alt="sv3_en_224.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-225.webp"><img src="/images/sv3-en-225.webp" alt="sv3_en_225.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="fapkmn">
 </div>
 </div>
 
 **Full Art Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/669f9f527a9c1b5d.webp"><img src="/images/669f9f527a9c1b5d.webp" alt="sv3_en_210.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8b019f668a074923.webp"><img src="/images/8b019f668a074923.webp" alt="sv3_en_211.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0b3a449fe204b917.webp"><img src="/images/0b3a449fe204b917.webp" alt="sv3_en_212.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/935ec072551edc20.webp"><img src="/images/935ec072551edc20.webp" alt="sv3_en_213.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4c260462003d00f2.webp"><img src="/images/4c260462003d00f2.webp" alt="sv3_en_214.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5b7f62f2be341078.webp"><img src="/images/5b7f62f2be341078.webp" alt="sv3_en_215.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/32ee7c5b2c775c01.webp"><img src="/images/32ee7c5b2c775c01.webp" alt="sv3_en_216.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7d6e8e1e830872ed.webp"><img src="/images/7d6e8e1e830872ed.webp" alt="sv3_en_217.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-210.webp"><img src="/images/sv3-en-210.webp" alt="sv3_en_210.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-211.webp"><img src="/images/sv3-en-211.webp" alt="sv3_en_211.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-212.webp"><img src="/images/sv3-en-212.webp" alt="sv3_en_212.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-213.webp"><img src="/images/sv3-en-213.webp" alt="sv3_en_213.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-214.webp"><img src="/images/sv3-en-214.webp" alt="sv3_en_214.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-215.webp"><img src="/images/sv3-en-215.webp" alt="sv3_en_215.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-216.webp"><img src="/images/sv3-en-216.webp" alt="sv3_en_216.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-217.webp"><img src="/images/sv3-en-217.webp" alt="sv3_en_217.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="srpkmn">
 </div>
 </div>
 
 **Special Rarity Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6e5496e269093089.webp"><img src="/images/6e5496e269093089.webp" alt="sv3_en_228.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-228.webp"><img src="/images/sv3-en-228.webp" alt="sv3_en_228.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="cpkmn">
 </div>
 </div>
 
 **Other Highly Collectible Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/e3c2b00d4ad46f98.webp"><img src="/images/e3c2b00d4ad46f98.webp" alt="sv3_en_013.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/438f84016dab6389.webp"><img src="/images/438f84016dab6389.webp" alt="sv3_en_014.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/701df833ccf06d43.webp"><img src="/images/701df833ccf06d43.webp" alt="sv3_en_015.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e0d48c8ffcef667f.webp"><img src="/images/e0d48c8ffcef667f.webp" alt="sv3_en_026.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1a88cfe23c7a2b1c.webp"><img src="/images/1a88cfe23c7a2b1c.webp" alt="sv3_en_027.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e506992317ce410c.webp"><img src="/images/e506992317ce410c.webp" alt="sv3_en_033.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8aa8b4c0d79da10d.webp"><img src="/images/8aa8b4c0d79da10d.webp" alt="sv3_en_056.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6f75260534923b7c.webp"><img src="/images/6f75260534923b7c.webp" alt="sv3_en_057.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fdf9e3881d4067ae.webp"><img src="/images/fdf9e3881d4067ae.webp" alt="sv3_en_066.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/52107d72d2b0195f.webp"><img src="/images/52107d72d2b0195f.webp" alt="sv3_en_079.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bbc3bb00b32811fd.webp"><img src="/images/bbc3bb00b32811fd.webp" alt="sv3_en_086.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7754d618403bfc3f.webp"><img src="/images/7754d618403bfc3f.webp" alt="sv3_en_124.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5323a3ba549ab651.webp"><img src="/images/5323a3ba549ab651.webp" alt="sv3_en_125.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5a9ae760f45c8d61.webp"><img src="/images/5a9ae760f45c8d61.webp" alt="sv3_en_130.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f0227f4c6c6776aa.webp"><img src="/images/f0227f4c6c6776aa.webp" alt="sv3_en_135.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c8de91a0ea3a02ff.webp"><img src="/images/c8de91a0ea3a02ff.webp" alt="sv3_en_136.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/61adf7dd07415b32.webp"><img src="/images/61adf7dd07415b32.webp" alt="sv3_en_152.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c427c3f564c31a96.webp"><img src="/images/c427c3f564c31a96.webp" alt="sv3_en_153.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1a18aae439eb4bd9.webp"><img src="/images/1a18aae439eb4bd9.webp" alt="sv3_en_159.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a40576f8bb357a69.webp"><img src="/images/a40576f8bb357a69.webp" alt="sv3_en_166.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-013.webp"><img src="/images/sv3-en-013.webp" alt="sv3_en_013.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-014.webp"><img src="/images/sv3-en-014.webp" alt="sv3_en_014.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-015.webp"><img src="/images/sv3-en-015.webp" alt="sv3_en_015.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-026.webp"><img src="/images/sv3-en-026.webp" alt="sv3_en_026.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-027.webp"><img src="/images/sv3-en-027.webp" alt="sv3_en_027.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-033.webp"><img src="/images/sv3-en-033.webp" alt="sv3_en_033.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-056.webp"><img src="/images/sv3-en-056.webp" alt="sv3_en_056.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-057.webp"><img src="/images/sv3-en-057.webp" alt="sv3_en_057.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-066.webp"><img src="/images/sv3-en-066.webp" alt="sv3_en_066.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-079.webp"><img src="/images/sv3-en-079.webp" alt="sv3_en_079.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-086.webp"><img src="/images/sv3-en-086.webp" alt="sv3_en_086.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-124.webp"><img src="/images/sv3-en-124.webp" alt="sv3_en_124.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-125.webp"><img src="/images/sv3-en-125.webp" alt="sv3_en_125.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-130.webp"><img src="/images/sv3-en-130.webp" alt="sv3_en_130.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-135.webp"><img src="/images/sv3-en-135.webp" alt="sv3_en_135.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-136.webp"><img src="/images/sv3-en-136.webp" alt="sv3_en_136.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-152.webp"><img src="/images/sv3-en-152.webp" alt="sv3_en_152.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-153.webp"><img src="/images/sv3-en-153.webp" alt="sv3_en_153.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-159.webp"><img src="/images/sv3-en-159.webp" alt="sv3_en_159.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-166.webp"><img src="/images/sv3-en-166.webp" alt="sv3_en_166.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="drpkmn">
 </div>
 </div>
 
 **Other Double Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/1912e265827e5fd7.webp"><img src="/images/1912e265827e5fd7.webp" alt="sv3_en_022.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7caaa7628f8932f6.webp"><img src="/images/7caaa7628f8932f6.webp" alt="sv3_en_042.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ff1beb0d6d8e66e5.webp"><img src="/images/ff1beb0d6d8e66e5.webp" alt="sv3_en_073.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b71f792d185b2b1a.webp"><img src="/images/b71f792d185b2b1a.webp" alt="sv3_en_082.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/33c7bff054b5fa57.webp"><img src="/images/33c7bff054b5fa57.webp" alt="sv3_en_102.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4ae428bbe1f9d73f.webp"><img src="/images/4ae428bbe1f9d73f.webp" alt="sv3_en_096.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8677ba29a86d4b2c.webp"><img src="/images/8677ba29a86d4b2c.webp" alt="sv3_en_120.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6528bef71064e1aa.webp"><img src="/images/6528bef71064e1aa.webp" alt="sv3_en_123.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/eb0525be6fc69b69.webp"><img src="/images/eb0525be6fc69b69.webp" alt="sv3_en_134.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6c797ef01d3a0536.webp"><img src="/images/6c797ef01d3a0536.webp" alt="sv3_en_156.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b3cc94bc268fa91c.webp"><img src="/images/b3cc94bc268fa91c.webp" alt="sv3_en_164.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e55b0448b61c8a31.webp"><img src="/images/e55b0448b61c8a31.webp" alt="sv3_en_179.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-022.webp"><img src="/images/sv3-en-022.webp" alt="sv3_en_022.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-042.webp"><img src="/images/sv3-en-042.webp" alt="sv3_en_042.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-073.webp"><img src="/images/sv3-en-073.webp" alt="sv3_en_073.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-082.webp"><img src="/images/sv3-en-082.webp" alt="sv3_en_082.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-102.webp"><img src="/images/sv3-en-102.webp" alt="sv3_en_102.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-096.webp"><img src="/images/sv3-en-096.webp" alt="sv3_en_096.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-120.webp"><img src="/images/sv3-en-120.webp" alt="sv3_en_120.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-123.webp"><img src="/images/sv3-en-123.webp" alt="sv3_en_123.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-134.webp"><img src="/images/sv3-en-134.webp" alt="sv3_en_134.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-156.webp"><img src="/images/sv3-en-156.webp" alt="sv3_en_156.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-164.webp"><img src="/images/sv3-en-164.webp" alt="sv3_en_164.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-179.webp"><img src="/images/sv3-en-179.webp" alt="sv3_en_179.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="fasupporters">
 </div>
 </div>
 
 **Full Art Supporters**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6cbfe2c1032e9957.webp"><img src="/images/6cbfe2c1032e9957.webp" alt="sv3_en_218.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d9296b16a5d9e4da.webp"><img src="/images/d9296b16a5d9e4da.webp" alt="sv3_en_219.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/745e87a38458471e.webp"><img src="/images/745e87a38458471e.webp" alt="sv3_en_220.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/358128c73586545d.webp"><img src="/images/358128c73586545d.webp" alt="sv3_en_221.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-218.webp"><img src="/images/sv3-en-218.webp" alt="sv3_en_218.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-219.webp"><img src="/images/sv3-en-219.webp" alt="sv3_en_219.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-220.webp"><img src="/images/sv3-en-220.webp" alt="sv3_en_220.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-221.webp"><img src="/images/sv3-en-221.webp" alt="sv3_en_221.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="sirsupporters">
 </div>
 </div>
 
 **Special Illustration Rare Supporters**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/59b865cc1da08331.webp"><img src="/images/59b865cc1da08331.webp" alt="sv3_en_226.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a968ff126a92cf68.webp"><img src="/images/a968ff126a92cf68.webp" alt="sv3_en_227.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-226.webp"><img src="/images/sv3-en-226.webp" alt="sv3_en_226.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-227.webp"><img src="/images/sv3-en-227.webp" alt="sv3_en_227.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="srtrainers">
 </div>
 </div>
 
 **Gold Items, Stadium Cards, and Energy Cards**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6e5496e269093089.webp"><img src="/images/6e5496e269093089.webp" alt="sv3_en_228.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c8fa5c2e4d99243e.webp"><img src="/images/c8fa5c2e4d99243e.webp" alt="sv3_en_229.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8f80afb37066290c.webp"><img src="/images/8f80afb37066290c.webp" alt="sv3_en_230.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv3-en-228.webp"><img src="/images/sv3-en-228.webp" alt="sv3_en_228.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-229.webp"><img src="/images/sv3-en-229.webp" alt="sv3_en_229.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv3-en-230.webp"><img src="/images/sv3-en-230.webp" alt="sv3_en_230.png" loading="lazy"></a></figure></div>
 
 ### For Players
 
@@ -140,7 +140,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/fc257ebeeb715235.webp)
+![](/images/sv03-en-123.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -152,7 +152,7 @@ Ability: Dust Field As long as this Pokémon is in the Active Spot, your opponen
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5323a3ba549ab651.webp)
+![](/images/sv3-en-125.webp)
 
 </div><div class="jb-col-4">
 
@@ -167,7 +167,7 @@ Ability: Infernal Reign When you play this Pokémon from your hand to evolve 1 o
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b3cc94bc268fa91c.webp)
+![](/images/sv3-en-164.webp)
 
 </div><div class="jb-col-4">
 
@@ -183,7 +183,7 @@ Ability: Quick Search Once during your turn, you may search your deck for a card
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/1912e265827e5fd7.webp)
+![](/images/sv3-en-022.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -195,7 +195,7 @@ Ability: Protective Mycelium Prevent all effects of attacks used by your opponen
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fdf9e3881d4067ae.webp)
+![](/images/sv3-en-066.webp)
 
 </div><div class="jb-col-4">
 
@@ -214,7 +214,7 @@ Ability: Protective Mycelium Prevent all effects of attacks used by your opponen
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/6e82a8e387e72937.webp)
+![](/images/sv3-en-188.webp)
 
 </div><div class="jb-col-4">
 
@@ -224,7 +224,7 @@ Search your deck for up to 2 Basic Energy cards and attach them to 1 of your Pok
 
 </div><div class="jb-col-2">
 
-![](/images/3550706029fd3f70.webp)
+![](/images/sv3-en-190.webp)
 
 </div><div class="jb-col-4">
 
@@ -234,7 +234,7 @@ Your opponent reveals their hand. Choose a card you find there and put it on the
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5901f6a4dd6c4fba.webp)
+![](/images/sv3-en-193.webp)
 
 </div><div class="jb-col-4">
 
@@ -251,7 +251,7 @@ Move up to 2 Energy from 1 of your Pokémon to another of your Pokémon.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/fe98f1ef47cdcfd2.webp)
+![](/images/sv3-en-189.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -270,7 +270,7 @@ Search your deck for up to 3 Basic Energy cards, reveal them, and put them into 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/fbc064f72094932a.webp)
+![](/images/sv3-en-191.webp)
 
 </div><div class="jb-col-4">
 
@@ -287,7 +287,7 @@ As long as the Pokémon this card is attached to is in the Active Spot, cards in
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/f0fb0f813771abcd.webp)
+![](/images/sv3-en-196.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -297,7 +297,7 @@ Once during each player’s turn, that player may search their deck for a Pokém
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1403dc9658081afc.webp)
+![](/images/sv3-en-192.webp)
 
 </div><div class="jb-col-4">
 

@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Part 3: Greninja ex vs. Iron Thorns ex"
 description: "Now that we've seen the full reveal of Crimson Haze from Japan, let's continue looking at the newest decks from Twilight Masquerade!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New D"
-ogImage: "/images/c8e875d7e890c4bc.webp"
+ogImage: "/images/part-3-c8e875.webp"
 publishDate: 2024-04-13
 youtubeId: "vSHzLuZsoCc"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-part-3-greninja-ex-vs-iron-thorns-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/a46b4ec4a325f2c4.webp)
+![](/images/part-3-a46b4e.webp)
 
 
 

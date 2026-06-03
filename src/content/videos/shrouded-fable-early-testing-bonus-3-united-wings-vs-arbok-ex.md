@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Bonus 3: United Wings vs. Arbok ex"
 description: "Now that we've seen the full reveal of Night Wanderer from Japan, let's look at what's coming in August!   Check out these links to learn more!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/7f52d16547611458.webp"
+ogImage: "/images/bonus-3-7f52d1.webp"
 publishDate: 2024-07-03
 youtubeId: "TPjQRgM3tZE"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-bonus-3-united-wings-vs-arbok-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/f15fb4525780c5d3.webp)
+![](/images/bonus-3-f15fb4.webp)
 
 
 

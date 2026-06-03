@@ -1,6 +1,6 @@
 ---
 title: "Introduction - 2024 Rotation Survival Guide"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on/introduction"
 showHeading: false
 ---
@@ -13,13 +13,13 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/b0be9bbc0a8f7113.webp)
+![](/images/brilliant-stars-on.webp)
 
 *The F regulation block, first introduced with Brilliant Stars, is the first regulation block with cards legal in the 2024 Standard format.*
 
 </div></div></div><div class="jb-col-4"></div></div>
 
-![](/images/f587cd23c5d41173.webp)
+![](/images/f-regulation-mark.webp)
 
 *The “F” regulation mark is circled in red above. The regulation mark makes it easy to identify cards that are legal in the Standard format.*
 
@@ -35,7 +35,7 @@ This rotation means that many cards that were familiar to players and commonplac
 
 
 
-![](/images/f3756b8d025502b4.webp)
+![](/images/fst-225-r-en.webp)
 
 *As of this year’s rotation, Battle VIP Pass will no longer be legal in the Standard format.*
 

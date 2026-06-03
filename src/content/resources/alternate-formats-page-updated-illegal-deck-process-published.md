@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Page Updated, Illegal Deck Process Published"
 description: "To accommodate the upcoming alternate format event taking place on January 15th, the  Greatest Formats: SUM-LOT  format was added to the Alternate Formats page. The Type Limited format has also been removed from the Alternate Formats page. The related Type Focus format remains.  Additionally, in an"
-ogImage: "/images/0bb98228b14e9691.webp"
+ogImage: "/images/jib-specialformattourney-0bb982.webp"
 publishDate: 2020-12-19
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-page-updated-illegal-deck-process-published"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![jib_specialformattourney.png](/images/f736413cefe3443d.webp)
+![jib_specialformattourney.png](/images/jib-specialformattourney.webp)
 
 
 

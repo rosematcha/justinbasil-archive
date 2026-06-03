@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 1: Toedscruel ex vs. Houndstone ex"
 description: "Let the games begin! We take a look at new decks from Obsidian Flames, beginning with Toedscruel ex and Houndstone ex! Is Toedscruel ex busted, or does its outlook seem particularly grave? Check out these links to learn more!   Obsidian Flames Coverage      Prospective Set List      Card Translation"
-ogImage: "/images/345bbe05db27a351.webp"
+ogImage: "/images/part-1-345bbe.webp"
 publishDate: 2023-06-23
 youtubeId: "tRbF857Ke5A"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-part-1-toedscruel-ex-vs-houndstone-ex"
@@ -28,7 +28,7 @@ Let the games begin! We take a look at new decks from Obsidian Flames, beginning
 
 
 
-![](/images/4cf473847482da49.webp)
+![](/images/part-1.webp)
 
 
 

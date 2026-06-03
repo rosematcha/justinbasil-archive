@@ -1,6 +1,6 @@
 ---
 title: "Proxies"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/proxies"
 showHeading: false
 ---
@@ -22,7 +22,7 @@ Proxy cards should not be confused with **Counterfeit Cards**. Although both are
 
 </div><div class="jb-col-4">
 
-![](/images/0aa845717aaee464.webp)
+![](/images/gardevoir-ex.webp)
 
 *A proxy at work!*
 
@@ -48,7 +48,7 @@ When you’re done adding in each of the cards you need to create a proxy for, c
 
 
 
-![](/images/3b83fadac6c9095a.webp)
+![](/images/proxies.webp)
 
 
 
@@ -68,7 +68,7 @@ For each additional proxy you need, click on the next proxy slot and paste into 
 
 
 
-![](/images/02079a42fc39daef.webp)
+![](/images/proxies-ppt.webp)
 
 *The proxies option will appear only in the Proxies Template.pptx file that you can download at the link above.*
 

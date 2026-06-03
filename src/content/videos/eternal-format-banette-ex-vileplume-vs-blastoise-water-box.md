@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format: Banette ex / Vileplume vs. Blastoise Water Box"
 description: "In this week's bonus video, it's an Eternal format takeover! Will Banette haunt Blastoise's nightmares, or will Blastoise drown Banette in a never-ending torrent?  Learn more about the Eternal format here:  justinbasil.com/eternal"
-ogImage: "/images/b2bdeb00b039e66f.webp"
+ogImage: "/images/banette-ex-vileplume-vs-blastoise-water-box-b2bdeb.webp"
 publishDate: 2023-11-15
 youtubeId: "crwvkzfEfq0"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-banette-ex-vileplume-vs-blastoise-water-box"
@@ -23,7 +23,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/4175acc086435efc.webp)
+![](/images/banette-ex-vileplume-vs-blastoise-water-box.webp)
 
 
 

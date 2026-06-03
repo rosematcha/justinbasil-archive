@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Bonus 3: Cinderace ex vs. Origin Forme Palkia VSTAR"
 description: "For this week's dose of Stellar Crown testing bonus video, Cinderace ex tries surviving against a Tera-enhanced Origin Forme Palkia VSTAR!   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/3dd4f12dc3e5ef42.webp"
+ogImage: "/images/bonus-3-3dd4f1.webp"
 publishDate: 2024-07-31
 youtubeId: "hrMdtyPXxtU"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-bonus-3-cinderace-ex-vs-origin-forme-palkia-vstar"
@@ -27,7 +27,7 @@ For this week's dose of Stellar Crown testing bonus video, Cinderace ex tries su
 
 
 
-![](/images/e3f49ff34cd2fa91.webp)
+![](/images/bonus-3-e3f49f.webp)
 
 
 

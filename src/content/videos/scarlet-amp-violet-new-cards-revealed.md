@@ -1,7 +1,7 @@
 ---
 title: "Scarlet & Violet: New Cards Revealed!"
 description: "It's time to look at the first parts of Scarlet & Violet! In addition to the full reveals of Miraidon ex and Koraidon ex, we now look at Ampharos ex, Gardevoir ex, and more!   Check out these links to learn more!     Prospective Set List:  https://www.justinbasil.com/set-lists/sv1      Visua"
-ogImage: "/images/71017d6583bd48df.webp"
+ogImage: "/images/svi-reactions-71017d.webp"
 publishDate: 2022-12-23
 youtubeId: "MKIiYwnkroY"
 sourceUrl: "https://www.justinbasil.com/videos/scarlet-amp-violet-new-cards-revealed"
@@ -27,7 +27,7 @@ Check out these links to learn more!
 
 
 
-![](/images/57634d52a49398b8.webp)
+![](/images/svi-reactions.webp)
 
 
 

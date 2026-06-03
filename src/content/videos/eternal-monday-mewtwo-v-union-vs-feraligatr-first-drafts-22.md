@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Mewtwo V-UNION vs. Feraligatr (First Drafts #22)"
 description: "In this week's Eternal Monday, Mewtwo V-UNION breaks out the Psysplosion against Feraligatr, who just wants to kick up some Giant Waves."
-ogImage: "/images/f873ff27806700da.webp"
+ogImage: "/images/03-first-drafts-feraligatr-v-mewtwo-v-union-f873ff.webp"
 publishDate: 2025-07-14
 youtubeId: "IYTGrs_0e54"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-mewtwo-v-union-vs-feraligatr-first-drafts-22"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Mewtwo V-UNION breaks out the Psysplosion against
 
 
 
-![](/images/cdeaef39706c05bb.webp)
+![](/images/03-first-drafts-feraligatr-v-mewtwo-v-union.webp)
 
 
 

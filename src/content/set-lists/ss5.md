@@ -1,13 +1,13 @@
 ---
 title: "Battle Styles Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss5"
 showHeading: false
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![bst.png](/images/84c4192eb215fc7f.webp)
+![bst.png](/images/bst.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -19,7 +19,7 @@ showHeading: false
 
 
 
-![ss5_lq.png](/images/78c901723240c2fb.webp)
+![ss5_lq.png](/images/ss5-lq.webp)
 
 
 

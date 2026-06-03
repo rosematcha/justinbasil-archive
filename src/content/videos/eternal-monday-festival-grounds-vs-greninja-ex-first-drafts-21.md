@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Festival Grounds vs. Greninja ex (First Drafts #21)"
 description: "In this week's Eternal Monday, Festival Grounds and Greninja ex both try on some Eternal-shaped support in the latest episode of First Drafts."
-ogImage: "/images/10f48c756f7c9276.webp"
+ogImage: "/images/02-first-drafts-festival-grounds-v-greninja-ex-10f48c.webp"
 publishDate: 2025-06-30
 youtubeId: "atPuihcXy_k"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-festival-grounds-vs-greninja-ex-first-drafts-21"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Festival Grounds and Greninja ex both try on some
 
 
 
-![](/images/4c0e7077f44249dd.webp)
+![](/images/02-first-drafts-festival-grounds-v-greninja-ex.webp)
 
 
 

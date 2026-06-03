@@ -1,7 +1,7 @@
 ---
 title: "10 RS-PK Reprints I'd Love to See!"
 description: "In today's bonus video, I look at ten cards from the EX Era (RS-PK) that I'd love to see make a return to the Standard format!   Keep an eye out for the start of my Paldean Fates coverage this Friday!"
-ogImage: "/images/cf522d530a8b02c9.webp"
+ogImage: "/images/rspk-cf522d.webp"
 publishDate: 2023-11-29
 youtubeId: "xqdEmC3EDQs"
 sourceUrl: "https://www.justinbasil.com/videos/10-rs-pk-reprints-id-love-to-see"
@@ -21,7 +21,7 @@ Keep an eye out for the start of my Paldean Fates coverage this Friday!
 
 
 
-![](/images/c98839acdbd01b0c.webp)
+![](/images/rspk.webp)
 
 
 

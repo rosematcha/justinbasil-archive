@@ -1,7 +1,7 @@
 ---
 title: "Shrouded Fable Early Testing, Bonus 2: Arbok ex vs. Revavroom ex"
 description: "On this week's bonus video, our look at Shrouded Fable continues as Arbok ex tries out fresh tools against newcomer Revavroom ex!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/36da45a878494f7a.webp"
+ogImage: "/images/bonus-2-36da45.webp"
 publishDate: 2024-06-19
 youtubeId: "RHRC8j0Szo4"
 sourceUrl: "https://www.justinbasil.com/videos/shrouded-fable-early-testing-bonus-2-arbok-ex-vs-revavroom-ex"
@@ -27,7 +27,7 @@ On this week's bonus video, our look at Shrouded Fable continues as Arbok ex tri
 
 
 
-![](/images/369536f8d0ad4ad5.webp)
+![](/images/bonus-2-369536.webp)
 
 
 

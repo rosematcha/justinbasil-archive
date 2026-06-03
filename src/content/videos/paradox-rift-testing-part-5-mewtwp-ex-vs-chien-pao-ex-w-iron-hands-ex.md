@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 5: Mewtwo ex vs. Chien-Pao ex w/ Iron Hands ex"
 description: "Our early testing of Paradox Rift continues. Mewtwo ex takes on Chien-Pao ex in a set of chilling games!   Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/5f83d0b75292c880.webp"
+ogImage: "/images/part-5-5f83d0.webp"
 publishDate: 2023-10-06
 youtubeId: "Ty50asT-v5Y"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-5-mewtwp-ex-vs-chien-pao-ex-w-iron-hands-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/e9df6c26970ba2cc.webp)
+![](/images/part-5-e9df6c.webp)
 
 
 

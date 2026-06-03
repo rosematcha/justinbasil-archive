@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 33: \"Night Wanderer\" Set Revealed & Pokemon is #1 TCG!"
 description: "This week we discuss the reveal of \"Night Wanderer\" and Pecharunt ex, the \"Twilight Masquerade\" English set list and prerelease promos, the Pokémon TCG selling #1 in Japan by far, and much more!"
-ogImage: "/images/a1047b16f835ec71.webp"
+ogImage: "/images/nidorino-copy-768x432-a1047b.webp"
 publishDate: 2024-05-04
 youtubeId: "MhkFXRA1W-A"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-33-night-wanderer-set-revealed-amp-pokemon-is-1-tcg"
@@ -19,7 +19,7 @@ This week we discuss the reveal of "Night Wanderer" and Pecharunt ex, the "Twili
 
 
 
-![](/images/b4ffa668d6b6a0b6.webp)
+![](/images/nidorino-copy-768x432.webp)
 
 
 

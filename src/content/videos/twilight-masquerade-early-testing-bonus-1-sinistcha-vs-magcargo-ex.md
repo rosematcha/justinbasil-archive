@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 1: Sinistcha vs. Magcargo ex"
 description: "Now that we've seen the full reveal of Crimson Haze from Japan, let's start looking at the newest decks from Twilight Masquerade!   Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Dec"
-ogImage: "/images/30a52c818715849e.webp"
+ogImage: "/images/bonus-1-30a52c.webp"
 publishDate: 2024-04-03
 youtubeId: "SdCYnqjG5Kw"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-bonus-1-sinistcha-vs-magcargo-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/ad1af43281127bff.webp)
+![](/images/bonus-1-ad1af4.webp)
 
 
 

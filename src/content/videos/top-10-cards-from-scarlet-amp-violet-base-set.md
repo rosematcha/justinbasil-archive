@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Scarlet & Violet Base Set"
 description: "It's that time! Let's look at the top 10 cards from the latest set in the Pokémon Trading Card Game--Scarlet & Violet base set. Scarlet & Violet base set releases internationally on March 31st, with prerelease events starting on March 18th.  After more from Scarlet & Violet?"
-ogImage: "/images/7cb0f11e09e5aac8.webp"
+ogImage: "/images/top-10-cards-svi-7cb0f1.webp"
 publishDate: 2023-03-08
 youtubeId: "Gbf609ejRpU"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-scarlet-amp-violet-base-set"
@@ -27,7 +27,7 @@ After more from Scarlet & Violet? Hit up these links from my site:
 
 
 
-![](/images/0717b5833fe43407.webp)
+![](/images/top-10-cards-svi.webp)
 
 
 

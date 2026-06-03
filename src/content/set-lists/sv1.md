@@ -1,15 +1,15 @@
 ---
 title: "Scarlet & Violet Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv1"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/d70c918967379e1a.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
   <div> 
-    <img src="/images/cfc488fb9adc6354.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV1 Set Identifier" src="/images/03cb87ae2d15bd85.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb">
+    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15">
     <h1 class="jb-white-center-margin5">Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
@@ -317,13 +317,13 @@ Additionally, beginning with Scarlet & Violet’s release, all Pokémon Tool car
     </div>
   </div></div></div><div class="jb-col-7"><div class="jb-row"><div class="jb-col-3">
 
-![](/images/3966170d38f02116.webp)
+![](/images/koraidon-ex-miraidon-ex.webp)
 
 *Pokémon ex return in Scarlet & Violet!*
 
 </div><div class="jb-col-2">
 
-![](/images/246e29e43d77c69c.webp)
+![](/images/rock-chestplate.webp)
 
 *Note the purple text in the top left corner denoting the card’s classification as a Tool card.*
 

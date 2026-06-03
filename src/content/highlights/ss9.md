@@ -1,14 +1,14 @@
 ---
 title: "Highlights from Brilliant Stars"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss9"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/36b057cfb4895166.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
   <div>
-    <img src="/images/a96cc021e871042a.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb">
     <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center">
     <h1 class="jb-cta-title">Set Highlights</h1>
     <hr>
@@ -68,7 +68,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 The set description for *Brilliant Stars* mentions that it contains “a special Trainer Gallery subset of 30 cards with artwork featuring fan-favorite Trainers and Pokémon.” With this and the very high count of Full Art rarity and higher cards from the Japanese set *VMAX Climax* in mind, <strong>not all of the special cards from VMAX Climax will appear in *Brilliant Stars*</strong>. The cards that did not make it into Brilliant Stars’ Trainer Gallery will likely appear in future sets as part of their Trainer Gallery. To see cards that may be included in future Trainer Galleries, see the [Trainer Galleries article](/visual/tg).
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ea6891b7ac3b3222.webp"><img src="/images/ea6891b7ac3b3222.webp" alt="image.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/21b3b7a3d49edc78.webp"><img src="/images/21b3b7a3d49edc78.webp" alt="041020_P_SHIXYAWAZU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b8e6f0cf21d3c081.webp"><img src="/images/b8e6f0cf21d3c081.webp" alt="041022_P_OKUTAN.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ebf201549c5d9285.webp"><img src="/images/ebf201549c5d9285.webp" alt="041024_P_SANDASU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/028b62bff479ba13.webp"><img src="/images/028b62bff479ba13.webp" alt="041026_P_ZEKUROMU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/74775d288706c19d.webp"><img src="/images/74775d288706c19d.webp" alt="041029_P_YONOWARU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e2343f4a97564ac1.webp"><img src="/images/e2343f4a97564ac1.webp" alt="041031_P_DEDENNE.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9a43664f3abd0cc6.webp"><img src="/images/9a43664f3abd0cc6.webp" alt="041032_P_MAHOIPPU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c6a9a286f7bcf90f.webp"><img src="/images/c6a9a286f7bcf90f.webp" alt="041036_P_ARIADOSU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2e6c5769763c218f.webp"><img src="/images/2e6c5769763c218f.webp" alt="041037_P_HERUGA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/86ace4eb77bb3abd.webp"><img src="/images/86ace4eb77bb3abd.webp" alt="041041_P_IBUI.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/245e04f80fa4b025.webp"><img src="/images/245e04f80fa4b025.webp" alt="041043_P_YAREYUTAN.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5810669820e30944.webp"><img src="/images/5810669820e30944.webp" alt="041056_P_PARUSUWANV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/22f2747e9207d020.webp"><img src="/images/22f2747e9207d020.webp" alt="041059_P_NINFUIAV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/adb716bb0da02249.webp"><img src="/images/adb716bb0da02249.webp" alt="041060_P_NINFUIAVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/73eb4860f8671294.webp"><img src="/images/73eb4860f8671294.webp" alt="041061_P_MIMIKKIXYUV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b2fe733d9f33d7c7.webp"><img src="/images/b2fe733d9f33d7c7.webp" alt="041062_P_MIMIKKIXYUVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2baf8e887a128bc.webp"><img src="/images/c2baf8e887a128bc.webp" alt="041066_P_ICHIGEKIURAOSUV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/649056892ccf099c.webp"><img src="/images/649056892ccf099c.webp" alt="041067_P_ICHIGEKIURAOSUVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c8d7320a84f0916e.webp"><img src="/images/c8d7320a84f0916e.webp" alt="041068_P_RENGEKIURAOSUV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e85e76f6db8ba976.webp"><img src="/images/e85e76f6db8ba976.webp" alt="041069_P_RENGEKIURAOSUVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d679f6612aa2b36f.webp"><img src="/images/d679f6612aa2b36f.webp" alt="041072_P_BURAKKIV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c4ee95c4d47d8ade.webp"><img src="/images/c4ee95c4d47d8ade.webp" alt="041073_P_BURAKKIVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bad09cfdef38cffa.webp"><img src="/images/bad09cfdef38cffa.webp" alt="041083_T_ASERORANOYOKAN.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3be72631718269eb.webp"><img src="/images/3be72631718269eb.webp" alt="041099_T_MASUTA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b8f254f1bb4a08e7.webp"><img src="/images/b8f254f1bb4a08e7.webp" alt="041104_T_YUURI.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5afe904f67b68736.webp"><img src="/images/5afe904f67b68736.webp" alt="041101_T_MASUTADORENGEKINOKATA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8de21d72c46a64ff.webp"><img src="/images/8de21d72c46a64ff.webp" alt="041100_T_MASUTADOICHIGEKINOKATA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/80b721ae74e45200.webp"><img src="/images/80b721ae74e45200.webp" alt="GOLD SS Urshifu VMAX.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bdb37eff1bd70a6b.webp"><img src="/images/bdb37eff1bd70a6b.webp" alt="GOLD RS Urshifu VMAX.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/image.webp"><img src="/images/image.webp" alt="image.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041020-p-shixyawazu.webp"><img src="/images/041020-p-shixyawazu.webp" alt="041020_P_SHIXYAWAZU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041022-p-okutan.webp"><img src="/images/041022-p-okutan.webp" alt="041022_P_OKUTAN.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041024-p-sandasu.webp"><img src="/images/041024-p-sandasu.webp" alt="041024_P_SANDASU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041026-p-zekuromu.webp"><img src="/images/041026-p-zekuromu.webp" alt="041026_P_ZEKUROMU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041029-p-yonowaru.webp"><img src="/images/041029-p-yonowaru.webp" alt="041029_P_YONOWARU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041031-p-dedenne.webp"><img src="/images/041031-p-dedenne.webp" alt="041031_P_DEDENNE.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041032-p-mahoippu.webp"><img src="/images/041032-p-mahoippu.webp" alt="041032_P_MAHOIPPU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041036-p-ariadosu.webp"><img src="/images/041036-p-ariadosu.webp" alt="041036_P_ARIADOSU.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041037-p-heruga.webp"><img src="/images/041037-p-heruga.webp" alt="041037_P_HERUGA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041041-p-ibui.webp"><img src="/images/041041-p-ibui.webp" alt="041041_P_IBUI.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041043-p-yareyutan.webp"><img src="/images/041043-p-yareyutan.webp" alt="041043_P_YAREYUTAN.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041056-p-parusuwanv.webp"><img src="/images/041056-p-parusuwanv.webp" alt="041056_P_PARUSUWANV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041059-p-ninfuiav.webp"><img src="/images/041059-p-ninfuiav.webp" alt="041059_P_NINFUIAV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041060-p-ninfuiavmax.webp"><img src="/images/041060-p-ninfuiavmax.webp" alt="041060_P_NINFUIAVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041061-p-mimikkixyuv.webp"><img src="/images/041061-p-mimikkixyuv.webp" alt="041061_P_MIMIKKIXYUV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041062-p-mimikkixyuvmax.webp"><img src="/images/041062-p-mimikkixyuvmax.webp" alt="041062_P_MIMIKKIXYUVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041066-p-ichigekiuraosuv.webp"><img src="/images/041066-p-ichigekiuraosuv.webp" alt="041066_P_ICHIGEKIURAOSUV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041067-p-ichigekiuraosuvmax.webp"><img src="/images/041067-p-ichigekiuraosuvmax.webp" alt="041067_P_ICHIGEKIURAOSUVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041068-p-rengekiuraosuv.webp"><img src="/images/041068-p-rengekiuraosuv.webp" alt="041068_P_RENGEKIURAOSUV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041069-p-rengekiuraosuvmax.webp"><img src="/images/041069-p-rengekiuraosuvmax.webp" alt="041069_P_RENGEKIURAOSUVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041072-p-burakkiv.webp"><img src="/images/041072-p-burakkiv.webp" alt="041072_P_BURAKKIV.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041073-p-burakkivmax.webp"><img src="/images/041073-p-burakkivmax.webp" alt="041073_P_BURAKKIVMAX.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041083-t-aseroranoyokan.webp"><img src="/images/041083-t-aseroranoyokan.webp" alt="041083_T_ASERORANOYOKAN.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041099-t-masuta.webp"><img src="/images/041099-t-masuta.webp" alt="041099_T_MASUTA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041104-t-yuuri.webp"><img src="/images/041104-t-yuuri.webp" alt="041104_T_YUURI.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041101-t-masutadorengekinokata.webp"><img src="/images/041101-t-masutadorengekinokata.webp" alt="041101_T_MASUTADORENGEKINOKATA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/041100-t-masutadoichigekinokata.webp"><img src="/images/041100-t-masutadoichigekinokata.webp" alt="041100_T_MASUTADOICHIGEKINOKATA.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/gold-ss-urshifu-vmax.webp"><img src="/images/gold-ss-urshifu-vmax.webp" alt="GOLD SS Urshifu VMAX.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/gold-rs-urshifu-vmax.webp"><img src="/images/gold-rs-urshifu-vmax.webp" alt="GOLD RS Urshifu VMAX.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="altartpkmn">
 </div>
 </div>
@@ -77,25 +77,25 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/5421f35bdc603a47.webp)
+![](/images/1156-3.webp)
 
 *Lumineon V*
 
 </div><div class="jb-col-2">
 
-![](/images/d2d6dd825933d52d.webp)
+![](/images/1154-3-d2d6dd.webp)
 
 *Charizard V*
 
 </div><div class="jb-col-2">
 
-![](/images/79aa80c4694cb279.webp)
+![](/images/1162-3-79aa80.webp)
 
 *Honchkrow V*
 
 </div><div class="jb-col-2">
 
-![](/images/c3ae3b93053e0b68.webp)
+![](/images/1166-4-c3ae3b.webp)
 
 *Arceus V*
 
@@ -108,37 +108,37 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/930893fdc0652817.webp)
+![](/images/1167-4-930893.webp)
 
 *Barry*
 
 </div><div class="jb-col-2">
 
-![](/images/70eb016655bf79e0.webp)
+![](/images/1168-4-70eb01.webp)
 
 *Cheren’s Care*
 
 </div><div class="jb-col-2">
 
-![](/images/233f1394dd6ba92b.webp)
+![](/images/1169-4-233f13.webp)
 
 *Cynthia’s Ambition*
 
 </div><div class="jb-col-2">
 
-![](/images/85abc9de6341b3ab.webp)
+![](/images/1170-4-85abc9.webp)
 
 *Kindler*
 
 </div><div class="jb-col-2">
 
-![](/images/81e8c1d7e0774875.webp)
+![](/images/1171-4-81e8c1.webp)
 
 *Marnie’s Pride*
 
 </div><div class="jb-col-2">
 
-![](/images/43efc642f4d135d2.webp)
+![](/images/1172-4-43efc6.webp)
 
 *Roseanne’s Backup*
 
@@ -151,67 +151,67 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/0a8dfe035b3250a6.webp)
+![](/images/1152-3-0a8dfe.webp)
 
 *Shaymin V*
 
 </div><div class="jb-col-2">
 
-![](/images/49589bedbf797e83.webp)
+![](/images/1153-3-49589b.webp)
 
 *Charizard V*
 
 </div><div class="jb-col-2">
 
-![](/images/e93af34df141422a.webp)
+![](/images/1155-3-e93af3.webp)
 
 *Lumineon V*
 
 </div><div class="jb-col-2">
 
-![](/images/a9839c046cf03b56.webp)
+![](/images/1157-3-a9839c.webp)
 
 *Pikachu V*
 
 </div><div class="jb-col-2">
 
-![](/images/12301f837be1b7f2.webp)
+![](/images/1158-3-12301f.webp)
 
 *Raichu V*
 
 </div><div class="jb-col-2">
 
-![](/images/013ea9ac07177a1b.webp)
+![](/images/1159-3-013ea9.webp)
 
 *Granbull V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/64fa7dff3082451e.webp)
+![](/images/1160-3-64fa7d.webp)
 
 *Whimsicott V*
 
 </div><div class="jb-col-2">
 
-![](/images/8a2621fda1578f41.webp)
+![](/images/1161-3-8a2621.webp)
 
 *Honchkrow V*
 
 </div><div class="jb-col-2">
 
-![](/images/58599b69ff8b27e7.webp)
+![](/images/1163-3-58599b.webp)
 
 *Zamazenta V*
 
 </div><div class="jb-col-2">
 
-![](/images/89dc30fd21ee293f.webp)
+![](/images/1164-3-89dc30.webp)
 
 *Flygon V*
 
 </div><div class="jb-col-2">
 
-![](/images/f26e067780e7ff88.webp)
+![](/images/1165-3-f26e06.webp)
 
 *Arceus V*
 
@@ -224,25 +224,25 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/a3506f6c805b8ac6.webp)
+![](/images/1181-3-a3506f.webp)
 
 *Galarian Articuno V*
 
 </div><div class="jb-col-2">
 
-![](/images/9034f96cfa003851.webp)
+![](/images/1182-3-9034f9.webp)
 
 *Galarian Zapdos V*
 
 </div><div class="jb-col-2">
 
-![](/images/43d76acc2620c82d.webp)
+![](/images/1183-3-43d76a.webp)
 
 *Galarian Moltres V*
 
 </div><div class="jb-col-2">
 
-![](/images/5d5efba581499d3c.webp)
+![](/images/1184-3-5d5efb.webp)
 
 *Arceus VSTAR*
 
@@ -255,25 +255,25 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/967168bdbc0ccfaa.webp)
+![](/images/1173-4-967168.webp)
 
 *Shaymin VSTAR*
 
 </div><div class="jb-col-2">
 
-![](/images/3c874f90aba748bc.webp)
+![](/images/1174-4-3c874f.webp)
 
 *Charizard VSTAR*
 
 </div><div class="jb-col-2">
 
-![](/images/8fa000b2b314d543.webp)
+![](/images/1175-4-8fa000.webp)
 
 *Whimsicott VSTAR*
 
 </div><div class="jb-col-2">
 
-![](/images/26653bcee2e2963c.webp)
+![](/images/1176-4-26653b.webp)
 
 *Arceus VSTAR*
 
@@ -286,49 +286,49 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/9ed2d5a8693f1627.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-charizard-v-17.webp)
 
 *Charizard V*
 
 </div><div class="jb-col-2">
 
-![](/images/98b21a7537671163.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-charizard-vstar-18-98b21a.webp)
 
 *Charizard VSTAR*
 
 </div><div class="jb-col-2">
 
-![](/images/746e4f7ff08007e9.webp)
+![](/images/122-22-746e4f.webp)
 
 *Entei V*
 
 </div><div class="jb-col-2">
 
-![](/images/bcc9046808e51913.webp)
+![](/images/148-7-bcc904.webp)
 
 *Raikou V*
 
 </div><div class="jb-col-2">
 
-![](/images/7efa8512efeb2a6e.webp)
+![](/images/mimikyu-7efa85.webp)
 
 *Mimikyu V*
 
 </div><div class="jb-col-2">
 
-![](/images/df83116141a4a446.webp)
+![](/images/169-5-df8311.webp)
 
 *Mimikyu VMAX*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d9532eef0b30f535.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-arceus-v-122.webp)
 
 *Arceus V*
 
 </div><div class="jb-col-2">
 
-![](/images/912b4d4797284c8f.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-arceus-vstar-123-912b4d.webp)
 
 *Arceus VSTAR*
 
@@ -341,115 +341,115 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/430d99f80f9da142.webp)
+![](/images/113-21-430d99.webp)
 
 *Shaymin V*
 
 </div><div class="jb-col-2">
 
-![](/images/ea75724cc69e1b9d.webp)
+![](/images/swsh9-en-14.webp)
 
 *Shaymin VSTAR*
 
 </div><div class="jb-col-2">
 
-![](/images/a9b800c92ea78dd6.webp)
+![](/images/116-19-a9b800.webp)
 
 *Zarude V*
 
 </div><div class="jb-col-2">
 
-![](/images/c24f7f724a43ae18.webp)
+![](/images/swsh9-en-27.webp)
 
 *[Simisear V](https://www.pokebeach.com/2021/11/simisear-v-and-marnies-pride-from-start-deck-100)*
 
 </div><div class="jb-col-2">
 
-![](/images/fb72db7001852296.webp)
+![](/images/128-14-fb72db.webp)
 
 *[Kingler V](https://www.pokebeach.com/2021/09/ultra-ball-kingler-vmax-venusaur-v-zamazenta-v-and-more-revealed-from-starter-deck-100)*
 
 </div><div class="jb-col-2">
 
-![](/images/cd36547bf47f82db.webp)
+![](/images/129-11-cd3654.webp)
 
 *[Kingler VMAX](https://www.pokebeach.com/2021/09/ultra-ball-kingler-vmax-venusaur-v-zamazenta-v-and-more-revealed-from-starter-deck-100)*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f7725215806fec68.webp)
+![](/images/140-6-f77252.webp)
 
 *Lumineon V*
 
 </div><div class="jb-col-2">
 
-![](/images/d22728d464f7826a.webp)
+![](/images/145-6-d22728.webp)
 
 *Raichu V*
 
 </div><div class="jb-col-2">
 
-![](/images/9e85b2c4b9ea5b44.webp)
+![](/images/157-3-9e85b2.webp)
 
 *Granbull V*
 
 </div><div class="jb-col-2">
 
-![](/images/a0200b967fee00c6.webp)
+![](/images/164-5-a0200b.webp)
 
 *Whimsicott V*
 
 </div><div class="jb-col-2">
 
-![](/images/1c4ddc23dcfd79cd.webp)
+![](/images/swsh9-en-65.webp)
 
 *Whimsicott VSTAR*
 
 </div><div class="jb-col-2">
 
-![](/images/63b5389cb5fc392e.webp)
+![](/images/188-4-63b538.webp)
 
 *Honchkrow V*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b19cac2de1e04429.webp)
+![](/images/195-4-b19cac.webp)
 
 *Morpeko V*
 
 </div><div class="jb-col-2">
 
-![](/images/f452b2c0c9b4db74.webp)
+![](/images/196-4-f452b2.webp)
 
 *Aggron V*
 
 </div><div class="jb-col-2">
 
-![](/images/ea2b3bbd897a1f3d.webp)
+![](/images/197-5-ea2b3b.webp)
 
 *Aggron VMAX*
 
 </div><div class="jb-col-2">
 
-![](/images/802766e0acd9c37f.webp)
+![](/images/1105-2-802766.webp)
 
 *Zamazenta V*
 
 </div><div class="jb-col-2">
 
-![](/images/3fec2b6e19293b83.webp)
+![](/images/1106-2-3fec2b.webp)
 
 *Flygon V*
 
 </div><div class="jb-col-2">
 
-![](/images/262b16c63fefa09d.webp)
+![](/images/1114-2-262b16.webp)
 
 *[Dracovish V](https://www.pokebeach.com/2021/08/dravovish-v-leafeon-glaceon-blunder-policy-and-other-gym-promos-revealed)*
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b44b351fcdf5d968.webp)
+![](/images/1128-2-b44b35.webp)
 
 *[Drampa V](https://www.pokebeach.com/2021/12/drampa-v-from-start-deck-100)*
 
@@ -462,25 +462,25 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/9ab6d8fa7c6acfa1.webp)
+![](/images/1177-3-9ab6d8.webp)
 
 *Cheren’s Care*
 
 </div><div class="jb-col-2">
 
-![](/images/1e91c794cc802fdb.webp)
+![](/images/1178-3-1e91c7.webp)
 
 *Cynthia’s Ambition*
 
 </div><div class="jb-col-2">
 
-![](/images/8b74ba021db7c915.webp)
+![](/images/1179-3-8b74ba.webp)
 
 *Kindler*
 
 </div><div class="jb-col-2">
 
-![](/images/14121e105b3fccba.webp)
+![](/images/1180-3-14121e.webp)
 
 *Roseanne’s Backup*
 
@@ -493,13 +493,13 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ab75a08cf358d749.webp)
+![](/images/1185-3-ab75a0.webp)
 
 *Magma Basin*
 
 </div><div class="jb-col-2">
 
-![](/images/7b0a6e9f63db2701.webp)
+![](/images/1186-3-7b0a6e.webp)
 
 *Ultra Ball*
 
@@ -516,7 +516,7 @@ The set description for *Brilliant Stars* mentions that it contains “a special
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/07150eb05ab18381.webp)
+![](/images/15-45-07150e.webp)
 
 </div><div class="jb-col-4">
 
@@ -528,7 +528,7 @@ Ability: Curative Bower All of your Pokémon that have any [G] Energy attached c
 
 </div><div class="jb-col-2">
 
-![](/images/c2931bf0a576026f.webp)
+![](/images/17-35-c2931b.webp)
 
 </div><div class="jb-col-4">
 
@@ -540,7 +540,7 @@ Ability: Sun-Drenched Shell Once during your turn, you may search your deck for 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ea75724cc69e1b9d.webp)
+![](/images/swsh9-en-14.webp)
 
 </div><div class="jb-col-4">
 
@@ -552,7 +552,7 @@ Ability: Sun-Drenched Shell Once during your turn, you may search your deck for 
 
 </div><div class="jb-col-2">
 
-![](/images/5798a5be3c5a181f.webp)
+![](/images/137-8.webp)
 
 </div><div class="jb-col-4">
 
@@ -564,7 +564,7 @@ Ability: Emergency Surfacing Once during your turn, if this card is in your disc
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7d64d6619eae88b0.webp)
+![](/images/140-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -576,7 +576,7 @@ Ability: Luminous Sign When you play this Pokémon from your hand onto your Benc
 
 </div><div class="jb-col-2">
 
-![](/images/b3caa362382e12a6.webp)
+![](/images/141-6-b3caa3.webp)
 
 </div><div class="jb-col-4">
 
@@ -588,7 +588,7 @@ Ability: Wave Veil Prevent all damage done to your Benched Pokémon by attacks f
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/fbfd0a20d6edfdf4.webp)
+![](/images/171-5-fbfd0a.webp)
 
 </div><div class="jb-col-4">
 
@@ -600,7 +600,7 @@ Ability: Additional Order As long as this Pokémon is in the Active Spot, your t
 
 </div><div class="jb-col-2">
 
-![](/images/ef174475d8ba63b3.webp)
+![](/images/185-4-ef1744.webp)
 
 </div><div class="jb-col-4">
 
@@ -612,7 +612,7 @@ Ability: Sludge Street The Retreat Cost of your opponent’s Poisoned Pokémon i
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/05345ac4103be3ac.webp)
+![](/images/188-4-05345a.webp)
 
 </div><div class="jb-col-4">
 
@@ -624,7 +624,7 @@ Ability: Boss Pockets This Pokémon may have up to 4 Pokémon Tools attached to 
 
 </div><div class="jb-col-2">
 
-![](/images/995b9a950d92bd7c.webp)
+![](/images/191-4-995b9a.webp)
 
 </div><div class="jb-col-4">
 
@@ -636,7 +636,7 @@ Ability: Trade You must discard a card from your hand in order to use this Abili
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f05d5b0dc4eb247.webp)
+![](/images/1105-2-3f05d5.webp)
 
 </div><div class="jb-col-4">
 
@@ -648,7 +648,7 @@ Ability: Regal Stance Once during your turn, you may discard your hand and draw 
 
 </div><div class="jb-col-2">
 
-![](/images/582d4a6044a6d573.webp)
+![](/images/1121-2-582d4a.webp)
 
 </div><div class="jb-col-4">
 
@@ -660,7 +660,7 @@ Ability: Industrious Incisors Once during your turn, you may draw until you have
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/396889f00cfcef5c.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-arceus-v-122-396889.webp)
 
 </div><div class="jb-col-4">
 
@@ -672,7 +672,7 @@ Ability: Industrious Incisors Once during your turn, you may draw until you have
 
 </div><div class="jb-col-2">
 
-![](/images/0da4ab6e38bc9605.webp)
+![](/images/1126-2-0da4ab.webp)
 
 </div><div class="jb-col-4">
 
@@ -691,7 +691,7 @@ Ability: Sudden Cyclone When you play this Pokémon from your hand onto your Ben
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/66a2a570f92b7d6a.webp)
+![](/images/18-37-66a2a5.webp)
 
 </div><div class="jb-col-4">
 
@@ -703,7 +703,7 @@ Ability: Sudden Cyclone When you play this Pokémon from your hand onto your Ben
 
 </div><div class="jb-col-2">
 
-![](/images/ce6b522e065fa022.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-charizard-v-17-ce6b52.webp)
 
 </div><div class="jb-col-4">
 
@@ -715,7 +715,7 @@ Ability: Sudden Cyclone When you play this Pokémon from your hand onto your Ben
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/298fa921f9ee3975.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-charizard-vstar-18.webp)
 
 </div><div class="jb-col-4">
 
@@ -727,7 +727,7 @@ Ability: Sudden Cyclone When you play this Pokémon from your hand onto your Ben
 
 </div><div class="jb-col-2">
 
-![](/images/abf4f9fd4b8e2169.webp)
+![](/images/022-entei-v-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -739,7 +739,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e8f3b029fe2fa063.webp)
+![](/images/139-5-e8f3b0.webp)
 
 </div><div class="jb-col-4">
 
@@ -751,7 +751,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div><div class="jb-col-2">
 
-![](/images/137fcbdef4f66638.webp)
+![](/images/144-7-137fcb.webp)
 
 </div><div class="jb-col-4">
 
@@ -763,7 +763,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bcdf15273faff87a.webp)
+![](/images/145-6-bcdf15.webp)
 
 </div><div class="jb-col-4">
 
@@ -775,7 +775,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div><div class="jb-col-2">
 
-![](/images/5af30dfd4c171b4c.webp)
+![](/images/148-7-5af30d.webp)
 
 </div><div class="jb-col-4">
 
@@ -787,7 +787,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/306f508d35133749.webp)
+![](/images/152-3-306f50.webp)
 
 </div><div class="jb-col-4">
 
@@ -797,7 +797,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div><div class="jb-col-2">
 
-![](/images/1c4ddc23dcfd79cd.webp)
+![](/images/swsh9-en-65.webp)
 
 </div><div class="jb-col-4">
 
@@ -809,7 +809,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f22e59d69513f868.webp)
+![](/images/169-5-f22e59.webp)
 
 </div><div class="jb-col-4">
 
@@ -821,7 +821,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div><div class="jb-col-2">
 
-![](/images/4e1e9fba885194a1.webp)
+![](/images/187-4-4e1e9f.webp)
 
 </div><div class="jb-col-4">
 
@@ -833,7 +833,7 @@ Ability: Fleet-Footed Once during your turn, if this Pokémon is in the Active S
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/749a5960d5d25788.webp)
+![](/images/179-5-749a59.webp)
 
 </div><div class="jb-col-4">
 
@@ -845,7 +845,7 @@ Ability: Roaring Resolve Once during your turn, you may put 2 damage counters on
 
 </div><div class="jb-col-2">
 
-![](/images/b65698a5d25cae15.webp)
+![](/images/swsh9-en-109.webp)
 
 </div><div class="jb-col-4">
 
@@ -859,7 +859,7 @@ Ability: Sonic Slip When you play this Pokémon from your hand to evolve 1 of yo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ac745ef286d139cb.webp)
+![](/images/1115-2-ac745e.webp)
 
 </div><div class="jb-col-4">
 
@@ -869,7 +869,7 @@ Ability: Sonic Slip When you play this Pokémon from your hand to evolve 1 of yo
 
 </div><div class="jb-col-2">
 
-![](/images/37faaaa72d298173.webp)
+![](/images/1124-2-37faaa.webp)
 
 </div><div class="jb-col-4">
 
@@ -881,7 +881,7 @@ Ability: Sonic Slip When you play this Pokémon from your hand to evolve 1 of yo
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8aaad49cd7e7e155.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-arceus-vstar-123.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -900,7 +900,7 @@ Ability: Sonic Slip When you play this Pokémon from your hand to evolve 1 of yo
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/c95e19b4baf56e08.webp)
+![](/images/129-acerolas-premonition-1.webp)
 
 </div><div class="jb-col-4">
 
@@ -910,7 +910,7 @@ Your opponent reveals their hand, and you draw a card for each Trainer card you 
 
 </div><div class="jb-col-2">
 
-![](/images/f3f714e0efb443d2.webp)
+![](/images/1132-3-f3f714.webp)
 
 </div><div class="jb-col-4">
 
@@ -922,7 +922,7 @@ Switch 1 of your opponent's Benched Pokémon with their Active Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/37bd845154f91409.webp)
+![](/images/1133-3-37bd84.webp)
 
 </div><div class="jb-col-4">
 
@@ -932,7 +932,7 @@ Choose up to 3 of your Benched Pokémon. For each of those Pokémon, search your
 
 </div><div class="jb-col-2">
 
-![](/images/332769b599101c67.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-cheren-s-care-134.webp)
 
 </div><div class="jb-col-4">
 
@@ -942,7 +942,7 @@ Put 1 of your [C] Pokémon that has any damage counters on it and all attached c
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f656d7c5a10c5f28.webp)
+![](/images/swsh9-en-138.webp)
 
 </div><div class="jb-col-4">
 
@@ -952,7 +952,7 @@ Draw cards until you have 5 cards in your hand. If any of your Pokémon were Kno
 
 </div><div class="jb-col-2">
 
-![](/images/4b22cb71eb3c679c.webp)
+![](/images/1141-3-4b22cb.webp)
 
 </div><div class="jb-col-4">
 
@@ -962,7 +962,7 @@ Search your deck for up to 3 Basic Pokémon that don’t have a Rule Box and put
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a0c0434dda6eaad5.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-kindler-143.webp)
 
 </div><div class="jb-col-4">
 
@@ -974,7 +974,7 @@ Look at the top 7 cards of your deck and put up to 2 of them into your hand. Shu
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/457acc2365fa0425.webp)
+![](/images/1145-3-457acc.webp)
 
 </div><div class="jb-col-4">
 
@@ -984,7 +984,7 @@ Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/f5659dc842988243.webp)
+![](/images/1147-3-f5659d.webp)
 
 </div><div class="jb-col-4">
 
@@ -996,7 +996,7 @@ Discard your hand and draw 7 cards.
 
 </div><div class="jb-col-2">
 
-![](/images/75479d02166d18b6.webp)
+![](/images/1148-3-75479d.webp)
 
 </div><div class="jb-col-4">
 
@@ -1006,7 +1006,7 @@ Choose 1 or more: – Shuffle a Pokémon from your discard pile into your deck. 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b2cf36484365bcda.webp)
+![](/images/1149-3-b2cf36.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -1023,7 +1023,7 @@ Shuffle up to 3 in any combination Pokémon and Supporter cards, except Team Yel
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/0e5ddfe3cc892841.webp)
+![](/images/1131-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -1033,7 +1033,7 @@ If the Pokémon this card is attached to uses an attack, if you flip any coins f
 
 </div><div class="jb-col-2">
 
-![](/images/6ec0eee81d817f91.webp)
+![](/images/1135-3-6ec0ee.webp)
 
 </div><div class="jb-col-4">
 
@@ -1043,7 +1043,7 @@ The attacks of the Pokémon this card is attached to do 30 more damage to your o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0878cc79335ae21d.webp)
+![](/images/1150-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -1064,7 +1064,7 @@ Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shu
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/0e8864fdd7be75b6.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-magma-basin-144.webp)
 
 </div><div class="jb-col-4">
 
@@ -1074,7 +1074,7 @@ Once during each player’s turn, that player may attach a [R] Energy card from 
 
 </div><div class="jb-col-2">
 
-![](/images/7f9946df75b08d39.webp)
+![](/images/pokemon-tcg-sword-shield-brilliant-stars-double-turbo-energy.webp)
 
 </div><div class="jb-col-4">
 

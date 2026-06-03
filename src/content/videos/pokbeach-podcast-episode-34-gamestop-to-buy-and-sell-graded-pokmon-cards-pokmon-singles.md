@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 34: GameStop to Buy and Sell Graded Pokémon Cards, Pokémon Singles!"
 description: "This week we discuss GameStop's new program to buy and sell graded Pokémon cards, to sell $1 Pokémon singles, news of the successor to the Nintendo Switch, and more!"
-ogImage: "/images/b62ff86cf4310c43.webp"
+ogImage: "/images/nidoking-768x432-b62ff8.webp"
 publishDate: 2024-05-12
 youtubeId: "sJu3w0SyGWM"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-34-gamestop-to-buy-and-sell-graded-pokmon-cards-pokmon-singles"
@@ -19,7 +19,7 @@ This week we discuss GameStop's new program to buy and sell graded Pokémon card
 
 
 
-![](/images/b7097525a45810eb.webp)
+![](/images/nidoking-768x432.webp)
 
 
 

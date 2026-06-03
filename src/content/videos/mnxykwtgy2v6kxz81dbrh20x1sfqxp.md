@@ -1,7 +1,7 @@
 ---
 title: "Post Rotation Testing Part 11: Mew VMAX vs. the World"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this livestream, Mew VMAX takes on the world!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List      Visual Set List      Set Highlights"
-ogImage: "/images/b943714c463c2956.webp"
+ogImage: "/images/testing-part-11-mew-vmax-vs-the-world-b94371.webp"
 publishDate: 2023-03-31
 youtubeId: "_hrQTo0dOmk"
 sourceUrl: "https://www.justinbasil.com/videos/mnxykwtgy2v6kxz81dbrh20x1sfqxp"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/4b45298980886920.webp)
+![](/images/testing-part-11-mew-vmax-vs-the-world.webp)
 
 
 

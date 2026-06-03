@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Part 4: Terapagos ex vs. Salazzle"
 description: "Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/6b1781f1eccc35b7.webp"
+ogImage: "/images/part-4-6b1781.webp"
 publishDate: 2024-08-10
 youtubeId: "PfzO4Z5V59M"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-4-terapagos-ex-vs-salazzle"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/34502f7a5082e7bf.webp)
+![](/images/part-4-34502f.webp)
 
 
 

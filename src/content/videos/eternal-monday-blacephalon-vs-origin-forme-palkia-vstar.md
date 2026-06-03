@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blacephalon vs. Origin Forme Palkia VSTAR"
 description: "In today's Eternal Monday, Blacephalon from Unbroken Bonds has its mind blown by Origin Forme Palkia VSTAR from Astral Radiance!   Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/80fcdf4eea453972.webp"
+ogImage: "/images/blowns-v-palkia-80fcdf.webp"
 publishDate: 2024-09-02
 youtubeId: "ZE0lypbalnA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blacephalon-vs-origin-forme-palkia-vstar"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/0dea152c3f43bbd1.webp)
+![](/images/blowns-v-palkia.webp)
 
 
 

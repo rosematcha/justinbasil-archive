@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Ultra Malamar vs. Sandaconda (First Drafts Series)"
 description: "Today's Eternal Monday is episode 5 of First Drafts!  BIG SAND CANNON Sandaconda memes hard against Ultra Malamar in the Eternal format!  (Who says all first drafts have to be serious ones?)  Learn more about the Eternal format at  justinbasil.com/eternal"
-ogImage: "/images/c9cf027c4518dd5d.webp"
+ogImage: "/images/first-drafts-series-5-c9cf02.webp"
 publishDate: 2024-06-17
 youtubeId: "DdzZVSLCSGA"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-ultra-malamar-vs-sandaconda-first-drafts-series"
@@ -23,7 +23,7 @@ Learn more about the Eternal format at [justinbasil.com/eternal](/eternal)
 
 
 
-![](/images/965303d7c625f369.webp)
+![](/images/first-drafts-series-5.webp)
 
 
 

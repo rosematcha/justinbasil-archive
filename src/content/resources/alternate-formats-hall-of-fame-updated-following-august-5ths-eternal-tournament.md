@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following August 5th's Eternal Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the August 5th Eternal format tournament.  The tournament's results were as follows:    Guil - Rapid Strike Urshifu VMAX    Sleight - Arceus VSTAR Control    David Hochmann - Shock Lock    CursolaTCG - Celebi Mill    Click h"
-ogImage: "/images/ccac7cb28373d28f.webp"
+ogImage: "/images/rs-urshifu-ccac7c.webp"
 publishDate: 2022-08-06
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-august-5ths-eternal-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/a59fd4adb614a68f.webp)
+![](/images/rs-urshifu-a59fd4.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 2: Bloodmoon Ursaluna ex vs. Greninja ex"
 description: "On this week's bonus video, Bloodmoon Ursaluna pairs up with its explody Forretress friend to take on Greninja ex!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/76cc8591e7fcbbcf.webp"
+ogImage: "/images/bonus-2-76cc85.webp"
 publishDate: 2024-04-10
 youtubeId: "RjeYSUP8tIU"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-testing-bonus-2-bloodmoon-ursaluna-ex-vs-greninja-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/51a08464a1bef84c.webp)
+![](/images/bonus-2-51a084.webp)
 
 
 

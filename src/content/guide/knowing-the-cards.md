@@ -1,6 +1,6 @@
 ---
 title: "Getting to Know the Cards"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/knowing-the-cards"
 showHeading: false
 ---
@@ -29,7 +29,7 @@ Additionally, Limitless TCG offers a searchable database of cards with a number 
 
 </div><div class="jb-col-3">
 
-![](/images/f4a61fc5c9831893.webp)
+![](/images/image-asset-f4a61f.webp)
 
 
 
@@ -73,7 +73,7 @@ In addition to covering news related to the Pokémon Trading Card Game, PokéBea
 
 </div><div class="jb-col-4">
 
-![Pokebeach Logo.png](/images/5047e3a0e7090aa3.webp)
+![Pokebeach Logo.png](/images/pokebeach-logo.webp)
 
 
 

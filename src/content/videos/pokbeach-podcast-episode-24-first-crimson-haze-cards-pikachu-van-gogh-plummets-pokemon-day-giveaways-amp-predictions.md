@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 24: First \"Crimson Haze\" Cards, Pikachu Van Gogh Plummets, Pokemon Day Giveaways & Predictions!"
 description: "This week we discuss the first cards from \"Crimson Haze,\" another massive wave of Pikachu Van Gogh promos releasing, Pokemon Centers in Japan selling English TCG products, TPCi warning hobby stores about misusing promos, and Pokemon Day promotions!"
-ogImage: "/images/1e74bd179636a699.webp"
+ogImage: "/images/ekans-copy-768x432-1e74bd.webp"
 publishDate: 2024-02-24
 youtubeId: "0Y9aGYktNvc"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-24-first-crimson-haze-cards-pikachu-van-gogh-plummets-pokemon-day-giveaways-amp-predictions"
@@ -19,7 +19,7 @@ This week we discuss the first cards from "Crimson Haze," another massive wave o
 
 
 
-![](/images/c2878cc6ccd1aed3.webp)
+![](/images/ekans-copy-768x432.webp)
 
 
 

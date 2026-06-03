@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Quad Wobbuffet vs. Dodrio"
 description: "In today's Eternal Monday, the king of the Bide Barricade tries to say no and Dodrio sets its beaks to attack mode in the latest episode of First Drafts."
-ogImage: "/images/3e6170a4bc8c2d32.webp"
+ogImage: "/images/03-first-drafts-dodrio-v-wobbuffet-3e6170.webp"
 publishDate: 2025-05-05
 youtubeId: "8qFfRw8MD2w"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-quad-wobbuffet-vs-dodrio"
@@ -19,7 +19,7 @@ In today's Eternal Monday, the king of the Bide Barricade tries to say no and Do
 
 
 
-![](/images/e1057a65c5ee9737.webp)
+![](/images/03-first-drafts-dodrio-v-wobbuffet.webp)
 
 
 

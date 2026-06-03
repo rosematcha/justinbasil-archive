@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #5: Banette ex vs. Gyarados ex"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, it's time for Banette ex to take on Gyarados ex!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List      Visual Se"
-ogImage: "/images/ad548b4d9fd86381.webp"
+ogImage: "/images/bonus-part-5-banette-ex-vs-gyarados-ex-ad548b.webp"
 publishDate: 2023-03-01
 youtubeId: "7WZ8UNj9z9E"
 sourceUrl: "https://www.justinbasil.com/videos/je664otiww92pi75wd3foubmj7ki5e"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/753dce5b82721317.webp)
+![](/images/bonus-part-5-banette-ex-vs-gyarados-ex.webp)
 
 
 

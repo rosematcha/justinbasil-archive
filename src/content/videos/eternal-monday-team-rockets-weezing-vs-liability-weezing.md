@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Team Rocket's Weezing vs. Liability Weezing"
 description: "In this week's Eternal Monday, it's a meeting of the Weezing, with Team Rocket's Weezing from Destined Rivals taking on Liability Weezing from EX Deoxys."
-ogImage: "/images/51d631ee2224a2b9.webp"
+ogImage: "/images/01-team-rocket-s-weezing-v-liability-weezing-51d631.webp"
 publishDate: 2025-07-21
 youtubeId: "FeYv0a4fEzQ"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-team-rockets-weezing-vs-liability-weezing"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, it's a meeting of the Weezing, with Team Rocket's
 
 
 
-![](/images/5cc3565e4f0b8903.webp)
+![](/images/01-team-rocket-s-weezing-v-liability-weezing.webp)
 
 
 

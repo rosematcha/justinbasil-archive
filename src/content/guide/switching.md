@@ -1,6 +1,6 @@
 ---
 title: "Switching and Prize Denial"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/switching"
 showHeading: false
 ---
@@ -43,7 +43,7 @@ Cheren’s Care BRS 134 Volo LOR 169 Professor Turo’s Scenario PAR 171 Legacy 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/1b316c724e156de0.webp)
+![](/images/sv1-en-167.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -53,7 +53,7 @@ Decks that run Beach Court tend to run 1-2 copies of the card.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/7b443304970e5dc8.webp)
+![](/images/sv05-en-159-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -71,7 +71,7 @@ Decks that run Rescue Board tend to run 1-2 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/8192a9c65d955af3.webp)
+![](/images/1154-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -81,7 +81,7 @@ Decks that run Switch Cart tend to run 3-4 copies of the card.
 
 </div><div class="jb-col-2">
 
-![](/images/4db66d37c04a224e.webp)
+![](/images/sv1-en-194.webp)
 
 </div><div class="jb-col-4">
 
@@ -89,7 +89,7 @@ Decks that run Switch Cart tend to run 3-4 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/bfa7e8cc625831b1.webp)
+![](/images/twm-162-r-en-bfa7e8.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -103,7 +103,7 @@ Because it is an ACE SPEC card, Scoop Up Cyclone’s inclusion has to be weighed
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/225c1fe4bc3c0137.webp)
+![](/images/167-225c1f.webp)
 
 </div><div class="jb-col-4">
 
@@ -113,7 +113,7 @@ Thorton is an uncommon inclusion in decks, but those that would want it would te
 
 </div><div class="jb-col-2">
 
-![](/images/bf8bddec827f84b5.webp)
+![](/images/157-bf8bdd.webp)
 
 </div><div class="jb-col-4">
 
@@ -123,7 +123,7 @@ Decks will not often run Furisode Girl. Decks that do will not often run more th
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8e2864ed2f5ce0cf.webp)
+![](/images/twm-154-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -137,7 +137,7 @@ Not all decks will include Kieran, but those that do will likely include just 1 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/5da966a0331a52a5.webp)
+![](/images/brs-134-r-en-lg.webp)
 
 </div><div class="jb-col-4">
 
@@ -147,7 +147,7 @@ Only Colorless-focused decks tend to play Cheren’s Care. Those decks tend to r
 
 </div><div class="jb-col-2">
 
-![](/images/02ff87a6f5c49f88.webp)
+![](/images/169-02ff87.webp)
 
 </div><div class="jb-col-4">
 
@@ -157,7 +157,7 @@ Not every deck will run Volo, and indeed, many won’t. Those that do want Volo 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dbe42ff67da10095.webp)
+![](/images/sv4-en-171.webp)
 
 </div><div class="jb-col-4">
 
@@ -167,7 +167,7 @@ Not all decks run Professor Turo’s Scenario. Decks that do tend to run just 1 
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6ec81a70c1318402.webp)
+![](/images/twm-167-r-en.webp)
 
 </div><div class="jb-col-4">
 

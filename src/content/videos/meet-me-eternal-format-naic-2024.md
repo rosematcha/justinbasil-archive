@@ -1,7 +1,7 @@
 ---
 title: "Meet Me + Eternal Format @ NAIC 2024!"
 description: "I'll be at NAIC this year and am excited to meet everyone! Additionally, I'll be running a pair of Eternal format tournaments for you to jump into!   Register for Eternal Format Tournaments at NAIC:  #1:  Eternal Format #1 @ NAIC 2024 | Limitless (limitlesstcg.com)   #2:  Eternal Format #2 @ NA"
-ogImage: "/images/c59b9ab67c12c589.webp"
+ogImage: "/images/naic-2024-c59b9a.webp"
 publishDate: 2024-05-29
 youtubeId: "61uU0Op9zEw"
 sourceUrl: "https://www.justinbasil.com/videos/meet-me-eternal-format-naic-2024"
@@ -25,7 +25,7 @@ Register for Eternal Format Tournaments at NAIC:
 
 
 
-![](/images/a295e16110e61cc0.webp)
+![](/images/naic-2024.webp)
 
 
 

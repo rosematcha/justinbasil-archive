@@ -1,7 +1,7 @@
 ---
 title: "Paldean Fates Early Testing, Bonus 2: United Wings vs. Mabosstiff ex"
 description: "Our testing of Paldean Fates continues, with Kilowattrel joining United Wings to take on Mabosstiff ex!   Paldean Fates Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/2a59bcb66eb92498.webp"
+ogImage: "/images/bonus-2-2a59bc.webp"
 publishDate: 2023-12-13
 youtubeId: "yVTDZudKAeg"
 sourceUrl: "https://www.justinbasil.com/videos/paldean-fates-early-testing-bonus-2-united-wings-vs-mabosstiff-ex"
@@ -27,7 +27,7 @@ Our testing of Paldean Fates continues, with Kilowattrel joining United Wings to
 
 
 
-![](/images/949d7d0699641fa4.webp)
+![](/images/bonus-2.webp)
 
 
 

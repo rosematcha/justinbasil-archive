@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 6: Roaring Moon ex vs. Chien-Pao ex with Iron Hands ex"
 description: "Our early testing of Paradox Rift continues. Roaring Moon ex takes on Chien-Pao ex in a set of chilling games!  Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/489011187491d7a0.webp"
+ogImage: "/images/part-6-489011.webp"
 publishDate: 2023-10-13
 youtubeId: "y-_fda83dos"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-6-roaring-moon-ex-vs-chien-pao-ex-with-iron-hands-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/dbbac45bc9b340af.webp)
+![](/images/part-6-dbbac4.webp)
 
 
 

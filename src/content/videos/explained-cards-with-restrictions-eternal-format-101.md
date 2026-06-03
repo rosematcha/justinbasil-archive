@@ -1,7 +1,7 @@
 ---
 title: "EXPLAINED: Cards with Restrictions (Eternal Format 101)"
 description: "There have been a number of different cards in the #PokemonTCG that have their own mechanic- or name-based restrictions. In today's video, I go over those restrictions and a few unique to the Eternal format."
-ogImage: "/images/af359e215fe354f4.webp"
+ogImage: "/images/eternal-101-episode-3-cards-with-restrictions-af359e.webp"
 publishDate: 2024-11-27
 youtubeId: "MaJiBGHM2R0"
 sourceUrl: "https://www.justinbasil.com/videos/explained-cards-with-restrictions-eternal-format-101"
@@ -19,7 +19,7 @@ There have been a number of different cards in the #PokemonTCG that have their o
 
 
 
-![](/images/885b30a8df8553a2.webp)
+![](/images/eternal-101-episode-3-cards-with-restrictions.webp)
 
 
 

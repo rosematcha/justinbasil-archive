@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 8: Roaring Moon ex vs. The World"
 description: "And finally, to wrap up our Paradox Rift testing, Roaring Moon ex takes on the world! Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/9131a5eb33f7dcfb.webp"
+ogImage: "/images/part-8-9131a5.webp"
 publishDate: 2023-11-03
 youtubeId: "RRfF3pf2Rdc"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-8-roaring-moon-ex-vs-the-world"
@@ -27,7 +27,7 @@ And finally, to wrap up our Paradox Rift testing, Roaring Moon ex takes on the w
 
 
 
-![](/images/67341f4906f47e22.webp)
+![](/images/part-8-67341f.webp)
 
 
 

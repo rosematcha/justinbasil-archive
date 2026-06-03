@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format: LIVE! (January 2025)"
 description: "Watch a LIVE Eternal format tournament that took place on January 4th, 2025!"
-ogImage: "/images/2cd5a01622f69d3d.webp"
+ogImage: "/images/eternal-live-jan-25-2cd5a0.webp"
 publishDate: 2025-01-04
 youtubeId: "E3Fvmv1qSrk"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-live-january-2025"
@@ -19,7 +19,7 @@ Watch a LIVE Eternal format tournament that took place on January 4th, 2025!
 
 
 
-![](/images/24732efaffb8b677.webp)
+![](/images/eternal-live-jan-25.webp)
 
 
 

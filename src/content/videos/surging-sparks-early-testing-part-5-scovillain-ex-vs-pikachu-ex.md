@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Part 5: Scovillain ex vs. Pikachu ex"
 description: "Now that we've seen the full reveal of Supercharged Breaker from Japan, it's time to start looking ahead to the new decks releasing coming Surging Sparks!  Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Select"
-ogImage: "/images/ec85ede6b3b08a7a.webp"
+ogImage: "/images/part-5-ec85ed.webp"
 publishDate: 2024-10-26
 youtubeId: "yXISTNieWGs"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-part-5-scovillain-ex-vs-pikachu-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/1bf6d978fbb3acf1.webp)
+![](/images/part-5.webp)
 
 
 

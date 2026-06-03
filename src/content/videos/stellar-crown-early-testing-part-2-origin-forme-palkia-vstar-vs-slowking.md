@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Part 2: Origin Forme Palkia VSTAR vs. Slowking"
 description: "Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/65949c94c02b70b0.webp"
+ogImage: "/images/part-2-65949c.webp"
 publishDate: 2024-07-27
 youtubeId: "3hCjWWZk86M"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-2-origin-forme-palkia-vstar-vs-slowking"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/e14cb4afa23d94e2.webp)
+![](/images/part-2-e14cb4.webp)
 
 
 

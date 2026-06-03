@@ -1,7 +1,7 @@
 ---
 title: "Biggest Losses in the 2023 Standard Format Rotation!"
 description: "Join me as I explore the 20 biggest losses in the upcoming Standard format rotation!  More on the 2023 Standard format rotation:     Introduction to rotation      Noteworthy Losses and Retentions from SSH-SHF      The New Essentials      Archetypes to Consider After Rotation      2023 Rotation Card"
-ogImage: "/images/c45c84d0c2563477.webp"
+ogImage: "/images/20-biggest-loses-2023-rotation-c45c84.webp"
 publishDate: 2023-03-15
 youtubeId: "qlCbHGXsZ1E"
 sourceUrl: "https://www.justinbasil.com/videos/biggest-losses-in-the-2023-standard-format-rotation"
@@ -27,7 +27,7 @@ More on the 2023 Standard format rotation:
 
 
 
-![](/images/15d731a4c587c984.webp)
+![](/images/20-biggest-loses-2023-rotation.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Scarlet & Violet Pack Opening: Elite Trainer Boxes!"
 description: "It's time to start opening some of the latest expansion to the Pokémon Trading Card Game--Scarlet & Violet base set!   Learn more about the set and about the upcoming Standard format rotation at the links below.   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet &a"
-ogImage: "/images/b933200cb62cff03.webp"
+ogImage: "/images/svi-etb-opening-b93320.webp"
 publishDate: 2023-04-01
 youtubeId: "Q5RmFgyo-2Y"
 sourceUrl: "https://www.justinbasil.com/videos/scarlet-amp-violet-pack-opening-elite-trainer-boxes"
@@ -33,7 +33,7 @@ Learn more about the set and about the upcoming Standard format rotation at the 
 
 
 
-![](/images/cfa9fa6255190ecc.webp)
+![](/images/svi-etb-opening.webp)
 
 
 

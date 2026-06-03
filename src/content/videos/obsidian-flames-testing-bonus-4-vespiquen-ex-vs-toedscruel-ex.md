@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing, Bonus #4: Vespiquen ex vs. Toedscruel ex"
 description: "In this week's bonus video, it's Vespiquen ex vs. Toedscruel ex, and oh Arceus is this one not pretty.  Can Vespiquen make it out of the bug zapper alive!?   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Se"
-ogImage: "/images/a4516c9e284c4ecd.webp"
+ogImage: "/images/bonus-4-a4516c.webp"
 publishDate: 2023-07-26
 youtubeId: "q7wCMtVjysE"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-bonus-4-vespiquen-ex-vs-toedscruel-ex"
@@ -30,7 +30,7 @@ Can Vespiquen make it out of the bug zapper alive!?
 
 
 
-![](/images/776e98ce4083627e.webp)
+![](/images/bonus-4.webp)
 
 
 

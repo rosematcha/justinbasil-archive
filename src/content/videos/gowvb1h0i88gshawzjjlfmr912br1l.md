@@ -1,7 +1,7 @@
 ---
 title: "Scarlet & Violet Pack Opening: Two Booster Boxes!"
 description: "It's time to open a bit more of the latest expansion to the Pokémon Trading Card Game--Scarlet & Violet base set!  Learn more about the set and about the upcoming Standard format rotation at the links below.   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet &"
-ogImage: "/images/c995532b3ca58596.webp"
+ogImage: "/images/svi-bb-opening-c99553.webp"
 publishDate: 2023-04-12
 youtubeId: "rGjd3nzRIH4"
 sourceUrl: "https://www.justinbasil.com/videos/gowvb1h0i88gshawzjjlfmr912br1l"
@@ -33,7 +33,7 @@ Learn more about the set and about the upcoming Standard format rotation at the 
 
 
 
-![](/images/a2e9af1b682616d1.webp)
+![](/images/svi-bb-opening.webp)
 
 
 

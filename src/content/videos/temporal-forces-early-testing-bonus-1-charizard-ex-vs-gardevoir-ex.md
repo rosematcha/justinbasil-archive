@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 1: Charizard ex vs. Gardevoir ex"
 description: "In the first our of bonus videos from our early Temporal Forces testing, Charizard ex takes on Gardevoir ex!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/653aef062b18cd6c.webp"
+ogImage: "/images/video-thumbnails-v2-653aef.webp"
 publishDate: 2024-01-03
 youtubeId: "73HSbkh5O5M"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-bonus-1-charizard-ex-vs-gardevoir-ex"
@@ -27,7 +27,7 @@ In the first our of bonus videos from our early Temporal Forces testing, Chariza
 
 
 
-![](/images/a43b8602086fed25.webp)
+![](/images/video-thumbnails-v2-a43b86.webp)
 
 
 

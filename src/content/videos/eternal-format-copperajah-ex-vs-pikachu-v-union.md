@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format: Copperajah ex vs. Pikachu V-UNION"
 description: "In this week's bonus video, it's another Eternal format takeover! Will Pikachu V-UNION shock us all by taking out the ginormous metal elephant that is Copperajah ex, or will Copperajah ex successfully stamp the electric mouse out of the format?  Learn more about the Eternal format here:  justinbasil"
-ogImage: "/images/e76b5e921e3c7d58.webp"
+ogImage: "/images/oct-23-finals-e76b5e.webp"
 publishDate: 2023-11-22
 youtubeId: "yVfHhKQ15dw"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-copperajah-ex-vs-pikachu-v-union"
@@ -23,7 +23,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/0a4d821f0aa042ae.webp)
+![](/images/oct-23-finals.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 5: Vespiquen ex vs. Charizard ex"
 description: "In this video testing the new decks from Obsidian Flames, it's Vespiquen ex vs. Charizard ex.   Will Vespiquen's sting put Charizard on the endangered species list or will Charizard find roast bee a most delicious delicacy?    Obsidian Flames Coverage      Prospective Set List      Card Translations"
-ogImage: "/images/97ac7a549c6693a9.webp"
+ogImage: "/images/obf-part-5-97ac7a.webp"
 publishDate: 2023-07-28
 youtubeId: "wSegdi5eKK8"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-part-5-vespiquen-ex-vs-charizard-ex"
@@ -30,7 +30,7 @@ Will Vespiquen's sting put Charizard on the endangered species list or will Char
 
 
 
-![](/images/e97a868943f0d237.webp)
+![](/images/obf-part-5.webp)
 
 
 

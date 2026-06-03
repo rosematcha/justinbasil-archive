@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 12: \"Temporal Forces\" in March and 170 \"Shiny Treasure ex\" Secret Rares!"
 description: "This week we discuss our next English set, Temporal Forces, the reveal of the secret rares from Shiny Treasure ex, and Snorlax taking over tournaments!"
-ogImage: "/images/f6eb6725a57c49c5.webp"
+ogImage: "/images/e13-768x432-f6eb67.webp"
 publishDate: 2023-12-01
 youtubeId: "vuv_TTFSIWI"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-12-temporal-forces-in-march-and-170-shiny-treasure-ex-secret-rares"
@@ -19,7 +19,7 @@ This week we discuss our next English set, Temporal Forces, the reveal of the se
 
 
 
-![](/images/1dc4d9e2ef10c7f4.webp)
+![](/images/e13-768x432.webp)
 
 
 

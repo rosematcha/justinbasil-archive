@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Fast Raid vs. Ultra Necrozma"
 description: "In today's Eternal Monday, Pheromosa-GX tries to Fast Raid donk Ultra Necrozma from Cosmic Eclipse!"
-ogImage: "/images/417d911bed171c59.webp"
+ogImage: "/images/fast-raid-v-ultra-necrozma-417d91.webp"
 publishDate: 2024-04-29
 youtubeId: "DVLthWpb7jM"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-fast-raid-vs-ultra-necrozma"
@@ -19,7 +19,7 @@ In today's Eternal Monday, Pheromosa-GX tries to Fast Raid donk Ultra Necrozma f
 
 
 
-![](/images/714ea303a5df9c60.webp)
+![](/images/fast-raid-v-ultra-necrozma.webp)
 
 
 

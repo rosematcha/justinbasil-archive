@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blindside Barrage / Hydrapple ex"
 description: "In this week's Eternal Monday, Torchic blindsides Hydrapple ex with its favorite TM!"
-ogImage: "/images/e938530701cad739.webp"
+ogImage: "/images/november-24-blindside-v-hydrapple-ex-e93853.webp"
 publishDate: 2024-12-09
 youtubeId: "DSaQGiGZleE"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blindside-barrage-hydrapple-ex"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Torchic blindsides Hydrapple ex with its favorite
 
 
 
-![](/images/0945d15807585603.webp)
+![](/images/november-24-blindside-v-hydrapple-ex.webp)
 
 
 

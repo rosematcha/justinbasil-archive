@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Bonus 2: Sylveon ex vs. Flygon ex"
 description: "Now that we've seen the full reveal of Paradise Dragona from Japan, it's time to start looking ahead to the new decks releasing coming Surging Sparks!   Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected"
-ogImage: "/images/8c2d2a83d29fc1f4.webp"
+ogImage: "/images/bonus-2-8c2d2a.webp"
 publishDate: 2024-10-03
 youtubeId: "_ne5WNhWrQk"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-bonus-2-sylveon-ex-vs-flygon-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/143d4e76c266bc39.webp)
+![](/images/bonus-2-143d4e.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Opening!"
 description: "Join me as I open an early booster box of Twilight Masquerade!   Twilight Masquerade Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/e6fc5ef3e544f519.webp"
+ogImage: "/images/early-opening-twm-e6fc5e.webp"
 publishDate: 2024-05-13
 youtubeId: "Gq9XsprGruU"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-early-opening"
@@ -27,7 +27,7 @@ Join me as I open an early booster box of Twilight Masquerade!
 
 
 
-![](/images/b0879642613f2f43.webp)
+![](/images/early-opening-twm.webp)
 
 
 

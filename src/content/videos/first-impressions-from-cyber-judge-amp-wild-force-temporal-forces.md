@@ -1,7 +1,7 @@
 ---
 title: "First Impressions from Cyber Judge & Wild Force (Temporal Forces)"
 description: "Now that we've seen the full reveal of the core sets of Cyber Judge and Wild Force from Japan, let's look at what we believe will become most of our Temporal Forces set in March!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/7b58fe906ae9aa75.webp"
+ogImage: "/images/tef-first-impressions-7b58fe.webp"
 publishDate: 2024-01-20
 youtubeId: "QrESom9sxqU"
 sourceUrl: "https://www.justinbasil.com/videos/first-impressions-from-cyber-judge-amp-wild-force-temporal-forces"
@@ -27,7 +27,7 @@ Now that we've seen the full reveal of the core sets of Cyber Judge and Wild For
 
 
 
-![](/images/1571e258cde2de86.webp)
+![](/images/tef-first-impressions.webp)
 
 
 

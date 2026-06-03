@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following March 4th's Pauper Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the March 4th Pauper format tournament.  The tournament's results were as follows:    bunnybird12 - Hitmonsquad    Mew7926 - Castform    Microscope12 - Tauros / Bats    Twitchy - Morpeko / Bats    Click here to visit the upd"
-ogImage: "/images/59fac1a5c414fbab.webp"
+ogImage: "/images/hitmonchan-59fac1.webp"
 publishDate: 2022-03-04
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-march-4ths-pauper-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/850b4e410cfdd06c.webp)
+![](/images/hitmonchan-850b4e.webp)
 
 
 

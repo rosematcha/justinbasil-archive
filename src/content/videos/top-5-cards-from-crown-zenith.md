@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Cards from Crown Zenith!"
 description: "Let's look at some of the most interesting new cards from Crown Zenith!   Crown Zenith Coverage      Set List      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/040b5b8ed6e4e6b2.webp"
+ogImage: "/images/top-5-cards-from-crown-zenith-040b5b.webp"
 publishDate: 2023-01-13
 youtubeId: "hdcZbI8BX1Y"
 sourceUrl: "https://www.justinbasil.com/videos/top-5-cards-from-crown-zenith"
@@ -27,7 +27,7 @@ Let's look at some of the most interesting new cards from Crown Zenith!
 
 
 
-![](/images/7ecd0ff4f8384ead.webp)
+![](/images/top-5-cards-from-crown-zenith.webp)
 
 
 

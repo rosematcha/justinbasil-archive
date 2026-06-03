@@ -1,15 +1,15 @@
 ---
 title: "Paldea Evolved (PAL, Pre-Rotation)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "-fNmLTMou6s"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv2"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/60d005ebb5328c31.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
   <div>
-    <img src="/images/7f8eb7c3a9397327.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">New Archetypes from Paldea Evolved</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
@@ -57,7 +57,7 @@ With the arrival of Paldea Evolved this June, we’ll have a handful of new deck
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e34fa8dcea86ed8d.webp)
+![](/images/meowscarada-ex.webp)
 
 *Illus. 5ban Graphics*
 
@@ -124,7 +124,7 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/71a906fa89d44757.webp)
+![](/images/skeledirge-ex.webp)
 
 *Illus. 5ban Graphics*
 
@@ -182,7 +182,7 @@ Play down and evolve Fuecoco into Skeledirge ex, using a combination of manual a
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/66e72206a9c900df.webp)
+![](/images/quaquaval-ex-66e722.webp)
 
 *Illus. 5ban Graphics*
 
@@ -239,7 +239,7 @@ Evolve Quaxly into Quaquaval and Quaquaval ex. Use Quaquaval’s Energy Carnival
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d1996fb3ffacea1c.webp)
+![](/images/chien-pao-ex-d1996f.webp)
 
 *Illus. aky CG Works*
 
@@ -306,7 +306,7 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f69e4339ff664be4.webp)
+![](/images/wings-of-unity.webp)
 
 *Illus. Shibuzoh*
 
@@ -358,7 +358,7 @@ Using every discarding resource in the deck, put all or most of your “United W
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/c13c9178bc7e2ac7.webp)
+![](/images/tinkaton-ex-c13c91.webp)
 
 *Illus. takuyoa*
 
@@ -404,7 +404,7 @@ Build up your board by evolving Tinkatink into Tinkaton ex and Ralts into Kirlia
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/ee7757471a21510f.webp)
+![](/images/annihilape-ex-ee7757.webp)
 
 *Illus. PLANETA Hiiragi*
 
@@ -450,7 +450,7 @@ Build up your board, getting Annihilape ex ready early on while quickly building
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e8c5e9969a4c61d7.webp)
+![](/images/lycanroc-ex-e8c5e9.webp)
 
 *Illus. kawayoo*
 
@@ -495,7 +495,7 @@ After evolving Rockruff into Lycanroc ex, attack with its Scary Fangs attack, wh
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/41c1c11157f134cc.webp)
+![](/images/ting-lu-ex-41c1c1.webp)
 
 *Illus. 5ban Graphics*
 
@@ -545,7 +545,7 @@ Play down Squawkabilly ex, Ting-Lu ex, and Koraidon ex, then use Squawkabilly ex
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1ac3f7b308d455c2.webp)
+![](/images/clodsire-ex.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -600,7 +600,7 @@ Using Paldean Clodsire ex’s Poison Bog ability, Poison your opponent’s Activ
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8598063c4f0a44f2.webp)
+![](/images/regigigas-859806.webp)
 
 *Illus. Yuya Oka*
 

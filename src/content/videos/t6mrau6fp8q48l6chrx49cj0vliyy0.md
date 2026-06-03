@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 2: Chien-Pao ex vs. Meowscarada ex"
 description: "Paldea Evolved testing continues! Up next, newcomer Chien-Pao ex goes head to head against Meowscarada ex!  Check out these links to learn more!   Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxi"
-ogImage: "/images/9206d559c597a224.webp"
+ogImage: "/images/part-2-9206d5.webp"
 publishDate: 2023-04-22
 youtubeId: "fHIEEDtUaE8"
 sourceUrl: "https://www.justinbasil.com/videos/t6mrau6fp8q48l6chrx49cj0vliyy0"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/63729011189105e1.webp)
+![](/images/part-2-637290.webp)
 
 
 

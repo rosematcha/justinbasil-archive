@@ -1,6 +1,6 @@
 ---
 title: "Journey Together Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv9"
 showHeading: false
 ---
@@ -8,8 +8,8 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/0293e4a4729b3918.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV6.5 Set Identifier" src="/images/072edfd473175429.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp" loading="lazy" class="jb-deck-thumb">
+    <img alt="SV6.5 Set Identifier" src="/images/jtg.webp" loading="lazy" class="jb-icon-center-mt15">
     <h1 class="jb-white-center-margin5">Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our first main Scarlet &amp; Violet set of 2025 by visiting the articles below.

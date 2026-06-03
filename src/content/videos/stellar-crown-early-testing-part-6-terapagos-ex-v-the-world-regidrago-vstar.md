@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Part 6: Terapagos ex v. The World (Regidrago VSTAR)"
 description: "Now that we've seen the full reveal of Stellar Miracle from Japan, let's look at what's coming in September!   Check out these links to learn more!   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/404507595d55d1ca.webp"
+ogImage: "/images/bonus-6-404507.webp"
 publishDate: 2024-08-24
 youtubeId: "qOUSwibadAM"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-part-6-terapagos-ex-v-the-world-regidrago-vstar"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/53b4be28da647be4.webp)
+![](/images/bonus-6.webp)
 
 
 

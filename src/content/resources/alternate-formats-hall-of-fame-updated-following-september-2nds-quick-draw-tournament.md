@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following September 2nd's Quick Draw Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the September 2nd Quick Draw (BCR, ROS, SLG, UPR, VIV) format tournament.  The tournament's results were as follows:    Bunnybird12 - Togekiss VMAX    Twitchy - Galarian Darmanitan VMAX    JustInBasil - Zoroark-GX / Garchomp"
-ogImage: "/images/361def0e4d0a9fd4.webp"
+ogImage: "/images/togekiss-vmax-361def.webp"
 publishDate: 2022-09-02
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-september-2nds-quick-draw-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/356044d121d02baa.webp)
+![](/images/togekiss-vmax.webp)
 
 
 

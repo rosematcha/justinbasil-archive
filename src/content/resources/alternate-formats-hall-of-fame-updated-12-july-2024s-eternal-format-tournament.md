@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated 12 July 2024's Eternal Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the 12 July 2024 Eternal format tournament.  The tournament's results were as follows:     Kaleidophoenix  - Luxray ex     PianoLegPete  - Palafin ex     BirdNerdTCG  - Dragapult ex     ameliababa  - Mismagius / Buzzmosa"
-ogImage: "/images/75f42f78da3f0caf.webp"
+ogImage: "/images/luxray-ex-75f42f.webp"
 publishDate: 2024-07-12
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-12-july-2024s-eternal-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![](/images/ceec98eda508445d.webp)
+![](/images/luxray-ex-ceec98.webp)
 
 
 

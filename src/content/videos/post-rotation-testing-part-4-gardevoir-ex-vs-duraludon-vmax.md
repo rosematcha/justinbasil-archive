@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 4: Gardevoir ex vs. Duraludon VMAX"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. We're wrapping up the new look at preexisting archetypes, with Duraludon VMAX, and starting the new archetypes from Scarlet & Violet, beginning with Gardevoir ex!   Rotation Survival Guide      2023 Rotation"
-ogImage: "/images/de816e1d86d24bc9.webp"
+ogImage: "/images/testing-part-4-gardevoir-vs-duraludon-de816e.webp"
 publishDate: 2023-01-28
 youtubeId: "YVI86MzYJ8g"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-part-4-gardevoir-ex-vs-duraludon-vmax"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/02896a0452647ff0.webp)
+![](/images/testing-part-4-gardevoir-vs-duraludon.webp)
 
 
 

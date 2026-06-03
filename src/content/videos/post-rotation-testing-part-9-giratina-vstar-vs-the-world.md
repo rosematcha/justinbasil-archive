@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 9: Giratina VSTAR vs. The World"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this livestream, Giratina VSTAR takes on the world!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List      Visual Set List      Set Highl"
-ogImage: "/images/a5481962672e90fd.webp"
+ogImage: "/images/part-9-giratina-vstar-vs-the-world-a54819.webp"
 publishDate: 2023-03-19
 youtubeId: "UM38Lp0qxdE"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-part-9-giratina-vstar-vs-the-world"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/f6f25026be09b03b.webp)
+![](/images/part-9-giratina-vstar-vs-the-world.webp)
 
 
 

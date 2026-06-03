@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Pack Opening #1"
 description: "Hang out with me as I learn what I got from my judge booster box of Surging Sparks!"
-ogImage: "/images/5f73133234925a91.webp"
+ogImage: "/images/ssp-small-open-5f7313.webp"
 publishDate: 2024-11-06
 youtubeId: "w_fpUnVkF5U"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-pack-opening-1"
@@ -19,7 +19,7 @@ Hang out with me as I learn what I got from my judge booster box of Surging Spar
 
 
 
-![](/images/68cedd686eabf680.webp)
+![](/images/ssp-small-open.webp)
 
 
 

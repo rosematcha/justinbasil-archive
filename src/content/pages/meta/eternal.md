@@ -1,6 +1,6 @@
 ---
 title: "What to Play - Eternal"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/meta/eternal"
 showHeading: false
 ---
@@ -66,7 +66,7 @@ Decks below are listed in alphabetical order, not in order of competitive viabil
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/b8d26e346d68e3bd.webp)
+![](/images/alcremie.webp)
 
 *Illus. sowsow*
 
@@ -76,7 +76,7 @@ Decks below are listed in alphabetical order, not in order of competitive viabil
 
 
 
-![](/images/480db59423a48d34.webp)
+![](/images/23-alcremie.webp)
 
 </div><div class="jb-col-6">
 
@@ -92,7 +92,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/7d639e408c1e59de.webp)
+![](/images/articuno-lock.webp)
 
 *Illus. Naoyo Kimura*
 
@@ -102,7 +102,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/335a28738a377e35.webp)
+![](/images/02-articuno-lock.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>3 Articuno SIT 36</li> <li>3 Duskull FLF 38</li> <li>2 Dusknoir BCR 63</li> <li>2 Oddish HP 73</li> <li>2 Vileplume AOR 3</li> <li>1 Ditto RG 4</li> <li>1 Dusclops VIV 70</li> <li>1 Gloom UNB 7</li> <li>1 Lapras LM 8</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Arven OBF 186</li> <li>2 Guzma BUS 115</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Iono PAF 80</li> <li>1 Jacq SVI 175</li> <li>1 Twins TM 89</li> <li>4 Rare Candy PAF 89</li> <li>3 Quick Ball FST 237</li> <li>3 VS Seeker PHF 109</li> <li>2 Buddy-Buddy Poffin TEF 144</li> <li>2 Evolution Incense SSH 163</li> <li>2 Level Ball BST 129</li> <li>1 Computer Search BCR 137</li> <li>1 Luxury Ball SF 86</li> <li>1 Rescue Stretcher GRI 130</li> <li>3 Protection Cube FLF 95</li> <li>1 Float Stone BKT 137</li> <li>2 Brooklet Hill GRI 120</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>5 Basic Water Energy SVE 3</li> <li>3 Counter Energy CIN 100</li> </ul>
@@ -114,7 +114,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/636065139fc705fb.webp)
+![](/images/banette-ex-vileplume.webp)
 
 *Illus. Mitsuhiro Arita & PLANETA Mochizuki*
 
@@ -124,7 +124,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/570984353d90451a.webp)
+![](/images/08-banette-ex-vileplume.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 21</p><ul> <li>4 Shuppet SVI 87</li> <li>3 Banette ex SVI 88</li> <li>2 Claydol GE 15</li> <li>2 Gloom MEW 44</li> <li>2 Oddish LA 112</li> <li>1 Baltoy AOR 32</li> <li>1 Baltoy SSH 101</li> <li>1 Banette LOR 73</li> <li>1 Oddish HP 73</li> <li>1 Tapu Lele-GX GRI 60</li> <li>1 Vileplume AOR 3</li> <li>1 Vileplume BUS 6<p></p> </li><li>1 Vileplume UD 24<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>2 Guzma BUS 115</li> <li>2 Guzma &amp; Hala CEC 193</li> <li>2 Roseanne's Research SW 125</li> <li>1 Brock's Scouting JTG 146</li> <li>1 Iono PAF 80</li> <li>1 Jacq SVI 175</li> <li>1 Klara CRE 145</li> <li>1 Looker's Investigation PL 109</li> <li>1 Marnie CPA 56</li> <li>1 Steven's Advice PK 83</li> <li>1 Tate &amp; Liza CES 148</li> <li>1 Teammates PRC 141</li> <li>4 Fog Crystal CRE 140</li> <li>2 Rare Candy PAF 89</li> <li>1 Buddy-Buddy Poffin PRE 101</li> <li>1 Evolution Incense SSH 163</li> <li>1 Luxury Ball SF 86</li> <li>1 Ultra Ball PAF 91</li> <li>2 Float Stone BKT 137</li> <li>2 Artazon PAF 76</li> <li>1 Grand Tree SCR 136</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>5 Basic Psychic Energy SVE 5</li> <li>4 Horror Psychic Energy RCL 172</li> </ul>
@@ -136,7 +136,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8b431254761b280e.webp)
+![](/images/blastoise-box.webp)
 
 *Illus. Satoshi Shirai*
 
@@ -146,7 +146,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/ddf1e26086a6216f.webp)
+![](/images/04-blastoise-water-box.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>3 Chien-Pao ex PAL 61</li> <li>3 Squirtle BCR 29</li> <li>2 Baltoy SSH 101</li> <li>2 Claydol GE 15</li> <li>1 Blastoise BCR 31</li> <li>1 Blastoise BS 2</li> <li>1 Blastoise-GX UNB 35</li> <li>1 Lapras LM 8</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Wartortle BCR 30</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Irida ASR 147</li> <li>2 Iono PAF 80</li> <li>2 Nessa CRZ 136</li> <li>1 Guzma BUS 115</li> <li>4 Dive Ball PRC 125</li> <li>3 Rare Candy PAF 89</li> <li>3 Superior Energy Retrieval PAL 189</li> <li>3 VS Seeker PHF 109</li> <li>2 Rescue Stretcher GRI 130</li> <li>1 Computer Search BCR 137</li> <li>1 Field Blower GRI 125</li> <li>1 Luxury Ball SF 86</li> <li>1 Startling Megaphone FLF 97</li> <li>2 Float Stone BKT 137</li> <li>2 Brooklet Hill GRI 120</li> <li>1 Chaotic Swell CEC 187</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Water Energy SVE 3</li> </ul>
@@ -158,7 +158,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/08efb98c6ce0b7ae.webp)
+![](/images/blissey-v.webp)
 
 *Illus. Saki Hayashiro*
 
@@ -168,7 +168,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/d2fab2d83c08388e.webp)
+![](/images/20-blissey-v-terapagos-ex.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>3 Blissey V CRE 119</li> <li>3 Hoothoot SSH 143</li> <li>3 Noctowl SCR 115</li> <li>2 Bouffalant SCR 119</li> <li>2 Terapagos ex SCR 128</li> <li>1 Fan Rotom SCR 118</li> <li>1 Mr. Mime PLF 47</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Staraptor FB SV 11</li> <li>1 Staraptor FB LV.X SV 147</li> </ul><p class="jb-decklist-section">Trainer Cards - 27</p><ul> <li>3 Carmine PRE 103</li> <li>1 Arven OBF 186</li> <li>1 Guzma BUS 115</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Marnie CPA 56</li> <li>1 Professor Turo's Scenario PRE 121</li> <li>1 Professor's Research PRE 125</li> <li>1 Winona ROS 96</li> <li>3 Battle Compressor PHF 92</li> <li>3 Quick Ball FST 237</li> <li>3 VS Seeker PHF 109</li> <li>2 Max Potion GRI 128</li> <li>1 Scramble Switch SSP 186</li> <li>3 Bravery Charm PAL 173</li> <li>2 Sky Field ROS 89</li> </ul><p class="jb-decklist-section">Energy - 15</p><ul> <li>4 Capture Energy RCL 171</li> <li>4 Double Colorless Energy SLG 69</li> <li>4 Powerful Colorless Energy DAA 176</li> <li>2 Jet Energy PAL 190</li> <li>1 Mist Energy TEF 161</li> </ul>
@@ -180,7 +180,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d49bb313abf6a2e6.webp)
+![](/images/celebi-grass-box.webp)
 
 *Illus. Hideaki Hakozaki*
 
@@ -190,7 +190,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/7f4b4c9612478d2f.webp)
+![](/images/25-celebi-grass-box.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 22</p><ul> <li>3 Celebi TM 92</li> <li>3 Skitty TEF 130</li> <li>3 Toedscool PAR 15</li> <li>3 Toedscruel ex PAF 5</li> <li>2 Delcatty PL 4</li> <li>2 Delcatty RS 5</li> <li>1 Mr. Mime PLF 47</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Shaymin {*} TEU 10</li> <li>1 Toedscool OBF 118</li> <li>1 Toedscruel PAR 17</li> <li>1 Zacian V SSH 138<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 28</p><ul> <li>2 Arven OBF 186</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Tate &amp; Liza CES 148</li> <li>3 Buddy-Buddy Poffin PRE 101</li> <li>3 Net Ball LOT 187</li> <li>3 VS Seeker PHF 109</li> <li>2 Evolution Incense SSH 163</li> <li>2 Quick Ball FST 237</li> <li>1 Hyper Aroma TWM 152</li> <li>1 Luxury Ball SF 86</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Professor's Letter BKT 146</li> <li>2 U-Turn Board UNM 211</li> <li>1 Forest Seal Stone SIT 156</li> <li>2 Sky Field ROS 89</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Grass Energy SVE 1</li> </ul>
@@ -202,7 +202,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1c93d38c8add7cad.webp)
+![](/images/ceruledge-ex-1c93d3.webp)
 
 *Illus. 5ban Graphics*
 
@@ -212,7 +212,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/965fc7a3479e8910.webp)
+![](/images/22-ceruledge-ex.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 11</p><ul> <li>4 Charcadet SSP 32</li> <li>3 Ceruledge ex SSP 36</li> <li>1 Lapras LM 8</li> <li>1 Minun SW 32</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Squawkabilly ex PAF 75</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>3 Carmine PRE 103</li> <li>1 Briar PRE 100</li> <li>1 Guzma BUS 115</li> <li>1 Professor's Research PRE 125</li> <li>4 Trainers' Mail ROS 92</li> <li>3 Acro Bike CES 123</li> <li>3 Battle Compressor PHF 92</li> <li>3 Quick Ball FST 237</li> <li>3 Ultra Ball PAF 91</li> <li>3 VS Seeker PHF 109</li> <li>2 Fiery Flint DRM 60</li> <li>2 Night Stretcher SFA 61</li> <li>1 Brilliant Blender SSP 164</li> <li>1 Heat Factory {*} LOT 178</li> <li>1 Scorched Earth FCO 110</li> </ul><p class="jb-decklist-section">Energy - 17</p><ul> <li>14 Basic Fire Energy SVE 2</li> <li>3 Jet Energy PAL 190</li> </ul>
@@ -224,7 +224,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/55ac4f12deb2b314.webp)
+![](/images/paf-charizard-ex.webp)
 
 *Illus. AKIRA EGAWA*
 
@@ -234,7 +234,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/892eccb447243a56.webp)
+![](/images/05-charizard-ex.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Charmander CG 49</li> <li>3 Charizard ex OBF 125</li> <li>2 Miraidon ex SVI 81</li> <li>2 Pidgeotto TEU 123</li> <li>2 Pidgey HP 77</li> <li>1 Charizard TEU 14</li> <li>1 Charmeleon PAF 8</li> <li>1 Ditto {*} LOT 154</li> <li>1 Lapras LM 8</li> <li>1 Mr. Mime PLF 47</li> <li>1 Pidgeot ex OBF 164</li> <li>1 Pidgeot RG 10<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>2 Professor's Research PRE 125</li> <li>1 Cynthia's Feelings LA 131</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Jacq SVI 175</li> <li>1 Marnie CPA 56</li> <li>1 Pokémon Collector HS 97</li> <li>1 Teammates PRC 141</li> <li>4 Rare Candy PAF 89</li> <li>4 Trainers' Mail ROS 92</li> <li>3 VS Seeker PHF 109</li> <li>2 Evolution Incense SSH 163</li> <li>2 Level Ball BST 129</li> <li>2 Nest Ball PAF 84</li> <li>2 Nightly Garbage Run TR 77</li> <li>1 Luxury Ball SF 86</li> <li>1 Scramble Switch SSP 186</li> <li>1 Heat Factory {*} LOT 178</li> <li>1 Scorched Earth FCO 110</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>8 Basic Fire Energy SVE 2</li> </ul>
@@ -246,7 +246,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1ce892db8e602025.webp)
+![](/images/durant-mill.webp)
 
 *Illus. Masakazu Fukuda*
 
@@ -256,7 +256,7 @@ From a list by [Piano Leg Pete](https://cubekoga.net/Deck/17856).
 
 
 
-![](/images/da7226b672ec416c.webp)
+![](/images/29-durant-mill.webp)
 
 </div><div class="jb-col-6">
 
@@ -272,7 +272,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6ab4f9d6d32ecf9c.webp)
+![](/images/hydrapple-ex-6ab4f9.webp)
 
 *Illus. 5ban Graphics*
 
@@ -282,7 +282,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/68ef672cbcbd356e.webp)
+![](/images/07-festival-lead-hydrapple-ex.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Applin RCL 21</li> <li>4 Dipplin PRE 10</li> <li>3 Teal Mask Ogerpon ex PRE 12</li> <li>2 Hydrapple ex PRE 11</li> <li>1 Baltoy SSH 101</li> <li>1 Claydol GE 15</li> <li>1 Mr. Mime PLF 47</li> <li>1 Wobbuffet PHF 36</li> </ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>3 Arven OBF 186</li> <li>1 Faba LOT 173</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Kieran PRE 113</li> <li>1 Klara CRE 145</li> <li>4 Bug Catching Set PRE 102</li> <li>3 Buddy-Buddy Poffin PRE 101</li> <li>2 Evolution Incense SSH 163</li> <li>2 Level Ball BST 129</li> <li>2 VS Seeker PHF 109</li> <li>1 Luxury Ball SF 86</li> <li>1 Super Rod PAL 188</li> <li>1 Unfair Stamp TWM 165</li> <li>2 Float Stone BKT 137</li> <li>1 Muscle Band XY 121</li> <li>4 Festival Grounds PRE 108</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>12 Basic Grass Energy SVE 1</li> </ul>
@@ -294,7 +294,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e98608523cbcbe84.webp)
+![](/images/gardevoir-ex-e98608.webp)
 
 *Illus. N-DESIGN Inc.*
 
@@ -304,7 +304,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/12ea466b3469150b.webp)
+![](/images/15-gardevoir.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>3 Kirlia SIT 68</li> <li>3 Ralts PL 89</li> <li>2 Gardevoir CRE 61</li> <li>2 Gardevoir ex SVI 86</li> <li>1 Azelf LA 19</li> <li>1 Gardevoir NXD 57</li> <li>1 Gardevoir SW 7</li> <li>1 Giratina LOT 97</li> <li>1 Kirlia CRE 60</li> <li>1 Mr. Mime PLF 47</li> <li>1 Ralts ASR 60</li> <li>1 Scream Tail PAR 86<p></p> </li><li>1 Unown E N2 67<p></p> </li><li>1 Wobbuffet PHF 36<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>1 Cynthia's Feelings LA 131</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Rocket's Admin. TRR 86</li> <li>1 Rosa CEC 204</li> <li>4 Fog Crystal CRE 140</li> <li>4 Mysterious Treasure FLI 113</li> <li>4 Surprise! Time Machine TRR 91</li> <li>3 Pokémon Communication TEU 152</li> <li>3 VS Seeker PHF 109</li> <li>2 Rare Candy PAF 89</li> <li>2 Rescue Stretcher GRI 130</li> <li>1 Luxury Ball SF 86</li> <li>1 Unfair Stamp TWM 165</li> <li>1 Cape of Toughness DAA 160</li> <li>1 Float Stone BKT 137</li> <li>1 Wondrous Labyrinth {*} TEU 158</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>7 Basic Psychic Energy SVE 5</li> </ul>
@@ -316,7 +316,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3622921caa5ac09e.webp)
+![](/images/h-zoroark-vstar.webp)
 
 *Illus. aky CG Works*
 
@@ -326,7 +326,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/19e1a0ddef2d355d.webp)
+![](/images/16-hisuian-zoroark-vstar.webp)
 
 </div><div class="jb-col-6">
 
@@ -342,7 +342,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/2a52e6373b6a92cb.webp)
+![](/images/weezing-dx.webp)
 
 *Illus. Hisao Nakamura*
 
@@ -352,7 +352,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/e21a53f1fbd46b7c.webp)
+![](/images/30-liability-weezing.webp)
 
 </div><div class="jb-col-6">
 
@@ -368,7 +368,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/b56ae48280da98de.webp)
+![](/images/magcargo.webp)
 
 *Illus. Midori Harada*
 
@@ -378,7 +378,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/6f56b8d501937378.webp)
+![](/images/06-magcargo.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Slugma UD 67</li> <li>3 Magcargo ex TWM 29</li> <li>2 Baltoy SSH 101</li> <li>2 Claydol GE 15</li> <li>2 Mantine DF 20</li> <li>1 Ditto {*} LOT 154</li> <li>1 Magcargo CES 24</li> <li>1 Magcargo DX 20</li> <li>1 Radiant Charizard CRZ 20</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Welder UNB 189</li> <li>1 Guzma BUS 115</li> <li>1 Team Star Grunt OBF 195</li> <li>3 Buddy-Buddy Poffin PRE 101</li> <li>3 Fiery Flint DRM 60</li> <li>3 Level Ball BST 129</li> <li>3 VS Seeker PHF 109</li> <li>2 Evolution Incense SSH 163</li> <li>2 Fire Crystal UNB 173</li> <li>2 Night Stretcher SFA 61</li> <li>1 Luxury Ball SF 86</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Prime Catcher PRE 119</li> <li>2 Float Stone BKT 137</li> <li>2 Wishful Baton BUS 128</li> <li>1 Heat Factory {*} LOT 178</li> <li>1 Scorched Earth FCO 110</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Fire Energy SVE 2</li> </ul>
@@ -390,7 +390,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e09c7575cbaf6c57.webp)
+![](/images/magnezone-box.webp)
 
 *Illus. Noriko Hotta*
 
@@ -400,7 +400,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/e0de92177405cbd7.webp)
+![](/images/06-magnezone-lightning-box.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Magnemite AQ 91</li> <li>2 Magnezone FLI 36</li> <li>2 Magnezone TM 96</li> <li>2 Miraidon ex SVI 81</li> <li>1 Iron Hands ex PRE 31</li> <li>1 Lapras LM 8</li> <li>1 Magneton DR 17</li> <li>1 Magnezone ex SVI 65</li> <li>1 Raichu V BRS 45</li> <li>1 Raikou V BRS 48</li> <li>1 Rotom V CRZ 45</li> <li>1 Zeraora-GX LOT 86<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>2 Arven OBF 186</li> <li>1 Cynthia's Feelings LA 131</li> <li>1 Guzma BUS 115</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>4 Electropower LOT 172</li> <li>4 Rare Candy PAF 89</li> <li>3 VS Seeker PHF 109</li> <li>2 Nightly Garbage Run TR 77</li> <li>2 Quick Ball FST 237</li> <li>2 Ultra Ball PAF 91</li> <li>1 Computer Search BCR 137</li> <li>1 Luxury Ball SF 86</li> <li>1 Float Stone BKT 137</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 U-Turn Board UNM 211</li> <li>1 Stormy Mountains EVS 161</li> <li>1 Thunder Mountain {*} LOT 191</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>7 Basic Lightning Energy SVE 4</li> <li>4 Speed Lightning Energy RCL 173</li> </ul>
@@ -412,7 +412,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f45a3f117ccfded6.webp)
+![](/images/malamar.webp)
 
 *Illus. You Iribi*
 
@@ -422,7 +422,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/3d2d7c47a00941c6.webp)
+![](/images/31-malamar.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Inkay FLI 50</li> <li>3 Malamar FLI 51</li> <li>2 Giratina LOT 97</li> <li>1 Dawn Wings Necrozma-GX UPR 63</li> <li>1 Holon's Magneton DS 22</li> <li>1 Lapras LM 8</li> <li>1 Mr. Mime PLF 47</li> <li>1 Necrozma V BST 63</li> <li>1 Ultra Necrozma-GX FLI 95</li> <li>1 Unown E N2 67</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>2 Professor's Research PRE 125</li> <li>1 Carmine PRE 103</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Pokémon Collector HS 97</li> <li>1 Raihan CRZ 140</li> <li>4 VS Seeker PHF 109</li> <li>3 Fog Crystal CRE 140</li> <li>3 Mysterious Treasure FLI 113</li> <li>3 Quick Ball FST 237</li> <li>2 Battle Compressor PHF 92</li> <li>2 Ultra Ball PAF 91</li> <li>1 Lana's Fishing Rod CEC 195</li> <li>1 Luxury Ball SF 86</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Unfair Stamp TWM 165</li> <li>1 Warp Point MD 88</li> <li>2 Stealthy Hood UNB 186</li> <li>1 Float Stone BKT 137</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>1 Dimension Valley PHF 93</li> <li>1 Moonlight Stadium GE 100</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>6 Basic Psychic Energy SVE 5</li> <li>1 Basic Metal Energy SVE 8</li> <li>1 Mystery Energy PHF 112</li> </ul>
@@ -434,7 +434,7 @@ Source: Legendary (Falinks Dealer)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1b03e60ae941cb86.webp)
+![](/images/medicham-prc.webp)
 
 *Illus. Mitsuhiro Arita*
 
@@ -444,7 +444,7 @@ Source: Legendary (Falinks Dealer)
 
 
 
-![](/images/8b7482847a6d536b.webp)
+![](/images/08-medicham.webp)
 
 </div><div class="jb-col-6">
 
@@ -460,7 +460,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/ede71e66af575bd5.webp)
+![](/images/miraidon-turbo.webp)
 
 *Illus. 5ban Graphics & Sumiyoshi Kizuki*
 
@@ -470,7 +470,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 
 
 
-![](/images/23febe0a3c6d5de5.webp)
+![](/images/18-turbo-miraidon-ex.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>3 Miraidon ex SVI 81</li> <li>2 Mantine DF 20</li> <li>1 Iron Hands ex PRE 31</li> <li>1 Lapras LM 8</li> <li>1 Latias ex SSP 76</li> <li>1 Raichu V BRS 45</li> <li>1 Raikou V BRS 48</li> <li>1 Squawkabilly ex PAF 75</li> <li>1 Tapu Koko {*} TEU 51</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>3 Professor's Research PRE 125</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>4 Electric Generator PAF 79</li> <li>4 Electropower LOT 172</li> <li>3 Acro Bike CES 123</li> <li>3 Quick Ball FST 237</li> <li>3 VS Seeker PHF 109</li> <li>1 Computer Search BCR 137</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Luxury Ball SF 86</li> <li>1 Night Stretcher SFA 61</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Float Stone BKT 137</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 U-Turn Board UNM 211</li> <li>1 Stormy Mountains EVS 161</li> <li>1 Thunder Mountain {*} LOT 191</li> </ul><p class="jb-decklist-section">Energy - 15</p><ul> <li>13 Basic Lightning Energy SVE 4</li> <li>2 Speed Lightning Energy RCL 173</li> </ul>
@@ -482,7 +482,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e06cee6202df3348.webp)
+![](/images/miraidon-pidgeot.webp)
 
 *Illus. 5ban Graphics & Midori Harada*
 
@@ -492,7 +492,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 
 
 
-![](/images/61f3d16caec27de4.webp)
+![](/images/19-miraidon-pidgeot.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>3 Miraidon ex SVI 81</li> <li>2 Pidgeotto TEU 123</li> <li>2 Pidgey HP 77</li> <li>1 Flaaffy EVS 55</li> <li>1 Iron Hands ex PRE 31</li> <li>1 Lapras LM 8</li> <li>1 Mareep LOT 75</li> <li>1 Pidgeot RG 10</li> <li>1 Raichu V BRS 45</li> <li>1 Raikou V BRS 48</li> <li>1 Tapu Koko {*} TEU 51</li> </ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>2 Arven OBF 186</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Professor's Research PRE 125</li> <li>4 Electric Generator PAF 79</li> <li>4 Electropower LOT 172</li> <li>3 Ultra Ball PAF 91</li> <li>3 VS Seeker PHF 109</li> <li>2 Quick Ball FST 237</li> <li>1 Computer Search BCR 137</li> <li>1 Luxury Ball SF 86</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Float Stone BKT 137</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 U-Turn Board UNM 211</li> <li>1 Stormy Mountains EVS 161</li> <li>1 Thunder Mountain {*} LOT 191</li> </ul><p class="jb-decklist-section">Energy - 15</p><ul> <li>15 Basic Lightning Energy SVE 4</li> </ul>
@@ -504,7 +504,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/60a1526c7bf87614.webp)
+![](/images/origin-forme-palkia-vstar.webp)
 
 
 
@@ -512,7 +512,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 
 
 
-![](/images/5646a91925dbda07.webp)
+![](/images/32-of-palkia-vstar.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>4 Origin Forme Palkia V ASR 39</li> <li>3 Origin Forme Palkia VSTAR ASR 40</li> <li>2 Baltoy SSH 101</li> <li>2 Claydol GE 15</li> <li>1 Lapras LM 8</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Starmie V ASR 30</li> <li>1 Suicune V EVS 31</li> </ul><p class="jb-decklist-section">Trainer Cards - 37</p><ul> <li>2 Guzma BUS 115</li> <li>2 Melony CRE 146</li> <li>2 Professor's Research PRE 125</li> <li>1 Iono PAF 80</li> <li>1 Irida ASR 147</li> <li>1 Marnie CPA 56</li> <li>1 Raihan CRZ 140</li> <li>4 Quick Ball FST 237</li> <li>4 Ultra Ball PAF 91</li> <li>4 VS Seeker PHF 109</li> <li>2 Earthen Vessel PRE 106</li> <li>1 Battle VIP Pass FST 225</li> <li>1 Erika's Perfume G1 110</li> <li>1 Luxury Ball SF 86</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Prime Catcher PRE 119</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Windstorm CG 85</li> <li>2 Float Stone BKT 137</li> <li>1 Muscle Band XY 121</li> <li>3 Sky Field ROS 89</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>8 Basic Water Energy SVE 3</li> </ul>
@@ -524,7 +524,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/9a3748c0c1ba3c0e.webp)
+![](/images/palafin-ex-9a3748.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -534,7 +534,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 
 
 
-![](/images/ab6266a289d71235.webp)
+![](/images/33-palafin-ex.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Finizen TWM 59</li> <li>4 Wobbuffet PHF 36</li> <li>3 Palafin ex TWM 61</li> <li>2 Baltoy SSH 101</li> <li>2 Claydol GE 15</li> <li>1 Lapras LM 8</li> <li>1 Mr. Mime PLF 47</li> <li>1 Palafin OBF 62</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Irida ASR 147</li> <li>2 Guzma BUS 115</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Iono PAF 80</li> <li>1 Kieran PRE 113</li> <li>1 Tate &amp; Liza CES 148</li> <li>4 Ultra Ball PAF 91</li> <li>3 Dive Ball PRC 125</li> <li>3 VS Seeker PHF 109</li> <li>2 Nest Ball PAF 84</li> <li>2 Warp Point MD 88</li> <li>1 Capacious Bucket RCL 156</li> <li>1 Luxury Ball SF 86</li> <li>1 Max Potion GRI 128</li> <li>1 Scoop Up Cyclone PRE 128</li> <li>1 Windstorm CG 85</li> <li>4 Float Stone BKT 137</li> <li>2 Brooklet Hill GRI 120</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>4 Wash Water Energy VIV 165</li> <li>3 Basic Water Energy SVE 3</li> </ul>
@@ -546,7 +546,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/18ffd57879442631.webp)
+![](/images/palkia-lost-box.webp)
 
 *Illus. Mitsuhiro Arita*
 
@@ -556,7 +556,7 @@ Based on a list by [G1acia1](https://play.limitlesstcg.com/tournament/67c3377136
 
 
 
-![](/images/13fe2f94098801fa.webp)
+![](/images/28-palkia-lost-cyclone-box.webp)
 
 </div><div class="jb-col-6">
 
@@ -572,7 +572,7 @@ From a list by Ryan Doby.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/4da408c2f7b56e68.webp)
+![](/images/raging-bolt-ex-4da408.webp)
 
 *Illus. aky CG Works*
 
@@ -582,7 +582,7 @@ From a list by Ryan Doby.
 
 
 
-![](/images/67cacbc3d79108a9.webp)
+![](/images/26-raging-bolt-naganadel.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Poipole FLI 55</li> <li>3 Naganadel LOT 108</li> <li>3 Raging Bolt ex TEF 123</li> <li>1 Buzzwole FLI 77</li> <li>1 Minun SW 32</li> <li>1 Naganadel-GX UNM 160</li> <li>1 Pachirisu CL 18</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Tapu Koko {*} TEU 51</li> <li>1 Tapu Lele-GX GRI 60</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>3 Professor Sada's Vitality PRE 120</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>4 Beast Ring FLI 102</li> <li>4 Mysterious Treasure FLI 113</li> <li>3 Earthen Vessel PRE 106</li> <li>3 Quick Ball FST 237</li> <li>3 VS Seeker PHF 109</li> <li>2 Battle Compressor PHF 92</li> <li>1 Night Stretcher SFA 61</li> <li>1 Prime Catcher PRE 119</li> <li>2 Bravery Charm PAL 173</li> <li>2 Float Stone BKT 137</li> <li>1 PokéStop PGO 68</li> <li>1 Ultra Space FLI 115</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>6 Basic Lightning Energy SVE 4</li> <li>5 Basic Fighting Energy SVE 6</li> </ul>
@@ -594,7 +594,7 @@ From a list by Ryan Doby.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8598063c4f0a44f2.webp)
+![](/images/regigigas-859806.webp)
 
 
 
@@ -602,7 +602,7 @@ From a list by Ryan Doby.
 
 
 
-![](/images/4904ac2b968331e4.webp)
+![](/images/13-regigigas.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>2 Exeggcute PLF 4</li> <li>2 Regice LA 36</li> <li>2 Regidrago ASR 118</li> <li>2 Regieleki EVS 60</li> <li>2 Regigigas ASR 130</li> <li>2 Regirock PR-XY 49</li> <li>1 Kyurem SFA 47</li> <li>1 Naganadel &amp; Guzzlord-GX CEC 158</li> <li>1 Pichu HS 28</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Registeel ASR 108</li> <li>1 Registeel CES 96<p></p> </li><li>1 Wobbuffet PHF 36<p></p> </li><li>1 Yveltal SHF 46<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>4 Roxie CEC 205</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Thorton LOR 167</li> <li>4 Battle Compressor PHF 92</li> <li>4 Quick Ball FST 237</li> <li>4 Trainers' Mail ROS 92</li> <li>3 Rescue Stretcher GRI 130</li> <li>3 VS Seeker PHF 109</li> <li>1 Field Blower GRI 125</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Scoop Up Cyclone PRE 128</li> <li>1 Float Stone BKT 137</li> <li>3 Sky Field ROS 89</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>4 Prism Energy NXD 93</li> <li>2 Counter Energy CIN 100</li> <li>1 Double Colorless Energy SLG 69</li> <li>1 Rescue Energy TM 90</li> </ul>
@@ -614,7 +614,7 @@ From a list by Ryan Doby.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/3b90dd5fe41d9f05.webp)
+![](/images/sp-control.webp)
 
 *Illus. Mitsuhiro Arita*
 
@@ -624,7 +624,7 @@ From a list by Ryan Doby.
 
 
 
-![](/images/955934777b127944.webp)
+![](/images/27-sp-control.webp)
 
 </div><div class="jb-col-6">
 
@@ -640,7 +640,7 @@ From a list by Ryan Doby.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/84b60461f3c77503.webp)
+![](/images/spiritomb.webp)
 
 *Illus. Kagemaru Himeno*
 
@@ -650,7 +650,7 @@ From a list by Ryan Doby.
 
 
 
-![](/images/32569130fd4e249c.webp)
+![](/images/09-spiritomb-sans-alakazam.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 13</p><ul> <li>4 Spiritomb UNB 112</li> <li>4 Unown P MD 33</li> <li>1 Jynx UNM 76</li> <li>1 Lapras LM 8</li> <li>1 Mr. Mime PLF 47</li> <li>1 Munkidori TWM 95</li> <li>1 Radiant Charizard CRZ 20</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>2 Professor's Research PRE 125</li> <li>2 Teammates PRC 141</li> <li>1 Arven OBF 186</li> <li>1 Guzma BUS 115</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Professor Elm's Lecture LOT 188</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Trainers' Mail ROS 92</li> <li>3 Level Ball BST 129</li> <li>3 VS Seeker PHF 109</li> <li>2 Quick Ball FST 237</li> <li>2 Rescue Carrier CRZ 142</li> <li>1 Computer Search BCR 137</li> <li>1 Field Blower GRI 125</li> <li>1 Luxury Ball SF 86</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Special Charge STS 105</li> <li>2 Cape of Toughness DAA 160</li> <li>2 Hustle Belt CES 134</li> <li>1 Float Stone BKT 137</li> <li>1 U-Turn Board UNM 211</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 6</p><ul> <li>4 Rainbow Energy CES 151</li> <li>2 Basic Darkness Energy SVE 7</li> </ul>
@@ -662,7 +662,7 @@ From a list by Ryan Doby.
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/1e6e1d79f5aac207.webp)
+![](/images/alakazam-star.webp)
 
 *Illus. Masakazu Fukuda*
 
@@ -672,7 +672,7 @@ From a list by Ryan Doby.
 
 
 
-![](/images/e7db9717264c3504.webp)
+![](/images/alakazam-star-skill-copy.webp)
 
 </div><div class="jb-col-6">
 
@@ -688,7 +688,7 @@ Source: [Cealgair](https://cubekoga.net/Deck/14643)
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/63750e5bf90e7bab.webp)
+![](/images/terapagos-ex-63750e.webp)
 
 *Illus. 5ban Graphics*
 
@@ -698,7 +698,7 @@ Source: [Cealgair](https://cubekoga.net/Deck/14643)
 
 
 
-![](/images/1b68df4b159e9b96.webp)
+![](/images/24-terapagos-birds.webp)
 
 </div><div class="jb-col-6">
 
@@ -714,7 +714,7 @@ From a list by [GetREKT](https://cubekoga.net/Deck/18214).
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/e8720e51adf67bde.webp)
+![](/images/torterra.webp)
 
 *Illus. Oswaldo KATO*
 
@@ -724,7 +724,7 @@ From a list by [GetREKT](https://cubekoga.net/Deck/18214).
 
 
 
-![](/images/e55cf9efbdf400ae.webp)
+![](/images/35-torterra.webp)
 
 </div><div class="jb-col-6">
 
@@ -740,7 +740,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/a0da874e411b50ef.webp)
+![](/images/toxtricity.webp)
 
 *Illus. Anesaki Dynamic*
 
@@ -750,7 +750,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 
 
 
-![](/images/9170a61deaa6c698.webp)
+![](/images/17-toxtricity.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 21</p><ul> <li>4 Toxel OBF 71</li> <li>4 Toxtricity OBF 72</li> <li>2 Baltoy SSH 101</li> <li>2 Claydol GE 15</li> <li>2 Kecleon LM 37</li> <li>2 Meowth HP 71</li> <li>2 Persian DS 50</li> <li>1 Azelf LA 19</li> <li>1 Lapras LM 8</li> <li>1 Mr. Mime GEN 52</li> </ul><p class="jb-decklist-section">Trainer Cards - 29</p><ul> <li>2 Arven OBF 186</li> <li>1 Faba LOT 173</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Teammates PRC 141</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 VS Seeker PHF 109</li> <li>3 Level Ball BST 129</li> <li>2 Evolution Incense SSH 163</li> <li>2 Rescue Stretcher GRI 130</li> <li>1 Hyper Aroma TWM 152</li> <li>1 Luxury Ball SF 86</li> <li>1 Special Charge STS 105</li> <li>1 Float Stone BKT 137</li> <li>1 Sky Pillar CES 144</li> <li>1 Thunder Mountain {*} LOT 191</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>4 Double Rainbow Energy CG 88</li> <li>3 React Energy LM 82</li> <li>1 Counter Energy CIN 100</li> <li>1 Reversal Energy PAL 192</li> <li>1 Speed Lightning Energy RCL 173</li>
@@ -762,7 +762,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/d66252538f9d9b9a.webp)
+![](/images/darkrai-vstar.webp)
 
 
 
@@ -770,7 +770,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 
 
 
-![](/images/7355a730994b64ec.webp)
+![](/images/12-turbo-dark.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>3 Darkrai V ASR 98</li> <li>3 Darkrai VSTAR ASR 99</li> <li>2 Galarian Moltres V CRE 97</li> <li>1 Galarian Moltres EVS 93</li> <li>1 Pecharunt ex SFA 39</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Squawkabilly ex PAL 169</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>3 Professor's Research PRE 125</li> <li>2 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>4 Battle VIP Pass FST 225</li> <li>4 Dark Patch ASR 139</li> <li>3 Acro Bike CES 123</li> <li>3 Ultra Ball PAF 91</li> <li>3 VS Seeker PHF 109</li> <li>1 Dowsing Machine PLS 128</li> <li>1 Field Blower GRI 125</li> <li>1 Luxury Ball SF 86</li> <li>1 Night Stretcher SFA 61</li> <li>1 Nightly Garbage Run TR 77</li> <li>1 Warp Point MD 88</li> <li>2 Binding Mochi PRE 95</li> <li>2 PokéStop PGO 68</li> </ul><p class="jb-decklist-section">Energy - 14</p><ul> <li>12 Basic Darkness Energy SVE 7</li> <li>2 Scramble Energy DF 89</li> </ul>
@@ -782,7 +782,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6d436a85e97f5cf9.webp)
+![](/images/ultra-necrozma.webp)
 
 
 
@@ -790,7 +790,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 
 
 
-![](/images/217c16169dde0e7b.webp)
+![](/images/10-ultra-necrozma.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>4 Ultra Necrozma CEC 164</li> <li>3 Garbodor BKP 57</li> <li>2 Trubbish BKP 56</li> <li>1 Garbodor GRI 51</li> <li>1 Trubbish GRI 50</li> <li>1 Trubbish NVI 48</li> <li>1 Unown E N2 67</li> <li>1 Unown G GE 57</li> <li>1 Wobbuffet PHF 36</li> </ul><p class="jb-decklist-section">Trainer Cards - 39</p><ul> <li>3 Iono PAF 80</li> <li>3 Professor's Research PRE 125</li> <li>2 Teammates PRC 141</li> <li>1 Guzma BUS 115</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Marnie CPA 56</li> <li>4 Lana's Fishing Rod CEC 195</li> <li>4 Mysterious Treasure FLI 113</li> <li>4 VS Seeker PHF 109</li> <li>3 Trainers' Mail ROS 92</li> <li>2 Adventure Bag LOT 167</li> <li>2 Special Charge STS 105</li> <li>1 Luxury Ball SF 86</li> <li>1 Nest Ball PAF 84</li> <li>3 Float Stone BKT 137</li> <li>2 Cessation Crystal CG 74</li> <li>1 Life Dew PLF 107</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 6</p><ul> <li>4 Double Dragon Energy ROS 97</li> <li>1 Counter Energy CIN 100</li> <li>1 Horror Psychic Energy RCL 172</li> </ul>
@@ -802,7 +802,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/f69e4339ff664be4.webp)
+![](/images/wings-of-unity.webp)
 
 
 
@@ -810,7 +810,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 
 
 
-![](/images/c3223996eb421c19.webp)
+![](/images/11-united-wings.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Dartrix SFA 4</li> <li>4 Flamigo PAL 170</li> <li>4 Murkrow PAL 131</li> <li>4 Wattrel PAL 80</li> <li>2 Mew FCO 29</li> <li>1 Squawkabilly ex PAL 169</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>3 Professor's Research PRE 125</li> <li>1 Carmine PRE 103</li> <li>1 Guzma BUS 115</li> <li>1 Hugh BCR 130</li> <li>1 Iono PAF 80</li> <li>4 Battle Compressor PHF 92</li> <li>4 Quick Ball FST 237</li> <li>4 Trainers' Mail ROS 92</li> <li>4 Ultra Ball PAF 91</li> <li>3 VS Seeker PHF 109</li> <li>2 Acro Bike CES 123</li> <li>1 Computer Search BCR 137</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Rescue Stretcher GRI 130</li> <li>2 Sky Pillar CES 144</li> <li>1 Parallel City BKT 145</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>4 Double Colorless Energy SLG 69</li> <li>3 Basic Darkness Energy SVE 7</li> </ul>
@@ -822,7 +822,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/8cc946a9c3a603a9.webp)
+![](/images/wugtrio-8cc946.webp)
 
 *Illus. KIYOTAKA OSHIYAMA*
 
@@ -832,7 +832,7 @@ Based on a list by [Legendary (Falinks Dealer)](https://www.youtube.com/watch?v=
 
 
 
-![](/images/7c2be809eee7b5d9.webp)
+![](/images/36-wugtrio-mill.webp)
 
 </div><div class="jb-col-6">
 
@@ -848,7 +848,7 @@ Source: Based on a list by [tigerclaw989](https://play.limitlesstcg.com/tourname
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/6034aa615c05dede.webp)
+![](/images/zacian-v.webp)
 
 *Illus. 5ban Graphics*
 
@@ -858,7 +858,7 @@ Source: Based on a list by [tigerclaw989](https://play.limitlesstcg.com/tourname
 
 
 
-![](/images/e8dc552d413305f7.webp)
+![](/images/21-turbo-zacian-v.webp)
 
 </div><div class="jb-col-6"><div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>4 Zacian V SSH 138</li> <li>2 Dhelmise GRI 59</li> <li>1 Aegislash-EX PHF 65</li> <li>1 Crobat V SHF 44</li> <li>1 Latias ex SSP 76</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Squawkabilly ex PAF 75</li> <li>1 Zacian VSTAR CRZ 96</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>3 Professor's Research PRE 125</li> <li>1 Carmine PRE 103</li> <li>1 Faba LOT 173</li> <li>1 Guzma BUS 115</li> <li>1 Hugh BCR 130</li> <li>1 Iono PAF 80</li> <li>4 Max Elixir BKP 102</li> <li>4 Metal Saucer SSH 170</li> <li>4 Quick Ball FST 237</li> <li>3 Trainers' Mail ROS 92</li> <li>3 VS Seeker PHF 109</li> <li>1 Prime Catcher PRE 119</li> <li>1 Ultra Ball PAF 91</li> <li>2 Rusted Sword SHF 62</li> <li>1 Float Stone BKT 137</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Stealthy Hood UNB 186</li> <li>2 PokéStop PGO 68</li> </ul><p class="jb-decklist-section">Energy - 13</p><ul> <li>9 Basic Metal Energy SVE 8</li> <li>4 Metal Energy UD 80</li> </ul>

@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Part 7: Iron Valiant ex vs. Roaring Moon ex"
 description: "In our final regular testing stream prior to the full official release of Paradox Rift, Iron Valiant ex takes on Roaring Moon ex!  Check out these links to learn more!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Prox"
-ogImage: "/images/7938b2c1c5d67251.webp"
+ogImage: "/images/part-7-7938b2.webp"
 publishDate: 2023-10-27
 youtubeId: "VRMVTKU9oRQ"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-part-7-iron-valiant-ex-vs-roaring-moon-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/75cb86fa3cb38f19.webp)
+![](/images/part-7-75cb86.webp)
 
 
 

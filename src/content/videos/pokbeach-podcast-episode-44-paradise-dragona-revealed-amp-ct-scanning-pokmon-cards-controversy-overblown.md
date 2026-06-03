@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 44: \"Paradise Dragona\" Revealed & CT Scanning Pokémon Cards Controversy Overblown?"
 description: "This week we discuss the reveal of the first \"Paradise Dragona\" cards, the CT scanning controversy, new products, Worlds announcements, a new \"Trainer Tour\" TV show, the \"Shrouded Fable\" release, new \"Pokemon GO\" Chinese cards, and more!"
-ogImage: "/images/ae0a5c61e5e89cef.webp"
+ogImage: "/images/gloom-768x432-ae0a5c.webp"
 publishDate: 2024-08-04
 youtubeId: "_FHm3aF_6Ts"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-44-paradise-dragona-revealed-amp-ct-scanning-pokmon-cards-controversy-overblown"
@@ -19,7 +19,7 @@ This week we discuss the reveal of the first "Paradise Dragona" cards, the CT sc
 
 
 
-![](/images/f973e4fb7d9b544a.webp)
+![](/images/gloom-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format IRL! May 2023 Tournament (Full Tournament)"
 description: "Watch the May 2023 Eternal Format tournament at Dragon's Lair at Alamo Ranch! This tournament took place in the BS-SVI Eternal format, prior to the ban list update that took effect with the legality of Paldea Evolved. With six players, this tournament had three best of one Swiss rounds followed by a"
-ogImage: "/images/9cf1ccbef432a9e8.webp"
+ogImage: "/images/may-2023-header-9cf1cc.webp"
 publishDate: 2023-06-16
 youtubeId: "aH_jV0hgUzw"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-irl-may-2023-tournament-full-tournament"
@@ -21,7 +21,7 @@ Learn more about the Eternal format here: [https://www.justinbasil.com/eternal](
 
 
 
-![](/images/5d9a940840184154.webp)
+![](/images/may-2023-header.webp)
 
 
 

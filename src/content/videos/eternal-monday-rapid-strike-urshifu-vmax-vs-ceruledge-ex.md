@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Rapid Strike Urshifu VMAX vs. Ceruledge ex"
 description: "In this week's Eternal Monday, Rapid Strike Urshifu VMAX tries to out-rapid strike the fiery fists of the abyssal flames from Ceruledge ex.  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/51d5606a93979190.webp"
+ogImage: "/images/urshifu-v-ceruledge-51d560.webp"
 publishDate: 2025-01-20
 youtubeId: "dVHFt7y1i7E"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-rapid-strike-urshifu-vmax-vs-ceruledge-ex"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/664f6d9d96fde077.webp)
+![](/images/urshifu-v-ceruledge.webp)
 
 
 

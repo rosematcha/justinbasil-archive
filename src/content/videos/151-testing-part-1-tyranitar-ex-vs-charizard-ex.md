@@ -1,7 +1,7 @@
 ---
 title: "151 Testing, Part 1: Tyranitar ex vs. Charizard ex"
 description: "151 Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/cf2de4a737a11861.webp"
+ogImage: "/images/part-1-cf2de4.webp"
 publishDate: 2023-08-19
 youtubeId: "-Pp0Lyu4r0s"
 sourceUrl: "https://www.justinbasil.com/videos/151-testing-part-1-tyranitar-ex-vs-charizard-ex"
@@ -26,7 +26,7 @@ showHeading: false
 
 
 
-![](/images/324623a17584cec6.webp)
+![](/images/part-1-324623.webp)
 
 
 

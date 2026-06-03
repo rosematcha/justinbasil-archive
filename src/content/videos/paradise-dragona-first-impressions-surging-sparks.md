@@ -1,7 +1,7 @@
 ---
 title: "Paradise Dragona First Impressions (Surging Sparks)"
 description: "Now that we've seen the full reveal of Paradise Dragona from Japan, let's look at what's coming in November!   Check out these links to learn more!    Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/30978ce43be22028.webp"
+ogImage: "/images/video-thumbnails-v2-30978c.webp"
 publishDate: 2024-09-07
 youtubeId: "smWRVY_a4vA"
 sourceUrl: "https://www.justinbasil.com/videos/paradise-dragona-first-impressions-surging-sparks"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/0b22139dd43a1de6.webp)
+![](/images/video-thumbnails-v2-0b2213.webp)
 
 
 

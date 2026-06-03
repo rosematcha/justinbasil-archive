@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Lost Box vs. Rapid Strike Urshifu VMAX"
 description: "In today's Eternal Monday, an Eternal format version of Lost Box jumps into the arena against Rapid Strike Urshifu VMAX!"
-ogImage: "/images/82b4dfdb6c238621.webp"
+ogImage: "/images/lost-box-vs-urshifu-82b4df.webp"
 publishDate: 2024-03-11
 youtubeId: "S1IpejtFq20"
 sourceUrl: "https://www.justinbasil.com/videos/xubqkrr013kpp4zzk8fcvup8f6xvdj"
@@ -19,7 +19,7 @@ In today's Eternal Monday, an Eternal format version of Lost Box jumps into the 
 
 
 
-![](/images/cce8df2f7e8d9aa6.webp)
+![](/images/lost-box-vs-urshifu.webp)
 
 
 

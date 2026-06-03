@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Alternate Formats Ban List Updates: Aceless and 345 Formats"
 description: "Effective immediately, the following card is banned in the 345 and Aceless formats:     Luxurious Cape PAR 166"
-ogImage: "/images/76035143732cb026.webp"
+ogImage: "/images/img-5362-760351.webp"
 publishDate: 2023-10-27
 sourceUrl: "https://www.justinbasil.com/resources/paradox-rift-alternate-formats-ban-list-updates-aceless-and-345-formats"
 showHeading: false
@@ -15,7 +15,7 @@ Effective immediately, the following card is banned in the 345 and Aceless forma
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/60d41ddd54a751f8.webp)
+![](/images/img-5362.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -23,7 +23,7 @@ Additionally, [Electrode MEW 101](https://limitlesstcg.com/cards/MEW/101) is ban
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/99a054517f4652fa.webp)
+![](/images/mew-101-r-en-lg.webp)
 
 </div><div class="jb-col-4"></div></div>
 

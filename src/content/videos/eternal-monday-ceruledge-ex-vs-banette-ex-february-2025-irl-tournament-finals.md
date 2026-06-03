@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Ceruledge ex vs. Banette ex (February 2025 IRL Tournament Finals)"
 description: "In this week's Eternal Monday, it's a battle of the energy storms—Ceruledge ex tries its best to go full turbo, and Banette ex tries its best muck up Ceruledge's plans."
-ogImage: "/images/30574f171b6a9d47.webp"
+ogImage: "/images/feb-25-ceruledge-v-banette-30574f.webp"
 publishDate: 2025-02-10
 youtubeId: "0Y5BJweCKgU"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-ceruledge-ex-vs-banette-ex-february-2025-irl-tournament-finals"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, it's a battle of the energy storms—Ceruledge ex
 
 
 
-![](/images/1b88f2c3d71c7159.webp)
+![](/images/feb-25-ceruledge-v-banette.webp)
 
 
 

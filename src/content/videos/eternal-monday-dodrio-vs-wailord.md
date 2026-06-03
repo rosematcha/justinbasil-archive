@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Dodrio vs. Wailord"
 description: "In this week's Eternal Monday, Dodrio comes out beaks-ablaze as it fends off a Wailord invasion!"
-ogImage: "/images/d8085d0e57257911.webp"
+ogImage: "/images/01-dodrio-v-wailord-d8085d.webp"
 publishDate: 2025-06-16
 youtubeId: "6X4Er82f2QU"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-dodrio-vs-wailord"
@@ -19,7 +19,7 @@ In this week's Eternal Monday, Dodrio comes out beaks-ablaze as it fends off a W
 
 
 
-![](/images/0d0d5e7b15c9d006.webp)
+![](/images/01-dodrio-v-wailord.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Evolving Skies"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/ss7"
 showHeading: false
 ---
@@ -112,7 +112,7 @@ Below is a list of archetypes that may be reasonably playable after this year’
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/8f28225a36b7b5b2.webp)
+![Illus. PLANETA Tsuji](/images/leafeon.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -155,7 +155,7 @@ Bench Leafeon V and use its Greening Cells ability early to attach a Grass Energ
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Atsuko Nishida](/images/2678fd1208251895.webp)
+![Illus. Atsuko Nishida](/images/maractus.webp)
 
 *Illus. Atsuko Nishida*
 
@@ -195,7 +195,7 @@ Pile energy onto Maractus using Cherrim's *Spring Bloom* ability, then fire away
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryota Murayama](/images/667ede75a9368fa8.webp)
+![Illus. Ryota Murayama](/images/decidueye.webp)
 
 *Illus. Ryota Murayama*
 
@@ -238,7 +238,7 @@ Setup a Decidueye against an opposing deck focused around Pokémon V or Pokémon
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Planeta Mochizuki](/images/a75e322fee12ef20.webp)
+![Illus. Planeta Mochizuki](/images/dhelmise-vmax.webp)
 
 *Illus. Planeta Mochizuki*
 
@@ -275,7 +275,7 @@ Evolve Dhelmise V into Dhelmise VMAX and Grookey into Rillaboom via Rare Candy. 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/fe288c705d6f678f.webp)
+![Illus. 5ban Graphics](/images/orbeetle-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -316,7 +316,7 @@ Bench Orbeetle V and Galarian Moltres V, evolving Orbeetle V to Orbeetle VMAX as
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryuta Fuse](/images/470d4e0937776b2f.webp)
+![Illus. Ryuta Fuse](/images/charizard.webp)
 
 *Illus. Ryuta Fuse*
 
@@ -361,7 +361,7 @@ Use Level Ball and Quick Ball to get Charmander and Minccino set up as quickly a
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/f2700ff48404a50b.webp)
+![Illus. 5ban Graphics](/images/flareon.webp)
 
 *Illus. 5ban Graphics*
 
@@ -399,7 +399,7 @@ Evolve Flareon V into Flareon VMAX and attach requisite energy to it, lowering t
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/a35085c36d1d7fba.webp)
+![Illus. PLANETA Mochizuki](/images/victini.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -442,7 +442,7 @@ Based on a list by [Peter Kica](https://twitter.com/PeterJoltik/status/139118646
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kouki Saitou](/images/6d241f5a79b0eb48.webp)
+![Illus. Kouki Saitou](/images/cinderace-6d241f.webp)
 
 *Illus. Kouki Saitou*
 
@@ -480,7 +480,7 @@ Get Scorbunny and Minccino down as quickly as possible to prepare them to evolve
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/165cba24a098e50b.webp)
+![Illus. 5ban Graphics](/images/blastoise-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -519,7 +519,7 @@ Use Snorlax’s Gormandize ability on early turns to draw additional cards. Mean
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/1a50e82691f88b01.webp)
+![Illus. 5ban Graphics](/images/lapras-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -558,7 +558,7 @@ Play down Lapras V and Snom as early as possible so that they can evolve into La
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. kawayoo](/images/a09c3aceb3d44aab.webp)
+![Illus. kawayoo](/images/kingdra.webp)
 
 *Illus. kawayoo*
 
@@ -597,7 +597,7 @@ Bench and evolve Horsea, using Rare Candy to evolve them into Kingdra as soon as
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/db5653545d91c5da.webp)
+![Illus. PLANETA Mochizuki](/images/wailord-v.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -634,7 +634,7 @@ Play down Wailord V, Snom, and Minccino, evolving Snom into Frosmoth and Minccin
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/3cb80d5943517c35.webp)
+![Illus. PLANETA Tsuji](/images/glaceon-vmax.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -676,7 +676,7 @@ Going second, start with Glaceon V in the Active Spot and use its Ice Ascension 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Igarashi](/images/2bb9a4ff7e458f11.webp)
+![Illus. PLANETA Igarashi](/images/keldeo-v.webp)
 
 *Illus. PLANETA Igarashi*
 
@@ -715,7 +715,7 @@ Play Keldeo V and play down Snom as early as possible so that they can evolve in
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Teeziro](/images/19183a544d9620ad.webp)
+![Illus. Teeziro](/images/wishiwashi.webp)
 
 *Illus. Teeziro*
 
@@ -756,7 +756,7 @@ Use a Frosmoth’s Ice Dance ability to help get three or more energy on each Wi
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/326b358ecb347702.webp)
+![Illus. 5ban Graphics](/images/inteleon.webp)
 
 *Illus. 5ban Graphics*
 
@@ -800,7 +800,7 @@ Bench and evolve Inteleon V into Inteleon VMAX and bench Sobble in preparation f
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Naoki Saito](/images/3aa19bc5e9be9c39.webp)
+![Illus. Naoki Saito](/images/rs-urshifu-3aa19b.webp)
 
 *Illus. Naoki Saito*
 
@@ -839,7 +839,7 @@ Fill your bench and evolve Kubfu as quickly as you can so that each of your Pok�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/3519181591fdaaf4.webp)
+![Illus. 5ban Graphics](/images/ice-rider.webp)
 
 *Illus. 5ban Graphics*
 
@@ -881,7 +881,7 @@ Bench and evolve Ice Rider Calyrex V into Ice Rider Calyrex VMAX, and bench Sobb
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus.aky CG Works](/images/d6f3ef24c56f99c6.webp)
+![Illus.aky CG Works](/images/pikachu-vmax.webp)
 
 *Illus.aky CG Works*
 
@@ -919,7 +919,7 @@ Bench and evolve Mareep into Flaaffy and use Pikachu V’s Electrify attack and 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/7e3e46c483ef0122.webp)
+![Illus. 5ban Graphics](/images/jolteon-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -962,7 +962,7 @@ Evolve Jolteon V into Jolteon VMAX and power it up with a combination of manuall
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. OKACHEKE](/images/c1b61f3d17f370ad.webp)
+![Illus. OKACHEKE](/images/flaaffy.webp)
 
 *Illus. OKACHEKE*
 
@@ -1004,7 +1004,7 @@ Bench and evolve Mareep into Flaaffy and use Flaaffy’s Dynamotor ability to po
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ayaka Yoshida](/images/b4979c1767d36810.webp)
+![Illus. Ayaka Yoshida](/images/vikavolt.webp)
 
 *Illus. Ayaka Yoshida*
 
@@ -1042,7 +1042,7 @@ Play down Vikavolt V and Sobble, evolving the Sobble into Drizzile as needed to 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. chibi](/images/c1b8afa24fd2fe9d.webp)
+![Illus. chibi](/images/zeraora.webp)
 
 *Illus. chibi*
 
@@ -1080,7 +1080,7 @@ Bench Blaziken V and Sylveon V and evolve them into Blaziken VMAX and Sylveon VM
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. aky CG Works](/images/45970ef9a92abb9c.webp)
+![Illus. aky CG Works](/images/boltund-v.webp)
 
 *Illus. aky CG Works*
 
@@ -1118,7 +1118,7 @@ Bench and evolve Mareep into Flaaffy and use Boltund V’s Electrify attack and 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/d9e9d200617883fe.webp)
+![Illus. 5ban Graphics](/images/gardevoir.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1158,7 +1158,7 @@ Based on a pre-rotation [deck list by jonnybrah](https://play.limitlesstcg.com/t
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kagemaru Himeno](/images/d790610b23946ba9.webp)
+![Illus. Kagemaru Himeno](/images/malamar-d79061.webp)
 
 *Illus. Kagemaru Himeno*
 
@@ -1199,7 +1199,7 @@ Bench and evolve Inkay, Remoraid, and Minccino early on so that they can evolve 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Ryota Murayama](/images/3ab6c891b684ceaf.webp)
+![Illus. Ryota Murayama](/images/sylveon-vmax.webp)
 
 *Illus. Ryota Murayama*
 
@@ -1241,7 +1241,7 @@ Play down the deck’s rainbow of Pokémon, powering up Sylveon VMAX in preparat
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Shin Nagasawa](/images/401da393e53dd3af.webp)
+![Illus. Shin Nagasawa](/images/dragapult.webp)
 
 *Illus. Shin Nagasawa*
 
@@ -1278,7 +1278,7 @@ Bench Dreepy in the early game, working to get each of them evolved to a Dragapu
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. aky CG Works](/images/e79a26f62efd562c.webp)
+![Illus. aky CG Works](/images/dragapult-vmax.webp)
 
 *Illus. aky CG Works*
 
@@ -1316,7 +1316,7 @@ Spread damage using Dragapult VMAX’s Max Phantom attack and use Inteleon’s Q
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/97d87c92e831d6f7.webp)
+![Illus. 5ban Graphics](/images/shadow-rider.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1398,7 +1398,7 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/b5026cafc2f8f2a9.webp)
+![Illus. 5ban Graphics](/images/coalossal-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1434,7 +1434,7 @@ Setup Coalossal V and Oranguru early, then evolve into Coalossal VMAX as soon as
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. hatachu](/images/24e4178c8458b561.webp)
+![Illus. hatachu](/images/sandaconda.webp)
 
 *Illus. hatachu*
 
@@ -1470,7 +1470,7 @@ Use Level Ball and Gossifleur’s Call for Family attack to fish out Silicobra f
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. aky CG Works](/images/09bca1642b25f539.webp)
+![Illus. aky CG Works](/images/sandaconda-vmax.webp)
 
 *Illus. aky CG Works*
 
@@ -1506,7 +1506,7 @@ Bench Sandaconda V and Sobble on your first turn, attacking using Sandaconda V�
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. You Iribi](/images/651c379da07b21b0.webp)
+![Illus. You Iribi](/images/sirfetched.webp)
 
 *Illus. You Iribi*
 
@@ -1543,7 +1543,7 @@ Set up by benching both Sobble and Galarian Farfetch’d, preparing to evolve in
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Uta](/images/4b4a5e2d56782587.webp)
+![Illus. Uta](/images/sirfetchd.webp)
 
 *Illus. Uta*
 
@@ -1580,7 +1580,7 @@ Bench and evolve Houndour and Galarian Farfetch’d into Houndoom and Galarian S
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/36ef7627e486ba1a.webp)
+![Illus. 5ban Graphics](/images/stonjourner-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1615,7 +1615,7 @@ Evolve Stonjourner V into Stonjourner VMAX, healing it with its Stone Gift attac
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/1a86177180eb44ee.webp)
+![Illus. PLANETA Tsuji](/images/rs-urshifu.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -1738,7 +1738,7 @@ Evolve Rapid Strike Urshifu V into Rapid Strike Urshifu VMAX and use the deck’
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/3b8e8c3dbae034eb.webp)
+![Illus. PLANETA Tsuji](/images/ss-urshifu.webp)
 
 *Illus. PLANETA Tsuji*
 
@@ -1782,7 +1782,7 @@ Source: [Anthony Alvarez (via Joey G)](https://twitter.com/JoeyREDSs/status/1382
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Eske Yoshinob](/images/e65c0c2105084459.webp)
+![Illus. Eske Yoshinob](/images/sableye-v.webp)
 
 *Illus. Eske Yoshinob*
 
@@ -1820,7 +1820,7 @@ Pile on damage using Galarian Zigzagoon’s Headbutt Tantrum ability and Flapple
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/f27783284b83d295.webp)
+![Illus. 5ban Graphics](/images/malamar-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1857,7 +1857,7 @@ Bench Malamar V and evolve it into Malamar VMAX when possible. Meanwhile, bench 
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/5e559d42ce3f7e1f.webp)
+![Illus. 5ban Graphics](/images/eternatus-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -1901,7 +1901,7 @@ Play down available Pokémon to fill the bench by the end of your second turn, u
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Mitsuhiro Arita](/images/07f47acf1dfcc42e.webp)
+![Illus. Mitsuhiro Arita](/images/ss-urshifu-07f47a.webp)
 
 *Illus. Mitsuhiro Arita*
 
@@ -1938,7 +1938,7 @@ Bench and evolve Houndour and Kubfu into Houndoom and Single Strike Urshifu, res
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/acc6acec847b244a.webp)
+![Illus. PLANETA Mochizuki](/images/corviknight.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -1977,7 +1977,7 @@ Bench Bronzor and Corviknight V and evolve them as early as possible. Attach ene
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Hitoshi Ariga](/images/80a9740cc1f68392.webp)
+![Illus. Hitoshi Ariga](/images/copperajah.webp)
 
 *Illus. Hitoshi Ariga*
 
@@ -2017,7 +2017,7 @@ Bench Bronzor and Cufant and evolve them as early as possible. Attach energy wit
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/cdf9423b8bd4d164.webp)
+![Illus. 5ban Graphics](/images/copperajah-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -2056,7 +2056,7 @@ Bench Bronzor and Copperajah V and evolve them as early as possible. Attach ener
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/6034aa615c05dede.webp)
+![Illus. 5ban Graphics](/images/zacian-v.webp)
 
 *Illus. 5ban Graphics*
 
@@ -2099,7 +2099,7 @@ Play down Sobble and Zacian V and attach energy to Zacian V via manual attachmen
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. aky CG Works](/images/e4e9a90e97d002ce.webp)
+![Illus. aky CG Works](/images/zamazenta-e4e9a9.webp)
 
 *Illus. aky CG Works*
 
@@ -2138,7 +2138,7 @@ Source: [Brandon Macleod](https://twitter.com/Brand0Macleod/status/1428515663581
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Saki Hayashiro](/images/9d31849da978fc4a.webp)
+![Illus. Saki Hayashiro](/images/dragonite-v.webp)
 
 *Illus. Saki Hayashiro*
 
@@ -2176,7 +2176,7 @@ Play down Dragonite V and Snorunt, and over the course of the game, play down an
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/79e2015234a4cb00.webp)
+![Illus. PLANETA Mochizuki](/images/rayquaza-vmax-79e201.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -2223,7 +2223,7 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Mochizuki](/images/e7b31bbfdcfde757.webp)
+![Illus. PLANETA Mochizuki](/images/duraludon-vmax.webp)
 
 *Illus. PLANETA Mochizuki*
 
@@ -2266,7 +2266,7 @@ Bench Bronzor and Duraludon V and evolve them as early as possible. Attach energ
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kouki Saitou](/images/bc2d8f33d828a4b9.webp)
+![Illus. Kouki Saitou](/images/regidrago.webp)
 
 *Illus. Kouki Saitou*
 
@@ -2312,7 +2312,7 @@ Bench Regidrago and Cherubi, and evolve Cherubi into Cherrim as early as possibl
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Kouki Saitou](/images/aadc8b4da8c52863.webp)
+![Illus. Kouki Saitou](/images/smeargle.webp)
 
 *Illus. Kouki Saitou*
 
@@ -2353,7 +2353,7 @@ Build up your board by playing down Gossifleur and using its Call for Family att
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. 5ban Graphics](/images/356044d121d02baa.webp)
+![Illus. 5ban Graphics](/images/togekiss-vmax.webp)
 
 *Illus. 5ban Graphics*
 
@@ -2391,7 +2391,7 @@ Bench Bronzor and Togekiss V and evolve them as early as possible. Attach energy
 </div>
 </div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. Tomokazu Komiya](/images/2f79e87735232b9b.webp)
+![Illus. Tomokazu Komiya](/images/mad-party.webp)
 
 *Illus. Tomokazu Komiya*
 

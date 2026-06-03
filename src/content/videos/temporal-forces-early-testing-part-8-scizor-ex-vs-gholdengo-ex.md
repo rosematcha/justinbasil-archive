@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 8: Scizor ex vs. Gholdengo ex"
 description: "In today's bonus video, Scizor ex prepares to cut things up as it takes on Gholdengo ex, which is geared up to make it rain!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/edf0e7a52cc22f0d.webp"
+ogImage: "/images/bonus-8-edf0e7.webp"
 publishDate: 2024-03-01
 youtubeId: "V6qbXSCeO1U"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-8-scizor-ex-vs-gholdengo-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/c2325835c23aaac7.webp)
+![](/images/bonus-8-c23258.webp)
 
 
 

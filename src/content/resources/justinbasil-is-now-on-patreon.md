@@ -1,7 +1,7 @@
 ---
 title: "JustInBasil is Now on Patreon!"
 description: "You can now  support JustInBasil on Patreon ! As of now, there are four tiers available to choose from with the following small perks:   Fresh Basilites ($5/mo.)  - Access to a Patron-exclusive Discord channel on the JustInBasil Discord server - News about upcoming updates to justinbasil.com   Basil"
-ogImage: "/images/bc90fb9af7b97802.webp"
+ogImage: "/images/patreon-bc90fb.webp"
 publishDate: 2020-12-06
 sourceUrl: "https://www.justinbasil.com/resources/justinbasil-is-now-on-patreon"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![patreon.png](/images/d57664cccdb93a98.webp)
+![patreon.png](/images/patreon.webp)
 
 </div><div class="jb-col-4"></div></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Meta Decks Updated Following Late July Tournaments"
 description: "After examining results from recent tournament that took place throughout the second half of July 2021, the site’s page on Standard Format Meta Decks has been updated with more recent deck lists for eight of the most prevalent decks in the current metagame.   Visit the updated page on Standard meta"
-ogImage: "/images/b41207c264e20779.webp"
+ogImage: "/images/shadow-rider-b41207.webp"
 publishDate: 2021-07-26
 sourceUrl: "https://www.justinbasil.com/resources/meta-decks-updated-following-late-july-tournaments"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Shadow Rider.png](/images/97d87c92e831d6f7.webp)
+![Shadow Rider.png](/images/shadow-rider.webp)
 
 
 
@@ -19,7 +19,7 @@ After examining results from recent tournament that took place throughout the se
 
 <div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-8">
 
-![26 July 2021 Standard.jpg](/images/ec6d33ba94078d28.webp)
+![26 July 2021 Standard.jpg](/images/26-july-2021-standard.webp)
 
 </div><div class="jb-col-2"></div></div>
 

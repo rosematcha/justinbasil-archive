@@ -1,7 +1,7 @@
 ---
 title: "How to Use (& Abuse) My Patreon-Exclusive Excel Deck List Editor for the Pokémon Trading Card Game"
 description: "In this video, I go over the many, many features of my Patreon-exclusive Excel Deck Builder!   Patreon supporters at the $5 and up tier get access to my Excel-based Deck Builder, plus other benefits!   Support me on Patreon here:  https://www.patreon.com/justinbasil"
-ogImage: "/images/5c24d2f5e6be856b.webp"
+ogImage: "/images/excel-deck-editor-video-5c24d2.webp"
 publishDate: 2024-06-05
 youtubeId: "SrG8Y9d16y0"
 sourceUrl: "https://www.justinbasil.com/videos/how-to-use-amp-abuse-my-patreon-exclusive-excel-deck-list-editor-for-the-pokmon-trading-card-game"
@@ -23,7 +23,7 @@ Support me on Patreon here: [https://www.patreon.com/justinbasil](https://www.pa
 
 
 
-![](/images/1ff7f3c70444326a.webp)
+![](/images/excel-deck-editor-video.webp)
 
 
 

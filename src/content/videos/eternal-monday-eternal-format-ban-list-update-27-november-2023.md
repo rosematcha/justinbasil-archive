@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Eternal Format Ban List Update (27 November 2023)"
 description: "In today's Eternal Monday video, I share the latest updates to the Eternal format's ban list.   Learn more about the Eternal format here:   justinbasil.com/eternal"
-ogImage: "/images/876cd0a41186f9e0.webp"
+ogImage: "/images/slide1-876cd0.webp"
 publishDate: 2023-11-27
 youtubeId: "kTxJbmeDBm8"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-eternal-format-ban-list-update-27-november-2023"
@@ -23,7 +23,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/13d19bca7ff0cfcc.webp)
+![](/images/slide1.webp)
 
 
 

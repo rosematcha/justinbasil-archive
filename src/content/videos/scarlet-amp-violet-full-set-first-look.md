@@ -1,7 +1,7 @@
 ---
 title: "Scarlet & Violet Full Set First Look!"
 description: "It's time to look at the cards that will make up our Scarlet & Violet base set in March! Let's look at Banette ex, Spidops ex, Maushold, and more! Check out these links to learn more!   Scarlet & Violet Coverage      Prospective Set List      Visual Set List      Set Highlights"
-ogImage: "/images/f17177cfc6fbe56e.webp"
+ogImage: "/images/svi-initial-impressions-f17177.webp"
 publishDate: 2023-01-14
 youtubeId: "LXI0bDmSZQA"
 sourceUrl: "https://www.justinbasil.com/videos/scarlet-amp-violet-full-set-first-look"
@@ -27,7 +27,7 @@ It's time to look at the cards that will make up our Scarlet & Violet base set i
 
 
 
-![](/images/694738c105108a4a.webp)
+![](/images/svi-initial-impressions.webp)
 
 
 

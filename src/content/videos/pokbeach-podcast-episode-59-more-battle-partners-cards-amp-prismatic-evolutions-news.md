@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 59: More Battle Partners Cards & Prismatic Evolutions News"
 description: "This week we discuss the reveal of several more “Battle Partners” cards, surprising news about “Prismatic Evolutions,” upcoming English TCG products that will feature unique items, and more!"
-ogImage: "/images/406c4ed88fed6879.webp"
+ogImage: "/images/arcanine-768x432-406c4e.webp"
 publishDate: 2024-12-28
 youtubeId: "byGQPlFlAlE"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-59-more-battle-partners-cards-amp-prismatic-evolutions-news"
@@ -19,7 +19,7 @@ This week we discuss the reveal of several more “Battle Partners” cards, sur
     </div>
   </div></div>
 
-![](/images/3513d58dd430ddfb.webp)
+![](/images/arcanine-768x432.webp)
 
 
 

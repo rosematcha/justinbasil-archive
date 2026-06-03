@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Pack Opening #2 (The Big One!)"
 description: "Hang out with me as I learn what I got from my three booster boxes of Surging Sparks!   Check out these links to learn more about Surging Sparks!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/5bf3c0a8321d1f5f.webp"
+ogImage: "/images/ssp-larger-open-5bf3c0.webp"
 publishDate: 2024-11-09
 youtubeId: "3EeWDNSlPUA"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-pack-opening-2-the-big-one"
@@ -29,7 +29,7 @@ Check out these links to learn more about Surging Sparks!
 
 
 
-![](/images/06d5f2a87f614eaf.webp)
+![](/images/ssp-larger-open.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "First Impressions from Crimson Haze (Twilight Masquerade)"
 description: "Now that we've seen the full reveal of Crimson Haze from Japan, let's look at about half of what we believe will become our Twilight Masquerade set in May! Check out these links to learn more!   Twilight Masquerade Coverage      Prospective Set List      Card Translations      Visual Set List      S"
-ogImage: "/images/60f2e2cb1c6405dd.webp"
+ogImage: "/images/crimson-haze-first-impressions-60f2e2.webp"
 publishDate: 2024-03-16
 youtubeId: "t9p1xKB8Btc"
 sourceUrl: "https://www.justinbasil.com/videos/first-impressions-from-crimson-haze-twilight-masquerade"
@@ -27,7 +27,7 @@ Now that we've seen the full reveal of Crimson Haze from Japan, let's look at ab
 
 
 
-![](/images/0c7881f2783d7a7a.webp)
+![](/images/crimson-haze-first-impressions.webp)
 
 
 

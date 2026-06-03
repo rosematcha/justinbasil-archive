@@ -1,7 +1,7 @@
 ---
 title: "JIBX #11 - Eternal Format"
 description: "Join us as we watch the latest Eternal format tournament (Base Set through Silver Tempest)--a sort of \"Unlimited\" format that also tries to be a playable format. This format is played via Untap.in. Learn more about the Eternal format here:"
-ogImage: "/images/fa884bfb8e89b77f.webp"
+ogImage: "/images/jibx-11-fa884b.webp"
 publishDate: 2022-12-10
 youtubeId: "WgH_-yujwI4"
 sourceUrl: "https://www.justinbasil.com/videos/jibx-11-eternal-format"
@@ -19,7 +19,7 @@ Join us as we watch the latest Eternal format tournament (Base Set through Silve
 
 
 
-![](/images/b79cd800feda803b.webp)
+![](/images/jibx-11.webp)
 
 
 

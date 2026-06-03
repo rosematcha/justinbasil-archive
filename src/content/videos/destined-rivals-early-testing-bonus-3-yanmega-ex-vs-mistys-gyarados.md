@@ -1,7 +1,7 @@
 ---
 title: "Destined Rivals Early Testing, Bonus 3: Yanmega ex vs. Misty's Gyarados"
 description: "In today's bonus video, Yanmega ex buzzes in to take on Misty's Gyarados.   Destiny Rivals Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/eb775704273bb6bc.webp"
+ogImage: "/images/dri-bonus-3-eb7757.webp"
 publishDate: 2025-04-30
 youtubeId: "ryfMS7gCKhE"
 sourceUrl: "https://www.justinbasil.com/videos/destined-rivals-early-testing-bonus-3-yanmega-ex-vs-mistys-gyarados"
@@ -26,7 +26,7 @@ In today's bonus video, Yanmega ex buzzes in to take on Misty's Gyarados.
 
 
 
-![](/images/a0f33440b23a30ad.webp)
+![](/images/dri-bonus-3.webp)
 
 
 

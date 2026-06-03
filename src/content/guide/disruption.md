@@ -1,6 +1,6 @@
 ---
 title: "Disruption"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/disruption"
 showHeading: false
 ---
@@ -59,7 +59,7 @@ Muk BRS 85 Collapsed Stadium BRS 137 Temple of Sinnoh ASR 135
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/b6c49f548074b2fc.webp)
+![](/images/sv2-en-182-b6c49f.webp)
 
 </div><div class="jb-col-4">
 
@@ -69,7 +69,7 @@ Most decks won’t run Giacomo, and those that do tend to run just 1 copy.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/647346d1bd9e051c.webp)
+![](/images/sv05-en-146-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -79,7 +79,7 @@ Not all decks will run Eri. Decks that *do* run Eri tend to run just 1 copy.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ed0a5b4c1f248e26.webp)
+![](/images/sv3-en-195.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -93,7 +93,7 @@ Decks that run Team Star Grunt tend to be less focused on aggression strategies 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/9cd8708ee25648a7.webp)
+![](/images/135-9cd870.webp)
 
 </div><div class="jb-col-4">
 
@@ -103,7 +103,7 @@ Lost Vacuum’s inclusion in decks will be very meta-dependent, with decks runni
 
 </div><div class="jb-col-2">
 
-![](/images/4037bd9b183d5480.webp)
+![](/images/sv1-en-168.webp)
 
 </div><div class="jb-col-4">
 
@@ -113,7 +113,7 @@ Decks that play Crushing Hammer tend to include 4 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/98a9f9db807a8178.webp)
+![](/images/twm-148-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -127,7 +127,7 @@ Decks that play Enhanced Hammer tend to include just 1 copy of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/a646c9432053a0bc.webp)
+![](/images/svi-096-r-en-lg.webp)
 
 </div><div class="jb-col-4">
 
@@ -137,7 +137,7 @@ Decks that run Klefki tend to include just 1-2 copies of the card.
 
 </div><div class="jb-col-2">
 
-![](/images/d9a35263e98e9a65.webp)
+![](/images/sv05-en-78-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -147,7 +147,7 @@ Decks that run Flutter Mane tend to include just 1-2 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/948b952b5d1c922f.webp)
+![](/images/twm-077-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -161,7 +161,7 @@ Decks that run Iron Thorns ex tend to include just 1-2 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/1b4abec74b8d780f.webp)
+![](/images/sv1-en-088-1b4abe.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -175,7 +175,7 @@ Decks that run Banette ex tend to be built around it. They’ll often include 2-
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/f73e9a9cf36308d7.webp)
+![](/images/fst-235-r-en-sm.webp)
 
 </div><div class="jb-col-4">
 
@@ -185,7 +185,7 @@ Because of the popularity of Marnie, Judge doesn’t see very much play. Decks t
 
 </div><div class="jb-col-2">
 
-![](/images/f83482cb053aec29.webp)
+![](/images/1150-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -197,7 +197,7 @@ Not every deck will run Roxanne, because the card is a dead card for much of the
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/767ad302230c9bdd.webp)
+![](/images/sv4-5-en-080.webp)
 
 </div><div class="jb-col-4">
 
@@ -207,7 +207,7 @@ Decks that run Iono typically include 2-3 copies.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ff5a45d1a7e0c399.webp)
+![](/images/twm-165-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -221,7 +221,7 @@ Not every deck will (or can) run Unfair Stamp, because including the card means 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/5a75be1514d75bc9.webp)
+![](/images/sv2-en-040.webp)
 
 </div><div class="jb-col-4">
 
@@ -231,7 +231,7 @@ Decks that run Chi-Yu ex tend to run just 1 copy of the card.
 
 </div><div class="jb-col-2">
 
-![](/images/483236fff92691a9.webp)
+![](/images/sv05-en-97-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -247,7 +247,7 @@ Where Great Tusk is the core strategy of the deck, decks tend to run 4 copies of
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ef174475d8ba63b3.webp)
+![](/images/185-4-ef1744.webp)
 
 </div><div class="jb-col-4">
 
@@ -259,7 +259,7 @@ Most decks won’t include any copies of Muk, but those that do will want 2-3 co
 
 </div><div class="jb-col-2">
 
-![](/images/7d965d913ac49f23.webp)
+![](/images/1137-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -271,7 +271,7 @@ Decks that include Collapsed Stadium tend to include 1-2 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6833961a4fccfe9b.webp)
+![](/images/1155-4.webp)
 
 </div><div class="jb-col-4">
 

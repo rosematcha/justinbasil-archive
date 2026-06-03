@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 6: Skeledirge ex. vs. United Wings"
 description: "Paldea Evolved testing continues! Up next, United Wings gets prepped for the roasting pan as it takes on Skeledirge ex!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes"
-ogImage: "/images/9b95908b3fa38f86.webp"
+ogImage: "/images/part-6-9b9590.webp"
 publishDate: 2023-05-19
 youtubeId: "ToskxNKckRo"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-bonus-5-tinkaton-ex-vs-chien-pao-ex-1"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/0d0b1f98d0f1b35c.webp)
+![](/images/part-6-0d0b1f.webp)
 
 
 

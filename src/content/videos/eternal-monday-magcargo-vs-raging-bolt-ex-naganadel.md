@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Magcargo vs. Raging Bolt ex / Naganadel"
 description: "On today's Eternal Monday, it's a battle of the big booms as Magcargo takes on Raging Bolt ex with Naganadel."
-ogImage: "/images/a588f23f48488751.webp"
+ogImage: "/images/01-magcargo-v-raging-bolt-ex-a588f2.webp"
 publishDate: 2025-05-12
 youtubeId: "H03c2b4UPVQ"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-magcargo-vs-raging-bolt-ex-naganadel"
@@ -19,7 +19,7 @@ On today's Eternal Monday, it's a battle of the big booms as Magcargo takes on R
 
 
 
-![](/images/82feeee97b19805f.webp)
+![](/images/01-magcargo-v-raging-bolt-ex.webp)
 
 
 

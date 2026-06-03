@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format Deck Tier List (Twilight Masquerade Edition)"
 description: "In today's Eternal Monday, my friends and I discuss the Eternal format, giving place to each of the most popular decks in the format's meta."
-ogImage: "/images/880ab1d4ba20c7c7.webp"
+ogImage: "/images/video-thumbnails-v2-880ab1.webp"
 publishDate: 2024-08-12
 youtubeId: "qkFvMDgoU74"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-deck-tier-list-twilight-masquerade-edition"
@@ -19,7 +19,7 @@ In today's Eternal Monday, my friends and I discuss the Eternal format, giving p
 
 
 
-![](/images/0639cf5c29133748.webp)
+![](/images/video-thumbnails-v2-0639cf.webp)
 
 
 

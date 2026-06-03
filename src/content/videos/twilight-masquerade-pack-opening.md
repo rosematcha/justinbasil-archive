@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Pack Opening"
 description: "Hang out with me as I learn what I got from my booster boxes of Twilight Masquerade!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/e6cec1a205421085.webp"
+ogImage: "/images/twm-pack-opening-e6cec1.webp"
 publishDate: 2024-05-25
 youtubeId: "Q-KUH_vpga0"
 sourceUrl: "https://www.justinbasil.com/videos/twilight-masquerade-pack-opening"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/d75632e475df4347.webp)
+![](/images/twm-pack-opening.webp)
 
 
 

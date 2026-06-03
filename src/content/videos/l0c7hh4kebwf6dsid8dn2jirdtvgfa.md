@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 4: Pokemon Counterfeiter Arrested and Beautiful New Illustration Rares!"
 description: "This week we discuss new cards from Ancient Roar and Future Flash, a Pokemon TCG counterfeiter arrested in Japan, new PTCG vending machines, Paradox Rift English cards, the Pokemon Center modifying or cancelling Van Gogh orders, and more!"
-ogImage: "/images/fc1703532c92316a.webp"
+ogImage: "/images/img-5754-fc1703.webp"
 publishDate: 2023-10-06
 youtubeId: "08UhIS25pIQ"
 sourceUrl: "https://www.justinbasil.com/videos/l0c7hh4kebwf6dsid8dn2jirdtvgfa"
@@ -19,7 +19,7 @@ This week we discuss new cards from Ancient Roar and Future Flash, a Pokemon TCG
 
 
 
-![](/images/0ebb8cf20c731c43.webp)
+![](/images/img-5754.webp)
 
 
 

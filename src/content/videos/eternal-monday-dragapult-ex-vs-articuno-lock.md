@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Dragapult ex vs. Articuno Lock"
 description: "In today's Eternal Monday, Dragapult ex from Twilight Masquerade sends its Dreepy on a special mission against Articuno Lock!  Learn more about the Eternal format at justinbasil.com/eternal    Helpful Links      Getting Started Video      Eternal Deck Lists"
-ogImage: "/images/a71519427a73f5a6.webp"
+ogImage: "/images/dragapult-ex-vs-articuno-lock-a71519.webp"
 publishDate: 2024-10-07
 youtubeId: "PoSJmmw0xHg"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-dragapult-ex-vs-articuno-lock"
@@ -26,7 +26,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/b2b95076c573d4aa.webp)
+![](/images/dragapult-ex-vs-articuno-lock.webp)
 
 
 

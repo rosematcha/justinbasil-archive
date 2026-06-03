@@ -1,6 +1,6 @@
 ---
 title: "Table of Contents - 2024 Rotation Survival Guide"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on"
 showHeading: false
 ---
@@ -16,7 +16,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/f-on/introduction" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/35e505bb9ed57b86.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/path-to-the-peak.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Introduction to Rotation</h1>
@@ -27,7 +27,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/f-on/noteworthy-losses-and-retentions" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/63eb65e9c2d41ca2.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/mew-vmax.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Noteworthy Losses and Retentions</h1>
@@ -39,7 +39,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/f-on/essentials" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card" style="background-image:url(/images/f9b087f080a0da4b.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/pidgeot-ex.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">The New Essentials</h1>
@@ -50,7 +50,7 @@ showHeading: false
 </div></a>
 </div></div></div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/new-decks/sv5" class="jb-onclick-link"><div class="jb-tile-button"> 
-<div class="inner jb-rotation-card" style="background-image:url(/images/dfac2e4a0dffa7ac.webp)">
+<div class="inner jb-rotation-card" style="background-image:url(/images/miraidon-ex-dfac2e.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Decks to Consider After Rotation</h1>
@@ -61,7 +61,7 @@ showHeading: false
 </div></a>
 </div></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/rotation/f-on/card-status" class="jb-onclick-link"><div class="jb-tile-button">
-<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/2acd401d63e85ce3.webp)">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/escape-rope-2acd40.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">2024 Rotation Card Status</h1>

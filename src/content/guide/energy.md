@@ -1,6 +1,6 @@
 ---
 title: "Energy and Acceleration"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/energy"
 showHeading: false
 ---
@@ -57,7 +57,7 @@ Many decks make use of some form of **Energy Acceleration**—or the use of Trai
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/72be02f96a1e7abf.webp)
+![](/images/brs-122-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -67,7 +67,7 @@ Decks that include Arceus V tend to include 3-4 copies of the card, but some dec
 
 </div><div class="jb-col-2">
 
-![](/images/9aef8576e4c05f75.webp)
+![](/images/brs-123-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -79,7 +79,7 @@ Decks that include Arceus VSTAR tend to include 2-3 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a5ee636759bf827c.webp)
+![](/images/1107-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -89,7 +89,7 @@ Decks that are looking to use Magnezone to accelerate Energy will include 2-3 co
 
 </div><div class="jb-col-2">
 
-![](/images/b9e1f5cf0e3b6a78.webp)
+![](/images/147-b9e1f5.webp)
 
 </div><div class="jb-col-4">
 
@@ -99,7 +99,7 @@ Decks that play Archeops most often play 4 copies of the card in conjunction wit
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2b17d7a70034564c.webp)
+![](/images/sv2-en-060-2b17d7.webp)
 
 </div><div class="jb-col-4">
 
@@ -109,7 +109,7 @@ Decks that include Baxcalibur tend to include 2-3 copies each of Baxcalibur and 
 
 </div><div class="jb-col-2">
 
-![](/images/9852370d45c89587.webp)
+![](/images/sv05-en-114-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -119,7 +119,7 @@ Decks that run Metang tend to run 3-4 copies, in addition to 3-4 copies of the B
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ffe1e243bb5fba78.webp)
+![](/images/twm-033-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -133,7 +133,7 @@ Decks that include Infernape tend to include 2-3 copies of Infernape and 3-4 cop
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/31d7d10c948027e4.webp)
+![](/images/1143-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -143,7 +143,7 @@ Decks tend to avoid Gardenia’s Vigor because of its weak draw effect, but deck
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6e82a8e387e72937.webp)
+![](/images/sv3-en-188.webp)
 
 </div><div class="jb-col-4">
 
@@ -153,7 +153,7 @@ Because this card cannot be played by a player going first—even if it can be f
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e32a4205fb49b319.webp)
+![](/images/sv4-en-167.webp)
 
 </div><div class="jb-col-4">
 
@@ -163,7 +163,7 @@ In order to make adequate use of Mela, a deck must be built to contain Basic Fir
 
 </div><div class="jb-col-2">
 
-![](/images/d35c2e4b5cc1801c.webp)
+![](/images/sv4-en-170.webp)
 
 </div><div class="jb-col-4">
 
@@ -177,7 +177,7 @@ Decks that make use of Professor Sada’s Vitality tend to use 4 copies of the c
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/be13e9b0d23de24f.webp)
+![](/images/brs-144-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -187,7 +187,7 @@ Decks that run Magma Basin tend to include 3-4 copies of the card.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a62c3e016cfd2b12.webp)
+![](/images/1139-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -197,7 +197,7 @@ Decks that run Dark Patch tend to include 4 copies of the card.
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/38322d5bcd563c12.webp)
+![](/images/1145-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -207,7 +207,7 @@ Decks that can make use of Gutsy Pickaxe tend to run 3-4 copies.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b8f6d1f31b9ed7c7.webp)
+![](/images/163-b8f6d1.webp)
 
 </div><div class="jb-col-4">
 
@@ -223,7 +223,7 @@ Only decks focused on interaction with the Lost Zone and the Lost Engine are lik
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/cd95d8fd41a7e33d.webp)
+![](/images/sv1-en-173.webp)
 
 </div><div class="jb-col-4">
 
@@ -235,7 +235,7 @@ Decks that run Energy Switch tend to include 3-4 copies.
 
 </div><div class="jb-col-2">
 
-![](/images/dc1d2edc1d74ca2d.webp)
+![](/images/sv1-en-174.webp)
 
 </div><div class="jb-col-4">
 
@@ -251,7 +251,7 @@ Decks don’t often run Exp. Share, but those that do tend to run 2-3 copies.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/227fe1eac3d4d1dc.webp)
+![](/images/1140-4.webp)
 
 *Other Prints: GRI 122*
 
@@ -263,7 +263,7 @@ If your deck isn’t running Special Energy—and especially if it isn’t relia
 
 </div><div class="jb-col-2">
 
-![](/images/2a3c9011f93885b7.webp)
+![](/images/sv1-en-172.webp)
 
 </div><div class="jb-col-4">
 
@@ -273,7 +273,7 @@ Decks that run Energy Search tend to run 1-2 copies. However, decks that would r
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5c8528a3cf31666f.webp)
+![](/images/sv4-en-163.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -287,7 +287,7 @@ Decks that run Earthen Vessel tend to run 2-4 copies.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/4bba0a70a02f0630.webp)
+![](/images/159-4bba0a.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 

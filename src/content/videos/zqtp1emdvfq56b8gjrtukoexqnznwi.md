@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 6: Froslass vs. Festival Grounds"
 description: "In this week’s bonus video, it’s a chilling scene as Froslass takes on Festival Grounds!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/d9d615d647127fa7.webp"
+ogImage: "/images/bonus-6-d9d615.webp"
 publishDate: 2024-05-15
 youtubeId: "XxrXB87EXhQ"
 sourceUrl: "https://www.justinbasil.com/videos/zqtp1emdvfq56b8gjrtukoexqnznwi"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/34ad8d206252305d.webp)
+![](/images/bonus-6-34ad8d.webp)
 
 
 

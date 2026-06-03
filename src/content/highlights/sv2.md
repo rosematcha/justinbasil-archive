@@ -1,14 +1,14 @@
 ---
 title: "Highlights from Paldea Evolved"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/sv2"
 showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/60d005ebb5328c31.webp)">
+    <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
   <div>
-    <img src="/images/7f8eb7c3a9397327.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Highlights from Paldea Evolved</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
@@ -71,63 +71,63 @@ The following are likely to be the most sought after cards from the set by colle
 
 **Illustration Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6f6ebacb64cd4deb.webp"><img src="/images/6f6ebacb64cd4deb.webp" alt="sv2_en_194.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f97391fae574a2d9.webp"><img src="/images/f97391fae574a2d9.webp" alt="sv2_en_195.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/894d28cdcfa285b2.webp"><img src="/images/894d28cdcfa285b2.webp" alt="sv2_en_196.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f57bf2ec78e7508e.webp"><img src="/images/f57bf2ec78e7508e.webp" alt="sv2_en_197.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c073b85d7fdafde3.webp"><img src="/images/c073b85d7fdafde3.webp" alt="sv2_en_198.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ef6e88c4066fb8e8.webp"><img src="/images/ef6e88c4066fb8e8.webp" alt="sv2_en_199.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/15a522d0a7d5bc41.webp"><img src="/images/15a522d0a7d5bc41.webp" alt="sv2_en_200.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0cc7a6a7e3ff1d47.webp"><img src="/images/0cc7a6a7e3ff1d47.webp" alt="sv2_en_201.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/75db5eb6c9754931.webp"><img src="/images/75db5eb6c9754931.webp" alt="sv2_en_202.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/49812fbe0787cae9.webp"><img src="/images/49812fbe0787cae9.webp" alt="sv2_en_203.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/793fe03d9c52836c.webp"><img src="/images/793fe03d9c52836c.webp" alt="sv2_en_204.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9b1d9cb06ea87d8e.webp"><img src="/images/9b1d9cb06ea87d8e.webp" alt="sv2_en_205.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/dc561462c7200ba2.webp"><img src="/images/dc561462c7200ba2.webp" alt="sv2_en_206.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3e06b477cce8a512.webp"><img src="/images/3e06b477cce8a512.webp" alt="sv2_en_207.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c8beecc50b8c4a5f.webp"><img src="/images/c8beecc50b8c4a5f.webp" alt="sv2_en_208.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c4356433d4c31da5.webp"><img src="/images/c4356433d4c31da5.webp" alt="sv2_en_209.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b7dc6fe29e902b14.webp"><img src="/images/b7dc6fe29e902b14.webp" alt="sv2_en_210.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4f7a56751e038078.webp"><img src="/images/4f7a56751e038078.webp" alt="sv2_en_211.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4c0accab93dfa9f0.webp"><img src="/images/4c0accab93dfa9f0.webp" alt="sv2_en_212.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3a5a0e6ef8921d81.webp"><img src="/images/3a5a0e6ef8921d81.webp" alt="sv2_en_213.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0bd8d1cc50976fa6.webp"><img src="/images/0bd8d1cc50976fa6.webp" alt="sv2_en_214.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0a8b9479bfa1bfc5.webp"><img src="/images/0a8b9479bfa1bfc5.webp" alt="sv2_en_215.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0cd0acf0fa219100.webp"><img src="/images/0cd0acf0fa219100.webp" alt="sv2_en_216.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9e251777b8bfc6fa.webp"><img src="/images/9e251777b8bfc6fa.webp" alt="sv2_en_217.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/503554d861343aba.webp"><img src="/images/503554d861343aba.webp" alt="sv2_en_218.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5755dd85c5eb01c8.webp"><img src="/images/5755dd85c5eb01c8.webp" alt="sv2_en_219.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/aa2c4138d3f36832.webp"><img src="/images/aa2c4138d3f36832.webp" alt="sv2_en_220.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/28e2dd3c1435b23a.webp"><img src="/images/28e2dd3c1435b23a.webp" alt="sv2_en_221.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/957e393c906a43a8.webp"><img src="/images/957e393c906a43a8.webp" alt="sv2_en_222.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/42c9f2b7b411a3ec.webp"><img src="/images/42c9f2b7b411a3ec.webp" alt="sv2_en_223.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/dbf536df4ef09096.webp"><img src="/images/dbf536df4ef09096.webp" alt="sv2_en_224.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0ff8c43b55813235.webp"><img src="/images/0ff8c43b55813235.webp" alt="sv2_en_225.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/084efe743e3d3982.webp"><img src="/images/084efe743e3d3982.webp" alt="sv2_en_226.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2bb92c415e53326e.webp"><img src="/images/2bb92c415e53326e.webp" alt="sv2_en_227.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/98af3a512246d5cf.webp"><img src="/images/98af3a512246d5cf.webp" alt="sv2_en_228.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1aa508c6fd3d69db.webp"><img src="/images/1aa508c6fd3d69db.webp" alt="sv2_en_229.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-194-6f6eba.webp"><img src="/images/sv2-en-194-6f6eba.webp" alt="sv2_en_194.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-195-f97391.webp"><img src="/images/sv2-en-195-f97391.webp" alt="sv2_en_195.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-196-894d28.webp"><img src="/images/sv2-en-196-894d28.webp" alt="sv2_en_196.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-197-f57bf2.webp"><img src="/images/sv2-en-197-f57bf2.webp" alt="sv2_en_197.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-198-c073b8.webp"><img src="/images/sv2-en-198-c073b8.webp" alt="sv2_en_198.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-199-ef6e88.webp"><img src="/images/sv2-en-199-ef6e88.webp" alt="sv2_en_199.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-200-15a522.webp"><img src="/images/sv2-en-200-15a522.webp" alt="sv2_en_200.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-201-0cc7a6.webp"><img src="/images/sv2-en-201-0cc7a6.webp" alt="sv2_en_201.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-202-75db5e.webp"><img src="/images/sv2-en-202-75db5e.webp" alt="sv2_en_202.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-203-49812f.webp"><img src="/images/sv2-en-203-49812f.webp" alt="sv2_en_203.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-204-793fe0.webp"><img src="/images/sv2-en-204-793fe0.webp" alt="sv2_en_204.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-205-9b1d9c.webp"><img src="/images/sv2-en-205-9b1d9c.webp" alt="sv2_en_205.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-206-dc5614.webp"><img src="/images/sv2-en-206-dc5614.webp" alt="sv2_en_206.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-207-3e06b4.webp"><img src="/images/sv2-en-207-3e06b4.webp" alt="sv2_en_207.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-208-c8beec.webp"><img src="/images/sv2-en-208-c8beec.webp" alt="sv2_en_208.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-209-c43564.webp"><img src="/images/sv2-en-209-c43564.webp" alt="sv2_en_209.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-210-b7dc6f.webp"><img src="/images/sv2-en-210-b7dc6f.webp" alt="sv2_en_210.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-211-4f7a56.webp"><img src="/images/sv2-en-211-4f7a56.webp" alt="sv2_en_211.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-212-4c0acc.webp"><img src="/images/sv2-en-212-4c0acc.webp" alt="sv2_en_212.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-213-3a5a0e.webp"><img src="/images/sv2-en-213-3a5a0e.webp" alt="sv2_en_213.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-214-0bd8d1.webp"><img src="/images/sv2-en-214-0bd8d1.webp" alt="sv2_en_214.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-215-0a8b94.webp"><img src="/images/sv2-en-215-0a8b94.webp" alt="sv2_en_215.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-216-0cd0ac.webp"><img src="/images/sv2-en-216-0cd0ac.webp" alt="sv2_en_216.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-217-9e2517.webp"><img src="/images/sv2-en-217-9e2517.webp" alt="sv2_en_217.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-218-503554.webp"><img src="/images/sv2-en-218-503554.webp" alt="sv2_en_218.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-219-5755dd.webp"><img src="/images/sv2-en-219-5755dd.webp" alt="sv2_en_219.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-220-aa2c41.webp"><img src="/images/sv2-en-220-aa2c41.webp" alt="sv2_en_220.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-221-28e2dd.webp"><img src="/images/sv2-en-221-28e2dd.webp" alt="sv2_en_221.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-222-957e39.webp"><img src="/images/sv2-en-222-957e39.webp" alt="sv2_en_222.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-223-42c9f2.webp"><img src="/images/sv2-en-223-42c9f2.webp" alt="sv2_en_223.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-224-dbf536.webp"><img src="/images/sv2-en-224-dbf536.webp" alt="sv2_en_224.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-225-0ff8c4.webp"><img src="/images/sv2-en-225-0ff8c4.webp" alt="sv2_en_225.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-226-084efe.webp"><img src="/images/sv2-en-226-084efe.webp" alt="sv2_en_226.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-227-2bb92c.webp"><img src="/images/sv2-en-227-2bb92c.webp" alt="sv2_en_227.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-228-98af3a.webp"><img src="/images/sv2-en-228-98af3a.webp" alt="sv2_en_228.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-229-1aa508.webp"><img src="/images/sv2-en-229-1aa508.webp" alt="sv2_en_229.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="sirpkmn">
 </div>
 </div>
 
 **Special Illustration Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/49ccb35d9bc9b441.webp"><img src="/images/49ccb35d9bc9b441.webp" alt="sv2_en_256.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/91769871d9e89ce6.webp"><img src="/images/91769871d9e89ce6.webp" alt="sv2_en_257.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4a709f7466342402.webp"><img src="/images/4a709f7466342402.webp" alt="sv2_en_258.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f389777e3fe6e4ce.webp"><img src="/images/f389777e3fe6e4ce.webp" alt="sv2_en_259.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d93ecb26a7b27623.webp"><img src="/images/d93ecb26a7b27623.webp" alt="sv2_en_260.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2030568adf13aa12.webp"><img src="/images/2030568adf13aa12.webp" alt="sv2_en_261.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9080097aec2cd09f.webp"><img src="/images/9080097aec2cd09f.webp" alt="sv2_en_262.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8891b7493af01dc2.webp"><img src="/images/8891b7493af01dc2.webp" alt="sv2_en_263.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1bb619f56ab3294e.webp"><img src="/images/1bb619f56ab3294e.webp" alt="sv2_en_264.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-256-49ccb3.webp"><img src="/images/sv2-en-256-49ccb3.webp" alt="sv2_en_256.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-257-917698.webp"><img src="/images/sv2-en-257-917698.webp" alt="sv2_en_257.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-258-4a709f.webp"><img src="/images/sv2-en-258-4a709f.webp" alt="sv2_en_258.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-259-f38977.webp"><img src="/images/sv2-en-259-f38977.webp" alt="sv2_en_259.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-260-d93ecb.webp"><img src="/images/sv2-en-260-d93ecb.webp" alt="sv2_en_260.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-261-203056.webp"><img src="/images/sv2-en-261-203056.webp" alt="sv2_en_261.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-262-908009.webp"><img src="/images/sv2-en-262-908009.webp" alt="sv2_en_262.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-263-8891b7.webp"><img src="/images/sv2-en-263-8891b7.webp" alt="sv2_en_263.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-264-1bb619.webp"><img src="/images/sv2-en-264-1bb619.webp" alt="sv2_en_264.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="fapkmn">
 </div>
 </div>
 
 **Full Art Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/317cffb54d278d44.webp"><img src="/images/317cffb54d278d44.webp" alt="sv2_en_230.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/61b4e8621d648131.webp"><img src="/images/61b4e8621d648131.webp" alt="sv2_en_231.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/60dc6d9bfc3e46fb.webp"><img src="/images/60dc6d9bfc3e46fb.webp" alt="sv2_en_232.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0527da1cf5161301.webp"><img src="/images/0527da1cf5161301.webp" alt="sv2_en_233.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a7999dd9bac92f43.webp"><img src="/images/a7999dd9bac92f43.webp" alt="sv2_en_234.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/01cd8237405e5aa1.webp"><img src="/images/01cd8237405e5aa1.webp" alt="sv2_en_235.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ec69b0935f1efcc0.webp"><img src="/images/ec69b0935f1efcc0.webp" alt="sv2_en_236.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/02cccb3130240b26.webp"><img src="/images/02cccb3130240b26.webp" alt="sv2_en_237.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/173bedf3a90894f7.webp"><img src="/images/173bedf3a90894f7.webp" alt="sv2_en_238.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5a8fec3461a56f75.webp"><img src="/images/5a8fec3461a56f75.webp" alt="sv2_en_239.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/115665824cc07426.webp"><img src="/images/115665824cc07426.webp" alt="sv2_en_240.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a6e5bd2087a23db0.webp"><img src="/images/a6e5bd2087a23db0.webp" alt="sv2_en_241.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f47155da0f7410e9.webp"><img src="/images/f47155da0f7410e9.webp" alt="sv2_en_242.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/932ee64bee4ddef2.webp"><img src="/images/932ee64bee4ddef2.webp" alt="sv2_en_243.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a9b61487e26e0c16.webp"><img src="/images/a9b61487e26e0c16.webp" alt="sv2_en_244.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/484ca974845b1cd9.webp"><img src="/images/484ca974845b1cd9.webp" alt="sv2_en_245.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5774d1c688bcf90c.webp"><img src="/images/5774d1c688bcf90c.webp" alt="sv2_en_246.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/563dc964a908845c.webp"><img src="/images/563dc964a908845c.webp" alt="sv2_en_247.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-230-317cff.webp"><img src="/images/sv2-en-230-317cff.webp" alt="sv2_en_230.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-231-61b4e8.webp"><img src="/images/sv2-en-231-61b4e8.webp" alt="sv2_en_231.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-232-60dc6d.webp"><img src="/images/sv2-en-232-60dc6d.webp" alt="sv2_en_232.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-233-0527da.webp"><img src="/images/sv2-en-233-0527da.webp" alt="sv2_en_233.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-234-a7999d.webp"><img src="/images/sv2-en-234-a7999d.webp" alt="sv2_en_234.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-235-01cd82.webp"><img src="/images/sv2-en-235-01cd82.webp" alt="sv2_en_235.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-236-ec69b0.webp"><img src="/images/sv2-en-236-ec69b0.webp" alt="sv2_en_236.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-237-02cccb.webp"><img src="/images/sv2-en-237-02cccb.webp" alt="sv2_en_237.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-238-173bed.webp"><img src="/images/sv2-en-238-173bed.webp" alt="sv2_en_238.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-239-5a8fec.webp"><img src="/images/sv2-en-239-5a8fec.webp" alt="sv2_en_239.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-240-115665.webp"><img src="/images/sv2-en-240-115665.webp" alt="sv2_en_240.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-241-a6e5bd.webp"><img src="/images/sv2-en-241-a6e5bd.webp" alt="sv2_en_241.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-242-f47155.webp"><img src="/images/sv2-en-242-f47155.webp" alt="sv2_en_242.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-243-932ee6.webp"><img src="/images/sv2-en-243-932ee6.webp" alt="sv2_en_243.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-244-a9b614.webp"><img src="/images/sv2-en-244-a9b614.webp" alt="sv2_en_244.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-245-484ca9.webp"><img src="/images/sv2-en-245-484ca9.webp" alt="sv2_en_245.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-246-5774d1.webp"><img src="/images/sv2-en-246-5774d1.webp" alt="sv2_en_246.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-247-563dc9.webp"><img src="/images/sv2-en-247-563dc9.webp" alt="sv2_en_247.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="srpkmn">
 </div>
 </div>
 
 **Special Rarity Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/3596c1deeb7d0a1a.webp"><img src="/images/3596c1deeb7d0a1a.webp" alt="sv2_en_271.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8cfb24fbf872948d.webp"><img src="/images/8cfb24fbf872948d.webp" alt="sv2_en_272.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/818ae32f8edc116f.webp"><img src="/images/818ae32f8edc116f.webp" alt="sv2_en_273.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/019e1369d2c8ee89.webp"><img src="/images/019e1369d2c8ee89.webp" alt="sv2_en_274.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/aa125982b5e4d456.webp"><img src="/images/aa125982b5e4d456.webp" alt="sv2_en_275.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-271-3596c1.webp"><img src="/images/sv2-en-271-3596c1.webp" alt="sv2_en_271.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-272-8cfb24.webp"><img src="/images/sv2-en-272-8cfb24.webp" alt="sv2_en_272.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-273-818ae3.webp"><img src="/images/sv2-en-273-818ae3.webp" alt="sv2_en_273.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-274-019e13.webp"><img src="/images/sv2-en-274-019e13.webp" alt="sv2_en_274.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-275-aa1259.webp"><img src="/images/sv2-en-275-aa1259.webp" alt="sv2_en_275.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="cpkmn">
 </div>
 </div>
 
 **Other Highly Collectible Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/b8591b4fb393fc48.webp"><img src="/images/b8591b4fb393fc48.webp" alt="sv2_en_012.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d0a0c626d71d7d66.webp"><img src="/images/d0a0c626d71d7d66.webp" alt="sv2_en_013.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/044da1b3aa33d121.webp"><img src="/images/044da1b3aa33d121.webp" alt="sv2_en_014.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/93eba4067893ac40.webp"><img src="/images/93eba4067893ac40.webp" alt="sv2_en_015.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5345bea74c2fd4a6.webp"><img src="/images/5345bea74c2fd4a6.webp" alt="sv2_en_027.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/431685ddba8c8be5.webp"><img src="/images/431685ddba8c8be5.webp" alt="sv2_en_034.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/eea88ddd7ed94b5d.webp"><img src="/images/eea88ddd7ed94b5d.webp" alt="sv2_en_035.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/76cbeeb4181e4bc2.webp"><img src="/images/76cbeeb4181e4bc2.webp" alt="sv2_en_036.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c7254001429120a9.webp"><img src="/images/c7254001429120a9.webp" alt="sv2_en_037.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bcb3e4fb16cc9c7a.webp"><img src="/images/bcb3e4fb16cc9c7a.webp" alt="sv2_en_040.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/354e20b1132c3d2d.webp"><img src="/images/354e20b1132c3d2d.webp" alt="sv2_en_049.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/954a06270917f5ea.webp"><img src="/images/954a06270917f5ea.webp" alt="sv2_en_050.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/daeaf508d522a32a.webp"><img src="/images/daeaf508d522a32a.webp" alt="sv2_en_051.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/65fdb2bf1c341cd6.webp"><img src="/images/65fdb2bf1c341cd6.webp" alt="sv2_en_052.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f919f118c54db764.webp"><img src="/images/f919f118c54db764.webp" alt="sv2_en_057.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fd2599d56919e70e.webp"><img src="/images/fd2599d56919e70e.webp" alt="sv2_en_058.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cc9a8b75e59f53f8.webp"><img src="/images/cc9a8b75e59f53f8.webp" alt="sv2_en_059.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2467a97bf9e07333.webp"><img src="/images/2467a97bf9e07333.webp" alt="sv2_en_060.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/521d223c9f273435.webp"><img src="/images/521d223c9f273435.webp" alt="sv2_en_061.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/238693c09d3bb8fb.webp"><img src="/images/238693c09d3bb8fb.webp" alt="sv2_en_062.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/60fae2b58d56a450.webp"><img src="/images/60fae2b58d56a450.webp" alt="sv2_en_063.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f0c28967f40f0ea0.webp"><img src="/images/f0c28967f40f0ea0.webp" alt="sv2_en_064.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f9f4daefefe9ac02.webp"><img src="/images/f9f4daefefe9ac02.webp" alt="sv2_en_117.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3d44171c8baee4f0.webp"><img src="/images/3d44171c8baee4f0.webp" alt="sv2_en_127.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-012-b8591b.webp"><img src="/images/sv2-en-012-b8591b.webp" alt="sv2_en_012.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-013-d0a0c6.webp"><img src="/images/sv2-en-013-d0a0c6.webp" alt="sv2_en_013.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-014-044da1.webp"><img src="/images/sv2-en-014-044da1.webp" alt="sv2_en_014.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-015-93eba4.webp"><img src="/images/sv2-en-015-93eba4.webp" alt="sv2_en_015.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-027-5345be.webp"><img src="/images/sv2-en-027-5345be.webp" alt="sv2_en_027.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-034-431685.webp"><img src="/images/sv2-en-034-431685.webp" alt="sv2_en_034.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-035-eea88d.webp"><img src="/images/sv2-en-035-eea88d.webp" alt="sv2_en_035.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-036-76cbee.webp"><img src="/images/sv2-en-036-76cbee.webp" alt="sv2_en_036.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-037-c72540.webp"><img src="/images/sv2-en-037-c72540.webp" alt="sv2_en_037.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-040-bcb3e4.webp"><img src="/images/sv2-en-040-bcb3e4.webp" alt="sv2_en_040.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-049-354e20.webp"><img src="/images/sv2-en-049-354e20.webp" alt="sv2_en_049.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-050-954a06.webp"><img src="/images/sv2-en-050-954a06.webp" alt="sv2_en_050.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-051-daeaf5.webp"><img src="/images/sv2-en-051-daeaf5.webp" alt="sv2_en_051.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-052-65fdb2.webp"><img src="/images/sv2-en-052-65fdb2.webp" alt="sv2_en_052.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-057-f919f1.webp"><img src="/images/sv2-en-057-f919f1.webp" alt="sv2_en_057.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-058-fd2599.webp"><img src="/images/sv2-en-058-fd2599.webp" alt="sv2_en_058.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-059-cc9a8b.webp"><img src="/images/sv2-en-059-cc9a8b.webp" alt="sv2_en_059.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-060-2467a9.webp"><img src="/images/sv2-en-060-2467a9.webp" alt="sv2_en_060.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-061-521d22.webp"><img src="/images/sv2-en-061-521d22.webp" alt="sv2_en_061.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-062-238693.webp"><img src="/images/sv2-en-062-238693.webp" alt="sv2_en_062.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-063-60fae2.webp"><img src="/images/sv2-en-063-60fae2.webp" alt="sv2_en_063.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-064-f0c289.webp"><img src="/images/sv2-en-064-f0c289.webp" alt="sv2_en_064.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-117-f9f4da.webp"><img src="/images/sv2-en-117-f9f4da.webp" alt="sv2_en_117.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-127-3d4417.webp"><img src="/images/sv2-en-127-3d4417.webp" alt="sv2_en_127.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="drpkmn">
 </div>
 </div>
 
 **Other Double Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/4eb622b32b27968f.webp"><img src="/images/4eb622b32b27968f.webp" alt="sv2_en_005.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3727ed93b9054aa5.webp"><img src="/images/3727ed93b9054aa5.webp" alt="sv2_en_079.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ca746f7eafa3f49e.webp"><img src="/images/ca746f7eafa3f49e.webp" alt="sv2_en_086.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a65bf30067e8da63.webp"><img src="/images/a65bf30067e8da63.webp" alt="sv2_en_093.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a1c854b4ec1decfc.webp"><img src="/images/a1c854b4ec1decfc.webp" alt="sv2_en_130.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a512cd98e104c0a8.webp"><img src="/images/a512cd98e104c0a8.webp" alt="sv2_en_150.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ed54dc82967e5129.webp"><img src="/images/ed54dc82967e5129.webp" alt="sv2_en_153.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/eb3404af33479a97.webp"><img src="/images/eb3404af33479a97.webp" alt="sv2_en_169.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-005-4eb622.webp"><img src="/images/sv2-en-005-4eb622.webp" alt="sv2_en_005.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-079-3727ed.webp"><img src="/images/sv2-en-079-3727ed.webp" alt="sv2_en_079.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-086-ca746f.webp"><img src="/images/sv2-en-086-ca746f.webp" alt="sv2_en_086.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-093-a65bf3.webp"><img src="/images/sv2-en-093-a65bf3.webp" alt="sv2_en_093.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-130-a1c854.webp"><img src="/images/sv2-en-130-a1c854.webp" alt="sv2_en_130.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-150-a512cd.webp"><img src="/images/sv2-en-150-a512cd.webp" alt="sv2_en_150.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-153-ed54dc.webp"><img src="/images/sv2-en-153-ed54dc.webp" alt="sv2_en_153.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-169-eb3404.webp"><img src="/images/sv2-en-169-eb3404.webp" alt="sv2_en_169.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="fasupporters">
 </div>
 </div>
 
 **Full Art Supporters**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ba5ab8f04babf804.webp"><img src="/images/ba5ab8f04babf804.webp" alt="sv2_en_248.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0677ff1bee36241a.webp"><img src="/images/0677ff1bee36241a.webp" alt="sv2_en_249.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6253fc2da15496ee.webp"><img src="/images/6253fc2da15496ee.webp" alt="sv2_en_250.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7208d4815335834d.webp"><img src="/images/7208d4815335834d.webp" alt="sv2_en_251.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0352c645366fdf80.webp"><img src="/images/0352c645366fdf80.webp" alt="sv2_en_252.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5b21001e7d197356.webp"><img src="/images/5b21001e7d197356.webp" alt="sv2_en_253.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/1ec7d7eab85a8be6.webp"><img src="/images/1ec7d7eab85a8be6.webp" alt="sv2_en_254.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9ddf3bdfa1d8522f.webp"><img src="/images/9ddf3bdfa1d8522f.webp" alt="sv2_en_255.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-248-ba5ab8.webp"><img src="/images/sv2-en-248-ba5ab8.webp" alt="sv2_en_248.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-249-0677ff.webp"><img src="/images/sv2-en-249-0677ff.webp" alt="sv2_en_249.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-250-6253fc.webp"><img src="/images/sv2-en-250-6253fc.webp" alt="sv2_en_250.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-251-7208d4.webp"><img src="/images/sv2-en-251-7208d4.webp" alt="sv2_en_251.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-252-0352c6.webp"><img src="/images/sv2-en-252-0352c6.webp" alt="sv2_en_252.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-253-5b2100.webp"><img src="/images/sv2-en-253-5b2100.webp" alt="sv2_en_253.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-254-1ec7d7.webp"><img src="/images/sv2-en-254-1ec7d7.webp" alt="sv2_en_254.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-255-9ddf3b.webp"><img src="/images/sv2-en-255-9ddf3b.webp" alt="sv2_en_255.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="sirsupporters">
 </div>
 </div>
 
 **Special Illustration Rare Supporters**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/6d56257a94db85e5.webp"><img src="/images/6d56257a94db85e5.webp" alt="sv2_en_265.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/883ab9a355eb423d.webp"><img src="/images/883ab9a355eb423d.webp" alt="sv2_en_266.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/77e0b53bc143d97b.webp"><img src="/images/77e0b53bc143d97b.webp" alt="sv2_en_267.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9c9f69d2d79b6824.webp"><img src="/images/9c9f69d2d79b6824.webp" alt="sv2_en_268.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/79bec315f9505825.webp"><img src="/images/79bec315f9505825.webp" alt="sv2_en_269.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/86bf3861f689329d.webp"><img src="/images/86bf3861f689329d.webp" alt="sv2_en_270.png" loading="lazy"></a></figure></div><div class="jb-code-container">
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-265-6d5625.webp"><img src="/images/sv2-en-265-6d5625.webp" alt="sv2_en_265.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-266-883ab9.webp"><img src="/images/sv2-en-266-883ab9.webp" alt="sv2_en_266.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-267-77e0b5.webp"><img src="/images/sv2-en-267-77e0b5.webp" alt="sv2_en_267.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-268-9c9f69.webp"><img src="/images/sv2-en-268-9c9f69.webp" alt="sv2_en_268.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-269-79bec3.webp"><img src="/images/sv2-en-269-79bec3.webp" alt="sv2_en_269.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-270-86bf38.webp"><img src="/images/sv2-en-270-86bf38.webp" alt="sv2_en_270.png" loading="lazy"></a></figure></div><div class="jb-code-container">
     <div id="srtrainers">
 </div>
 </div>
 
 **Gold Items, Stadium Cards, and Energy Cards**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/cd3c448e004f2c6d.webp"><img src="/images/cd3c448e004f2c6d.webp" alt="sv2_en_276.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7b01ad05d04fb4b6.webp"><img src="/images/7b01ad05d04fb4b6.webp" alt="sv2_en_277.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a0181f16aa50dd8b.webp"><img src="/images/a0181f16aa50dd8b.webp" alt="sv2_en_278.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/3303f2720142ae19.webp"><img src="/images/3303f2720142ae19.webp" alt="sv2_en_279.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv2-en-276-cd3c44.webp"><img src="/images/sv2-en-276-cd3c44.webp" alt="sv2_en_276.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-277-7b01ad.webp"><img src="/images/sv2-en-277-7b01ad.webp" alt="sv2_en_277.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-278-a0181f.webp"><img src="/images/sv2-en-278-a0181f.webp" alt="sv2_en_278.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv2-en-279-3303f2.webp"><img src="/images/sv2-en-279-3303f2.webp" alt="sv2_en_279.png" loading="lazy"></a></figure></div>
 
 ### For Players
 
@@ -140,7 +140,7 @@ The following are likely to be the most sought after cards from the set by colle
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/7db19fc2c8894865.webp)
+![](/images/sv2-en-033-7db19f.webp)
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-4">
 
@@ -152,7 +152,7 @@ Ability: Ardent Dancing Once during your turn, you may heal 20 damage from your 
 
 </div><div class="jb-col-2">
 
-![](/images/2b17d7a70034564c.webp)
+![](/images/sv2-en-060-2b17d7.webp)
 
 </div></div></div><div class="jb-col-4">
 
@@ -164,7 +164,7 @@ Ability: Super Cold As often as you like during your turn, you may attach a Basi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e301e78daecb19d8.webp)
+![](/images/sv2-en-068-e301e7.webp)
 
 </div><div class="jb-col-4">
 
@@ -176,7 +176,7 @@ Ability: Big Roar Once during your turn, if this Pokémon is in the Active Spot,
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dc6b1d6e25085657.webp)
+![](/images/sv2-en-089-dc6b1d.webp)
 
 </div><div class="jb-col-4">
 
@@ -188,7 +188,7 @@ Ability: Fettered in Misfortune Basic Pokémon V in play <em>(both yours and you
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/5611461010550383.webp)
+![](/images/sv2-en-105-561146.webp)
 
 </div><div class="jb-col-4">
 
@@ -200,7 +200,7 @@ Ability: Gather Materials You must discard a card from your hand in order to use
 
 </div><div class="jb-col-2">
 
-![](/images/18b93971eb4ea134.webp)
+![](/images/sv2-en-127-18b939.webp)
 
 </div><div class="jb-col-4">
 
@@ -212,7 +212,7 @@ Ability: Cursed Land As long as this Pokémon is in the Active Spot, your oppone
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/864fbede2b60df18.webp)
+![](/images/sv2-en-159-864fbe.webp)
 
 </div><div class="jb-col-4">
 
@@ -224,7 +224,7 @@ Ability: Hearsay When you play this Pokémon from your hand to evolve 1 of your 
 
 </div><div class="jb-col-2">
 
-![](/images/297f858a2a3d8d37.webp)
+![](/images/sv2-en-169-297f85.webp)
 
 </div><div class="jb-col-4">
 
@@ -243,7 +243,7 @@ Ability: Squawk and Seize Once during your first turn, you may discard your hand
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/ff7d5cb4073e2c0a.webp)
+![](/images/sv2-en-015-ff7d5c.webp)
 
 </div><div class="jb-col-4">
 
@@ -255,7 +255,7 @@ Ability: Bouquet Magic You must discard a [G] Energy card from your hand in orde
 
 </div><div class="jb-col-2">
 
-![](/images/3abe414726a55dc1.webp)
+![](/images/sv2-en-037-3abe41.webp)
 
 </div><div class="jb-col-4">
 
@@ -267,7 +267,7 @@ Ability: Bouquet Magic You must discard a [G] Energy card from your hand in orde
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/77e4c6220dd88774.webp)
+![](/images/sv2-en-061-77e4c6.webp)
 
 </div><div class="jb-col-4">
 
@@ -279,7 +279,7 @@ Ability: Shivery Chill Once during your turn, if this Pokémon is in the Active 
 
 </div><div class="jb-col-2">
 
-![](/images/f0dd64ba3e0c022b.webp)
+![](/images/sv2-en-080-f0dd64.webp)
 
 </div><div class="jb-col-4">
 
@@ -291,7 +291,7 @@ Ability: Shivery Chill Once during your turn, if this Pokémon is in the Active 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/819f5226a50f2b5a.webp)
+![](/images/sv2-en-063-819f52.webp)
 
 </div><div class="jb-col-4">
 
@@ -303,7 +303,7 @@ Ability: Shivery Chill Once during your turn, if this Pokémon is in the Active 
 
 </div><div class="jb-col-2">
 
-![](/images/593b02859250745b.webp)
+![](/images/sv2-en-093-593b02.webp)
 
 </div><div class="jb-col-4">
 
@@ -315,7 +315,7 @@ Ability: Shivery Chill Once during your turn, if this Pokémon is in the Active 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/89b122cc16ef2da0.webp)
+![](/images/sv2-en-117-89b122.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -327,7 +327,7 @@ Ability: Shivery Chill Once during your turn, if this Pokémon is in the Active 
 
 </div><div class="jb-col-2">
 
-![](/images/d6d4ce8633e5dade.webp)
+![](/images/sv2-en-131-d6d4ce.webp)
 
 </div><div class="jb-col-4">
 
@@ -342,7 +342,7 @@ Ability: Shivery Chill Once during your turn, if this Pokémon is in the Active 
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/c34c1b0c9ca33aa2.webp)
+![](/images/sv2-en-150-c34c1b.webp)
 
 </div><div class="jb-col-4">
 
@@ -354,7 +354,7 @@ Ability: Bronze Body This Pokémon takes 30 less damage from attacks <em>(after 
 
 </div><div class="jb-col-2">
 
-![](/images/11b144c3e7151694.webp)
+![](/images/sv2-en-170-11b144.webp)
 
 </div><div class="jb-col-4">
 
@@ -370,7 +370,7 @@ Ability: Insta-Flock When you play this Pokémon from your hand onto your Bench 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/b3f9a76eaadfe5da.webp)
+![](/images/sv2-en-172-b3f9a7.webp)
 
 </div><div class="jb-col-4">
 
@@ -382,7 +382,7 @@ Switch in 1 of your opponent's Benched Pokémon to the Active Spot.
 
 </div><div class="jb-col-2">
 
-![](/images/b6c49f548074b2fc.webp)
+![](/images/sv2-en-182-b6c49f.webp)
 
 </div><div class="jb-col-4">
 
@@ -392,7 +392,7 @@ Discard a Special Energy from each of your opponent’s Pokémon.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3fecc709adefadec.webp)
+![](/images/sv2-en-184-3fecc7.webp)
 
 </div><div class="jb-col-4">
 
@@ -402,7 +402,7 @@ Draw cards until you have 5 cards in your hand. If none of your Pokémon have an
 
 </div><div class="jb-col-2">
 
-![](/images/2355642206ec992e.webp)
+![](/images/sv2-en-185-235564.webp)
 
 </div><div class="jb-col-4">
 
@@ -419,7 +419,7 @@ Each player shuffles their hand and puts it on the bottom of their deck. If eith
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/637e732e68a2db94.webp)
+![](/images/sv2-en-181-637e73.webp)
 
 </div><div class="jb-col-4">
 
@@ -431,7 +431,7 @@ Heal 60 damage from 1 of your Pokémon.
 
 </div><div class="jb-col-2">
 
-![](/images/93e530deefbfd4b6.webp)
+![](/images/sv2-en-183-93e530.webp)
 
 </div><div class="jb-col-4">
 
@@ -443,7 +443,7 @@ Look at the top 7 cards of your deck. You may reveal a Pokémon you find there a
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f14255f1a972838.webp)
+![](/images/sv2-en-188-3f1425.webp)
 
 </div><div class="jb-col-4">
 
@@ -455,7 +455,7 @@ Shuffle up to 3 in any combination of Pokémon and basic Energy cards from your 
 
 </div><div class="jb-col-2">
 
-![](/images/e4d1c1a0a8d56844.webp)
+![](/images/sv2-en-189-e4d1c1.webp)
 
 </div><div class="jb-col-4">
 
@@ -476,7 +476,7 @@ Put up to 4 Basic Energy cards from your discard pile into your hand. You can't 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/68e285af7089b95a.webp)
+![](/images/sv2-en-173-68e285.webp)
 
 </div><div class="jb-col-4">
 
@@ -493,7 +493,7 @@ The Basic Pokemon this card is attached to gets +50 HP.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/02469d4edde0e4bb.webp)
+![](/images/sv2-en-171-02469d.webp)
 
 </div><div class="jb-col-4">
 
@@ -503,7 +503,7 @@ Once during each player's turn, that player may search their deck for a Basic Po
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b690a86b7a5c7d4c.webp)
+![](/images/sv2-en-190-b690a8.webp)
 
 </div><div class="jb-col-4">
 
@@ -515,7 +515,7 @@ When you attach this card from your hand to 1 of your Benched Pokémon, switch t
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0623e5add77f4a5f.webp)
+![](/images/sv2-en-191-0623e5.webp)
 
 </div><div class="jb-col-4">
 
@@ -527,7 +527,7 @@ If the Pokémon this card is attached to has any other Special Energy attached, 
 
 </div><div class="jb-col-2">
 
-![](/images/ae0c5c3df4a7c587.webp)
+![](/images/sv2-en-192-ae0c5c.webp)
 
 </div><div class="jb-col-4">
 

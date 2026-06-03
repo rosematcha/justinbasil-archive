@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Bonus 4: Raging Bolt ex vs. Torterrra ex"
 description: "In today's XL-sized bonus video, Torterra ex gets shoved through a woodchipper by Raging Bolt ex!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/eeb82f634724d603.webp"
+ogImage: "/images/bonus-4-eeb82f.webp"
 publishDate: 2024-01-31
 youtubeId: "DG9EAoX22Wo"
 sourceUrl: "https://www.justinbasil.com/videos/ziicq6tnwhuwyvjhm1qkm6bt0obohr"
@@ -27,7 +27,7 @@ In today's XL-sized bonus video, Torterra ex gets shoved through a woodchipper b
 
 
 
-![](/images/41b60a4eab892ca0.webp)
+![](/images/bonus-4-41b60a.webp)
 
 
 

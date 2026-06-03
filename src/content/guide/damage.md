@@ -1,6 +1,6 @@
 ---
 title: "Damage Control"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/damage"
 showHeading: false
 ---
@@ -71,7 +71,7 @@ Manaphy BRS 41 Diancie ASR 68 Miltank ASR 126 Mimikyu PAL 97
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/c08fdc158bdcf6af.webp)
+![](/images/181-6-c08fdc.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -81,7 +81,7 @@ Most decks will opt for Radiant Greninja over Radiant Hawlucha. As Radiant Hawlu
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e0ef1e0bc466895f.webp)
+![](/images/022-e0ef1e.webp)
 
 </div><div class="jb-col-4">
 
@@ -91,7 +91,7 @@ Decks will not often include Rapidash, but decks would want to are likely to inc
 
 </div></div></div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d16fdacc1481a82e.webp)
+![](/images/sv1-en-118.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -101,7 +101,7 @@ Many decks don’t run Hawlucha, but those that do tend to run just 1-2 copies o
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/95ecd7f7c726c582.webp)
+![](/images/sv4-en-137.webp)
 
 </div><div class="jb-col-4">
 
@@ -115,7 +115,7 @@ Decks will not often include Skeledirge ex, but decks would want to are likely t
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/b4894080fcf7a867.webp)
+![](/images/1144-4.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -125,7 +125,7 @@ Because Grant is type-specific in its damage boosting effect, most decks won’t
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/8e2864ed2f5ce0cf.webp)
+![](/images/twm-154-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -139,7 +139,7 @@ Not all decks will include Kieran, but those that do will likely include just 1 
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/261c4e92d85d5308.webp)
+![](/images/1152-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -149,7 +149,7 @@ Most decks would prefer to run Choice Belt over Supereffective Glasses, but thos
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b96f4a9486aacea5.webp)
+![](/images/154-b96f4a.webp)
 
 </div><div class="jb-col-4">
 
@@ -159,7 +159,7 @@ Decks don’t often include Earthen Seal Stone, but decks that do tend to includ
 
 </div></div></div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6f6de3c48dd2cb8a.webp)
+![](/images/sv1-en-169.webp)
 
 </div><div class="jb-col-4">
 
@@ -169,7 +169,7 @@ Most decks won’t run Defiance Band because it’s so situationally useful, but
 
 </div><div class="jb-col-2">
 
-![](/images/92bfe33a17c11880.webp)
+![](/images/sv1-en-197.webp)
 
 </div><div class="jb-col-4">
 
@@ -179,7 +179,7 @@ Most decks don’t include any copies of Vitality Band.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/dba9a0493ddf394c.webp)
+![](/images/sv2-en-176.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -189,7 +189,7 @@ Most decks will run Choice Belt—and those that do tend to include 1-2 copies o
 
 </div><div class="jb-col-2">
 
-![](/images/098667eeadbc9f2c.webp)
+![](/images/sv05-en-154-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -203,7 +203,7 @@ Because it is an ACE SPEC card, Maximum Belt’s inclusion has to be weighed aga
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/edd6f172b3253da1.webp)
+![](/images/1142-4.webp)
 
 </div><div class="jb-col-4">
 
@@ -217,7 +217,7 @@ Decks that include Gapejaw Bog tend to include 2-3 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/a1c854b4ec1decfc.webp)
+![](/images/sv2-en-130-a1c854.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -227,7 +227,7 @@ Decks don’t often include this card, but those that do would likely include 2-
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/92032b29df35c9e3.webp)
+![](/images/sv4-en-123.webp)
 
 </div><div class="jb-col-4">
 
@@ -241,7 +241,7 @@ Decks don’t often include this card, but those that do would likely include 1-
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/6f99d185942201cd.webp)
+![](/images/110-25.webp)
 
 </div><div class="jb-col-4">
 
@@ -251,7 +251,7 @@ Not every deck that can run Kricketune will run it, but decks that do will likel
 
 </div><div class="jb-col-2">
 
-![](/images/68e285af7089b95a.webp)
+![](/images/sv2-en-173-68e285.webp)
 
 </div><div class="jb-col-4">
 
@@ -261,7 +261,7 @@ Decks that run it tend to include 2-3 copies of the card.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e0e5fd7b6c1a9a03.webp)
+![](/images/sv4-en-166.webp)
 
 </div><div class="jb-col-4">
 
@@ -271,7 +271,7 @@ Decks that run it tend to include 1 copy of the card.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/2d5fc0689a57f9fc.webp)
+![](/images/sv05-en-152-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -289,7 +289,7 @@ Because it is an ACE SPEC card, Heros’ Cape’s inclusion has to be weighed ag
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/695ca995b9782d32.webp)
+![](/images/069.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -303,7 +303,7 @@ Most decks will opt for Radiant Greninja over Radiant Gardevoir. As Radiant Gard
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/0818481012543587.webp)
+![](/images/157-081848.webp)
 
 </div><div class="jb-col-4">
 
@@ -313,7 +313,7 @@ Only decks focused on interaction with the Lost Zone and the Lost Engine are lik
 
 </div><div class="jb-col-2">
 
-![](/images/4716a4d1ec6d7104.webp)
+![](/images/169.webp)
 
 </div><div class="jb-col-4">
 
@@ -327,7 +327,7 @@ Decks that include V Guard Energy tend to run 1-3 copies of the card.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/472b94dc205e58b7.webp)
+![](/images/156-472b94.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -343,7 +343,7 @@ The vast majority of decks will have no use for Damage Pump, but those that need
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/b3caa362382e12a6.webp)
+![](/images/141-6-b3caa3.webp)
 
 </div><div class="jb-col-4">
 
@@ -353,7 +353,7 @@ Decks that include Manaphy tend to include just 1 copy but may push it to 2 copi
 
 </div><div class="jb-col-2">
 
-![](/images/ec0fbefcc4e2df3a.webp)
+![](/images/168-6.webp)
 
 </div><div class="jb-col-4">
 
@@ -365,7 +365,7 @@ Many decks would never so much as consider Diancie. However, decks that run it t
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9d695efad25f8b58.webp)
+![](/images/1126-3.webp)
 
 </div><div class="jb-col-4">
 
@@ -375,7 +375,7 @@ Most decks won’t run Miltank, but those that do tend to include 2 copies of th
 
 </div><div class="jb-col-2">
 
-![](/images/61243c2c39bde716.webp)
+![](/images/sv2-en-097.webp)
 
 </div><div class="jb-col-4">
 

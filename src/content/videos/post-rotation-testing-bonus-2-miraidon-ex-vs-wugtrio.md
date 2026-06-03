@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Bonus #2: Miraidon ex vs. Wugtrio"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this prerecorded video, it's Wuggin' time! Wugtrio faces off against Miraidon ex in a pair of goofy, fun, coin-flippy games!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Viol"
-ogImage: "/images/a398c4b9df151ff4.webp"
+ogImage: "/images/bonus-part-2-miraidon-ex-vs-wugtrio-a398c4.webp"
 publishDate: 2023-02-08
 youtubeId: "s5d0IUkAeH0"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-bonus-2-miraidon-ex-vs-wugtrio"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/51ddbb32503fa713.webp)
+![](/images/bonus-part-2-miraidon-ex-vs-wugtrio.webp)
 
 
 

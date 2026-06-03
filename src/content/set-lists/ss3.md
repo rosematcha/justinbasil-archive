@@ -1,13 +1,13 @@
 ---
 title: "Darkness Ablaze Prospective Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss3"
 showHeading: false
 ---
 
 
 
-![](/images/56e2a6d0be195fe0.webp)
+![](/images/image-asset-56e2a6.webp)
 
 
 
@@ -19,23 +19,23 @@ showHeading: false
 
 
 
-![DAB.png](/images/cdff4891a67beceb.webp)
+![DAB.png](/images/dab.webp)
 
 <div class="jb-row"><div class="jb-col-3">
 
-![Centiskorch VMAX.png](/images/95972151b3fb6f77.webp)
+![Centiskorch VMAX.png](/images/centiskorch-vmax.webp)
 
 </div><div class="jb-col-3">
 
-![Charizard VMAX.png](/images/f6e7d18c5d5d46a5.webp)
+![Charizard VMAX.png](/images/charizard-vmax.webp)
 
 </div><div class="jb-col-3">
 
-![Eternatus VMAX.png](/images/5e559d42ce3f7e1f.webp)
+![Eternatus VMAX.png](/images/eternatus-vmax.webp)
 
 </div><div class="jb-col-3">
 
-![Grimmsnarl VMAX.png](/images/d6057e8a609e54af.webp)
+![Grimmsnarl VMAX.png](/images/grimmsnarl-vmax.webp)
 
 </div></div>
 

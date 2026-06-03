@@ -1,7 +1,7 @@
 ---
 title: "Black Flame Ruler First Impressions (Obsidian Flames)"
 description: "In this video, we take a look at the freshly-revealed cards from Black Flame Ruler, the latest set in Japan that forms the rest of our Obsidian Flames set in August!   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetyp"
-ogImage: "/images/83e55c8687ff585e.webp"
+ogImage: "/images/black-flame-ruler-1st-impressions-83e55c.webp"
 publishDate: 2023-07-21
 youtubeId: "CWltaGshAXY"
 sourceUrl: "https://www.justinbasil.com/videos/black-flame-ruler-first-impressions-obsidian-flames"
@@ -28,7 +28,7 @@ In this video, we take a look at the freshly-revealed cards from Black Flame Rul
 
 
 
-![](/images/b3bfffe0629e8410.webp)
+![](/images/black-flame-ruler-1st-impressions.webp)
 
 
 

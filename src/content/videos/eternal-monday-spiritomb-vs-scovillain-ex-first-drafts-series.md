@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Spiritomb vs. Scovillain ex (First Drafts Series)"
 description: "In today's Eternal Monday, we take the first drafts of two of our decks and pit them against one another. Today, a pair of spicy chiles takes on 108 spirits trapped in an odd keystone!"
-ogImage: "/images/b0abaf282ffacaec.webp"
+ogImage: "/images/first-drafts-16-spiritomb-v-scovillain-b0abaf.webp"
 publishDate: 2025-03-24
 youtubeId: "FOaUIGz0a5M"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-spiritomb-vs-scovillain-ex-first-drafts-series"
@@ -19,7 +19,7 @@ In today's Eternal Monday, we take the first drafts of two of our decks and pit 
 
 
 
-![](/images/39642cfa70e9d860.webp)
+![](/images/first-drafts-16-spiritomb-v-scovillain.webp)
 
 
 

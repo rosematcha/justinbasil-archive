@@ -1,7 +1,7 @@
 ---
 title: "Temporal Forces Early Testing, Part 4: Gouging Fire ex vs. Raging Bolt ex"
 description: "Our testing of Temporal Forces continues! We now look to the post-rotation Temporal Forces Standard format for the Pokémon Trading Card Game. Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/81935910bf85049f.webp"
+ogImage: "/images/part-4-819359.webp"
 publishDate: 2024-01-26
 youtubeId: "RnGWpY4qq34"
 sourceUrl: "https://www.justinbasil.com/videos/temporal-forces-early-testing-part-4-gouging-fire-ex-vs-raging-bolt-ex"
@@ -27,7 +27,7 @@ Our testing of Temporal Forces continues! We now look to the post-rotation Tempo
 
 
 
-![](/images/365ddd4fdb6cab34.webp)
+![](/images/part-4-365ddd.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Obsidian Flames Set List"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv3"
 showHeading: false
 ---
@@ -8,7 +8,7 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/fb68be8144a88b94.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" loading="lazy" class="jb-deck-thumb">
     <h1 class="jb-cta-title">Set List</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.

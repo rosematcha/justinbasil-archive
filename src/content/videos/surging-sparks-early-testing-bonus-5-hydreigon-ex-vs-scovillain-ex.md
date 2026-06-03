@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Bonus 5: Hydreigon ex vs. Scovillain ex"
 description: "Now that we've seen the full reveal of Paradise Dragona from Japan, it's time to start looking ahead to the new decks releasing coming Surging Sparks!   Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected"
-ogImage: "/images/9372250e912e7fd5.webp"
+ogImage: "/images/bonus-5-937225.webp"
 publishDate: 2024-10-23
 youtubeId: "8QtcLJcdMgc"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-bonus-5-hydreigon-ex-vs-scovillain-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/133a8620790e99f7.webp)
+![](/images/bonus-5-133a86.webp)
 
 
 

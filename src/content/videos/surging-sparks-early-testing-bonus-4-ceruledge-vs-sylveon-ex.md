@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Bonus 4: Ceruledge vs. Sylveon ex"
 description: "On this week's bonus video, Ceruledge ex prepares its Abyssal Flame to burn the Pokémon Center down and Sylveon ex steps in to try to stop it!  Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies"
-ogImage: "/images/3684b92028cf86cc.webp"
+ogImage: "/images/bonus-4-3684b9.webp"
 publishDate: 2024-10-16
 youtubeId: "GBzon0WpIPs"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-bonus-4-ceruledge-vs-sylveon-ex"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/2cd7f49ff242133b.webp)
+![](/images/bonus-4-2cd7f4.webp)
 
 
 

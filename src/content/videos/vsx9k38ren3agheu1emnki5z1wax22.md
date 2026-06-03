@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 5: Dragapult ex vs. Palafin ex"
 description: "In this week’s bonus video, it’s a creepy Dreepy free-for-all as Dragapult ex locks its sights on Palafin' ex!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/40f701924da71dab.webp"
+ogImage: "/images/bonus-5-40f701.webp"
 publishDate: 2024-05-01
 youtubeId: "25QQ3QuJIWg"
 sourceUrl: "https://www.justinbasil.com/videos/vsx9k38ren3agheu1emnki5z1wax22"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/b7a3b02375a6422e.webp)
+![](/images/bonus-5.webp)
 
 
 

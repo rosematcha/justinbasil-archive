@@ -1,6 +1,6 @@
 ---
 title: "Buying Cards for Your Deck"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/buying-cards"
 showHeading: false
 ---
@@ -96,7 +96,7 @@ A community for trading Pokémon cards also exists on reddit in the form of the 
 
 
 
-![](/images/8cb1556610a74d10.webp)
+![](/images/2024-trainer-s-toolkit.webp)
 
 *The Trainer’s Toolkit provides an excellent assortment of useful cards for new deck builders.*
 
@@ -317,19 +317,19 @@ Although it’s not monetarily efficient and is far from the best or easiest way
 
 <div class="jb-row"><div class="jb-col-3">
 
-[![gamenerdz.png](/images/1dac65b513d518b3.webp)](https://www.gamenerdz.com/)
+[![gamenerdz.png](/images/gamenerdz.webp)](https://www.gamenerdz.com/)
 
 </div><div class="jb-col-3">
 
-[![](/images/2254d961a1383c10.webp)](https://forgeandfiregaming.com/pokemon/)
+[![](/images/forge-fire.webp)](https://forgeandfiregaming.com/pokemon/)
 
 </div><div class="jb-col-3">
 
-[![](/images/18224dfa35c406b7.webp)](https://www.flipsidegaming.com)
+[![](/images/flipsidelogo.webp)](https://www.flipsidegaming.com)
 
 </div><div class="jb-col-3">
 
-[![FullGripGames-Logo-Blacksz.png](/images/23fb0b36b1cc4839.webp)](https://www.fullgripgames.com/)
+[![FullGripGames-Logo-Blacksz.png](/images/fullgripgames-logo-blacksz.webp)](https://www.fullgripgames.com/)
 
 </div></div>
 

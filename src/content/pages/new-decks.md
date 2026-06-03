@@ -1,6 +1,6 @@
 ---
 title: "New Decks"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks"
 showHeading: false
 ---
@@ -18,7 +18,7 @@ showHeading: false
 <div class="outer jb-flex-center-full">
       <div class="inner nest jb-grid-card jb-grid-card-flex" style="width:calc(50% - 10px);background-color:#50afd6">
 <div class="inner jb-center-vmid">
-        <img class="img jb-thumb-150-200" src="/images/6bef79f5501329e8.webp" loading="lazy"></div>
+        <img class="img jb-thumb-150-200" src="/images/800px-swsh6-logo-en.webp" loading="lazy"></div>
     <div class="inner jb-info-card" style="background-color:#eee5e9">
         <h1 class="jb-center-mb0">Chilling Reign</h1>
         <p class="jb-center-mt20-mb25">Click a page below to learn more about our June set.</p>
@@ -38,7 +38,7 @@ showHeading: false
      Review deck lists for archetypes new to Battle Styles prepared before the set's release.
     </p>
         <div class="jb-center">
-          <img src="/images/7e5a928a526bce37.webp" loading="lazy" class="jb-mh200"></div></a>
+          <img src="/images/rs-urshifu-7e5a92.webp" loading="lazy" class="jb-mh200"></div></a>
     </div>
     <div class="inner jb-grid-card" style="width:calc(34% - 10px);background-color:#b1e88f">
       <a href="/new-decks/viv"><h1 class="jb-center-mb0">Vivid Voltage</h1>
@@ -46,7 +46,7 @@ showHeading: false
      Review deck lists for archetypes new to Vivid Voltage prepared before the set's release. 
     </p>
         <div class="jb-center">
-          <img src="/images/dff80c3159015bdc.webp" loading="lazy" class="jb-mh200"></div></a>
+          <img src="/images/orbeetle-vmax-dff80c.webp" loading="lazy" class="jb-mh200"></div></a>
     </div>
       <div class="inner jb-grid-card" style="width:calc(33% - 10px);background-color:#dee78f">
       <a href="/rotation/teu-on/archetypes-to-consider"><h1 class="jb-center-mb0">Darkness Ablaze</h1>
@@ -54,7 +54,7 @@ showHeading: false
     Review deck lists for archetypes new to Darkness Ablaze prepared before the 2020-2021 rotation and the set's release.
     </p>
 <div class="jb-center">
-        <img src="/images/1f87b8c3e1381965.webp" loading="lazy" class="jb-mh200"></div></a>
+        <img src="/images/eternatus-vmax-1f87b8.webp" loading="lazy" class="jb-mh200"></div></a>
       </div> 
 </div>
 </div><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">

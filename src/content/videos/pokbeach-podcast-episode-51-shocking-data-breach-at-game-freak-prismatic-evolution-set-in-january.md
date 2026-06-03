@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 51: Shocking Data Breach at Game Freak, \"Prismatic Evolution\" Set in January!"
 description: "This week we discuss the upcoming \"Prismatic Evolution\" set, a shocking data breach at Game Freak, the full main set reveal of \"Supercharged Breaker,\" a new NBA Pokémon card collab, new products, and more!"
-ogImage: "/images/85669817db3b9370.webp"
+ogImage: "/images/dugtrio-768x432-856698.webp"
 publishDate: 2024-10-13
 youtubeId: "usghMzpoCZ0"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-51-shocking-data-breach-at-game-freak-prismatic-evolution-set-in-january"
@@ -19,7 +19,7 @@ This week we discuss the upcoming "Prismatic Evolution" set, a shocking data bre
 
 
 
-![](/images/9f3a1693d11e489a.webp)
+![](/images/dugtrio-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing, Bonus #6: Vespiquen ex vs. Houndstone ex"
 description: "In this week's bonus video, Vespiquen ex takes on Houndstone ex! Will the bee queen have its crown stolen by a graveyard pooch?   Obsidian Flames Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/b80e888bef6307cd.webp"
+ogImage: "/images/obf-bonus-6-b80e88.webp"
 publishDate: 2023-08-09
 youtubeId: "a7s05eWV86M"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-bonus-6-vespiquen-ex-vs-houndstone-ex"
@@ -28,7 +28,7 @@ In this week's bonus video, Vespiquen ex takes on Houndstone ex! Will the bee qu
 
 
 
-![](/images/96b75cdc028fabd1.webp)
+![](/images/obf-bonus-6.webp)
 
 
 

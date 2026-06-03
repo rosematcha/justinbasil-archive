@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 65: Team Rocket Cards Revealed, What's Happening with Product Shortages?"
 description: "This week we discuss the reveal of \"The Glory of Team Rocket,\" new print runs for Japan, the deal with English product shortages, new anti-scalping techniques for English product, new MEGA sets, and more!"
-ogImage: "/images/ef458f837abe770c.webp"
+ogImage: "/images/alakazam-768x432-ef458f.webp"
 publishDate: 2025-03-24
 youtubeId: "W_UG8qcxLHM"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-65-team-rocket-cards-revealed-whats-happening-with-product-shortages"
@@ -19,7 +19,7 @@ This week we discuss the reveal of "The Glory of Team Rocket," new print runs fo
 
 
 
-![](/images/144ab29e9975c02d.webp)
+![](/images/alakazam-768x432.webp)
 
 
 

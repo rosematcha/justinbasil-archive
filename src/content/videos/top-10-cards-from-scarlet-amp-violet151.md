@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Cards from Scarlet & Violet—151!"
 description: "What's this? A Pokémon TCG \"mini\" set that has more playable cards in it than the most recent main set?   151 Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetypes      Selected Proxies"
-ogImage: "/images/5c5201f341223cc8.webp"
+ogImage: "/images/top-10-from-151-5c5201.webp"
 publishDate: 2023-09-21
 youtubeId: "qVdHdapF1vA"
 sourceUrl: "https://www.justinbasil.com/videos/top-10-cards-from-scarlet-amp-violet151"
@@ -28,7 +28,7 @@ What's this? A Pokémon TCG "mini" set that has more playable cards in it than t
 
 
 
-![](/images/247f0d6ec96dc498.webp)
+![](/images/top-10-from-151.webp)
 
 
 

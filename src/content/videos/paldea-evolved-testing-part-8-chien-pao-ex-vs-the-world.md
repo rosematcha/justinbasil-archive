@@ -1,7 +1,7 @@
 ---
 title: "Paldea Evolved Testing Part 8: Chien-Pao ex vs. The World"
 description: "Paldea Evolved testing continues! Up next, Chien-Pao ex takes on some old blood--going toe-to-toe with Lost Box and Gardevoir!  Check out these links to learn more!    Paldea Evolved Coverage      Prospective Set List      Card Translations      Visual Set List      Set Highlights      New Archetype"
-ogImage: "/images/d1dd255b2d0cca9a.webp"
+ogImage: "/images/part-8-d1dd25.webp"
 publishDate: 2023-06-02
 youtubeId: "xPkARIvDWEI"
 sourceUrl: "https://www.justinbasil.com/videos/paldea-evolved-testing-part-8-chien-pao-ex-vs-the-world"
@@ -30,7 +30,7 @@ Check out these links to learn more!
 
 
 
-![](/images/bfb9c48daf48fd75.webp)
+![](/images/part-8.webp)
 
 
 

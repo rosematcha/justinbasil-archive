@@ -1,6 +1,6 @@
 ---
 title: "Gusting and Repulsion"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/gusting"
 showHeading: false
 ---
@@ -55,7 +55,7 @@ The gusting effect takes its name from the original gusting card in the Pokémon
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/55ea5d87cc87eaa0.webp)
+![](/images/164-55ea5d.webp)
 
 *☆ COMMON INCLUSION*
 
@@ -67,7 +67,7 @@ Decks that often find themselves gusting Pokémon that aren’t Pokémon V won�
 
 </div><div class="jb-col-2">
 
-![](/images/fb517e872f44fb1f.webp)
+![](/images/pal-172-r-en-lg.webp)
 
 *☆ COMMON INCLUSION*
 
@@ -87,7 +87,7 @@ Nearly every deck runs 1-4 copies of Boss’s Orders.
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/dcd8cd1963582c19.webp)
+![](/images/svi-187-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -97,7 +97,7 @@ Pokémon Catcher should basically only be considered as a budget alternative to 
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/039cef25505b041f.webp)
+![](/images/sv05-en-157-2x.webp)
 
 </div><div class="jb-col-4">
 
@@ -115,7 +115,7 @@ Decks that run Prime Catcher can only include a single copy of the card, because
 
 <div class="jb-row"><div class="jb-col-2">
 
-![](/images/3e37ebfaa7c3eacf.webp)
+![](/images/ssp-195-r-en-lg.webp)
 
 </div><div class="jb-col-4">
 
@@ -125,7 +125,7 @@ Decks that can make use of Leafeon VSTAR’s *Ivy Star* as a gusting option can 
 
 </div><div class="jb-col-2">
 
-![](/images/40c88df98118aa0a.webp)
+![](/images/071-40c88d.webp)
 
 </div><div class="jb-col-4">
 
@@ -154,7 +154,7 @@ Repulsion, like gusting, can be a helpful addition to your deck. In some cases, 
 
 <div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0da4ab6e38bc9605.webp)
+![](/images/1126-2-0da4ab.webp)
 
 </div><div class="jb-col-4">
 
@@ -164,7 +164,7 @@ Decks don’t often include Tornadus, but a deck that would include Tornadus wou
 
 </div></div></div><div class="jb-col-2">
 
-![](/images/a0f3e272ef42e2a2.webp)
+![](/images/sv4-en-056.webp)
 
 </div><div class="jb-col-4">
 

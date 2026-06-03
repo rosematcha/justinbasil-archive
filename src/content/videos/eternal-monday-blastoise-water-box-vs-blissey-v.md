@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Blastoise Water Box vs. Blissey V"
 description: "In this week's Eternal Monday, it's a happy egg versus a rain dancing turtle as Blastoise Water Box takes on Blissey V!  Learn more about the Eternal format at justinbasil.com/eternal"
-ogImage: "/images/3cd00a970615ab44.webp"
+ogImage: "/images/blissey-blastoise-3cd00a.webp"
 publishDate: 2025-03-03
 youtubeId: "lai7UvuulBo"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-blastoise-water-box-vs-blissey-v"
@@ -21,7 +21,7 @@ Learn more about the Eternal format at justinbasil.com/eternal
 
 
 
-![](/images/ada52ac4fcf4a05d.webp)
+![](/images/blissey-blastoise.webp)
 
 
 

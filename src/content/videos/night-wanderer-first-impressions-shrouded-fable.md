@@ -1,7 +1,7 @@
 ---
 title: "Night Wanderer First Impressions (Shrouded Fable)"
 description: "Now that we've seen the full reveal of Night Wanderer from Japan, let's look at what's coming in August!  Check out these links to learn more!   Shrouded Fable Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/96ef56e769f74e51.webp"
+ogImage: "/images/night-wanderer-first-impressions-96ef56.webp"
 publishDate: 2024-06-02
 youtubeId: "McD2Vk2yt5g"
 sourceUrl: "https://www.justinbasil.com/videos/night-wanderer-first-impressions-shrouded-fable"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/96fa083a0c0ce8a7.webp)
+![](/images/night-wanderer-first-impressions.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing, Bonus #3: Tyranitar ex vs. Houndstone ex"
 description: "We continue to take a look at new decks from Obsidian Flames! In this week's bonus video, Tyranitar ex brings out its prickly spikes against Houndstone ex, who may find its frolic through the graveyard ends with its own funeral!   Obsidian Flames Coverage      Prospective Set List      Card Translat"
-ogImage: "/images/b4ae8a04339417ee.webp"
+ogImage: "/images/bonus-3jpg-b4ae8a.webp"
 publishDate: 2023-07-19
 youtubeId: "GwWXA1t8d4s"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-bonus-3-tyranitar-ex-vs-houndstone-ex"
@@ -28,7 +28,7 @@ We continue to take a look at new decks from Obsidian Flames! In this week's bon
 
 
 
-![](/images/b2bda39e92c117d0.webp)
+![](/images/bonus-3jpg.webp)
 
 
 

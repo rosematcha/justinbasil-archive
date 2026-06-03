@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Bonus 4: Salazzle vs. Garganacl ex"
 description: "In this week's bonus video, Salazzle attempts to control Garganacl ex's big, salty hands.   Stellar Crown Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/cb6fc03c5cac8bfb.webp"
+ogImage: "/images/bonus-4-cb6fc0.webp"
 publishDate: 2024-08-07
 youtubeId: "E6DBiqGLcV8"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-bonus-4-salazzle-vs-garganacl-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, Salazzle attempts to control Garganacl ex's big, sal
 
 
 
-![](/images/9877671604e4256d.webp)
+![](/images/bonus-4-987767.webp)
 
 
 

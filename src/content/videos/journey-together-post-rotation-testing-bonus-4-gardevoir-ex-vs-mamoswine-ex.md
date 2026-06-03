@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 4: Gardevoir ex vs. Mamoswine ex"
 description: "In this week's bonus video, a post-rotation Gardevoir ex takes on newcomer Mamoswine ex!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/c5b893622bcd1302.webp"
+ogImage: "/images/bonus-4-c5b893.webp"
 publishDate: 2025-02-19
 youtubeId: "in1sOGQ2hCI"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-4-gardevoir-ex-vs-mamoswine-ex"
@@ -27,7 +27,7 @@ In this week's bonus video, a post-rotation Gardevoir ex takes on newcomer Mamos
 
 
 
-![](/images/587e8729d06aae85.webp)
+![](/images/bonus-4-587e87.webp)
 
 
 

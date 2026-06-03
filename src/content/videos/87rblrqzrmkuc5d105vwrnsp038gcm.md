@@ -1,7 +1,7 @@
 ---
 title: "Twilight Masquerade Early Testing, Bonus 4: Mightyena vs. Future Box Iron Thorns ex"
 description: "On this week's bonus video, we find out whether or not Mightyena has any dog in him—Mightyena faces off against a Future Box version of Iron Thorns ex!  Check out these links to learn more!   Temporal Forces Coverage      Prospective Set List      Card Translations      Visual Set List      Selected"
-ogImage: "/images/7ff52e93ffce05bd.webp"
+ogImage: "/images/bonus-4-7ff52e.webp"
 publishDate: 2024-04-24
 youtubeId: "Xp2DO5iaUiI"
 sourceUrl: "https://www.justinbasil.com/videos/87rblrqzrmkuc5d105vwrnsp038gcm"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/1ff754a787df6ad0.webp)
+![](/images/bonus-4-1ff754.webp)
 
 
 

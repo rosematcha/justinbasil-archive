@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Bonus 8: Ancient Box vs. Hop"
 description: "In this week's bonus video, Ancient Box and Hop go sword to claw to figure out which deck is readiest for rotation!   Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/78f2cb13e44d3e8d.webp"
+ogImage: "/images/bonus-8-78f2cb.webp"
 publishDate: 2025-03-19
 youtubeId: "eWDZmh1TyR4"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-bonus-8-ancient-box-vs-hop"
@@ -27,7 +27,7 @@ In this week's bonus video, Ancient Box and Hop go sword to claw to figure out w
 
 
 
-![](/images/e588cbae3d3886f4.webp)
+![](/images/bonus-8.webp)
 
 
 

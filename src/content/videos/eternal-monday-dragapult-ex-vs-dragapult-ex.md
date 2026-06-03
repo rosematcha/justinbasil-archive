@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Dragapult ex vs. Dragapult ex"
 description: "On this week's Eternal Monday, we're seeing double. It's a Dragapult ex mirror! After the battle, we break card choices in each of the Eternal format Dragapult ex deck lists!"
-ogImage: "/images/60f3034c32abf6b5.webp"
+ogImage: "/images/dragapult-ex-vs-dragapult-ex-60f303.webp"
 publishDate: 2024-09-16
 youtubeId: "MYazyiIte0Q"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-dragapult-ex-vs-dragapult-ex"
@@ -19,7 +19,7 @@ On this week's Eternal Monday, we're seeing double. It's a Dragapult ex mirror! 
 
 
 
-![](/images/27eb6408d958bcc3.webp)
+![](/images/dragapult-ex-vs-dragapult-ex.webp)
 
 
 

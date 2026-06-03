@@ -1,7 +1,7 @@
 ---
 title: "Journey Together Post-Rotation Testing, Part 7: Dragapult ex vs. the World"
 description: "Journey Together (Post-Rotation) Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/38c94e0d24b62549.webp"
+ogImage: "/images/part-7-38c94e.webp"
 publishDate: 2025-03-16
 youtubeId: "TU1Y7ltwvTk"
 sourceUrl: "https://www.justinbasil.com/videos/journey-together-post-rotation-testing-part-7-dragapult-ex-vs-the-world"
@@ -25,7 +25,7 @@ showHeading: false
 
 
 
-![](/images/b52c6d5069ba58e6.webp)
+![](/images/part-7.webp)
 
 
 

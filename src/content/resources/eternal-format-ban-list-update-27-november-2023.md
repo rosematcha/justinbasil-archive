@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format Ban List Update: 27 November 2023"
 description: "In today’s Eternal Monday, I look at the changes to the Eternal format’s ban list. All of the changes are effective immediately and all prints of the relevant cards are affected."
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 publishDate: 2023-11-27
 youtubeId: "kTxJbmeDBm8"
 sourceUrl: "https://www.justinbasil.com/resources/eternal-format-ban-list-update-27-november-2023"

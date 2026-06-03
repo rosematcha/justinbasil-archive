@@ -1,7 +1,7 @@
 ---
 title: "Surging Sparks Early Testing, Bonus 1: Ceruledge ex vs. Azumarill"
 description: "In today's bonus video, Ceruledge ex looks to run circles around Azumarill while Azumarill readies its twinkling soap!  Check out these links to learn more!   Surging Sparks Coverage      Prospective Set List      Card Translations      Visual Set List      Selected Proxies      New Decks"
-ogImage: "/images/a1fbe1d2770766ec.webp"
+ogImage: "/images/bonus-1-a1fbe1.webp"
 publishDate: 2024-09-25
 youtubeId: "0dTl9_mGKQE"
 sourceUrl: "https://www.justinbasil.com/videos/surging-sparks-early-testing-bonus-1-ceruledge-ex-vs-azumarill"
@@ -29,7 +29,7 @@ Check out these links to learn more!
 
 
 
-![](/images/114657262c497673.webp)
+![](/images/bonus-1-114657.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 50: New English Special Set in January, Supercharged Breaker Cards!"
 description: "This week we discuss a new English special set coming in January, many new card reveals from \"Supercharged Breaker,\" the soft-launch of \"Pokémon TCG Pocket,\" the long-overdue release of the Jirachi V Box, new products, and more!"
-ogImage: "/images/9086bc7c795cf7b2.webp"
+ogImage: "/images/diglett-768x432-9086bc.webp"
 publishDate: 2024-10-05
 youtubeId: "gdjxPN-Hr1Y"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-50-new-english-special-set-in-january-supercharged-breaker-cards"
@@ -19,7 +19,7 @@ This week we discuss a new English special set coming in January, many new card 
 
 
 
-![](/images/0b01c28e0e1dd675.webp)
+![](/images/diglett-768x432.webp)
 
 
 

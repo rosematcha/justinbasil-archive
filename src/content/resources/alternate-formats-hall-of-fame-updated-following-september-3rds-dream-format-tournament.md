@@ -1,7 +1,7 @@
 ---
 title: "Alternate Formats Hall of Fame Updated Following September 3rd's Dream Format Tournament"
 description: "The Alternate Format Hall of Fame page has been updated with the results of the September 3rd Dream format tournament.  The tournament's results were as follows:    bunnybird12 - Blacephalon UNB    KingK4RP - Falinks / Weavile    WackyMatty - Whimsicott VIV    Twitchy - Zeraora V / Zebstrika    Clic"
-ogImage: "/images/e9441025edf961e0.webp"
+ogImage: "/images/blacephalon-baby-e94410.webp"
 publishDate: 2021-09-04
 sourceUrl: "https://www.justinbasil.com/resources/alternate-formats-hall-of-fame-updated-following-september-3rds-dream-format-tournament"
 showHeading: false
@@ -9,7 +9,7 @@ showHeading: false
 
 
 
-![Blacephalon-Baby.png](/images/2a5c78caf88d061c.webp)
+![Blacephalon-Baby.png](/images/blacephalon-baby.webp)
 
 
 

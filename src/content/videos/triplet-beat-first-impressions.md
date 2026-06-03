@@ -1,7 +1,7 @@
 ---
 title: "Triplet Beat First Impressions!"
 description: "It's time to look at many of the cards that will make up our set Paldea Evolved in June! Let's look at Meowscarada ex, Skeledirge ex, Quaquaval ex, and more!  Check out these links to learn more!     Paldea Evolved Prospective Set List      Paldea Evolved Visual Set List      Set Highlights from Pal"
-ogImage: "/images/fd996df42dd54c5e.webp"
+ogImage: "/images/triplet-beat-1st-impressions-fd996d.webp"
 publishDate: 2023-03-03
 youtubeId: "aZk0Mt3yVPA"
 sourceUrl: "https://www.justinbasil.com/videos/triplet-beat-first-impressions"
@@ -27,7 +27,7 @@ Check out these links to learn more!
 
 
 
-![](/images/c7c238ca4597279a.webp)
+![](/images/triplet-beat-1st-impressions.webp)
 
 
 

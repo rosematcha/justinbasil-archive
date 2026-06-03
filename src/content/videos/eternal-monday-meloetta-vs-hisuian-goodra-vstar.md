@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Meloetta vs. Hisuian Goodra VSTAR"
 description: "What's this? Another morsel of delicious Eternal format goodness? It's Meloetta facing off against Hisuian Goodra VSTAR!"
-ogImage: "/images/78d57752f1ff42f0.webp"
+ogImage: "/images/r2-thumbnail-78d577.webp"
 publishDate: 2023-10-09
 youtubeId: "SOSSDPAABtc"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-meloetta-vs-hisuian-goodra-vstar"
@@ -19,7 +19,7 @@ What's this? Another morsel of delicious Eternal format goodness? It's Meloetta 
 
 
 
-![](/images/6aa4b547843f5b3d.webp)
+![](/images/r2-thumbnail.webp)
 
 
 

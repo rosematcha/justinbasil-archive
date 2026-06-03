@@ -1,7 +1,7 @@
 ---
 title: "Unaffiliated Cards Translations"
 description: "Below is a running summary of translations for all base-rarity cards we aren’t sure how we’ll be getting. These cards may appear as promo cards or as cards in a future set. View the  Visual Set List  for a picture-based overview of these cards."
-ogImage: "/images/0f9059cec118b1d1.webp"
+ogImage: "/images/005136-5-0f9059.webp"
 publishDate: 2024-03-14
 sourceUrl: "https://www.justinbasil.com/translations/unk"
 showHeading: false
@@ -47,7 +47,7 @@ Below is a running summary of translations for all base-rarity cards we aren’t
     <span id="G" class="symb">G</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0264889687bc2068.webp)
+![](/images/005136-5.webp)
 
 </div><div class="jb-col-10">
 
@@ -61,7 +61,7 @@ Below is a running summary of translations for all base-rarity cards we aren’t
     <span id="W" class="symb">W</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e2955ad429263a3d.webp)
+![](/images/005136-2.webp)
 
 </div><div class="jb-col-10">
 
@@ -75,7 +75,7 @@ Below is a running summary of translations for all base-rarity cards we aren’t
     <span id="L" class="symb">L</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1859cec622ae0fc0.webp)
+![](/images/004799-2.webp)
 
 </div><div class="jb-col-10">
 
@@ -94,7 +94,7 @@ Ability: Counterattack Quills If this Pokémon is in the Active Spot and is dama
     <span id="F" class="symb">F</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/6c8ed59056e8d698.webp)
+![](/images/005136-6.webp)
 
 </div><div class="jb-col-10">
 
@@ -114,7 +114,7 @@ Ability: Counterattack Quills If this Pokémon is in the Active Spot and is dama
     <span id="C" class="symb">C</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/265d77e68a39765b.webp)
+![](/images/team-rocket-s-kangaskhan-ex.webp)
 
 </div><div class="jb-col-10"><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">
   <p><strong>Team Rocket’s Kangaskhan ex</strong><br><em>From SV Gym Promos Series 10</em></p><blockquote><p>[C][C] Comet Punch: 30x damage. Flip 4 coins. This attack does 30 damage for each heads.</p></blockquote><blockquote><p>[C][C][C] Dark Impact: 120+ damage. If you played a Supporter card with Team Rocket’s in its name from your hand during this turn, this attack does 100 more damage.</p></blockquote>
@@ -122,7 +122,7 @@ Ability: Counterattack Quills If this Pokémon is in the Active Spot and is dama
     <span id="Trainers" class="jb-bold">Trainer Cards</span>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/404d8128d1cccd10.webp)
+![](/images/005136-3.webp)
 
 </div><div class="jb-col-10">
 
@@ -132,7 +132,7 @@ Discard the top 2 cards of your deck.
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/9155cee569358eaf.webp)
+![](/images/004799-3.webp)
 
 </div><div class="jb-col-10">
 
@@ -142,7 +142,7 @@ Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/042a2a28613e9596.webp)
+![](/images/team-rocket-s-hypnosis-device.webp)
 
 </div><div class="jb-col-10">
 

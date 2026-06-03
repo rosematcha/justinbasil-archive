@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 4: Charizard ex vs. Tyranitar ex"
 description: "We continue looking ahead to Obsidian Flames, this week looking at Charizard ex and Tyranitar ex in a clash of the titans! Is Charizard going to burn Tyranitar to cinders, or will Tyranitar unceremoniously bury Charizard in an earthen grave? Check out these links to learn more!   Obsidian Flames Cov"
-ogImage: "/images/e416bfb312cef5fe.webp"
+ogImage: "/images/part-4-e416bf.webp"
 publishDate: 2023-07-15
 youtubeId: "M1DE0EDOFdU"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-part-4-charizard-ex-vs-tyranitar-ex"
@@ -28,7 +28,7 @@ We continue looking ahead to Obsidian Flames, this week looking at Charizard ex 
 
 
 
-![](/images/40cf1823f4f01cf9.webp)
+![](/images/part-4-40cf18.webp)
 
 
 

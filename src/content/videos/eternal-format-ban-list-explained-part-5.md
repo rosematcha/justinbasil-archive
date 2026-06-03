@@ -1,7 +1,7 @@
 ---
 title: "Eternal Format Ban List Explained: Part 5"
 description: "For this week's Eternal Monday, I explore a few more of the cards that have found their way onto the Eternal format's ban list. Today, we explore bans that feel obvious in retrospect, but are worth exploring all the same."
-ogImage: "/images/f565ff2c5592b902.webp"
+ogImage: "/images/eternal-format-ban-list-explained-part-5-f565ff.webp"
 publishDate: 2024-08-26
 youtubeId: "Baff4y6r2bQ"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-format-ban-list-explained-part-5"
@@ -19,7 +19,7 @@ For this week's Eternal Monday, I explore a few more of the cards that have foun
 
 
 
-![](/images/2dda5995407d7b6c.webp)
+![](/images/eternal-format-ban-list-explained-part-5.webp)
 
 
 

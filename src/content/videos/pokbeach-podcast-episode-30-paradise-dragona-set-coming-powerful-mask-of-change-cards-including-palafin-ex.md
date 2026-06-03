@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 30: \"Paradise Dragona\" Set Coming, Powerful \"Mask of Change\" Cards Including Palafin ex!"
 description: "This week we discuss exciting new reveals from \"Mask of Change\" including a 340 HP Palafin ex, an upcoming \"Paradise Dragona\" set, the English \"Battle Academy\" reveal, exclusive promos that released at EUIC, a nostalgic binder from Ultra PRO, and more!"
-ogImage: "/images/1e1a9439ce08b432.webp"
+ogImage: "/images/nidorina-768x432-1e1a94.webp"
 publishDate: 2024-04-06
 youtubeId: "-XLdaMeRI2M"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-30-paradise-dragona-set-coming-powerful-mask-of-change-cards-including-palafin-ex"
@@ -19,7 +19,7 @@ This week we discuss exciting new reveals from "Mask of Change" including a 340 
 
 
 
-![](/images/584e2d423466293f.webp)
+![](/images/nidorina-768x432.webp)
 
 
 

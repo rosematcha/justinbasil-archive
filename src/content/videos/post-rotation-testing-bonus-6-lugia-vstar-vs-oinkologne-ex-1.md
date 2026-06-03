@@ -1,7 +1,7 @@
 ---
 title: "Post Rotation Testing Part 10: Miraidon ex vs. the World"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. In this livestream, Miraidon ex takes on the world!   Rotation Survival Guide      2023 Rotation Survival Guide       Scarlet & Violet Coverage      Prospective Set List      Visual Set List      Set Highligh"
-ogImage: "/images/ec352c6b291f3593.webp"
+ogImage: "/images/testing-part-10-miraidon-ex-vs-the-world-ec352c.webp"
 publishDate: 2023-03-24
 youtubeId: "1sFjut_qWGY"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-bonus-6-lugia-vstar-vs-oinkologne-ex-1"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/8900bbfc4950c130.webp)
+![](/images/testing-part-10-miraidon-ex-vs-the-world.webp)
 
 
 

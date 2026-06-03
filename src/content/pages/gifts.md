@@ -1,6 +1,6 @@
 ---
 title: "Gift Guide"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/gifts"
 showHeading: false
 ---
@@ -53,7 +53,7 @@ showHeading: false
   </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/559334731f65fb7d.webp)
+![](/images/exbattledeckironleavesex.webp)
 
 </div><div class="jb-col-10">
 
@@ -92,7 +92,7 @@ Battle Decks sell for $10-15.
   </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/0bd9b7ee08b1287f.webp)
+![](/images/2024-battle-academy-0bd9b7.webp)
 
 </div><div class="jb-col-10">
 
@@ -136,7 +136,7 @@ Pokémon Battle Academy sells for about $25.
   </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/ea5d18b55af9a17b.webp)
+![](/images/1280px-dragapult-ex-league-battle-deck.webp)
 
 </div><div class="jb-col-10">
 
@@ -179,11 +179,11 @@ League Battle decks sell for about $30.
   </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/d8ca2379dcfaf199.webp)
+![](/images/pokemon-tcg-mega-evolution-elite-trainer-box-mega-gardevoir.webp)
 
 
 
-![](/images/2dd3a4ed64aef822.webp)
+![](/images/p10346-10-10047-120-02-1.webp)
 
 </div><div class="jb-col-10">
 
@@ -224,7 +224,7 @@ Elite Trainer Boxes range in price from $50-60. See the list of ideal sets from 
   </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/8cb1556610a74d10.webp)
+![](/images/2024-trainer-s-toolkit.webp)
 
 </div><div class="jb-col-9">
 
@@ -473,15 +473,15 @@ The Trainer’s Toolkit sells for about $35.
   </div>
 </div><div class="jb-row"><div class="jb-col-1">
 
-![](/images/8559214a97585eb8.webp)
+![](/images/mega-evolution-blister-1-copy.webp)
 
 
 
-![](/images/7b5502a0a386c220.webp)
+![](/images/mega-evolution-blister-2-copy.webp)
 
 </div><div class="jb-col-2">
 
-![](/images/478fa7db0d7f1848.webp)
+![](/images/mega-evolution-booster-box-copy-scaled.webp)
 
 </div><div class="jb-col-9">
 
@@ -537,7 +537,7 @@ Booster packs and single-pack blister packs sell for $4-5, three-pack blister pa
   </div>
 </div>
 
-![](/images/d804acc1a58121e7.webp)
+![](/images/ugd010112-0001-1920x1920.webp)
 
 
 
@@ -573,7 +573,7 @@ Quality deck sleeves sell for $10-15 for a set of 80 to 100 sleeves.
   </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-![71Sd3VN-B8L._AC_SL1500_.jpg](/images/8f11d812abacd2d2.webp)
+![71Sd3VN-B8L._AC_SL1500_.jpg](/images/71sd3vn-b8l-ac-sl1500.webp)
 
 </div><div class="jb-col-9">
 
@@ -624,7 +624,7 @@ And for deck boxes with space for more than one deck:
   </div>
 </div>
 
-![bcw zfolio.jpeg](/images/e3128642ba921b46.webp)
+![bcw zfolio.jpeg](/images/bcw-zfolio.webp)
 
 
 
@@ -662,7 +662,7 @@ A quality trading card binder typically sells for $30-50.
   </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e755f5b7831ff2c0.webp)
+![](/images/51b64u1vnwl-ac.webp)
 
 </div><div class="jb-col-10">
 
@@ -697,7 +697,7 @@ Perfect fits also tend to be rather inexpensive at $3-5 per pack of a hundred. I
   </div>
 </div>
 
-![tcgplayer_giftcard.png](/images/9123e116ab3b1197.webp)
+![tcgplayer_giftcard.png](/images/tcgplayer-giftcard.webp)
 
 
 
@@ -728,15 +728,15 @@ If the particular card shop your recipient would buy from doesn't offer a gift c
   </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/84a5c7829b179244.webp)
+![](/images/pre-tins.webp)
 
 <div class="jb-row"><div class="jb-col-1">
 
-![](/images/a35812a73a15b0e0.webp)
+![](/images/2024-collector-chest.webp)
 
 </div><div class="jb-col-2">
 
-![](/images/4b42ba8f5e53c6f8.webp)
+![](/images/2024-tin.webp)
 
 </div></div></div><div class="jb-col-9">
 
@@ -772,7 +772,7 @@ Tins vary in price from about $10 for the mini tins to about $30 for the tins fe
   </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-![](/images/429a659d06cbd3ff.webp)
+![](/images/pokemon-tcg-mega-latias-ex-box-en-2245x2000-c137303-copy-1.webp)
 
 </div><div class="jb-col-9">
 

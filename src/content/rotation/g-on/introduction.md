@@ -1,6 +1,6 @@
 ---
 title: "Introduction (2025)"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/g-on/introduction"
 showHeading: false
 ---
@@ -13,13 +13,13 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/7a0aeab5be816391.webp)
+![](/images/svi-on.webp)
 
 *The G regulation block, first introduced with Scarlet & Violet, is the first regulation block with cards legal in the 2025 Standard format.*
 
 </div></div></div><div class="jb-col-4"></div></div>
 
-![](/images/7c3f787b691874a1.webp)
+![](/images/svi-reg-mark.webp)
 
 *The “G” regulation mark is circled in red above. The regulation mark makes it easy to identify cards that are legal in the Standard format.*
 
@@ -35,7 +35,7 @@ This rotation means that many cards that were familiar to players and commonplac
 
 
 
-![](/images/92c5252ad6bf6c37.webp)
+![](/images/sit-156-r-en.webp)
 
 *As of this year’s rotation, Forest Seal Stone will no longer be legal in the Standard format.*
 

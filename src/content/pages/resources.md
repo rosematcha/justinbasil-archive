@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 publishDate: 2025-07-10
 sourceUrl: "https://www.justinbasil.com/resources"
 showHeading: false
@@ -8,7 +8,7 @@ showHeading: false
 
 
 
-![](/images/545a8dfcc78b14b7.webp)
+![](/images/bbwf.webp)
 
 
 
@@ -26,7 +26,7 @@ The following cards, and any alternate printings they may have, are now banned i
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/a3de1d99300be027.webp)
+![](/images/ssp-143-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -38,7 +38,7 @@ Because other, less problematic, yet still powerful Eevee exist in the the cardp
 
 </div><div class="jb-col-2">
 
-![](/images/7422ef38f6049ca5.webp)
+![](/images/g2-018-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -48,7 +48,7 @@ To avoid situations like the example that ultimately devolve into watching your 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e332ebce7e34b034.webp)
+![](/images/par-089-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -58,7 +58,7 @@ Now, to ensure the format doesn’t devolve into a turn one donkfest, Iron Valia
 
 </div><div class="jb-col-2">
 
-![](/images/e7677714c3752e2c.webp)
+![](/images/meloetta-ex.webp)
 
 </div><div class="jb-col-4">
 
@@ -68,7 +68,7 @@ However, when coupled with the large variety of Technical Machine cards—both o
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/28e0b7738752e05f.webp)
+![](/images/bst-088-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -88,7 +88,7 @@ Additionally, the following cards, and any alternate printings they may have, ar
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/e305a299892e3fd6.webp)
+![](/images/lot-008-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -99,7 +99,7 @@ This unbanning, though not at linked to the upcoming release of Pokémon Legends
 </div><div class="jb-col-6"></div></div>
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/6d1412e06e6f916c.webp)
+![](/images/dri-hero-image.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -108,7 +108,7 @@ No changes have been made to the ban list for the Eternal format for the set rel
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
-![](/images/7d5c5e80711c941d.webp)
+![](/images/jtgart.webp)
 
 </div><div class="jb-col-4"></div></div>
 
@@ -129,7 +129,7 @@ The following cards, and any alternate printings they may have, are now banned i
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/25ad84c598b9f41b.webp)
+![](/images/131-area-zero-underdepths-stellar-crown.webp)
 
 </div><div class="jb-col-3">
 
@@ -139,7 +139,7 @@ Because a similar and less-exploitable card exists in the form of Sky Field, thi
 
 </div><div class="jb-col-2">
 
-![](/images/8d83603c0f6e9bc4.webp)
+![](/images/celebi-ex.webp)
 
 </div><div class="jb-col-5">
 
@@ -149,7 +149,7 @@ Thus, for the same reasons as Puzzle of Time, Celebi P2 17 has now joined the Et
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/1c7232cd14b51378.webp)
+![](/images/sum-095-r-en.webp)
 
 </div><div class="jb-col-3">
 
@@ -184,7 +184,7 @@ The following cards, and any alternate printings they may have, are now banned i
 </div>
 </div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/3f0c3cf3137363f8.webp)
+![](/images/twm-130-r-en-3f0c3c.webp)
 
 </div><div class="jb-col-4">
 
@@ -194,7 +194,7 @@ To finally let the format breathe, this card is now banned in the Eternal format
 
 </div><div class="jb-col-2">
 
-![](/images/5e9c8acab1ccf42e.webp)
+![](/images/unb-175-r-en-5e9c8a.webp)
 
 </div><div class="jb-col-4">
 
@@ -206,7 +206,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/b453b16f863bd048.webp)
+![](/images/sv08-en-59-2x-b453b1.webp)
 
 </div><div class="jb-col-4">
 
@@ -214,7 +214,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div><div class="jb-col-2">
 
-![](/images/89b40d36f86d2b41.webp)
+![](/images/fli-056-r-en.webp)
 
 </div><div class="jb-col-4">
 
@@ -222,7 +222,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/770a8ef6f9ee88c5.webp)
+![](/images/11-hires.webp)
 
 </div><div class="jb-col-4">
 
@@ -230,7 +230,7 @@ As such, Green’s Exploration is now returning to the ban list for the Eternal 
 
 </div><div class="jb-col-2">
 
-![](/images/f79bd035213c2008.webp)
+![](/images/sv08-en-142-2x-f79bd0.webp)
 
 </div><div class="jb-col-4">
 
@@ -240,7 +240,7 @@ While effects like these are incredibly cool, they unfortunately tend to be a bi
 
 </div></div><div class="jb-row"><div class="jb-col-2">
 
-![](/images/138637962b64861d.webp)
+![](/images/cec-052-r-en.webp)
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
@@ -265,7 +265,7 @@ Additionally, the following cards, and any alternate printings they may have, ar
     <li><a href="https://limitlesstcg.com/cards/nvi/14/">Victini NVI 14</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/103fdaed27d68618.webp"><img src="/images/103fdaed27d68618.webp" alt="DAA_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ab10bc9fddb0f906.webp"><img src="/images/ab10bc9fddb0f906.webp" alt="CL_080_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f881ea4a4e39b3b7.webp"><img src="/images/f881ea4a4e39b3b7.webp" alt="Mewtwo V-UNION.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f56c1703f76b1439.webp"><img src="/images/f56c1703f76b1439.webp" alt="ASR_114_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d3054baa6963806d.webp"><img src="/images/d3054baa6963806d.webp" alt="SCR_024_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9379f76c6d282ba1.webp"><img src="/images/9379f76c6d282ba1.webp" alt="PHF_108_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e29b13977cf8887c.webp"><img src="/images/e29b13977cf8887c.webp" alt="GRI_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/29d7b9d06a790e6d.webp"><img src="/images/29d7b9d06a790e6d.webp" alt="LTR_023_R_EN.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/daa-162-r-en.webp"><img src="/images/daa-162-r-en.webp" alt="DAA_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cl-080-r-en.webp"><img src="/images/cl-080-r-en.webp" alt="CL_080_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/mewtwo-v-union.webp"><img src="/images/mewtwo-v-union.webp" alt="Mewtwo V-UNION.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/asr-114-r-en.webp"><img src="/images/asr-114-r-en.webp" alt="ASR_114_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/scr-024-r-en.webp"><img src="/images/scr-024-r-en.webp" alt="SCR_024_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/phf-108-r-en.webp"><img src="/images/phf-108-r-en.webp" alt="PHF_108_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/gri-010-r-en.webp"><img src="/images/gri-010-r-en.webp" alt="GRI_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ltr-023-r-en.webp"><img src="/images/ltr-023-r-en.webp" alt="LTR_023_R_EN.png" loading="lazy"></a></figure></div>
 
 
 The following cards, and any alternate printings they may have, are now banned in the Eternal format, effectively immediately. Unreleased cards are represented by their justinbasil.com proxy image.
@@ -281,7 +281,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/DS/110">Vaporeon ex DS 110</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/1ca0bd2a4c242181.webp"><img src="/images/1ca0bd2a4c242181.webp" alt="SHF_021_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/879cfa97d0d20b84.webp"><img src="/images/879cfa97d0d20b84.webp" alt="Lapras+ex.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e305a299892e3fd6.webp"><img src="/images/e305a299892e3fd6.webp" alt="LOT_008_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4fe696d4c48d5e50.webp"><img src="/images/4fe696d4c48d5e50.webp" alt="CEC_199_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/96364347c983b5a9.webp"><img src="/images/96364347c983b5a9.webp" alt="Salazzle.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a46d89ccde44a7cf.webp"><img src="/images/a46d89ccde44a7cf.webp" alt="110_hires.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/shf-021-r-en.webp"><img src="/images/shf-021-r-en.webp" alt="SHF_021_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lapras-ex-879cfa.webp"><img src="/images/lapras-ex-879cfa.webp" alt="Lapras+ex.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lot-008-r-en.webp"><img src="/images/lot-008-r-en.webp" alt="LOT_008_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cec-199-r-en.webp"><img src="/images/cec-199-r-en.webp" alt="CEC_199_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/salazzle-963643.webp"><img src="/images/salazzle-963643.webp" alt="Salazzle.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/110-hires.webp"><img src="/images/110-hires.webp" alt="110_hires.png" loading="lazy"></a></figure></div>
 
 Additionally, the following cards, and any alternate printings they may have, are unbanned from the Eternal format, also effective immediately.
 
@@ -291,7 +291,7 @@ Additionally, the following cards, and any alternate printings they may have, ar
     <li><a href="https://limitlesstcg.com/cards/TR/78">Goop Gas Attack BS 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/08f9928724b24af8.webp"><img src="/images/08f9928724b24af8.webp" alt="78_hires.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/78-hires.webp"><img src="/images/78-hires.webp" alt="78_hires.png" loading="lazy"></a></figure></div>
 
 
 In addition to the ban list updates affecting the [345 format](/resources/345-shrouded-fable-ban-list-amp-format-update), the [Eternal format](/resources/shrouded-fable-eternal-format-ban-list-update), and the [Aceless format](/resources/shrouded-fable-aceless-format-ban-list-update), various other alternate formats have been impacted by ban list changes.
@@ -306,7 +306,7 @@ The following card is no longer banned in the listed formats:
     <li><a href="https://pkmncards.com/card/dusk-stone-unbroken-bonds-unb-167/">Dusk Stone UNB 167</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/4a158685a1773685.webp"><img src="/images/4a158685a1773685.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-167-r-en-lg-4a1586.webp"><img src="/images/unb-167-r-en-lg-4a1586.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure></div>
 
 **In the Dream, Quick Draw, and Type Focus Formats**
 
@@ -321,7 +321,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://pkmncards.com/card/mismagius-unbroken-bonds-unb-78/">Mismagius UNB 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/853e6ad98f5930f4.webp"><img src="/images/853e6ad98f5930f4.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8b90d101c59ab22e.webp"><img src="/images/8b90d101c59ab22e.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f9466f9b957e7aa9.webp"><img src="/images/f9466f9b957e7aa9.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2b87d14d0285227.webp"><img src="/images/c2b87d14d0285227.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops.webp"><img src="/images/dusclops.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
 
 **In the Alola Format**
 
@@ -334,7 +334,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://pkmncards.com/card/mismagius-unbroken-bonds-unb-78/">Mismagius UNB 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/f9466f9b957e7aa9.webp"><img src="/images/f9466f9b957e7aa9.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2b87d14d0285227.webp"><img src="/images/c2b87d14d0285227.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
 
 **In the Pauper Format**
 
@@ -346,7 +346,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/sfa/19/">Dusclops SFA 19</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/68ed88573f46aa0a.webp"><img src="/images/68ed88573f46aa0a.webp" alt="Dusclops.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy"></a></figure></div>
 
 
 The following cards, and any alternate printings they may have, are now banned in the Aceless format, effectively immediately. Unreleased cards are represented by their justinbasil.com proxy image.
@@ -359,7 +359,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/twm/96/">Fezandipiti TWM 96</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/68ed88573f46aa0a.webp"><img src="/images/68ed88573f46aa0a.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8b90d101c59ab22e.webp"><img src="/images/8b90d101c59ab22e.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/38c960cffce1dd70.webp"><img src="/images/38c960cffce1dd70.webp" alt="TWM_096_R_EN.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-096-r-en-38c960.webp"><img src="/images/twm-096-r-en-38c960.webp" alt="TWM_096_R_EN.png" loading="lazy"></a></figure></div>
 
 
 The following cards, and any alternate printings they may have, are now banned in the 345 format, effectively immediately. Unreleased cards are represented by their justinbasil.com proxy image.
@@ -383,7 +383,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/sfa/64/">Xerosic's Plan SFA 64</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/b5b0b00177569de4.webp"><img src="/images/b5b0b00177569de4.webp" alt="TEU_134_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/68ed88573f46aa0a.webp"><img src="/images/68ed88573f46aa0a.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a3c3dcfbf50fa7ff.webp"><img src="/images/a3c3dcfbf50fa7ff.webp" alt="TWM_149_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/38c960cffce1dd70.webp"><img src="/images/38c960cffce1dd70.webp" alt="TWM_096_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/9840b5c406812b9a.webp"><img src="/images/9840b5c406812b9a.webp" alt="Kyurem.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/2e0ea3669bf05ad2.webp"><img src="/images/2e0ea3669bf05ad2.webp" alt="TWM_167_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b0aa4f4b8ccd9a25.webp"><img src="/images/b0aa4f4b8ccd9a25.webp" alt="UNB_078_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/82d486fc2f15198a.webp"><img src="/images/82d486fc2f15198a.webp" alt="TWM_111_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0f887ac7d7235e03.webp"><img src="/images/0f887ac7d7235e03.webp" alt="PAL_151_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/424364046bc02aa4.webp"><img src="/images/424364046bc02aa4.webp" alt="VIV_050_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/63178d564e56139c.webp"><img src="/images/63178d564e56139c.webp" alt="TWM_164_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0d353a7f711c38da.webp"><img src="/images/0d353a7f711c38da.webp" alt="LOT_090_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8128b174e4cb92f5.webp"><img src="/images/8128b174e4cb92f5.webp" alt="LOT_091_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8ea813da93c97167.webp"><img src="/images/8ea813da93c97167.webp" alt="Xerosic's+Plan.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/teu-134-r-en.webp"><img src="/images/teu-134-r-en.webp" alt="TEU_134_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-149-r-en-a3c3dc.webp"><img src="/images/twm-149-r-en-a3c3dc.webp" alt="TWM_149_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-096-r-en-38c960.webp"><img src="/images/twm-096-r-en-38c960.webp" alt="TWM_096_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/kyurem-9840b5.webp"><img src="/images/kyurem-9840b5.webp" alt="Kyurem.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-167-r-en-2e0ea3.webp"><img src="/images/twm-167-r-en-2e0ea3.webp" alt="TWM_167_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/unb-078-r-en.webp"><img src="/images/unb-078-r-en.webp" alt="UNB_078_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-111-r-en-82d486.webp"><img src="/images/twm-111-r-en-82d486.webp" alt="TWM_111_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-151-r-en.webp"><img src="/images/pal-151-r-en.webp" alt="PAL_151_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/viv-050-r-en.webp"><img src="/images/viv-050-r-en.webp" alt="VIV_050_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-164-r-en-63178d.webp"><img src="/images/twm-164-r-en-63178d.webp" alt="TWM_164_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lot-090-r-en.webp"><img src="/images/lot-090-r-en.webp" alt="LOT_090_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lot-091-r-en.webp"><img src="/images/lot-091-r-en.webp" alt="LOT_091_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/xerosic-s-plan-8ea813.webp"><img src="/images/xerosic-s-plan-8ea813.webp" alt="Xerosic's+Plan.png" loading="lazy"></a></figure></div>
 
 Additionally, the following cards, and any alternate printings they may have, are unbanned from the 345 format, also effective immediately. These cards were previously placed on the ban list due to the hidden ‘multiplier’ rule. That rule has now been discarded and is no longer factored into decisions regarding the banning of cards in the format.
 
@@ -420,7 +420,7 @@ Additionally, the following cards, and any alternate printings they may have, ar
     <li><a href="https://limitlesstcg.com/cards/unb/60/">Zeraora UNB 60</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/0ac5141b6999bbf1.webp"><img src="/images/0ac5141b6999bbf1.webp" alt="BRS_071_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/47e1a43c4991215b.webp"><img src="/images/47e1a43c4991215b.webp" alt="UNB_032_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/57f9896102c6e50a.webp"><img src="/images/57f9896102c6e50a.webp" alt="UNM_030_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0f3e2682e1944f28.webp"><img src="/images/0f3e2682e1944f28.webp" alt="TEU_014_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c70f89c39efa26d1.webp"><img src="/images/c70f89c39efa26d1.webp" alt="TEF_137_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4f72fb0cb372801a.webp"><img src="/images/4f72fb0cb372801a.webp" alt="LOR_034_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f43f7c3403342a1f.webp"><img src="/images/f43f7c3403342a1f.webp" alt="MEW_101_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/883121646fab4839.webp"><img src="/images/883121646fab4839.webp" alt="BST_035_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/74dbdba294e9853a.webp"><img src="/images/74dbdba294e9853a.webp" alt="EVS_077_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/efa0c3c5cf87103b.webp"><img src="/images/efa0c3c5cf87103b.webp" alt="PAL_146_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/855faf46c0d1ac90.webp"><img src="/images/855faf46c0d1ac90.webp" alt="CEL_017_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4e8296c0888f9600.webp"><img src="/images/4e8296c0888f9600.webp" alt="LOT_160_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b3eb9d23d692121f.webp"><img src="/images/b3eb9d23d692121f.webp" alt="BRS_026_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/85da02520aecb80d.webp"><img src="/images/85da02520aecb80d.webp" alt="TEF_062_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d5eeefa0ad5161fd.webp"><img src="/images/d5eeefa0ad5161fd.webp" alt="EVS_116_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bc75cd4e101a164a.webp"><img src="/images/bc75cd4e101a164a.webp" alt="BRS_079_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ecd900ed9280a8d8.webp"><img src="/images/ecd900ed9280a8d8.webp" alt="PGO_034_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7ccb2ce3e8817367.webp"><img src="/images/7ccb2ce3e8817367.webp" alt="PGO_021_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8d4ecbd0a0d5c7e0.webp"><img src="/images/8d4ecbd0a0d5c7e0.webp" alt="CRE_070_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e4c435c7c2e22b00.webp"><img src="/images/e4c435c7c2e22b00.webp" alt="FST_012_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d7c775795acc1df6.webp"><img src="/images/d7c775795acc1df6.webp" alt="FST_179_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cfed3184acc745c9.webp"><img src="/images/cfed3184acc745c9.webp" alt="PGO_036_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/981e4424edb63180.webp"><img src="/images/981e4424edb63180.webp" alt="BST_067_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b182d14eb47738b3.webp"><img src="/images/b182d14eb47738b3.webp" alt="BST_082_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/27a4d7a90fae9420.webp"><img src="/images/27a4d7a90fae9420.webp" alt="TEU_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/11842ef6e540b92d.webp"><img src="/images/11842ef6e540b92d.webp" alt="UNB_112_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5532b028072f7970.webp"><img src="/images/5532b028072f7970.webp" alt="DRM_050_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c1fe7037c70e57b0.webp"><img src="/images/c1fe7037c70e57b0.webp" alt="EVS_046_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4ba06b2da13e25ae.webp"><img src="/images/4ba06b2da13e25ae.webp" alt="UNB_060_R_EN.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/brs-071-r-en-0ac514.webp"><img src="/images/brs-071-r-en-0ac514.webp" alt="BRS_071_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/unb-032-r-en-47e1a4.webp"><img src="/images/unb-032-r-en-47e1a4.webp" alt="UNB_032_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/unm-030-r-en.webp"><img src="/images/unm-030-r-en.webp" alt="UNM_030_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/teu-014-r-en.webp"><img src="/images/teu-014-r-en.webp" alt="TEU_014_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-137-r-en.webp"><img src="/images/tef-137-r-en.webp" alt="TEF_137_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lor-034-r-en-4f72fb.webp"><img src="/images/lor-034-r-en-4f72fb.webp" alt="LOR_034_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/mew-101-r-en.webp"><img src="/images/mew-101-r-en.webp" alt="MEW_101_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bst-035-r-en-883121.webp"><img src="/images/bst-035-r-en-883121.webp" alt="BST_035_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/evs-077-r-en-74dbdb.webp"><img src="/images/evs-077-r-en-74dbdb.webp" alt="EVS_077_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-146-r-en.webp"><img src="/images/pal-146-r-en.webp" alt="PAL_146_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cel-017-r-en-855faf.webp"><img src="/images/cel-017-r-en-855faf.webp" alt="CEL_017_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/lot-160-r-en.webp"><img src="/images/lot-160-r-en.webp" alt="LOT_160_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/brs-026-r-en-b3eb9d.webp"><img src="/images/brs-026-r-en-b3eb9d.webp" alt="BRS_026_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-062-r-en.webp"><img src="/images/tef-062-r-en.webp" alt="TEF_062_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/evs-116-r-en-d5eeef.webp"><img src="/images/evs-116-r-en-d5eeef.webp" alt="EVS_116_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/brs-079-r-en-bc75cd.webp"><img src="/images/brs-079-r-en-bc75cd.webp" alt="BRS_079_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pgo-034-r-en-ecd900.webp"><img src="/images/pgo-034-r-en-ecd900.webp" alt="PGO_034_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pgo-021-r-en-7ccb2c.webp"><img src="/images/pgo-021-r-en-7ccb2c.webp" alt="PGO_021_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cre-070-r-en-8d4ecb.webp"><img src="/images/cre-070-r-en-8d4ecb.webp" alt="CRE_070_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fst-012-r-en-e4c435.webp"><img src="/images/fst-012-r-en-e4c435.webp" alt="FST_012_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fst-179-r-en-d7c775.webp"><img src="/images/fst-179-r-en-d7c775.webp" alt="FST_179_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pgo-036-r-en-cfed31.webp"><img src="/images/pgo-036-r-en-cfed31.webp" alt="PGO_036_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bst-067-r-en-981e44.webp"><img src="/images/bst-067-r-en-981e44.webp" alt="BST_067_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/bst-082-r-en-b182d1.webp"><img src="/images/bst-082-r-en-b182d1.webp" alt="BST_082_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/teu-010-r-en.webp"><img src="/images/teu-010-r-en.webp" alt="TEU_010_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/unb-112-r-en.webp"><img src="/images/unb-112-r-en.webp" alt="UNB_112_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/drm-050-r-en.webp"><img src="/images/drm-050-r-en.webp" alt="DRM_050_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/evs-046-r-en-c1fe70.webp"><img src="/images/evs-046-r-en-c1fe70.webp" alt="EVS_046_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/unb-060-r-en.webp"><img src="/images/unb-060-r-en.webp" alt="UNB_060_R_EN.png" loading="lazy"></a></figure></div>
 
 
 The following cards, and any alternate printings they may have, are now banned in the Eternal format, effectively immediately. Unreleased cards are represented by their justinbasil.com proxy image.
@@ -438,7 +438,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/sfa/64/">Xerosic's Plan SFA 64</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/1171fcb68d44ce3c.webp"><img src="/images/1171fcb68d44ce3c.webp" alt="clefairy-base-set-bs-5.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e4d89554c3418984.webp"><img src="/images/e4d89554c3418984.webp" alt="ditto-fossil-fo-18.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/853e6ad98f5930f4.webp"><img src="/images/853e6ad98f5930f4.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8b90d101c59ab22e.webp"><img src="/images/8b90d101c59ab22e.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f9466f9b957e7aa9.webp"><img src="/images/f9466f9b957e7aa9.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2b87d14d0285227.webp"><img src="/images/c2b87d14d0285227.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4c97284681b03090.webp"><img src="/images/4c97284681b03090.webp" alt="star-piece-skyridge-sk-139.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8ea813da93c97167.webp"><img src="/images/8ea813da93c97167.webp" alt="Xerosic's+Plan.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/clefairy-base-set-bs-5.webp"><img src="/images/clefairy-base-set-bs-5.webp" alt="clefairy-base-set-bs-5.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ditto-fossil-fo-18.webp"><img src="/images/ditto-fossil-fo-18.webp" alt="ditto-fossil-fo-18.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/dusclops.webp"><img src="/images/dusclops.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/star-piece-skyridge-sk-139.webp"><img src="/images/star-piece-skyridge-sk-139.webp" alt="star-piece-skyridge-sk-139.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/xerosic-s-plan-8ea813.webp"><img src="/images/xerosic-s-plan-8ea813.webp" alt="Xerosic's+Plan.png" loading="lazy"></a></figure></div>
 
 Additionally, the following cards, and any alternate printings they may have, are unbanned from the Eternal format, also effective immediately.
 
@@ -450,5 +450,5 @@ Additionally, the following cards, and any alternate printings they may have, ar
     <li><a href="https://pkmncards.com/card/murkrow-secret-wonders-sw-95/">Murkrow SW 95</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/4a158685a1773685.webp"><img src="/images/4a158685a1773685.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/5087d44f45427659.webp"><img src="/images/5087d44f45427659.webp" alt="EVS_146_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d4d08d5fa6a7be69.webp"><img src="/images/d4d08d5fa6a7be69.webp" alt="murkrow-secret-wonders-sw-95.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-167-r-en-lg-4a1586.webp"><img src="/images/unb-167-r-en-lg-4a1586.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/evs-146-r-en-lg.webp"><img src="/images/evs-146-r-en-lg.webp" alt="EVS_146_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/murkrow-secret-wonders-sw-95.webp"><img src="/images/murkrow-secret-wonders-sw-95.webp" alt="murkrow-secret-wonders-sw-95.jpg" loading="lazy"></a></figure></div>
 

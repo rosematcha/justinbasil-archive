@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 54: \"Prismatic Evolutions\" Special Illustration Rare Eeveelutions Revealed and More Set Products!"
 description: "This week we discuss the (pixelated) reveals of the Eeveelution Special Illustration Rares from \"Prismatic Evolutions,\" a new product from the set to celebrate \"Pokémon Day,\" new card reveals from \"ex Starter Deck Generations,\" the last Chinese-exclusive \"Pokémon G"
-ogImage: "/images/7c8e18d38e3e9a71.webp"
+ogImage: "/images/psyduck-768x432-7c8e18.webp"
 publishDate: 2024-11-09
 youtubeId: "ZNtDix99qLg"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-54-prismatic-evolutions-special-illustration-rare-eeveelutions-revealed-and-more-set-products"
@@ -19,7 +19,7 @@ This week we discuss the (pixelated) reveals of the Eeveelution Special Illustra
 
 
 
-![](/images/fd9ef4b2f252b81f.webp)
+![](/images/psyduck-768x432.webp)
 
 
 

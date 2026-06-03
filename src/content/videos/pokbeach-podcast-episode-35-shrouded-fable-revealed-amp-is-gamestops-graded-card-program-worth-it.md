@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 35: \"Shrouded Fable\" Revealed & Is GameStop's Graded Card Program Worth It?"
 description: "This week we discuss the reveal of \"Shrouded Fable\" for our special August set, new cards from \"Night Wanderer,\" more details about GameStop's graded card program, and more!"
-ogImage: "/images/9e225bed2d7797f1.webp"
+ogImage: "/images/clefairy-768x432-9e225b.webp"
 publishDate: 2024-05-18
 youtubeId: "JraYnV97p4k"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-35-shrouded-fable-revealed-amp-is-gamestops-graded-card-program-worth-it"
@@ -19,7 +19,7 @@ This week we discuss the reveal of "Shrouded Fable" for our special August set, 
 
 
 
-![](/images/1052546e69730bbe.webp)
+![](/images/clefairy-768x432.webp)
 
 
 

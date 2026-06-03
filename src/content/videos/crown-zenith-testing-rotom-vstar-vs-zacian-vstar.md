@@ -1,7 +1,7 @@
 ---
 title: "Crown Zenith Testing: Rotom VSTAR vs. Zacian VSTAR"
 description: "Join us for the second of two streams featuring new decks from Crown Zenith!"
-ogImage: "/images/0ab1c88dbf7633f9.webp"
+ogImage: "/images/crown-zenith-part-2-0ab1c8.webp"
 publishDate: 2022-12-16
 youtubeId: "pgE4xFB-jSk"
 sourceUrl: "https://www.justinbasil.com/videos/crown-zenith-testing-rotom-vstar-vs-zacian-vstar"
@@ -19,7 +19,7 @@ Join us for the second of two streams featuring new decks from Crown Zenith!
 
 
 
-![](/images/e54741753e2cc8c7.webp)
+![](/images/crown-zenith-part-2.webp)
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Appendix I: Set Symbols and Abbreviations"
-ogImage: "/images/1d9cd7034c22b5e8.webp"
+ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/appendix1"
 showHeading: false
 ---
@@ -13,7 +13,7 @@ showHeading: false
 
 
 
-![](/images/54d25e8bfa148891.webp)
+![](/images/spritagito.webp)
 
 
 
@@ -43,171 +43,171 @@ Note that card legality is no longer strictly determined by the set a card was p
 <h4>
   Scarlet &amp; Violet Era
   </h4>
-  <dd><img src="/images/baf90be99ef64afa.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
-  <dd><img src="/images/4b659a46d552e840.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
-  <dd><img src="/images/6b44f384d6f5b707.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
-  <dd><img src="/images/db79bb9a69efeb84.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
-  <dd><img src="/images/bf2b29d0874216fa.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
-  <dd><img src="/images/e6c9dae0bcab2f5e.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
-  <dd><img src="/images/64e9b0f1acf13e18.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
-  <dd><img src="/images/f98018a13b969fe0.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
-  <dd><img src="/images/20c2101c5d580edf.webp" width="35" height="30" loading="lazy"> Shrouded Fable (SFA)</dd>
-  <dd><img src="/images/9d385a0743f8d1ea.webp" width="35" height="30" loading="lazy"> Stellar Crown (SCR)</dd>
+  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
+  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
+  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
+  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
+  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
+  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
+  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
+  <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
+  <dd><img src="/images/sfa.webp" width="35" height="30" loading="lazy"> Shrouded Fable (SFA)</dd>
+  <dd><img src="/images/scr.webp" width="35" height="30" loading="lazy"> Stellar Crown (SCR)</dd>
 <h4>
   Sword &amp; Shield Era
   </h4>
-<dd><img src="/images/bd09d724c0a1e067.webp" width="30" height="30" loading="lazy"> Brilliant Stars (BRS)</dd>
-<dd><img src="/images/b4906684491962b3.webp" width="30" height="30" loading="lazy"> Astral Radiance (ASR)</dd>
-<dd><img src="/images/40b719d42500caa2.webp" width="30" height="30" loading="lazy"> Pokémon GO (PGO)</dd>
-<dd><img src="/images/bbf69a033c347436.webp" width="30" height="30" loading="lazy"> Lost Origin (LOR)
-</dd><dd><img src="/images/3f7a61618a7077e0.webp" width="30" height="30" loading="lazy"> Silver Tempest (SIT)</dd>
-<dd><img src="/images/f781819abc99e27d.webp" width="30" height="30" loading="lazy"> Crown Zenith (CRZ)</dd>
+<dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy"> Brilliant Stars (BRS)</dd>
+<dd><img src="/images/ss10.webp" width="30" height="30" loading="lazy"> Astral Radiance (ASR)</dd>
+<dd><img src="/images/pgo-symbol-38x38.webp" width="30" height="30" loading="lazy"> Pokémon GO (PGO)</dd>
+<dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy"> Lost Origin (LOR)
+</dd><dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy"> Silver Tempest (SIT)</dd>
+<dd><img src="/images/cze.webp" width="30" height="30" loading="lazy"> Crown Zenith (CRZ)</dd>
 <br>
 </div><div class="jb-code-container">
     <h3>For Expanded Sets</h3>
 <h4>
   Sword &amp; Shield Era
   </h4>
-  <dd><img src="/images/3cf256322bcdea90.webp" width="30" height="30" loading="lazy"> Sword &amp; Shield (SSH)</dd>
-  <dd><img src="/images/ea48b0c4f0f4d9d7.webp" width="30" height="30" loading="lazy"> Rebel Clash (RCL)</dd>
-  <dd><img src="/images/46be6f2f8f86f76f.webp" width="30" height="30" loading="lazy"> Darkness Ablaze (DAA)</dd>
-  <dd><img src="/images/44e4126b1341a9b7.webp" width="30" height="30" loading="lazy"> Champion's Path (CPA)</dd>
-  <dd><img src="/images/8c3bc9b57b0fab2c.webp" width="30" height="30" loading="lazy"> Vivid Voltage (VIV)</dd>
-  <dd><img src="/images/a110f7e5879fc799.webp" width="30" height="30" loading="lazy"> Shining Fates (SHF)</dd>
-<dd><img src="/images/a912cd166c0be155.webp" width="30" height="30" loading="lazy"> Battle Styles (BST)
-</dd><dd><img src="/images/f798b413283b8ed7.webp" width="30" height="30" loading="lazy"> Chilling Reign (CRE)</dd>
-<dd><img src="/images/4f29f6358a15f1da.webp" width="30" height="30" loading="lazy"> Evolving Skies (EVS)</dd>
-<dd><img src="/images/9355dac08b410337.webp" width="30" height="30" loading="lazy"> Celebrations (CEL)</dd>
-<dd><img src="/images/07fd7a9c47252758.webp" width="30" height="30" loading="lazy"> Fusion Strike (FST)</dd>
+  <dd><img src="/images/ssh.webp" width="30" height="30" loading="lazy"> Sword &amp; Shield (SSH)</dd>
+  <dd><img src="/images/rec.webp" width="30" height="30" loading="lazy"> Rebel Clash (RCL)</dd>
+  <dd><img src="/images/dab-46be6f.webp" width="30" height="30" loading="lazy"> Darkness Ablaze (DAA)</dd>
+  <dd><img src="/images/cpa-44e412.webp" width="30" height="30" loading="lazy"> Champion's Path (CPA)</dd>
+  <dd><img src="/images/viv.webp" width="30" height="30" loading="lazy"> Vivid Voltage (VIV)</dd>
+  <dd><img src="/images/shf-a110f7.webp" width="30" height="30" loading="lazy"> Shining Fates (SHF)</dd>
+<dd><img src="/images/bst-a912cd.webp" width="30" height="30" loading="lazy"> Battle Styles (BST)
+</dd><dd><img src="/images/ss6-f798b4.webp" width="30" height="30" loading="lazy"> Chilling Reign (CRE)</dd>
+<dd><img src="/images/ss7-4f29f6.webp" width="30" height="30" loading="lazy"> Evolving Skies (EVS)</dd>
+<dd><img src="/images/cel.webp" width="30" height="30" loading="lazy"> Celebrations (CEL)</dd>
+<dd><img src="/images/fst.webp" width="30" height="30" loading="lazy"> Fusion Strike (FST)</dd>
 <h4>Sun &amp; Moon Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/807e4aedfe6c8ff0.webp" width="30" height="30" loading="lazy"> Sun &amp; Moon (SUM)</dd>
-  <dd><img src="/images/35823fc6428c2716.webp" width="30" height="30" loading="lazy"> Guardians Rising (GRI)</dd>
-  <dd><img src="/images/b40a67833e099e8e.webp" width="30" height="30" loading="lazy"> Burning Shadows (BUS)</dd>
-  <dd><img src="/images/c3742d0fa995e093.webp" width="30" height="30" loading="lazy"> Shining Legends (SLG)</dd>
-  <dd><img src="/images/fe42d8f15e7391f8.webp" width="30" height="30" loading="lazy"> Crimson Invasion (CIN)</dd>
-  <dd><img src="/images/de399accc97d3196.webp" width="30" height="30" loading="lazy"> Ultra Prism (UPR)</dd>
-  <dd><img src="/images/315ec6029060be9e.webp" width="30" height="30" loading="lazy"> Forbidden Light (FLI)</dd>
-  <dd><img src="/images/eb418bb0dcd1e238.webp" width="30" height="30" loading="lazy"> Celestial Storm (CES)</dd>
-  <dd><img src="/images/afb24b2cf9d371ca.webp" width="30" height="30" loading="lazy"> Dragon Majesty (DRM)</dd>
-  <dd><img src="/images/af43e685000e5ea5.webp" width="30" height="30" loading="lazy"> Lost Thunder (LOT)</dd>
-  <dd><img src="/images/fa8f2539b28fdcb0.webp" width="30" height="30" loading="lazy"> Team Up (TEU)</dd>
-  <dd><img src="/images/cbfc4926bf0a9eeb.webp" width="30" height="30" loading="lazy"> Detective Pikachu (DET)</dd>
-  <dd><img src="/images/244b0bf658237666.webp" width="30" height="30" loading="lazy"> Unbroken Bonds (UNB)</dd>
-  <dd><img src="/images/cb41328070317622.webp" width="30" height="30" loading="lazy"> Unified Minds (UNM)</dd>
-  <dd><img src="/images/382d4f5d699a4ec0.webp" width="30" height="30" loading="lazy"> Hidden Fates (HIF)</dd>
-  <dd><img src="/images/d37788b9898ed659.webp" width="30" height="30" loading="lazy"> Cosmic Eclipse (CEC)</dd>
+  <dd><img src="/images/sum.webp" width="30" height="30" loading="lazy"> Sun &amp; Moon (SUM)</dd>
+  <dd><img src="/images/gri.webp" width="30" height="30" loading="lazy"> Guardians Rising (GRI)</dd>
+  <dd><img src="/images/bus.webp" width="30" height="30" loading="lazy"> Burning Shadows (BUS)</dd>
+  <dd><img src="/images/slg.webp" width="30" height="30" loading="lazy"> Shining Legends (SLG)</dd>
+  <dd><img src="/images/cin.webp" width="30" height="30" loading="lazy"> Crimson Invasion (CIN)</dd>
+  <dd><img src="/images/upr.webp" width="30" height="30" loading="lazy"> Ultra Prism (UPR)</dd>
+  <dd><img src="/images/fli.webp" width="30" height="30" loading="lazy"> Forbidden Light (FLI)</dd>
+  <dd><img src="/images/ces.webp" width="30" height="30" loading="lazy"> Celestial Storm (CES)</dd>
+  <dd><img src="/images/drm.webp" width="30" height="30" loading="lazy"> Dragon Majesty (DRM)</dd>
+  <dd><img src="/images/lot.webp" width="30" height="30" loading="lazy"> Lost Thunder (LOT)</dd>
+  <dd><img src="/images/teu.webp" width="30" height="30" loading="lazy"> Team Up (TEU)</dd>
+  <dd><img src="/images/det.webp" width="30" height="30" loading="lazy"> Detective Pikachu (DET)</dd>
+  <dd><img src="/images/unb.webp" width="30" height="30" loading="lazy"> Unbroken Bonds (UNB)</dd>
+  <dd><img src="/images/unm.webp" width="30" height="30" loading="lazy"> Unified Minds (UNM)</dd>
+  <dd><img src="/images/hfa.webp" width="30" height="30" loading="lazy"> Hidden Fates (HIF)</dd>
+  <dd><img src="/images/cec.webp" width="30" height="30" loading="lazy"> Cosmic Eclipse (CEC)</dd>
 </dl>
 <h4>XY Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/7f999127267a72c6.webp" width="30" height="30" loading="lazy"> Kalos Starter Set (KSS)</dd>
-  <dd><img src="/images/98190564fbbdabfc.webp" width="30" height="30" loading="lazy"> XY (XY)</dd>
-  <dd><img src="/images/69a7f2751b50ca28.webp" width="30" height="30" loading="lazy"> Flashfire (FLF)</dd>
-  <dd><img src="/images/5126b11dbbd3693d.webp" width="30" height="30" loading="lazy"> Furious Fists (FFI)</dd>
-  <dd><img src="/images/95cf564ed9273f28.webp" width="30" height="30" loading="lazy"> Phantom Forces (PHF)</dd>
-  <dd><img src="/images/d69ac2dc5e3200b9.webp" width="30" height="30" loading="lazy"> Primal Clash (PRC)</dd>
-  <dd><img src="/images/15bd8a2949d6cd88.webp" width="30" height="30" loading="lazy"> Double Crisis (DCR)</dd>
-  <dd><img src="/images/065b57da9cc98b1a.webp" width="30" height="30" loading="lazy"> Roaring Skies (ROS)</dd>
-  <dd><img src="/images/7acd3faeb92fa032.webp" width="30" height="30" loading="lazy"> Ancient Origins (AOR)</dd>
-  <dd><img src="/images/a7942708df0b20d4.webp" width="30" height="30" loading="lazy"> BREAKthrough (BKT)</dd>
-  <dd><img src="/images/8a5cc7c918546eab.webp" width="30" height="30" loading="lazy"> BREAKpoint (BKP)</dd>
-  <dd><img src="/images/c104cf8a936e8b1b.webp" width="30" height="30" loading="lazy"> Generations (GEN)</dd>
-  <dd><img src="/images/ff0c94c6874fc479.webp" width="30" height="30" loading="lazy"> Fates Collide (FCO)</dd>
-  <dd><img src="/images/e4e635fec1b7f963.webp" width="30" height="30" loading="lazy"> Steam Siege (STS)</dd>
-  <dd><img src="/images/028e88d62983894a.webp" width="30" height="30" loading="lazy"> Evolutions (EVO)</dd>
+  <dd><img src="/images/kss.webp" width="30" height="30" loading="lazy"> Kalos Starter Set (KSS)</dd>
+  <dd><img src="/images/xy.webp" width="30" height="30" loading="lazy"> XY (XY)</dd>
+  <dd><img src="/images/flf.webp" width="30" height="30" loading="lazy"> Flashfire (FLF)</dd>
+  <dd><img src="/images/ffi.webp" width="30" height="30" loading="lazy"> Furious Fists (FFI)</dd>
+  <dd><img src="/images/phf.webp" width="30" height="30" loading="lazy"> Phantom Forces (PHF)</dd>
+  <dd><img src="/images/prc.webp" width="30" height="30" loading="lazy"> Primal Clash (PRC)</dd>
+  <dd><img src="/images/dcr.webp" width="30" height="30" loading="lazy"> Double Crisis (DCR)</dd>
+  <dd><img src="/images/ros.webp" width="30" height="30" loading="lazy"> Roaring Skies (ROS)</dd>
+  <dd><img src="/images/aor.webp" width="30" height="30" loading="lazy"> Ancient Origins (AOR)</dd>
+  <dd><img src="/images/bkt.webp" width="30" height="30" loading="lazy"> BREAKthrough (BKT)</dd>
+  <dd><img src="/images/bkp.webp" width="30" height="30" loading="lazy"> BREAKpoint (BKP)</dd>
+  <dd><img src="/images/gen.webp" width="30" height="30" loading="lazy"> Generations (GEN)</dd>
+  <dd><img src="/images/fco.webp" width="30" height="30" loading="lazy"> Fates Collide (FCO)</dd>
+  <dd><img src="/images/sts.webp" width="30" height="30" loading="lazy"> Steam Siege (STS)</dd>
+  <dd><img src="/images/evo.webp" width="30" height="30" loading="lazy"> Evolutions (EVO)</dd>
 </dl>
 <h4>Black &amp; White Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/01edca2ca6440b71.webp" width="30" height="30" loading="lazy"> Black &amp; White (BLW)</dd>
-  <dd><img src="/images/c680cdef9d6b23bb.webp" width="30" height="30" loading="lazy"> Emerging Powers (EPO)</dd>
-  <dd><img src="/images/32b2fb361ee617a3.webp" width="30" height="30" loading="lazy"> Noble Victories (NVI)</dd>
-  <dd><img src="/images/d5c4531164371615.webp" width="30" height="30" loading="lazy"> Next Destinies (NXD)</dd>
-  <dd><img src="/images/fe0d145272149b44.webp" width="30" height="30" loading="lazy"> Dark Explorers (DEX)</dd>
-  <dd><img src="/images/dfdbb8adf3d333b6.webp" width="30" height="30" loading="lazy"> Dragons Exalted (DRX)</dd>
-  <dd><img src="/images/8907f0af788e4be9.webp" width="30" height="30" loading="lazy"> Dragon Vault (DRV)</dd>
-  <dd><img src="/images/f86abf39eab0729b.webp" width="30" height="30" loading="lazy"> Boundaries Crossed (BCR)</dd>
-  <dd><img src="/images/ce93780bd67e6093.webp" width="30" height="30" loading="lazy"> Plasma Storm (PLS)</dd>
-  <dd><img src="/images/fc2433f21232a6b5.webp" width="30" height="30" loading="lazy"> Plasma Freeze (PLF)</dd>
-  <dd><img src="/images/68d6231107945556.webp" width="30" height="30" loading="lazy"> Plasma Blast (PLB)</dd>
-  <dd><img src="/images/baad6e01402cddbd.webp" width="30" height="30" loading="lazy"> Legendary Treasures (LTR)</dd>
+  <dd><img src="/images/blw.webp" width="30" height="30" loading="lazy"> Black &amp; White (BLW)</dd>
+  <dd><img src="/images/epo.webp" width="30" height="30" loading="lazy"> Emerging Powers (EPO)</dd>
+  <dd><img src="/images/nvi.webp" width="30" height="30" loading="lazy"> Noble Victories (NVI)</dd>
+  <dd><img src="/images/nxd.webp" width="30" height="30" loading="lazy"> Next Destinies (NXD)</dd>
+  <dd><img src="/images/dex.webp" width="30" height="30" loading="lazy"> Dark Explorers (DEX)</dd>
+  <dd><img src="/images/drx.webp" width="30" height="30" loading="lazy"> Dragons Exalted (DRX)</dd>
+  <dd><img src="/images/drv.webp" width="30" height="30" loading="lazy"> Dragon Vault (DRV)</dd>
+  <dd><img src="/images/bcr.webp" width="30" height="30" loading="lazy"> Boundaries Crossed (BCR)</dd>
+  <dd><img src="/images/pls.webp" width="30" height="30" loading="lazy"> Plasma Storm (PLS)</dd>
+  <dd><img src="/images/plf.webp" width="30" height="30" loading="lazy"> Plasma Freeze (PLF)</dd>
+  <dd><img src="/images/plb.webp" width="30" height="30" loading="lazy"> Plasma Blast (PLB)</dd>
+  <dd><img src="/images/ltr.webp" width="30" height="30" loading="lazy"> Legendary Treasures (LTR)</dd>
 </dl>
 <br>
 </div></div><div class="jb-col-6"><div class="jb-code-container">
     <h3>For Unlimited Sets</h3>
 <h4>Diamond &amp; Pearl Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/f1acfd3f5da0a6a3.webp" width="30" height="30" loading="lazy"> Diamond &amp; Pearl (DP)</dd>
-  <dd><img src="/images/5f985f108272c5d2.webp" width="30" height="30" loading="lazy"> Mysterious Treasures (MT)</dd>
-  <dd><img src="/images/9abfaf1a3661bf8e.webp" width="30" height="30" loading="lazy"> Secret Wonders (SW)</dd>
-  <dd><img src="/images/51de12cb531fb954.webp" width="30" height="30" loading="lazy"> Great Encounters (GE)</dd>
-  <dd><img src="/images/a8c2f220d29cc991.webp" width="30" height="30" loading="lazy"> Majestic Dawn (MD)</dd>
-  <dd><img src="/images/a6ee34b8d469a427.webp" width="30" height="30" loading="lazy"> Legends Awakened (LA)</dd>
-  <dd><img src="/images/59754711a983a8a6.webp" width="30" height="30" loading="lazy"> Stormfront (SF)</dd>
-  <dd><img src="/images/1deccb64d5e64dc7.webp" width="30" height="30" loading="lazy"> Platinum (PL)</dd>
-  <dd><img src="/images/4672d9163dde1c0a.webp" width="30" height="30" loading="lazy"> Rising Rivals (RR)†</dd>
-  <dd><img src="/images/b56108aa5f5fc632.webp" width="30" height="30" loading="lazy"> Supreme Victors (SV)</dd>
-  <dd><img src="/images/f9602c6f2f6e3940.webp" width="30" height="30" loading="lazy"> Arceus (AR)</dd>
-  <dd><img src="/images/60402343680bddbd.webp" width="30" height="30" loading="lazy"> HeartGold &amp; SoulSilver (HS)</dd>
-  <dd><img src="/images/925e3e7846bbf4a2.webp" width="30" height="30" loading="lazy"> Unleashed (UL)</dd>
-  <dd><img src="/images/beb8cd3649c82158.webp" width="30" height="30" loading="lazy"> Undaunted (UD)</dd>
-  <dd><img src="/images/b250616104ac0deb.webp" width="30" height="30" loading="lazy"> Triumphant (TM)</dd>
-  <dd><img src="/images/ac532e269122a442.webp" width="30" height="30" loading="lazy"> Call of Legends (CL)</dd>
+  <dd><img src="/images/dp.webp" width="30" height="30" loading="lazy"> Diamond &amp; Pearl (DP)</dd>
+  <dd><img src="/images/mt.webp" width="30" height="30" loading="lazy"> Mysterious Treasures (MT)</dd>
+  <dd><img src="/images/sw.webp" width="30" height="30" loading="lazy"> Secret Wonders (SW)</dd>
+  <dd><img src="/images/ge.webp" width="30" height="30" loading="lazy"> Great Encounters (GE)</dd>
+  <dd><img src="/images/md.webp" width="30" height="30" loading="lazy"> Majestic Dawn (MD)</dd>
+  <dd><img src="/images/la.webp" width="30" height="30" loading="lazy"> Legends Awakened (LA)</dd>
+  <dd><img src="/images/sf.webp" width="30" height="30" loading="lazy"> Stormfront (SF)</dd>
+  <dd><img src="/images/pl.webp" width="30" height="30" loading="lazy"> Platinum (PL)</dd>
+  <dd><img src="/images/rr.webp" width="30" height="30" loading="lazy"> Rising Rivals (RR)†</dd>
+  <dd><img src="/images/sv.webp" width="30" height="30" loading="lazy"> Supreme Victors (SV)</dd>
+  <dd><img src="/images/ar.webp" width="30" height="30" loading="lazy"> Arceus (AR)</dd>
+  <dd><img src="/images/hs.webp" width="30" height="30" loading="lazy"> HeartGold &amp; SoulSilver (HS)</dd>
+  <dd><img src="/images/ul.webp" width="30" height="30" loading="lazy"> Unleashed (UL)</dd>
+  <dd><img src="/images/ud.webp" width="30" height="30" loading="lazy"> Undaunted (UD)</dd>
+  <dd><img src="/images/tm.webp" width="30" height="30" loading="lazy"> Triumphant (TM)</dd>
+  <dd><img src="/images/cl.webp" width="30" height="30" loading="lazy"> Call of Legends (CL)</dd>
 </dl>
 <h4>EX Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/2ba9a6d901ca7102.webp" width="30" height="30" loading="lazy"> EX Ruby &amp; Sapphire (RS)</dd>
-  <dd><img src="/images/3c2e2b205dd147b2.webp" width="30" height="30" loading="lazy"> EX Sandstorm (SS)</dd>
-  <dd><img src="/images/b569d648a2e1f066.webp" width="30" height="30" loading="lazy"> EX Dragon (DR)</dd>
-  <dd><img src="/images/60aeed1963e5bf40.webp" width="30" height="30" loading="lazy"> EX Team Magma vs Team Aqua (MA)</dd>
-  <dd><img src="/images/51df6cbfa02a2131.webp" width="30" height="30" loading="lazy"> EX Hidden Legends (HL)</dd>
-  <dd><img src="/images/a209c3fefa750ef4.webp" width="30" height="30" loading="lazy"> EX FireRed &amp; LeafGreen (RG)</dd>
-  <dd><img src="/images/cb53909dce9b3401.webp" width="30" height="30" loading="lazy"> EX Team Rocket Returns (TRR)†</dd>
-  <dd><img src="/images/9c67a3d8d2d84ace.webp" width="30" height="30" loading="lazy"> EX Deoxys (DX)</dd>
-  <dd><img src="/images/ade3b4d2bfe0993e.webp" width="30" height="30" loading="lazy"> EX Emerald (EM)</dd>
-  <dd><img src="/images/7f557ff675bf22ec.webp" width="30" height="30" loading="lazy"> EX Unseen Forces (UF)</dd>
-  <dd><img src="/images/edbd6e4b6c4978b4.webp" width="30" height="30" loading="lazy"> EX Delta Species (DS)</dd>
-  <dd><img src="/images/48ec637cf1f3da0c.webp" width="30" height="30" loading="lazy"> EX Legend Maker (LM)</dd>
-  <dd><img src="/images/9af5e75e21c910f7.webp" width="30" height="30" loading="lazy"> EX Holon Phantoms (HP)</dd>
-  <dd><img src="/images/74712357e5df5109.webp" width="30" height="30" loading="lazy"> EX Crystal Guardians (CG)</dd>
-  <dd><img src="/images/8a24302ea8c38be6.webp" width="30" height="30" loading="lazy"> EX Dragon Frontiers (DF)</dd>
-  <dd><img src="/images/79bc9fe7df73be4e.webp" width="30" height="30" loading="lazy"> EX Power Keepers (PK)</dd>
+  <dd><img src="/images/rs.webp" width="30" height="30" loading="lazy"> EX Ruby &amp; Sapphire (RS)</dd>
+  <dd><img src="/images/ss.webp" width="30" height="30" loading="lazy"> EX Sandstorm (SS)</dd>
+  <dd><img src="/images/dr.webp" width="30" height="30" loading="lazy"> EX Dragon (DR)</dd>
+  <dd><img src="/images/ma.webp" width="30" height="30" loading="lazy"> EX Team Magma vs Team Aqua (MA)</dd>
+  <dd><img src="/images/hl.webp" width="30" height="30" loading="lazy"> EX Hidden Legends (HL)</dd>
+  <dd><img src="/images/rg.webp" width="30" height="30" loading="lazy"> EX FireRed &amp; LeafGreen (RG)</dd>
+  <dd><img src="/images/trr.webp" width="30" height="30" loading="lazy"> EX Team Rocket Returns (TRR)†</dd>
+  <dd><img src="/images/dx.webp" width="30" height="30" loading="lazy"> EX Deoxys (DX)</dd>
+  <dd><img src="/images/em.webp" width="30" height="30" loading="lazy"> EX Emerald (EM)</dd>
+  <dd><img src="/images/uf.webp" width="30" height="30" loading="lazy"> EX Unseen Forces (UF)</dd>
+  <dd><img src="/images/ds.webp" width="30" height="30" loading="lazy"> EX Delta Species (DS)</dd>
+  <dd><img src="/images/lm.webp" width="30" height="30" loading="lazy"> EX Legend Maker (LM)</dd>
+  <dd><img src="/images/hp.webp" width="30" height="30" loading="lazy"> EX Holon Phantoms (HP)</dd>
+  <dd><img src="/images/cg.webp" width="30" height="30" loading="lazy"> EX Crystal Guardians (CG)</dd>
+  <dd><img src="/images/df.webp" width="30" height="30" loading="lazy"> EX Dragon Frontiers (DF)</dd>
+  <dd><img src="/images/pk.webp" width="30" height="30" loading="lazy"> EX Power Keepers (PK)</dd>
 </dl>
 <h4>Neo Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/a491be2f835f24be.webp" width="30" height="30" loading="lazy"> Southern Islands (SI)</dd>
-  <dd><img src="/images/c0b52731034d8cb2.webp" width="30" height="30" loading="lazy"> Neo Genesis (N1)</dd>
-  <dd><img src="/images/6ca02124dad70a3c.webp" width="30" height="30" loading="lazy"> Neo Discovery (N2)</dd>
-  <dd><img src="/images/582086941e6a00ce.webp" width="30" height="30" loading="lazy"> Neo Revelation (N3)</dd>
-  <dd><img src="/images/72c9b148b6c264f8.webp" width="30" height="30" loading="lazy"> Neo Destiny (N4)</dd>
-  <dd><img src="/images/dbef82bfd45856e8.webp" width="30" height="30" loading="lazy"> Legendary Collection (LC)</dd>
-  <dd><img src="/images/79d04c0b5e5e0fda.webp" width="30" height="30" loading="lazy"> Expedition Base Set (EX)</dd>
-  <dd><img src="/images/cf53613c0fbcd6e7.webp" width="30" height="30" loading="lazy"> Aquapolis (AQ)</dd>
-  <dd><img src="/images/90e5fbbb0bd3857d.webp" width="30" height="30" loading="lazy"> Skyridge (SK)</dd>
+  <dd><img src="/images/si.webp" width="30" height="30" loading="lazy"> Southern Islands (SI)</dd>
+  <dd><img src="/images/n1.webp" width="30" height="30" loading="lazy"> Neo Genesis (N1)</dd>
+  <dd><img src="/images/n2.webp" width="30" height="30" loading="lazy"> Neo Discovery (N2)</dd>
+  <dd><img src="/images/n3.webp" width="30" height="30" loading="lazy"> Neo Revelation (N3)</dd>
+  <dd><img src="/images/n4.webp" width="30" height="30" loading="lazy"> Neo Destiny (N4)</dd>
+  <dd><img src="/images/lc.webp" width="30" height="30" loading="lazy"> Legendary Collection (LC)</dd>
+  <dd><img src="/images/ex.webp" width="30" height="30" loading="lazy"> Expedition Base Set (EX)</dd>
+  <dd><img src="/images/aq.webp" width="30" height="30" loading="lazy"> Aquapolis (AQ)</dd>
+  <dd><img src="/images/sk.webp" width="30" height="30" loading="lazy"> Skyridge (SK)</dd>
 </dl>
 <h4>Base Set Era</h4>
 <dl class="jb-m0">
-  <dd><img src="/images/07994f251e25612b.webp" width="30" height="30" loading="lazy"> Base Set (BS)</dd>
-  <dd><img src="/images/ded61f6104c1c879.webp" width="30" height="30" loading="lazy"> Jungle (JU)</dd>
-  <dd><img src="/images/1e2790a527b444c5.webp" width="30" height="30" loading="lazy"> Fossil (FO)</dd>
-  <dd><img src="/images/0d8ad2e2e830070a.webp" width="30" height="30" loading="lazy"> Base Set 2 (B2)</dd>
-  <dd><img src="/images/336c9efee447decf.webp" width="30" height="30" loading="lazy"> Team Rocket (TR)</dd>
-  <dd><img src="/images/800a94b6f72fc1ac.webp" width="30" height="30" loading="lazy"> Gym Heroes (G1)</dd>
-  <dd><img src="/images/4aa1f254c03e29ff.webp" width="30" height="30" loading="lazy"> Gym Challenge (G2)</dd>
+  <dd><img src="/images/noset.webp" width="30" height="30" loading="lazy"> Base Set (BS)</dd>
+  <dd><img src="/images/ju.webp" width="30" height="30" loading="lazy"> Jungle (JU)</dd>
+  <dd><img src="/images/fo.webp" width="30" height="30" loading="lazy"> Fossil (FO)</dd>
+  <dd><img src="/images/b2.webp" width="30" height="30" loading="lazy"> Base Set 2 (B2)</dd>
+  <dd><img src="/images/tr.webp" width="30" height="30" loading="lazy"> Team Rocket (TR)</dd>
+  <dd><img src="/images/g1.webp" width="30" height="30" loading="lazy"> Gym Heroes (G1)</dd>
+  <dd><img src="/images/g2.webp" width="30" height="30" loading="lazy"> Gym Challenge (G2)</dd>
 </dl>
 <h4>McDonald's Collections (MCD)</h4>
 <p>Cards from McDonald's Collections are reprints of cards from other sets. Cards in the McDonald's Collections share their legality with the original printing of the card. All McDonald's Collection sets share the same abbreviation, MCD.</p>
 <dl class="jb-m0">
-  <dd><img src="/images/ba72c630aa8827c1.webp" width="30" height="30" loading="lazy"> 2011 McDonald's Collection</dd>
-  <dd><img src="/images/108346a844df2fbf.webp" width="30" height="30" loading="lazy"> 2012 McDonald's Collection</dd>
-  <dd><img src="/images/a4d98e28c10d5287.webp" width="30" height="30" loading="lazy"> 2013 McDonald's Collection</dd>
-  <dd><img src="/images/43601e4d67b88468.webp" width="30" height="30" loading="lazy"> 2014 McDonald's Collection</dd>
-  <dd><img src="/images/4f2d71516beec3fe.webp" width="30" height="30" loading="lazy"> 2015 McDonald's Collection</dd>
-  <dd><img src="/images/bc88f37c57e96ae7.webp" width="30" height="30" loading="lazy"> 2016 McDonald's Collection</dd>
-  <dd><img src="/images/b8c28e56f256d062.webp" width="30" height="30" loading="lazy"> 2017 McDonald's Collection</dd>
-  <dd><img src="/images/39abbe20e2f61eb9.webp" width="30" height="30" loading="lazy"> 2018 McDonald's Collection</dd>
-  <dd><img src="/images/0c66a5a6f3b487a1.webp" width="30" height="30" loading="lazy"> 2019 McDonald's Collection</dd>
-  <dd><img src="/images/6481bbde40b2a7eb.webp" width="30" height="30" loading="lazy"> 2021 McDonald's Collection</dd>
-  <dd><img src="/images/27e339d428365e41.webp" width="30" height="30" loading="lazy"> 2022 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2011.webp" width="30" height="30" loading="lazy"> 2011 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2012.webp" width="30" height="30" loading="lazy"> 2012 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2013.webp" width="30" height="30" loading="lazy"> 2013 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2014.webp" width="30" height="30" loading="lazy"> 2014 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2015.webp" width="30" height="30" loading="lazy"> 2015 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2016.webp" width="30" height="30" loading="lazy"> 2016 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2017.webp" width="30" height="30" loading="lazy"> 2017 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2018.webp" width="30" height="30" loading="lazy"> 2018 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2019.webp" width="30" height="30" loading="lazy"> 2019 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2021.webp" width="30" height="30" loading="lazy"> 2021 McDonald's Collection</dd>
+  <dd><img src="/images/mcd2022.webp" width="30" height="30" loading="lazy"> 2022 McDonald's Collection</dd>
 </dl>
 </div></div></div>
 

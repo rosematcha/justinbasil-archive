@@ -1,7 +1,7 @@
 ---
 title: "PokéBeach Podcast Episode 19: Busted Cards in \"Wild Force\" and \"Cyber Judge,\" Our \"Temporal Forces\" Will Be a Stacked Set!"
 description: "This week we discuss the top new cards from \"Wild Force\" and \"Cyber Judge,\" a new controversy with the Van Gogh giveaway in the Netherlands, a new Iono Premium Tournament Collection, the banning of Scoop Up Net, new Gym promos including Flamigo ex, a new Grafaiai ex Box, and more"
-ogImage: "/images/6c96bb82c6d4b6e8.webp"
+ogImage: "/images/rattata-768x432-6c96bb.webp"
 publishDate: 2024-01-19
 youtubeId: "cwG1em-Bbio"
 sourceUrl: "https://www.justinbasil.com/videos/pokbeach-podcast-episode-19-busted-cards-in-wild-force-and-cyber-judge-our-temporal-forces-will-be-a-stacked-set"
@@ -19,7 +19,7 @@ This week we discuss the top new cards from "Wild Force" and "Cyber Judge," a ne
 
 
 
-![](/images/e031e57bb7db611d.webp)
+![](/images/rattata-768x432.webp)
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Obsidian Flames Testing Part 7: Tyranitar ex vs. the World"
 description: "In our final week of Obsidian Flames testing, Tyranitar ex faces off against the world—taking on two highly competitive decks from the Standard format meta—Lost Giratina VSTAR and Single Strike Lugia VSTAR!  Will Tyranitar ex prove itself, or will it prove its only real partner is the plastic pages"
-ogImage: "/images/4d5922aca890f48e.webp"
+ogImage: "/images/tyranitar-ex-vs-the-world-4d5922.webp"
 publishDate: 2023-08-12
 youtubeId: "MRrw2zXHgd0"
 sourceUrl: "https://www.justinbasil.com/videos/obsidian-flames-testing-part-7-tyranitar-ex-vs-the-world"
@@ -30,7 +30,7 @@ Will Tyranitar ex prove itself, or will it prove its only real partner is the pl
 
 
 
-![](/images/a482751c718f6e49.webp)
+![](/images/tyranitar-ex-vs-the-world.webp)
 
 
 

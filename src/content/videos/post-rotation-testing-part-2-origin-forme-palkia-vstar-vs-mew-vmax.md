@@ -1,7 +1,7 @@
 ---
 title: "Post-Rotation Testing, Part 2: Origin Forme Palkia VSTAR vs. Mew VMAX"
 description: "With rotation looming in April, it's time to begin looking ahead to what's to come. As we prepare for rotation, we'll first look at existing archetypes that change, however slightly or dramatically, to rebuild themselves without the cards they'll be losing at rotation.    Rotation Survival Guide"
-ogImage: "/images/937d48289a7753df.webp"
+ogImage: "/images/testing-part-2-mew-vs-palkia-937d48.webp"
 publishDate: 2023-01-06
 youtubeId: "RNFmsl7LyLw"
 sourceUrl: "https://www.justinbasil.com/videos/post-rotation-testing-part-2-origin-forme-palkia-vstar-vs-mew-vmax"
@@ -31,7 +31,7 @@ With rotation looming in April, it's time to begin looking ahead to what's to co
 
 
 
-![](/images/eaa425f704c40557.webp)
+![](/images/testing-part-2-mew-vs-palkia.webp)
 
 
 

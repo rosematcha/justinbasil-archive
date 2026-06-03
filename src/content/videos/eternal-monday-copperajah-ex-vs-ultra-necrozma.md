@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Copperajah ex vs. Ultra Necrozma"
 description: "In today's Eternal Monday, it's Ultra Necrozma vs. Copperajah ex! Will Ultra Necrozma shut down any chance Copperajah ex has of victory with its highly disruptive Luster of Downfall? Or will Copperajah ex put an end to Ultra Necrozma's reign of terror?  Learn more about the Eternal format here:  jus"
-ogImage: "/images/e5380fcfe10e1a2d.webp"
+ogImage: "/images/copperajah-vs-ultra-necrozma-e5380f.webp"
 publishDate: 2023-11-06
 youtubeId: "WwqBU1hrAEo"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-copperajah-ex-vs-ultra-necrozma"
@@ -23,7 +23,7 @@ justinbasil.com/eternal
 
 
 
-![](/images/b22bc0fb73a048fe.webp)
+![](/images/copperajah-vs-ultra-necrozma.webp)
 
 
 

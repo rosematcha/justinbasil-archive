@@ -1,7 +1,7 @@
 ---
 title: "Eternal Monday: Lost Box vs. Blastoise Water Box"
 description: "In today's Eternal Monday, an Eternal format version of Lost Box looks to knock Blastoise and its entire evolution line out of the National PokéDex. Will it succeed or will Blastoise drown it first?"
-ogImage: "/images/46c9e0e074b5f35c.webp"
+ogImage: "/images/blastoise-v-lost-box-46c9e0.webp"
 publishDate: 2024-02-12
 youtubeId: "ujM27ZMRQng"
 sourceUrl: "https://www.justinbasil.com/videos/eternal-monday-lost-box-vs-blastoise-water-box"
@@ -19,7 +19,7 @@ In today's Eternal Monday, an Eternal format version of Lost Box looks to knock 
 
 
 
-![](/images/effb0f1bfc7e521b.webp)
+![](/images/blastoise-v-lost-box.webp)
 
 
 

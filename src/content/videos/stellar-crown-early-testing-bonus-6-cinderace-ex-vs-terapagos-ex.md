@@ -1,7 +1,7 @@
 ---
 title: "Stellar Crown Early Testing, Bonus 6: Cinderace ex vs. Terapagos ex"
 description: "In this week's bonus video, it's the final bonus video for the Stellar Crown testing series. Here, Cinderace ex plays soccer with a turtle--Terapagos ex!"
-ogImage: "/images/d6cbfed110938f6f.webp"
+ogImage: "/images/bonus-6-d6cbfe.webp"
 publishDate: 2024-09-04
 youtubeId: "O86XyQLlUAc"
 sourceUrl: "https://www.justinbasil.com/videos/stellar-crown-early-testing-bonus-6-cinderace-ex-vs-terapagos-ex"
@@ -19,7 +19,7 @@ In this week's bonus video, it's the final bonus video for the Stellar Crown tes
 
 
 
-![](/images/9626d9d94f0327d0.webp)
+![](/images/bonus-6-9626d9.webp)
 
 
 

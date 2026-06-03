@@ -1,7 +1,7 @@
 ---
 title: "Paradox Rift Testing, Bonus 5: Chien-Pao ex with Iron Hands ex vs. Garchomp ex"
 description: "In today's bonus video, we start Manaphy, attach, and pass for game—or do we?  It's Garchomp ex vs. Chien-Pao ex with Iron Hands ex!   Paradox Rift Coverage      Prospective Set List      Card Translations      Visual Set List      New Archetypes      Selected Proxies"
-ogImage: "/images/41e91ff29693754b.webp"
+ogImage: "/images/bonus-5-41e91f.webp"
 publishDate: 2023-10-11
 youtubeId: "ApL3_SCgTaI"
 sourceUrl: "https://www.justinbasil.com/videos/paradox-rift-testing-bonus-5-chien-pao-ex-with-iron-hands-ex-vs-garchomp-ex"
@@ -29,7 +29,7 @@ It's Garchomp ex vs. Chien-Pao ex with Iron Hands ex!
 
 
 
-![](/images/2e758637296f9fc7.webp)
+![](/images/bonus-5-2e7586.webp)
 
 
 
