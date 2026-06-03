@@ -3,6 +3,7 @@ title: "SUM-LOT"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/retro/sum-lot"
 showHeading: false
+publishDate: 2022-06-05
 ---
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1654441227686" id="page-622b4ff2d801aa29c8440cdf"><div class="jb-code-container">

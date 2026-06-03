@@ -3,6 +3,7 @@ title: "JIB Base Set V2"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/custom/jib1/new"
 showHeading: false
+publishDate: 2024-06-16
 ---
 
 

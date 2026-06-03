@@ -3,6 +3,7 @@ title: "The New Essentials (F-on)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on/essentials"
 showHeading: false
+publishDate: 2024-01-11
 ---
 
 

@@ -3,6 +3,7 @@ title: "Consistency and Setup"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/consistency"
 showHeading: false
+publishDate: 2024-06-13
 ---
 
 

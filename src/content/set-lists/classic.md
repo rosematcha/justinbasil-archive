@@ -3,6 +3,7 @@ title: "TCG Classic"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/classic"
 showHeading: false
+publishDate: 2024-01-10
 ---
 
 

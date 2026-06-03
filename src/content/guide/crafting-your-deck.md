@@ -3,6 +3,7 @@ title: "Crafting Your Deck"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/crafting-your-deck"
 showHeading: false
+publishDate: 2024-04-07
 ---
 
 <div class="jb-code-container">

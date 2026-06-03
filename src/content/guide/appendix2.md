@@ -3,6 +3,7 @@ title: "Staples and Essentials"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/appendix2"
 showHeading: false
+publishDate: 2024-10-11
 ---
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1728604987395" id="page-621cff8fd558272f87e484de"><div class="jb-code-container">

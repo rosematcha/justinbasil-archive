@@ -3,6 +3,7 @@ title: "Vivid Voltage Prospective Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss4"
 showHeading: false
+publishDate: 2020-12-15
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">

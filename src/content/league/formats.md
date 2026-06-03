@@ -3,6 +3,7 @@ title: "Alternate Formats"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/formats"
 showHeading: false
+publishDate: 2025-07-11
 ---
 
 <div class="jb-code-container">

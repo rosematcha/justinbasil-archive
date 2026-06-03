@@ -3,6 +3,7 @@ title: "Fusion Strike (FST, Pre-Rotation)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/ss8"
 showHeading: false
+publishDate: 2021-11-20
 ---
 
 <div class="jb-code-container">

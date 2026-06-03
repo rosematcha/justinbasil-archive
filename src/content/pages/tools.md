@@ -3,6 +3,7 @@ title: "Other Tools"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/tools"
 showHeading: false
+publishDate: 2024-06-24
 ---
 
 <div class="jb-code-container">

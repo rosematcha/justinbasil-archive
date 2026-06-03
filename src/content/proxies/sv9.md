@@ -3,6 +3,7 @@ title: "Selected Proxies for Journey Together"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/proxies/sv9"
 showHeading: false
+publishDate: 2025-03-15
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "Eternal Landing Page"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/eternal-landing-page"
 showHeading: false
+publishDate: 2023-10-19
 ---
 
 

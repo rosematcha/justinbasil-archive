@@ -3,6 +3,7 @@ title: "Noteworthy Losses and Retentions from BST-FST"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on/noteworthy-losses-and-retentions"
 showHeading: false
+publishDate: 2024-01-10
 ---
 
 

@@ -4,6 +4,7 @@ ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "cS41pSiVpjw"
 sourceUrl: "https://www.justinbasil.com/guide/deck-strategy"
 showHeading: false
+publishDate: 2024-06-13
 ---
 
 

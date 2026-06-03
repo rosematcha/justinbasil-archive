@@ -3,6 +3,7 @@ title: "Stellar Crown Visual Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/visual/sv7"
 showHeading: false
+publishDate: 2024-09-12
 ---
 
 <div class="jb-code-container">

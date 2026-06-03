@@ -3,6 +3,7 @@ title: "Appendix V: Pre-release Deck Building"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/appendix5"
 showHeading: false
+publishDate: 2025-05-17
 ---
 
 <div class="jb-code-container">

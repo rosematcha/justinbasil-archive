@@ -3,6 +3,7 @@ title: "Eternal Format Rulings"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/eternal-format-rulings"
 showHeading: false
+publishDate: 2024-11-04
 ---
 
 

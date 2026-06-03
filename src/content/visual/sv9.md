@@ -3,6 +3,7 @@ title: "Journey Together Visual Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/visual/sv9"
 showHeading: false
+publishDate: 2025-03-27
 ---
 
 <div class="jb-code-container">

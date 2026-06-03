@@ -4,6 +4,7 @@ ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "2v4g4XXoPe0"
 sourceUrl: "https://www.justinbasil.com/guide/limits"
 showHeading: false
+publishDate: 2024-10-08
 ---
 
 

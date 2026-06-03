@@ -3,6 +3,7 @@ title: "Table of Contents RSG 2022-2023"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on"
 showHeading: false
+publishDate: 2023-02-14
 ---
 
 <div class="jb-code-container">

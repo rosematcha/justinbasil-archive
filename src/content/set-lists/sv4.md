@@ -3,6 +3,7 @@ title: "Paradox Rift Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv4"
 showHeading: false
+publishDate: 2023-11-06
 ---
 
 <div class="jb-code-container">

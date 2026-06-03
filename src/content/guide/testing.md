@@ -3,6 +3,7 @@ title: "Testing"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/testing"
 showHeading: false
+publishDate: 2023-04-03
 ---
 
 

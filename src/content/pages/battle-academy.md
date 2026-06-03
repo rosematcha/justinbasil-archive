@@ -3,6 +3,7 @@ title: "Battle Academy Supplement Decks"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/battle-academy"
 showHeading: false
+publishDate: 2024-06-12
 ---
 
 

@@ -58,6 +58,28 @@ export function sanitize(root, doc) {
  * Extract the page's content region + metadata from a mirrored HTML file.
  * Returns { title, description, ogImage, sourcePath, html }.
  */
+/**
+ * A page's own Squarespace timestamp, as a YYYY-MM-DD string. Static pages have no
+ * published metadata, so we use the page container's `data-updated-on` (the per-page
+ * last-content-update ms timestamp). Falls back to the earliest content-block timestamp
+ * with shared site chrome (header/nav/footer) stripped, since a site-wide chrome block
+ * carries an old 2020 timestamp that would otherwise dominate every page. Returns '' if
+ * no timestamp is present. Used only as a publishDate fallback for undated pages.
+ */
+export function pageUpdatedDate(rawHtml) {
+  let ms = Number((rawHtml.match(/data-type="page"[^>]*data-updated-on="(\d+)"/) || [])[1]) || null;
+  if (!ms) {
+    const dom = new JSDOM(rawHtml);
+    const d = dom.window.document;
+    d.querySelectorAll('header, footer, nav, .Header, .Footer, .Mobile-bar').forEach((n) => n.remove());
+    const main = d.querySelector('main') || d.body;
+    const ts = [...main.innerHTML.matchAll(/data-updated-on="(\d+)"/g)].map((m) => Number(m[1])).filter(Boolean);
+    dom.window.close();
+    if (ts.length) ms = Math.min(...ts);
+  }
+  return ms ? new Date(ms).toISOString().slice(0, 10) : '';
+}
+
 export function extractPage(rawHtml, { sourcePath } = {}) {
   const dom = new JSDOM(rawHtml);
   const doc = dom.window.document;
@@ -68,11 +90,14 @@ export function extractPage(rawHtml, { sourcePath } = {}) {
   let ogImage = doc.querySelector('meta[property="og:image"]')?.content || '';
   const canonical = doc.querySelector('link[rel=canonical]')?.href || '';
 
-  // Publish date (videos/resources are blog-collection items with a date).
+  // Publish date. Blog-collection items (videos/resources) carry real published
+  // metadata; static pages (guide/set-lists/…) don't, so fall back to the page's own
+  // Squarespace timestamp (see pageUpdatedDate) for a uniform, sortable date.
   const publishDate =
     doc.querySelector('meta[property="article:published_time"]')?.content ||
     doc.querySelector('time.Blog-meta-item--date')?.getAttribute('datetime') ||
-    (rawHtml.match(/"datePublished":"([^"]+)"/) || [])[1] || '';
+    (rawHtml.match(/"datePublished":"([^"]+)"/) || [])[1] ||
+    pageUpdatedDate(rawHtml) || '';
 
   const main = doc.querySelector('main.Index') || doc.querySelector('main') || doc.querySelector('.Content-outer') || doc.querySelector('.sqs-slide-container');
   if (!main) return { title, description, ogImage, canonical, html: '' };

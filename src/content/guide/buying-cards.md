@@ -3,6 +3,7 @@ title: "Buying Cards for Your Deck"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/buying-cards"
 showHeading: false
+publishDate: 2025-07-25
 ---
 
 

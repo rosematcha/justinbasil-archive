@@ -3,6 +3,7 @@ title: "What to Play - Budget"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/budget"
 showHeading: false
+publishDate: 2025-04-19
 ---
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745075592916" id="page-5f2d5e5d2f5fde752f555509"><div class="jb-code-container">

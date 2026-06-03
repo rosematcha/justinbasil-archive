@@ -3,6 +3,7 @@ title: "The New Essentials (E-on)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on/essentials"
 showHeading: false
+publishDate: 2023-01-24
 ---
 
 

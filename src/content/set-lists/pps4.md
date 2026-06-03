@@ -3,6 +3,7 @@ title: "Prize Pack Series 4"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/pps4"
 showHeading: false
+publishDate: 2024-02-07
 ---
 
 

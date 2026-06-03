@@ -3,6 +3,7 @@ title: "Tiff"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/tiff"
 showHeading: false
+publishDate: 2025-07-05
 ---
 
 <div class="jb-row"><div class="jb-col-6">

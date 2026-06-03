@@ -3,6 +3,7 @@ title: "Prize Pack Series 6"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/pps6"
 showHeading: false
+publishDate: 2025-02-11
 ---
 
 

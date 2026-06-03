@@ -3,6 +3,7 @@ title: "Chilling Reign Prospective Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ss6"
 showHeading: false
+publishDate: 2021-09-04
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">

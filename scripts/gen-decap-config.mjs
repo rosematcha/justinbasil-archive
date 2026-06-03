@@ -24,15 +24,18 @@ const BASE = [
   ['showHeading', 'Show heading', 'boolean', 'required: false\n        default: false'],
   ['draft', 'Draft', 'boolean', 'required: false\n        default: false'],
   ['order', 'Sort order', 'number', 'required: false\n        value_type: int'],
+  // publishDate on EVERY collection — backfilled for static pages so the whole archive
+  // sorts by date. (Must be declared here or Decap drops it from frontmatter on save.)
+  ['publishDate', 'Publish date', 'datetime', "required: false\n        date_format: 'YYYY-MM-DD'\n        time_format: false\n        format: 'YYYY-MM-DD'"],
 ];
 const DATE = (n, l) => [n, l, 'datetime', "required: false\n        date_format: 'YYYY-MM-DD'\n        time_format: false\n        format: 'YYYY-MM-DD'"];
 const BODY = ['body', 'Body (raw)', 'markdown', "modes: ['raw']\n        buttons: []\n        editor_components: []"];
 
 const COLLECTIONS = [
   { name: 'resources', label: 'Resources (Site Updates)', dir: 'resources',
-    extra: [DATE('publishDate', 'Publish date'), ['category', 'Category', 'string', 'required: false'], ['excerpt', 'Excerpt', 'text', 'required: false']] },
+    extra: [['category', 'Category', 'string', 'required: false'], ['excerpt', 'Excerpt', 'text', 'required: false']] },
   { name: 'videos', label: 'Videos', dir: 'videos',
-    extra: [['youtubeId', 'YouTube video ID', 'string', 'required: false'], ['thumbnail', 'Thumbnail path', 'string', 'required: false'], DATE('publishDate', 'Publish date')] },
+    extra: [['youtubeId', 'YouTube video ID', 'string', 'required: false'], ['thumbnail', 'Thumbnail path', 'string', 'required: false']] },
   { name: 'guide', label: 'Deck Building Guide', dir: 'guide' },
   { name: 'setLists', label: 'Set Lists', dir: 'set-lists' },
   { name: 'visual', label: 'Visual Set Lists', dir: 'visual' },
@@ -61,6 +64,11 @@ function collection(c) {
     `    format: frontmatter`,
     `    create: true`,
     `    identifier_field: title`,
+    `    sortable_fields:`,
+    `      fields: [publishDate, title]`,
+    `      default:`,
+    `        field: publishDate`,
+    `        direction: descending`,
     `    fields:`,
     fields.map(field).join('\n'),
   ].join('\n');

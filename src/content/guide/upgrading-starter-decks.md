@@ -3,6 +3,7 @@ title: "Upgrading Starter Decks"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/upgrading-starter-decks"
 showHeading: false
+publishDate: 2023-04-03
 ---
 
 

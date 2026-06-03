@@ -3,6 +3,7 @@ title: "JIB Promos"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/custom/jibp"
 showHeading: false
+publishDate: 2023-05-11
 ---
 
 

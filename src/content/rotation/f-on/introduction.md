@@ -3,6 +3,7 @@ title: "Introduction - 2024 Rotation Survival Guide"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on/introduction"
 showHeading: false
+publishDate: 2024-01-10
 ---
 
 

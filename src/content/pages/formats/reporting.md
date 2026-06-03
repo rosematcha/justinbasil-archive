@@ -3,6 +3,7 @@ title: "Illegal Deck Process"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/formats/reporting"
 showHeading: false
+publishDate: 2020-12-19
 ---
 
 

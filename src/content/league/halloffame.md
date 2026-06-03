@@ -3,6 +3,7 @@ title: "Alternate Formats Hall of Fame"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/halloffame"
 showHeading: false
+publishDate: 2024-07-13
 ---
 
 <div class="jb-code-container">

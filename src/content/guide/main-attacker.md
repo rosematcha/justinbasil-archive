@@ -3,6 +3,7 @@ title: "The Main Attacker"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/main-attacker"
 showHeading: false
+publishDate: 2024-06-13
 ---
 
 <div class="jb-row"><div class="jb-col-9">

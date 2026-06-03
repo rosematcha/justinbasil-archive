@@ -3,6 +3,7 @@ title: "Net Decking"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/net-decking"
 showHeading: false
+publishDate: 2021-10-27
 ---
 
 

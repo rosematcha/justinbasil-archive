@@ -3,6 +3,7 @@ title: "Selected Proxies for Mega Evolution"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/proxies/mega1"
 showHeading: false
+publishDate: 2025-07-10
 ---
 
 <div class="jb-code-container">

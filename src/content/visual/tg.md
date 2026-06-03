@@ -3,6 +3,7 @@ title: "Trainer Galleries"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/visual/tg"
 showHeading: false
+publishDate: 2022-09-07
 ---
 
 

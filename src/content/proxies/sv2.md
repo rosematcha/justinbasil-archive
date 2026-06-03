@@ -3,6 +3,7 @@ title: "Selected Proxies for Paldea Evolved"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/proxies/sv2"
 showHeading: false
+publishDate: 2023-06-08
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "What to Play - Eternal"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/meta/eternal"
 showHeading: false
+publishDate: 2025-07-13
 ---
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1752436126298" id="page-652a2d5a09b95258bb456c42">

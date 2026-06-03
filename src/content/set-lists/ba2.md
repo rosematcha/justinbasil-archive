@@ -3,6 +3,7 @@ title: "Battle Academy 2"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/ba2"
 showHeading: false
+publishDate: 2021-11-11
 ---
 
 <div class="jb-code-container">

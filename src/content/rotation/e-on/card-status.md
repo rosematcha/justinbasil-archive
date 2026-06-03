@@ -3,6 +3,7 @@ title: "2023 Rotation Card Status (SSH-SHF)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on/card-status"
 showHeading: false
+publishDate: 2023-07-09
 ---
 
 

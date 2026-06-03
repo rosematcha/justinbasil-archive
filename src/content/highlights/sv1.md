@@ -3,6 +3,7 @@ title: "Highlights from Scarlet & Violet"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/sv1"
 showHeading: false
+publishDate: 2023-03-30
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "External Resources"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/external"
 showHeading: false
+publishDate: 2023-07-20
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "Table of Contents"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide"
 showHeading: false
+publishDate: 2025-07-25
 ---
 
 <div class="jb-code-container">

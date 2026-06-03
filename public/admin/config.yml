@@ -21,6 +21,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -85,6 +90,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -121,6 +131,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: youtubeId
         label: 'YouTube video ID'
         widget: string
@@ -129,13 +146,6 @@ collections:
         label: 'Thumbnail path'
         widget: string
         required: false
-      - name: publishDate
-        label: 'Publish date'
-        widget: datetime
-        required: false
-        date_format: 'YYYY-MM-DD'
-        time_format: false
-        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -149,6 +159,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -185,6 +200,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -198,6 +220,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -234,6 +261,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -247,6 +281,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -283,6 +322,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -296,6 +342,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -332,6 +383,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -345,6 +403,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -381,6 +444,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -394,6 +464,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -430,6 +505,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -443,6 +525,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -479,6 +566,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -492,6 +586,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -528,6 +627,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -541,6 +647,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -577,6 +688,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown
@@ -590,6 +708,11 @@ collections:
     format: frontmatter
     create: true
     identifier_field: title
+    sortable_fields:
+      fields: [publishDate, title]
+      default:
+        field: publishDate
+        direction: descending
     fields:
       - name: title
         label: 'Title'
@@ -626,6 +749,13 @@ collections:
         widget: number
         required: false
         value_type: int
+      - name: publishDate
+        label: 'Publish date'
+        widget: datetime
+        required: false
+        date_format: 'YYYY-MM-DD'
+        time_format: false
+        format: 'YYYY-MM-DD'
       - name: body
         label: 'Body (raw)'
         widget: markdown

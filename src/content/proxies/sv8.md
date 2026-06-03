@@ -3,6 +3,7 @@ title: "Selected Proxies for Surging Sparks"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/proxies/sv8"
 showHeading: false
+publishDate: 2024-09-15
 ---
 
 <div class="jb-row"><div class="jb-col-12"><div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "Appendix I: Set Symbols and Abbreviations"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/appendix1"
 showHeading: false
+publishDate: 2024-10-08
 ---
 
 <div class="jb-code-container">

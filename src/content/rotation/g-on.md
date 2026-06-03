@@ -3,6 +3,7 @@ title: "Table of Contents (2025)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/g-on"
 showHeading: false
+publishDate: 2025-03-18
 ---
 
 <div class="jb-code-container">

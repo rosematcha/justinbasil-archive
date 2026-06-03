@@ -3,6 +3,7 @@ title: "Highlights from Brilliant Stars"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss9"
 showHeading: false
+publishDate: 2022-06-19
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "Selected Proxies for Twilight Masquerade"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/proxies/sv6"
 showHeading: false
+publishDate: 2024-05-23
 ---
 
 <div class="jb-code-container">

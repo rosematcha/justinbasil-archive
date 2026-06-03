@@ -3,6 +3,7 @@ title: "Highlights from Fusion Strike"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss8"
 showHeading: false
+publishDate: 2021-11-10
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">

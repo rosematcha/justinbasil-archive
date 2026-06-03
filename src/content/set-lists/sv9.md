@@ -3,6 +3,7 @@ title: "Journey Together Prospective Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv9"
 showHeading: false
+publishDate: 2025-03-31
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "Getting to Know the Cards"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/knowing-the-cards"
 showHeading: false
+publishDate: 2024-06-13
 ---
 
 

@@ -3,6 +3,7 @@ title: "What to Play - Standard Meta"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/meta"
 showHeading: false
+publishDate: 2025-07-21
 ---
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1753066745507" id="page-5ee785cf7801861dd675359d">

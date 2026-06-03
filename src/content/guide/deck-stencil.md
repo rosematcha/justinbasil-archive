@@ -3,6 +3,7 @@ title: "A Deck Stencil - Standard"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/deck-stencil"
 showHeading: false
+publishDate: 2025-07-25
 ---
 
 <div class="jb-code-container">

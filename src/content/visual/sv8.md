@@ -3,6 +3,7 @@ title: "Surging Sparks Visual Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/visual/sv8"
 showHeading: false
+publishDate: 2024-10-14
 ---
 
 <div class="jb-code-container">

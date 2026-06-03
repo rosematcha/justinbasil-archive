@@ -3,6 +3,7 @@ title: "Mega Evolution Visual Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/visual/mega1"
 showHeading: false
+publishDate: 2025-07-25
 ---
 
 <div class="jb-code-container">

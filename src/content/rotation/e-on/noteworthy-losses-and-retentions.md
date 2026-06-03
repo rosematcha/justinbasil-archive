@@ -3,6 +3,7 @@ title: "Noteworthy Losses and Retentions from SSH-SHF"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on/noteworthy-losses-and-retentions"
 showHeading: false
+publishDate: 2023-01-13
 ---
 
 

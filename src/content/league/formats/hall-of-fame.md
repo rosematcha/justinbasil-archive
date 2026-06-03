@@ -3,6 +3,7 @@ title: "Hall of Fame Format"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/formats/hall-of-fame"
 showHeading: false
+publishDate: 2020-12-12
 ---
 
 

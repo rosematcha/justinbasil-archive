@@ -3,6 +3,7 @@ title: "Proxies"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/guide/proxies"
 showHeading: false
+publishDate: 2023-02-07
 ---
 
 <div class="jb-code-container">

@@ -3,6 +3,7 @@ title: "Deck Building"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/deck-building"
 showHeading: false
+publishDate: 2024-04-02
 ---
 
 <div class="jb-code-container">

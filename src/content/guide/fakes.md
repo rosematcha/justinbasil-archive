@@ -4,6 +4,7 @@ ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "PmpyWGcQwvk"
 sourceUrl: "https://www.justinbasil.com/guide/fakes"
 showHeading: false
+publishDate: 2023-07-20
 ---
 
 

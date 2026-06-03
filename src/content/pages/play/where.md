@@ -3,6 +3,7 @@ title: "Where to Play"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/play/where"
 showHeading: false
+publishDate: 2022-06-04
 ---
 
 <div class="jb-code-container">

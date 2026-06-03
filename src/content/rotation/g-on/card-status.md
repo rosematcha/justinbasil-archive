@@ -3,6 +3,7 @@ title: "2025 Rotation Card Status (BRS-CRZ)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/g-on/card-status"
 showHeading: false
+publishDate: 2024-12-15
 ---
 
 

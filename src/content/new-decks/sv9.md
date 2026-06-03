@@ -4,6 +4,7 @@ ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "lmsnf6w0izc"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv9"
 showHeading: false
+publishDate: 2025-03-31
 ---
 
 <div class="jb-code-container">

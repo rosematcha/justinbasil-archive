@@ -4,6 +4,7 @@ ogImage: "/images/logo-v3-1-icon-only.webp"
 youtubeId: "-R8zKvL6-e8"
 sourceUrl: "https://www.justinbasil.com/new-decks/sv6"
 showHeading: false
+publishDate: 2024-05-24
 ---
 
 <div class="jb-code-container">

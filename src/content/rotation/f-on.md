@@ -3,6 +3,7 @@ title: "Table of Contents - 2024 Rotation Survival Guide"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/f-on"
 showHeading: false
+publishDate: 2024-03-12
 ---
 
 <div class="jb-code-container">

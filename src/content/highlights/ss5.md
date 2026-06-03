@@ -3,6 +3,7 @@ title: "Highlights from Battle Styles"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/highlights/ss5"
 showHeading: false
+publishDate: 2021-05-03
 ---
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">

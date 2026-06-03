@@ -3,6 +3,7 @@ title: "About"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/about"
 showHeading: false
+publishDate: 2025-07-16
 ---
 
 

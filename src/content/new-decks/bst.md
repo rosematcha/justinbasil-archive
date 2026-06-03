@@ -3,6 +3,7 @@ title: "Battle Styles (BST)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/bst"
 showHeading: false
+publishDate: 2021-05-22
 ---
 
 <div class="jb-code-container">

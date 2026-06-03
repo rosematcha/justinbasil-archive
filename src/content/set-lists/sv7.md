@@ -3,6 +3,7 @@ title: "Stellar Crown Prospective Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/set-lists/sv7"
 showHeading: false
+publishDate: 2024-10-08
 ---
 
 <div class="jb-code-container">

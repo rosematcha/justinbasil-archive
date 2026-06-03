@@ -3,6 +3,7 @@ title: "Scarlet & Violet Visual Set List"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/visual/sv1"
 showHeading: false
+publishDate: 2023-04-03
 ---
 
 <div class="jb-code-container">

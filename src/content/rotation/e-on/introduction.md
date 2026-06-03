@@ -3,6 +3,7 @@ title: "Introduction RSG 2022-2023"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/rotation/e-on/introduction"
 showHeading: false
+publishDate: 2022-12-12
 ---
 
 

@@ -3,6 +3,7 @@ title: "Legal Trainers in the Theme Pool Format"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/league/formats/theme-pool"
 showHeading: false
+publishDate: 2025-06-02
 ---
 
 

@@ -3,6 +3,7 @@ title: "Vivid Voltage (VIV)"
 ogImage: "/images/logo-v3-1-icon-only.webp"
 sourceUrl: "https://www.justinbasil.com/new-decks/viv"
 showHeading: false
+publishDate: 2020-11-21
 ---
 
 
