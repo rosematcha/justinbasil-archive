@@ -12,7 +12,7 @@ showHeading: false
 In an effort to help maintain a healthy and enjoyable Theme Pool format, the cards below have been added to the format’s ban list. These bans go into effect immediately and will be in place for the Theme Pool format tournament taking place on February 19th, 2021.
 
 <div class="jb-code-container">
-    <span style="color:red;">UPDATE: Sableye DEX 62 has also been banned in the Theme Pool and Unova formats following its ban in the Expanded format.</span>
+    <span class="jb-red">UPDATE: Sableye DEX 62 has also been banned in the Theme Pool and Unova formats following its ban in the Expanded format.</span>
 </div><div class="jb-row"><div class="jb-col-4">
 
 ![Sableye DEX 62](/images/2c20fc8fa696b292.webp)

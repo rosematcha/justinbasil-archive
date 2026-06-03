@@ -15,14 +15,14 @@ showHeading: false
 </p>
   </div>
 </div><div class="jb-code-container">
-<div class="outer" style="width:calc(100%); justify-content: center; display: flex; flex-direction: row;">
-      <div class="inner nest" style="box-sizing: border-box; padding: 20px; margin: 5px; width:calc(50% - 10px); background-color:#50afd6; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; justify-content: space-evenly; align-items: center; display: flex; flex-direction: row;">
-<div class="inner" style="text-align: center; vertical-align:middle;">
-        <img class="img" style="max-height:150px; max-width:200px; margin-top: auto; margin-bottom: auto;" src="/images/6bef79f5501329e8.webp" loading="lazy"></div>
-    <div class="inner" style="background-color:#eee5e9; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; padding:15px; height:100%;">
+<div class="outer jb-flex-center-full">
+      <div class="inner nest jb-grid-card jb-grid-card-flex" style="width:calc(50% - 10px);background-color:#50afd6">
+<div class="inner jb-center-vmid">
+        <img class="img jb-thumb-150-200" src="/images/6bef79f5501329e8.webp" loading="lazy"></div>
+    <div class="inner jb-info-card" style="background-color:#eee5e9">
         <h1 class="jb-center-mb0">Chilling Reign</h1>
-        <p style="text-align:center; margin-top:20px; margin-bottom: 25px;">Click a page below to learn more about our June set.</p>
-<div style="text-align:center; font-size: 25px;">
+        <p class="jb-center-mt20-mb25">Click a page below to learn more about our June set.</p>
+<div class="jb-center-25">
     <p><a href="/set-lists/ss6" class="jlink">Set List</a></p>
     <p><a href="/highlights/ss6" class="jlink">Set Highlights</a></p>
     <p><a href="/new-decks/ss6" class="jlink">New Archetypes</a></p>
@@ -31,30 +31,30 @@ showHeading: false
 </div>
 </div>
 </div><div class="jb-code-container">
-<div class="outer" style="width:calc(100%); justify-content: center; display: flex; flex-direction: row;">
-    <div class="inner" style="box-sizing: border-box; padding: 20px; margin: 5px; width:calc(33% - 10px); background-color:#8fb1e8; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+<div class="outer jb-flex-center-full">
+    <div class="inner jb-grid-card" style="width:calc(33% - 10px);background-color:#8fb1e8">
       <a href="/new-decks/bst"><h1 class="jb-center-mb0">Battle Styles</h1>
       <p class="jb-center-mt20">
      Review deck lists for archetypes new to Battle Styles prepared before the set's release.
     </p>
         <div class="jb-center">
-          <img style="max-height:200px;" src="/images/7e5a928a526bce37.webp" loading="lazy"></div></a>
+          <img src="/images/7e5a928a526bce37.webp" loading="lazy" class="jb-mh200"></div></a>
     </div>
-    <div class="inner" style="box-sizing: border-box; padding: 20px; margin: 5px; width:calc(34% - 10px); background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+    <div class="inner jb-grid-card" style="width:calc(34% - 10px);background-color:#b1e88f">
       <a href="/new-decks/viv"><h1 class="jb-center-mb0">Vivid Voltage</h1>
       <p class="jb-center-mt20">
      Review deck lists for archetypes new to Vivid Voltage prepared before the set's release. 
     </p>
         <div class="jb-center">
-          <img style="max-height:200px;" src="/images/dff80c3159015bdc.webp" loading="lazy"></div></a>
+          <img src="/images/dff80c3159015bdc.webp" loading="lazy" class="jb-mh200"></div></a>
     </div>
-      <div class="inner" style="box-sizing: border-box; padding: 20px; margin: 5px; width:calc(33% - 10px); background-color:#dee78f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+      <div class="inner jb-grid-card" style="width:calc(33% - 10px);background-color:#dee78f">
       <a href="/rotation/teu-on/archetypes-to-consider"><h1 class="jb-center-mb0">Darkness Ablaze</h1>
         <p class="jb-center-mt20">
     Review deck lists for archetypes new to Darkness Ablaze prepared before the 2020-2021 rotation and the set's release.
     </p>
 <div class="jb-center">
-        <img style="max-height:200px;" src="/images/1f87b8c3e1381965.webp" loading="lazy"></div></a>
+        <img src="/images/1f87b8c3e1381965.webp" loading="lazy" class="jb-mh200"></div></a>
       </div> 
 </div>
 </div><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">

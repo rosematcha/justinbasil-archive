@@ -7,7 +7,7 @@ showHeading: false
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1728604987395" id="page-621cff8fd558272f87e484de"><div class="jb-code-container">
     &nbsp;<p class="jb-h-19">Appendix II
-</p><h1 style="text-align:center; padding-bottom:0px; margin:0px;">Noteworthy Cards</h1>
+</p><h1 class="jb-center-pb0-m0">Noteworthy Cards</h1>
 <h2 class="jb-center-top0">In the Standard format</h2>
 <h3 class="jb-center-top0">2024 (F Regulation Onward)</h3>
 </div>

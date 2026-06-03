@@ -337,6 +337,58 @@ const STYLE_TO_UTIL_CLASS = [
   { match: 'text-align:center;margin-top:0px;', klass: 'jb-center-mt0' },
   { match: 'text-align:center;margin-bottom:0px;', klass: 'jb-center-mb0-2' },
   { match: 'padding:8px;', klass: 'jb-p8' },
+  // Small single-rule colour/size tail.
+  { match: 'color:#da6d6d;', klass: 'jb-c-da6d6d' },
+  { match: 'color:darkblue;', klass: 'jb-darkblue' },
+  { match: 'color:lightblue;', klass: 'jb-lightblue' },
+  { match: 'color:red;', klass: 'jb-red' },
+  { match: 'font-size:10px;', klass: 'jb-fs10' },
+  { match: 'font-size:8px;', klass: 'jb-fs8' },
+  { match: 'font-weight:600;', klass: 'jb-fw600' },
+  { match: 'max-height:200px;', klass: 'jb-mh200' },
+  { match: 'max-height:165px;', klass: 'jb-mh165' },
+  { match: 'background-color:#000;color:#fff;font-weight:bold;', klass: 'jb-blackchip' },
+  { match: 'background-color:#f2f2f2;padding:10px;', klass: 'jb-greybox' },
+  { match: 'background-color:#f2f2f2;', klass: 'jb-greybg' },
+  { match: 'font-size:8px;text-align:center;', klass: 'jb-fs8-center' },
+  { match: 'text-align:center;font-size:20px;margin-bottom:1;', klass: 'jb-center-20' },
+  { match: 'color:#fff;font-variant:small-caps;text-align:center;margin:0px;', klass: 'jb-smallcaps-center' },
+  { match: 'color:#fff;text-align:center;margin-top:15px;margin-bottom:0px;', klass: 'jb-white-center-mt15' },
+  { match: 'margin-top:15px;vertical-align:middle;margin-left:auto;margin-right:auto;display:block;', klass: 'jb-icon-center-mt15' },
+  { match: 'border-width:1px;border-style:solid;margin:10px;', klass: 'jb-bordered-box' },
+  { match: 'padding:5px;background-color:#000;color:#fff;font-weight:bold;', klass: 'jb-blackchip-p5' },
+  { match: 'text-align:center;padding:0;margin:5px;', klass: 'jb-center-p0-m5' },
+  { match: 'justify-content:center;display:flex;flex-direction:row;', klass: 'jb-flex-center' },
+  { match: 'width:calc(100%);justify-content:center;display:flex;flex-direction:row;', klass: 'jb-flex-center-full' },
+  { match: 'text-align:left;margin-left:0px;padding-left:0px;', klass: 'jb-left-flush' },
+  { match: 'box-sizing:border-box;padding:10px;margin:0px;background-color:#eee;border:1pxsolid;border-color:#e3e3e3#cecece#b4b4b4#d6d6d6;box-shadow:02px2px0rgb(000/16%),0001pxrgb(000/8%);border-radius:4px;', klass: 'jb-flat-card' },
+  { match: 'border:0;width:320px;text-align:center;margin:auto;', klass: 'jb-w320-auto' },
+  { match: 'border-spacing:5px;padding:5px;text-align:center;margin-left:auto;margin-right:auto;', klass: 'jb-table-center' },
+  { match: 'padding-left:5px!important;padding-right:5px;width:64px;', klass: 'jb-p5x-w64' },
+  { match: 'text-align:center;margin-top:0px;margin-bottom:20px;', klass: 'jb-center-mb20' },
+  { match: 'text-align:center;padding-bottom:0px;margin-bottom:0px;', klass: 'jb-center-pb0-mb0' },
+  { match: 'text-align:center;padding-bottom:0px;margin:0px;', klass: 'jb-center-pb0-m0' },
+  { match: 'padding-bottom:0px;margin-bottom:0px;text-align:center;', klass: 'jb-center-pb0-mb0' },
+  { match: 'padding-top:0px;margin-top:0px;text-align:center;', klass: 'jb-center-pt0-mt0' },
+  { match: 'padding-bottom:0px;margin-bottom:0px;margin-top:3px;', klass: 'jb-pb0-mb0-mt3' },
+  { match: 'text-align:center;margin-top:20px;margin-bottom:25px;', klass: 'jb-center-mt20-mb25' },
+  { match: 'text-align:center;font-size:25px;', klass: 'jb-center-25' },
+  { match: 'font-size:16px;font-weight:bold;text-transform:uppercase;text-align:center;', klass: 'jb-th-center' },
+  { match: 'font-size:19px;font-weight:bold;text-transform:uppercase;text-align:center;margin-top:5px;', klass: 'jb-h19-center-mt5' },
+  { match: 'font-size:16px;', klass: 'jb-fs16' },
+  { match: 'margin-top:10px;margin-bottom:10px;', klass: 'jb-my10' },
+  { match: 'margin-left:5px;', klass: 'jb-ml5' },
+  { match: 'text-align:center;vertical-align:middle;', klass: 'jb-center-vmid' },
+  { match: 'max-height:150px;max-width:200px;margin-top:auto;margin-bottom:auto;', klass: 'jb-thumb-150-200' },
+  { match: 'background-color:#7f7f7f;padding:5px;', klass: 'jb-greychip' },
+  { match: 'text-align:center;border:1pxsolidblack;padding:10px;margin-left:auto;margin-right:auto;', klass: 'jb-center-bordered' },
+  { match: 'padding-left:5px;padding-right:5px!important;width:64px;', klass: 'jb-p5x-w64b' },
+  { match: 'padding-right:5px;padding-left:5px!important;', klass: 'jb-p5x' },
+  { match: 'width:64px;padding-left:5px!important;padding-right:5px;', klass: 'jb-p5x-w64c' },
+  { match: 'padding-left:5px;padding-right:5px!important;', klass: 'jb-p5x' },
+  { match: 'margin-left:auto;margin-right:auto;', klass: 'jb-mx-auto' },
+  { match: 'font-size:15px;text-align:justify;margin-bottom:0px;padding-top:0px;margin-top:8px;line-height:1.5;margin-left:20px;margin-right:20px;', klass: 'jb-deckbox-body-justify' },
+  { match: 'max-width:600px;background-color:#ddd;margin-left:auto;margin-right:auto;text-align:center;padding:8px;', klass: 'jb-greybanner' },
 ];
 function promoteUtilityStyles(root) {
   root.querySelectorAll('[style]').forEach((el) => {
@@ -348,6 +400,168 @@ function promoteUtilityStyles(root) {
       const cls = (el.getAttribute('class') || '').split(/\s+/).filter(Boolean);
       if (!cls.includes(rule.klass)) cls.push(rule.klass);
       el.setAttribute('class', cls.join(' '));
+      return;
+    }
+  });
+}
+
+function addClass(el, klass) {
+  const cls = (el.getAttribute('class') || '').split(/\s+/).filter(Boolean);
+  if (!cls.includes(klass)) cls.push(klass);
+  el.setAttribute('class', cls.join(' '));
+}
+
+// Parse `background-image:url(/images/xxx.webp)` out of a normalized-or-raw style value.
+function extractBgImage(raw) {
+  const m = raw.match(/background-image\s*:\s*url\(\s*([^)]*?)\s*\)/i);
+  if (!m) return null;
+  const u = m[1].replace(/^['"]|['"]$/g, '').trim();
+  return u || null;
+}
+function extractBgPosition(raw) {
+  const m = raw.match(/background-position\s*:\s*([a-z]+)/i);
+  return m ? m[1].toLowerCase() : null;
+}
+
+// Background-image "cards" (set-list header cards, rotation tiles) have no Markdown form
+// and per the PROMPT-2 Images guidance stay as minimal HTML with a semantic class whose
+// STATIC styling lives entirely in CSS. The only genuinely per-instance value is the
+// card's own `background-image` URL (and occasionally a non-default background-position).
+// We strip everything else to a `.jb-set-card` / `.jb-rotation-card` class and keep only
+// that one unavoidable declaration inline (the documented card exception).
+function convertBgCards(root) {
+  root.querySelectorAll('[style]').forEach((el) => {
+    const raw = (el.getAttribute('style') || '').trim();
+    const norm = raw.replace(/\s+/g, '').toLowerCase();
+    // The dark set-list header card: margin:10px; ... color:#ffffff; background-color:#111;
+    if (norm.includes('background-color:#111;') &&
+        norm.includes('box-shadow:02px2px') && norm.startsWith('margin:10px;')) {
+      const url = extractBgImage(raw);
+      const pos = extractBgPosition(raw);
+      el.removeAttribute('style');
+      addClass(el, 'jb-set-card');
+      if (pos && pos !== 'center') addClass(el, 'jb-bgpos-' + pos);
+      if (url) el.setAttribute('style', `background-image:url(${url})`);
+      return;
+    }
+    // The rotation grid tiles: background-image:url(...); ... width:calc(100% - 10px);
+    // height:200px; background-color:#b1e88f|#444; (cover/contain) + border + shadow.
+    if (norm.includes('box-sizing:border-box;') && norm.includes('height:200px;') &&
+        norm.includes('box-shadow:02px2px') && extractBgImage(raw)) {
+      const url = extractBgImage(raw);
+      const pos = extractBgPosition(raw);
+      const contain = /background-size\s*:\s*contain/i.test(raw);
+      const darkBg = /background-color\s*:\s*#444/i.test(raw);
+      el.removeAttribute('style');
+      addClass(el, 'jb-rotation-card');
+      if (contain) addClass(el, 'jb-bgsize-contain');
+      if (darkBg) addClass(el, 'jb-rotation-card-dark');
+      if (pos && pos !== 'center') addClass(el, 'jb-bgpos-' + pos);
+      if (url) el.setAttribute('style', `background-image:url(${url})`);
+      return;
+    }
+    // Format "chips" (set/format tags): border:2px; border-color:XXX; background-color:#XXX;
+    // color:#fff; font-weight:bold; padding-left/right:5px; float:left; margins. Uniform
+    // structure with per-format brand colours — strip to `.jb-fmt-chip` + keep only the two
+    // instance colours inline.
+    if (norm.includes('float:left;') && norm.includes('color:#fff;font-weight:bold;') &&
+        norm.includes('padding-left:5px;padding-right:5px;') && norm.startsWith('border:2px;')) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      const bc = (raw.match(/border-color\s*:\s*([^;]+)/i) || [])[1];
+      el.removeAttribute('style');
+      addClass(el, 'jb-fmt-chip');
+      const decls = [];
+      if (bg) decls.push(`background-color:${bg.trim()}`);
+      if (bc) decls.push(`border-color:${bc.trim()}`);
+      if (decls.length) el.setAttribute('style', decls.join(';'));
+      return;
+    }
+    // Season "boxes" (centered CTA banners): background-color:#XXX; font-weight:bold;
+    // text-align:center; border:5px solid #XXX; color:#fff; — uniform but per-season colours.
+    if (/^background-color:[^;]+;font-weight:bold;text-align:center;border:5pxsolid#?[0-9a-f]{3,6};color:#(fff|000);$/.test(norm)) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      const bd = (raw.match(/border\s*:\s*(5px[^;]+)/i) || [])[1];
+      const fg = (raw.match(/(?:^|;)\s*color\s*:\s*([^;]+)/i) || [])[1];
+      el.removeAttribute('style');
+      addClass(el, 'jb-season-box');
+      const decls = [];
+      if (bg) decls.push(`background-color:${bg.trim()}`);
+      if (bd) decls.push(`border:${bd.trim()}`);
+      if (fg) decls.push(`color:${fg.trim()}`);
+      if (decls.length) el.setAttribute('style', decls.join(';'));
+      return;
+    }
+    // Centered CTA banner variant: margin-left/right:auto; [max-width:Npx;]
+    // background-color:#XXX; padding:10px; text-align:center; border:5px solid #XXX;
+    // color:#XXX; [border-radius:15px;]. Uniform layout, per-instance colours (+ optional
+    // max-width).
+    if (/^margin-left:auto;margin-right:auto;(max-width:\d+px;)?background-color:[^;]+;padding:10px;text-align:center;border:5pxsolid#?[0-9a-f]{3,6};color:#(fff|000);(border-radius:15px;)?$/.test(norm)) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      const bd = (raw.match(/border\s*:\s*(5px[^;]+)/i) || [])[1];
+      const fg = (raw.match(/(?:;)\s*color\s*:\s*([^;]+)/i) || [])[1];
+      const mw = (raw.match(/max-width\s*:\s*([^;]+)/i) || [])[1];
+      const round = /border-radius/i.test(raw);
+      el.removeAttribute('style');
+      addClass(el, 'jb-cta-banner');
+      if (round) addClass(el, 'jb-round15');
+      const decls = [];
+      if (mw) decls.push(`max-width:${mw.trim()}`);
+      if (bg) decls.push(`background-color:${bg.trim()}`);
+      if (bd) decls.push(`border:${bd.trim()}`);
+      if (fg) decls.push(`color:${fg.trim()}`);
+      if (decls.length) el.setAttribute('style', decls.join(';'));
+      return;
+    }
+    // Centered bold banner: background-color:#XXX; text-align:center; padding:5px;
+    // font-weight:800;
+    if (/^background-color:[^;]+;text-align:center;padding:5px;font-weight:800;$/.test(norm)) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      el.removeAttribute('style');
+      addClass(el, 'jb-center-p5-800');
+      if (bg) el.setAttribute('style', `background-color:${bg.trim()}`);
+      return;
+    }
+    // "Info grid" cards (the /get + landing-page layouts): box-sizing:border-box;
+    // padding:20px; margin:5px; width:calc(N%-10px); background-color:#XXX; border + shadow
+    // + radius [+ optional flex row]. Uniform card frame; per-card width + bg colour inline.
+    if (norm.includes('box-sizing:border-box;') && /width:calc\(\d+%-10px\)/.test(norm) &&
+        norm.includes('box-shadow:02px2px') && norm.includes('background-color:')) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      const w = (raw.match(/width\s*:\s*(calc\([^)]+\))/i) || [])[1];
+      const flex = /display\s*:\s*flex/i.test(raw);
+      el.removeAttribute('style');
+      addClass(el, 'jb-grid-card');
+      if (flex) addClass(el, 'jb-grid-card-flex');
+      const decls = [];
+      if (w) decls.push(`width:${w.trim()}`);
+      if (bg) decls.push(`background-color:${bg.trim()}`);
+      if (decls.length) el.setAttribute('style', decls.join(';'));
+      return;
+    }
+    // Flat info card without width/image: background-color:#XXX; border + shadow + radius;
+    // padding:15px; height:100%;
+    if (/^background-color:[^;]+;border:1pxsolid;border-color:#e3e3e3#cecece#b4b4b4#d6d6d6;box-shadow:02px2px0rgb\(000\/16%\),0001pxrgb\(000\/8%\);border-radius:4px;padding:15px;height:100%;$/.test(norm)) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      el.removeAttribute('style');
+      addClass(el, 'jb-info-card');
+      if (bg) el.setAttribute('style', `background-color:${bg.trim()}`);
+      return;
+    }
+    // Colored header cells: font-weight:bold; background-color:#XXX; color:white;
+    // padding:8px; text-align:center; — uniform but per-instance background colour.
+    if (/^font-weight:bold;background-color:[^;]+;color:white;padding:8px;text-align:center;$/.test(norm)) {
+      const bg = (raw.match(/background-color\s*:\s*([^;]+)/i) || [])[1];
+      el.removeAttribute('style');
+      addClass(el, 'jb-th-cell');
+      if (bg) el.setAttribute('style', `background-color:${bg.trim()}`);
+      return;
+    }
+    // The clickable rotation "button" tile (no image): background-color:#f7f7f7;
+    // cursor:pointer; border:1px solid; border-color:...; margin:5px;
+    if (norm.startsWith('background-color:#f7f7f7;') &&
+        norm.includes('border-color:#e3e3e3#cecece#b4b4b4#d6d6d6;')) {
+      el.removeAttribute('style');
+      addClass(el, norm.includes('cursor:pointer') ? 'jb-tile-button' : 'jb-tile');
       return;
     }
   });
@@ -956,6 +1170,7 @@ export function beautify(root) {
   stripJlinkSpanStyles(root);
   stripDeckBoxStyles(root);
   tagDecklistSections(root);
+  convertBgCards(root);
   promoteUtilityStyles(root);
   imgDimensionsToAttrs(root);
   root.querySelectorAll('.sqs-html-content').forEach((el) => tryConvertProse(el));

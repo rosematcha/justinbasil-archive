@@ -6,7 +6,7 @@ showHeading: false
 ---
 
 <div class="jb-code-container">
-    <h1 style="text-align:center; padding-bottom:0px; margin-bottom:0px;">
+    <h1 class="jb-center-pb0-mb0">
   Hall of Fame
 </h1>
 <h2 class="jb-center-top0">

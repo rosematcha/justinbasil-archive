@@ -12,8 +12,8 @@ showHeading: false
 <p class="jb-center">The Eternal format is an unofficial alternate format for the Pokémon Trading Card Game. In the Eternal format, cards as far back as the original Base Set, first printed in English in 1999, are legal. You can learn more about the Eternal format at the links below.</p>
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/meta/eternal" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/63fa5db676a9d1a2.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/meta/eternal" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/63fa5db676a9d1a2.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Deck Lists</h1>
@@ -23,8 +23,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/league/formats#eternal" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/aeebb6557ef7ab41.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/league/formats#eternal" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/aeebb6557ef7ab41.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Ban List and Rules</h1>
@@ -34,8 +34,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/rotation/f-on/essentials" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/1f12e44096e57da4.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/rotation/f-on/essentials" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/1f12e44096e57da4.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Essential Cards</h1>
@@ -45,8 +45,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/eternal-format-rulings" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/b3ae0ed94822b022.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/eternal-format-rulings" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/b3ae0ed94822b022.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Key Rulings</h1>

@@ -16,7 +16,7 @@ This new guide features an all new structure to make it easier to follow and mor
 A handful of pages in the guide are not yet complete, but the guide in its current state is now more useful than the previous, out-of-date version of the guide. Please be patient as the remainder of the guide is completed!
 
 <div class="jb-code-container">
-    <a href="/guide/teu-on"><div id="hiddenfates" style="margin-left:auto; margin-right:auto; background-color:#4cb84b; padding: 10px; text-align:center; border: 5px solid #2d6429; color: #fff; border-radius:15px;">
+    <a href="/guide/teu-on"><div id="hiddenfates" class="jb-cta-banner jb-round15" style="background-color:#4cb84b;border:5px solid #2d6429;color:#fff">
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Visit the New Guide</span>

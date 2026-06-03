@@ -7,17 +7,17 @@ showHeading: false
 
 <div class="jb-code-container">
     <div class="jb-center">
-<p style="margin-top:10px; margin-bottom:10px;">
+<p class="jb-my10">
   Get started by selecting one of the Pokémon Trading Card Game resources below.
 </p>
   </div>
 </div><div class="jb-code-container">
-    <a href="https://store.justinbasil.com"><div style="background-color: #89b84b; text-align:center; padding:5px; font-weight:800;">
+    <a href="https://store.justinbasil.com"><div class="jb-center-p5-800" style="background-color:#89b84b">
   JustInBasil merchandise is now available! Gear up with shirts, stickers, hoodies, and more to show your support!
 </div></a>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/play/" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/a545cb17119cd4f5.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/play/" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/a545cb17119cd4f5.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">What to Play</h1>
@@ -27,8 +27,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/new/" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/476cd3a997b6f2e7.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/new/" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/476cd3a997b6f2e7.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">What's Next</h1>
@@ -38,8 +38,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/rotation/g-on/" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/f543a1c9e3c670aa.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/rotation/g-on/" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/f543a1c9e3c670aa.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Rotation</h1>
@@ -49,8 +49,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/deck-building/" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/62eca5604e0ceca6.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/deck-building/" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/62eca5604e0ceca6.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Deck Building</h1>
@@ -60,8 +60,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/tools/" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/c995025f1660fd7b.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/tools/" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/c995025f1660fd7b.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Other Tools</h1>
@@ -71,8 +71,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/about/" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/102c55d593b1cd76.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/about/" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/102c55d593b1cd76.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">About JustInBasil</h1>

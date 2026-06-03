@@ -14,7 +14,7 @@ showHeading: false
 Before your very first tests, it’s a good idea to give the deck one last look over to make sure there’s nothing critical that’s been forgotten. The Functional Deck Checklist is a very basic checklist, but it’s a fast way to ensure that you’ve included the basic components of a functioning deck.
 
 <div class="jb-code-container">
-    <div style="margin-left:auto; margin-right:auto; max-width:750px; background-color:#eec7ec; padding: 10px; text-align:center; border: 5px solid #64295f; color: #000;">
+    <div class="jb-cta-banner" style="max-width:750px;background-color:#eec7ec;border:5px solid #64295f;color:#000">
   <div class="jb-p5">
      <span class="jb-25-bold-upper">Functional Deck Checklist</span>
 <br>

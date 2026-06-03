@@ -15,8 +15,8 @@ showHeading: false
 </p>
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/6ce82ec369e679ef.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#3c6396; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/6ce82ec369e679ef.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">News and Information</h1>
@@ -32,8 +32,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/144145957f1fa376.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#436343; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/144145957f1fa376.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Competitive Information</h1>
@@ -49,8 +49,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/d8a4dc82443c5944.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#683f99; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/d8a4dc82443c5944.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Deck Builders</h1>
@@ -64,8 +64,8 @@ showHeading: false
       </div>
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/68a3e25f11111c3d.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#e6aab1; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/68a3e25f11111c3d.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Japanese Deck Lists</h1>
@@ -80,8 +80,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/835296412baefedc.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#a8c3e3; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/835296412baefedc.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Card Databases</h1>
@@ -95,8 +95,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/a613e86ad019be85.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#23518c; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/a613e86ad019be85.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Miscellaneous Resources</h1>

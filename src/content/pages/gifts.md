@@ -47,7 +47,7 @@ showHeading: false
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
   </div>
@@ -86,7 +86,7 @@ Battle Decks sell for $10-15.
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
   </div>
@@ -127,10 +127,10 @@ Pokémon Battle Academy sells for about $25.
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
-  <div style="border:2px; border-color:293464; background-color: #4b66b8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+  <div class="jb-fmt-chip" style="background-color:#4b66b8;border-color:293464">
   Seasoned Players
 </div>
   </div>
@@ -167,13 +167,13 @@ League Battle decks sell for about $30.
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
-      <div style="border:2px; border-color:642929; background-color: #b84b4b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+      <div class="jb-fmt-chip" style="background-color:#b84b4b;border-color:642929">
   Everyone
 </div>
   </div>
@@ -218,7 +218,7 @@ Elite Trainer Boxes range in price from $50-60. See the list of ideal sets from 
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
   </div>
@@ -458,16 +458,16 @@ The Trainer’s Toolkit sells for about $35.
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
-  <div style="border:2px; border-color:293464; background-color: #4b66b8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+  <div class="jb-fmt-chip" style="background-color:#4b66b8;border-color:293464">
   Seasoned Players
 </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
-      <div style="border:2px; border-color:642929; background-color: #b84b4b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+      <div class="jb-fmt-chip" style="background-color:#b84b4b;border-color:642929">
   Everyone
 </div>
   </div>
@@ -528,10 +528,10 @@ Booster packs and single-pack blister packs sell for $4-5, three-pack blister pa
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
-  <div style="border:2px; border-color:293464; background-color: #4b66b8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+  <div class="jb-fmt-chip" style="background-color:#4b66b8;border-color:293464">
   Seasoned Players
 </div>
   </div>
@@ -567,7 +567,7 @@ Quality deck sleeves sell for $10-15 for a set of 80 to 100 sleeves.
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
   </div>
@@ -615,10 +615,10 @@ And for deck boxes with space for more than one deck:
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
   </div>
@@ -653,10 +653,10 @@ A quality trading card binder typically sells for $30-50.
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-<div style="border:2px; border-color:2d6429; background-color: #4cb84b; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+<div class="jb-fmt-chip" style="background-color:#4cb84b;border-color:2d6429">
   Aspiring Players
 </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
   </div>
@@ -688,10 +688,10 @@ Perfect fits also tend to be rather inexpensive at $3-5 per pack of a hundred. I
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-  <div style="border:2px; border-color:293464; background-color: #4b66b8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+  <div class="jb-fmt-chip" style="background-color:#4b66b8;border-color:293464">
   Seasoned Players
 </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
   </div>
@@ -722,7 +722,7 @@ If the particular card shop your recipient would buy from doesn't offer a gift c
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
   </div>
@@ -766,7 +766,7 @@ Tins vary in price from about $10 for the mini tins to about $30 for the tins fe
     <div class="jb-ib-10">
 <div class="jb-fl-padded">
   Ideal for:   </div>
-    <div style="border:2px; border-color:372964; background-color: #694bb8; color:#fff; font-weight:bold; padding-left:5px; padding-right:5px; float:left; margin-right:2px; margin-bottom:2px;">
+    <div class="jb-fmt-chip" style="background-color:#694bb8;border-color:372964">
   Collectors
 </div>
   </div>

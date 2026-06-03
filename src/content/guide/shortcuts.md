@@ -14,7 +14,7 @@ As a new deck builder, the process of building a deck from scratch can be overwh
 Select one of the deck building shortcuts below to learn more about it.
 
 <div class="jb-row"><div class="jb-col-6"><div class="jb-code-container">
-    <a href="/guide/deck-stencil"><div id="hiddenfates" style="margin-left:auto; margin-right:auto; background-color:#4b66b8; padding: 10px; text-align:center; border: 5px solid #293464; color: #fff; border-radius:15px;">
+    <a href="/guide/deck-stencil"><div id="hiddenfates" class="jb-cta-banner jb-round15" style="background-color:#4b66b8;border:5px solid #293464;color:#fff">
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Using a Deck Stencil</span>
@@ -23,7 +23,7 @@ Select one of the deck building shortcuts below to learn more about it.
   </div>
 </div></a>
 </div></div><div class="jb-col-6"><div class="jb-code-container">
-    <a href="/guide/net-decking"><div id="hiddenfates" style="margin-left:auto; margin-right:auto; background-color:#b84b4b; padding: 10px; text-align:center; border: 5px solid #642929; color: #fff; border-radius:15px;">
+    <a href="/guide/net-decking"><div id="hiddenfates" class="jb-cta-banner jb-round15" style="background-color:#b84b4b;border:5px solid #642929;color:#fff">
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Net Decking</span>

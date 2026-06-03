@@ -116,8 +116,8 @@ Stadium cards change the field of battle. These cards are often double-edged swo
 
 <div class="jb-code-container">
     <div class="note_box">
-  <h3 style="padding-bottom:0px; margin-bottom:0px; margin-top: 3px;">Notice</h3>
-  <p style="font-size: 15px; text-align:justify; margin-bottom:0px; padding-top:0px; margin-top:8px; line-height:1.5; margin-left:20px; margin-right:20px;">Older Pokémon Tool cards often have the word "Item" written on them as they were previously considered Item cards. However, following <a class="jlink" href="https://www.pokemon.com/us/pokemon-news/2023-pokemon-tcg-standard-format-rotation-and-pokemon-tool-errata">an errata announced with the release of Scarlet &amp; Violet base set</a>, all previously-printed Pokémon Tool cards are longer considered Item cards.</p>
+  <h3 class="jb-pb0-mb0-mt3">Notice</h3>
+  <p class="jb-deckbox-body-justify">Older Pokémon Tool cards often have the word "Item" written on them as they were previously considered Item cards. However, following <a class="jlink" href="https://www.pokemon.com/us/pokemon-news/2023-pokemon-tcg-standard-format-rotation-and-pokemon-tool-errata">an errata announced with the release of Scarlet &amp; Violet base set</a>, all previously-printed Pokémon Tool cards are longer considered Item cards.</p>
 </div>
 </div>
 

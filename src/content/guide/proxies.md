@@ -9,7 +9,7 @@ showHeading: false
     <h1 class="jb-center-mb0-2">
   Proxies
 </h1>
-<p style="font-size: 19px; font-weight: bold; text-transform: uppercase; text-align: center; margin-top:5px;">What They Are and How to Use Them
+<p class="jb-h19-center-mt5">What They Are and How to Use Them
 </p></div>
 
 ### What are proxy cards?

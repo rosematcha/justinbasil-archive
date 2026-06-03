@@ -12,8 +12,8 @@ showHeading: false
 New players often ask the following question: “Which booster packs should I buy to get the cards I need to make a good deck?” The only correct answer to this question is <em>none.</em> You can buy packs all day and not get what you're after. You’ll save a lot of money buy simply buying the cards you need for your deck as **Singles**—individual cards instead of sealed Pokémon Trading Card Game merchandise—from your local card shop or from a trusted seller online. The best options for buying singles vary by region, and many of these options are listed below. In the United States, TCGplayer is the most popular choice for picking up singles.
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="border-width:1px; border-style:solid; margin:10px;">
-  <div style="font-weight:bold; background-color:#b84b4b; color: white; padding:8px; text-align:center;">
+    <div class="jb-bordered-box">
+  <div class="jb-th-cell" style="background-color:#b84b4b">
     North America
   </div>
   <div class="jb-p8">
@@ -25,8 +25,8 @@ New players often ask the following question: “Which booster packs should I bu
   </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="border-width:1px; border-style:solid; margin:10px;">
-  <div style="font-weight:bold; background-color:#4bb891; color: white; padding:8px; text-align:center;">
+    <div class="jb-bordered-box">
+  <div class="jb-th-cell" style="background-color:#4bb891">
     Europe
   </div>
   <div class="jb-p8">
@@ -37,8 +37,8 @@ New players often ask the following question: “Which booster packs should I bu
   </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="border-width:1px; border-style:solid; margin:10px;">
-  <div style="font-weight:bold; background-color:#694bb8; color: white; padding:8px; text-align:center;">
+    <div class="jb-bordered-box">
+  <div class="jb-th-cell" style="background-color:#694bb8">
     Australia &amp; New Zealand
   </div>
   <div class="jb-p8">
@@ -60,7 +60,7 @@ In addition to the marketplaces and vendors listed above, eBay is also always an
 When looking for specific cards on eBay, it can be helpful to copy the text in the box below and paste it after the name and set name of whatever card you are looking for. Adding in the string of words below will help to eliminate many of the less-helpful results when searching for cards on eBay.
 
 <div class="jb-code-container">
-    <div style="max-width:600px; background-color:#ddd; margin-left:auto; margin-right:auto; text-align:center; padding:8px;">
+    <div class="jb-greybanner">
 -World -Championship -Online -China -Digital -Code -Jumbo -Oversized  
 </div>
 </div>
@@ -72,13 +72,13 @@ In addition to the places above, there are Facebook groups with a focus on buyin
 More general Facebook groups like [Virbank City Pokémart](https://www.facebook.com/groups/VCpokemart) offer further places to pick up the cards you need from other players of the Pokémon Trading Card Game. Most sellers will ship the cards you’ve purchased in an plain white envelope, commonly referred to as a **PWE**. Typically, sellers will protect cards using a Card Saver, a Toploader, or by sandwiching the cards between two pieces of cardboard, but how well the card is protected will vary by the seller.
 
 <div class="jb-code-container">
-    <div style="margin-left:auto; margin-right:auto; background-color:#444; padding: 10px; text-align:center; border: 5px solid #000; color: #fff;">
+    <div class="jb-cta-banner" style="background-color:#444;border:5px solid #000;color:#fff">
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">A Note on PayPal</span>
     </p><p>
       Oftentimes, an online seller will expect to be paid for cards you purchase through Paypal. Paypal offers two different ways of sending money to others for transactions like these—Friends and Family and Goods and Services. <em>Never</em> use the Friends and Family option for any purchase that isn't being made in person, like when meeting up with another member of your local Pokémon League. </p>
-    <p><em>Always</em> use the Goods and Services option when trading with others online. There is a small fee associated with using the Goods and Services option that should be paid by the seller, but may not necessarily be. You can use <a href="https://salecalc.com/paypal" style="color:lightblue;">this fee calculator</a> to calculate the fee associated with using the Goods and Services option, which ensures you're protected by <a href="https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security" style="color:lightblue;">PayPal's Purchase Protection Policy</a>.</p>
+    <p><em>Always</em> use the Goods and Services option when trading with others online. There is a small fee associated with using the Goods and Services option that should be paid by the seller, but may not necessarily be. You can use <a href="https://salecalc.com/paypal" class="jb-lightblue">this fee calculator</a> to calculate the fee associated with using the Goods and Services option, which ensures you're protected by <a href="https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security" class="jb-lightblue">PayPal's Purchase Protection Policy</a>.</p>
   </div>
 </div>
 </div>

@@ -52,7 +52,7 @@ Many players will intuitively learn the four basic deck strategies as they play 
 The link below summarizes the four basic strategies employed in a deck—Aggression, Control, Mill, and Stall. It’s important to be familiar with each of these strategies as we build our deck. If a particular deck strategy is popular where we intend to play the deck we’re building, we’ll need to take it into account as we build our own deck so that our own strategy is able to succeed.
 
 <div class="jb-code-container">
-    <a href="/guide/deck-strategy"><div style="background-color:#89b84b; font-weight:bold; text-align:center; border: 5px solid #476429; color: #fff;">
+    <a href="/guide/deck-strategy"><div class="jb-season-box" style="background-color:#89b84b;border:5px solid #476429;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Deck Strategy</span>
@@ -80,7 +80,7 @@ How a deck is structured greatly impacts how well a deck works to execute its st
 Review the article on deck structure to better understand how the different types of cards work together in a deck and how they come together to form the deck’s skeleton.
 
 <div class="jb-code-container">
-    <a href="/guide/deck-structure"><div style="background-color:#39a15f; font-weight:bold; text-align:center; border: 5px solid #1e5532; color: #fff;">
+    <a href="/guide/deck-structure"><div class="jb-season-box" style="background-color:#39a15f;border:5px solid #1e5532;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Deck Structure</span>
@@ -108,7 +108,7 @@ A deck is built around its Main Attacker. The **Main Attacker** is the Pokémon 
 The link below will help you understand what it takes for a Pokémon to be a great Main Attacker in a deck and will help you to choose a Pokémon that can take on the role of Main Attacker in your deck.
 
 <div class="jb-code-container">
-    <a href="/guide/main-attacker"><div style="background-color:#44a69a; font-weight:bold; text-align:center; border: 5px solid #255a53; color: #fff;">
+    <a href="/guide/main-attacker"><div class="jb-season-box" style="background-color:#44a69a;border:5px solid #255a53;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Main Attacker</span>
@@ -254,7 +254,7 @@ Although in a format with Level Ball Lairon CRZ 88 could be a compelling option,
 Although not every deck includes one, Secondary Attackers are often critical parts of a functioning deck. A **Secondary Attacker** often fills in for the roles where the main attacker is either inadequate or even detrimental to the success of the deck’s strategy.
 
 <div class="jb-code-container">
-    <a href="/guide/secondary-attackers"><div style="background-color:#b88f4b; font-weight:bold; text-align:center; border: 5px solid #644e29; color: #fff;">
+    <a href="/guide/secondary-attackers"><div class="jb-season-box" style="background-color:#b88f4b;border:5px solid #644e29;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Secondary Attackers</span>
@@ -370,7 +370,7 @@ A deck’s **Draw Engine** consists of the resources it uses to draw into more c
 However, there are other options available to a deck builder that, in conjunction with a deck’s draw Supporters, help draw cards to more consistently find the cards the deck needs to win, like item cards and Pokémon with special abilities. Pokémon with these draw abilities—and other Pokémon included in a deck for reasons other than their ability to take prize cards with their attacks, are often referred to as **Utility Pokémon** or **Support Pokémon**.
 
 <div class="jb-code-container">
-    <a href="/guide/draw"><div style="background-color:#b84bb6; font-weight:bold; text-align:center; border: 5px solid #64295f; color: #fff;">
+    <a href="/guide/draw"><div class="jb-season-box" style="background-color:#b84bb6;border:5px solid #64295f;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Draw Cards</span>
@@ -603,7 +603,7 @@ Now let’s update our deck list to include the Oranguru and Crobat V. Additiona
 The cards used to find the Pokémon in a deck are often as important as the Pokémon themselves. These **Pokémon Search** cards make a deck less reliant on drawing into a specific Pokémon and ensure that a deck is able to locate and bring out Pokémon crucial to executing its strategy. These search cards are also sometimes called **Ball Cards** or **Ball Search** because they are frequently (although not always) representative of some variety of Poké Ball from the video games.
 
 <div class="jb-code-container">
-    <a href="/guide/search"><div style="background-color:#4b66b8; font-weight:bold; text-align:center; border: 5px solid #293464; color: #fff;">
+    <a href="/guide/search"><div class="jb-season-box" style="background-color:#4b66b8;border:5px solid #293464;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Pokémon Search</span>
@@ -731,7 +731,7 @@ Now, let’s add our selected Pokémon search options to our deck list.
 Decks need **Gusting**—the ability to selectively switch an opponent’s Active Pokémon with one of their Benched Pokémon, effectively allowing a player to choose which of their opponent’s Pokémon they will knock out. Decks often run a handful of support or utility Pokémon that take up residence on a player’s bench, and these Pokémon, and damaged Pokémon an opponent has moved to their bench to save them from being knocked out are ideal targets for a gusting card.
 
 <div class="jb-code-container">
-    <a href="/guide/gusting"><div style="background-color:#b8794b; font-weight:bold; text-align:center; border: 5px solid #643829; color: #fff;">
+    <a href="/guide/gusting"><div class="jb-season-box" style="background-color:#b8794b;border:5px solid #643829;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Gusting and Repulsion</span>
@@ -868,7 +868,7 @@ Energy is a critical component of a deck. Having the right energy at the right t
 However, because Energy cards are not the only important cards in our deck, we need to strike a balance between having enough energy and having too much. For many decks, the average of 11 Energy cards is a good number to start with.
 
 <div class="jb-code-container">
-    <a href="/guide/energy"><div style="background-color:#694bb8; font-weight:bold; text-align:center; border: 5px solid #372964; color: #fff;">
+    <a href="/guide/energy"><div class="jb-season-box" style="background-color:#694bb8;border:5px solid #372964;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Energy and Energy Acceleration</span>
@@ -1003,7 +1003,7 @@ Now, let’s add the 10 Basic Metal Energy and the two copies of Giant Hearth to
 **Consistency** cards are those that dig a little deeper into the deck to find specific cards and **Setup** cards are cards that are used specifically to find critical pieces in a deck. Consistency and Setup cards differ from draw cards in that their main purpose is to dig for or search out a specific card or type of card, where as draw cards simply draw their user additional cards with the hope that the needed card will be drawn into.
 
 <div class="jb-code-container">
-    <a href="/guide/consistency"><div style="background-color:#4cb84b; font-weight:bold; text-align:center; border: 5px solid #2d6429; color: #fff;">
+    <a href="/guide/consistency"><div class="jb-season-box" style="background-color:#4cb84b;border:5px solid #2d6429;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Consistency and Setup</span>
@@ -1125,7 +1125,7 @@ Now that we’ve added Rare Candy and reduced the number of Charmeleon in our de
     </ul>
   </div></td></tr>
       <tr bgcolor="#000;">
-        <td class="jb-th-white">Total Cards - <span style="color:#da6d6d;">63</span></td>
+        <td class="jb-th-white">Total Cards - <span class="jb-c-da6d6d">63</span></td>
   </tr>
 </tbody></table>
 </div>
@@ -1142,7 +1142,7 @@ Now that we’ve added Rare Candy and reduced the number of Charmeleon in our de
 **Switching Cards** and **Pivot Tools** are both means of making it easier to move your Active Pokémon to the bench so that one of your benched Pokémon can become your new Active Pokémon. Switching cards directly affect the Pokémon through an effect that causes the switching effect and Pivot Tools are Pokémon Tool cards that reduce or remove a Pokémon’s Retreat Cost so that it can retreat either for free or for less than it normally would. Both types of cards make it easier to ensure that you have the right Pokémon in the right place when you need them there. **Prize Denial** cards either directly remove a potential source of prize cards from play or directly reduce the number of prizes your opponent takes when they knock out one of your Pokémon. Often, these Prize Denial cards act as a pseudo-switching card.
 
 <div class="jb-code-container">
-    <a href="/guide/switching"><div style="background-color:#b7b84b; font-weight:bold; text-align:center; border: 5px solid #636429; color: #fff;">
+    <a href="/guide/switching"><div class="jb-season-box" style="background-color:#b7b84b;border:5px solid #636429;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Switching and Prize Denial</span>
@@ -1255,7 +1255,7 @@ Let’s add Rescue Board to our deck list.
     </ul>
   </div></td></tr>
       <tr bgcolor="#000;">
-        <td class="jb-th-white">Total Cards - <span style="color:#da6d6d;">64</span></td>
+        <td class="jb-th-white">Total Cards - <span class="jb-c-da6d6d">64</span></td>
   </tr>
 </tbody></table>
 </div>
@@ -1272,7 +1272,7 @@ Let’s add Rescue Board to our deck list.
 **Recovery** cards are those that help you recycle resources—either by returning discarded resources to your hand or by shuffling them back into your deck. These cards often make it possible to thin down the number of specific cards we need to include to keep our deck in fighting shape throughout the entire course of a game and make it possible to reuse discarded resources in place of resources that have ended up in the prize cards. Similarly, **Rebound** cards are cards that help our deck recover from getting behind—especially after a Pokémon has been knocked out.
 
 <div class="jb-code-container">
-    <a href="/guide/recovery"><div style="background-color:#5a4bb8; font-weight:bold; text-align:center; border: 5px solid #372964; color: #fff;">
+    <a href="/guide/recovery"><div class="jb-season-box" style="background-color:#5a4bb8;border:5px solid #372964;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Recovery and Rebound</span>
@@ -1386,7 +1386,7 @@ With Fire Crystal and Ordinary Rod added to our deck list, we’re one step clos
     </ul>
   </div></td></tr>
       <tr bgcolor="#000;">
-        <td class="jb-th-white">Total Cards - <span style="color:#da6d6d;">66</span></td>
+        <td class="jb-th-white">Total Cards - <span class="jb-c-da6d6d">66</span></td>
   </tr>
 </tbody></table>
 </div>
@@ -1403,7 +1403,7 @@ With Fire Crystal and Ordinary Rod added to our deck list, we’re one step clos
 **Disruption** cards are those that slow down your opponent’s path to victory by removing their resources, locking their resources, or by manipulating their resources in such a way that makes them difficult or even impossible to access. Disruption cards are often a critical inclusion for decks that need a little extra time to setup as they can be critical for slowing down an opponent’s speedy deck to give your own somewhat-slower deck a fighting chance.
 
 <div class="jb-code-container">
-    <a href="/guide/disruption"><div style="background-color:#b84b4b; font-weight:bold; text-align:center; border: 5px solid #642929; color: #fff;">
+    <a href="/guide/disruption"><div class="jb-season-box" style="background-color:#b84b4b;border:5px solid #642929;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Disruption</span>
@@ -1461,7 +1461,7 @@ As we haven’t made any changes to our deck list after reviewing our Disruption
 **Damage Control** cards are those that interact directly with the damage dealt by your Pokémon or with the damage on your Pokémon, including **Damage Augmentation** cards that add damage to your Pokémon’s attacks or otherwise augment the damage on your opponent’s Pokémon, **Damage Reduction** and **Weakness Removal** cards that help to mitigate damage, and **Walling** cards that, through some form of immunity, prevent your opponent from damaging your Pokémon.
 
 <div class="jb-code-container">
-    <a href="/guide/damage"><div style="background-color:#b8b8b8; font-weight:bold; text-align:center; border: 5px solid #646464; color: #fff;">
+    <a href="/guide/damage"><div class="jb-season-box" style="background-color:#b8b8b8;border:5px solid #646464;color:#fff">
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Damage Control</span>
@@ -1578,7 +1578,7 @@ Once we’ve added our additions here to our deck list, it’ll be time to move 
     </ul>
   </div></td></tr>
       <tr bgcolor="#000;">
-        <td class="jb-th-white">Total Cards - <span style="color:#da6d6d;">76</span></td>
+        <td class="jb-th-white">Total Cards - <span class="jb-c-da6d6d">76</span></td>
   </tr>
 </tbody></table>
 </div>
@@ -1597,12 +1597,12 @@ As you work on putting your deck together, it’s likely that, like our own Char
 Go through each of the steps in the *Cutting Cards* box below.
 
 <div class="jb-code-container">
-    <div style="margin-left:auto; margin-right:auto; max-width:750px; background-color:#dffefd; padding: 10px; text-align:center; border: 5px solid #96aaad; color: #000;">
+    <div class="jb-cta-banner" style="max-width:750px;background-color:#dffefd;border:5px solid #96aaad;color:#000">
   <div class="jb-p5">
      <span class="jb-25-bold-upper">Cutting Cards</span>
 <br>
       <ul>
-        <li>Revisit the article on <a style="color:darkblue;" href="/guide/deck-structure">Deck Structure</a>. If your deck's skeleton differs significantly from the general deck skeleton, cut cards that have moved your deck list away from it.</li>
+        <li>Revisit the article on <a href="/guide/deck-structure" class="jb-darkblue">Deck Structure</a>. If your deck's skeleton differs significantly from the general deck skeleton, cut cards that have moved your deck list away from it.</li>
         <li>Consider thinning your lines of Pokémon.</li> 
           <ul>
             <li>In a Stage 2 deck, cut to include just one or even no copies of the Stage 1 Pokémon.</li>

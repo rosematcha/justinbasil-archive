@@ -111,7 +111,7 @@ Below are a few common examples of Pokémon lines for Main Attackers, based on t
       4 copies of the Basic Pokémon<br>
       0-2 copies of the Stage 1 Pokémon<br>
       3-4 copies of the Stage 2 Pokémon<br>
-      4 copies of <a href="https://limitlesstcg.com/cards/ssh/180/" style="color:darkblue;" target="_blank">Rare Candy</a>
+      4 copies of <a href="https://limitlesstcg.com/cards/ssh/180/" target="_blank" class="jb-darkblue">Rare Candy</a>
       </p></td>
   </tr>
 </tbody></table>
@@ -141,8 +141,8 @@ Pokémon lines are a critical consideration when deciding whether a Pokémon is 
     <div id="mobileup" class="jb-center">
   <a href="#">Back to Top</a>
 </div>
-<h2 id="deck-roles" style="text-align:center; font-size:20px; margin-bottom:1;">Standard-Legal Pokémon by Type</h2>
-<table style="border: 0; width:320px; text-align:center; margin: auto;">
+<h2 id="deck-roles" class="jb-center-20">Standard-Legal Pokémon by Type</h2>
+<table class="jb-w320-auto">
   <tbody><tr class="jb-th">
     <td bgcolor="#9ed89e"><span class="jb-symbol-18-n">G</span> Grass
     </td>

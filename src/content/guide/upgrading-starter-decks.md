@@ -107,7 +107,7 @@ Now that we've chosen all of our attackers, we can thicken up their lines. As ou
       4 copies of the Basic Pokémon<br>
       0-2 copies of the Stage 1 Pokémon<br>
       3-4 copies of the Stage 2 Pokémon<br>
-      4 copies of <a href="https://limitlesstcg.com/cards/ssh/180/" style="color:darkblue;" target="_blank">Rare Candy</a>
+      4 copies of <a href="https://limitlesstcg.com/cards/ssh/180/" target="_blank" class="jb-darkblue">Rare Candy</a>
       </p></td>
   </tr>
 </tbody></table>
@@ -215,7 +215,7 @@ Once our deck is exactly 60 cards and lines up relatively well with the general 
     <div id="mobileup" class="jb-center">
   <a href="#">Back to Top</a>
 </div>
-<h2 id="deck-roles" style="text-align:center; font-size:20px; margin-bottom:1;">Roles of a Card in a Deck</h2>
+<h2 id="deck-roles" class="jb-center-20">Roles of a Card in a Deck</h2>
 <table width="320px" class="jb-center-block">
   <tbody><tr bgcolor="#9ed8c3">
     <td class="jb-th"><a href="/guide/teu-on/main-attacker">Main Attacker</a></td>

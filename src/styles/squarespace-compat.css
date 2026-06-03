@@ -271,6 +271,211 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 .jb-center-mb0-2 { text-align: center; margin-bottom: 0; }
 .jb-p8 { padding: 8px; }
 
+/* ---- Small colour/size/box utility tail (Round 2) ---- */
+.jb-c-da6d6d { color: #da6d6d; }
+.jb-darkblue { color: darkblue; }
+.jb-lightblue { color: lightblue; }
+.jb-red { color: red; }
+.jb-fs10 { font-size: 10px; }
+.jb-fs8 { font-size: 8px; }
+.jb-fs8-center { font-size: 8px; text-align: center; }
+.jb-fw600 { font-weight: 600; }
+.jb-mh200 { max-height: 200px; }
+.jb-mh165 { max-height: 165px; }
+.jb-blackchip { background-color: #000; color: #fff; font-weight: bold; }
+.jb-blackchip-p5 { padding: 5px; background-color: #000; color: #fff; font-weight: bold; }
+.jb-greybox { background-color: #f2f2f2; padding: 10px; }
+.jb-greybg { background-color: #f2f2f2; }
+.jb-center-20 { text-align: center; font-size: 20px; margin-bottom: 1px; }
+.jb-smallcaps-center { color: #fff; font-variant: small-caps; text-align: center; margin: 0; }
+.jb-white-center-mt15 { color: #fff; text-align: center; margin-top: 15px; margin-bottom: 0; }
+.jb-icon-center-mt15 {
+  margin-top: 15px;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.jb-bordered-box { border-width: 1px; border-style: solid; margin: 10px; }
+.jb-center-p0-m5 { text-align: center; padding: 0; margin: 5px; }
+.jb-flex-center { justify-content: center; display: flex; flex-direction: row; }
+.jb-flex-center-full { width: 100%; justify-content: center; display: flex; flex-direction: row; }
+.jb-left-flush { text-align: left; margin-left: 0; padding-left: 0; }
+.jb-flat-card {
+  box-sizing: border-box;
+  padding: 10px;
+  margin: 0;
+  background-color: #eee;
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+}
+.jb-w320-auto { border: 0; width: 320px; text-align: center; margin: auto; }
+.jb-table-center {
+  border-spacing: 5px;
+  padding: 5px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jb-p5x-w64 { padding-left: 5px !important; padding-right: 5px; width: 64px; }
+
+/* ---- Background-image "cards" (Round 2) ----
+   Set-list header card + rotation grid tiles. All STATIC styling lives here; only the
+   per-instance `background-image:url(...)` (and an occasional non-center position) stays
+   inline, since CSS has no per-element url() form. */
+.jb-set-card {
+  margin: 10px;
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  color: #ffffff;
+  background-color: #111;
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+}
+.jb-rotation-card {
+  background-size: cover;
+  box-sizing: border-box;
+  margin: 5px;
+  width: calc(100% - 10px);
+  height: 200px;
+  background-color: #b1e88f;
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+  background-position: center;
+}
+.jb-rotation-card-dark { background-color: #444; }
+.jb-bgsize-contain { background-size: contain; }
+.jb-bgpos-top { background-position: top; }
+.jb-bgpos-bottom { background-position: bottom; }
+.jb-tile {
+  background-color: #f7f7f7;
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  margin: 5px;
+}
+.jb-tile-button {
+  background-color: #f7f7f7;
+  cursor: pointer;
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  margin: 5px;
+}
+/* Format "chips" + season "boxes": uniform structure here; the per-format / per-season
+   brand colours (background/border/text) are the only instance-specific values and stay
+   inline, since CSS has no per-element colour form without a class explosion. */
+.jb-fmt-chip {
+  border: 2px;
+  color: #fff;
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+  float: left;
+  margin-right: 2px;
+  margin-bottom: 2px;
+}
+.jb-season-box {
+  font-weight: bold;
+  text-align: center;
+}
+.jb-cta-banner {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  text-align: center;
+}
+.jb-round15 { border-radius: 15px; }
+
+/* Centered-heading + misc single/double-rule tail (Round 2). */
+.jb-center-mb20 { text-align: center; margin-top: 0; margin-bottom: 20px; }
+.jb-center-pb0-mb0 { text-align: center; padding-bottom: 0; margin-bottom: 0; }
+.jb-center-pb0-m0 { text-align: center; padding-bottom: 0; margin: 0; }
+.jb-center-pt0-mt0 { text-align: center; padding-top: 0; margin-top: 0; }
+.jb-pb0-mb0-mt3 { padding-bottom: 0; margin-bottom: 0; margin-top: 3px; }
+.jb-center-mt20-mb25 { text-align: center; margin-top: 20px; margin-bottom: 25px; }
+.jb-center-25 { text-align: center; font-size: 25px; }
+.jb-th-center { font-size: 16px; font-weight: bold; text-transform: uppercase; text-align: center; }
+.jb-h19-center-mt5 {
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 5px;
+}
+.jb-fs16 { font-size: 16px; }
+.jb-my10 { margin-top: 10px; margin-bottom: 10px; }
+.jb-ml5 { margin-left: 5px; }
+.jb-center-vmid { text-align: center; vertical-align: middle; }
+.jb-thumb-150-200 { max-height: 150px; max-width: 200px; margin-top: auto; margin-bottom: auto; }
+.jb-greychip { background-color: #7f7f7f; padding: 5px; }
+.jb-center-bordered {
+  text-align: center;
+  border: 1px solid black;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jb-p5x-w64b { padding-left: 5px; padding-right: 5px !important; width: 64px; }
+.jb-p5x-w64c { width: 64px; padding-left: 5px !important; padding-right: 5px; }
+.jb-p5x { padding-left: 5px; padding-right: 5px !important; }
+.jb-mx-auto { margin-left: auto; margin-right: auto; }
+.jb-deckbox-body-justify {
+  font-size: 15px;
+  text-align: justify;
+  margin-bottom: 0;
+  padding-top: 0;
+  margin-top: 8px;
+  line-height: 1.5;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.jb-greybanner {
+  max-width: 600px;
+  background-color: #ddd;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 8px;
+}
+/* Colored header cell: uniform; only the background colour stays inline. */
+.jb-th-cell {
+  font-weight: bold;
+  color: white;
+  padding: 8px;
+  text-align: center;
+}
+.jb-center-p5-800 { text-align: center; padding: 5px; font-weight: 800; }
+/* Info-grid cards (/get + landing layouts): per-card width + bg colour inline. */
+.jb-grid-card {
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 5px;
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+}
+.jb-grid-card-flex {
+  justify-content: space-evenly;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.jb-info-card {
+  border: 1px solid;
+  border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%);
+  border-radius: 4px;
+  padding: 15px;
+  height: 100%;
+}
+
 /* ---- Markdown-converted content image (Round 2) ----
    Image-block figures are now compiled from Markdown `![alt](src)` (optionally wrapped
    in a lightbox link `[![alt](src)](src)`) plus zero or more italic caption paragraphs.

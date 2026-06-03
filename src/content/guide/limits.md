@@ -23,7 +23,7 @@ With just three exceptions in the Standard Format, you can only have up to four 
 The Rule of Four also applies to cards featuring Pokémon, though the rules about a Pokémon’s name are a little bit more complicated. The excerpt about Pokémon names below comes from the [Official Pokémon Rulebook](https://www.pokemon.com/us/pokemon-tcg/rules).
 
 <div class="jb-code-container">
-    <div id="name" style="background-color:#f2f2f2;">
+    <div id="name" class="jb-greybg">
 <h3>
   What does and doesn't count for a Pokémon's name?
 </h3>
@@ -395,9 +395,9 @@ In the Pokémon Trading Card Game, new sets become legal for tournament play on 
 New promo cards, such as those found in special collections, also become legal two weeks after their release. If you aren’t confident about whether or not a promo card in your deck is tournament legal, you can visit the page [Pokémon TCG Promo Card Legality Status](https://www.pokemon.com/us/pokemon-tcg-promo-card-legality-status/) on Pokémon’s official website to see when new cards become legal and which promo cards are already legal.
 
 <div class="jb-code-container">
-    <table width="320px" style="margin-left: auto; margin-right: auto;">
+    <table width="320px" class="jb-mx-auto">
   <tbody><tr bgcolor="#d8d2b7">
-    <td style="font-size:16px; font-weight:bold; text-transform:uppercase; text-align:center;">Helpful Links from this Page</td>
+    <td class="jb-th-center">Helpful Links from this Page</td>
   </tr>
   <tr>
     <td>

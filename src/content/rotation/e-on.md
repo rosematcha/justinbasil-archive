@@ -15,8 +15,8 @@ showHeading: false
 </p>
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/rotation/e-on/introduction" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/ae00a41d94a31736.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/rotation/e-on/introduction" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/ae00a41d94a31736.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Introduction to Rotation</h1>
@@ -26,8 +26,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/rotation/e-on/noteworthy-losses-and-retentions" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/133926b39711f959.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/rotation/e-on/noteworthy-losses-and-retentions" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/133926b39711f959.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Noteworthy Losses and Retentions</h1>
@@ -38,8 +38,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/rotation/e-on/essentials" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/8cafafa5d159bb5f.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/rotation/e-on/essentials" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/8cafafa5d159bb5f.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">The New Essentials</h1>
@@ -49,8 +49,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div></div></div></div><div class="jb-row"><div class="jb-col-6"><div class="jb-code-container">
-    <a href="/new-decks/sv1" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/deffc1b5b1155303.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="/new-decks/sv1" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/deffc1b5b1155303.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Decks to Consider After Rotation</h1>
@@ -60,8 +60,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-6"><div class="jb-code-container">
-    <a href="/rotation/e-on/card-status" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/bffddd9735204059.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:top;">
+    <a href="/rotation/e-on/card-status" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgpos-top" style="background-image:url(/images/bffddd9735204059.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">2023 Rotation Card Status</h1>

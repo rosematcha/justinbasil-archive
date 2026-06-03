@@ -32,7 +32,7 @@ Even players who do not rely on copying a deck list from the Internet often revi
 In addition to the valuable deck lists and tournament information available at Limitless TCG, this guide includes a handful of helpful meta deck lists and a handful of budget deck lists to help you get started.
 
 <div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/guide/meta"><div id="hiddenfates" style="margin-left:auto; margin-right:auto; background-color:#4cb84b; padding: 10px; text-align:center; border: 5px solid #2d6429; color: #fff; border-radius:15px;">
+    <a href="/guide/meta"><div id="hiddenfates" class="jb-cta-banner jb-round15" style="background-color:#4cb84b;border:5px solid #2d6429;color:#fff">
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Meta Decks</span>
@@ -41,7 +41,7 @@ In addition to the valuable deck lists and tournament information available at L
   </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="/guide/budget"><div id="hiddenfates" style="margin-left:auto; margin-right:auto; background-color:#b84b4b; padding: 10px; text-align:center; border: 5px solid #642929; color: #fff; border-radius:15px;">
+    <a href="/guide/budget"><div id="hiddenfates" class="jb-cta-banner jb-round15" style="background-color:#b84b4b;border:5px solid #642929;color:#fff">
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Budget Decks</span>

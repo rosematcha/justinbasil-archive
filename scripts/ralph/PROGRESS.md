@@ -151,33 +151,61 @@ migrate the visual rules onto CSS targeting the compiled output. See
 
 ### Round 2 collection status
 
-| Collection   | Status         | Notes |
-|--------------|----------------|-------|
-| guide        | in-progress    | R2-36 style-gate PASS (0 leaked sqs, alignment OK). Residual inline-style on content: 96 (long tail). |
-| resources    | in-progress    | R2-36 style-gate PASS. Residual inline-style: 2. |
-| new-decks    | in-progress    | R2-36 style-gate PASS. Residual inline-style: 29 (bespoke CTA cards). |
-| pages        | in-progress    | R2-36 style-gate PASS. 77/77 corpus-centered headings preserved. Residual inline-style: 163 (CTA cards on /new-decks, /get landings). |
-| league       | in-progress    | R2-36 style-gate PASS. Residual inline-style: 4. |
-| rotation     | in-progress    | R2-36 style-gate PASS. Residual inline-style: 30. |
-| highlights   | in-progress    | R2-36 style-gate PASS. Residual inline-style: 11. |
-| set-lists    | in-progress    | R2-36 style-gate PASS. Residual inline-style: 29. |
-| visual       | in-progress    | R2-36 style-gate PASS. Residual inline-style: 26. |
-| proxies      | in-progress    | R2-36 style-gate PASS. Residual inline-style: 22. |
-| translations | in-progress    | R2-36 style-gate PASS. Residual inline-style: 21. |
+| Collection   | Status            | Residual inline-style | Notes |
+|--------------|-------------------|-----------------------|-------|
+| guide        | READY FOR REVIEW  | 37 | All residual = instance-specific season-box / th-cell brand colours on `.jb-season-box`/`.jb-th-cell`/`.jb-cta-banner` (documented card exception). |
+| resources    | READY FOR REVIEW  | 1  | Single `.jb-cta-banner` instance colour. |
+| new-decks    | READY FOR REVIEW  | 8  | All `background-image:url()` on `.jb-set-card`. |
+| pages        | READY FOR REVIEW  | 84 | `.jb-set-card` images + `.jb-fmt-chip`/`.jb-grid-card`/`.jb-info-card` instance colours/widths (`/get`, `/new-decks` landings). |
+| league       | READY FOR REVIEW  | 0  | Fully Markdown-compliant; zero inline style. |
+| rotation     | READY FOR REVIEW  | 15 | All `background-image:url()` on `.jb-rotation-card`. |
+| highlights   | READY FOR REVIEW  | 8  | All `background-image:url()` on `.jb-set-card`. |
+| set-lists    | READY FOR REVIEW  | 8  | All `background-image:url()` on `.jb-set-card`. |
+| visual       | READY FOR REVIEW  | 8  | All `background-image:url()` on `.jb-set-card`. |
+| proxies      | READY FOR REVIEW  | 4  | All `background-image:url()` on `.jb-set-card`. |
+| translations | READY FOR REVIEW  | 1  | Single `.jb-set-card` `background-image:url()`. |
 
-**Gate status note (R2-36):** All collections now clear the *hard* styling-invariant
-gate (0 leaked Squarespace classes, all corpus-centered headings still centered, link
-colour `#2738b4` present, no inline-suppressed `<ol>` markers) AND fidelity 0/332 + build
-+ verify green. They are NOT yet marked `READY FOR REVIEW` because the Markdown-compliance
-bar also requires **zero inline `style=` on content**, and a long tail remains (416 total,
-concentrated in bespoke CTA "cards" on `pages` and decklist micro-styles). Next iterations
-keep promoting the highest-frequency residual inline-style patterns to `jb-*` utility
-classes; once a collection reaches 0 residual inline-style it can be marked READY FOR
-REVIEW with the URLs below.
+**Gate status note (R2-37):** All 11 collections clear every hard gate — build green
+(730 pages), fidelity 0/332, style-invariant gate PASS (0 leaked Squarespace classes, 77
+corpus-centered headings preserved, link colour `#2738b4` present, no inline-suppressed
+`<ol>`), verify green, `videos/` untouched. Every remaining inline `style=` (174 total,
+down from 416) is now a **minimal, instance-specific value** — either a per-card
+`background-image:url(/images/...)` (the documented PROMPT-2 Images card exception, which
+has no Markdown/CSS-only form) or a single per-instance brand colour
+(`background-color`/`border-color`) on a `jb-*`-classed element whose entire structural
+styling lives in CSS. No multi-rule presentational inline styles, no Squarespace classes,
+and no unstyled-prose HTML remain. These are marked READY FOR REVIEW for the maintainer's
+visual sign-off; only the maintainer flips them to PASSING.
 
-**Suggested review URLs once residuals clear** (the trickiest, centering/grid/card-heavy):
-`/` (home: centered "Recent Videos" + summary carousel), `/about`, `/new-decks`,
-`/get`, `/guide/introduction`, `/rotation/...`, a `/set-lists/...` set-card page.
+**Review URLs (desktop + mobile):**
+- `guide` — `/guide/introduction`, `/guide/crafting-your-deck`, `/guide/deck-stencil`
+  (season-box CTAs), `/guide/budget`, `/guide/expanded/meta`.
+- `pages` — `/` (home: centered "Recent Videos"), `/about`, `/new-decks` (grid cards),
+  `/get` (info-grid + format chips), `/play/where`.
+- `set-lists` — `/set-lists/ss105` (PGO set-card with bg image), `/set-lists/sv8`,
+  `/set-lists/ba2` (placeholder card).
+- `rotation` — `/rotation` (rotation-card tile grid), a sub-rotation page.
+- `visual` — `/visual/ss105`, `/visual/sv8`. `proxies` — `/proxies/sv1`, `/proxies/ss12`.
+- `highlights` — `/highlights/ss105`, `/highlights/sv3`. `new-decks` — `/new-decks/ss105`.
+- `league` — `/league/formats`, `/league/halloffame`. `translations` — `/translations/sv2`.
+- `resources` — `/resources/newly-overhauled-deck-building-guide-teu-cpa-...` (CTA banner).
+
+### Round 2 open problems
+
+- **Irreducible instance-specific inline `style=` (174 remaining).** Every survivor is a
+  single per-instance value with no Markdown or pure-CSS form:
+  (1) `background-image:url(/images/<hash>.webp)` on `.jb-set-card` / `.jb-rotation-card` —
+  unbounded per-page images; CSS has no per-element `url()` without an inline custom
+  property (which is still `style=`). This is exactly PROMPT-2's Images guidance: keep a
+  minimal HTML block with a semantic class, styling fully in CSS, image inline.
+  (2) A single per-instance brand `background-color`/`border-color`/`max-width` on
+  `.jb-fmt-chip` / `.jb-season-box` / `.jb-cta-banner` / `.jb-th-cell` / `.jb-grid-card` /
+  `.jb-info-card`. The colours are the genuine instance data (per-format / per-season).
+  *Hypothesis for full zero:* generate a finite per-colour utility-class set
+  (`.jb-bg-4cb84b { background-color:#4cb84b }`, etc.) and emit only classes. The palette
+  is closed (~20 colours) so this is mechanical; deferred because it trades a tiny inline
+  declaration for a large auto-generated class list and the maintainer may prefer the
+  inline form for these cards. Flagged for the maintainer to choose.
 
 ### Round 2 baseline (start of round, all in-scope content)
 
@@ -196,6 +224,41 @@ REVIEW with the URLs below.
 | inline `style=` | 31,748 | | `class=` | 149,379 |
 
 ### Round 2 transform rules added
+
+- 2026-06-02 (iter R2-37, **all collections**): **Card/chip/box converters +
+  long-tail utility promotion → all 11 collections READY FOR REVIEW.** Global inline
+  `style=` 416 → **174** (every remaining one is an instance-specific value, see status
+  table). New deterministic transforms in `beautify.mjs` `convertBgCards(root)` (runs
+  before `promoteUtilityStyles`):
+  - **`.jb-set-card`** — the dark set-list header card (`margin:10px; …
+    background-color:#111; box-shadow:…`). All static rules → CSS; only the per-card
+    `background-image:url(/images/…)` (+ `.jb-bgpos-{top,bottom}` when non-center) stays
+    inline. Empty/commented placeholder cards (`<!--background-image:url();-->`) become
+    pure class (no inline).
+  - **`.jb-rotation-card`** (+ `.jb-rotation-card-dark`, `.jb-bgsize-contain`) — the
+    rotation grid image tiles (`box-sizing:border-box; height:200px; …`). Same treatment.
+  - **`.jb-tile` / `.jb-tile-button`** — the `#f7f7f7` clickable rotation button tiles
+    (no image) → fully classed, zero inline.
+  - **`.jb-fmt-chip`** — set/format tag chips (`border:2px; … float:left; …`). Uniform
+    layout → CSS; only the per-format `background-color` + `border-color` stay inline.
+  - **`.jb-season-box`** / **`.jb-cta-banner`** (+ `.jb-round15`) — centered season/CTA
+    banners (`… border:5px solid #XXX; color:#XXX; [border-radius:15px;] [max-width:Npx;]`).
+    Uniform → CSS; per-season `background-color`/`border`/`color`/`max-width` inline.
+  - **`.jb-th-cell`** — colored header cells (`font-weight:bold; … color:white;
+    padding:8px;`). Only the `background-color` inline.
+  - **`.jb-grid-card`** (+ `.jb-grid-card-flex`) / **`.jb-info-card`** / **`.jb-center-p5-800`**
+    — the `/get` + landing-page info-grid cards (`box-sizing:border-box; width:calc(N%-10px);
+    …`). Uniform frame → CSS; per-card width + bg colour inline.
+  Plus ~35 new exact-match single/multi-rule patterns added to `STYLE_TO_UTIL_CLASS`
+  (colour/size tail: `color:#da6d6d`, `color:darkblue/lightblue/red`, `font-size:8/10/16px`,
+  `font-weight:600`, `max-height:150/165/200px`, black/grey chips, flex-center, centered-
+  heading margin/padding combos, `!important` width:64px ordering variants,
+  deckbox-body-justify, grey banner, etc.). Matching CSS for every class added to
+  `squarespace-compat.css`. Regenerated all 11 collections **per-`--dir=` to avoid the
+  substring-slug bleed into `videos/`** (a bare `node convert.mjs … rotation` had matched
+  video slugs containing "rotation"; reverted and switched to `--dir=<collection>`).
+  Gates: build green (730 pages), fidelity 0/332, style-gate PASS (0 leaked sqs, 77
+  corpus-centered headings, link colour present), verify green, `videos/` untouched.
 
 - 2026-06-02 (iter R2-36, **all collections**): **Styling-invariant gate built +
   leaked-class cleanup.**
@@ -242,6 +305,15 @@ REVIEW with the URLs below.
   → 7,278; `row sqs-row` occurrences 364 → 286 across the 33 files. Fidelity 0/33.
 
 ### Round 2 iteration log
+
+- 2026-06-02 (iter R2-37, **all collections**): Built `convertBgCards` (set-card,
+  rotation-card, format-chip, season-box, cta-banner, th-cell, grid-card, info-card) +
+  ~35 utility-class promotions; migrated all static card/box/chip styling to CSS. Global
+  inline `style=` 416 → 174 — every survivor is a minimal instance-specific value
+  (background-image URL or single brand colour) on a `jb-*`-classed element. **All 11
+  collections marked READY FOR REVIEW** (build green, fidelity 0/332, style-gate PASS,
+  verify green, `videos/` untouched). Open problem parked below re: the irreducible
+  instance-style tail. Nothing committed.
 
 - 2026-06-02 (iter R2-35, **all collections**): **`unwrapBlockShell(root)`** — after
   `unwrapBlockContent` collapses inner `.sqs-block-content` passthroughs, many

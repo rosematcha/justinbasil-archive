@@ -19,7 +19,7 @@ See also: [TheMathTCG: The Probabilities Behind the Opening Hand](https://sixpri
 
 <div class="jb-row"><div class="jb-col-6"><div class="jb-code-container">
     <table class="striped jb-w320-center">
-  <tbody><tr style="background-color:#000; color:#fff; font-weight:bold;">
+  <tbody><tr class="jb-blackchip">
   <td># Basics</td><td>% Chance</td></tr>
   <tr><td class="jb-col-160">1</td><td class="jb-col-160">88.33%</td></tr>
   <tr><td>2</td><td>77.85%</td></tr>
@@ -34,7 +34,7 @@ See also: [TheMathTCG: The Probabilities Behind the Opening Hand](https://sixpri
 </tbody></table>
 </div></div><div class="jb-col-6"><div class="jb-code-container">
     <table class="striped jb-w320-center">
-  <tbody><tr class="nomobile" style="background-color:#000; color:#fff; font-weight:bold;">
+  <tbody><tr class="nomobile jb-blackchip">
   <td># Basics</td><td>% Chance</td></tr>
   <tr><td class="jb-col-160">11</td><td>22.24%</td></tr>
   <tr><td>12</td><td class="jb-col-160">19.06%</td></tr>
@@ -53,7 +53,7 @@ See also: [TheMathTCG: The Probabilities Behind the Opening Hand](https://sixpri
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4"><div class="jb-code-container">
     <table class="striped jb-w320-center">
-  <tbody><tr style="background-color:#000; color:#fff; font-weight:bold;">
+  <tbody><tr class="jb-blackchip">
   <td># Copies</td><td>% Chance</td></tr>
   <tr><td class="jb-col-160">1</td><td class="jb-col-160">11.67%</td></tr>
   <tr><td>2</td><td>22.15%</td></tr>
@@ -65,8 +65,8 @@ See also: [TheMathTCG: The Probabilities Behind the Opening Hand](https://sixpri
 ## CHANCE TO TOP DECK CARD BASED ON QUANTITY IN DECK AND CARDS REMAINING IN DECK
 
 <div class="jb-row"><div class="jb-col-6"><div class="jb-code-container">
-    <table style="border-spacing: 5px; padding:5px; text-align: center; margin-left:auto; margin-right:auto;" class="striped">
-   <tbody><tr style="padding:5px; background-color:#000; color:#fff; font-weight:bold;"><td class="jb-p5-w64"># Cards</td><td class="jb-p5-i">4</td><td class="jb-p5-w64">3</td><td class="jb-p5-w64">2</td><td class="jb-p5-w64">1</td></tr>
+    <table class="striped jb-table-center">
+   <tbody><tr class="jb-blackchip-p5"><td class="jb-p5-w64"># Cards</td><td class="jb-p5-i">4</td><td class="jb-p5-w64">3</td><td class="jb-p5-w64">2</td><td class="jb-p5-w64">1</td></tr>
    <tr><td>1</td><td></td><td>&nbsp;</td><td>&nbsp;</td><td>100%</td></tr>
    <tr><td>2</td><td>&nbsp;</td><td>&nbsp;</td><td>100%</td><td>50%</td></tr>
    <tr><td>3</td><td>&nbsp;</td><td>100%</td><td>66.67%</td><td>33.33%</td></tr>
@@ -94,9 +94,9 @@ See also: [TheMathTCG: The Probabilities Behind the Opening Hand](https://sixpri
    <tr><td>25</td><td>16%</td><td>12%</td><td>8%</td><td>4%</td></tr>
 </tbody></table>
 </div></div><div class="jb-col-6"><div class="jb-code-container">
-    <table style="border-spacing: 5px; padding:5px; text-align: center; margin-left:auto; margin-right:auto;" class="striped-odd">
-   <tbody><tr class="nomobile" style="padding:5px; background-color:#000; color:#fff; font-weight:bold;"><td class="jb-p5-i"># Cards</td><td class="jb-p5-i">4</td><td class="jb-p5-i">3</td><td class="jb-p5-i">2</td><td class="jb-p5-i">1</td></tr>
-   <tr><td style="padding-left:5px; padding-right:5px!important; width:64px;">26</td><td style="padding-right:5px; padding-left:5px!important;">15.38%</td><td style="width:64px; padding-left:5px!important; padding-right: 5px;">11.54%</td><td style="padding-left:5px!important; padding-right: 5px; width:64px;">7.69%</td><td style="padding-left:5px!important; padding-right: 5px; width:64px;">3.85%</td></tr>
+    <table class="striped-odd jb-table-center">
+   <tbody><tr class="nomobile jb-blackchip-p5"><td class="jb-p5-i"># Cards</td><td class="jb-p5-i">4</td><td class="jb-p5-i">3</td><td class="jb-p5-i">2</td><td class="jb-p5-i">1</td></tr>
+   <tr><td class="jb-p5x-w64b">26</td><td class="jb-p5x">15.38%</td><td class="jb-p5x-w64c">11.54%</td><td class="jb-p5x-w64">7.69%</td><td class="jb-p5x-w64">3.85%</td></tr>
    <tr><td>27</td><td>14.81%</td><td>11.11%</td><td>7.41%</td><td>3.7%</td></tr>
    <tr><td>28</td><td>14.29%</td><td>10.71%</td><td>7.14%</td><td>3.57%</td></tr>
    <tr><td>29</td><td>13.79%</td><td>10.34%</td><td>6.9%</td><td>3.45%</td></tr>

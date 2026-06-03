@@ -15,8 +15,8 @@ showHeading: false
 </p>
   </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <a href="https://events.pokemon.com/en-us/locations" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/4fddcbc04acf6281.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#444; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="https://events.pokemon.com/en-us/locations" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card jb-bgsize-contain jb-rotation-card-dark" style="background-image:url(/images/4fddcbc04acf6281.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Event Locator</h1>
@@ -26,8 +26,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="https://discord.gg/gy52nzras2" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/102c55d593b1cd76.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="https://discord.gg/gy52nzras2" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/102c55d593b1cd76.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Community Tournaments</h1>
@@ -38,8 +38,8 @@ showHeading: false
       </div>
 </div></a>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <a href="https://play.limitlesstcg.com/tournaments/upcoming" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/863b6d84cc672f47.webp); background-size:cover; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#b1e88f; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-position:center;">
+    <a href="https://play.limitlesstcg.com/tournaments/upcoming" class="jb-onclick-link"><div class="jb-tile-button">
+<div class="inner jb-rotation-card" style="background-image:url(/images/863b6d84cc672f47.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Online Tournaments</h1>

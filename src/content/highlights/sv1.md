@@ -6,10 +6,10 @@ showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div style="margin:10px; background-image:url(/images/d70c918967379e1a.webp); background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+    <div class="jb-set-card" style="background-image:url(/images/d70c918967379e1a.webp)">
   <div> 
     <img src="/images/cfc488fb9adc6354.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV1 Set Identifier" style="margin-top:15px; vertical-align:middle; margin-left:auto; margin-right:auto; display:block;" src="/images/03cb87ae2d15bd85.webp" loading="lazy">
+    <img alt="SV1 Set Identifier" src="/images/03cb87ae2d15bd85.webp" loading="lazy" class="jb-icon-center-mt15">
     <h1 class="jb-white-center-margin5">Highlights from Scarlet &amp; Violet</h1>
     <hr>
     <p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.

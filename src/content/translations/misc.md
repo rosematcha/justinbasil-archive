@@ -8,7 +8,7 @@ showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div style="margin:10px; background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+    <div class="jb-set-card">
   <div>
     <h1 class="jb-white-center">Miscellaneous Unreleased</h1>
     <h2 class="jb-cta-title">Card Translations</h2>

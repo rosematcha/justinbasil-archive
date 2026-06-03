@@ -22,12 +22,12 @@ Directly message JustInBasil on Discord, ideally with a screenshot of the illega
 When an illegal card is reported, the reported player’s deck list will be reviewed. If their deck list contains the illegal card reported, that player will receive a game loss for the current round of the tournament, as per the official rules found in the [Play! Pokémon Tournament Rules Handbook](https://www.pokemon.com/us/play-pokemon/about/tournaments-rules-and-resources/), section 7.3.2.2:
 
 <div class="jb-code-container">
-    <div style="background-color:#f2f2f2; padding: 10px;">
-<h4 style="font-size:16px;">7.3.2.2 <span class="jb-u">B.2. Deck Legality</span></h4>
-  <table style="text-align: center; border:1px solid black; padding: 10px; margin-left: auto; margin-right:auto;" border="1">
+    <div class="jb-greybox">
+<h4 class="jb-fs16">7.3.2.2 <span class="jb-u">B.2. Deck Legality</span></h4>
+  <table border="1" class="jb-center-bordered">
     <tbody><tr>
       <td width="33%" class="jb-p5">Minor: Warning</td>
-      <td width="33%" style="background-color:#7f7f7f; padding: 5px;"></td>
+      <td width="33%" class="jb-greychip"></td>
       <td width="33%" class="jb-p5">Severe: Game Loss</td>
     </tr>
   </tbody></table>
@@ -59,7 +59,7 @@ Alert your opponent of the illegal card, then directly and immediately message J
 As per the official rules found in the [Play! Pokémon Tournament Rules Handbook](https://www.pokemon.com/us/play-pokemon/about/tournaments-rules-and-resources/), section 7.3.2.2, all illegal cards must be replaced with basic Energy cards:
 
 <div class="jb-code-container">
-    <div style="background-color:#f2f2f2; padding: 10px;">
+    <div class="jb-greybox">
   <p>
    In the case that a deck list contains fewer than 60 cards, cards that are not legal for play, or cards that cannot be reasonably identified from the information provided, the deck list should be made legal by adding an appropriate number of basic Energy cards of the player’s choice. Then, the physical deck should be updated accordingly.
 </p>

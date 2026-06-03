@@ -6,10 +6,10 @@ showHeading: false
 ---
 
 <div class="jb-code-container">
-    <h1 style="padding-bottom:0px; margin-bottom:0px; text-align:center;">
+    <h1 class="jb-center-pb0-mb0">
   A Deck Stencil
 </h1>
-<h3 style="padding-top:0px; margin-top:0px; text-align: center;">
+<h3 class="jb-center-pt0-mt0">
   Standard Format
 </h3>
 </div>
@@ -17,8 +17,8 @@ showHeading: false
 Decks produced through the use of a deck stencil won’t been as well tuned to their attackers as decks built specifically with the attacker in mind, but using a deck stencil is a quick and easy way to get a reasonably consistent deck list ready for a friendly game. At the least, a deck crafted using a deck stencil is a starting point for honing in on what can make your favorite attacker a proper menace on the battlefield. To make use of the deck stencil, start by adding all of the cards from the deck stencil to your deck list. Then, follow the three steps below.
 
 <div class="jb-code-container">
-    <h3 style="text-align:center; padding:0; margin: 5px;">The Deck Stencil</h3>
-<h4 style="text-align:center; padding:0; margin: 5px;">Standard Format</h4>
+    <h3 class="jb-center-p0-m5">The Deck Stencil</h3>
+<h4 class="jb-center-p0-m5">Standard Format</h4>
 <table width="300px" class="jb-center-block">
   <tbody><tr bgcolor="#b7d8bd">
     <td class="jb-th">Pokémon - 1</td>

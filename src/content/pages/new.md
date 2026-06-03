@@ -16,33 +16,33 @@ showHeading: false
   </div>
 </div><div class="jb-code-container">
 <div class="nrl_tab">
-  <button id="newreleases_open" style="margin-left:5px;" class="newreleases_tabs">International</button>
+  <button id="newreleases_open" class="newreleases_tabs jb-ml5">International</button>
   <button class="newreleases_tabs">Japan</button>
 </div>
 <div id="Internat" class="newreleases_content">
-<div class="outer" style="justify-content: center; display: flex; flex-direction: row;">
-      <div class="inner" style="box-sizing: border-box; padding: 10px; margin: 0px; background-color:#eee; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+<div class="outer jb-flex-center">
+      <div class="inner jb-flat-card">
       <h2 class="jb-center-mb0">Release Calendar (International)</h2>
         <p class="jb-center-mt0">
      Upcoming noteworthy international product releases.
-    </p><div style="text-align: left; margin-left:0px; padding-left:0px;">
+    </p><div class="jb-left-flush">
    <ul class="collapse"> 
     <li>18 July 2025 - Black Bolt &amp; White Flare</li>
     <li>26 September 2025 - Mega Evolution</li>
     <li>November 2025† - Mega Evolution 2†</li>
   </ul>
           </div>
-   <p style="font-size:8px; text-align:center;"> † This product and/or release date has not been confirmed and is pure speculation based on what we know at the moment.</p>
+   <p class="jb-fs8-center"> † This product and/or release date has not been confirmed and is pure speculation based on what we know at the moment.</p>
       </div> 
 </div>
 </div>
 <div id="Japan" class="newreleases_content">
-<div class="outer" style="justify-content: center; display: flex; flex-direction: row;">
-      <div class="inner" style="box-sizing: border-box; padding: 10px; margin: 0px; background-color:#eee; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+<div class="outer jb-flex-center">
+      <div class="inner jb-flat-card">
       <h2 class="jb-center-mb0">Release Calendar (Japan)</h2>
         <p class="jb-center-mt0">
      Upcoming noteworthy Japanese product releases.
-    </p><div style="text-align: left; margin-left:0px; padding-left:0px;">
+    </p><div class="jb-left-flush">
    <ul class="collapse">
     <li>1 August 2025 - Mega Brave</li>
     <li>1 August 2025 - Mega Symphonia</li>
@@ -55,13 +55,13 @@ showHeading: false
     <li>January 2026† - Abyssal Eye</li>
   </ul>
           </div>
-   <p style="font-size:8px; text-align:center;"> † This product and/or release date has not been confirmed and is pure speculation based on what we know at the moment.</p>
+   <p class="jb-fs8-center"> † This product and/or release date has not been confirmed and is pure speculation based on what we know at the moment.</p>
       </div> 
 </div>
 </div>
 </div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/686ef9f1f07ac40b.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/686ef9f1f07ac40b.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Black Bolt &amp; White Flare</h1>
@@ -78,8 +78,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/e795a2f742d840ce.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/e795a2f742d840ce.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Mega Evolution</h1>
@@ -95,8 +95,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/daea8240275070c5.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/daea8240275070c5.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Unaffiliated Cards</h1>
@@ -114,8 +114,8 @@ showHeading: false
 <h2 class="jb-center">Recent Releases</h2>
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/1cddcc6917c8fe1b.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/1cddcc6917c8fe1b.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Destined Rivals</h1>
@@ -132,8 +132,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/0293e4a4729b3918.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/0293e4a4729b3918.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Journey Together</h1>
@@ -150,8 +150,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/62b83b51183ecc8f.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/62b83b51183ecc8f.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prize Pack</h1>
@@ -165,8 +165,8 @@ showHeading: false
       </div>
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/43bafe2646ea28aa.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/43bafe2646ea28aa.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prismatic Evolutions</h1>
@@ -183,8 +183,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/36284b3570417977.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/36284b3570417977.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Surging Sparks</h1>
@@ -201,8 +201,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/01d8e4e6ca913276.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/01d8e4e6ca913276.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Stellar Crown</h1>
@@ -219,8 +219,8 @@ showHeading: false
       </div>
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/0af5d4a346eb9f25.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/0af5d4a346eb9f25.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prize Pack</h1>
@@ -234,8 +234,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/d62f79d634ea506d.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/d62f79d634ea506d.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Shrouded Fable</h1>
@@ -252,8 +252,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/d3ee81b261623886.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/d3ee81b261623886.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Twilight Masquerade</h1>
@@ -270,8 +270,8 @@ showHeading: false
       </div>
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/c5c2c2f1e4337a90.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/c5c2c2f1e4337a90.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Temporal Forces</h1>
@@ -288,8 +288,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/06eaf1fad6c59628.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/06eaf1fad6c59628.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Prize Pack</h1>
@@ -303,8 +303,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/3641718514db8f2b.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/3641718514db8f2b.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Paldean Fates</h1>
@@ -321,8 +321,8 @@ showHeading: false
       </div>
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/dbf88939215a7309.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/dbf88939215a7309.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Paradox Rift</h1>
@@ -339,8 +339,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/b0b787766c8e60b4.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#1e3135; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-color:#1e3135; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/b0b787766c8e60b4.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Pokémon TCG Classic</h1>
@@ -353,8 +353,8 @@ showHeading: false
       </div>
 </div>
 </div></div><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/77ad6198b9920672.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/77ad6198b9920672.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">151</h1>
@@ -372,8 +372,8 @@ showHeading: false
       </div>
 </div>
 </div></div></div><div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
-    <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
-<div class="inner" style="background-image:url(/images/fb68be8144a88b94.webp); background-size:contain; box-sizing: border-box; margin: 5px; width:calc(100% - 10px); height:200px; background-color:#000; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px; background-repeat:no-repeat; background-position:center;">
+    <div class="jb-tile">
+<div class="inner jb-rotation-card jb-bgsize-contain" style="background-image:url(/images/fb68be8144a88b94.webp)">
     <div class="jb-cta-body">
     </div></div>
       <h1 class="jb-center-flat">Obsidian Flames</h1>

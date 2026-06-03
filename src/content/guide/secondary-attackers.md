@@ -84,8 +84,8 @@ Decks with many Secondary Attackers, especially those decks built around having 
     <div id="mobileup" class="jb-center">
   <a href="#">Back to Top</a>
 </div>
-<h2 id="deck-roles" style="text-align:center; font-size:20px; margin-bottom:1;">Standard-Legal Pokémon by Type</h2>
-<table style="border: 0; width:320px; text-align:center; margin: auto;">
+<h2 id="deck-roles" class="jb-center-20">Standard-Legal Pokémon by Type</h2>
+<table class="jb-w320-auto">
   <tbody><tr class="jb-th">
     <td bgcolor="#9ed89e"><span class="jb-symbol-18-n">G</span> Grass
     </td>

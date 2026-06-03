@@ -7,13 +7,12 @@ showHeading: false
 ---
 
 <div class="jb-code-container">
-    <div style="margin:10px; <!--background-image:url(); -->
-  background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
+    <div class="jb-set-card">
   <div>
     <img src="/images/0293e4a4729b3918.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV9 Set Identifier" style="margin-top:15px; vertical-align:middle; margin-left:auto; margin-right:auto; display:block;" src="/images/072edfd473175429.webp" loading="lazy">
+    <img alt="SV9 Set Identifier" src="/images/072edfd473175429.webp" loading="lazy" class="jb-icon-center-mt15">
     <h1 class="jb-white-center-margin5">New Decks from Journey Together</h1>
-    <h3 style="color:#fff; font-variant:small-caps; text-align:center; margin:0px;">And Other Decks Worth Considering After Rotation</h3>
+    <h3 class="jb-smallcaps-center">And Other Decks Worth Considering After Rotation</h3>
     <hr>
     <p class="jb-decklist-center">Learn more about our first Scarlet &amp; Violet main set of 2025 set by visiting the articles below.
     <br>
