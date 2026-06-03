@@ -57,5 +57,30 @@ const resolvedOg = ogImage ?? '/s/og-default.png';
       <slot />
     </main>
     <Footer />
+    {/* Re-wire the legacy ".nrl_tab" tab widget (e.g. the /new release calendar) whose
+        Squarespace onclick/JS was stripped on import. No-op on pages without it. */}
+    <script is:inline>
+      (function () {
+        function initTabs() {
+          document.querySelectorAll('.nrl_tab').forEach(function (bar) {
+            var buttons = Array.prototype.slice.call(bar.querySelectorAll('button'));
+            var scope = bar.parentElement || document;
+            var panels = Array.prototype.slice.call(scope.querySelectorAll('.newreleases_content'));
+            if (!buttons.length || !panels.length) return;
+            function activate(i) {
+              panels.forEach(function (p, j) { p.style.display = j === i ? 'block' : 'none'; });
+              buttons.forEach(function (b, j) { b.classList.toggle('active', j === i); });
+            }
+            buttons.forEach(function (b, i) { b.addEventListener('click', function () { activate(i); }); });
+            activate(0);
+          });
+        }
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', initTabs);
+        } else {
+          initTabs();
+        }
+      })();
+    </script>
   </body>
 </html>

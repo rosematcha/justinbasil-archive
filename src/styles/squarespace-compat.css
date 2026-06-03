@@ -534,3 +534,24 @@ figure, figcaption { margin: 0; }
   .jb-row > .jb-col,
   .jb-row > [class*="jb-col-"] { float: none; width: 100% !important; }
 }
+
+/* ---- "Upcoming Releases" tab widget (/new) ----
+   Original Squarespace code-block tabs whose CSS + JS were stripped on import. Styles
+   restored verbatim; the show/hide toggle is re-wired by the inline script in
+   BaseLayout (keys on `.nrl_tab` so it's a no-op on every other page). */
+.nrl_tab { background-color: #f1f1f1; }
+.nrl_tab::after { content: ""; display: table; clear: both; } /* contain floated buttons */
+.nrl_tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 6px 12px;
+  border-radius: 10px 10px 0 0;
+  transition: background-color 0.3s;
+  font: inherit;
+}
+.nrl_tab button:hover { background-color: #ddd; }
+.nrl_tab button.active { background-color: #ccc; }
+.newreleases_content { display: none; padding: 6px; }
