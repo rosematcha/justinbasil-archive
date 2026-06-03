@@ -9,9 +9,9 @@ showHeading: false
 
 [< Alternate Formats](/formats)
 
-# Illegal Deck Process
+<h1 class="jb-center">Illegal Deck Process</h1>
 
-## For Alternate Format Tournaments
+<h2 class="jb-center">For Alternate Format Tournaments</h2>
 
 When playing in an alternate format, it’s not impossible for a player to make errors in their deck construction that would cause them to have an illegal deck. Most often, a player will inadvertently add a card to their deck that is not legal in the alternate format being played. For example, a player may absentmindedly include *Quick Ball* in their Alola format deck list or perhaps include *Marnie* in a Pauper deck list. Errors like these aren’t the end of the world—but they can often feel like it for the player who has an illegal card in their deck.
 

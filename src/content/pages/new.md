@@ -111,7 +111,7 @@ showHeading: false
 </div>
 </div></div></div>
 
-## Recent Releases
+<h2 class="jb-center">Recent Releases</h2>
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <div style="background-color:#f7f7f7; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">

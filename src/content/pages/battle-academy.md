@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Battle Academy Supplement Decks
+<h1 class="jb-center">&nbsp;Battle Academy Supplement Decks</h1>
 
 Have you and your child have been having a blast with the decks included in one of the official *Battle Academy* products and want to add a little variety to the mix? Here are a number of new decks designed to be of a similar power level to those contained in the official *Battle Academy* products. You can purchase individual cards you need at online card sellers like TCGPlayer or Troll & Toad. You can also read more about [buying cards for your deck](/guide/buying-cards). In general, you should expect to pay $10 or less for each of the decks on this page.
 

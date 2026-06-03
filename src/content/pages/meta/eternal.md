@@ -7,13 +7,13 @@ showHeading: false
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1752436126298" id="page-652a2d5a09b95258bb456c42">
 
-# What to Play - Eternal Format Decks
+<h1 class="jb-center">What to Play - Eternal Format Decks</h1>
 
 The decks below have proven to be popular choices for players competing in Eternal format tournaments online and in person. Although the Eternal format is an unofficial format for the Pokémon Trading Card Game, it can be a blast to pick up one of the decks below and give it a whirl—especially against another deck from this list!
 
 Decks below are listed in alphabetical order, not in order of competitive viability.
 
-### Popular Decks
+<h3 class="jb-center">Popular Decks</h3>
 
 <div class="jb-code-container">
     <div class="mobile-collapse links">     

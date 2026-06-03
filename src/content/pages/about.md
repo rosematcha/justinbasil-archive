@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# About JustInBasil
+<h1 class="jb-center">About JustInBasil</h1>
 
 <div class="jb-row"><div class="jb-col-3"></div><div class="jb-col-9"><div class="jb-row"><div class="jb-col-6">
 

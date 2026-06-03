@@ -7,9 +7,9 @@ showHeading: false
 
 
 
-# Gift Guide
+<h1 class="jb-center">Gift Guide</h1>
 
-Looking for a gift for your favorite Pokémon fan? Consider some of these great options as you make your purchases!
+<p class="jb-center">Looking for a gift for your favorite Pokémon fan? Consider some of these great options as you make your purchases!</p>
 
 
 
@@ -489,7 +489,7 @@ Booster Packs and Single-Pack and Three-Pack Blister packs are amongst the safes
 
 <div class="jb-row"><div class="jb-col-4">
 
-**Players**
+<p class="jb-center"><strong>Players</strong></p>
 
 - Twilight Masquerade
 - Stellar Crown
@@ -499,7 +499,7 @@ Booster Packs and Single-Pack and Three-Pack Blister packs are amongst the safes
 
 </div><div class="jb-col-5">
 
-**Collectors**
+<p class="jb-center"><strong>Collectors</strong></p>
 
 - XY Evolutions
 - Cosmic Eclipse

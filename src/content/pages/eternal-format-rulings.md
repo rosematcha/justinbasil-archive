@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Selected Rulings for the Eternal Format
+<h1 class="jb-center">&nbsp;Selected Rulings for the Eternal Format</h1>
 
 Below are a handful of rulings that have come up in gameplay or in deckbuilding when exploring the Eternal format. This page is a supplement to the official Compendium at PokéGym. If an official ruling at PokéGym contradicts one of the rulings below that is not specifically marked with [ETERNAL] below, the Compendium’s ruling should be followed instead and the erroneous ruling should be reported to JustInBasil on Discord.
 

@@ -7,9 +7,9 @@ showHeading: false
 
 
 
-# JustInBasil Promo Cards
+<h1 class="jb-center">&nbsp;JustInBasil Promo Cards</h1>
 
-### JIBP
+<h3 class="jb-center">JIBP</h3>
 
 Below is a list of promo cards included alongside the JustInBasil custom sets for the Pokémon Trading Card Game. Although many of the cards below are reprints or spiritual reprints of existing cards, this set is entirely for fun and is not in any way official. All rights to Pokémon and the Pokémon Trading Card Game are © Nintendo, Creatures, GAMEFREAK, and The Pokémon Company International. Art included on each of these card mockups is the work of the illustrator credited on the card. Unofficial artwork can be visited at its source by clicking the link in the artist’s name.
 

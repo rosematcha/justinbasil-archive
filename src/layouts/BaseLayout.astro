@@ -51,7 +51,7 @@ const resolvedOg = ogImage ?? '/s/og-default.png';
     {sourceUrl && <link rel="alternate" title="Original page" href={sourceUrl} />}
     <slot name="head" />
   </head>
-  <body>
+  <body class:list={[{ 'jb-home': Astro.url.pathname === '/' }]}>
     <Header />
     <main id="content">
       <slot />

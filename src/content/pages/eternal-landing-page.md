@@ -7,9 +7,9 @@ showHeading: false
 
 
 
-# Eternal Format
+<h1 class="jb-center">Eternal Format</h1>
 
-The Eternal format is an unofficial alternate format for the Pokémon Trading Card Game. In the Eternal format, cards as far back as the original Base Set, first printed in English in 1999, are legal. You can learn more about the Eternal format at the links below.
+<p class="jb-center">The Eternal format is an unofficial alternate format for the Pokémon Trading Card Game. In the Eternal format, cards as far back as the original Base Set, first printed in English in 1999, are legal. You can learn more about the Eternal format at the links below.</p>
 
 <div class="jb-row"><div class="jb-col-4"><div class="jb-code-container">
     <a href="/meta/eternal" class="jb-onclick-link"><div style="background-color:#f7f7f7; cursor:pointer; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; margin:5px;">
@@ -61,7 +61,7 @@ The Eternal format is an unofficial alternate format for the Pokémon Trading Ca
 
 
 
-## Recent Eternal Format News
+<h2 class="jb-center">Recent Eternal Format News</h2>
 
 <div class="jb-block jb-component-block jb-block-component sqs-block-summary-v2 summary-block summary-v2-block"><div class="
   summary-block-wrapper
@@ -269,6 +269,6 @@ The Eternal format is an unofficial alternate format for the Pokémon Trading Ca
     </div>
   </div>
 </div></div><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">
-  <p class="jb-pre">&nbsp;</p>
+  <p>&nbsp;</p>
 </div></div>
 
