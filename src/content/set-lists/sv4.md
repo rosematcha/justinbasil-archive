@@ -5,24 +5,18 @@ sourceUrl: "https://www.justinbasil.com/set-lists/sv4"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="814e5a37cd07a674a89c" id="block-814e5a37cd07a674a89c"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <div style="margin:10px;
-  <!--background-image:url();-->
-  background-size:cover;
-  background-position:center;
-  padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px">
+<div class="jb-code-container">
+    <div style="margin:10px; <!--background-image:url(); -->
+  background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
   <div>
-    <img style="max-height:165px; display:block; margin-left:auto; margin-right:auto;" src="/images/dbf88939215a7309.webp" loading="lazy">
-    <!--<h1 style="text-align:center; color:#fff;">Paradox Rift</h1>-->
-    <!--<img alt="SWSH12 Set Symbol" style="vertical-align:middle; margin-left:auto; margin-right:auto; display:block;" src="/s/ss9.png">-->
-    <h1 style="color:#fff; text-align:center; margin:15px;">Set List</h1>
-    <hr style="width:50%;">
-    <p style="text-align:center; margin:0px;">Learn more about Paradox Rift by visiting the articles below.
+    <img src="/images/dbf88939215a7309.webp" loading="lazy" class="jb-deck-thumb">
+    <h1 class="jb-cta-title">Set List</h1>
+    <hr>
+    <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
     <br>
-    </p><p style="text-align:center; margin:0px;">
-              </p><p style="text-align:center; margin:0px;">
-          <a class="" href="/set-lists/sv4">Set List</a> | 
+    </p><p class="jb-decklist-center">
+              </p><p class="jb-decklist-center">
+          <a href="/set-lists/sv4">Set List</a> | 
           <a class="blink" href="/translations/sv4">Card Translations</a> | 
           <a class="blink" href="/visual/sv4">Visual Set List</a> |
           <a class="blink" href="/proxies/sv4">Selected Proxies</a> | 
@@ -30,60 +24,21 @@ showHeading: false
     </p>
   </div>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-0583e1d67b01cc04b2f2"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;">set size: 182 cards (before Secret Rares)</h3><p style="text-align:center;white-space:pre-wrap;" class="">Set Abbreviation: PAR</p><p style="text-align:center;white-space:pre-wrap;" class="">Below is a list of cards that will comprise our fourth Scarlet &amp; Violet set, Paradox Rift, when it releases on 3 November 2023. The set will be legal for tournament play on 17 November 2023.</p>
 </div>
 
+### set size: 182 cards (before Secret Rares)
+
+Set Abbreviation: PAR
+
+Below is a list of cards that will comprise our fourth Scarlet & Violet set, Paradox Rift, when it releases on 3 November 2023. The set will be legal for tournament play on 17 November 2023.
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="9a38def016e7ee35204b" id="block-9a38def016e7ee35204b"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="6ef01c188f2f9e600ff8" id="block-6ef01c188f2f9e600ff8"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <!--<a href="/highlights/ss9"><div class="highlights">
-  See this set's highlights, including the best cards for both collectors and players here!
-</div></a>-->
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-51edd55ab3ceb9eed56b"><div class="sqs-block-content"><hr></div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="2f1ad8efd901f0ddf292" id="block-2f1ad8efd901f0ddf292"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">Note: Because the number of cards in this set's sources exceed the 182 cards in the set, it is likely that 20-30 cards will be cut from the set and moved into a "Scarlet & Violet 4.5" mini set that would release sometime in January or February alongside cards from Shiny Treasure.</p>-->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
     <li class="g"><span class="sv4-num">[1]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_238397">Surskit</a> (Future Flash)</li>
     <li class="g"><span class="sv4-num">[2]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_441092">Masquerain</a> (Future Flash)</li>
     <li class="g"><span class="sv4-num">[3]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_8809">Froslass ex</a> (Raging Surf)</li>
@@ -102,7 +57,6 @@ showHeading: false
     <li class="g"><span class="sv4-num">[16]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_207257">Toedscool</a> (Future Flash)</li>
     <li class="g"><span class="sv4-num">[17]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_156978">Toedscruel</a> (Future Flash)</li>
     <li class="g"><span class="sv4-num">[18]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_105016">Wo-Chien</a> (Future Flash)</li>
-
     <li class="r"><span class="sv4-num">[19]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_394626">Magby</a> (Ancient Roar)</li>
     <li class="r"><span class="sv4-num">[20]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696157769277_419105">Pansear</a> (Future Flash)</li>
     <li class="r"><span class="sv4-num">[21]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696157769277_455729">Simisear</a> (Future Flash)</li>
@@ -114,7 +68,6 @@ showHeading: false
     <li class="r"><span class="sv4-num">[27]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1692278768447_93601">Armarouge ex</a> (Ancient Roar)</li>
     <li class="r fut"><span class="sv4-num">[28]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691917969584_32870">Iron Moth</a> (Future Flash)</li>
     <li class="r"><span class="sv4-num">[29]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_225626">Chi-Yu</a> (Ancient Roar)</li>
-
     <li class="w"><span class="sv4-num">[30]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_1936847">Horsea</a> (Ancient Roar)</li>
     <li class="w"><span class="sv4-num">[31]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_1954181">Seadra</a> (Ancient Roar)</li>
     <li class="w"><span class="sv4-num">[32]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_1971570">Kingdra</a> (Ancient Roar)</li>
@@ -143,7 +96,6 @@ showHeading: false
     <li class="w"><span class="sv4-num">[55]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_301300">Dondozo</a> (Raging Surf)</li>
     <li class="w fut"><span class="sv4-num">[56]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691917969584_83585">Iron Bundle</a> (Future Flash)</li>
     <li class="w"><span class="sv4-num">[57]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_320572">Chien-Pao</a> (Future Flash)</li>
-
     <li class="l"><span class="sv4-num">[58]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691838010171_135646">Mewtwo ex</a> (Starter Set Mewtwo)</li>
     <li class="l"><span class="sv4-num">[59]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_2699447">Elekid</a> (Future Flash)</li>
     <li class="l"><span class="sv4-num">[60]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_281745">Plusle</a> (Raging Surf)</li>
@@ -157,7 +109,6 @@ showHeading: false
     <li class="l"><span class="sv4-num">[68]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_2023329">Tapu Koko ex</a> (Raging Surf)</li>
     <li class="l"><span class="sv4-num">[69]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697203092813_331367">Toxel</a> (Future Flash)</li>
     <li class="l fut"><span class="sv4-num">[70]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1692278768447_136287">Iron Hands ex</a> (Future Flash)</li>
-
     <li class="p"><span class="sv4-num">[71]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_386050">Natu</a> (Starter Set Mewtwo)</li>
     <li class="p"><span class="sv4-num">[72]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_429225">Xatu</a> (Starter Set Mewtwo)</li>
     <li class="p"><span class="sv4-num">[73]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697579462091_3931663">Latios</a> (Ancient Roar)</li>
@@ -177,7 +128,6 @@ showHeading: false
     <li class="p"><span class="sv4-num">[87]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1692278426022_44927">Gimmighoul</a> (Raging Surf)</li>
     <li class="p"><span class="sv4-num">[88]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_566191">Gimmighoul</a> (Raging Surf)</li>
     <li class="p fut"><span class="sv4-num">[89]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691917969584_216649">Iron Valiant ex</a> (Future Flash)</li>
-
     <li class="f"><span class="sv4-num">[90]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697564216698_656094">Onix</a> (Future Flash)</li>
     <li class="f"><span class="sv4-num">[91]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_1057675">Gligar</a> (Raging Surf)</li>
     <li class="f"><span class="sv4-num">[92]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_1067521">Gliscor</a> (Raging Surf)</li>
@@ -198,7 +148,6 @@ showHeading: false
     <li class="f anc"><span class="sv4-num">[107]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_1091869">Slither Wing</a> (Ancient Roar)</li>
     <li class="f anc"><span class="sv4-num">[108]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1692278768447_167142">Sandy Shocks ex</a> (Ancient Roar)</li>
     <li class="f"><span class="sv4-num">[109]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_409913">Ting-Lu</a> (Ancient Roar)</li>
-
     <li class="d"><span class="sv4-num">[110]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696855317954_195080">Zubat</a> (Ancient Roar)</li>
     <li class="d"><span class="sv4-num">[111]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696855317954_210018">Golbat</a> (Ancient Roar)</li>
     <li class="d"><span class="sv4-num">[112]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696855317954_224427">Crobat</a> (Ancient Roar)</li>
@@ -214,7 +163,6 @@ showHeading: false
     <li class="d"><span class="sv4-num">[122]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697580528775_897252">Lokix</a> (Ancient Roar)</li>
     <li class="d anc"><span class="sv4-num">[123]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691917969584_288226">Brute Bonnet</a> (Ancient Roar)</li>
     <li class="d anc"><span class="sv4-num">[124]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691917969584_357480">Roaring Moon ex</a> (Ancient Roar)</li>
-
     <li class="m"><span class="sv4-num">[125]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697564216698_235709">Steelix</a> (Future Flash)</li>
     <li class="m"><span class="sv4-num">[126]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694253976756_91411">Jirachi</a> (Raging Surf)</li>
     <li class="m"><span class="sv4-num">[127]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_1720818">Ferroseed</a> (Raging Surf)</li>
@@ -230,10 +178,8 @@ showHeading: false
     <li class="m"><span class="sv4-num">[137]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691838010171_109459">Skeledirge ex</a> (Starter Set Skeledirge)</li>
     <li class="m"><span class="sv4-num">[138]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_1923128">Orthworm</a> (Raging Surf)</li>
     <li class="m"><span class="sv4-num">[139]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1692278768447_201558">Gholdengo ex</a> (Raging Surf)</li>
-
     <li class="n"><span class="sv4-num">[140]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_1107227">Altaria ex</a> (Future Flash)</li>
     <li class="n"><span class="sv4-num">[141]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696676292692_181586">Tatsugiri</a> (Future Flash)</li>
-
     <li class="c"><span class="sv4-num">[142]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697203092813_1939510">Porygon</a> (Future Flash)</li>
     <li class="c"><span class="sv4-num">[143]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697203092813_1955280">Porygon2</a> (Future Flash)</li>
     <li class="c"><span class="sv4-num">[144]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697203092813_1970473">Porygon-Z</a> (Future Flash)</li>
@@ -251,33 +197,30 @@ showHeading: false
     <li class="c"><span class="sv4-num">[156]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691838010171_21983">Bombirdier ex</a> (Raging Surf)</li>
     <li class="c"><span class="sv4-num">[157]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694753044298_2123087">Cyclizar</a> (Raging Surf)</li>
     <li class="c fut"><span class="sv4-num">[158]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_1257494">Iron Jugulis</a> (Future Flash)</li>
-
     <li class="anc"><span class="sv4-num">[159]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693496971996_53503">Ancient Booster Energy Capsule</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[160]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_1624526">Counter Catcher</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[161]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697555627435_518733">Cursed Duster</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[162]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696426218750_155586">Defiance Vest</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[160]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_1624526">Counter Catcher</a> (Future Flash)</li>
+    <li><span class="sv4-num">[161]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697555627435_518733">Cursed Duster</a> (Future Flash)</li>
+    <li><span class="sv4-num">[162]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696426218750_155586">Defiance Vest</a> (Ancient Roar)</li>
     <li class="anc"><span class="sv4-num">[163]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_324517">Earthen Vessel</a> (Ancient Roar)</li>
     <li class="fut"><span class="sv4-num">[164]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693496971996_113191">Future Booster Energy Capsule</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[165]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_103592">Larry</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[166]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691838010171_62778">Luxurious Cape</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[167]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_494588">Mela</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[168]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697548732738_1221044">Norman</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[169]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_725372">Parasol Lady</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[165]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_103592">Larry</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[166]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691838010171_62778">Luxurious Cape</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[167]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_494588">Mela</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[168]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697548732738_1221044">Norman</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[169]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_725372">Parasol Lady</a> (Raging Surf)</li>
     <li class="anc"><span class="sv4-num">[170]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_195568">Professor Sada's Vitality</a> (Ancient Roar)</li>
     <li class="fut"><span class="sv4-num">[171]</span> <span class="sv4-num"></span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_648123">Professor Turo's Scenario</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[172]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_107152">Rika</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[173]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697555627435_227571">Roark</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[174]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_774065">Shauntal</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[175]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_1740631">Snorlax Doll</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[176]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_110632">Technical Machine: Blindside</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[177]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_507230">Technical Machine: Devolution</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[178]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_616785">Technical Machine: Evolution</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[179]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_114164">Technical Machine: Turbo Energize</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[172]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_107152">Rika</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[173]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1697555627435_227571">Roark</a> (Future Flash)</li>
+    <li><span class="sv4-num">[174]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1693584428444_774065">Shauntal</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[175]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1696594782777_1740631">Snorlax Doll</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[176]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_110632">Technical Machine: Blindside</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[177]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_507230">Technical Machine: Devolution</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[178]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694437327812_616785">Technical Machine: Evolution</a> (Future Flash)</li>
+    <li><span class="sv4-num">[179]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1691761739470_114164">Technical Machine: Turbo Energize</a> (Raging Surf)</li>
     <li class="fut"><span class="sv4-num">[180]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_740415">Techno Radar</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[181]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_578357">Tulip</a> (Future Flash)</li>
-
-    <li class=""><span class="sv4-num">[182]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694253976756_196106">Medical Energy</a> (Raging Surf)</li>
-
+    <li><span class="sv4-num">[181]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694337478683_578357">Tulip</a> (Future Flash)</li>
+    <li><span class="sv4-num">[182]</span> <a href="/translations/sv4#block-yui_3_17_2_1_1694253976756_196106">Medical Energy</a> (Raging Surf)</li>
     <li class="g chunkborder"><span class="sv4-num">[183]</span> IR <a href="/visual/sv4#irpokemon">Crustle</a> (Ancient Roar)</li>
     <li class="g"><span class="sv4-num">[184]</span> IR <a href="/visual/sv4#irpokemon">Dottler</a> (Future Flash)</li>
     <li class="g"><span class="sv4-num">[185]</span> IR <a href="/visual/sv4#irpokemon">Toedscruel</a> (Future Flash)</li>
@@ -312,7 +255,6 @@ showHeading: false
     <li class="c"><span class="sv4-num">[214]</span> IR <a href="/visual/sv4#irpokemon">Porygon-Z</a> (Future Flash)</li>
     <li class="c"><span class="sv4-num">[215]</span> IR <a href="/visual/sv4#irpokemon">Cyclizar</a> (Raging Surf)</li>
     <li class="c"><span class="sv4-num">[216]</span> IR <a href="/visual/sv4#irpokemon">Iron Jugulis</a> (Future Flash)</li>
-
     <li class="g chunkborder"><span class="sv4-num">[217]</span> FA <a href="/visual/sv4#fapokemon">Froslass ex</a> (Raging Surf)</li>
     <li class="r"><span class="sv4-num">[218]</span> FA <a href="/visual/sv4#fapokemon">Armarouge ex</a> (Ancient Roar)</li>
     <li class="w"><span class="sv4-num">[219]</span> FA <a href="/visual/sv4#fapokemon">Garchomp ex</a> (Raging Surf)</li>
@@ -331,18 +273,16 @@ showHeading: false
     <li class="n"><span class="sv4-num">[232]</span> FA <a href="/visual/sv4#fapokemon">Altaria ex</a> (Future Flash)</li>
     <li class="c"><span class="sv4-num">[233]</span> FA <a href="/visual/sv4#fapokemon">Maushold ex</a> (Future Flash)</li>
     <li class="c"><span class="sv4-num">[234]</span> FA <a href="/visual/sv4#fapokemon">Bombirdier ex</a> (Raging Surf)</li>
-
     <li class="chunkborder"><span class="sv4-num">[235]</span> FA <a href="/visual/sv4#fapokemon">Larry</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[236]</span> FA <a href="/visual/sv4#fapokemon">Mela</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[237]</span> FA <a href="/visual/sv4#fapokemon">Norman</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[238]</span> FA <a href="/visual/sv4#fapokemon">Parasol Lady</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[236]</span> FA <a href="/visual/sv4#fapokemon">Mela</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[237]</span> FA <a href="/visual/sv4#fapokemon">Norman</a> (Ancient Roar)</li>
+    <li><span class="sv4-num">[238]</span> FA <a href="/visual/sv4#fapokemon">Parasol Lady</a> (Raging Surf)</li>
     <li class="anc"><span class="sv4-num">[239]</span> FA <a href="/visual/sv4#fapokemon">Professor Sada's Vitality</a> (Ancient Roar)</li>
     <li class="fut"><span class="sv4-num">[240]</span> FA <a href="/visual/sv4#fapokemon">Professor Turo's Scenario</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[241]</span> FA <a href="/visual/sv4#fapokemon">Rika</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[242]</span> FA <a href="/visual/sv4#fapokemon">Roark</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[243]</span> FA <a href="/visual/sv4#fapokemon">Shauntal</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[244]</span> FA <a href="/visual/sv4#fapokemon">Tulip</a> (Future Flash)</li>
-
+    <li><span class="sv4-num">[241]</span> FA <a href="/visual/sv4#fapokemon">Rika</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[242]</span> FA <a href="/visual/sv4#fapokemon">Roark</a> (Future Flash)</li>
+    <li><span class="sv4-num">[243]</span> FA <a href="/visual/sv4#fapokemon">Shauntal</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[244]</span> FA <a href="/visual/sv4#fapokemon">Tulip</a> (Future Flash)</li>
     <li class="chunkborder w"><span class="sv4-num">[245]</span> SIR <a href="/visual/sv4#sirpokemon">Garchomp ex</a> (Raging Surf)</li>
     <li class="w"><span class="sv4-num">[246]</span> SIR <a href="/visual/sv4#sirpokemon">Golisopod ex</a> (Ancient Roar)</li>
     <li class="l"><span class="sv4-num">[247]</span> SIR <a href="/visual/sv4#sirpokemon">Tapu Koko ex</a> (Raging Surf)</li>
@@ -352,64 +292,34 @@ showHeading: false
     <li class="d anc"><span class="sv4-num">[251]</span> SIR <a href="/visual/sv4#sirpokemon">Roaring Moon ex</a> (Ancient Roar)</li>
     <li class="m"><span class="sv4-num">[252]</span> SIR <a href="/visual/sv4#sirpokemon">Gholdengo ex</a> (Raging Surf)</li>
     <li class="c"><span class="sv4-num">[253]</span> SIR <a href="/visual/sv4#sirpokemon">Altaria ex</a> (Future Flash)</li>
-
     <li class="chunkborder"><span class="sv4-num">[254]</span> SIR <a href="/visual/sv4#sirsupporters">Mela</a> (Ancient Roar)</li>
-    <li class=""><span class="sv4-num">[255]</span> SIR <a href="/visual/sv4#sirsupporters">Parasol Lady</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[255]</span> SIR <a href="/visual/sv4#sirsupporters">Parasol Lady</a> (Raging Surf)</li>
     <li class="anc"><span class="sv4-num">[256]</span> SIR <a href="/visual/sv4#sirsupporters">Professor Sada's Vitality</a> (Ancient Roar)</li>
     <li class="fut"><span class="sv4-num">[257]</span> SIR <a href="/visual/sv4#sirsupporters">Professor Turo's Scenario</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[258]</span> SIR <a href="/visual/sv4#sirsupporters">Rika</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[259]</span> SIR <a href="/visual/sv4#sirsupporters">Tulip</a> (Future Flash)</li>
-
+    <li><span class="sv4-num">[258]</span> SIR <a href="/visual/sv4#sirsupporters">Rika</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[259]</span> SIR <a href="/visual/sv4#sirsupporters">Tulip</a> (Future Flash)</li>
     <li class="chunkborder w"><span class="sv4-num">[260]</span> GOLD <a href="/visual/sv4#gold">Garchomp ex</a> (Raging Surf)</li>
     <li class="p"><span class="sv4-num">[261]</span> GOLD <a href="/visual/sv4#gold">Iron Valiant ex</a> (Future Flash)</li>
     <li class="d"><span class="sv4-num">[262]</span> GOLD <a href="/visual/sv4#gold">Roaring Moon ex</a> (Ancient Roar)</li>
-
-    <li class=""><span class="sv4-num">[263]</span> GOLD <a href="/visual/sv4#gold">Beach Court</a> (Raging Surf)</li>
-    <li class=""><span class="sv4-num">[264]</span> GOLD <a href="/visual/sv4#gold">Counter Catcher</a> (Future Flash)</li>
-    <li class=""><span class="sv4-num">[265]</span> GOLD <a href="/visual/sv4#gold">Luxurious Cape</a> (Unknown Origin)</li>
-    <li class=""><span class="sv4-num">[266]</span> GOLD <a href="/visual/sv4#gold">Reversal Energy</a> (Raging Surf)</li>
-   
+    <li><span class="sv4-num">[263]</span> GOLD <a href="/visual/sv4#gold">Beach Court</a> (Raging Surf)</li>
+    <li><span class="sv4-num">[264]</span> GOLD <a href="/visual/sv4#gold">Counter Catcher</a> (Future Flash)</li>
+    <li><span class="sv4-num">[265]</span> GOLD <a href="/visual/sv4#gold">Luxurious Cape</a> (Unknown Origin)</li>
+    <li><span class="sv4-num">[266]</span> GOLD <a href="/visual/sv4#gold">Reversal Energy</a> (Raging Surf)</li>
   </ol> 
 </div>
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-9a09ac6db017facce65b"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1697574848699_62026"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">CARDS INTENTIONALLY EXCLUDED FROM LIST</h3><p class="" style="white-space:pre-wrap;">The cards below may appear in a future set, as promo cards, or may see their release in some other way.</p>
 </div>
 
+---
 
 
 
+### CARDS INTENTIONALLY EXCLUDED FROM LIST
 
+The cards below may appear in a future set, as promo cards, or may see their release in some other way.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1697574848699_63274" id="block-yui_3_17_2_1_1697574848699_63274"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">Note: Because the number of cards in this set's sources exceed the 182 cards in the set, it is likely that 20-30 cards will be cut from the set and moved into a "Scarlet & Violet 4.5" mini set that would release sometime in January or February alongside cards from Shiny Treasure.</p>-->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
     <li class="g"><a href="/translations/sv45#block-yui_3_17_2_1_1697781795327_54353">Maractus</a> (Ancient Roar)</li>
     <li class="r"><a href="/translations/sv45#block-yui_3_17_2_1_1697577653262_29682">Magmar</a> (Starter Set Skeledirge)</li>
     <li class="r"><a href="/translations/sv45#block-yui_3_17_2_1_1697577653262_57446">Magmortar</a> (Starter Set Skeledirge)</li>
@@ -438,167 +348,86 @@ showHeading: false
     <li class="d"><a href="/translations/sv45#block-yui_3_17_2_1_1697577653262_456709">Gengar</a> (Raging Surf)</li>
     <li class="d"><a href="/translations/sv45#block-yui_3_17_2_1_1697577653262_461401">Scraggy</a> (Raging Surf)</li>
     <li class="d"><a href="/translations/sv45#block-yui_3_17_2_1_1697577653262_466150">Scrafty</a> (Raging Surf)</li>
-   
   </ol> 
 </div>
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="14e3586d3df8ce73e25d" id="block-14e3586d3df8ce73e25d"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-f4e26d8bf4fc3179ece0"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;"><strong>Other set details</strong></h3><p class="" style="white-space:pre-wrap;">Paradox Rift is expected to be comprised of cards from the Japanese set Raging Surf (22 September 2023, 62 cards) and cards from the twin Japanese sets Ancient Roar and Future Flash (expected October 2023, 66 cards each). This set will have a focus on Paradox Pokémon, which will have special “Ancient” and “Future” gimmick markers similar to that of the previous “Rapid Strike”, “Single Strike”, and “Fusion Strike” mechanic.</p>
 </div>
 
+### **Other set details**
+
+Paradox Rift is expected to be comprised of cards from the Japanese set Raging Surf (22 September 2023, 62 cards) and cards from the twin Japanese sets Ancient Roar and Future Flash (expected October 2023, 66 cards each). This set will have a focus on Paradox Pokémon, which will have special “Ancient” and “Future” gimmick markers similar to that of the previous “Rapid Strike”, “Single Strike”, and “Fusion Strike” mechanic.
+
+<div class="jb-row"><div class="jb-col-3">
+
+### Card Counts
+
+- Cards: 182, before secret rares
+- Chase Card Pokémon: 20 (13 regular, 7 tera)
+- Trainer Cards: 20+
+- Special Energy: 1
+- Illustration Rares: 34
+- Special Illustration Rares: 15
+- Full Art Cards: 28
+- Gold Cards: 7
+
+</div><div class="jb-col-3">
+
+### Chase Pokémon
+
+1. Froslass ex
+2. Armarouge ex
+3. Garchomp ex
+4. Tsareena ex
+5. Golisopod ex
+6. Mewtwo ex
+7. Tapu Koko ex
+8. Iron Hands ex
+9. Cofagrigus ex
+10. Iron Valiant ex
+11. Hoopa ex
+12. Toxtricity ex
+13. Sandy Shocks ex
+14. Roaring Moon ex
+15. Aegislash ex
+16. Skeledirge ex
+17. Gholdengo ex
+18. Altaria ex
+19. Maushold ex
+20. Bombirdier ex
+
+</div><div class="jb-col-3">
+
+### Trainer Cards
+
+1. Ancient Booster Energy Capsule
+2. Counter Catcher
+3. Defiance Vest
+4. Earthen Vessel
+5. Future Booster Energy Capsule
+6. Larry
+7. Luxurious Cape
+8. Mela
+9. Parasol Lady
+10. Professor Sada’s Vitality
+11. Professor Turo’s Scenario
+12. Rika
+13. Shauntal
+14. Snorlax Doll
+15. Technical Machine: Blindside
+16. Technical Machine: Devolution
+17. Technical Machine: Evolution
+18. Technical Machine: Turbo Energize
+19. Techno Radar
+20. Tulip
+
+</div><div class="jb-col-3">
+
+### Special Energy
+
+1. Medical Energy
+
+</div></div>
+
+---
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-90cb797afce318497241"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Card Counts</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Cards: 182, before secret rares</p></li><li><p class="" style="white-space:pre-wrap;">Chase Card Pokémon: 20 (13 regular, 7 tera)</p></li><li><p class="" style="white-space:pre-wrap;">Trainer Cards: 20+</p></li><li><p class="" style="white-space:pre-wrap;">Special Energy: 1</p></li><li><p class="" style="white-space:pre-wrap;">Illustration Rares: 34</p></li><li><p class="" style="white-space:pre-wrap;">Special Illustration Rares: 15</p></li><li><p class="" style="white-space:pre-wrap;">Full Art Cards: 28</p></li><li><p class="" style="white-space:pre-wrap;">Gold Cards: 7</p></li></ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-daedb117a839e290ac5a"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Chase Pokémon</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Froslass ex</p></li><li><p class="" style="white-space:pre-wrap;">Armarouge ex</p></li><li><p class="" style="white-space:pre-wrap;">Garchomp ex</p></li><li><p class="" style="white-space:pre-wrap;">Tsareena ex</p></li><li><p class="" style="white-space:pre-wrap;">Golisopod ex</p></li><li><p class="" style="white-space:pre-wrap;">Mewtwo ex</p></li><li><p class="" style="white-space:pre-wrap;">Tapu Koko ex</p></li><li><p class="" style="white-space:pre-wrap;">Iron Hands ex</p></li><li><p class="" style="white-space:pre-wrap;">Cofagrigus ex </p></li><li><p class="" style="white-space:pre-wrap;">Iron Valiant ex</p></li><li><p class="" style="white-space:pre-wrap;">Hoopa ex</p></li><li><p class="" style="white-space:pre-wrap;">Toxtricity ex</p></li><li><p class="" style="white-space:pre-wrap;">Sandy Shocks ex</p></li><li><p class="" style="white-space:pre-wrap;">Roaring Moon ex</p></li><li><p class="" style="white-space:pre-wrap;">Aegislash ex</p></li><li><p class="" style="white-space:pre-wrap;">Skeledirge ex</p></li><li><p class="" style="white-space:pre-wrap;">Gholdengo ex</p></li><li><p class="" style="white-space:pre-wrap;">Altaria ex</p></li><li><p class="" style="white-space:pre-wrap;">Maushold ex</p></li><li><p class="" style="white-space:pre-wrap;">Bombirdier ex</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-d00ed1eeaccab8e79971"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Trainer Cards</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Ancient Booster Energy Capsule</p></li><li><p class="" style="white-space:pre-wrap;">Counter Catcher</p></li><li><p class="" style="white-space:pre-wrap;">Defiance Vest</p></li><li><p class="" style="white-space:pre-wrap;">Earthen Vessel</p></li><li><p class="" style="white-space:pre-wrap;">Future Booster Energy Capsule</p></li><li><p class="" style="white-space:pre-wrap;">Larry</p></li><li><p class="" style="white-space:pre-wrap;">Luxurious Cape </p></li><li><p class="" style="white-space:pre-wrap;">Mela</p></li><li><p class="" style="white-space:pre-wrap;">Parasol Lady</p></li><li><p class="" style="white-space:pre-wrap;">Professor Sada’s Vitality</p></li><li><p class="" style="white-space:pre-wrap;">Professor Turo’s Scenario</p></li><li><p class="" style="white-space:pre-wrap;">Rika</p></li><li><p class="" style="white-space:pre-wrap;">Shauntal</p></li><li><p class="" style="white-space:pre-wrap;">Snorlax Doll</p></li><li><p class="" style="white-space:pre-wrap;">Technical Machine: Blindside</p></li><li><p class="" style="white-space:pre-wrap;">Technical Machine: Devolution</p></li><li><p class="" style="white-space:pre-wrap;">Technical Machine: Evolution</p></li><li><p class="" style="white-space:pre-wrap;">Technical Machine: Turbo Energize</p></li><li><p class="" style="white-space:pre-wrap;">Techno Radar</p></li><li><p class="" style="white-space:pre-wrap;">Tulip</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-8d86d7c18029625817a2"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Special Energy</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Medical Energy</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-24b205956b48e5d13aba"><div class="sqs-block-content"><hr></div></div></div></div>

@@ -7,41 +7,15 @@ sourceUrl: "https://www.justinbasil.com/resources/345-wide-initial-ban-list"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1710272925024_2095"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p class="" style="white-space:pre-wrap;">As <a href="/resources/345-goes-wide-345-format-expands-to-sun-amp-moon-onward-is-now-a-non-rotating-format" target="_blank">noted previously</a>, beginning with the official rotation of the Standard format on April 5th, 2024, the 345 format will “go wide” and expand its card pool to include cards from sets prior to <em>Sword &amp; Shield—Battle Styles</em>. On that date, the 345 Format will expand to include all rule-conforming cards that released from <em>Sun &amp; Moon </em>base set and later, including Black Star promo cards from the Sun &amp; Moon era and later.</p><p class="" style="white-space:pre-wrap;">An updated ban list is now available below. This expanded ban list reigns in cards from the Sun &amp; Moon and Sword &amp; Shield eras in the new 345 format. All prints of cards listed below will be banned in the format as of its update.</p>
-</div>
 
 
+As [noted previously](/resources/345-goes-wide-345-format-expands-to-sun-amp-moon-onward-is-now-a-non-rotating-format), beginning with the official rotation of the Standard format on April 5th, 2024, the 345 format will “go wide” and expand its card pool to include cards from sets prior to *Sword & Shield—Battle Styles*. On that date, the 345 Format will expand to include all rule-conforming cards that released from *Sun & Moon* base set and later, including Black Star promo cards from the Sun & Moon era and later.
 
+An updated ban list is now available below. This expanded ban list reigns in cards from the Sun & Moon and Sword & Shield eras in the new 345 format. All prints of cards listed below will be banned in the format as of its update.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1710272849101_88913" id="block-yui_3_17_2_1_1710272849101_88913"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <div style="width:100%; margin-top:10px;" class="mobile-collapse links">
-  <ul style="margin-top:0px; margin-bottom:0px;">
-
+<div class="jb-code-container">
+    <div class="mobile-collapse links jb-mt-10">
+  <ul>
 <li><a href="https://limitlesstcg.com/cards/teu/130/">Aerodactyl TEU 130</a></li>
 <li><a href="https://limitlesstcg.com/cards/brs/71/">Alcremie BRS 71</a></li>
 <li><a href="https://limitlesstcg.com/cards/pgo/57/">Ambipom PGO 57</a></li>
@@ -124,46 +98,15 @@ showHeading: false
 <li><a href="https://limitlesstcg.com/cards/gri/91/">Whimsicott GRI 91</a></li>
 <li><a href="https://limitlesstcg.com/cards/evs/46/">Wishiwashi EVS 46</a></li>
 <li><a href="https://limitlesstcg.com/cards/unb/60/">Zeraora UNB 60</a></li>
-
   </ul>
 </div>
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-271f7b17e02fc49cc536"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p class="" style="white-space:pre-wrap;">The ban list prior to the format going wide can be found below, for history’s sake:</p>
 </div>
 
+The ban list prior to the format going wide can be found below, for history’s sake:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1710273097998_8664" id="block-yui_3_17_2_1_1710273097998_8664"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <div style="width:100%; margin-top:10px;" class="mobile-collapse links">
-  <ul style="margin-top:0px; margin-bottom:0px;">
+<div class="jb-code-container">
+    <div class="mobile-collapse links jb-mt-10">
+  <ul>
     <li><a href="https://limitlesstcg.com/cards/brs/71/">Alcremie BRS 71</a></li>
     <li><a href="https://limitlesstcg.com/cards/pgo/57/">Ambipom PGO 57</a></li>
     <li><a href="https://limitlesstcg.com/cards/brs/132/">Boss's Orders BRS 132</a></li>
@@ -198,6 +141,5 @@ showHeading: false
     <li><a href="https://limitlesstcg.com/cards/evs/46/">Wishiwashi EVS 46</a></li>
   </ul>
 </div>
-  
 </div>
-</div></div></div></div>
+

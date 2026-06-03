@@ -5,78 +5,25 @@ sourceUrl: "https://www.justinbasil.com/rotation/f-on/card-status"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-5ceb238fd46223aa2d3d"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p class="" style="white-space:pre-wrap;">&lt; Archetypes to Consider after Rotation | <a href="/rotation/f-on">Table of Contents</a></p>
-</div>
 
 
+< Archetypes to Consider after Rotation | [Table of Contents](/rotation/f-on)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="08edcec9564968773bbe" id="block-08edcec9564968773bbe"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    &nbsp;<p style="font-size: 19px; font-weight: bold; text-transform: uppercase; text-align: center;">Appendix III
-  
+<div class="jb-code-container">
+    &nbsp;<p class="jb-h-19">Appendix III
 </p></div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-e0e5800c6dade4a56dd2"><div class="sqs-block-content">
 
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h1 style="text-align:center;white-space:pre-wrap;">2024 Rotation Card Status (BST-FST)</h1><h2 style="white-space:pre-wrap;">Battle Styles (BST)</h2><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Battle Styles, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
-</div>
+# 2024 Rotation Card Status (BST-FST)
 
+## Battle Styles (BST)
 
+Below is the full list of cards in the set Battle Styles, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="370618db32a906a01a8c" id="block-370618db32a906a01a8c"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-
 </tr><tr><td>1/163</td><td>Bellsprout</td><td>Rotated<br></td></tr>
 <tr><td>2/163</td><td>Weepinbell</td><td>Rotated<br></td></tr>
 <tr><td>3/163</td><td>Victreebel</td><td>Rotated<br></td></tr>
@@ -260,57 +207,20 @@ showHeading: false
 <tr><td>181/163</td><td>Level Ball</td><td>Rotated<br></td></tr>
 <tr><td>182/163</td><td>Rapid Strike Energy</td><td>Rotated<br></td></tr>
 <tr><td>183/163</td><td>Single Strike Energy</td><td>Rotated<br></td></tr>
-
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="365d7a8e174510d05cdf" id="block-365d7a8e174510d05cdf"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-293a4496cc718b642d6e"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Chilling Reign (CRE)</h2><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Chilling Reign, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
 </div>
 
+## Chilling Reign (CRE)
 
+Below is the full list of cards in the set Chilling Reign, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="60918a49782085d23417" id="block-60918a49782085d23417"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-
 </tr><tr><td>1/198</td><td>Weedle</td><td>Rotated<br></td></tr>
 <tr><td>2/198</td><td>Kakuna</td><td>Rotated<br></td></tr>
 <tr><td>3/198</td><td>Beedrill</td><td>Rotated<br></td></tr>
@@ -544,50 +454,20 @@ showHeading: false
 <tr><td>231/198</td><td>Water Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>232/198</td><td>Psychic Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>233/198</td><td>Fighting Energy</td><td>Safe, Basic Energy Card</td></tr>
-
-
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-6910ab88ded50820343b"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Evolving Skies (EVS)</h2><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Evolving Skies, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
 </div>
 
+## Evolving Skies (EVS)
 
+Below is the full list of cards in the set Evolving Skies, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="8c228bdd50fee962eb70" id="block-8c228bdd50fee962eb70"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-
 </tr><tr><td>1/203</td><td>Pinsir</td><td>Rotated</td></tr>
 <tr><td>2/203</td><td>Hoppip</td><td>Rotated</td></tr>
 <tr><td>3/203</td><td>Skiploom</td><td>Rotated</td></tr>
@@ -825,50 +705,22 @@ showHeading: false
 <tr><td>235/203</td><td>Lightning Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>236/203</td><td>Darkness Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>237/203</td><td>Metal Energy</td><td>Safe, Basic Energy Card</td></tr>
-
-
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-5e38ceaa9b6d4b2993c9"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Celebrations (CEL)</h2><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Celebrations, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p><p class="" style="white-space:pre-wrap;"><strong>Note: Cards from the Classic Collection weren’t legal in the Standard format, even before this rotation.</strong></p>
 </div>
 
+## Celebrations (CEL)
 
+Below is the full list of cards in the set Celebrations, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
+<strong>Note: Cards from the Classic Collection weren’t legal in the Standard format, even before this rotation.</strong>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="19e15cbf18fc4ff58cb7" id="block-19e15cbf18fc4ff58cb7"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-
 </tr><tr><td>1/25</td><td>Ho-Oh</td><td>Rotated</td></tr>
 <tr><td>2/25</td><td>Reshiram</td><td>Rotated</td></tr>
 <tr><td>3/25</td><td>Kyogre</td><td>Rotated</td></tr>
@@ -894,58 +746,20 @@ showHeading: false
 <tr><td>23/25</td><td>Professor's Research</td><td>Safe, Reprinted in Scarlet &amp; Violet (G Regulation)</td></tr>
 <tr><td>24/25</td><td>Professor's Research</td><td>Safe, Reprinted in Scarlet &amp; Violet (G Regulation)</td></tr>
 <tr><td>25/25</td><td>Mew</td><td>Rotated</td></tr>
-
-
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="48718e8c42db467077cc" id="block-48718e8c42db467077cc"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-4c6b7e020162a1e5f49d"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Fusion Strike (FST)</h2><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Fusion Strike, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
 </div>
 
+## Fusion Strike (FST)
 
+Below is the full list of cards in the set Fusion Strike, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="003b2c956f218ac15a44" id="block-003b2c956f218ac15a44"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-
 </tr><tr><td>1/264</td><td>Caterpie</td><td>Rotated</td></tr>
 <tr><td>2/264</td><td>Metapod</td><td>Rotated</td></tr>
 <tr><td>3/264</td><td>Butterfree</td><td>Rotated</td></tr>
@@ -1230,54 +1044,20 @@ showHeading: false
 <tr><td>282/264</td><td>Training Court</td><td>Rotated</td></tr>
 <tr><td>283/264</td><td>Grass Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>284/264</td><td>Fire Energy</td><td>Safe, Basic Energy Card</td></tr>
-
-
-
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="7634799fa0f4e6daa132" id="block-7634799fa0f4e6daa132"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-d9785ed6181f4c80e396"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Crown Zenith</h3><p class="" style="white-space:pre-wrap;">Because Crown Zenith is a hodgepodge set consisting of cards from over a dozen various Japanese sources, the cards have a wide variety of regulation marks. Some cards from the set are rotating in spite of their fairly recent release. Cards from the Galarian Gallery are all safe from rotation.</p><p class="" style="white-space:pre-wrap;"><strong>Main Set</strong></p><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Crown Zenith main set, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
 </div>
 
+### Crown Zenith
 
+Because Crown Zenith is a hodgepodge set consisting of cards from over a dozen various Japanese sources, the cards have a wide variety of regulation marks. Some cards from the set are rotating in spite of their fairly recent release. Cards from the Galarian Gallery are all safe from rotation.
 
+**Main Set**
 
+Below is the full list of cards in the set Crown Zenith main set, with the rotation status for each card. If a card was safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="5efac836b119b362f62a" id="block-5efac836b119b362f62a"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
@@ -4021,40 +3801,13 @@ showHeading: false
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-3c18c67d77126cf6f409"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p class="" style="white-space:pre-wrap;"><strong>Galarian Gallery</strong></p><p class="" style="white-space:pre-wrap;">Below is the full list of cards in the set Crown Zenith Galarian Gallery, with the rotation status for each card. If a card is safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
 </div>
 
+**Galarian Gallery**
 
+Below is the full list of cards in the set Crown Zenith Galarian Gallery, with the rotation status for each card. If a card is safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="ca58dd1938d6cc3027d8" id="block-ca58dd1938d6cc3027d8"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-block jb-component-block jb-block-component jb-block-code jb-code-block"><div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
@@ -4408,44 +4161,17 @@ showHeading: false
         <td>Safe, F Regulation</td>
     </tr>
 </tbody></table>
-  
 </div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-636cb124c75f3dff712c"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Sword &amp; Shield Black Star Promos</h2><p class="" style="white-space:pre-wrap;">Below is a list of Black Star promo cards from the Sword &amp; Shield era, beginning with SWSH088, together with the rotation status for each card. If a card is safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.</p>
 </div>
 
+## Sword & Shield Black Star Promos
 
+Below is a list of Black Star promo cards from the Sword & Shield era, beginning with SWSH088, together with the rotation status for each card. If a card is safe from the 2024 rotation, it will have been reprinted with the “F” regulation mark or newer.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="9185429d054ee6164101" id="block-9185429d054ee6164101"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <div class="table-collapse">
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
-
         <tr>
             <td>
                 <p>
@@ -6367,7 +6093,6 @@ showHeading: false
                 </p>
             </td>
         </tr>
-
       <tr><td>SWSH204</td><td>Arceus V</td><td>Safe, Regulation F</td></tr>
 <tr><td>SWSH205</td><td>Hisuian Basculegion</td><td>Safe, Regulation F</td></tr>
 <tr><td>SWSH206</td><td>Wyrdeer</td><td>Safe, Regulation F</td></tr>
@@ -6472,41 +6197,14 @@ showHeading: false
 <tr><td>SWSH305</td><td>Greninja</td><td>Safe, Regulation F</td></tr>
 <tr><td>SWSH306</td><td>Arceus V</td><td>Safe, Regulation F</td></tr>
 <tr><td>SWSH307</td><td>Arceus VSTAR</td><td>Safe, Regulation F</td></tr>
-
     </tbody>
 </table>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-acfb07c0178054843c71"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p style="text-align:center;white-space:pre-wrap;" class="">&lt; Archetypes to Consider after Rotation | <a href="/rotation/f-on">Table of Contents</a> (Rotation Survival Guide)</p><p style="text-align:center;white-space:pre-wrap;" class="">&lt; <a href="/guide/appendix2">Appendix II: Staples and Other Key Cards</a> | <a href="/guide">Table of Contents (Deck Building Guide)</a> | <a href="/guide/appendix4">Appendix IV: Some Deck Math</a> &gt;</p>
 </div>
 
+< Archetypes to Consider after Rotation | [Table of Contents](/rotation/f-on) (Rotation Survival Guide)
 
+< [Appendix II: Staples and Other Key Cards](/guide/appendix2) | [Table of Contents (Deck Building Guide)](/guide) | [Appendix IV: Some Deck Math](/guide/appendix4) >
 
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div></div></div>
-              

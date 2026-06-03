@@ -19,8 +19,13 @@ const sharedFields = {
   navTitle: fields.text({ label: 'Nav title (optional)' }),
   ogImage: fields.text({ label: 'OG image path (optional)' }),
   sourceUrl: fields.url({ label: 'Original URL (provenance)' }),
+  // Present in all 730 content files; must be in the schema or every entry fails to open.
+  showHeading: fields.checkbox({ label: 'Show heading', defaultValue: false }),
   draft: fields.checkbox({ label: 'Draft', defaultValue: false }),
-  content: fields.mdx({ label: 'Body' }),
+  // Content files on disk are `.md` (see src/content/**/*.md). Keystatic's mdx field
+  // defaults to a `.mdx` extension, so without this it globs for files that don't exist
+  // and every collection shows 0 entries.
+  content: fields.mdx({ label: 'Body', extension: 'md' }),
 };
 
 const mkCollection = (label: string, dir: string, extra = {}) =>

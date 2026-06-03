@@ -1,12 +1,13 @@
 ---
+import { render } from 'astro:content';
 import PageLayout from '../layouts/PageLayout.astro';
 
-// The body is preserved verbatim Squarespace HTML. We inject it raw with set:html
-// rather than letting Markdown process it (Markdown mangles indented HTML / code
-// blocks). entry.body is the raw content (frontmatter stripped).
+// Render the entry through Astro's Markdown pipeline. Embedded raw HTML passes through;
+// real Markdown (headings/paragraphs/lists/links/tables) compiles. Block-level HTML in
+// bodies must be left-aligned and separated by blank lines (the transform handles that).
 const { entry } = Astro.props;
 const data = entry.data as any;
-const body: string = entry.body ?? '';
+const { Content } = await render(entry);
 const youtubeId: string | undefined = data.youtubeId;
 ---
 
@@ -37,7 +38,9 @@ const youtubeId: string | undefined = data.youtubeId;
       ></iframe>
     </div>
   )}
-  <div class:list={['sqs-content', { 'has-video-embed': youtubeId }]} set:html={body} />
+  <div class:list={['sqs-content', { 'has-video-embed': youtubeId }]}>
+    <Content />
+  </div>
 </PageLayout>
 
 <style is:global>

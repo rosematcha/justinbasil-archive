@@ -5,112 +5,46 @@ sourceUrl: "https://www.justinbasil.com/set-lists/ss9"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1655644768429_12746" id="block-yui_3_17_2_1_1655644768429_12746"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <div style="margin:10px;
-  background-image:url(/images/36b057cfb4895166.webp);
-  background-size:cover;
-  background-position:center;
-  padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px">
+<div class="jb-code-container">
+    <div style="margin:10px; background-image:url(/images/36b057cfb4895166.webp); background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
   <div>
-    <img style="max-height:165px; display:block; margin-left:auto; margin-right:auto;" src="/images/a96cc021e871042a.webp" loading="lazy">
-    <img alt="Brilliant Stars Set Symbol" style="vertical-align:middle; margin-left:auto; margin-right:auto; display:block;" src="/s/ss9.png" loading="lazy">
-    <h1 style="color:#fff; text-align:center; margin:15px;">Set List</h1>
-    <hr style="width:50%;">
-    <p style="text-align:center; margin:0px;">Learn more about Brilliant Stars by visiting the articles below.
+    <img src="/images/a96cc021e871042a.webp" loading="lazy" class="jb-deck-thumb">
+    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center">
+    <h1 class="jb-cta-title">Set List</h1>
+    <hr>
+    <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
     <br>
-    </p><p style="text-align:center; margin:0px;">
-          <a class="" href="/set-lists/ss9">Set List</a> | 
+    </p><p class="jb-decklist-center">
+          <a href="/set-lists/ss9">Set List</a> | 
           <a class="blink" href="/visual/ss9">Visual Set List</a> | 
           <a class="blink" href="/highlights/ss9">Set Highlights</a> |
           <a class="blink" href="/new-decks/ss9">New Archetypes</a>
     </p>
   </div>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1655644768429_12814"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;">set size: 172 cards (before Secret Rares)</h3><p style="text-align:center;white-space:pre-wrap;" class="">Set Abbreviation: BRS</p><p style="text-align:center;white-space:pre-wrap;" class="">Below is a list of cards that will comprise our ninth Sword &amp; Shield set, Brilliant Stars, when it releases 25 February 2022. The set became legal for tournament play on 11 March 2021.</p>
 </div>
 
+### set size: 172 cards (before Secret Rares)
 
+Set Abbreviation: BRS
 
+Below is a list of cards that will comprise our ninth Sword & Shield set, Brilliant Stars, when it releases 25 February 2022. The set became legal for tournament play on 11 March 2021.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="cb01cc9b199d6c172593" id="block-cb01cc9b199d6c172593"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1633272940722_7624" id="block-yui_3_17_2_1_1633272940722_7624"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
+<div class="jb-code-container">
     <a href="/highlights/ss9"><div class="highlights">
   See this set's highlights, including the best cards for both collectors and players here!
 </div></a>
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-9229cf6efdbf4f65023f"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1635952583771_19988"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Main Set List</h3>
 </div>
 
+---
 
 
 
+### Main Set List
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="0b8ed1791979a7e211a0" id="block-0b8ed1791979a7e211a0"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">This set seems to have a loose focus on Brilliant Diamond and Shining Pearl and the Pokémon of the Sinnoh region. This set also contains a special subset called the Trainer Gallery, featuring artwork featuring Pokémon with their trainers.</p>-->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
     <li class="g"><span class="brs-num">[1]</span> <a href="https://www.serebii.net/card/starbirth/001.shtml">Exeggcute</a> (Starbirth)</li>
     <li class="g"><span class="brs-num">[2]</span> <a href="https://www.serebii.net/card/starbirth/002.shtml">Exeggutor</a> (Starbirth)</li>
     <li class="g"><span class="brs-num">[3]</span> <a href="https://www.serebii.net/card/starbirth/003.shtml">Shroomish</a> (Starbirth)</li>
@@ -299,340 +233,32 @@ showHeading: false
     <li><span class="brs-num"></span> GOLD <a href="/highlights/ss9#block-yui_3_17_2_1_1642010114558_142364">Ultra Ball</a> (Starbirth)</li>
   </ol> 
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1634659012880_7588"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p class="" style="white-space:pre-wrap;">This set introduces Pokémon VSTAR. Like Pokémon VMAX, Pokémon VSTAR evolve from basic Pokémon V. However, unlike Pokémon VMAX, Pokémon VSTAR give up just two prize cards when knocked out. Additionally, these Pokémon have a VSTAR Power—a once per game attack or ability similar to GX Attacks from the Sun &amp; Moon era.</p>
 </div>
 
+This set introduces Pokémon VSTAR. Like Pokémon VMAX, Pokémon VSTAR evolve from basic Pokémon V. However, unlike Pokémon VMAX, Pokémon VSTAR give up just two prize cards when knocked out. Additionally, these Pokémon have a VSTAR Power—a once per game attack or ability similar to GX Attacks from the Sun & Moon era.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/37fe16c5-b343-45dd-9351-f4fe432b05d9_940/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/37fe16c5-b343-45dd-9351-f4fe432b05d9_940/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1634659012880_12316" id="block-yui_3_17_2_1_1634659012880_12316"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-video video-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/a105bd59-e005-4ba7-a62b-8027aa2c6392_362/website.components.video.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/a105bd59-e005-4ba7-a62b-8027aa2c6392_362/4032.js&quot;,&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.video/a105bd59-e005-4ba7-a62b-8027aa2c6392_362/website.components.video.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.video" data-sqsp-block="video" data-website-component-id="yui_3_17_2_1_1634659012880_9001" id="block-yui_3_17_2_1_1634659012880_9001"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <div class="intrinsic" style="max-width:100%">
-    
-      
-    
-    <div class="embed-block-wrapper" style="padding-bottom:56.20608899297424%;">
-      <div class="sqs-video-wrapper" data-provider-name="YouTube" data-html="<iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfXnZ7M851Qk%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfXnZ7M851Qk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfXnZ7M851Qk%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;></iframe>" data-localized="{&quot;invalidVideo&quot;:&quot;Invalid video embed.&quot;,&quot;playButton&quot;:&quot;Play&quot;}">
-        
+<div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+    <div class="embed-block-wrapper">
+      <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfXnZ7M851Qk%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfXnZ7M851Qk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfXnZ7M851Qk%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;></iframe>">
       </div>
     </div>
-    
-  </div>
+  </div></div></div><div class="jb-col-2">
 
-</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1634690506566_8517"><div class="sqs-block-content">
+![](/images/8aaad49cd7e7e155.webp)
 
+</div><div class="jb-col-2">
 
+![](/images/98b21a7537671163.webp)
 
+</div><div class="jb-col-2"></div></div>
 
+### Trainer Gallery Subset
 
+The set description for *Brilliant Stars* mentions that it contains “a special Trainer Gallery subset of 30 cards with artwork featuring fan-favorite Trainers and Pokémon.” With this and the very high count of Full Art rarity and higher cards from the Japanese set *VMAX Climax* in mind, <strong>not all of the special cards from VMAX Climax will appear in *Brilliant Stars*</strong>. The cards that did not make it into Brilliant Stars’ Trainer Gallery will likely appear in future sets as part of their Trainer Gallery. To see cards that may be included in future Trainer Galleries, see the [Trainer Galleries article](/visual/tg). To view the images for the cards in Brilliant Stars’ Trainer Gallery, visit the [**Brilliant Stars Visual Set List**](/visual/ss9#trainergallery)<strong>.</strong>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:819px;">
-          
-        
-        
-
-        
-          
-            <button data-sqsp-image-classic-block-lightbox-button="" class="
-                  sqs-block-image-button
-                  lightbox
-                  
-          
-        
-                " data-description="" data-lightbox-theme="dark">
-              <span class="v6-visually-hidden">View fullsize</span>
-              
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:136.01954650878906%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/8aaad49cd7e7e155.webp" data-image="/images/8aaad49cd7e7e155.webp" data-image-dimensions="819x1114" data-image-focal-point="0.5,0.5" alt="" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/8aaad49cd7e7e155.webp" width="819" height="1114" sizes="(max-width: 640px) 100vw, (max-width: 767px) 16.666666666666664vw, 16.666666666666664vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/8aaad49cd7e7e155.webp 100w, /images/8aaad49cd7e7e155.webp 300w, /images/8aaad49cd7e7e155.webp 500w, /images/8aaad49cd7e7e155.webp 750w, /images/8aaad49cd7e7e155.webp 1000w, /images/8aaad49cd7e7e155.webp 1500w, /images/8aaad49cd7e7e155.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-            </button>
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1636055500001_11621"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:819px;">
-          
-        
-        
-
-        
-          
-            <button data-sqsp-image-classic-block-lightbox-button="" class="
-                  sqs-block-image-button
-                  lightbox
-                  
-          
-        
-                " data-description="" data-lightbox-theme="dark">
-              <span class="v6-visually-hidden">View fullsize</span>
-              
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:136.01954650878906%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/98b21a7537671163.webp" data-image="/images/98b21a7537671163.webp" data-image-dimensions="819x1114" data-image-focal-point="0.5,0.5" alt="" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/98b21a7537671163.webp" width="819" height="1114" sizes="(max-width: 640px) 100vw, (max-width: 767px) 16.666666666666664vw, 16.666666666666664vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/98b21a7537671163.webp 100w, /images/98b21a7537671163.webp 300w, /images/98b21a7537671163.webp 500w, /images/98b21a7537671163.webp 750w, /images/98b21a7537671163.webp 1000w, /images/98b21a7537671163.webp 1500w, /images/98b21a7537671163.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-            </button>
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-spacer spacer-block sized vsize-1" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/37fe16c5-b343-45dd-9351-f4fe432b05d9_940/website.components.spacer.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/37fe16c5-b343-45dd-9351-f4fe432b05d9_940/website.components.spacer.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.spacer" data-website-component-id="yui_3_17_2_1_1634659012880_9832" id="block-yui_3_17_2_1_1634659012880_9832"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1635952583771_21901"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Trainer Gallery Subset</h3><p class="" style="white-space:pre-wrap;">The set description for <em>Brilliant Stars </em>mentions that it contains “a special Trainer Gallery subset of 30 cards with artwork featuring fan-favorite Trainers and Pokémon.” With this and the very high count of Full Art rarity and higher cards from the Japanese set <em>VMAX Climax </em>in mind, <strong>not all of the special cards from VMAX Climax will appear in <em>Brilliant Stars</em></strong>. The cards that did not make it into Brilliant Stars’ Trainer Gallery will likely appear in future sets as part of their Trainer Gallery. To see cards that may be included in future Trainer Galleries, see the <a href="/visual/tg">Trainer Galleries article</a>. To view the images for the cards in Brilliant Stars’ Trainer Gallery, visit the <a href="/visual/ss9#trainergallery"><strong>Brilliant Stars Visual Set List</strong></a><strong>.</strong></p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1641534477360_12782" id="block-yui_3_17_2_1_1641534477360_12782"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">This set seems to focus on Pokémon Legends: Arceus and the new Pokémon from the Hisui region.</p> -->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
-
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
 <li class="g out">CHR Abomasnow </li>
 <li class="g out">CHR Flapple </li>
 <li class="r out">CHR Charizard </li>
@@ -703,15 +329,15 @@ showHeading: false
 <li class="n out">CSR Rayquaza VMAX </li>
 <li class="n out">CSR Duraludon VMAX </li>
 <li class="c out">CSR Blissey V </li>
-<li class="">[TG24] FA Acerola's Premonition </li>
+<li>[TG24] FA Acerola's Premonition </li>
 <li class="out">FA Adventurer's Discovery </li>
 <li class="out">FA Allister </li>
 <li class="out">FA Bea </li>
 <li class="out">FA Boss's Orders </li>
-<li class="">[TG25] FA Café Master </li>
+<li>[TG25] FA Café Master </li>
 <li class="out">FA Cook </li>
 <li class="out">FA Friends in Galar </li>
-<li class="">[TG26] FA Gloria </li>
+<li>[TG26] FA Gloria </li>
 <li class="out">FA Gordie </li>
 <li class="out">FA Judge </li>
 <li class="out">FA Kabu </li>
@@ -723,8 +349,8 @@ showHeading: false
 <li class="out">FA Professor Burnet </li>
 <li class="out">FA Professor's Research </li>
 <li class="out">FA Raihan </li>
-<li class="">[TG27] FA Rapid Strike Mustard </li>
-<li class="">[TG28] FA Single Strike Mustard </li>
+<li>[TG27] FA Rapid Strike Mustard </li>
+<li>[TG28] FA Single Strike Mustard </li>
 <li class="out">FA Sordward &amp; Shielbert </li>
 <li class="w out">GOLD Ice Rider Calyrex VMAX </li>
 <li class="l out">GOLD Pikachu VMAX </li>
@@ -734,59 +360,21 @@ showHeading: false
 <li class="f">[TG30] GOLD Rapid Strike Urshifu VMAX </li>
 <li class="n out">GOLD Rayquaza VMAX </li>
 <li class="n out">GOLD Duraludon VMAX </li>
-
   </ol> 
 </div>
-
-
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-6c5e3ac958406081ec05"><div class="sqs-block-content"><hr></div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="6fcc8191db92a05f5124" id="block-6fcc8191db92a05f5124"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-4732355795d8bd6968b3"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Cards Intentionally Excluded From List</h3><p class="" style="white-space:pre-wrap;">The cards below may appear as promo cards or may see their release in some other way.</p>
 </div>
 
+---
 
 
 
+### Cards Intentionally Excluded From List
 
+The cards below may appear as promo cards or may see their release in some other way.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1636551835833_14801" id="block-yui_3_17_2_1_1636551835833_14801"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">This set seems to focus on Pokémon Legends: Arceus and the new Pokémon from the Hisui region.</p> -->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
-
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
         <li class="w fs"><a href="https://www.pokebeach.com/2021/10/galarian-mr-rime-v-sylveon-curry-rice-and-more-gym-promos-revealed">Galarian Mr. Rime V</a> (Promo)</li>
     <li class="l"><a href="https://www.serebii.net/card/starterdeck100/129.shtml">Pikachu V</a> (Start Deck 100)</li>
     <li class="l"><a href="https://www.pokebeach.com/2021/11/morpeko-v-union-mimikyu-vmax-acerolas-premonition-and-more-from-vmax-climax">Morpeko V-UNION</a> (VMAX Climax)</li>
@@ -805,158 +393,98 @@ showHeading: false
     <li>Switch (Start Deck 100)</li>
   </ol> 
 </div>
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1636551835833_14864"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;"><strong>Other set details</strong></h3><p class="" style="white-space:pre-wrap;">Brilliant Stars is comprised of new cards from the Japanese set VMAX Climax (3 December 2021, 194 cards before secret rares, 14 new cards excluding full arts and character rares), any new cards from Start Deck 100 (17 December 2021, 414 cards, primarily reprints but with 30-40 new cards), plus cards from the Japanese S9 set Starbirth (14 January 2022, 100 cards, plus 10-14 full art cards).</p>
 </div>
 
+### **Other set details**
+
+Brilliant Stars is comprised of new cards from the Japanese set VMAX Climax (3 December 2021, 194 cards before secret rares, 14 new cards excluding full arts and character rares), any new cards from Start Deck 100 (17 December 2021, 414 cards, primarily reprints but with 30-40 new cards), plus cards from the Japanese S9 set Starbirth (14 January 2022, 100 cards, plus 10-14 full art cards).
+
+<div class="jb-row"><div class="jb-col-3">
+
+### Card Counts
+
+- Cards: 172, before secret rares
+- Pokémon V: 20, with 15 full art Pokémon V
+- Pokémon VMAX: 3
+- Pokémon VSTAR: 4
+- Trainer Cards: 22, with 6 full art Supporter cards
+- Special Energy: 1
+
+### Special Energy
+
+1. Double Turbo Energy
+
+</div><div class="jb-col-3">
+
+### Pokémon V
+
+1. Shaymin V
+2. Zarude V
+3. Charizard V
+4. Entei V
+5. Simisear V
+6. Kingler V
+7. Lumineon V
+8. (FA Only) Pikachu V
+9. Raichu V
+10. Raikou V
+11. Granbull V
+12. Whimsicott V
+13. Mimikyu V
+14. Honchkrow V
+15. Morpeko V
+16. Aggron V
+17. Zamazenta V
+18. Flygon V
+19. Drampa V
+20. Dracovish V
+21. Arceus V
+
+</div><div class="jb-col-3">
+
+### Pokémon VMAX
+
+1. Kingler VMAX
+2. Mimikyu VMAX
+3. Aggron VMAX
+
+### Pokémon VStar
+
+1. Shaymin VSTAR
+2. Charizard VSTAR
+3. Whimsicott VSTAR
+4. Arceus VSTAR
+
+</div><div class="jb-col-3">
+
+### Trainer Cards
+
+1. Acerola’s Premonition
+2. Barry
+3. Blunder Policy
+4. Boss’s Orders {Cyrus}
+5. Café Master
+6. Cheren’s Care
+7. Choice Belt
+8. Cleansing Gloves
+9. Collapsed Stadium
+10. Cynthia’s Ambition
+11. Fresh Water Set
+12. Friends in Galar
+13. Gloria
+14. Hunting Gloves
+15. Kindler
+16. Magma Basin
+17. Marnie’s Pride
+18. Pot Helmet
+19. Professor’s Research {Professor Rowan}
+20. Roseanne’s Backup
+21. Team Yell’s Cheer
+22. Ultra Ball
+
+</div></div>
+
+---
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-faf05914a817830d0ff9"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Card Counts</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Cards: 172, before secret rares</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon V: 20, with 15 full art Pokémon V</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon VMAX: 3</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon VSTAR: 4</p></li><li><p class="" style="white-space:pre-wrap;">Trainer Cards: 22, with 6 full art Supporter cards</p></li><li><p class="" style="white-space:pre-wrap;">Special Energy: 1</p></li></ul><h3 style="white-space:pre-wrap;">Special Energy</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Double Turbo Energy </p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-01045bb60a1ff6821e66"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Pokémon V</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Shaymin V</p></li><li><p class="" style="white-space:pre-wrap;">Zarude V</p></li><li><p class="" style="white-space:pre-wrap;">Charizard V</p></li><li><p class="" style="white-space:pre-wrap;">Entei V</p></li><li><p class="" style="white-space:pre-wrap;">Simisear V</p></li><li><p class="" style="white-space:pre-wrap;">Kingler V</p></li><li><p class="" style="white-space:pre-wrap;">Lumineon V</p></li><li><p class="" style="white-space:pre-wrap;">(FA Only) Pikachu V</p></li><li><p class="" style="white-space:pre-wrap;">Raichu V</p></li><li><p class="" style="white-space:pre-wrap;">Raikou V</p></li><li><p class="" style="white-space:pre-wrap;">Granbull V</p></li><li><p class="" style="white-space:pre-wrap;">Whimsicott V</p></li><li><p class="" style="white-space:pre-wrap;">Mimikyu V</p></li><li><p class="" style="white-space:pre-wrap;">Honchkrow V</p></li><li><p class="" style="white-space:pre-wrap;">Morpeko V</p></li><li><p class="" style="white-space:pre-wrap;">Aggron V</p></li><li><p class="" style="white-space:pre-wrap;">Zamazenta V</p></li><li><p class="" style="white-space:pre-wrap;">Flygon V</p></li><li><p class="" style="white-space:pre-wrap;">Drampa V</p></li><li><p class="" style="white-space:pre-wrap;">Dracovish V</p></li><li><p class="" style="white-space:pre-wrap;">Arceus V</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-3c0311a9fc9f86fd7cdc"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Pokémon VMAX</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Kingler VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Mimikyu VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Aggron VMAX</p></li></ol><h3 style="white-space:pre-wrap;">Pokémon VStar</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Shaymin VSTAR</p></li><li><p class="" style="white-space:pre-wrap;">Charizard VSTAR </p></li><li><p class="" style="white-space:pre-wrap;">Whimsicott VSTAR</p></li><li><p class="" style="white-space:pre-wrap;">Arceus VSTAR</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-5341ba8410661aee7b5d"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Trainer Cards</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Acerola’s Premonition</p></li><li><p class="" style="white-space:pre-wrap;">Barry</p></li><li><p class="" style="white-space:pre-wrap;">Blunder Policy</p></li><li><p class="" style="white-space:pre-wrap;">Boss’s Orders {Cyrus}</p></li><li><p class="" style="white-space:pre-wrap;">Café Master</p></li><li><p class="" style="white-space:pre-wrap;">Cheren’s Care</p></li><li><p class="" style="white-space:pre-wrap;">Choice Belt</p></li><li><p class="" style="white-space:pre-wrap;">Cleansing Gloves</p></li><li><p class="" style="white-space:pre-wrap;">Collapsed Stadium</p></li><li><p class="" style="white-space:pre-wrap;">Cynthia’s Ambition</p></li><li><p class="" style="white-space:pre-wrap;">Fresh Water Set</p></li><li><p class="" style="white-space:pre-wrap;">Friends in Galar</p></li><li><p class="" style="white-space:pre-wrap;">Gloria</p></li><li><p class="" style="white-space:pre-wrap;">Hunting Gloves</p></li><li><p class="" style="white-space:pre-wrap;">Kindler</p></li><li><p class="" style="white-space:pre-wrap;">Magma Basin</p></li><li><p class="" style="white-space:pre-wrap;">Marnie’s Pride</p></li><li><p class="" style="white-space:pre-wrap;">Pot Helmet</p></li><li><p class="" style="white-space:pre-wrap;">Professor’s Research {Professor Rowan}</p></li><li><p class="" style="white-space:pre-wrap;">Roseanne’s Backup</p></li><li><p class="" style="white-space:pre-wrap;">Team Yell’s Cheer</p></li><li><p class="" style="white-space:pre-wrap;">Ultra Ball</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-0d673779516ba7fdaa3e"><div class="sqs-block-content"><hr></div></div></div></div>

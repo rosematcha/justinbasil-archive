@@ -10,67 +10,291 @@
   overflow: hidden !important; clip: rect(0, 0, 0, 0) !important;
   white-space: nowrap !important; border: 0 !important;
 }
-.sqs-block-content > *:first-child:empty { display: none; }
+.jb-block-content > *:first-child:empty { display: none; }
 
 /* ---- Layout grid (float-based, 12 columns) ---- */
-.sqs-layout { margin: 0 auto; }
-.sqs-row { width: auto !important; }
-.sqs-row::after { content: ""; display: table; clear: both; }
+.jb-layout { margin: 0 auto; }
+.jb-row { width: auto !important; }
+.jb-row::after { content: ""; display: table; clear: both; }
 
-.sqs-row > .col,
-.sqs-row > [class*="sqs-col-"] { float: left; min-height: 1px; }
+.jb-row > [class*="jb-col-"] { float: left; min-height: 1px; }
 
-.sqs-block { padding-left: 17px; padding-right: 17px; }
-.sqs-block-content > *:first-child { margin-top: 0; }
+/* Column gutter. Squarespace produced the inter-column gutter via the 17px
+   horizontal padding on the `.sqs-block` wrappers inside each column. Round-2
+   converted most column bodies to plain Markdown (no `.jb-block` wrapper), so the
+   gutter has to live on the column itself. Use border-box so the N/12 widths above
+   stay exact, and neutralise the redundant `.jb-block` padding for the columns that
+   still contain block wrappers (galleries, summaries) to avoid a doubled gutter. */
+.jb-row > [class*="jb-col-"] { box-sizing: border-box; padding-left: 17px; padding-right: 17px; }
+.jb-row > [class*="jb-col-"] [class*="jb-block"] { padding-left: 0; padding-right: 0; }
+
+/* Button-card grids (home page ToC cards, /play landing, etc.) don't use the
+   column gutter — each clickable card supplies its own spacing via its inner
+   `margin:5px`. Drop the 17px side padding on those grid cells (and their inner
+   code-container) so the buttons fill the cell. Scoped to onclick-link cards so
+   the prose/deck columns keep their gutter. */
+.jb-row > [class*="jb-col-"]:has(.jb-onclick-link),
+.jb-row > [class*="jb-col-"]:has(.jb-onclick-link) > .jb-code-container { padding-left: 0; padding-right: 0; }
+
+.jb-block { padding-left: 17px; padding-right: 17px; }
+.jb-block-content > *:first-child { margin-top: 0; }
 
 /* Column widths N/12 (top level). */
-.sqs-col-1,  .span-1  { width: 8.3333%; }
-.sqs-col-2,  .span-2  { width: 16.6667%; }
-.sqs-col-3,  .span-3  { width: 25%; }
-.sqs-col-4,  .span-4  { width: 33.3333%; }
-.sqs-col-5,  .span-5  { width: 41.6667%; }
-.sqs-col-6,  .span-6  { width: 50%; }
-.sqs-col-7,  .span-7  { width: 58.3333%; }
-.sqs-col-8,  .span-8  { width: 66.6667%; }
-.sqs-col-9,  .span-9  { width: 75%; }
-.sqs-col-10, .span-10 { width: 83.3333%; }
-.sqs-col-11, .span-11 { width: 91.6667%; }
-.sqs-col-12, .span-12 { width: 100%; }
+.jb-col-1{ width: 8.3333%; }
+.jb-col-2{ width: 16.6667%; }
+.jb-col-3{ width: 25%; }
+.jb-col-4{ width: 33.3333%; }
+.jb-col-5{ width: 41.6667%; }
+.jb-col-6{ width: 50%; }
+.jb-col-7{ width: 58.3333%; }
+.jb-col-8{ width: 66.6667%; }
+.jb-col-9{ width: 75%; }
+.jb-col-10 { width: 83.3333%; }
+.jb-col-11 { width: 91.6667%; }
+.jb-col-12 { width: 100%; }
 
 /* Nested column widths — contextual (inner / parent * 100%), matching site.css exactly.
-   Scoped through the immediate `.sqs-row` (child combinator) so a column's width is
+   Scoped through the immediate `.jb-row` (child combinator) so a column's width is
    determined ONLY by its direct parent column, never a more distant ancestor. A plain
-   descendant combinator (`.sqs-col-8 .sqs-col-4`) let every ancestor column match at once;
+   descendant combinator (`.jb-col-8 .jb-col-4`) let every ancestor column match at once;
    for a doubly-nested column (col-12 > row > col-8 > row > col-4) both the col-8 (50%) and
    col-12 (33.33%) rules matched at equal specificity and the later-defined col-12 rule won,
    collapsing nested grids to the wrong widths. */
-.sqs-col-2 > .sqs-row > .sqs-col-1{width:50%}.sqs-col-2 > .sqs-row > .sqs-col-2{width:100%}
-.sqs-col-3 > .sqs-row > .sqs-col-1{width:33.3333%}.sqs-col-3 > .sqs-row > .sqs-col-2{width:66.6667%}.sqs-col-3 > .sqs-row > .sqs-col-3{width:100%}
-.sqs-col-4 > .sqs-row > .sqs-col-1{width:25%}.sqs-col-4 > .sqs-row > .sqs-col-2{width:50%}.sqs-col-4 > .sqs-row > .sqs-col-3{width:75%}.sqs-col-4 > .sqs-row > .sqs-col-4{width:100%}
-.sqs-col-5 > .sqs-row > .sqs-col-1{width:20%}.sqs-col-5 > .sqs-row > .sqs-col-2{width:40%}.sqs-col-5 > .sqs-row > .sqs-col-3{width:60%}.sqs-col-5 > .sqs-row > .sqs-col-4{width:80%}.sqs-col-5 > .sqs-row > .sqs-col-5{width:100%}
-.sqs-col-6 > .sqs-row > .sqs-col-1{width:16.6667%}.sqs-col-6 > .sqs-row > .sqs-col-2{width:33.3333%}.sqs-col-6 > .sqs-row > .sqs-col-3{width:50%}.sqs-col-6 > .sqs-row > .sqs-col-4{width:66.6667%}.sqs-col-6 > .sqs-row > .sqs-col-5{width:83.3333%}.sqs-col-6 > .sqs-row > .sqs-col-6{width:100%}
-.sqs-col-7 > .sqs-row > .sqs-col-1{width:14.2857%}.sqs-col-7 > .sqs-row > .sqs-col-2{width:28.5714%}.sqs-col-7 > .sqs-row > .sqs-col-3{width:42.8571%}.sqs-col-7 > .sqs-row > .sqs-col-4{width:57.1429%}.sqs-col-7 > .sqs-row > .sqs-col-5{width:71.4286%}.sqs-col-7 > .sqs-row > .sqs-col-6{width:85.7143%}.sqs-col-7 > .sqs-row > .sqs-col-7{width:100%}
-.sqs-col-8 > .sqs-row > .sqs-col-1{width:12.5%}.sqs-col-8 > .sqs-row > .sqs-col-2{width:25%}.sqs-col-8 > .sqs-row > .sqs-col-3{width:37.5%}.sqs-col-8 > .sqs-row > .sqs-col-4{width:50%}.sqs-col-8 > .sqs-row > .sqs-col-5{width:62.5%}.sqs-col-8 > .sqs-row > .sqs-col-6{width:75%}.sqs-col-8 > .sqs-row > .sqs-col-7{width:87.5%}.sqs-col-8 > .sqs-row > .sqs-col-8{width:100%}
-.sqs-col-9 > .sqs-row > .sqs-col-1{width:11.1111%}.sqs-col-9 > .sqs-row > .sqs-col-2{width:22.2222%}.sqs-col-9 > .sqs-row > .sqs-col-3{width:33.3333%}.sqs-col-9 > .sqs-row > .sqs-col-4{width:44.4444%}.sqs-col-9 > .sqs-row > .sqs-col-5{width:55.5556%}.sqs-col-9 > .sqs-row > .sqs-col-6{width:66.6667%}.sqs-col-9 > .sqs-row > .sqs-col-7{width:77.7778%}.sqs-col-9 > .sqs-row > .sqs-col-8{width:88.8889%}.sqs-col-9 > .sqs-row > .sqs-col-9{width:100%}
-.sqs-col-10 > .sqs-row > .sqs-col-1{width:10%}.sqs-col-10 > .sqs-row > .sqs-col-2{width:20%}.sqs-col-10 > .sqs-row > .sqs-col-3{width:30%}.sqs-col-10 > .sqs-row > .sqs-col-4{width:40%}.sqs-col-10 > .sqs-row > .sqs-col-5{width:50%}.sqs-col-10 > .sqs-row > .sqs-col-6{width:60%}.sqs-col-10 > .sqs-row > .sqs-col-7{width:70%}.sqs-col-10 > .sqs-row > .sqs-col-8{width:80%}.sqs-col-10 > .sqs-row > .sqs-col-9{width:90%}.sqs-col-10 > .sqs-row > .sqs-col-10{width:100%}
-.sqs-col-11 > .sqs-row > .sqs-col-1{width:9.0909%}.sqs-col-11 > .sqs-row > .sqs-col-2{width:18.1818%}.sqs-col-11 > .sqs-row > .sqs-col-3{width:27.2727%}.sqs-col-11 > .sqs-row > .sqs-col-4{width:36.3636%}.sqs-col-11 > .sqs-row > .sqs-col-5{width:45.4545%}.sqs-col-11 > .sqs-row > .sqs-col-6{width:54.5455%}.sqs-col-11 > .sqs-row > .sqs-col-7{width:63.6364%}.sqs-col-11 > .sqs-row > .sqs-col-8{width:72.7273%}.sqs-col-11 > .sqs-row > .sqs-col-9{width:81.8182%}.sqs-col-11 > .sqs-row > .sqs-col-10{width:90.9091%}.sqs-col-11 > .sqs-row > .sqs-col-11{width:100%}
-.sqs-col-12 > .sqs-row > .sqs-col-1{width:8.3333%}.sqs-col-12 > .sqs-row > .sqs-col-2{width:16.6667%}.sqs-col-12 > .sqs-row > .sqs-col-3{width:25%}.sqs-col-12 > .sqs-row > .sqs-col-4{width:33.3333%}.sqs-col-12 > .sqs-row > .sqs-col-5{width:41.6667%}.sqs-col-12 > .sqs-row > .sqs-col-6{width:50%}.sqs-col-12 > .sqs-row > .sqs-col-7{width:58.3333%}.sqs-col-12 > .sqs-row > .sqs-col-8{width:66.6667%}.sqs-col-12 > .sqs-row > .sqs-col-9{width:75%}.sqs-col-12 > .sqs-row > .sqs-col-10{width:83.3333%}.sqs-col-12 > .sqs-row > .sqs-col-11{width:91.6667%}.sqs-col-12 > .sqs-row > .sqs-col-12{width:100%}
+.jb-col-2 > .jb-row > .jb-col-1{width:50%}.jb-col-2 > .jb-row > .jb-col-2{width:100%}
+.jb-col-3 > .jb-row > .jb-col-1{width:33.3333%}.jb-col-3 > .jb-row > .jb-col-2{width:66.6667%}.jb-col-3 > .jb-row > .jb-col-3{width:100%}
+.jb-col-4 > .jb-row > .jb-col-1{width:25%}.jb-col-4 > .jb-row > .jb-col-2{width:50%}.jb-col-4 > .jb-row > .jb-col-3{width:75%}.jb-col-4 > .jb-row > .jb-col-4{width:100%}
+.jb-col-5 > .jb-row > .jb-col-1{width:20%}.jb-col-5 > .jb-row > .jb-col-2{width:40%}.jb-col-5 > .jb-row > .jb-col-3{width:60%}.jb-col-5 > .jb-row > .jb-col-4{width:80%}.jb-col-5 > .jb-row > .jb-col-5{width:100%}
+.jb-col-6 > .jb-row > .jb-col-1{width:16.6667%}.jb-col-6 > .jb-row > .jb-col-2{width:33.3333%}.jb-col-6 > .jb-row > .jb-col-3{width:50%}.jb-col-6 > .jb-row > .jb-col-4{width:66.6667%}.jb-col-6 > .jb-row > .jb-col-5{width:83.3333%}.jb-col-6 > .jb-row > .jb-col-6{width:100%}
+.jb-col-7 > .jb-row > .jb-col-1{width:14.2857%}.jb-col-7 > .jb-row > .jb-col-2{width:28.5714%}.jb-col-7 > .jb-row > .jb-col-3{width:42.8571%}.jb-col-7 > .jb-row > .jb-col-4{width:57.1429%}.jb-col-7 > .jb-row > .jb-col-5{width:71.4286%}.jb-col-7 > .jb-row > .jb-col-6{width:85.7143%}.jb-col-7 > .jb-row > .jb-col-7{width:100%}
+.jb-col-8 > .jb-row > .jb-col-1{width:12.5%}.jb-col-8 > .jb-row > .jb-col-2{width:25%}.jb-col-8 > .jb-row > .jb-col-3{width:37.5%}.jb-col-8 > .jb-row > .jb-col-4{width:50%}.jb-col-8 > .jb-row > .jb-col-5{width:62.5%}.jb-col-8 > .jb-row > .jb-col-6{width:75%}.jb-col-8 > .jb-row > .jb-col-7{width:87.5%}.jb-col-8 > .jb-row > .jb-col-8{width:100%}
+.jb-col-9 > .jb-row > .jb-col-1{width:11.1111%}.jb-col-9 > .jb-row > .jb-col-2{width:22.2222%}.jb-col-9 > .jb-row > .jb-col-3{width:33.3333%}.jb-col-9 > .jb-row > .jb-col-4{width:44.4444%}.jb-col-9 > .jb-row > .jb-col-5{width:55.5556%}.jb-col-9 > .jb-row > .jb-col-6{width:66.6667%}.jb-col-9 > .jb-row > .jb-col-7{width:77.7778%}.jb-col-9 > .jb-row > .jb-col-8{width:88.8889%}.jb-col-9 > .jb-row > .jb-col-9{width:100%}
+.jb-col-10 > .jb-row > .jb-col-1{width:10%}.jb-col-10 > .jb-row > .jb-col-2{width:20%}.jb-col-10 > .jb-row > .jb-col-3{width:30%}.jb-col-10 > .jb-row > .jb-col-4{width:40%}.jb-col-10 > .jb-row > .jb-col-5{width:50%}.jb-col-10 > .jb-row > .jb-col-6{width:60%}.jb-col-10 > .jb-row > .jb-col-7{width:70%}.jb-col-10 > .jb-row > .jb-col-8{width:80%}.jb-col-10 > .jb-row > .jb-col-9{width:90%}.jb-col-10 > .jb-row > .jb-col-10{width:100%}
+.jb-col-11 > .jb-row > .jb-col-1{width:9.0909%}.jb-col-11 > .jb-row > .jb-col-2{width:18.1818%}.jb-col-11 > .jb-row > .jb-col-3{width:27.2727%}.jb-col-11 > .jb-row > .jb-col-4{width:36.3636%}.jb-col-11 > .jb-row > .jb-col-5{width:45.4545%}.jb-col-11 > .jb-row > .jb-col-6{width:54.5455%}.jb-col-11 > .jb-row > .jb-col-7{width:63.6364%}.jb-col-11 > .jb-row > .jb-col-8{width:72.7273%}.jb-col-11 > .jb-row > .jb-col-9{width:81.8182%}.jb-col-11 > .jb-row > .jb-col-10{width:90.9091%}.jb-col-11 > .jb-row > .jb-col-11{width:100%}
+.jb-col-12 > .jb-row > .jb-col-1{width:8.3333%}.jb-col-12 > .jb-row > .jb-col-2{width:16.6667%}.jb-col-12 > .jb-row > .jb-col-3{width:25%}.jb-col-12 > .jb-row > .jb-col-4{width:33.3333%}.jb-col-12 > .jb-row > .jb-col-5{width:41.6667%}.jb-col-12 > .jb-row > .jb-col-6{width:50%}.jb-col-12 > .jb-row > .jb-col-7{width:58.3333%}.jb-col-12 > .jb-row > .jb-col-8{width:66.6667%}.jb-col-12 > .jb-row > .jb-col-9{width:75%}.jb-col-12 > .jb-row > .jb-col-10{width:83.3333%}.jb-col-12 > .jb-row > .jb-col-11{width:91.6667%}.jb-col-12 > .jb-row > .jb-col-12{width:100%}
 
 /* ---- Rich text blocks ---- */
-.sqs-html-content { word-wrap: break-word; }
-.sqs-html-content img { display: inline-block; }
-.sqs-html-content h1, .sqs-html-content h2, .sqs-html-content h3 { margin-top: 0.8em; }
+.jb-html-content { word-wrap: break-word; }
+.jb-html-content img { display: inline-block; }
+.jb-html-content h1, .jb-html-content h2, .jb-html-content h3 { margin-top: 0.8em; }
+
+/* ---- `.jb-gallery` — minimal gallery block (Round 2) ----
+   Replaces the Squarespace gallery scaffolding (`.sqs-gallery-design-grid`,
+   `.slide`, `.margin-wrapper`, `.thumb-image`, lightbox JS, etc.). Each child is
+   either an `<img>` or an `<a href><img></a>` (lightbox/clickthrough target). */
+.jb-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 8px;
+  margin: 1em 0;
+  padding: 0 17px;
+}
+.jb-gallery > a,
+.jb-gallery > img { display: block; }
+.jb-gallery img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
+
+/* ---- Squarespace code-block decklist cards (Round 2) ----
+   Restore the look of the styled `<ul>/<ol>/<li>` lists inside
+   `.jb-code-container` (deck lists, navigation index lists, etc.) without per-element
+   inline styles. */
+.jb-code-container ul,
+.jb-code-container ol {
+  list-style: none;
+  list-style-position: inside;
+  padding-left: 17px;
+  margin: 0;
+}
+.jb-code-container li { margin: 0; }
+/* Outer `.sqs-block` wrapper used to carry 17 px horizontal padding around code-block
+   contents. After `unwrapBlockShell` strips it, give the code container the same
+   gutter so the look survives. */
+.jb-code-container { padding-left: 17px; padding-right: 17px; }
+.jb-video-wrapper { padding-left: 17px; padding-right: 17px; }
+
+/* `.symb` carries the pkmntcg energy-symbol font (defined in jb-custom.css); the
+   navigation/header rendering of a symbol is consistently 25-px and vertically centered
+   with adjacent text — move the per-span inline styles to a single rule. */
+span.symb { font-size: 25px; vertical-align: middle; }
+
+/* `.jlink` is the styled in-page nav anchor in decklist cards. The label `<span>` next
+   to the `.symb` icon was inline-styled `vertical-align:middle; font-size:15px;` per
+   pristine — move that to CSS so the span attributes can drop. */
+a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
+
+/* Decklist section headers inside `.jb-code-container` (Pokémon - 16 / Trainer Cards
+   - 36 / Energy - 9, etc.). First-of-its-kind drops the 14-px top margin so the card
+   doesn't open with a gap. */
+.jb-code-container .jb-decklist-section {
+  padding-left: 17px;
+  font-weight: bold;
+  margin: 0;
+  margin-top: 14px;
+}
+.jb-code-container .jb-decklist-section:first-child { margin-top: 0; }
+
+/* Decklist intro cards (`.deck_box` / `.deckbox` / `.notebox` / `.note_box`):
+   uniform per-element rules so the inline styles can drop. */
+.deck_box h1, .deck_box h2,
+.deckbox h1, .deckbox h2,
+.notebox h1, .notebox h2,
+.note_box h1, .note_box h2 { padding-bottom: 0; margin-bottom: 0; }
+.deck_box > div, .deckbox > div, .notebox > div, .note_box > div { margin-bottom: 15px; }
+.jb-code-container li img { vertical-align: middle; }
+.jb-code-container img.jb-deck-thumb {
+  max-height: 165px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jb-code-container .jb-decklist-center { text-align: center; margin: 0; }
+.jb-code-container hr { width: 50%; margin-left: auto; margin-right: auto; }
+
+/* Onclick-wrapper anchors (originally `<div onclick="location.href='…'">`, normalized
+   in extract.mjs into a real `<a class="jb-onclick-link" href="…">`). They wrap
+   block-level content (a card grid item) and should be invisible link styling. */
+.jb-onclick-link {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.jb-deckbox-sublabel { font-size: 12px; padding-top: 0; margin-top: -4px; }
+.jb-smallcaps { font-variant: small-caps; }
+.jb-deckbox-title { font-size: 25px; text-align: center; margin-bottom: 0; }
+.jb-deckbox-body {
+  font-size: 20px;
+  text-align: center;
+  margin: 8px 20px 0;
+  padding-top: 0;
+  line-height: 1.5;
+}
+.jb-deckbox-body-justify { text-align: justify; }
+.jb-deckbox-credit {
+  font-size: 12px;
+  padding-top: 0;
+  margin-top: 15px;
+  font-variant: small-caps;
+}
+
+/* Single-rule utility classes that recur across many elements. */
+.jb-bold { font-weight: bold; }
+.jb-center { text-align: center; }
+.jb-vmid { vertical-align: middle; }
+.jb-th { font-size: 16px; font-weight: bold; text-transform: uppercase; }
+.jb-icon-center {
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.jb-cta-title { color: #fff; text-align: center; margin: 15px; }
+.jb-cta-desc  { margin: 5px; text-align: center; }
+.jb-cta-body  { text-align: center; padding: 20px 20px 0 20px; }
+.jb-icon-70 {
+  max-width: 70px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jb-center-flat { text-align: center; margin: 0; }
+.jb-white-center { text-align: center; color: #fff; }
+.jb-white-center-margin0 { text-align: center; margin: 0; color: #fff; }
+.jb-white-center-margin5 { color: #fff; text-align: center; margin: 5px; }
+.jb-center-block { text-align: center; margin-left: auto; margin-right: auto; }
+.jb-symbol-18 { font-family: 'pkmntcg'; font-size: 18px; }
+.jb-mt-10 { margin-top: 10px; }
+.jb-left { text-align: left; }
+.jb-symbol-18-n { font-family: 'pkmntcg'; font-size: 18px; font-weight: normal; }
+.jb-center-mb0 { text-align: center; margin: 0; }
+.jb-pre { white-space: pre-wrap; }
+.jb-pointer { cursor: pointer; }
+.jb-p10 { padding: 10px; }
+.jb-25-upper { font-size: 25px; text-transform: uppercase; }
+.jb-ib-10 { display: inline-block; font-size: 10px; }
+/* `dislay` is a literal Squarespace authoring typo — reproduce the original look. */
+.jb-fl-padded { display: inline-block; float: left; padding-right: 10px; }
+.jb-left-14 { text-align: left; font-size: 14px; }
+.jb-mb0 { margin-bottom: 0; }
+.jb-th-white { font-size: 16px; color: #fff; font-weight: bold; text-transform: uppercase; }
+.jb-u { text-decoration: underline; }
+.jb-col-160 { column-width: 160px; }
+.jb-blue { color: blue; }
+.jb-mt0-mb10 { margin-top: 0; margin-bottom: 10px; }
+.jb-p5 { padding: 5px; }
+.jb-m0 { margin: 0; }
+.jb-25-bold-upper { font-size: 25px; font-weight: bold; text-transform: uppercase; }
+.jb-center-zero { text-align: center; margin: 0; padding: 0; }
+.jb-p5-i { padding: 5px !important; }
+.jb-pkmntcg { font-family: 'pkmntcg'; }
+.jb-center-italic { text-align: center; font-style: italic; margin: 0; padding: 0; }
+.jb-card-tile { padding: 5px; margin: 5px; width: 100%; text-align: center; }
+.jb-h-19 {
+  font-size: 19px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+.jb-p5-w64 { padding: 5px !important; width: 64px; }
+.jb-mx20-m0 { margin: 0 20px; }
+.jb-ml20-mb0 { margin-left: 20px; margin-bottom: 0; }
+.jb-w320-center {
+  width: 320px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.jb-center-top0 { text-align: center; padding-top: 0; margin-top: 0; }
+.jb-center-mt20 { text-align: center; margin-top: 20px; }
+.jb-center-mt0 { text-align: center; margin-top: 0; }
+.jb-center-mb0-2 { text-align: center; margin-bottom: 0; }
+.jb-p8 { padding: 8px; }
+
+/* ---- Markdown-converted content image (Round 2) ----
+   Image-block figures are now compiled from Markdown `![alt](src)` (optionally wrapped
+   in a lightbox link `[![alt](src)](src)`) plus zero or more italic caption paragraphs.
+   Reproduce the original look: centered figure with constrained max-width; small italic
+   centered caption below. */
+.sqs-content > p > img:only-child,
+.sqs-content > p > a:only-child > img:only-child,
+.sqs-content [class*="jb-col-"] > p > img:only-child,
+.sqs-content [class*="jb-col-"] > p > a:only-child > img:only-child {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.sqs-content > p:has(> img:only-child),
+.sqs-content > p:has(> a:only-child > img:only-child),
+.sqs-content [class*="jb-col-"] > p:has(> img:only-child),
+.sqs-content [class*="jb-col-"] > p:has(> a:only-child > img:only-child) {
+  text-align: center;
+  margin: 1em auto;
+}
+.sqs-content > p:has(> img:only-child) + p > em:only-child,
+.sqs-content > p:has(> a:only-child > img:only-child) + p > em:only-child,
+.sqs-content [class*="jb-col-"] > p:has(> img:only-child) + p > em:only-child,
+.sqs-content [class*="jb-col-"] > p:has(> a:only-child > img:only-child) + p > em:only-child {
+  display: block;
+  text-align: center;
+  font-size: 0.92em;
+  color: #555;
+  margin-top: -0.5em;
+}
 
 /* Float blocks (image/code/html blocks within a column that should wrap text). */
-.sqs-block.float.float-right { float: right; margin-left: 17px; }
-.sqs-block.float.float-left  { float: left;  margin-right: 17px; }
+.jb-block.float.float-right { float: right; margin-left: 17px; }
+.jb-block.float.float-left  { float: left;  margin-right: 17px; }
 
 /* ---- Image blocks (rendered statically; the Squarespace JS aspect-ratio loader
    is stripped, so we must neutralize its padding-bottom box and the absolutely
    positioned <img> it expects to swap in). ---- */
-.sqs-block-image .sqs-block-content { height: auto !important; }
+.jb-block-image .jb-block-content { height: auto !important; }
 .image-block-outer-wrapper { margin: 0 auto; }
-figure.sqs-block-image-figure { margin: 0 auto; }
+figure.jb-block-image-figure { margin: 0 auto; }
 
 /* Kill the aspect-ratio reservation box (the source of large blank gaps). */
 .has-aspect-ratio,
@@ -83,7 +307,7 @@ figure.sqs-block-image-figure { margin: 0 auto; }
 }
 
 /* Show the image at its natural size within the figure's max-width. */
-.sqs-block-image-figure img,
+.jb-block-image-figure img,
 .image-block-wrapper img,
 .sqs-image img,
 img[data-sqsp-image-classic-block-image] {
@@ -221,7 +445,7 @@ figure, figcaption { margin: 0; }
 }
 
 /* ---- Summary blocks (recent-videos carousel / list; JS layout stripped) ---- */
-.sqs-block-summary-v2 .summary-item-list { list-style: none; margin: 0; padding: 0; }
+.jb-block-summary-v2 .summary-item-list { list-style: none; margin: 0; padding: 0; }
 .summary-item { position: static !important; float: none !important; }
 
 /* Neutralize the thumbnail aspect-ratio padding hack + lazy positioning. */
@@ -273,8 +497,8 @@ figure, figcaption { margin: 0; }
 }
 
 /* ---- Buttons ---- */
-.sqs-block-button-container { text-align: center; margin: 1rem 0; }
-.sqs-block-button-element {
+.jb-block-button-container { text-align: center; margin: 1rem 0; }
+.jb-block-button-element {
   display: inline-block;
   padding: 0.6rem 1.4rem;
   font-family: var(--jb-font-head);
@@ -283,14 +507,14 @@ figure, figcaption { margin: 0; }
   color: #fff !important;
   text-decoration: none;
 }
-.sqs-block-button-element:hover { background: var(--jb-accent-dark); }
+.jb-block-button-element:hover { background: var(--jb-accent-dark); }
 
 /* ---- Spacers / dividers ---- */
-.sqs-block-spacer .sqs-block-content { min-height: 1px; }
-.sqs-block-horizontalrule hr { border: 0; border-top: 1px solid var(--jb-border); }
+.jb-block-spacer .jb-block-content { min-height: 1px; }
+.jb-block-horizontalrule hr { border: 0; border-top: 1px solid var(--jb-border); }
 
 /* ---- Mobile: stack columns ---- */
 @media (max-width: 767px) {
-  .sqs-row > .col,
-  .sqs-row > [class*="sqs-col-"] { float: none; width: 100% !important; }
+  .jb-row > .jb-col,
+  .jb-row > [class*="jb-col-"] { float: none; width: 100% !important; }
 }

@@ -5,124 +5,135 @@ sourceUrl: "https://www.justinbasil.com/get"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-6803fb5c54bfd43e3afd651a"><div class="sqs-block-content">
 
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h1 style="white-space:pre-wrap;">&nbsp;Get List</h1><p class="" style="white-space:pre-wrap;">Hold off on getting any card with an asterisk (*) unless you’ve checked with me first.</p><h2 style="white-space:pre-wrap;">Standard Format Decks</h2><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">N/A</p></li></ul><h2 style="white-space:pre-wrap;">Eternal Format Decks</h2><h3 style="white-space:pre-wrap;">For Feraligatr (13)</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">1 Ditto {*} LOT 154</p></li><li><p class="" style="white-space:pre-wrap;">2 Croconaw N1 31</p></li><li><p class="" style="white-space:pre-wrap;">1 Feraligatr HS 108</p></li><li><p class="" style="white-space:pre-wrap;">1 Claydol CELEBRATIONS</p></li><li><p class="" style="white-space:pre-wrap;">2 Guzma</p></li><li><p class="" style="white-space:pre-wrap;">3 Dive Ball</p></li><li><p class="" style="white-space:pre-wrap;">1 Luxury Ball</p></li><li><p class="" style="white-space:pre-wrap;">1 Prime Catcher</p></li><li><p class="" style="white-space:pre-wrap;">1 Muscle Band</p></li></ul><h3 style="white-space:pre-wrap;">For Festival Grounds (1)</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">1 Pow! Hand Extension TRR 85</p></li></ul><h3 style="white-space:pre-wrap;">For Toxtricity (1)</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">1 Double Rainbow Energy CG 88*</p></li></ul>
-</div>
 
+# Get List
 
+Hold off on getting any card with an asterisk (\*) unless you’ve checked with me first.
 
+## Standard Format Decks
 
+- N/A
 
+## Eternal Format Decks
 
+### For Feraligatr (13)
 
+- 1 Ditto {\*} LOT 154
+- 2 Croconaw N1 31
+- 1 Feraligatr HS 108
+- 1 Claydol CELEBRATIONS
+- 2 Guzma
+- 3 Dive Ball
+- 1 Luxury Ball
+- 1 Prime Catcher
+- 1 Muscle Band
 
+### For Festival Grounds (1)
 
+- 1 Pow! Hand Extension TRR 85
 
+### For Toxtricity (1)
 
+- 1 Double Rainbow Energy CG 88\*
 
 
 
+---
 
 
 
+## Proxy-Free Decks
 
+### Standard (0)
 
+- N/A
 
-  
-  
+### Eternal (19)
 
+1. Banette ex
+2. Blastoise Water Box
+3. Blissey V
+4. Celebi Grass Box
+5. Ceruledge ex
+6. Charizard ex
+7. Dodrio
+8. Gardevoir ex
+9. Greninja ex
+10. Magcargo
+11. Magnezone
+12. Malamar
+13. Miraidon ex
+14. Raging Bolt ex
+15. Rapid Strike Urshifu VMAX
+16. Salamence ex
+17. Ultra Necrozma
+18. United Wings
+19. Zacian V
 
 
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1745091443258_63630"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1745091443258_10260"><div class="sqs-block-content">
 
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Proxy-Free Decks</h2><h3 style="white-space:pre-wrap;">Standard (0)</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">N/A</p></li></ul><h3 style="white-space:pre-wrap;">Eternal (19)</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Banette ex</p></li><li><p class="" style="white-space:pre-wrap;">Blastoise Water Box</p></li><li><p class="" style="white-space:pre-wrap;">Blissey V</p></li><li><p class="" style="white-space:pre-wrap;">Celebi Grass Box</p></li><li><p class="" style="white-space:pre-wrap;">Ceruledge ex</p></li><li><p class="" style="white-space:pre-wrap;">Charizard ex</p></li><li><p class="" style="white-space:pre-wrap;">Dodrio</p></li><li><p class="" style="white-space:pre-wrap;">Gardevoir ex</p></li><li><p class="" style="white-space:pre-wrap;">Greninja ex</p></li><li><p class="" style="white-space:pre-wrap;">Magcargo</p></li><li><p class="" style="white-space:pre-wrap;">Magnezone</p></li><li><p class="" style="white-space:pre-wrap;">Malamar</p></li><li><p class="" style="white-space:pre-wrap;">Miraidon ex</p></li><li><p class="" style="white-space:pre-wrap;">Raging Bolt ex</p></li><li><p class="" style="white-space:pre-wrap;">Rapid Strike Urshifu VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Salamence ex</p></li><li><p class="" style="white-space:pre-wrap;">Ultra Necrozma</p></li><li><p class="" style="white-space:pre-wrap;">United Wings</p></li><li><p class="" style="white-space:pre-wrap;">Zacian V</p></li></ol>
-</div>
+---
 
 
 
+## Pending Construction
 
+### Eternal Format
 
+(Under Consideration)
 
+- Alcremie
+- *Fusion Dragapult*
+- Palafin ex
+- **Rotom / Sigilyph**
+- Slaking ex
 
 
 
+---
 
 
 
+## Personal Collections
 
+(Lists coming soon.)
 
+### Bellossom
 
+### Oddish
 
+### Magneton
 
+### Cramorant
 
+### Wattrel
 
+### Erika
 
-  
-  
+### Tropius
 
+### Starmie
 
+### Sylveon
 
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1745091443258_67088"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1748057133239_14310"><div class="sqs-block-content">
+### Torkoal
 
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Pending Construction </h2><h3 style="white-space:pre-wrap;">Eternal Format</h3><p class="" style="white-space:pre-wrap;">(Under Consideration)</p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Alcremie</p></li><li><p class="" style="white-space:pre-wrap;"><em>Fusion Dragapult</em></p></li><li><p class="" style="white-space:pre-wrap;">Palafin ex</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Rotom / Sigilyph</strong></p></li><li><p class="" style="white-space:pre-wrap;">Slaking ex</p></li></ul>
-</div>
+### Cryogonal
 
+### Unown
 
+### Lillie
 
+### Jasmine
 
+### Shinji Kanda
 
+### TOKIYA
 
 
 
+---
 
 
 
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1748057133239_13894"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1745091443258_67148"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h2 style="white-space:pre-wrap;">Personal Collections</h2><p class="" style="white-space:pre-wrap;">(Lists coming soon.)</p><h3 style="white-space:pre-wrap;">Bellossom</h3><h3 style="white-space:pre-wrap;">Oddish</h3><h3 style="white-space:pre-wrap;">Magneton</h3><h3 style="white-space:pre-wrap;">Cramorant</h3><h3 style="white-space:pre-wrap;">Wattrel</h3><h3 style="white-space:pre-wrap;">Erika</h3><h3 style="white-space:pre-wrap;">Tropius</h3><h3 style="white-space:pre-wrap;">Starmie</h3><h3 style="white-space:pre-wrap;">Sylveon</h3><h3 style="white-space:pre-wrap;">Torkoal</h3><h3 style="white-space:pre-wrap;">Cryogonal</h3><h3 style="white-space:pre-wrap;">Unown</h3><h3 style="white-space:pre-wrap;">Lillie</h3><h3 style="white-space:pre-wrap;">Jasmine</h3><h3 style="white-space:pre-wrap;">Shinji Kanda</h3><h3 style="white-space:pre-wrap;">TOKIYA</h3>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1745091443258_9991"><div class="sqs-block-content"><hr></div></div></div></div>

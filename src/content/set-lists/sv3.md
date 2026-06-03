@@ -5,23 +5,17 @@ sourceUrl: "https://www.justinbasil.com/set-lists/sv3"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="a6abcf50f86d926bbc67" id="block-a6abcf50f86d926bbc67"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <div style="margin:10px;
-  <!--background-image:url();-->
-  background-size:cover;
-  background-position:center;
-  padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px">
+<div class="jb-code-container">
+    <div style="margin:10px; <!--background-image:url(); -->
+  background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
   <div>
-    <img style="max-height:165px; display:block; margin-left:auto; margin-right:auto;" src="/images/fb68be8144a88b94.webp" loading="lazy">
-    <!--<h1 style="text-align:center; color:#fff;">Obsidian Flames</h1>-->
-    <!--<img alt="SWSH12 Set Symbol" style="vertical-align:middle; margin-left:auto; margin-right:auto; display:block;" src="/s/ss9.png">-->
-    <h1 style="color:#fff; text-align:center; margin:15px;">Set List</h1>
-    <hr style="width:50%;">
-    <p style="text-align:center; margin:0px;">Learn more about Obsidian Flames by visiting the articles below.
+    <img src="/images/fb68be8144a88b94.webp" loading="lazy" class="jb-deck-thumb">
+    <h1 class="jb-cta-title">Set List</h1>
+    <hr>
+    <p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.
     <br>
-    </p><p style="text-align:center; margin:0px;">
-          <a class="" href="/set-lists/sv3">Prospective Set List</a>  | 
+    </p><p class="jb-decklist-center">
+          <a href="/set-lists/sv3">Prospective Set List</a>  | 
           <a class="blink" href="/translations/sv3">Card Translations</a> |
           <a class="blink" href="/visual/sv3">Visual Set List</a>  | 
           <a class="blink" href="/highlights/sv3">Set Highlights</a> |
@@ -30,60 +24,21 @@ showHeading: false
     </p>
   </div>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-001330d42a5c74ba8b6f"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;">set size: 197 cards (before Secret Rares)</h3><p style="text-align:center;white-space:pre-wrap;" class="">Set Abbreviation: OBF</p><p class="" style="white-space:pre-wrap;">Below is a list of cards that will form our third Scarlet &amp; Violet set, Obsidian Flames, when it releases on 11 August 2023. The set will be legal for tournament play on 25 August 2023</p>
 </div>
 
+### set size: 197 cards (before Secret Rares)
+
+Set Abbreviation: OBF
+
+Below is a list of cards that will form our third Scarlet & Violet set, Obsidian Flames, when it releases on 11 August 2023. The set will be legal for tournament play on 25 August 2023
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="3e2c66f442d7a830876c" id="block-3e2c66f442d7a830876c"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="cdccdd8fdce17ef40726" id="block-cdccdd8fdce17ef40726"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <!--<a href="/highlights/ss9"><div class="highlights">
-  See this set's highlights, including the best cards for both collectors and players here!
-</div></a>-->
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-75fe58c38c32329766af"><div class="sqs-block-content"><hr></div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="3425a69cdd4b1fec7674" id="block-3425a69cdd4b1fec7674"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">This set will likely include many of the Titan Pokémon from Pokémon Scarlet and Pokémon Violet as Pokémon ex.</p>-->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
     <li class="g"><span class="sv3-num">[1]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689687628352_198357">Oddish</a> (Black Flame Ruler)</li>
     <li class="g"><span class="sv3-num">[2]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689687628352_213429">Gloom</a> (Black Flame Ruler)</li>
     <li class="g"><span class="sv3-num">[3]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689687628352_227956">Bellossom</a> (Black Flame Ruler)</li>
@@ -109,7 +64,6 @@ showHeading: false
     <li class="g"><span class="sv3-num">[23]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_182445">Capsakid</a> (Black Flame Ruler)</li>
     <li class="g"><span class="sv3-num">[24]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_225185">Capsakid</a> (Black Flame Ruler)</li>
     <li class="g"><span class="sv3-num">[25]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_238597">Scovillain</a> (Black Flame Ruler)</li>
-
     <li class="r"><span class="sv3-num">[26]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1685260802761_291115">Charmander</a> (Black Flame Ruler)</li>
     <li class="r"><span class="sv3-num">[27]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1685260802761_361707">Charmeleon</a> (Black Flame Ruler)</li>
     <li class="r"><span class="sv3-num">[28]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689920479165_262628">Vulpix</a> (Black Flame Ruler)</li>
@@ -129,7 +83,6 @@ showHeading: false
     <li class="r"><span class="sv3-num">[42]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_554837">Eiscue ex</a> (Black Flame Ruler)</li>
     <li class="r"><span class="sv3-num">[43]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_134227">Charcadet</a> (ex Starter Decks)</li>
     <li class="r"><span class="sv3-num">[44]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_144822">Armarouge</a> (ex Starter Decks)</li>
-
     <li class="w"><span class="sv3-num">[45]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1683458377055_1298521">Lapras</a> (ex Starter Decks)</li>
     <li class="r"><span class="sv3-num">[46]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689920479165_1515657">Carvanha</a> (Black Flame Ruler)</li>
     <li class="r"><span class="sv3-num">[47]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689920479165_1578919">Sharpedo</a> (Black Flame Ruler)</li>
@@ -148,7 +101,6 @@ showHeading: false
     <li class="w"><span class="sv3-num">[60]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_828318">Finizen</a> (Black Flame Ruler)</li>
     <li class="w"><span class="sv3-num">[61]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_837520">Finizen</a> (Black Flame Ruler)</li>
     <li class="w"><span class="sv3-num">[62]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_845925">Palafin</a> (Black Flame Ruler)</li>
-
     <li class="l"><span class="sv3-num">[63]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_920589">Magnemite</a> (ex Starter Decks)</li>
     <li class="l"><span class="sv3-num">[64]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_931211">Magneton</a> (ex Starter Decks)</li>
     <li class="l"><span class="sv3-num">[65]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_941890">Magnezone</a> (ex Starter Decks)</li>
@@ -166,7 +118,6 @@ showHeading: false
     <li class="l"><span class="sv3-num">[77]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_1674380">Bellibolt</a> (ex Starter Decks)</li>
     <li class="l"><span class="sv3-num">[78]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689904722524_2692242">Bellibolt</a> (Black Flame Ruler)</li>
     <li class="l"><span class="sv3-num">[79]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1683458377055_700660">Miraidon ex</a> (ex Starter Decks)</li>
-
     <li class="p"><span class="sv3-num">[80]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1683458377055_2806038">Cleffa</a> (Black Flame Ruler)</li>
     <li class="p"><span class="sv3-num">[81]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1683458377055_946158">Clefairy</a> (ex Starter Decks)</li>
     <li class="p"><span class="sv3-num">[82]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1683458377055_954195">Clefable ex</a> (ex Starter Decks)</li>
@@ -190,7 +141,6 @@ showHeading: false
     <li class="p"><span class="sv3-num">[100]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689907643221_1060275">Greavard</a> (Black Flame Ruler)</li>
     <li class="p"><span class="sv3-num">[101]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689907643221_1076684">Houndstone</a> (Black Flame Ruler)</li>
     <li class="p"><span class="sv3-num">[102]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1682088004260_19103">Houndstone ex</a> (ex Special Set)</li>
-
     <li class="f"><span class="sv3-num">[103]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1682525561491_103285">Diglett</a> (Triplet Beat)</li>
     <li class="f"><span class="sv3-num">[104]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1682525561491_107125">Dugtrio</a> (Triplet Beat)</li>
     <li class="f"><span class="sv3-num">[105]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_1939598">Larvitar</a> (Black Flame Ruler)</li>
@@ -213,7 +163,6 @@ showHeading: false
     <li class="f"><span class="sv3-num">[122]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689177748017_285957">Glimmet</a> (Black Flame Ruler)</li>
     <li class="f"><span class="sv3-num">[123]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689177748017_544483">Glimmora ex</a> (Black Flame Ruler)</li>
     <li class="f"><span class="sv3-num">[124]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1683458377055_1681058">Koraidon ex</a> (ex Starter Decks)</li>
-
     <li class="d"><span class="sv3-num">[125]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1685260802761_101129">Charizard ex</a> (Black Flame Ruler)</li>
     <li class="d"><span class="sv3-num">[126]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_3042422">Paldean Wooper</a> (ex Starter Decks)</li>
     <li class="d"><span class="sv3-num">[127]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689921939863_1182812">Paldean Wooper</a> (Black Flame Ruler)</li>
@@ -230,7 +179,6 @@ showHeading: false
     <li class="d"><span class="sv3-num">[138]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689909539874_765614">Malamar</a> (Black Flame Ruler)</li>
     <li class="d"><span class="sv3-num">[139]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1684339243832_844119">Salandit</a> (Triplet Beat)</li>
     <li class="d"><span class="sv3-num">[140]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1684339243832_851812">Salazzle</a> (Triplet Beat)</li>
-
     <li class="m"><span class="sv3-num">[141]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_2382085">Scizor</a> (Black Flame Ruler)</li>
     <li class="m"><span class="sv3-num">[142]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_3333408">Skarmory</a> (ex Starter Decks)</li>    
     <li class="m"><span class="sv3-num">[143]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_2724048">Mawile</a> (Black Flame Ruler)</li>
@@ -247,13 +195,11 @@ showHeading: false
     <li class="m"><span class="sv3-num">[154]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688580994089_470678">Varoom</a> (Black Flame Ruler)</li>
     <li class="m"><span class="sv3-num">[155]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688581644936_186959">Varoom</a> (Black Flame Ruler)</li>
     <li class="m"><span class="sv3-num">[156]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688580994089_162956">Revavroom ex</a> (Black Flame Ruler)</li>
-
     <li class="n"><span class="sv3-num">[157]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1687138436830_121597">Dratini</a> (ex Starter Decks)</li>
     <li class="n"><span class="sv3-num">[158]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1687138436830_131328">Dragonair</a> (ex Starter Decks)</li>
     <li class="n"><span class="sv3-num">[159]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1687138436830_140854">Dragonite ex</a> (ex Starter Decks)</li>
     <li class="n"><span class="sv3-num">[160]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689909539874_1441306">Altaria</a> (Black Flame Ruler)</li>
     <li class="n"><span class="sv3-num">[161]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1687530936709_125976">Drampa</a> (ex Starter Decks)</li>
-
     <li class="c"><span class="sv3-num">[162]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1682089420974_97420">Pidgey</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[163]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1682089420974_100298">Pidgeotto</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[164]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1682089420974_103230">Pidgeot ex</a> (Black Flame Ruler)</li>
@@ -278,20 +224,18 @@ showHeading: false
     <li class="c"><span class="sv3-num">[183]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1688095164022_4553591">Oinkologne</a> (ex Starter Decks)</li>
     <li class="c"><span class="sv3-num">[184]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689910806542_1163531">Oinkologne</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[185]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_1321915">Flamigo</a> (Black Flame Ruler)</li>
-
-    <li class=""><span class="sv3-num">[186]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689902973556_715761">Arven</a> (Scarlet &amp; Violet)</li>
-    <li class=""><a href="/translations/sv3#block-yui_3_17_2_1_1682088004260_26638">Brassius</a> (Promo)</li>
-    <li class=""><span class="sv3-num">[188]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_1521882">Geeta</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[189]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_3119958">Letter of Encouragement</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[190]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_1521882">Ortega</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[191]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689902973556_544027">Patrol Cap</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[192]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689178808367_333176">Pokémon League Headquarters</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[193]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_3067011">Poppy</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[194]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689178808367_178300">Ryme</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[195]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689902973556_372488">Team Star Grunt</a> (Scarlet &amp; Violet)</li>
-    <li class=""><span class="sv3-num">[196]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689178808367_191893">Town Store</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[197]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689079689078_558465">Vengeful Punch</a> (Black Flame Ruler)</li>
-
+    <li><span class="sv3-num">[186]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689902973556_715761">Arven</a> (Scarlet &amp; Violet)</li>
+    <li><a href="/translations/sv3#block-yui_3_17_2_1_1682088004260_26638">Brassius</a> (Promo)</li>
+    <li><span class="sv3-num">[188]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_1521882">Geeta</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[189]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_3119958">Letter of Encouragement</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[190]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689338829058_1521882">Ortega</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[191]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689902973556_544027">Patrol Cap</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[192]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689178808367_333176">Pokémon League Headquarters</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[193]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1686394584142_3067011">Poppy</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[194]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689178808367_178300">Ryme</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[195]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689902973556_372488">Team Star Grunt</a> (Scarlet &amp; Violet)</li>
+    <li><span class="sv3-num">[196]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689178808367_191893">Town Store</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[197]</span> <a href="/translations/sv3#block-yui_3_17_2_1_1689079689078_558465">Vengeful Punch</a> (Black Flame Ruler)</li>
     <li class="g chunkborder"><span class="sv3-num">[198]</span> IR <a href="/visual#irpokemon">Gloom</a> (Black Flame Ruler)</li>
     <li class="r"><span class="sv3-num">[199]</span> IR <a href="/visual#irpokemon">Ninetales</a> (Black Flame Ruler)</li>
     <li class="w"><span class="sv3-num">[200]</span> IR <a href="/visual#irpokemon">Palafin</a> (Black Flame Ruler)</li>
@@ -304,7 +248,6 @@ showHeading: false
     <li class="c"><span class="sv3-num">[207]</span> IR <a href="/visual#irpokemon">Pidgey</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[208]</span> IR <a href="/visual#irpokemon">Pidgeotto</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[209]</span> IR <a href="/visual#irpokemon">Lechonk</a> (Black Flame Ruler)</li>
-
     <li class="r chunkborder"><span class="sv3-num">[210]</span> FA <a href="/visual#fapokemon">Eiscue ex</a> (Black Flame Ruler)</li>
     <li class="l"><span class="sv3-num">[211]</span> FA <a href="/visual#fapokemon">Tyranitar ex</a> (Black Flame Ruler)</li>
     <li class="p"><span class="sv3-num">[212]</span> FA <a href="/visual#fapokemon">Vespiquen ex</a> (Black Flame Ruler)</li>
@@ -313,232 +256,108 @@ showHeading: false
     <li class="d"><span class="sv3-num">[215]</span> FA <a href="/visual#fapokemon">Charizard ex</a> (Black Flame Ruler)</li>
     <li class="m"><span class="sv3-num">[216]</span> FA <a href="/visual#fapokemon">Revavroom ex</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[217]</span> FA <a href="/visual#fapokemon">Pidgeot ex</a> (Black Flame Ruler)</li>
-
     <li class=" chunkborder"><span class="sv3-num">[218]</span> FA <a href="/visual#fasupporters">Geeta</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[219]</span> FA <a href="/visual#fasupporters">Ortega</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[220]</span> FA <a href="/visual#fasupporters">Poppy</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[221]</span> FA <a href="/visual#fasupporters">Ryme</a> (Black Flame Ruler)</li>
-
+    <li><span class="sv3-num">[219]</span> FA <a href="/visual#fasupporters">Ortega</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[220]</span> FA <a href="/visual#fasupporters">Poppy</a> (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[221]</span> FA <a href="/visual#fasupporters">Ryme</a> (Black Flame Ruler)</li>
     <li class="r chunkborder"><span class="sv3-num">[222]</span> SIR <a href="/visual#sirpokemon">Eiscue ex</a> (Black Flame Ruler)</li>
     <li class="d"><span class="sv3-num">[223]</span> SIR <a href="/visual#sirpokemon">Charizard ex</a> (Black Flame Ruler)</li>
     <li class="m"><span class="sv3-num">[224]</span> SIR <a href="/visual#sirpokemon">Revavroom ex</a> (Black Flame Ruler)</li>
     <li class="c"><span class="sv3-num">[225]</span> SIR <a href="/visual#sirpokemon">Pidgeot ex</a> (Black Flame Ruler)</li>
-
     <li class="chunkborder"><span class="sv3-num">[226]</span> SIR <a href="/visual#sirsupporters">Geeta</a> (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[227]</span> SIR <a href="/visual#sirsupporters">Poppy</a> (Black Flame Ruler)</li>
-    
+    <li><span class="sv3-num">[227]</span> SIR <a href="/visual#sirsupporters">Poppy</a> (Black Flame Ruler)</li>
     <li class="d chunkborder"><span class="sv3-num">[228]</span> GOLD Charizard ex (Black Flame Ruler)</li>
-    <li class=""><span class="sv3-num">[229]</span> GOLD Artazon (Black Flame Ruler)</li>
+    <li><span class="sv3-num">[229]</span> GOLD Artazon (Black Flame Ruler)</li>
     <li class="r"><span class="sv3-num">[230]</span> GOLD Fire Energy (Black Flame Ruler)</li>
   </ol> 
 </div> 
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-33cd2085f19b95b61e68"><div class="sqs-block-content"><hr></div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="9e5e4e3ccb367d499ba5" id="block-9e5e4e3ccb367d499ba5"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-b6eb525e67797dc2e4bc"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Cards Intentionally Excluded from List</h3><p class="" style="white-space:pre-wrap;">The cards below may appear in a future set, as promo cards, or may see their release in some other way.</p>
 </div>
 
+---
 
 
 
+### Cards Intentionally Excluded from List
 
+The cards below may appear in a future set, as promo cards, or may see their release in some other way.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="yui_3_17_2_1_1689875325005_9240" id="block-yui_3_17_2_1_1689875325005_9240"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">This set will likely include many of the Titan Pokémon from Pokémon Scarlet and Pokémon Violet as Pokémon ex.</p>-->
-<div style="width:100%;" class="mobile-collapse links">
-  
-  <ol style="margin-top:0px; margin-bottom:0px;">
-
+<div class="jb-code-container">
+<div class="mobile-collapse links">
+  <ol>
     <li class="w"><a href="/translations/misc#block-yui_3_17_2_1_1689875686308_7016">Greninja ex</a> (ex Starter Decks)</li>
     <li class="d"><a href="/translations/misc#block-yui_3_17_2_1_1689945898028_8677">Paldean Wooper</a> (Black Flame Ruler)</li>
     <li class="d"><a href="/translations/sv4#block-yui_3_17_2_1_1689927931598_13928">Mabostiff ex</a> (Promo)</li>
-    <li class=""><a href="/translations/sv4#block-yui_3_17_2_1_1689927931598_18300">Atticus</a> (Promo)</li>
-    <li class="">Nemona (ex Starter Mimikyu)</li>
-  
-  
+    <li><a href="/translations/sv4#block-yui_3_17_2_1_1689927931598_18300">Atticus</a> (Promo)</li>
+    <li>Nemona (ex Starter Mimikyu)</li>
   </ol> 
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-yui_3_17_2_1_1689875325005_9307"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;"><strong>Other set details</strong></h3><p class="" style="white-space:pre-wrap;">Obsidian Flames is expected to be comprised of cards cut from Paldea Evolved, any new cards from <a href="https://www.pokebeach.com/2023/01/pokemon-card-151-set-announced-for-june-new-ex-starter-decks-in-july">the new ex Starter Decks</a> (7 July 2023, 139 cards in set, with an estimated 35 new cards) featuring Decidueye ex, Victini ex, Greninja ex, Miraidon ex, Clefable ex, Koraidon ex, Houndoom ex, and Melmetal ex, and cards from Black Flame Ruler (28 July 2023, 108 new cards).</p>
 </div>
 
+### **Other set details**
 
+Obsidian Flames is expected to be comprised of cards cut from Paldea Evolved, any new cards from [the new ex Starter Decks](https://www.pokebeach.com/2023/01/pokemon-card-151-set-announced-for-june-new-ex-starter-decks-in-july) (7 July 2023, 139 cards in set, with an estimated 35 new cards) featuring Decidueye ex, Victini ex, Greninja ex, Miraidon ex, Clefable ex, Koraidon ex, Houndoom ex, and Melmetal ex, and cards from Black Flame Ruler (28 July 2023, 108 new cards).
 
+<div class="jb-row"><div class="jb-col-3">
 
+### Card Counts
 
+- Cards: 197, before secret rares
+- Chase Card Pokémon: 21
+- Trainer Cards: 15+
+- Special Energy: 0
 
+</div><div class="jb-col-3">
 
+### Chase Pokémon
 
+1. Vespiquen ex
+2. Decidueye ex
+3. Toedscruel ex
+4. Victini ex
+5. Eiscue ex
+6. Tyranitar ex
+7. Pawmot ex
+8. Miraidon ex
+9. Clefable ex
+10. Houndstone ex
+11. Klawf ex
+12. Glimmora ex
+13. Koraidon ex
+14. Charizard ex
+15. Houndoom ex
+16. Absol ex
+17. Melmetal ex
+18. Revavroom ex
+19. Dragonite ex
+20. Pidgeot ex
+21. Greedent ex
 
+</div><div class="jb-col-3">
 
+### Trainer Cards
 
+1. Arven
+2. Brassius
+3. Geeta
+4. Letter of Encouragement
+5. Ortega
+6. Patrol Cap
+7. Pokémon League Headquarters
+8. Poppy
+9. Ryme
+10. Team Star Grunt
+11. Town Store
+12. Vengeful Punch
 
+</div><div class="jb-col-3">
 
+### Special Energy
 
+1. None
 
+</div></div>
 
+---
 
 
 
-
-  
-  
-
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-f3f7e0dc3dc2dad86cbb"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Card Counts</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Cards: 197, before secret rares</p></li><li><p class="" style="white-space:pre-wrap;">Chase Card Pokémon: 21</p></li><li><p class="" style="white-space:pre-wrap;">Trainer Cards: 15+</p></li><li><p class="" style="white-space:pre-wrap;">Special Energy: 0</p></li></ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-de865e4d4b56917ffcaa"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Chase Pokémon</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Vespiquen ex</p></li><li><p class="" style="white-space:pre-wrap;">Decidueye ex</p></li><li><p class="" style="white-space:pre-wrap;">Toedscruel ex</p></li><li><p class="" style="white-space:pre-wrap;">Victini ex</p></li><li><p class="" style="white-space:pre-wrap;">Eiscue ex</p></li><li><p class="" style="white-space:pre-wrap;">Tyranitar ex</p></li><li><p class="" style="white-space:pre-wrap;">Pawmot ex</p></li><li><p class="" style="white-space:pre-wrap;">Miraidon ex</p></li><li><p class="" style="white-space:pre-wrap;">Clefable ex</p></li><li><p class="" style="white-space:pre-wrap;">Houndstone ex</p></li><li><p class="" style="white-space:pre-wrap;">Klawf ex</p></li><li><p class="" style="white-space:pre-wrap;">Glimmora ex</p></li><li><p class="" style="white-space:pre-wrap;">Koraidon ex</p></li><li><p class="" style="white-space:pre-wrap;">Charizard ex</p></li><li><p class="" style="white-space:pre-wrap;">Houndoom ex</p></li><li><p class="" style="white-space:pre-wrap;">Absol ex</p></li><li><p class="" style="white-space:pre-wrap;">Melmetal ex</p></li><li><p class="" style="white-space:pre-wrap;">Revavroom ex</p></li><li><p class="" style="white-space:pre-wrap;">Dragonite ex</p></li><li><p class="" style="white-space:pre-wrap;">Pidgeot ex</p></li><li><p class="" style="white-space:pre-wrap;">Greedent ex</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-245fb475a5eb83c210c0"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Trainer Cards</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Arven</p></li><li><p class="" style="white-space:pre-wrap;">Brassius</p></li><li><p class="" style="white-space:pre-wrap;">Geeta</p></li><li><p class="" style="white-space:pre-wrap;">Letter of Encouragement</p></li><li><p class="" style="white-space:pre-wrap;">Ortega</p></li><li><p class="" style="white-space:pre-wrap;">Patrol Cap</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon League Headquarters</p></li><li><p class="" style="white-space:pre-wrap;">Poppy</p></li><li><p class="" style="white-space:pre-wrap;">Ryme</p></li><li><p class="" style="white-space:pre-wrap;">Team Star Grunt</p></li><li><p class="" style="white-space:pre-wrap;">Town Store</p></li><li><p class="" style="white-space:pre-wrap;">Vengeful Punch</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-4fc43008381316fbca97"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Special Energy</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">None </p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-48ee566bb13138a8ef2a"><div class="sqs-block-content"><hr></div></div></div></div>

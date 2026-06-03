@@ -5,721 +5,47 @@ sourceUrl: "https://www.justinbasil.com/set-lists/ss3"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1589206148546_50270"><div class="sqs-block-content">
 
 
+![](/images/56e2a6d0be195fe0.webp)
 
 
 
+# Darkness Ablaze - What We Know So Far
 
+### set size: 188 cards (before Secret Rares)
 
+Set Abbreviation: DAA
 
 
 
+![DAB.png](/images/cdff4891a67beceb.webp)
 
+<div class="jb-row"><div class="jb-col-3">
 
+![Centiskorch VMAX.png](/images/95972151b3fb6f77.webp)
 
+</div><div class="jb-col-3">
 
+![Charizard VMAX.png](/images/f6e7d18c5d5d46a5.webp)
 
+</div><div class="jb-col-3">
 
+![Eternatus VMAX.png](/images/5e559d42ce3f7e1f.webp)
 
+</div><div class="jb-col-3">
 
+![Grimmsnarl VMAX.png](/images/d6057e8a609e54af.webp)
 
+</div></div>
 
+Below is a list of cards that will comprise our third Sword & Shield set, Darkness Ablaze, when it releases August 14th. Darkness Ablaze will be legal for tournament play 28 August 2020.
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:398px;">
-          
-        
-        
-
-        
-          
-            
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:26.884422302246094%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/56e2a6d0be195fe0.webp" data-image="/images/56e2a6d0be195fe0.webp" data-image-dimensions="398x107" data-image-focal-point="0.5,0.5" alt="" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/56e2a6d0be195fe0.webp" width="398" height="107" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/56e2a6d0be195fe0.webp 100w, /images/56e2a6d0be195fe0.webp 300w, /images/56e2a6d0be195fe0.webp 500w, /images/56e2a6d0be195fe0.webp 750w, /images/56e2a6d0be195fe0.webp 1000w, /images/56e2a6d0be195fe0.webp 1500w, /images/56e2a6d0be195fe0.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-5e73295b9eac171efbd03aa1"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h1 style="text-align:center;white-space:pre-wrap;">&nbsp;Darkness Ablaze - What We Know So Far</h1><h3 style="text-align:center;white-space:pre-wrap;">set size: 188 cards (before Secret Rares)</h3><p style="text-align:center;white-space:pre-wrap;" class="">Set Abbreviation: DAA</p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1590764890909_12478"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:38px;">
-          
-        
-        
-
-        
-          
-            
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:100%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/cdff4891a67beceb.webp" data-image="/images/cdff4891a67beceb.webp" data-image-dimensions="38x38" data-image-focal-point="0.5,0.5" alt="DAB.png" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/cdff4891a67beceb.webp" width="38" height="38" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/cdff4891a67beceb.webp 100w, /images/cdff4891a67beceb.webp 300w, /images/cdff4891a67beceb.webp 500w, /images/cdff4891a67beceb.webp 750w, /images/cdff4891a67beceb.webp 1000w, /images/cdff4891a67beceb.webp 1500w, /images/cdff4891a67beceb.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1589288756282_13938"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:550px;">
-          
-        
-        
-
-        
-          
-            
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:53.45454788208008%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/95972151b3fb6f77.webp" data-image="/images/95972151b3fb6f77.webp" data-image-dimensions="550x294" data-image-focal-point="0.5,0.5" alt="Centiskorch VMAX.png" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/95972151b3fb6f77.webp" width="550" height="294" sizes="(max-width: 640px) 100vw, (max-width: 767px) 25vw, 25vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/95972151b3fb6f77.webp 100w, /images/95972151b3fb6f77.webp 300w, /images/95972151b3fb6f77.webp 500w, /images/95972151b3fb6f77.webp 750w, /images/95972151b3fb6f77.webp 1000w, /images/95972151b3fb6f77.webp 1500w, /images/95972151b3fb6f77.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1584605535303_4484"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:550px;">
-          
-        
-        
-
-        
-          
-            
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:53.45454788208008%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/f6e7d18c5d5d46a5.webp" data-image="/images/f6e7d18c5d5d46a5.webp" data-image-dimensions="550x294" data-image-focal-point="0.5,0.5" alt="Charizard VMAX.png" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/f6e7d18c5d5d46a5.webp" width="550" height="294" sizes="(max-width: 640px) 100vw, (max-width: 767px) 25vw, 25vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/f6e7d18c5d5d46a5.webp 100w, /images/f6e7d18c5d5d46a5.webp 300w, /images/f6e7d18c5d5d46a5.webp 500w, /images/f6e7d18c5d5d46a5.webp 750w, /images/f6e7d18c5d5d46a5.webp 1000w, /images/f6e7d18c5d5d46a5.webp 1500w, /images/f6e7d18c5d5d46a5.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1589288756282_16920"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:550px;">
-          
-        
-        
-
-        
-          
-            
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:53.45454788208008%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/5e559d42ce3f7e1f.webp" data-image="/images/5e559d42ce3f7e1f.webp" data-image-dimensions="550x294" data-image-focal-point="0.5,0.5" alt="Eternatus VMAX.png" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/5e559d42ce3f7e1f.webp" width="550" height="294" sizes="(max-width: 640px) 100vw, (max-width: 767px) 25vw, 25vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/5e559d42ce3f7e1f.webp 100w, /images/5e559d42ce3f7e1f.webp 300w, /images/5e559d42ce3f7e1f.webp 500w, /images/5e559d42ce3f7e1f.webp 750w, /images/5e559d42ce3f7e1f.webp 1000w, /images/5e559d42ce3f7e1f.webp 1500w, /images/5e559d42ce3f7e1f.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block image-block sqs-block-image" data-block-type="5" data-sqsp-block="image-classic" id="block-yui_3_17_2_1_1584605535303_6139"><div class="sqs-block-content">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-    
-  
-    <div class="
-          image-block-outer-wrapper
-          layout-caption-below
-          design-layout-inline
-          combination-animation-none
-          individual-animation-none
-          individual-text-animation-none
-        " data-test="image-block-inline-outer-wrapper" data-sqsp-image-classic-block-layout="inline">
-
-      
-
-      
-        <figure class="
-              sqs-block-image-figure
-              intrinsic
-            " style="max-width:550px;">
-          
-        
-        
-
-        
-          
-            
-          <div class="image-block-wrapper" data-animation-role="image">
-            <div data-sqsp-image-classic-block-image-container="" class="sqs-image-shape-container-element
-              
-          
-        
-              has-aspect-ratio
-            " style="
-                position: relative;
-                
-                  padding-bottom:53.45454788208008%;
-                
-                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
-              ">
-                
-                
-                
-                
-                
-                
-                
-                <img data-stretch="false" data-src="/images/d6057e8a609e54af.webp" data-image="/images/d6057e8a609e54af.webp" data-image-dimensions="550x294" data-image-focal-point="0.5,0.5" alt="Grimmsnarl VMAX.png" elementtiming="system-image-block" data-sqsp-image-classic-block-image="" src="/images/d6057e8a609e54af.webp" width="550" height="294" sizes="(max-width: 640px) 100vw, (max-width: 767px) 25vw, 25vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="/images/d6057e8a609e54af.webp 100w, /images/d6057e8a609e54af.webp 300w, /images/d6057e8a609e54af.webp 500w, /images/d6057e8a609e54af.webp 750w, /images/d6057e8a609e54af.webp 1000w, /images/d6057e8a609e54af.webp 1500w, /images/d6057e8a609e54af.webp 2500w" loading="lazy" decoding="async" data-loader="sqs">
-
-            </div>
-          </div>
-        
-          
-        
-
-        
-      
-        </figure>
-      
-
-    </div>
-  
-
-
-  
-
-
-</div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1584605535303_4767"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <p style="text-align:center;white-space:pre-wrap;" class="">Below is a list of cards that will comprise our third Sword &amp; Shield set, Darkness Ablaze, when it releases August 14th. Darkness Ablaze will be legal for tournament play 28 August 2020.</p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1584605535303_10291"><div class="sqs-block-content"><hr></div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_1_1584605535303_11205"><div class="sqs-block-content"><ol>
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block markdown-block jb-block-markdown"><ol>
 <li><a href="https://www.serebii.net/card/explosivewalker/001.shtml">Butterfree V</a> (S2a)</li>
 <li><a href="https://www.serebii.net/card/explosivewalker/002.shtml">Butterfree VMAX</a> (S2a)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/001.shtml">Paras</a> (S3)</li>
@@ -770,9 +96,7 @@ showHeading: false
 <li><a href="https://www.serebii.net/card/explosivewalker/022.shtml">Cubchoo</a> (S2a)</li>
 <li><a href="https://www.serebii.net/card/explosivewalker/023.shtml">Beartic</a> (S2a)</li>
 <li><a href="https://www.serebii.net/card/explosivewalker/024.shtml">Wishiwashi</a> (S2a)</li>
-</ol>
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_1_1595521045315_14083"><div class="sqs-block-content"><ol start="51">
+</ol></div></div><div class="jb-col-3"><div class="jb-block markdown-block jb-block-markdown"><ol start="51">
 <li><a href="https://www.serebii.net/card/infinityzone/024.shtml">Mareanie</a> (S3)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/025.shtml">Toxapex</a> (S3)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/028.shtml">Dracovish</a> (S3)</li>
@@ -823,9 +147,7 @@ showHeading: false
 <li>Galarian Sirfetch'd (Rebel Clash, new artwork)</li>
 <li><a href="https://www.serebii.net/card/vstarterdeck/059.shtml">Galarian Slowbro V</a> (V Starter Decks)</li>
 <li><a href="https://www.serebii.net/card/explosivewalker/046.shtml">Grimer</a> (S2a)</li>
-</ol>
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_1_1595521045315_17531"><div class="sqs-block-content"><ol start="101">
+</ol></div></div><div class="jb-col-3"><div class="jb-block markdown-block jb-block-markdown"><ol start="101">
 <li><a href="https://www.serebii.net/card/explosivewalker/047.shtml">Muk</a> (S2a)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/051.shtml">Spinarak</a> (S3)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/052.shtml">Ariados</a> (S3)</li>
@@ -876,9 +198,7 @@ showHeading: false
 <li><a href="https://www.serebii.net/card/infinityzone/085.shtml">Ducklett</a> (S3)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/086.shtml">Swanna</a> (S3)</li>
 <li><a href="https://www.serebii.net/card/explosivewalker/058.shtml">Bunnelby</a> (S2a)</li>
-</ol>
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_1_1595521045315_19064"><div class="sqs-block-content"><ol start="151">
+</ol></div></div><div class="jb-col-3"><div class="jb-block markdown-block jb-block-markdown"><ol start="151">
 <li><a href="https://www.serebii.net/card/explosivewalker/059.shtml">Fletchling</a> (S2a)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/087.shtml">Skwovet</a> (S3)</li>
 <li><a href="https://www.serebii.net/card/infinityzone/088.shtml">Greedent</a> (S3)</li>
@@ -918,141 +238,90 @@ showHeading: false
 <li>FA Piers (S3)</li>
 <li>FA Pokémon Breeders' Nurturing (S2a)</li>
 <li>FA Rose (S3)</li>
-</ol>
+</ol></div></div></div>
 
-</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1584605535303_10744"><div class="sqs-block-content"><hr></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1584606829298_8068"><div class="sqs-block-content">
+---
 
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;"><strong>Other set details</strong></h3><p class="" style="white-space:pre-wrap;">Darkness Ablaze is made up of cards from the Japanese sets S2a Eruption Walker (70 cards, releases 24 April 2020), S3 Infinity Zone (100 cards, releases 5 June 2020), and the new cards from the (Sc) Charizard VMAX and (Sc) Grimmsnarl VMAX Starter Decks (41 total cards, 14 new), with a few additional cards coming from the new V Starter Decks. </p><p class="" style="white-space:pre-wrap;">The Japanese sets that make up what will have become our Darkness Ablaze contain more Pokémon V and more Pokémon VMAX than <a href="https://api.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/">the official set description</a>. As such, four Pokémon V were cut from Darkness Ablaze, as were 2 Pokémon VMAX. The following Pokémon have been confirmed to be cut from the set: Galarian Cursola V, Grapploct V, Gardevoir V, Gardevoir VMAX, Drednaw V, and Drednaw VMAX.</p>
-</div>
 
 
+### **Other set details**
 
+Darkness Ablaze is made up of cards from the Japanese sets S2a Eruption Walker (70 cards, releases 24 April 2020), S3 Infinity Zone (100 cards, releases 5 June 2020), and the new cards from the (Sc) Charizard VMAX and (Sc) Grimmsnarl VMAX Starter Decks (41 total cards, 14 new), with a few additional cards coming from the new V Starter Decks.
 
+The Japanese sets that make up what will have become our Darkness Ablaze contain more Pokémon V and more Pokémon VMAX than [the official set description](https://api.pokemon.com/us/pokemon-tcg/sword-shield-darkness-ablaze/explore-and-watch/). As such, four Pokémon V were cut from Darkness Ablaze, as were 2 Pokémon VMAX. The following Pokémon have been confirmed to be cut from the set: Galarian Cursola V, Grapploct V, Gardevoir V, Gardevoir VMAX, Drednaw V, and Drednaw VMAX.
 
+<div class="jb-row"><div class="jb-col-3">
 
+### Card Counts
 
+- Cards: 188 (Before Secret Rares)
+- Pokémon V: 14
+- Pokémon VMAX: 7
+- Trainer Cards: 17
+- Special Energy: 3
 
+### Special Energy
 
+1. Heat Fire Energy
+2. Hiding Darkness Energy
+3. Powerful Colorless Energy
 
+</div><div class="jb-col-3">
 
+### Pokémon V
 
+1. Butterfree V
+2. Charizard V
+3. Houndoom V
+4. Centiskorch V
+5. Vikavolt V
+6. Mew V
+7. Rhyperior V
+8. Galarian Slowbro V
+9. Crobat V
+10. Grimmsnarl V
+11. Eternatus V
+12. Scizor V
+13. Galarian Stunfisk V
+14. Salamence V
 
+</div><div class="jb-col-3">
 
+### Pokémon VMAX
 
+1. Butterfree VMAX
+2. Charizard VMAX
+3. Centiskorch VMAX
+4. Grimmsnarl VMAX
+5. Eternatus VMAX
+6. Scizor VMAX
+7. Salamence VMAX
 
+</div><div class="jb-col-3">
 
+### Trainer Cards
 
+1. Big Parasol
+2. Billowing Smoke
+3. Bird Keeper
+4. Cape of Toughness
+5. Familiar Bell
+6. Glimwood Tangle
+7. Kabu
+8. Old PC
+9. Piers
+10. Pokémon Breeder’s Nurturing
+11. Rare Fossil
+12. Rose
+13. Rose Tower
+14. Spikemuth
+15. Struggle Gloves
+16. Turbo Patch
+17. Yell Horn
 
+</div></div>
 
+---
 
 
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1584606829298_9298"><div class="sqs-block-content">
 
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Card Counts</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Cards: 188 (Before Secret Rares)</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon V: 14</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon VMAX: 7</p></li><li><p class="" style="white-space:pre-wrap;">Trainer Cards: 17</p></li><li><p class="" style="white-space:pre-wrap;">Special Energy: 3</p></li></ul><h3 style="white-space:pre-wrap;">Special Energy</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Heat Fire Energy</p></li><li><p class="" style="white-space:pre-wrap;">Hiding Darkness Energy </p></li><li><p class="" style="white-space:pre-wrap;">Powerful Colorless Energy</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1584606829298_13209"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Pokémon V</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Butterfree V</p></li><li><p class="" style="white-space:pre-wrap;">Charizard V</p></li><li><p class="" style="white-space:pre-wrap;">Houndoom V </p></li><li><p class="" style="white-space:pre-wrap;">Centiskorch V</p></li><li><p class="" style="white-space:pre-wrap;">Vikavolt V</p></li><li><p class="" style="white-space:pre-wrap;">Mew V</p></li><li><p class="" style="white-space:pre-wrap;">Rhyperior V</p></li><li><p class="" style="white-space:pre-wrap;">Galarian Slowbro V</p></li><li><p class="" style="white-space:pre-wrap;">Crobat V</p></li><li><p class="" style="white-space:pre-wrap;">Grimmsnarl V</p></li><li><p class="" style="white-space:pre-wrap;">Eternatus V</p></li><li><p class="" style="white-space:pre-wrap;">Scizor V</p></li><li><p class="" style="white-space:pre-wrap;">Galarian Stunfisk V</p></li><li><p class="" style="white-space:pre-wrap;">Salamence V</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1584606829298_21472"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Pokémon VMAX</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Butterfree VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Charizard VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Centiskorch VMAX </p></li><li><p class="" style="white-space:pre-wrap;">Grimmsnarl VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Eternatus VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Scizor VMAX</p></li><li><p class="" style="white-space:pre-wrap;">Salamence VMAX</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-sqsp-block="text" id="block-yui_3_17_2_1_1584606829298_23882"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Trainer Cards</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Big Parasol</p></li><li><p class="" style="white-space:pre-wrap;">Billowing Smoke</p></li><li><p class="" style="white-space:pre-wrap;">Bird Keeper</p></li><li><p class="" style="white-space:pre-wrap;">Cape of Toughness</p></li><li><p class="" style="white-space:pre-wrap;">Familiar Bell</p></li><li><p class="" style="white-space:pre-wrap;">Glimwood Tangle</p></li><li><p class="" style="white-space:pre-wrap;">Kabu</p></li><li><p class="" style="white-space:pre-wrap;">Old PC</p></li><li><p class="" style="white-space:pre-wrap;">Piers</p></li><li><p class="" style="white-space:pre-wrap;">Pokémon Breeder’s Nurturing</p></li><li><p class="" style="white-space:pre-wrap;">Rare Fossil</p></li><li><p class="" style="white-space:pre-wrap;">Rose</p></li><li><p class="" style="white-space:pre-wrap;">Rose Tower</p></li><li><p class="" style="white-space:pre-wrap;">Spikemuth</p></li><li><p class="" style="white-space:pre-wrap;">Struggle Gloves</p></li><li><p class="" style="white-space:pre-wrap;">Turbo Patch</p></li><li><p class="" style="white-space:pre-wrap;">Yell Horn</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-yui_3_17_2_1_1584606829298_7581"><div class="sqs-block-content"><hr></div></div></div></div>

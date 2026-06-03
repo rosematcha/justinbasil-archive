@@ -1,5 +1,6 @@
 // Core extraction helpers shared by convert.mjs and tests.
 import { JSDOM } from 'jsdom';
+import { beautify, collapseBlankLines, resetStash } from './beautify.mjs';
 
 const SITE = 'https://www.justinbasil.com';
 const TITLE_SUFFIX = /\s*[—–-]\s*JustInBasil['’]s Pok[ée]mon TCG Resources\s*$/i;
@@ -32,7 +33,7 @@ export function sanitize(root, doc) {
     if (m && el.parentNode) {
       const a = doc.createElement('a');
       a.setAttribute('href', m[1]);
-      a.setAttribute('style', 'display:block;color:inherit;text-decoration:none;cursor:pointer');
+      a.setAttribute('class', 'jb-onclick-link');
       el.parentNode.insertBefore(a, el);
       a.appendChild(el);
     }
@@ -98,12 +99,11 @@ export function extractPage(rawHtml, { sourcePath } = {}) {
   // duplicating content. Fall back to top-level .sqs-layout, then main.
   let sections = main.querySelectorAll('.Index-page-content');
   if (!sections.length) sections = main.querySelectorAll('.sqs-layout');
-  let html;
-  if (sections.length) {
-    html = [...sections].map((s) => s.innerHTML).join('\n');
-  } else {
-    html = main.innerHTML;
-  }
+  const roots = sections.length ? [...sections] : [main];
+  resetStash();
+  roots.forEach((r) => beautify(r));
+  let html = roots.map((r) => r.innerHTML).join('\n');
+  html = collapseBlankLines(html);
 
   const result = { title, description, ogImage, canonical, publishDate, sourcePath, html };
   dom.window.close(); // free JSDOM memory promptly (we keep only plain strings)

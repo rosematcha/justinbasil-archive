@@ -5,23 +5,17 @@ sourceUrl: "https://www.justinbasil.com/set-lists/sv8"
 showHeading: false
 ---
 
-<div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="eacbc8398c944208a999" id="block-eacbc8398c944208a999"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <div style="margin:10px;
-  <!--background-image:url();-->
-  background-size:cover;
-  background-position:center;
-  padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px">
+<div class="jb-code-container">
+    <div style="margin:10px; <!--background-image:url(); -->
+  background-size:cover; background-position:center; padding:20px; color:#ffffff; background-color:#111; border: 1px solid; border-color: #e3e3e3 #cecece #b4b4b4 #d6d6d6; box-shadow: 0 2px 2px 0 rgb(0 0 0 / 16%), 0 0 0 1px rgb(0 0 0 / 8%); border-radius:4px;">
   <div>
-    <img style="max-height:165px; display:block; margin-left:auto; margin-right:auto;" src="/images/36284b3570417977.webp" loading="lazy">
-    <!--<h1 style="text-align:center; margin:0px; color:#fff;">Surging Sparks</h1>-->
-    <!--<img alt="SV6.5 Set Identifier" style="margin-top:15px; vertical-align:middle; margin-left:auto; margin-right:auto; display:block;" src="/images/20c2101c5d580edf.webp">-->
-    <h1 style="color:#fff; text-align:center; margin:5px;">Prospective Set List</h1>
-    <hr style="width:50%;">
-    <p style="text-align:center; margin:0px;">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
+    <img src="/images/36284b3570417977.webp" loading="lazy" class="jb-deck-thumb">
+    <h1 class="jb-white-center-margin5">Prospective Set List</h1>
+    <hr>
+    <p class="jb-decklist-center">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
     <br>
-    </p><p style="text-align:center; margin:0px;">
-          <a class="" href="/set-lists/sv8">Prospective Set List</a>  |
+    </p><p class="jb-decklist-center">
+          <a href="/set-lists/sv8">Prospective Set List</a>  |
           <a class="blink" href="/translations/sv8">Card Translations</a>  |
           <a class="blink" href="/visual/sv8">Visual Set List</a> |
           <a class="blink" href="/proxies/sv8">Selected Proxies</a> |
@@ -29,58 +23,18 @@ showHeading: false
     </p>
   </div>
 </div>
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-e08f6dd580f82e7fa35d"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;">set size: 191 cards (before Secret Rares)</h3><p style="text-align:center;white-space:pre-wrap;" class="">Below is a list of cards that comprises our eighth Scarlet &amp; Violet set, Surging Sparks, when it releases 8 November 2024. The set will be legal for tournament play on 22 November 2024.</p>
 </div>
 
+### set size: 191 cards (before Secret Rares)
+
+Below is a list of cards that comprises our eighth Scarlet & Violet set, Surging Sparks, when it releases 8 November 2024. The set will be legal for tournament play on 22 November 2024.
 
 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="5a15c2e0379697ff91a2" id="block-5a15c2e0379697ff91a2"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="fee028d9ac1742912191" id="block-fee028d9ac1742912191"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    <!--<a href="/highlights/ss9"><div class="highlights">
-  See this set's highlights, including the best cards for both collectors and players here!
-</div></a>-->
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-e8983b16c7b3d5e9ab17"><div class="sqs-block-content"><hr></div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="2a2775da2c15e4e207ea" id="block-2a2775da2c15e4e207ea"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!--<p style="text-align: center;">No cards have been revealed from this set so far, though we can expect something related to Pikachu, Altaria, and Zinnia.</p>-->
-<div style="width:100%;" class="mobile-collapse links">
+<div class="jb-code-container">
+<div class="mobile-collapse links">
   <ol>
     <li class="g"><span class="sv8-num">[1]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_23362">Exeggcute</a> (Paradise Dragona)</li>
     <li class="g"><span class="sv8-num">[2]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_486995">Exeggcute</a> (Supercharged Breaker)</li>
@@ -97,7 +51,6 @@ showHeading: false
     <li class="g"><span class="sv8-num">[13]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_193169">Rellor</a> (Supercharged Breaker)</li>
     <li class="g"><span class="sv8-num">[14]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_226002">Rabsca</a> (Supercharged Breaker)</li>
     <li class="g"><span class="sv8-num">[15]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_237501">Wo-Chien</a> (Supercharged Breaker)</li>
-
     <li class="r"><span class="sv8-num">[16]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_22262">Vulpix</a> (Stellar Starter Set)</li>
     <li class="r"><span class="sv8-num">[17]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724386759406_81306">Ninetales</a> (Stellar Starter Set)</li>
     <li class="r"><span class="sv8-num">[18]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_865172">Paldean Tauros</a> (Supercharged Breaker)</li>
@@ -121,7 +74,6 @@ showHeading: false
     <li class="r"><span class="sv8-num">[36]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_24654">Ceruledge ex</a> (Stellar Starter Set)</li>
     <li class="r"><span class="sv8-num">[37]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_888155">Scovillain ex</a> (Supercharged Breaker)</li>
     <li class="r"><span class="sv8-num">[38]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_39211">Gouging Fire</a> (Paradise Dragona)</li>
-
     <li class="w"><span class="sv8-num">[39]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_1530711">Paldean Tauros</a> (Supercharged Breaker)</li>
     <li class="w"><span class="sv8-num">[40]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724386759406_242869">Mantine</a> (Stellar Starter Set)</li>
     <li class="w"><span class="sv8-num">[41]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_1400771">Feebas</a> (Supercharged Breaker)</li>
@@ -140,7 +92,6 @@ showHeading: false
     <li class="w"><span class="sv8-num">[54]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1725597042278_472304">Cetitan</a> (Paradise Dragona)</li>
     <li class="w"><span class="sv8-num">[55]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727432544621_139357">Iron Bundle</a> (Supercharged Breaker)</li>
     <li class="w"><span class="sv8-num">[56]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724373821010_61747">Chien-Pao</a> (Paradise Dragona)</li>
-
     <li class="l"><span class="sv8-num">[57]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_152069">Pikachu ex</a> (Supercharged Breaker)</li>
     <li class="l"><span class="sv8-num">[58]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724373821010_314832">Magnemite</a> (Supercharged Breaker)</li>
     <li class="l"><span class="sv8-num">[59]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724373821010_364902">Magneton</a> (Supercharged Breaker)</li>
@@ -154,7 +105,6 @@ showHeading: false
     <li class="l"><span class="sv8-num">[67]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_2677454">Kilowattrel</a> (SV Gym Promos Series 6)</li>
     <li class="l"><span class="sv8-num">[68]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728525898097_231401">Kilowattrel ex</a> (Supercharged Breaker)</li>
     <li class="l"><span class="sv8-num">[69]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728297403901_169450">Miraidon</a> (Supercharged Breaker)</li>
-
     <li class="p"><span class="sv8-num">[70]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_120544">Togepi</a> (Supercharged Breaker)</li>
     <li class="p"><span class="sv8-num">[71]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_130181">Togetic</a> (Supercharged Breaker)</li>
     <li class="p"><span class="sv8-num">[72]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_139296">Togekiss</a> (Supercharged Breaker)</li>
@@ -183,7 +133,6 @@ showHeading: false
     <li class="p"><span class="sv8-num">[95]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724667324727_97634">Espathra</a> (Paradise Dragona)</li>
     <li class="p"><span class="sv8-num">[96]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727432544621_261473">Flutter Mane</a> (Supercharged Breaker)</li>
     <li class="p"><span class="sv8-num">[97]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_77775">Gimmighoul</a> (Paradise Dragona)</li>
-
     <li class="f"><span class="sv8-num">[98]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_3019234">Mankey</a> (Supercharged Breaker)</li>
     <li class="f"><span class="sv8-num">[99]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_3034591">Primeape</a> (Supercharged Breaker)</li>
     <li class="f"><span class="sv8-num">[100]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_3049948">Annihilape</a> (Supercharged Breaker)</li>
@@ -203,13 +152,11 @@ showHeading: false
     <li class="f"><span class="sv8-num">[114]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_3696370">Glimmet</a> (Supercharged Breaker)</li>
     <li class="f"><span class="sv8-num">[115]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_3751689">Glimmora</a> (Supercharged Breaker)</li>
     <li class="f"><span class="sv8-num">[116]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728297403901_318233">Koraidon</a> (Supercharged Breaker)</li>
-
     <li class="d"><span class="sv8-num">[117]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_402013">Deino</a> (Supercharged Breaker)</li>
     <li class="d"><span class="sv8-num">[118]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_411367">Zweilous</a> (Supercharged Breaker)</li>
     <li class="d"><span class="sv8-num">[119]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_420723">Hydreigon ex</a> (Supercharged Breaker)</li>
     <li class="d"><span class="sv8-num">[120]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_3952588">Shroodle</a> (Supercharged Breaker)</li>
     <li class="d"><span class="sv8-num">[121]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_4008466">Grafaiai</a> (Supercharged Breaker)</li>
-
     <li class="m"><span class="sv8-num">[122]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727691998318_142979">Alolan Diglett</a> (Supercharged Breaker)</li>
     <li class="m"><span class="sv8-num">[123]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727691998318_154358">Alolan Dugtrio</a> (Supercharged Breaker)</li>
     <li class="m"><span class="sv8-num">[124]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_293303">Skarmory</a> (Paradise Dragona)</li>
@@ -221,7 +168,6 @@ showHeading: false
     <li class="m"><span class="sv8-num">[130]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_210702">Archaludon ex</a> (Paradise Dragona)</li>
     <li class="m"><span class="sv8-num">[131]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_214150">Gholdengo</a> (Paradise Dragona)</li>
     <li class="m"><span class="sv8-num">[132]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_169181">Iron Crown</a> (Paradise Dragona)</li>
-
     <li class="n"><span class="sv8-num">[133]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_166140">Alolan Exeggutor ex</a> (Paradise Dragona)</li>
     <li class="n"><span class="sv8-num">[134]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_168490">Altaria</a> (Paradise Dragona)</li>
     <li class="n"><span class="sv8-num">[135]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_170836">Dialga</a> (Paradise Dragona)</li>
@@ -232,7 +178,6 @@ showHeading: false
     <li class="n"><span class="sv8-num">[140]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724927064394_108351">Appletun</a> (Paradise Dragona)</li>
     <li class="n"><span class="sv8-num">[141]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727605649777_141763">Eternatus</a> (Supercharged Breaker)</li>
     <li class="n"><span class="sv8-num">[142]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_658241">Tatsugiri ex</a> (Supercharged Breaker)</li>
-
     <li class="c"><span class="sv8-num">[143]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720495203735_24588">Eevee</a> (Stellar Starter Set)</li>
     <li class="c"><span class="sv8-num">[144]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720495203735_26243">Snorlax</a> (Stellar Starter Set)</li>
     <li class="c"><span class="sv8-num">[145]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_759998">Slakoth</a> (Supercharged Breaker)</li>
@@ -252,39 +197,36 @@ showHeading: false
     <li class="c"><span class="sv8-num">[159]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_569774">Cyclizar ex</a> (Paradise Dragona)</li>
     <li class="c"><span class="sv8-num">[160]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728525898097_399972">Flamigo ex</a> (SV Gym Promos Series 5)</li>
     <li class="c"><span class="sv8-num">[161]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_424278">Terapagos</a> (Supercharged Breaker)</li>
-
-    <li class=""><span class="sv8-num">[162]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727865580518_147765">Amulet of Hope</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[163]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_5368947">Babiri Berry</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[164]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_53096">Brilliant Blender</a> (Stellar Starter Set)</li>
-    <li class=""><span class="sv8-num">[165]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_414681">Call Bell</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[166]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727951629230_552262">Chill Teaser Toy</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[167]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_1946161">Clemont's Quick Wit</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[168]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_966779">Colbur Berry</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[169]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_385326">Counter Gain</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[170]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_619298">Cyrano</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[171]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_5246366">Deduction Kit</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[172]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_295610">Dragon Elixir</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[173]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_618491">Drasna</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[174]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_298353">Drayton</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[175]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_300988">Dusk Ball</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[176]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_723974">Energy Search Pro</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[177]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_649250">Gravity Mountain</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[178]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_1053202">Jasmine's Gaze</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[179]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_303617">Lisia's Appeal</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[180]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_610601">Lively Stadium</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[181]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724859978157_85057">Meddling Memo</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[182]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_453480">Megaton Blower</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[183]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_679218">Miracle Headset</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[184]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_780960">Passho Berry</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[185]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_51808">Precious Trolley</a> (Stellar Starter Set)</li>
-    <li class=""><span class="sv8-num">[186]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_2118592">Scramble Switch</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[187]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_496574">Surfer</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[188]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_709212">Technical Machine: Fluorite</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[189]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_50527">Tera Orb</a> (Stellar Starter Set)</li>
-    <li class=""><span class="sv8-num">[190]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728526144294_233852">Tyme</a> (SV Gym Promos Series 5)</li>
-
-    <li class=""><span class="sv8-num">[191]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_388161">Enriching Energy</a> (Paradise Dragona)</li>
-
+    <li><span class="sv8-num">[162]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727865580518_147765">Amulet of Hope</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[163]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_5368947">Babiri Berry</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[164]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_53096">Brilliant Blender</a> (Stellar Starter Set)</li>
+    <li><span class="sv8-num">[165]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_414681">Call Bell</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[166]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727951629230_552262">Chill Teaser Toy</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[167]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_1946161">Clemont's Quick Wit</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[168]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_966779">Colbur Berry</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[169]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_385326">Counter Gain</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[170]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_619298">Cyrano</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[171]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728522695480_5246366">Deduction Kit</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[172]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_295610">Dragon Elixir</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[173]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_618491">Drasna</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[174]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_298353">Drayton</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[175]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_300988">Dusk Ball</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[176]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_723974">Energy Search Pro</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[177]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_649250">Gravity Mountain</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[178]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1727080750601_1053202">Jasmine's Gaze</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[179]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_303617">Lisia's Appeal</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[180]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_610601">Lively Stadium</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[181]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724859978157_85057">Meddling Memo</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[182]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_453480">Megaton Blower</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[183]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_679218">Miracle Headset</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[184]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1724976987398_780960">Passho Berry</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[185]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_51808">Precious Trolley</a> (Stellar Starter Set)</li>
+    <li><span class="sv8-num">[186]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728020558364_2118592">Scramble Switch</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[187]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1723964597386_496574">Surfer</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[188]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1726994240628_709212">Technical Machine: Fluorite</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[189]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1720493562882_50527">Tera Orb</a> (Stellar Starter Set)</li>
+    <li><span class="sv8-num">[190]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1728526144294_233852">Tyme</a> (SV Gym Promos Series 5)</li>
+    <li><span class="sv8-num">[191]</span> <a href="/translations/sv8#block-yui_3_17_2_1_1722578582592_388161">Enriching Energy</a> (Paradise Dragona)</li>
     <li class="g chunkborder"><span class="sv8-num">[192]</span> IR <a href="/visual/sv8#irpokemon">Exeggcute</a> (Paradise Dragona)</li>
     <li class="g"><span class="sv8-num">[193]</span> IR <a href="/visual/sv8#irpokemon">Vivillon</a> (Supercharged Breaker)</li>
     <li class="g"><span class="sv8-num">[194]</span> IR <a href="/visual/sv8#irpokemon">Shiinotic</a> (Paradise Dragona)</li>
@@ -308,7 +250,6 @@ showHeading: false
     <li class="c"><span class="sv8-num">[212]</span> IR <a href="/visual/sv8#irpokemon">Slakoth</a> (Supercharged Breaker)</li>
     <li class="c"><span class="sv8-num">[213]</span> IR <a href="/visual/sv8#irpokemon">Kecleon</a> (Supercharged Breaker)</li>
     <li class="c"><span class="sv8-num">[214]</span> IR <a href="/visual/sv8#irpokemon">Braviary</a> (Paradise Dragona)</li>
-
     <li class="g chunkborder"><span class="sv8-num">[215]</span> FA <a href="/visual/sv8#fapokemon">Durant ex</a> (Supercharged Breaker)</li>
     <li class="r"><span class="sv8-num">[216]</span> <span class="sv8-num"></span> FA <a href="/visual/sv8#fapokemon">Scovillain ex</a> (Supercharged Breaker)</li>
     <li class="w"><span class="sv8-num">[217]</span> <span class="sv8-num"></span> FA <a href="/visual/sv8#fapokemon">Milotic ex</a> (Supercharged Breaker)</li>
@@ -323,15 +264,13 @@ showHeading: false
     <li class="n"><span class="sv8-num">[226]</span> <span class="sv8-num"></span> FA <a href="/visual/sv8#fapokemon">Tatsugiri ex</a> (Supercharged Breaker)</li>
     <li class="c"><span class="sv8-num">[227]</span> <span class="sv8-num"></span> FA <a href="/visual/sv8#fapokemon">Slaking ex</a> (Supercharged Breaker)</li>
     <li class="c"><span class="sv8-num">[228]</span> FA <a href="/visual/sv8#fapokemon">Cyclizar ex</a> (Paradise Dragona)</li>
-
     <li class="chunkborder"><span class="sv8-num">[229]</span> FA <a href="/visual/sv8#fasupporters">Clemont's Quick Wit</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[230]</span> FA <a href="/visual/sv8#fasupporters">Cyrano</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[231]</span> FA <a href="/visual/sv8#fasupporters">Drasna</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[232]</span> FA <a href="/visual/sv8#fasupporters">Drayton</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[233]</span> FA <a href="/visual/sv8#fasupporters">Jasmine's Gaze</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[234]</span> FA <a href="/visual/sv8#fasupporters">Lisia's Appeal</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[235]</span> FA <a href="/visual/sv8#fasupporters">Surfer</a> (Paradise Dragona)</li>
-
+    <li><span class="sv8-num">[230]</span> FA <a href="/visual/sv8#fasupporters">Cyrano</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[231]</span> FA <a href="/visual/sv8#fasupporters">Drasna</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[232]</span> FA <a href="/visual/sv8#fasupporters">Drayton</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[233]</span> FA <a href="/visual/sv8#fasupporters">Jasmine's Gaze</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[234]</span> FA <a href="/visual/sv8#fasupporters">Lisia's Appeal</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[235]</span> FA <a href="/visual/sv8#fasupporters">Surfer</a> (Paradise Dragona)</li>
     <li class="g chunkborder"><span class="sv8-num">[236]</span> SIR <a href="/visual/sv8#sirpokemon">Durant ex</a> (Supercharged Breaker)</li>
     <li class="w"><span class="sv8-num">[237]</span> SIR <a href="/visual/sv8#sirpokemon">Milotic ex</a> (Supercharged Breaker)</li>
     <li class="l"><span class="sv8-num">[238]</span> SIR <a href="/visual/sv8#sirpokemon">Pikachu ex</a> (Supercharged Breaker)</li>
@@ -339,179 +278,115 @@ showHeading: false
     <li class="d"><span class="sv8-num">[240]</span> SIR <a href="/visual/sv8#sirpokemon">Hydreigon ex</a> (Paradise Dragona)</li>
     <li class="m"><span class="sv8-num">[241]</span> SIR <a href="/visual/sv8#sirpokemon">Archaludon ex</a> (Paradise Dragona)</li>
     <li class="n"><span class="sv8-num">[242]</span> SIR <a href="/visual/sv8#sirpokemon">Alolan Exeggutor ex</a> (Paradise Dragona)</li>
-
     <li class="chunkborder"><span class="sv8-num">[243]</span> SIR <a href="/visual/sv8#sirsupporters">Clemont's Quick Wit</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[244]</span> SIR <a href="/visual/sv8#sirsupporters">Drayton</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[245]</span> SIR <a href="/visual/sv8#sirsupporters">Jasmine's Gaze</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[246]</span> SIR <a href="/visual/sv8#sirsupporters">Lisia's Appeal</a> (Paradise Dragona)</li>
-
-
+    <li><span class="sv8-num">[244]</span> SIR <a href="/visual/sv8#sirsupporters">Drayton</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[245]</span> SIR <a href="/visual/sv8#sirsupporters">Jasmine's Gaze</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[246]</span> SIR <a href="/visual/sv8#sirsupporters">Lisia's Appeal</a> (Paradise Dragona)</li>
     <li class="n chunkborder"><span class="sv8-num">[247*]</span> GOLD <a href="/visual/sv8#gold">Pikachu ex</a> (Supercharged Breaker)</li>
     <li class="n"><span class="sv8-num">[248*]</span> GOLD <a href="/visual/sv8#gold">Alolan Exeggutor ex</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[249*]</span> GOLD <a href="/visual/sv8#gold">Counter Gain</a> (Paradise Dragona)</li>
-    <li class=""><span class="sv8-num">[250*]</span> GOLD <a href="/visual/sv8#gold">Gravity Mountain</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[251*]</span> GOLD <a href="/visual/sv8#gold">Night Stretcher</a> (Supercharged Breaker)</li>
-    <li class=""><span class="sv8-num">[252*]</span> GOLD <a href="/visual/sv8#gold">Jet Energy</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[249*]</span> GOLD <a href="/visual/sv8#gold">Counter Gain</a> (Paradise Dragona)</li>
+    <li><span class="sv8-num">[250*]</span> GOLD <a href="/visual/sv8#gold">Gravity Mountain</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[251*]</span> GOLD <a href="/visual/sv8#gold">Night Stretcher</a> (Supercharged Breaker)</li>
+    <li><span class="sv8-num">[252*]</span> GOLD <a href="/visual/sv8#gold">Jet Energy</a> (Paradise Dragona)</li>
 </ol>
 </div> 
-  
-</div>
-</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-0c34f460293bd8e31a61"><div class="sqs-block-content"><hr></div></div><div class="sqs-block website-component-block sqs-block-website-component sqs-block-code code-block" data-block-css="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.styles.css&quot;]" data-block-scripts="[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/931cecc8-b0d3-487f-aa41-bbf557a88c0d_663/website.components.code.visitor.js&quot;]" data-block-type="1337" data-definition-name="website.components.code" data-sqsp-block="code" data-website-component-id="aaaf1c0e4aa6937b35ce" id="block-aaaf1c0e4aa6937b35ce"><div class="sqs-block-content"><div class="sqs-code-container" data-localized="{&quot;enableSafeModeButton&quot;:&quot;Preview in safe mode&quot;,&quot;enableSafeModeText&quot;:&quot;This block contains embedded scripts. Embedded scripts are disabled while you're logged in and editing your site.&quot;,&quot;enableSafeModeTitle&quot;:&quot;Embedded Scripts&quot;,&quot;exitSafeModeButton&quot;:&quot;Exit safe preview&quot;,&quot;exitSafeModeText&quot;:&quot;Please view the page after logging out for accurate rendering.&quot;,&quot;exitSafeModeTitle&quot;:&quot;Safe Preview&quot;,&quot;globalSafeMode&quot;:&quot;Embedded Code: This block contains embedded code that has been disabled.&quot;,&quot;scriptDisabled&quot;:&quot;Script Disabled&quot;}">
-  
-    
-<!-- Basic Ad -->
-
-
-  
-</div>
-</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-ad51a22c259b2e8e54af"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="text-align:center;white-space:pre-wrap;"><strong>Other set details</strong></h3><p class="" style="white-space:pre-wrap;">Surging Sparks is comprised of any new cards from the Stellar Starter Sets (30 August 2024) and the Japanese sets Paradise Dragona (13 September 2024) and Supercharged Breaker (18 October 2024), with additional miscellaneous cards added to the mix.</p>
 </div>
 
+---
+
+
+
+### **Other set details**
+
+Surging Sparks is comprised of any new cards from the Stellar Starter Sets (30 August 2024) and the Japanese sets Paradise Dragona (13 September 2024) and Supercharged Breaker (18 October 2024), with additional miscellaneous cards added to the mix.
+
+<div class="jb-row"><div class="jb-col-3">
+
+### Card Counts
+
+- Cards: 191, before secret rares
+- Chase Card Pokémon: 18 (9 stellar, 9 regular)
+- Trainer Cards: 29
+- ACE SPECs: 8
+- Special Energy: 1
+
+</div><div class="jb-col-3">
+
+### Chase Pokémon
+
+1. Durant ex
+2. Ceruledge ex
+3. Scovillain ex
+4. Milotic ex
+5. Black Kyurem ex
+6. Pikachu ex
+7. Kilowattrel ex
+8. Latias ex
+9. Sylveon ex
+10. Palossand ex
+11. Flygon ex
+12. Hydreigon ex
+13. Archaludon ex
+14. Alolan Exeggutor ex
+15. Tatsugiri ex
+16. Slaking ex
+17. Cyclizar ex
+18. Flamigo ex
+
+</div><div class="jb-col-3">
+
+### Trainer Cards
+
+1. Amulet of Hope
+2. Babiri Berry
+3. Brilliant Blender
+4. Call Bell
+5. Chill Teaser Toy
+6. Clemont’s Quick Wit
+7. Colbur Berry
+8. Counter Gain
+9. Cyrano
+10. Deduction Kit
+11. Dragon Elixir
+12. Drasna
+13. Drayton
+14. Dusk Ball
+15. Energy Search Pro
+16. Gravity Mountain
+17. Jasmine’s Gaze
+18. Lisia’s Appeal
+19. Lively Stadium
+20. Meddling Memo
+21. Megaton Blower
+22. Miracle Headset
+23. Passho Berry
+24. Precious Trolley
+25. Scramble Switch
+26. Surfer
+27. Technical Machine: Fluorite
+28. Tera Orb
+29. Tyme
+
+</div><div class="jb-col-3">
+
+### Special Energy
+
+1. Enriching Energy
+
+### Ace Specs
+
+1. Amulet of Hope
+2. Brilliant Blender
+3. Energy Search Pro
+4. Enriching Energy
+5. Megaton Blower
+6. Miracle Headset
+7. Precious Trolley
+8. Scramble Switch
+
+</div></div>
+
+---
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-799533a09e917e00d7af"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Card Counts</h3><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Cards: 191, before secret rares</p></li><li><p class="" style="white-space:pre-wrap;">Chase Card Pokémon: 18 (9 stellar, 9 regular)</p></li><li><p class="" style="white-space:pre-wrap;">Trainer Cards: 29</p></li><li><p class="" style="white-space:pre-wrap;">ACE SPECs: 8</p></li><li><p class="" style="white-space:pre-wrap;">Special Energy: 1</p></li></ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-a64651ae0159eabec815"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Chase Pokémon</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Durant ex</p></li><li><p class="" style="white-space:pre-wrap;">Ceruledge ex</p></li><li><p class="" style="white-space:pre-wrap;">Scovillain ex</p></li><li><p class="" style="white-space:pre-wrap;">Milotic ex</p></li><li><p class="" style="white-space:pre-wrap;">Black Kyurem ex</p></li><li><p class="" style="white-space:pre-wrap;">Pikachu ex</p></li><li><p class="" style="white-space:pre-wrap;">Kilowattrel ex</p></li><li><p class="" style="white-space:pre-wrap;">Latias ex</p></li><li><p class="" style="white-space:pre-wrap;">Sylveon ex</p></li><li><p class="" style="white-space:pre-wrap;">Palossand ex</p></li><li><p class="" style="white-space:pre-wrap;">Flygon ex</p></li><li><p class="" style="white-space:pre-wrap;">Hydreigon ex</p></li><li><p class="" style="white-space:pre-wrap;">Archaludon ex</p></li><li><p class="" style="white-space:pre-wrap;">Alolan Exeggutor ex</p></li><li><p class="" style="white-space:pre-wrap;">Tatsugiri ex</p></li><li><p class="" style="white-space:pre-wrap;">Slaking ex</p></li><li><p class="" style="white-space:pre-wrap;">Cyclizar ex</p></li><li><p class="" style="white-space:pre-wrap;">Flamigo ex</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-6dbf4051f23e41521fbb"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Trainer Cards</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Amulet of Hope</p></li><li><p class="" style="white-space:pre-wrap;">Babiri Berry</p></li><li><p class="" style="white-space:pre-wrap;">Brilliant Blender</p></li><li><p class="" style="white-space:pre-wrap;">Call Bell</p></li><li><p class="" style="white-space:pre-wrap;">Chill Teaser Toy</p></li><li><p class="" style="white-space:pre-wrap;">Clemont’s Quick Wit</p></li><li><p class="" style="white-space:pre-wrap;">Colbur Berry</p></li><li><p class="" style="white-space:pre-wrap;">Counter Gain</p></li><li><p class="" style="white-space:pre-wrap;">Cyrano</p></li><li><p class="" style="white-space:pre-wrap;">Deduction Kit</p></li><li><p class="" style="white-space:pre-wrap;">Dragon Elixir</p></li><li><p class="" style="white-space:pre-wrap;">Drasna</p></li><li><p class="" style="white-space:pre-wrap;">Drayton</p></li><li><p class="" style="white-space:pre-wrap;">Dusk Ball</p></li><li><p class="" style="white-space:pre-wrap;">Energy Search Pro</p></li><li><p class="" style="white-space:pre-wrap;">Gravity Mountain</p></li><li><p class="" style="white-space:pre-wrap;">Jasmine’s Gaze</p></li><li><p class="" style="white-space:pre-wrap;">Lisia’s Appeal</p></li><li><p class="" style="white-space:pre-wrap;">Lively Stadium</p></li><li><p class="" style="white-space:pre-wrap;">Meddling Memo</p></li><li><p class="" style="white-space:pre-wrap;">Megaton Blower</p></li><li><p class="" style="white-space:pre-wrap;">Miracle Headset</p></li><li><p class="" style="white-space:pre-wrap;">Passho Berry</p></li><li><p class="" style="white-space:pre-wrap;">Precious Trolley</p></li><li><p class="" style="white-space:pre-wrap;">Scramble Switch</p></li><li><p class="" style="white-space:pre-wrap;">Surfer</p></li><li><p class="" style="white-space:pre-wrap;">Technical Machine: Fluorite</p></li><li><p class="" style="white-space:pre-wrap;">Tera Orb</p></li><li><p class="" style="white-space:pre-wrap;">Tyme</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" data-border-radii="{&quot;topLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;topRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomLeft&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0},&quot;bottomRight&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0}}" data-sqsp-block="text" id="block-ffbedf366857dbc79dbe"><div class="sqs-block-content">
-
-<div class="sqs-html-content" data-sqsp-text-block-content="">
-  <h3 style="white-space:pre-wrap;">Special Energy</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Enriching Energy</p></li></ol><h3 style="white-space:pre-wrap;">Ace Specs</h3><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Amulet of Hope</p></li><li><p class="" style="white-space:pre-wrap;">Brilliant Blender</p></li><li><p class="" style="white-space:pre-wrap;">Energy Search Pro</p></li><li><p class="" style="white-space:pre-wrap;">Enriching Energy</p></li><li><p class="" style="white-space:pre-wrap;">Megaton Blower</p></li><li><p class="" style="white-space:pre-wrap;">Miracle Headset</p></li><li><p class="" style="white-space:pre-wrap;">Precious Trolley</p></li><li><p class="" style="white-space:pre-wrap;">Scramble Switch</p></li></ol>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" data-sqsp-block="line" id="block-22c1bde09a2348a37a58"><div class="sqs-block-content"><hr></div></div></div></div>

@@ -26,6 +26,8 @@ const REPORT = path.join(CORPUS, 'convert-report.json');
 
 const args = process.argv.slice(2);
 const NO_IMAGES = args.includes('--no-images');
+const dirArg = args.find((a) => a.startsWith('--dir='));
+const DIR_FILTER = dirArg ? dirArg.slice('--dir='.length) : null;
 const filters = args.filter((a) => !a.startsWith('--'));
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/124.0 Safari/537.36';
@@ -148,7 +150,11 @@ function frontmatter(meta) {
 // ---- main ----
 // Streamed one page at a time to bound memory: extract -> download its images
 // (shared on-disk cache dedupes across pages) -> rewrite -> write -> free.
-const files = corpusFiles().filter((f) => !filters.length || filters.some((s) => f.urlPath.includes(s)));
+const files = corpusFiles().filter((f) => {
+  if (DIR_FILTER && f.dir !== DIR_FILTER) return false;
+  if (filters.length && !filters.some((s) => f.urlPath.includes(s))) return false;
+  return true;
+});
 console.log(`Converting ${files.length} pages${NO_IMAGES ? ' (skipping images)' : ''}…`);
 
 const imgLimit = pLimit(5);
@@ -170,7 +176,10 @@ for (const f of files) {
       })));
     }
 
-    let html = NO_IMAGES ? p.html : rewriteImages(p.html);
+    // Always rewrite image URLs using the on-disk asset map. --no-images only skips the
+    // network fetch step; URLs already mapped from prior runs still need rewriting so
+    // regenerated bodies don't leak squarespace-cdn.com refs (verify.mjs forbids those).
+    let html = rewriteImages(p.html);
     html = rewriteLinks(html);
     const ogImage = p.ogImage ? (assetMap[stripQuery(absUrl(p.ogImage))] || undefined) : undefined;
     const meta = {
