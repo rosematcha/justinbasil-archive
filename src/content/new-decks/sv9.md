@@ -128,12 +128,12 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/lmsnf6w0izc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 1: Festival Grounds vs. Ancient Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/BbJtTdo-axM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 1: Charizard ex vs. Festival Grounds&quot;></iframe>">
       </div>
@@ -334,12 +334,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/qVjd6Ep0e-0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 2: Feraligatr vs. Chien-Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/fbWk_2gLH8M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 3: Dragapult ex vs. Feraligatr&quot;></iframe>">
       </div>
@@ -470,12 +470,12 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/5iilte3UPQo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 2: Chien-Pao ex vs. Charizard ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/qVjd6Ep0e-0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 2: Feraligatr vs. Chien-Pao ex&quot;></iframe>">
       </div>
@@ -515,12 +515,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EspYCDcYhBQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 5: Iono vs. Gardevoir ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/86Y05OYGxvw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 5: N vs. Iono&quot;></iframe>">
       </div>
@@ -622,12 +622,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/8vgea3Up9o0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 6: Lillie Rondo Box vs. N&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cgZez3-QB2k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 6: Hop vs. Lillie&amp;#39;s Rondo Box (Tera Toolbox)&quot;></iframe>">
       </div>
@@ -698,12 +698,12 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/in1sOGQ2hCI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 4: Gardevoir ex vs. Mamoswine ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EspYCDcYhBQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 5: Iono vs. Gardevoir ex&quot;></iframe>">
       </div>
@@ -774,12 +774,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/jAqjz9A9wAw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 4: Mamoswine ex vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/in1sOGQ2hCI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 4: Gardevoir ex vs. Mamoswine ex&quot;></iframe>">
       </div>
@@ -846,12 +846,12 @@ Build your board up by getting a Hoothoot or two into play alongside as many Cha
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/BbJtTdo-axM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 1: Charizard ex vs. Festival Grounds&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/5iilte3UPQo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 2: Chien-Pao ex vs. Charizard ex&quot;></iframe>">
       </div>
@@ -887,7 +887,7 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/67oVer7GCFw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 7: Tyranitar vs. Archaludon ex&quot;></iframe>">
       </div>
@@ -927,12 +927,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/86Y05OYGxvw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 5: N vs. Iono&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/8vgea3Up9o0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 6: Lillie Rondo Box vs. N&quot;></iframe>">
       </div>
@@ -1003,12 +1003,12 @@ Attack with Roaring Moon and its Vengeance Fletching attack, which does 70 damag
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/lmsnf6w0izc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 1: Festival Grounds vs. Ancient Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/eWDZmh1TyR4?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 8: Ancient Box vs. Hop&quot;></iframe>">
       </div>
@@ -1110,12 +1110,12 @@ Evolve Gimmighoul up into Gholdengo and Togepi into Togekiss via Rare Candy. Dra
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/VbAXePhMxYs?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 3: Gholdengo vs. Dragapult ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/jAqjz9A9wAw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 4: Mamoswine ex vs. Gholdengo ex&quot;></iframe>">
       </div>
@@ -1155,7 +1155,7 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/67oVer7GCFw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 7: Tyranitar vs. Archaludon ex&quot;></iframe>">
       </div>
@@ -1232,12 +1232,12 @@ Evolve Dreepy up into Drakloak to take advantage of its Recon Directive Ability 
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/fbWk_2gLH8M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Part 3: Dragapult ex vs. Feraligatr&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/VbAXePhMxYs?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 3: Gholdengo vs. Dragapult ex&quot;></iframe>">
       </div>
@@ -1314,12 +1314,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cgZez3-QB2k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 6: Hop vs. Lillie&amp;#39;s Rondo Box (Tera Toolbox)&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/eWDZmh1TyR4?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Journey Together Post-Rotation Testing, Bonus 8: Ancient Box vs. Hop&quot;></iframe>">
       </div>

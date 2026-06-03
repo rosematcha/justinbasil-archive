@@ -95,22 +95,22 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-fNmLTMou6s?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 1: Meowscarada ex vs. Regigigas&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/aJcnkAHur5A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #2: Quaquaval ex vs. Meowscarada ex!&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/fHIEEDtUaE8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 2: Chien-Pao ex vs. Meowscarada ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/o7SlRVTnY-c?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #6: Annihilape ex vs. Meowscarada ex&quot;></iframe>">
       </div>
@@ -158,17 +158,17 @@ Play down and evolve Fuecoco into Skeledirge ex, using a combination of manual a
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/BARL9laoaPY?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #3: Skeledirge ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/UpHP8PdoJ3k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 7: Ting-Lu ex vs. Skeledirge ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ToskxNKckRo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 6: Skeledirge ex. vs. United Wings&quot;></iframe>">
       </div>
@@ -215,17 +215,17 @@ Evolve Quaxly into Quaquaval and Quaquaval ex. Use Quaquaval’s Energy Carnival
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/aJcnkAHur5A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #2: Quaquaval ex vs. Meowscarada ex!&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Rgu3U0GF04A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #4: Quaquaval ex vs. Regigigas&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/CykIR7tP6Yg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 4: Quaquaval ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
@@ -282,17 +282,17 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/fHIEEDtUaE8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 2: Chien-Pao ex vs. Meowscarada ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EOiQT7Zt4Jc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #5: Tinkaton ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/j9DlSeLe55w?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 3: Paldean Clodsire ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
@@ -339,12 +339,12 @@ Using every discarding resource in the deck, put all or most of your “United W
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/MKYhl9lB_-M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 5: Unified Wings vs. Quaquaval ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ToskxNKckRo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 6: Skeledirge ex. vs. United Wings&quot;></iframe>">
       </div>
@@ -390,7 +390,7 @@ Build up your board by evolving Tinkatink into Tinkaton ex and Ralts into Kirlia
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EOiQT7Zt4Jc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #5: Tinkaton ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
@@ -436,7 +436,7 @@ Build up your board, getting Annihilape ex ready early on while quickly building
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/o7SlRVTnY-c?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #6: Annihilape ex vs. Meowscarada ex&quot;></iframe>">
       </div>
@@ -481,7 +481,7 @@ After evolving Rockruff into Lycanroc ex, attack with its Scary Fangs attack, wh
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/4INzyOdr8C8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #1: Lycanroc ex vs. Regigigas!&quot;></iframe>">
       </div>
@@ -531,7 +531,7 @@ Play down Squawkabilly ex, Ting-Lu ex, and Koraidon ex, then use Squawkabilly ex
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/UpHP8PdoJ3k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 7: Ting-Lu ex vs. Skeledirge ex&quot;></iframe>">
       </div>
@@ -576,17 +576,17 @@ Using Paldean Clodsire ex’s Poison Bog ability, Poison your opponent’s Activ
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/j9DlSeLe55w?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 3: Paldean Clodsire ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/CykIR7tP6Yg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 4: Quaquaval ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/BARL9laoaPY?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #3: Skeledirge ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
@@ -631,17 +631,17 @@ Get 1 of each of the Regis into play via the deck’s large variety of searching
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-fNmLTMou6s?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 1: Meowscarada ex vs. Regigigas&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Rgu3U0GF04A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #4: Quaquaval ex vs. Regigigas&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/4INzyOdr8C8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #1: Lycanroc ex vs. Regigigas!&quot;></iframe>">
       </div>

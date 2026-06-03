@@ -92,17 +92,17 @@ Evolve Snorunt into Froslass so that it can have its Evanescent Ability active, 
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/PHaUNmo_urQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 1: Froslass ex vs. Garchomp ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/K1sj1uxz0qw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 4: Mewtwo ex vs. Froslass ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/emwOJujqpl4?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 1: Froslass ex vs. Gholdengo ex&quot;></iframe>">
       </div>
@@ -189,22 +189,22 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/PHaUNmo_urQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 1: Froslass ex vs. Garchomp ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/tqxeHHBV2D4?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 2: Garchomp ex vs. Mewtwo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YkIJ518SWFE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 2: Garchomp ex vs. Skeledirge ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ApL3_SCgTaI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 5: Chien-Pao ex with Iron Hands ex vs. Garchomp ex&quot;></iframe>">
       </div>
@@ -283,22 +283,22 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/uL2ECWPlS4g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 3: Skeledirge ex vs. Chien-Pao ex with Iron Hands ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ApL3_SCgTaI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 5: Chien-Pao ex with Iron Hands ex vs. Garchomp ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Ty50asT-v5Y?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 5: Mewtwo ex vs. Chien-Pao ex w/ Iron Hands ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/y-_fda83dos?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 6: Roaring Moon ex vs. Chien-Pao ex w/ Iron Hands ex&quot;></iframe>">
       </div>
@@ -343,22 +343,22 @@ Play down and evolve Natu into Xatu, using Xatu’s Clairvoyant Sense Ability to
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/tqxeHHBV2D4?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 2: Garchomp ex vs. Mewtwo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/K1sj1uxz0qw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 4: Mewtwo ex vs. Froslass ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/T7Swn2EE_Ks?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 4: Gholdengo ex vs. Mewtwo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Ty50asT-v5Y?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 5: Mewtwo ex vs. Chien-Pao ex w/ Iron Hands ex&quot;></iframe>">
       </div>
@@ -404,12 +404,12 @@ Spread damage and even take Knock Outs using Iron Valiant ex’s Tachyon Bits Ab
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/VRMVTKU9oRQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 7: Iron Valiant ex vs. Roaring Moon ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/_c1ijNw6TCM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 7: Iron Valiant ex vs. Skeledirge ex&quot;></iframe>">
       </div>
@@ -530,12 +530,12 @@ Using a combination of Earthen Vessel, Dark Patch, and Professor Sada’s Vitali
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/y-_fda83dos?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 6: Roaring Moon ex vs. Chien-Pao ex w/ Iron Hands ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/8oT1eGCpCNU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 6: Gholdengo ex vs. Roaring Moon ex&quot;></iframe>">
       </div>
@@ -582,17 +582,17 @@ Evolve Fuecoco up into Skeledirge ex. Attack with Entei V, Skeledirge ex, or wit
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YkIJ518SWFE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 2: Garchomp ex vs. Skeledirge ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/xVZu2qmpwwE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 3: Skeledirge ex vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div><div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div></div><div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/uL2ECWPlS4g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 3: Skeledirge ex vs. Chien-Pao ex with Iron Hands ex&quot;></iframe>">
       </div>
@@ -639,22 +639,22 @@ Evolve Gimmighoul up into Gholdengo and Ralts into Kirlia. Draw cards with Coin 
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/emwOJujqpl4?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 1: Froslass ex vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/T7Swn2EE_Ks?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 4: Gholdengo ex vs. Mewtwo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/xVZu2qmpwwE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Part 3: Skeledirge ex vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/8oT1eGCpCNU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paradox Rift Testing, Bonus 6: Gholdengo ex vs. Roaring Moon ex&quot;></iframe>">
       </div>

@@ -7,7 +7,7 @@ showHeading: false
 ---
 
 <section class="Main-content" data-content-field="main-content">
-                <section class="BlogList BlogList--posts-excerpt sqs-blog-list clear" data-columns="1">
+                <section class="BlogList BlogList--posts-excerpt jb-blog-list clear" data-columns="1">
     <article id="post-688129152d617250d6c6a341" class="BlogList-item hentry author-justinbasilcom post-type-text article-index-1" data-item-id="688129152d617250d6c6a341">
       <a href="/videos/white-flare-amp-black-bolt-opening" class="BlogList-item-title" data-content-field="title">White Flare (&amp; Black Bolt) Opening</a>
       <div class="Blog-meta BlogList-item-meta">

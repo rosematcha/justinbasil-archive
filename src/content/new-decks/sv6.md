@@ -91,12 +91,12 @@ Set up your board by getting Poltchageist in play alongside several Teal Mask Og
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-R8zKvL6-e8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 1: Infernape vs. Sinistcha&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/SdCYnqjG5Kw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 1: Sinistcha vs. Magcargo ex&quot;></iframe>">
       </div>
@@ -140,12 +140,12 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/K_xBgWkmGzg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 6: Festival Grounds vs. Luxray ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/XxrXB87EXhQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 6: Froslass vs. Festival Grounds&quot;></iframe>">
       </div>
@@ -188,12 +188,12 @@ Evolve Slugma into Magcargo and, with the aid of cards like Ciphermaniac’s Cod
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/SdCYnqjG5Kw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 1: Sinistcha vs. Magcargo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hdkS8yNxC7g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 2: Magcargo ex vs. Bloodmoon Ursaluna ex&quot;></iframe>">
       </div>
@@ -238,12 +238,12 @@ Evolve Chimchar into Infernape with Rare Candy. With Infernape’s Pyro Dance Ab
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-R8zKvL6-e8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 1: Infernape vs. Sinistcha&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/G6ypk4sBczc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 3: Iron Thorns ex vs. Infernape&quot;></iframe>">
       </div>
@@ -289,12 +289,12 @@ On early turns, use Absol and its Swirling Disaster attack to spread damage on y
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hcrfUpN7EXM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 5: Palafin ex vs. Brute Bonnet / Froslass&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/25QQ3QuJIWg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Dragapult ex vs. Palafin ex&quot;></iframe>">
       </div>
@@ -338,12 +338,12 @@ Evolve Finizen up into the Palafin into the Palafin from Twilight Masquerade. Us
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/25QQ3QuJIWg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Dragapult ex vs. Palafin ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hcrfUpN7EXM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 5: Palafin ex vs. Brute Bonnet / Froslass&quot;></iframe>">
       </div>
@@ -389,12 +389,12 @@ Using Miraidon ex’s Tandem Unit, get Shinx into play and then use Rare Candy t
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/K_xBgWkmGzg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 6: Festival Grounds vs. Luxray ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/LPbNZE8Yxt8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 7:  Luxray ex vs. Greninja ex/Froslass&quot;></iframe>">
       </div>
@@ -440,12 +440,12 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Vw0K7-wJeMg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 4: Iron Thorns ex (Future Box) vs. Dragapult ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Xp2DO5iaUiI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Mightyena vs. Future Box Iron Thorns ex&quot;></iframe>">
       </div>
@@ -487,12 +487,12 @@ Slam down Iron Thorns ex and use its Initialization Ability to cripple your oppo
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/G6ypk4sBczc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 3: Iron Thorns ex vs. Infernape&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/vSHzLuZsoCc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 3: Greninja ex vs. Iron Thorns ex&quot;></iframe>">
       </div>
@@ -578,17 +578,17 @@ Evolve Pidgey into Pidgeotto and Froakie into Greninja ex with Rare Candy. Attac
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RjeYSUP8tIU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 2: Bloodmoon Ursaluna ex vs. Greninja ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/LPbNZE8Yxt8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 7:  Luxray ex vs. Greninja ex/Froslass&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/vSHzLuZsoCc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 3: Greninja ex vs. Iron Thorns ex&quot;></iframe>">
       </div>
@@ -634,17 +634,17 @@ Source: Kengo Ishida - 3rd Place, Sapporo Championship League
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/25QQ3QuJIWg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Dragapult ex vs. Palafin ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Vw0K7-wJeMg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 4: Iron Thorns ex (Future Box) vs. Dragapult ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div><div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div></div><div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/e5mSCODPFC8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 7: Dragapult ex vs. The World&quot;></iframe>">
       </div>
@@ -687,12 +687,12 @@ Evolve Pineco up into Forretress ex to use its Exploding Energy Ability which, i
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hdkS8yNxC7g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 2: Magcargo ex vs. Bloodmoon Ursaluna ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RjeYSUP8tIU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 2: Bloodmoon Ursaluna ex vs. Greninja ex&quot;></iframe>">
       </div>

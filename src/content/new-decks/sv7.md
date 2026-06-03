@@ -87,12 +87,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/j7Q0oNL8qvI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 1: Orthworm ex vs. Hydrapple ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hrMdtyPXxtU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 2: Hydrapple ex vs. Slowking&quot;></iframe>">
       </div>
@@ -134,12 +134,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/PfzO4Z5V59M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 4: Terapagos ex vs. Salazzle&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/E6DBiqGLcV8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 4: Salazzle vs. Garganacl ex&quot;></iframe>">
       </div>
@@ -181,17 +181,17 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/O86XyQLlUAc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 6: Cinderace ex vs. Terapagos ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/HbZxSdZpLZg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 3: Garganacl ex vs. Cinderace ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cLmhH94SwBI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 3: Cinderace ex vs. Origin Forme Palkia VSTAR&quot;></iframe>">
       </div>
@@ -233,22 +233,22 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/3hCjWWZk86M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 2: Origin Forme Palkia VSTAR vs. Slowking&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cLmhH94SwBI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 3: Cinderace ex vs. Origin Forme Palkia VSTAR&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YuIUkaQZ3IE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 5: Origin Forme Palkia VSTAR vs. Terapagos ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-Xddk0X6T6k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 7: Origin Forme Palkia VSTAR v. The World (Gardevoir ex)&quot;></iframe>">
       </div>
@@ -323,7 +323,7 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/zKvVD8YyKQE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 1: Vikavolt vs. Orthworm ex&quot;></iframe>">
       </div>
@@ -365,12 +365,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/3hCjWWZk86M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 2: Origin Forme Palkia VSTAR vs. Slowking&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hrMdtyPXxtU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 2: Hydrapple ex vs. Slowking&quot;></iframe>">
       </div>
@@ -412,7 +412,7 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/lK0-NmgEDMM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 5: Marowak vs. Terapagos ex&quot;></iframe>">
       </div>
@@ -487,12 +487,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/E6DBiqGLcV8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 4: Salazzle vs. Garganacl ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/HbZxSdZpLZg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 3: Garganacl ex vs. Cinderace ex&quot;></iframe>">
       </div>
@@ -534,12 +534,12 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/j7Q0oNL8qvI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 1: Orthworm ex vs. Hydrapple ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/zKvVD8YyKQE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 1: Vikavolt vs. Orthworm ex&quot;></iframe>">
       </div>
@@ -614,27 +614,27 @@ Coming soon.
 
 ### Testing Streams
 
-<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/lK0-NmgEDMM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 5: Marowak vs. Terapagos ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/PfzO4Z5V59M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 4: Terapagos ex vs. Salazzle&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/qOUSwibadAM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 6: Terapagos ex v. The World (Regidrago VSTAR)&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/O86XyQLlUAc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Bonus 6: Cinderace ex vs. Terapagos ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YuIUkaQZ3IE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Stellar Crown Early Testing, Part 5: Origin Forme Palkia VSTAR vs. Terapagos ex&quot;></iframe>">
       </div>

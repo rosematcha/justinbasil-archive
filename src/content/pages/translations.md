@@ -7,7 +7,7 @@ showHeading: false
 ---
 
 <section class="Main-content" data-content-field="main-content">
-                <section class="BlogList BlogList--posts-excerpt sqs-blog-list clear" data-columns="1">
+                <section class="BlogList BlogList--posts-excerpt jb-blog-list clear" data-columns="1">
     <article id="post-681589c0ac98715cbf746cf5" class="BlogList-item hentry author-justinbasilcom post-type-text article-index-1" data-item-id="681589c0ac98715cbf746cf5">
       <a href="/translations/sv105" class="BlogList-item-title" data-content-field="title">SV10.5 Translations</a>
       <div class="Blog-meta BlogList-item-meta">

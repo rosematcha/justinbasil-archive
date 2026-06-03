@@ -87,26 +87,11 @@ showHeading: false
 
 
 
-## Recent Videos
+<h2 class="jb-center">Recent Videos</h2>
 
-<div class="jb-block jb-component-block jb-block-component sqs-block-summary-v2 summary-block summary-v2-block"><div class="
-  summary-block-wrapper
-  summary-block-collection-type-blog
-  summary-block-setting-text-size-medium
-  summary-block-setting-text-align-left
-  summary-block-setting-design-carousel
-  summary-block-setting-design-list-thumbnail-left
-  summary-block-setting-metadata-position-above-title
-  summary-block-setting-primary-metadata-date
-  summary-block-setting-secondary-metadata-none
-  summary-block-setting-show-thumbnail
-  summary-block-setting-show-title
-  summary-block-setting-show-price
-  summary-block-setting-hide-excerpt
-  sqs-gallery-design-carousel
-  " data-design="carousel" data-slides-per-row="3" data-mixed-content="true" data-column-width="420" data-gutter="15" data-list-image-size="30" data-active-alignment="" data-square-thumbs="" data-auto-crop="true">
-  <div class="summary-item-list-container sqs-gallery-container">
-    <div class="summary-item-list sqs-gallery">
+<div class="jb-block jb-component-block jb-block-component jb-block-summary-v2 summary-block summary-v2-block"><div class="summary-block-wrapper summary-block-collection-type-blog summary-block-setting-text-size-medium summary-block-setting-text-align-left summary-block-setting-design-carousel summary-block-setting-design-list-thumbnail-left summary-block-setting-metadata-position-above-title summary-block-setting-primary-metadata-date summary-block-setting-secondary-metadata-none summary-block-setting-show-thumbnail summary-block-setting-show-title summary-block-setting-show-price summary-block-setting-hide-excerpt jb-gallery-design-carousel" data-design="carousel" data-slides-per-row="3" data-mixed-content="true" data-column-width="420" data-gutter="15" data-list-image-size="30" data-active-alignment="" data-square-thumbs="" data-auto-crop="true">
+  <div class="summary-item-list-container jb-gallery-container">
+    <div class="summary-item-list jb-gallery">
         <div class="summary-item positioned summary-item-record-type-text jb-gallery-carousel-slide summary-item-has-thumbnail summary-item-has-author">
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/white-flare-amp-black-bolt-opening" class="summary-thumbnail-container jb-gallery-image-container">

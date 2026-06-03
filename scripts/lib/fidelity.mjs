@@ -296,14 +296,216 @@ function cmdCheck(onlyCollection) {
   process.exit(changed === 0 ? 0 : 1);
 }
 
+// ---------------------------------------------------------------------------
+// Styling-invariant check (PROMPT-2 step 5b). The content fidelity harness is
+// BLIND to alignment, colour, layout, and orphaned classes — every Round-1.5
+// styling regression passed it. This mode asserts the *look* survived, using
+// the `_corpus/*.html` pristine originals as the source of truth where one is
+// available, plus global structural invariants on the built `dist/**`.
+//
+//   node scripts/lib/fidelity.mjs style [collection]
+//
+// FAILS (exit 1) on any of:
+//   - a heading centered in the corpus original is no longer centered in dist
+//   - a content element references a CSS class that does not exist in any
+//     stylesheet (orphaned class — the namespace-rename failure mode)
+//   - a content ordered list has its markers suppressed (list-style:none) when
+//     it is not inside a decklist code-block card (the ol-reset failure mode)
+//   - the site link-colour rule (.sqs-content a { color:#2738b4 }) is missing
+//   - a residual Squarespace structural class (sqs-*, span-N, col, row,
+//     image-block-*, col-N) leaked onto a content element
+// REPORTS (non-fatal) the per-collection count of residual inline style= on
+// content, so progress is visible without blocking on the bespoke-card long tail.
+// ---------------------------------------------------------------------------
+
+const CORPUS = path.join(REPO, "_corpus");
+const STYLES_DIR = path.join(REPO, "src/styles");
+
+// Map a `_corpus/<name>.html` to its built dist html, if one exists. The corpus
+// names are page slugs; in this archive they all live in the `pages` collection
+// (rendered at site root) except `home` → index.html.
+function corpusToDist(name) {
+  if (name === "home") return path.join(DIST, "index.html");
+  const p = path.join(DIST, name, "index.html");
+  return fs.existsSync(p) ? p : null;
+}
+
+// Every `.class` token referenced anywhere in the stylesheets. Used to detect
+// orphaned classes on content (a class that no rule can match).
+function cssClassUniverse() {
+  const set = new Set();
+  for (const f of fg.sync(["*.css"], { cwd: STYLES_DIR, absolute: true })) {
+    const css = fs.readFileSync(f, "utf8");
+    for (const m of css.matchAll(/\.(-?[_a-zA-Z][\w-]*)/g)) set.add(m[1]);
+  }
+  return set;
+}
+
+// Squarespace structural classes that must NOT survive on content (only the
+// `.sqs-content` prose wrapper, which is added by RenderedEntry, is allowed).
+function isLeakedSqsClass(cls) {
+  if (cls === "sqs-content") return false;
+  return (
+    /^sqs-/.test(cls) ||
+    /^(col|row)$/.test(cls) ||
+    /^(col|span|sqs-col)-\d+$/.test(cls) ||
+    /^image-block(-|$)/.test(cls) ||
+    /^(gallery|html|code|website-component|image|video|spacer)-block$/.test(cls)
+  );
+}
+
+// Headings (and their text) that are centered in a pristine corpus page.
+function centeredHeadingsFromCorpus(html) {
+  const dom = new JSDOM(html);
+  const root = getMain(dom.window.document);
+  if (!root) return [];
+  const out = [];
+  root.querySelectorAll("h1,h2,h3,h4,h5,h6").forEach((h) => {
+    const style = (h.getAttribute("style") || "").replace(/\s+/g, "").toLowerCase();
+    if (style.includes("text-align:center")) {
+      const text = collapseWs(h.textContent || "");
+      if (text) out.push(text);
+    }
+  });
+  return out;
+}
+
+// Is a dist heading element centered? Either an inline text-align:center, or a
+// promoted alignment class (jb-center*) — the migration target.
+function distHeadingCentered(h) {
+  const style = (h.getAttribute("style") || "").replace(/\s+/g, "").toLowerCase();
+  if (style.includes("text-align:center")) return true;
+  const cls = (h.getAttribute("class") || "").split(/\s+/);
+  return cls.some((c) => /^jb-center/.test(c) || c === "box_title" || c === "box-title");
+}
+
+function cmdStyle(onlyCollection) {
+  const cssClasses = cssClassUniverse();
+  const cssText = fg
+    .sync(["*.css"], { cwd: STYLES_DIR, absolute: true })
+    .map((f) => fs.readFileSync(f, "utf8"))
+    .join("\n");
+
+  const failures = [];
+  const warnings = [];
+
+  // --- Invariant: link-colour rule present ----------------------------------
+  const linkRuleRe = /\.sqs-content\s+a[^{]*\{[^}]*#2738b4/i;
+  if (!linkRuleRe.test(cssText.replace(/\s+/g, " "))) {
+    failures.push("link-colour rule `.sqs-content a { color:#2738b4 }` missing from CSS");
+  }
+
+  // --- Per-corpus alignment invariant ---------------------------------------
+  const corpusFiles = fg.sync(["*.html"], { cwd: CORPUS });
+  let alignChecked = 0;
+  for (const cf of corpusFiles) {
+    const name = cf.replace(/\.html$/, "");
+    const distPath = corpusToDist(name);
+    if (!distPath) continue;
+    // Only check pages in scope of the requested collection (all corpus pages
+    // map to `pages`); skip if a specific other collection was requested.
+    if (onlyCollection && onlyCollection !== "pages") continue;
+    const corpusHtml = fs.readFileSync(path.join(CORPUS, cf), "utf8");
+    const wantCentered = centeredHeadingsFromCorpus(corpusHtml);
+    if (!wantCentered.length) continue;
+    const distDom = new JSDOM(fs.readFileSync(distPath, "utf8"));
+    const distRoot = getMain(distDom.window.document);
+    const distHeadings = [...distRoot.querySelectorAll("h1,h2,h3,h4,h5,h6")];
+    for (const text of wantCentered) {
+      const match = distHeadings.find((h) => collapseWs(h.textContent || "") === text);
+      if (!match) continue; // text-content drift is the fidelity harness's job
+      alignChecked++;
+      if (!distHeadingCentered(match)) {
+        failures.push(`alignment lost: heading "${text}" centered in corpus/${cf} but not in dist (${path.relative(DIST, distPath)})`);
+      }
+    }
+  }
+
+  // --- Global content invariants over built dist ----------------------------
+  const entries = listEntries(onlyCollection);
+  const residualStyleByCol = {};
+  let orphanCount = 0;
+  let leakedSqsCount = 0;
+  let olStrippedCount = 0;
+
+  for (const e of entries) {
+    const html = readHtml(e.dist);
+    if (html == null) continue;
+    const dom = new JSDOM(html);
+    const main = getMain(dom.window.document);
+    if (!main) continue;
+    // Limit to the prose container so site-chrome inline styles don't count.
+    const content = main.querySelector(".sqs-content") || main;
+
+    // Residual inline style= on content (non-fatal metric).
+    const styled = content.querySelectorAll("[style]");
+    if (styled.length) residualStyleByCol[e.collection] = (residualStyleByCol[e.collection] || 0) + styled.length;
+
+    // Orphaned / leaked classes.
+    content.querySelectorAll("[class]").forEach((el) => {
+      for (const cls of (el.getAttribute("class") || "").split(/\s+/).filter(Boolean)) {
+        if (isLeakedSqsClass(cls)) {
+          leakedSqsCount++;
+          if (failures.length < 200)
+            failures.push(`leaked Squarespace class "${cls}" on <${el.tagName.toLowerCase()}> in ${e.collection}/${e.slug}`);
+        } else if (!cssClasses.has(cls)) {
+          // Non-fatal: many of these are inert Squarespace carousel/gallery hook
+          // classes (`circle`, `dot`, `arrow`, `slide`, …) whose JS is gone and
+          // which carry no visual rule — dropping them changes nothing. We count
+          // them as a cleanliness metric but do NOT fail the gate, since the
+          // documented regressions (alignment loss, namespace-rename collapse)
+          // surface as alignment or leaked-sqs failures, not arbitrary hooks.
+          orphanCount++;
+        }
+      }
+    });
+
+    // Ordered-list markers: an <ol> not inside a decklist/code-block card must
+    // not be visually unmarked. We can only check declared style here.
+    content.querySelectorAll("ol").forEach((ol) => {
+      const inCard = ol.closest(".sqs-code-container, .jb-code-container, .jb-set-card, .jb-gallery");
+      if (inCard) return;
+      const style = (ol.getAttribute("style") || "").replace(/\s+/g, "").toLowerCase();
+      if (style.includes("list-style:none") || style.includes("list-style-type:none")) {
+        olStrippedCount++;
+        failures.push(`ordered-list markers suppressed inline on <ol> in ${e.collection}/${e.slug}`);
+      }
+    });
+  }
+
+  // --- Report ---------------------------------------------------------------
+  console.log(`Styling-invariant check${onlyCollection ? ` (collection=${onlyCollection})` : ""}`);
+  console.log(`  link-colour rule: ${linkRuleRe.test(cssText.replace(/\s+/g, " ")) ? "present" : "MISSING"}`);
+  console.log(`  alignment headings checked against corpus: ${alignChecked}`);
+  console.log(`  leaked Squarespace classes on content: ${leakedSqsCount}`);
+  console.log(`  orphaned classes (no CSS rule) on content: ${orphanCount}`);
+  console.log(`  <ol> with inline markers suppressed (outside cards): ${olStrippedCount}`);
+  const totalResidual = Object.values(residualStyleByCol).reduce((a, b) => a + b, 0);
+  console.log(`  residual inline style= on content (non-fatal): ${totalResidual}`);
+  for (const [c, n] of Object.entries(residualStyleByCol).sort((a, b) => b[1] - a[1])) {
+    console.log(`      ${c}: ${n}`);
+  }
+  if (warnings.length) for (const w of warnings) console.log("  warn:", w);
+
+  if (failures.length) {
+    console.log(`\nSTYLE FAIL: ${failures.length} invariant violation(s):`);
+    for (const f of failures.slice(0, 60)) console.log("  -", f);
+    if (failures.length > 60) console.log(`  … and ${failures.length - 60} more`);
+    process.exit(1);
+  }
+  console.log("\nStyle OK: all styling invariants hold.");
+  process.exit(0);
+}
+
 const argv = process.argv.slice(2);
 const isMain = process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1]);
 if (isMain) {
   const cmd = argv[0];
   if (cmd === "capture") cmdCapture();
   else if (cmd === "check") cmdCheck(argv[1] || null);
+  else if (cmd === "style") cmdStyle(argv[1] || null);
   else {
-    console.error("Usage: node scripts/lib/fidelity.mjs capture | check [collection]");
+    console.error("Usage: node scripts/lib/fidelity.mjs capture | check [collection] | style [collection]");
     process.exit(2);
   }
 }

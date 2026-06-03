@@ -24,7 +24,7 @@ It is uncertain when and how we will be getting the new cards from the New Famil
     <h2 class="jb-mb0">
   Noteworthy Cards
 </h2>
-<p style="margin-top:0px;">
+<p class="jb-mt0">
   Of the cards below, both Shauna and Judge are reprints. Shauna was last seen in <i>XY—Fates Collide</i> and Judge was last seen in <i>Sun &amp; Moon—Forbidden Light</i>. Bug Catcher was also reprinted for this set.
 </p>
 </div><div class="jb-row"><div class="jb-col-2">
@@ -129,7 +129,7 @@ Shuffle your hand into your deck. Then, draw 5 cards.
     <h2 class="jb-mb0">
   All New Cards
 </h2>
-<p style="margin-top:0px;">
+<p class="jb-mt0">
   And noteworthy reprints.
 </p>
 </div><div class="jb-row"><div class="jb-col-2">

@@ -310,7 +310,7 @@ Because much about the Scarlet & Violet legendaries had not yet been revealed wh
 
 Additionally, beginning with Scarlet & Violet’s release, all Pokémon Tool cards, including those released prior to Scarlet & Violet, are reclassified as their own subclass of Trainer cards and will no longer be considered Item cards.
 
-<div class="jb-row"><div class="jb-col-1"></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-1"></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe class=&quot;embedly-embed&quot; src=&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxCO94IFsY8M%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxCO94IFsY8M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxCO94IFsY8M%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube&quot; width=&quot;854&quot; height=&quot;480&quot; scrolling=&quot;no&quot; title=&quot;YouTube embed&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen=&quot;true&quot;></iframe>">
       </div>

@@ -190,7 +190,7 @@ On the fake Rapidash card, Rapidash is misspelled as *Rapidsh*, but also somehow
 
 ## Size
 
-<div class="jb-block jb-component-block jb-block-component jb-block-video video-block jb-col-6 float float-right"><div class="intrinsic">
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block jb-col-6 float float-right"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe src=&quot;//www.youtube.com/embed/PmpyWGcQwvk?wmode=opaque&amp;amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;>
 </iframe>">
@@ -240,7 +240,7 @@ The packaging your cards came in can also be a big indicator that your cards are
 
 ## A Last Resort - The Rip Test
 
-<div class="jb-block jb-component-block jb-block-component jb-block-video video-block jb-col-6 float float-right"><div class="intrinsic">
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block jb-col-6 float float-right"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe src=&quot;//www.youtube.com/embed/nI_G73rOOVY?wmode=opaque&amp;amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;>
 </iframe>">

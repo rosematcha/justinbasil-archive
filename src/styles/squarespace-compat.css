@@ -224,6 +224,8 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 .jb-symbol-18 { font-family: 'pkmntcg'; font-size: 18px; }
 .jb-mt-10 { margin-top: 10px; }
 .jb-left { text-align: left; }
+.jb-right { text-align: right; }
+.jb-mt0 { margin-top: 0; }
 .jb-symbol-18-n { font-family: 'pkmntcg'; font-size: 18px; font-weight: normal; }
 .jb-center-mb0 { text-align: center; margin: 0; }
 .jb-pre { white-space: pre-wrap; }

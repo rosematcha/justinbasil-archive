@@ -63,24 +63,9 @@ showHeading: false
 
 <h2 class="jb-center">Recent Eternal Format News</h2>
 
-<div class="jb-block jb-component-block jb-block-component sqs-block-summary-v2 summary-block summary-v2-block"><div class="
-  summary-block-wrapper
-  summary-block-collection-type-blog
-  summary-block-setting-text-size-medium
-  summary-block-setting-text-align-left
-  summary-block-setting-design-carousel
-  summary-block-setting-design-list-thumbnail-left
-  summary-block-setting-metadata-position-below-content
-  summary-block-setting-primary-metadata-date
-  summary-block-setting-secondary-metadata-none
-  summary-block-setting-show-thumbnail
-  summary-block-setting-show-title
-  summary-block-setting-show-price
-  summary-block-setting-show-excerpt
-  sqs-gallery-design-carousel
-  " data-design="carousel" data-slides-per-row="5" data-mixed-content="true" data-column-width="270" data-gutter="60" data-list-image-size="30" data-active-alignment="" data-square-thumbs="" data-auto-crop="true">
-  <div class="summary-item-list-container sqs-gallery-container">
-    <div class="summary-item-list sqs-gallery">
+<div class="jb-block jb-component-block jb-block-component jb-block-summary-v2 summary-block summary-v2-block"><div class="summary-block-wrapper summary-block-collection-type-blog summary-block-setting-text-size-medium summary-block-setting-text-align-left summary-block-setting-design-carousel summary-block-setting-design-list-thumbnail-left summary-block-setting-metadata-position-below-content summary-block-setting-primary-metadata-date summary-block-setting-secondary-metadata-none summary-block-setting-show-thumbnail summary-block-setting-show-title summary-block-setting-show-price summary-block-setting-show-excerpt jb-gallery-design-carousel" data-design="carousel" data-slides-per-row="5" data-mixed-content="true" data-column-width="270" data-gutter="60" data-list-image-size="30" data-active-alignment="" data-square-thumbs="" data-auto-crop="true">
+  <div class="summary-item-list-container jb-gallery-container">
+    <div class="summary-item-list jb-gallery">
         <div class="summary-item positioned summary-item-record-type-text jb-gallery-carousel-slide summary-item-has-thumbnail summary-item-has-cats summary-item-has-tags summary-item-has-author">
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/paradoxrifteternalbanlistupdate" class="summary-thumbnail-container jb-gallery-image-container">

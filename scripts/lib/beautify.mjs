@@ -282,7 +282,10 @@ const STYLE_TO_UTIL_CLASS = [
   // Single-rule utilities.
   { match: 'font-weight:bold;',    klass: 'jb-bold' },
   { match: 'text-align:center;',   klass: 'jb-center' },
+  { match: 'text-align:right;',    klass: 'jb-right' },
+  { match: 'text-align:left;',     klass: 'jb-left' },
   { match: 'vertical-align:middle;', klass: 'jb-vmid' },
+  { match: 'margin-top:0px;',      klass: 'jb-mt0' },
   // Recurring multi-rule patterns.
   { match: 'font-size:16px;font-weight:bold;text-transform:uppercase;', klass: 'jb-th' },
   { match: 'vertical-align:middle;margin-left:auto;margin-right:auto;display:block;', klass: 'jb-icon-center' },
@@ -669,6 +672,8 @@ const SQS_TO_JB_CLASS = new Map([
   ['code-block', 'jb-code-block'],
   ['image-block', 'jb-image-block'],
   ['gallery-block', 'jb-gallery-block'],
+  ['video-block', 'jb-video-block'],
+  ['span-0', 'jb-span-0'],
   ['sqs-gallery-meta-container', 'jb-gallery-meta-container'],
   ['sqs-gallery-image-container', 'jb-gallery-image-container'],
   ['sqs-gallery-design-carousel-slide', 'jb-gallery-carousel-slide'],
@@ -705,6 +710,14 @@ function renameSqsClasses(root) {
     for (const c of classes) {
       const r = SQS_TO_JB_CLASS.get(c);
       if (r) { renamed.push(r); changed = true; }
+      // Catch-all for the long tail of Squarespace structural classes not in the
+      // explicit map (summary-block / gallery-carousel / slice widgets, e.g.
+      // `sqs-block-summary-v2`, `sqs-gallery-container`, `sqs-slice-group`,
+      // `sqs-slide`, `sqs-blog-list`). Their widget JS/styling is gone, so a
+      // mechanical `sqs-X` → `jb-X` rename is visually neutral and clears the
+      // "no Squarespace `class=` on content" Round-2 criterion. Explicit-map
+      // entries above still win (they map to the names the CSS targets).
+      else if (/^sqs-/.test(c)) { renamed.push('jb-' + c.slice(4)); changed = true; }
       else renamed.push(c);
     }
     // Drop redundant aliases.

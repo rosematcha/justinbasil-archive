@@ -43,7 +43,7 @@ Noteworthy cards from each set in the Standard format have been split into three
 </div>
           <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1712020794653" id="page-61ffe972edb5904d236c7652"><div class="jb-row"><div class="jb-col-6"></div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/asr">Astral Radiance (ASR) &gt;</a></p>
+<p class="jb-right"><a href="#staples/asr">Astral Radiance (ASR) &gt;</a></p>
 
 </div></div>
 
@@ -71,7 +71,7 @@ Lumineon V BRS 40 Manaphy BRS 41 Bidoof BRS 120 Bibarel BRS 121 Arceus V BRS 122
 
 Empoleon BRS 37 Raikou V BRS 48 Whimsicott V BRS 64 Whimsicott VSTAR BRS 65 Minccino BRS 124 Cheren's Care BRS 134 Collapsed Stadium BRS 137 Cynthia's Ambition BRS 138 Magma Basin BRS 144 Team Yell's Cheer BRS 149
 
-</div><div class="sqs-col-0 span-0"></div><div class="jb-col-4">
+</div><div class="jb-col-0"></div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
@@ -88,7 +88,7 @@ Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/pgo">Pokémon GO (PGO)</a><a href="#staples/promos"> &gt;</a></p>
+<p class="jb-right"><a href="#staples/pgo">Pokémon GO (PGO)</a><a href="#staples/promos"> &gt;</a></p>
 
 </div></div>
 
@@ -133,7 +133,7 @@ Kricketune ASR 10 Shaymin ASR 14 Radiant Heatran ASR 27 Regice ASR 37 Hisuian Ba
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/lor">Lost Origin (LOR)</a><a href="#staples/promos"> &gt;</a></p>
+<p class="jb-right"><a href="#staples/lor">Lost Origin (LOR)</a><a href="#staples/promos"> &gt;</a></p>
 
 </div></div>
 
@@ -178,7 +178,7 @@ Charizard PGO 10 Magikarp PGO 21 Mewtwo V PGO 30 Mewtwo VSTAR PGO 31 Lunatone PG
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/sit">Silver Tempest (SIT) &gt;</a></p>
+<p class="jb-right"><a href="#staples/sit">Silver Tempest (SIT) &gt;</a></p>
 
 </div></div>
 
@@ -223,7 +223,7 @@ Parasect LOR 5 Beautifly LOR 8 Shiftry LOR 13 Trevenant LOR 17 Chandelure LOR 26
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/crz">Crown Zenith (CRZ) &gt;</a></p>
+<p class="jb-right"><a href="#staples/crz">Crown Zenith (CRZ) &gt;</a></p>
 
 </div></div>
 
@@ -268,7 +268,7 @@ Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alol
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/svi">Scarlet &amp; Violet (SVI) &gt;</a></p>
+<p class="jb-right"><a href="#staples/svi">Scarlet &amp; Violet (SVI) &gt;</a></p>
 
 </div></div>
 
@@ -313,7 +313,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/pal">Paldea Evolved (PAL) &gt;</a></p>
+<p class="jb-right"><a href="#staples/pal">Paldea Evolved (PAL) &gt;</a></p>
 
 </div></div>
 
@@ -410,7 +410,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/obf">Obsidian Flames (OBF) &gt; </a></p>
+<p class="jb-right"><a href="#staples/obf">Obsidian Flames (OBF) &gt; </a></p>
 
 </div></div>
 
@@ -498,7 +498,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/mew">Scarlet &amp; Violet—151 (MEW)</a> &gt; </p>
+<p class="jb-right"><a href="#staples/mew">Scarlet &amp; Violet—151 (MEW)</a> &gt; </p>
 
 </div></div>
 
@@ -573,7 +573,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/par">Paradox Rift (PAR) &gt; </a></p>
+<p class="jb-right"><a href="#staples/par">Paradox Rift (PAR) &gt; </a></p>
 
 </div></div>
 
@@ -657,7 +657,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/paf">Paldean Fates (PAF) &gt; </a></p>
+<p class="jb-right"><a href="#staples/paf">Paldean Fates (PAF) &gt; </a></p>
 
 </div></div>
 
@@ -761,7 +761,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/tef"> Temporal Forces (TEF) &gt;</a></p>
+<p class="jb-right"><a href="#staples/tef"> Temporal Forces (TEF) &gt;</a></p>
 
 </div></div>
 
@@ -834,7 +834,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/twm" target="">Twilight Masquerade (TWM) &gt;</a></p>
+<p class="jb-right"><a href="#staples/twm" target="">Twilight Masquerade (TWM) &gt;</a></p>
 
 </div></div>
 
@@ -931,7 +931,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/sfa" target="_blank">Shrouded Fable (SFA) &gt;</a></p>
+<p class="jb-right"><a href="#staples/sfa" target="_blank">Shrouded Fable (SFA) &gt;</a></p>
 
 </div></div>
 
@@ -1015,7 +1015,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-<p style="text-align:right;"><a href="#staples/scr" target="_blank">Stellar Crown (SCR) &gt;</a></p>
+<p class="jb-right"><a href="#staples/scr" target="_blank">Stellar Crown (SCR) &gt;</a></p>
 
 </div></div>
 

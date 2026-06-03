@@ -382,14 +382,8 @@ However, there are other options available to a deck builder that, in conjunctio
 
 Now, returning to the deck we’re building around Aggron, it’s time for us to choose the cards we’ll be using to draw through our deck. Let’s look at a few of our [potential Draw Supporters](https://limitlesstcg.com/cards/en?q=type%3ASupporter%20format%3Astandard%20text%3A%22Draw%22%20unique%3Acards).
 
-<div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="
-  sqs-gallery-container
-  sqs-gallery-block-slideshow
-  sqs-gallery-has-controls
-  sqs-gallery-block-show-meta
-  block-animation-none
-  clear">
-  <div class="sqs-gallery">
+<div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
+  <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
                 <img class="thumb-image" alt="SSH_178_R_EN.png" data-type="image" src="/images/1a5a8abd70bbd014.webp" loading="lazy">
               <div class="color-overlay"></div>
@@ -420,7 +414,7 @@ Now, returning to the deck we’re building around Aggron, it’s time for us to
             </div>
   </div>
     <div class="jb-gallery-meta-container">
-        <div class="sqs-gallery-controls">
+        <div class="jb-gallery-controls">
           <a tabindex="0" class="previous"></a>
           <a tabindex="0" class="next"></a>
         </div>
@@ -431,14 +425,8 @@ Now, returning to the deck we’re building around Aggron, it’s time for us to
 
 For now, we’ll add four copies of Professor’s Research.
 
-</div></div></div><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="
-  sqs-gallery-container
-  sqs-gallery-block-slideshow
-  sqs-gallery-has-controls
-  sqs-gallery-block-show-meta
-  block-animation-none
-  clear">
-  <div class="sqs-gallery">
+</div></div></div><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
+  <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
                 <img class="thumb-image" alt="UL_078_R_EN_LG (1).png" data-type="image" src="/images/623ee22ee8f899e4.webp" loading="lazy">
               <div class="color-overlay"></div>
@@ -461,7 +449,7 @@ For now, we’ll add four copies of Professor’s Research.
             </div>
   </div>
     <div class="jb-gallery-meta-container">
-        <div class="sqs-gallery-controls">
+        <div class="jb-gallery-controls">
           <a tabindex="0" class="previous"></a>
           <a tabindex="0" class="next"></a>
         </div>
@@ -755,14 +743,8 @@ Decks need **Gusting**—the ability to selectively switch an opponent’s Activ
 
 Our deck, like all decks, needs cards that will allow us to gust up our opponent’s Pokémon to knock them out. Below are several of the most popular gusting options available to our deck.
 
-<div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="
-  sqs-gallery-container
-  sqs-gallery-block-slideshow
-  sqs-gallery-has-controls
-  sqs-gallery-block-show-meta
-  block-animation-none
-  clear">
-  <div class="sqs-gallery">
+<div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
+  <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
                 <img class="thumb-image" alt="PAL_172_R_EN.png" data-type="image" src="/images/a5837d011ea27d75.webp" loading="lazy">
               <div class="color-overlay"></div>
@@ -781,7 +763,7 @@ Our deck, like all decks, needs cards that will allow us to gust up our opponent
             </div>
   </div>
     <div class="jb-gallery-meta-container">
-        <div class="sqs-gallery-controls">
+        <div class="jb-gallery-controls">
           <a tabindex="0" class="previous"></a>
           <a tabindex="0" class="next"></a>
         </div>

@@ -143,13 +143,13 @@ Like Radiant Pokémon, ACE SPECs are extremely powerful cards that are limited t
 
 Counterfeit and other fake cards, like **Orica** or custom-made cards, are not legal for play and should not be included in any deck. If you suspect a card or cards you own may be counterfeit, there are a few resources available to you to make it easier to verify that your card is a counterfeit, including the section on [Identifying Fake Pokémon Cards](/guide/fakes) in this deck building guide and the videos below.
 
-<div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-row"><div class="jb-col-2"></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe src=&quot;//www.youtube.com/embed/2v4g4XXoPe0?wmode=opaque&amp;amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;>
 </iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+  </div></div></div><div class="jb-col-4"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe src=&quot;//www.youtube.com/embed/7jUlxi62gUk?wmode=opaque&amp;amp;enablejsapi=1&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;>
 </iframe>">

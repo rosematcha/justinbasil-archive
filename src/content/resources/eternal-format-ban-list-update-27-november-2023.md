@@ -12,7 +12,7 @@ showHeading: false
 
 In today’s Eternal Monday, I look at the changes to the Eternal format’s ban list. All of the changes are effective immediately and all prints of the relevant cards are affected.
 
-<div class="jb-block jb-component-block jb-block-component jb-block-video video-block"><div class="intrinsic">
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/kTxJbmeDBm8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Eternal Monday: Ban List Update (27 November 2023)&quot;></iframe>">
       </div>
