@@ -88,11 +88,10 @@ code, pre { font-family: ui-monospace, 'SF Mono', Menlo, monospace; }
 .jb-content { padding-block: 2rem 4rem; }
 .jb-content > :first-child { margin-top: 0; }
 /* Home page only: flush (0) on mobile, where the card grid stacks to one column
-   (≤767px); inset 5px/80px on desktop, where the 3-up grid shows (≥768px, matching
-   the column-stacking breakpoint in squarespace-compat.css). */
-body.jb-home .jb-content { padding: 0; }
-@media (min-width: 768px) {
-  body.jb-home .jb-content { padding: 5px 80px; }
+   (≤767px). On desktop (≥768px, the 3-up grid) it keeps the standard .jb-content /
+   .jb-container padding — no override. */
+@media (max-width: 767px) {
+  body.jb-home .jb-content { padding: 0; }
 }
 /* Pages that bake their own title (showHeading:false) lead with a heading nested
    inside Squarespace wrapper divs. The global 1.4em heading top-margin collapses
