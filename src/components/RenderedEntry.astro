@@ -9,6 +9,10 @@ const { entry } = Astro.props;
 const data = entry.data as any;
 const { Content } = await render(entry);
 const youtubeId: string | undefined = data.youtubeId;
+// The date/title header is for blog-style posts only (Resources updates + Videos).
+// Static pages bake their own <h1> into the body and now also carry a backfilled
+// publishDate, so we must NOT key the header on publishDate alone.
+const isDatedPost = entry.collection === 'resources' || entry.collection === 'videos';
 ---
 
 <PageLayout
@@ -18,7 +22,7 @@ const youtubeId: string | undefined = data.youtubeId;
   sourceUrl={data.sourceUrl}
   showHeading={data.showHeading ?? true}
 >
-  {(youtubeId || (data.publishDate && data.showHeading === false)) && (
+  {(youtubeId || (isDatedPost && data.publishDate && data.showHeading === false)) && (
     <header class="jb-video-header">
       {data.publishDate && (
         <p class="jb-video-date">{new Date(data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' }).toUpperCase()}</p>
