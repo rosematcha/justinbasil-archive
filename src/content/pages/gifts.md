@@ -202,7 +202,7 @@ Elite Trainer Boxes range in price from $50-60. See the list of ideal sets from 
 
 <div class="jb-code-container">
     * <sup>Elite Trainer Boxes from special mini sets come with 11 packs instead of 9. These Elite Trainer Boxes generally run about $10 more than their regular counterparts. These sets are typically aimed more at collectors than players as the cards they contain are generally less viable in competitive play than those in a typical set. Special "Pokémon Center Edition" Elite Trainer Boxes also contain 10 packs.</sup>
-<br>
+<br />
 † <sup>Elite Trainer Boxes from main sets prior to Scarlet &amp; Violet base set contain 8 packs instead of 9. Special set Elite Trainer Boxes from sets prior to Scarlet &amp; Violet base set include 10 packs instead of 11.</sup>
 </div></div></div>
 
@@ -249,7 +249,7 @@ Inside the Trainer’s Toolkit is a whole host of cards useful for upgrading a p
   <button id="defaultOpen" class="tablinks">2024<span class="nomobile"> Trainer's Toolkit</span></button>
 </div>
 <div id="2020" class="tabcontent">
-<br>
+<br />
 <p>
 The 2020 Trainer's Toolkit features a red box. As of 5 April 2024, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format. Because so much of this version of the Trainer's Toolkit has rotated from the Standard format, picking up this product is not ideal.
 </p>
@@ -285,7 +285,7 @@ The 2020 Trainer's Toolkit features a red box. As of 5 April 2024, cards from th
 </div>
 </div>
 <div id="2021" class="tabcontent">
-<br>
+<br />
 <p>
 The 2021 Trainer's Toolkit features a blue box. As of 25 July 2025, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format. Because so much of this version of the Trainer's Toolkit has rotated from the Standard format, picking up this product is not ideal.
 </p>
@@ -324,7 +324,7 @@ The 2021 Trainer's Toolkit features a blue box. As of 25 July 2025, cards from t
 </div>    
 </div>
 <div id="2022" class="tabcontent">
-<br>
+<br />
 <p>
 The 2022 Trainer's Toolkit features a purple box. As of 25 July 2025, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format. Because so much of this version of the Trainer's Toolkit has rotated from the Standard format, picking up this product is not ideal.
 </p>
@@ -362,7 +362,7 @@ The 2022 Trainer's Toolkit features a purple box. As of 25 July 2025, cards from
 </div>
 </div>
 <div id="2023" class="tabcontent">
-<br>
+<br />
 <p>
 The 2023 Trainer's Toolkit features a multicolored white and yellow box, with a picture of Arceus on the front. As of 25 July 2025, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format.
 </p>
@@ -402,7 +402,7 @@ The 2023 Trainer's Toolkit features a multicolored white and yellow box, with a 
 </div>
 </div>
 <div id="2024" class="tabcontent">
-<br>
+<br />
 <p>
 The 2024 Trainer's Toolkit features a bright seafoam-colored box, with a picture of Squawkabilly on the front. As of July 2025, no cards from this product have rotated from the Standard format.
 </p>

@@ -79,25 +79,25 @@ Below are the top 4 players from each of the alternate format tournaments and th
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Kaleidophoenix - Luxray ex</p>
+<p class="jb-center"><strong>1st Place</strong><br />Kaleidophoenix - Luxray ex</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Shinx UPR 45</li> <li>3 Pidgeotto TEU 123</li> <li>3 Pidgey HP 77</li> <li>2 Luxio UPR 47</li> <li>2 Luxray ex TWM 68</li> <li>2 Miraidon ex SVI 81</li> <li>1 Luxray V ASR 50</li> <li>1 Pidgeot ex OBF 164</li> <li>1 Pidgeot RG 10</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>2 Judge SVI 176</li> <li>2 Marnie CPA 56</li> <li>2 N FCO 105</li> <li>1 Faba LOT 173</li> <li>1 Guzma BUS 115</li> <li>1 Roxanne ASR 150</li> <li>4 Rare Candy PAF 89</li> <li>3 Counter Catcher PAR 160</li> <li>3 Nest Ball PAF 84</li> <li>2 Level Ball BST 129</li> <li>2 VS Seeker PHF 109</li> <li>1 Charity G1 99</li> <li>1 Enhanced Hammer TWM 148</li> <li>1 Field Blower GRI 125</li> <li>1 Luxury Ball SF 86</li> <li>1 Super Rod PAL 188</li> <li>1 Ultra Ball PAF 91</li> <li>1 Unfair Stamp TWM 165</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Parallel City BKT 145</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>4 Double Colorless Energy SLG 69</li> <li>3 Basic Lightning Energy SVE 4</li> <li>2 Counter Energy CIN 100</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>PianoLegPete - Palafin ex</p>
+<p class="jb-center"><strong>2nd Place</strong><br />PianoLegPete - Palafin ex</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Finizen TWM 59</li> <li>3 Garbodor BKP 57</li> <li>3 Palafin ex TWM 61</li> <li>2 Baltoy SSH 101</li> <li>2 Claydol GE 15</li> <li>2 Trubbish NVI 48</li> <li>1 Lapras LM 8</li> <li>1 Palafin TEF 49</li> <li>1 Trubbish FST 168</li> <li>1 Wobbuffet PHF 36</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>2 Irida ASR 147</li> <li>1 Bird Keeper DAA 159</li> <li>1 Cynthia UPR 119</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Professor Turo's Scenario PAR 171</li> <li>1 Professor's Research PAF 88</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>3 VS Seeker PHF 109</li> <li>2 Evolution Incense SSH 163</li> <li>2 Ultra Ball PAF 91</li> <li>1 Adventure Bag LOT 167</li> <li>1 Capacious Bucket RCL 156</li> <li>1 Field Blower GRI 125</li> <li>1 Hyper Aroma TWM 152</li> <li>1 Luxury Ball SF 86</li> <li>3 Float Stone BKT 137</li> <li>1 Rigid Band MEW 165</li> <li>1 Weakness Policy BUS 126</li> <li>1 Brooklet Hill GRI 120</li> <li>1 Sky Pillar CES 144</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>4 Basic Water Energy SVE 3</li> <li>3 Wash Water Energy VIV 165</li> <li>1 Splash Energy BKP 113</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>BirdNerdTCG - Dragapult ex</p>
+<p class="jb-center"><strong>3rd Place</strong><br />BirdNerdTCG - Dragapult ex</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Drakloak TWM 129</li> <li>4 Dreepy TWM 128</li> <li>3 Dragapult ex TWM 130</li> <li>2 Baltoy AOR 32</li> <li>2 Claydol GE 15</li> <li>2 Pidgey HP 77</li> <li>1 Pidgeot ex OBF 164</li> <li>1 Pidgeot RG 10</li> <li>1 Radiant Alakazam SIT 59</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>3 Arven OBF 186</li> <li>2 Guzma &amp; Hala CEC 193</li> <li>2 Guzma BUS 115</li> <li>1 Cyllene ASR 138</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 Pokémon Ranger STS 104</li> <li>4 Mysterious Treasure FLI 113</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Evolution Incense SSH 163</li> <li>3 Rare Candy PAF 89</li> <li>3 VS Seeker PHF 109</li> <li>1 Luxury Ball SF 86</li> <li>1 Scoop Up Cyclone TWM 162</li> <li>1 Special Charge STS 105</li> <li>2 Float Stone BKT 137</li> <li>1 Muscle Band XY 121</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>2 Stormy Mountains EVS 161</li> </ul><p class="jb-decklist-section">Energy - 4</p><ul> <li>4 Double Dragon Energy ROS 97</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>ameliababa - Mismagius/Buzzmosa</p>
+<p class="jb-center"><strong>4th Place</strong><br />ameliababa - Mismagius/Buzzmosa</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 11</p><ul> <li>4 Misdreavus PAL 87</li> <li>4 Mismagius UNB 78</li> <li>2 Pheromosa &amp; Buzzwole-GX UNB 1</li> <li>1 Ditto {*} LOT 154</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>3 Speed Stadium DP 114</li> <li>2 Rocket's Admin. TRR 86</li> <li>1 Lusamine {*} LOT 182</li> <li>4 Battle VIP Pass FST 225</li> <li>4 Beast Ring FLI 102</li> <li>4 Order Pad UPR 131</li> <li>4 Pow! Hand Extension TRR 85</li> <li>4 Trainers' Mail ROS 92</li> <li>4 Ultra Ball PAF 91</li> <li>2 Field Blower GRI 125</li> <li>1 Super Rod PAL 188</li> <li>2 Defiance Band SVI 169</li> <li>1 Survival Brace TWM 164</li> </ul><p class="jb-decklist-section">Energy - 13</p><ul> <li>8 Basic Grass Energy SVE 1</li> <li>4 Double Colorless Energy SLG 69</li> <li>1 Beast Energy {*} FLI 117</li>
@@ -108,25 +108,25 @@ Below are the top 4 players from each of the alternate format tournaments and th
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Jollyboli - United Wings</p>
+<p class="jb-center"><strong>1st Place</strong><br />Jollyboli - United Wings</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Ditto CRZ 107</li> <li>4 Flamigo PAL 170</li> <li>4 Murkrow PAL 131</li> <li>4 Wattrel PAL 80</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Cynthia UPR 119</li> <li>2 Professor's Research PAF 88</li> <li>1 Allister VIV 146</li> <li>1 Green's Exploration UNB 175</li> <li>1 Professor Burnet PR-SW 167</li> <li>3 Cram-o-matic FST 229</li> <li>3 Ultra Ball PAF 91</li> <li>2 Acro Bike CES 123</li> <li>2 Crushing Hammer SVI 168</li> <li>2 Enhanced Hammer TWM 148</li> <li>2 Field Blower GRI 125</li> <li>2 Level Ball BST 129</li> <li>2 Pokégear 3.0 SVI 186</li> <li>2 Switch Cart ASR 154</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>2 Cape of Toughness DAA 160</li> <li>2 Viridian Forest TEU 156</li> <li>1 Black Market {*} TEU 134</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>4 Double Colorless Energy SLG 69</li> <li>3 Basic Darkness Energy SVE 7</li> <li>1 Aurora Energy SSH 186</li> <li>1 Legacy Energy TWM 167</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>PianoLegPete - Unown Hand</p>
+<p class="jb-center"><strong>2nd Place</strong><br />PianoLegPete - Unown Hand</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Salandit CRZ 27</li> <li>4 Salazzle UNB 31</li> <li>2 Feebas DRM 28</li> <li>2 Mawile LOR 71</li> <li>2 Milotic EVS 38</li> <li>2 Unown LOT 91</li> <li>1 Ditto {*} LOT 154</li> <li>1 Mew UNB 76</li> <li>1 Oricorio GRI 55</li> </ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>4 Nemona PAF 82</li> <li>1 Avery CRE 130</li> <li>1 Fisherman CES 130</li> <li>1 Miriam SVI 179</li> <li>1 Morty's Conviction TEF 155</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Fire Crystal UNB 173</li> <li>3 Counter Catcher PAR 160</li> <li>3 Pokémon Communication TEU 152</li> <li>2 Evolution Incense SSH 163</li> <li>2 Nemona's Backpack PAF 83</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Secret Box TWM 163</li> <li>2 U-Turn Board UNM 211</li> <li>1 Heat Factory {*} LOT 178</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Fire Energy SVE 2</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>ThatUnlimitedProfessor - Cloyster</p>
+<p class="jb-center"><strong>3rd Place</strong><br />ThatUnlimitedProfessor - Cloyster</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 9</p><ul> <li>3 Cloyster MEW 91</li> <li>3 Shellder SSH 40</li> <li>2 Manaphy SLG 25</li> <li>1 Munkidori TWM 95</li> </ul><p class="jb-decklist-section">Trainer Cards - 40</p><ul> <li>4 Irida ASR 147</li> <li>3 Arven OBF 186</li> <li>3 Marnie CPA 56</li> <li>2 Cook TWM 147</li> <li>2 Cynthia UPR 119</li> <li>4 Pokémon Catcher SVI 187</li> <li>2 Buddy-Buddy Poffin TEF 144</li> <li>2 Evolution Incense SSH 163</li> <li>2 Nest Ball PAF 84</li> <li>1 Adventure Bag LOT 167</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Last Chance Potion CES 135</li> <li>1 Lillie's Poké Doll CEC 197</li> <li>1 Pokégear 3.0 SVI 186</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Secret Box TWM 163</li> <li>1 Stadium Nav UNM 208</li> <li>3 Pot Helmet BRS 146</li> <li>2 U-Turn Board UNM 211</li> <li>2 Lake Acuity LOR 160</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>4 Basic Water Energy SVE 3</li> <li>3 Rainbow Energy CES 151</li> <li>3 Wash Water Energy VIV 165</li> <li>1 Basic Darkness Energy SVE 7</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Ketsuban - Castform</p>
+<p class="jb-center"><strong>4th Place</strong><br />Ketsuban - Castform</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Castform Snowy Form CRE 34</li> <li>4 Castform Sunny Form CRE 22</li> <li>4 Lapras SSH 48</li> <li>4 Minccino BRS 124</li> <li>1 Castform CRE 121</li> <li>1 Castform Rainy Form CRE 33</li> <li>1 Manaphy BRS 41</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>4 Guzma &amp; Hala CEC 193</li> <li>4 Professor's Research PAF 88</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Level Ball BST 129</li> <li>4 Rescue Carrier CRZ 142</li> <li>1 U-Turn Board UNM 211</li> <li>4 Beach Court SVI 167</li> <li>4 PokéStop PGO 68</li> <li>4 Primordial Altar SIT 161</li> <li>4 Rose Tower DAA 169</li> <li>4 Temple of Sinnoh ASR 155</li> </ul><p class="jb-decklist-section">Energy - 0</p><ul>
@@ -137,25 +137,25 @@ Below are the top 4 players from each of the alternate format tournaments and th
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>PikachuAK23 - Colorless</p>
+<p class="jb-center"><strong>1st Place</strong><br />PikachuAK23 - Colorless</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>1 Bibarel BRS 121</li> <li>1 Bidoof CRZ 111</li> <li>1 Cinccino SSH 147</li> <li>1 Cyclizar SVI 164</li> <li>1 Dodrio MEW 85</li> <li>1 Doduo MEW 84</li> <li>1 Kangaskhan DAA 133</li> <li>1 Lugia CEL 22</li> <li>1 Minccino BRS 124</li> <li>1 Porygon UNB 155</li> <li>1 Porygon2 UNB 156</li> <li>1 Porygon-Z UNB 157</li> <li>1 Snorlax LOR 143</li> <li>1 Swellow ROS 72</li> <li>1 Taillow GRI 103</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>1 Bird Keeper DAA 159</li> <li>1 Boss's Orders PAL 172</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Guzma BUS 115</li> <li>1 Hex Maniac AOR 75</li> <li>1 Iono PAF 80</li> <li>1 Marnie CPA 56</li> <li>1 N FCO 105</li> <li>1 Professor Kukui SUM 128</li> <li>1 Tate &amp; Liza CES 148</li> <li>1 Teammates PRC 141</li> <li>1 Winona ROS 96</li> <li>1 Buddy-Buddy Poffin TEF 144</li> <li>1 Evolution Incense SSH 163</li> <li>1 Field Blower GRI 125</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Level Ball BST 129</li> <li>1 Nest Ball PAF 84</li> <li>1 Rare Candy PAF 89</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Special Charge STS 105</li> <li>1 Startling Megaphone FLF 97</li> <li>1 Super Rod PAL 188</li> <li>1 Town Map BKT 150</li> <li>1 Ultra Ball PAF 91</li> <li>1 VS Seeker PHF 109</li> <li>1 Fighting Fury Belt BKP 99</li> <li>1 Float Stone BKT 137</li> <li>1 Luxurious Cape PAR 166</li> <li>1 Muscle Band XY 121</li> <li>1 Technical Machine: Crisis Punch PAF 90</li> <li>1 Artazon PAF 76</li> <li>1 Lost City LOR 161</li> <li>1 Parallel City BKT 145</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>1 Capture Energy RCL 171</li> <li>1 Counter Energy CIN 100</li> <li>1 Double Colorless Energy SLG 69</li> <li>1 Double Turbo Energy BRS 151</li> <li>1 Draw Energy CEC 209</li> <li>1 Gift Energy LOR 171</li> <li>1 Jet Energy PAL 190</li> <li>1 Powerful Colorless Energy DAA 176</li> <li>1 Recycle Energy UNM 212</li> <li>1 Therapeutic Energy PAL 193</li> <li>1 Twin Energy RCL 174</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>PianoLegPete - Fighting</p>
+<p class="jb-center"><strong>2nd Place</strong><br />PianoLegPete - Fighting</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 14</p><ul> <li>1 Carkol TEF 94</li> <li>1 Coalossal RCL 107</li> <li>1 Garganacl PAR 104</li> <li>1 Great Tusk TEF 96</li> <li>1 Groudon PAR 93</li> <li>1 Hisuian Arcanine ASR 71</li> <li>1 Hisuian Growlithe LOR 83</li> <li>1 Lucario BRS 79</li> <li>1 Nacli PAR 102</li> <li>1 Naclstack PAL 122</li> <li>1 Riolu UPR 66</li> <li>1 Rolycoly CPA 31</li> <li>1 Slither Wing PAR 107</li> <li>1 Terrakion SIT 97</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>1 Arven OBF 186</li> <li>1 Bird Keeper DAA 159</li> <li>1 Cynthia &amp; Caitlin CEC 189</li> <li>1 Gladion CIN 95</li> <li>1 Green's Exploration UNB 175</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>1 Korrina FFI 95</li> <li>1 Professor Sada's Vitality PAR 170</li> <li>1 Professor's Research PAF 88</li> <li>1 Raihan CRZ 140</li> <li>1 Battle Compressor PHF 92</li> <li>1 Buddy-Buddy Poffin TEF 144</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Escape Rope BST 125</li> <li>1 Evolution Incense SSH 163</li> <li>1 Field Blower GRI 125</li> <li>1 Heavy Ball BKT 140</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Nest Ball PAF 84</li> <li>1 Pokégear 3.0 SVI 186</li> <li>1 Quick Ball FST 237</li> <li>1 Rare Candy PAF 89</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Super Rod PAL 188</li> <li>1 Tag Call CEC 206</li> <li>1 Ultra Ball PAF 91</li> <li>1 VS Seeker PHF 109</li> <li>1 Fighting Fury Belt BKP 99</li> <li>1 Float Stone BKT 137</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Technical Machine: Turbo Energize PAR 179</li> <li>1 Brooklet Hill GRI 120</li> <li>1 Martial Arts Dojo UNB 179</li> <li>1 Viridian Forest TEU 156</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>6 Basic Fighting Energy SVE 6</li> <li>2 Basic Fire Energy SVE 2</li> <li>1 Rainbow Energy CES 151</li> <li>1 Strong Energy FCO 115</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>TrainerLou - Darkness</p>
+<p class="jb-center"><strong>3rd Place</strong><br />TrainerLou - Darkness</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 11</p><ul> <li>1 Alolan Meowth LOT 118</li> <li>1 Guzzlord CEC 136</li> <li>1 Hoopa CRZ 83</li> <li>1 Liepard BRS 91</li> <li>1 Purrloin UNM 135</li> <li>1 Sneasel UPR 73</li> <li>1 Spiritomb UNB 112</li> <li>1 Weavile UPR 74</li> <li>1 Yveltal TEU 95</li> <li>1 Zoroark BLW 71</li> <li>1 Zorua EVS 102</li> </ul><p class="jb-decklist-section">Trainer Cards - 39</p><ul> <li>1 Arven OBF 186</li> <li>1 Boss's Orders PAL 172</li> <li>1 Cynthia &amp; Caitlin CEC 189</li> <li>1 Green's Exploration UNB 175</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Guzma BUS 115</li> <li>1 Marnie CPA 56</li> <li>1 Piers CPA 58</li> <li>1 Professor's Research PAF 88</li> <li>1 Raihan CRZ 140</li> <li>1 Tate &amp; Liza CES 148</li> <li>1 Teammates PRC 141</li> <li>1 Beast Ring FLI 102</li> <li>1 Buddy-Buddy Poffin TEF 144</li> <li>1 Dark Patch ASR 139</li> <li>1 Escape Rope BST 125</li> <li>1 Evolution Incense SSH 163</li> <li>1 Evosoda GEN 62</li> <li>1 Field Blower GRI 125</li> <li>1 Level Ball BST 129</li> <li>1 Nest Ball PAF 84</li> <li>1 Pokégear 3.0 SVI 186</li> <li>1 Professor's Letter BKT 146</li> <li>1 Rescue Carrier CRZ 142</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Super Rod PAL 188</li> <li>1 Tag Call CEC 206</li> <li>1 Town Map BKT 150</li> <li>1 Trainers' Mail ROS 92</li> <li>1 Ultra Ball PAF 91</li> <li>1 VS Seeker PHF 109</li> <li>1 Fighting Fury Belt BKP 99</li> <li>1 Float Stone BKT 137</li> <li>1 Hustle Belt CES 134</li> <li>1 Muscle Band XY 121</li> <li>1 Technical Machine: Turbo Energize PAR 179</li> <li>1 Artazon PAF 76</li> <li>1 Frozen City PLF 100</li> <li>1 Old Cemetery CRE 147</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>6 Basic Darkness Energy SVE 7</li> <li>1 Double Colorless Energy SLG 69</li> <li>1 Hiding Darkness Energy DAA 175</li> <li>1 Rainbow Energy CES 151</li> <li>1 Twin Energy RCL 174</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Ketsuban - Colorless</p>
+<p class="jb-center"><strong>4th Place</strong><br />Ketsuban - Colorless</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 8</p><ul> <li>1 Bibarel BRS 121</li> <li>1 Bidoof CRZ 111</li> <li>1 Cyclizar PAR 157</li> <li>1 Kangaskhan DAA 133</li> <li>1 Lugia CEL 22</li> <li>1 Oranguru SUM 113</li> <li>1 Skwovet SVI 151</li> <li>1 Snorlax LOR 143</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>1 Arven OBF 186</li> <li>1 Guzma &amp; Hala CEC 193</li> <li>1 Guzma BUS 115</li> <li>1 Hex Maniac AOR 75</li> <li>1 Iono PAF 80</li> <li>1 Lysandre AOR 78</li> <li>1 Mallow &amp; Lana CEC 198</li> <li>1 Mallow GRI 127</li> <li>1 Mela PAR 167</li> <li>1 Raihan CRZ 140</li> <li>1 Ryme OBF 194</li> <li>1 Winona ROS 96</li> <li>1 Adventure Bag LOT 167</li> <li>1 Battle Compressor PHF 92</li> <li>1 Battle VIP Pass FST 225</li> <li>1 Escape Rope BST 125</li> <li>1 Field Blower GRI 125</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Nest Ball PAF 84</li> <li>1 Pal Pad SVI 182</li> <li>1 Pokégear 3.0 SVI 186</li> <li>1 Quick Ball FST 237</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Reset Stamp UNM 206</li> <li>1 Revive EVO 85</li> <li>1 Rotom Phone CPA 64</li> <li>1 Scoop Up Net RCL 165</li> <li>1 Special Charge STS 105</li> <li>1 Tag Call CEC 206</li> <li>1 Town Map BKT 150</li> <li>1 Trainers' Mail ROS 92</li> <li>1 Ultra Ball PAF 91</li> <li>1 VS Seeker PHF 109</li> <li>1 Cape of Toughness DAA 160</li> <li>1 Fighting Fury Belt BKP 99</li> <li>1 Luxurious Cape PAR 166</li> <li>1 Muscle Band XY 121</li> <li>1 Technical Machine: Turbo Energize PAR 179</li> <li>1 U-Turn Board UNM 211</li> <li>1 Artazon PAF 76</li> <li>1 Chaotic Swell CEC 187</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>4 Basic Fire Energy SVE 2</li> <li>1 Capture Energy RCL 171</li> <li>1 Double Colorless Energy SLG 69</li> <li>1 Double Turbo Energy BRS 151</li> <li>1 Gift Energy LOR 171</li> <li>1 Powerful Colorless Energy DAA 176</li> <li>1 Therapeutic Energy PAL 193</li> <li>1 Twin Energy RCL 174</li>
@@ -166,25 +166,25 @@ Below are the top 4 players from each of the alternate format tournaments and th
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Kaleidophoenix - Torterra ex</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Kaleidophoenix - Torterra ex</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 22</p><ul> <li>4 Grotle BRS 7</li> <li>4 Turtwig UPR 6</li> <li>2 Beautifly LOR 8</li> <li>2 Exeggcute PLF 4</li> <li>2 Torterra ex TEF 12</li> <li>2 Wurmple DR 81</li> <li>1 Kricketot BKP 5</li> <li>1 Kricketune ASR 10</li> <li>1 Rabsca TEF 24</li> <li>1 Rellor TEF 23</li> <li>1 Silcoon DX 46</li> <li>1 Torterra BRS 8<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>2 Arven OBF 186</li> <li>2 Colress PLS 118</li> <li>2 Guzma BUS 115</li> <li>1 Faba LOT 173</li> <li>1 N FCO 105</li> <li>1 Professor's Research PAF 88</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>2 Max Potion GRI 128</li> <li>2 Rare Candy PAF 89</li> <li>2 Super Rod PAL 188</li> <li>2 VS Seeker PHF 109</li> <li>1 Computer Search BCR 137</li> <li>1 Heavy Ball BKT 140</li> <li>1 Luxury Ball SF 86</li> <li>1 Professor's Letter BKT 146</li> <li>1 Ultra Ball PAF 91</li> <li>1 Float Stone BKT 137</li> <li>1 Muscle Band XY 121</li> <li>3 Sky Field ROS 89</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>6 Basic Grass Energy SVE 1</li> <li>1 Super Boost Energy {*} UPR 136</li> </ul>
 </div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Diamond Dagger - Blastoise Water Box</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Diamond Dagger - Blastoise Water Box</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>3 Chien-Pao ex PAL 61</li> <li>3 Squirtle BCR 29</li> <li>2 Baltoy SSH 101</li> <li>2 Blastoise PLB 16</li> <li>2 Claydol GE 15</li> <li>1 Blastoise-GX UNB 35</li> <li>1 Lapras LM 8</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Wartortle BCR 30</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Irida ASR 147</li> <li>3 Nessa CRZ 136</li> <li>2 Iono PAF 80</li> <li>1 Guzma BUS 115</li> <li>4 Dive Ball PRC 125</li> <li>3 Rare Candy PAF 89</li> <li>3 Superior Energy Retrieval PAL 189</li> <li>3 VS Seeker PHF 109</li> <li>2 Rescue Stretcher GRI 130</li> <li>1 Computer Search BCR 137</li> <li>1 Field Blower GRI 125</li> <li>1 Luxury Ball SF 86</li> <li>2 Float Stone BKT 137</li> <li>2 Brooklet Hill GRI 120</li> <li>1 Chaotic Swell CEC 187</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Water Energy SVE 3</li> </ul>
 </div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>PianoLegPete - Porygon Box</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>PianoLegPete - Porygon Box</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>3 Porygon UNB 154</li> <li>3 Porygon2 DS 25</li> <li>3 Porygon-Z UNB 157</li> <li>1 Porygon-Z LV.X MD 100</li> <li>1 Reshiram SHF 17</li> <li>1 Zekrom VIV 60</li> <li>1 Mew UNB 76</li> <li>1 Stakataka UNB 106</li> <li>1 Guzzlord CEC 136</li> <li>1 Lapras LM 8</li> <li>1 Ditto LA 27</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>2 Cynthia UPR 119</li> <li>2 Interviewer's Questions CL 79</li> <li>1 Arven OBF 186</li> <li>1 Guzma BUS 115</li> <li>1 Iono PAF 80</li> <li>4 VS Seeker PHF 109</li> <li>3 Rare Candy PAF 89</li> <li>2 Evolution Incense SSH 163</li> <li>2 Quick Ball FST 237</li> <li>2 Special Charge STS 105</li> <li>2 Ultra Ball PAF 91</li> <li>1 Battle Compressor PHF 92</li> <li>1 Computer Search BCR 137</li> <li>1 Field Blower GRI 125</li> <li>1 Nest Ball PAF 84</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Luxury Ball SF 86</li> <li>2 Fighting Fury Belt BKP 99</li> <li>2 Path to the Peak CRE 148</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>4 Prism Energy NXD 93</li> <li>4 Rainbow Energy CES 151</li> <li>3 Aurora Energy SSH 186</li>
 </ul></div></div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Reese F. - Great Tusk Mill</p>
+<p class="jb-center"><strong>4th Place</strong><br />Reese F. - Great Tusk Mill</p>
 
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>4 Great Tusk TEF 97</li> <li>3 Minccino BRS 124</li> <li>3 Cinccino SSH 147</li> <li>1 Manaphy BRS 41</li> <li>1 Lapras LM 8</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>4 Professor Sada's Vitality PAR 170</li> <li>2 Explorer's Guidance TEF 147</li> <li>4 Quick Ball FST 237</li> <li>4 VS Seeker PHF 109</li> <li>4 Lana's Fishing Rod CEC 195</li> <li>4 Pow! Hand Extension TRR 85</li> <li>3 Level Ball BST 129</li> <li>2 Random Receiver FCO 109</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Rescue Stretcher GRI 130</li> <li>1 Luxury Ball SF 86</li> <li>4 Cursed Shovel RCL 157</li> <li>2 Float Stone BKT 137</li> <li>1 Life Dew PLF 107</li> <li>2 Galar Mine RCL 160</li> <li>1 Artazon PAF 76</li> <li>1 Parallel City BKT 145</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>7 Basic Fighting Energy SVE 6</li>
@@ -204,7 +204,7 @@ Deck lists unavailable.
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Guil - Florges Hand Control</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Guil - Florges Hand Control</p>
 
 **Pokémon - 22** 4 Flabebe FLI 83 4 Floette CEC 151 3 Ralts PL 89 2 Florges FLI 86 2 Kirlia SIT 68 2 Squawkabilly ex PAF 75 1 Azelf LA 19 1 Crobat V SHF 44 1 Florges CEC 152 1 Lapras LM 8 1 Umbreon Star P5 17
 
@@ -214,7 +214,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>iFly - Blastoise Water Box</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>iFly - Blastoise Water Box</p>
 
 **Pokémon - 16** 3 Squirtle BCR 29 2 Baltoy GE 60 2 Blastoise PLB 16 2 Chien-Pao ex PAL 61 2 Claydol GE 15 2 Holon's Magneton DS 22 1 Guzzlord CEC 136 1 Mew ex MEW 151 1 Radiant Greninja ASR 46
 
@@ -224,7 +224,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>PianoLegPete - Porygon Box</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>PianoLegPete - Porygon Box</p>
 
 **Pokémon - 16** 4 Ditto LA 27 3 Porygon2 DS 25 3 Porygon-Z UNB 157 2 Porygon AQ 103 2 Porygon LOR 140 1 Lapras LM 8 1 Reshiram SHF 17
 
@@ -234,7 +234,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Kaleidophoenix - Miraidon ex</p>
+<p class="jb-center"><strong>4th Place</strong><br />Kaleidophoenix - Miraidon ex</p>
 
 **Pokémon - 14** 2 Holon's Castform HP 44 2 Miraidon ex SVI 81 1 Flaaffy EVS 55 1 Electrode PLF 33 1 Iron Hands ex PAR 70 1 Manaphy BRS 41 1 Mareep LOT 75 1 Mew ex MEW 151 1 Raichu V BRS 45 1 Raikou VIV 50 1 Raikou V BRS 48 1 Voltorb CES 47
 
@@ -249,7 +249,7 @@ Deck lists unavailable.
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>PianoLegPete - Klawf</p>
+<p class="jb-center"><strong>1st Place</strong><br />PianoLegPete - Klawf</p>
 
 **Pokémon - 14** 4 Klawf PAR 105 3 Brute Bonnet PAR 123 2 Bibarel BRS 121 2 Bidoof CRZ 111 2 Sableye PAL 136 1 Manaphy BRS 41
 
@@ -259,7 +259,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Triniray974 - United Wings</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Triniray974 - United Wings</p>
 
 **Pokémon - 23** 4 Flamigo PAL 170 4 Murkrow PAL 131 4 Wattrel PAL 80 2 Ditto CRZ 107 2 Kirlia SIT 68 2 Ralts ASR 60 1 Gardevoir SIT 69 1 Jirachi PAR 126 1 Kleavor ASR 85 1 Manaphy BRS 41 1 Scyther ASR 4
 
@@ -269,7 +269,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>JustInBasil - Falinks</p>
+<p class="jb-center"><strong>3rd Place</strong><br />JustInBasil - Falinks</p>
 
 **Pokémon - 15** 4 Falinks BST 83 3 Blitzle CRE 50 3 Remoraid BST 36 3 Zebstrika CRE 51 2 Octillery BST 37
 
@@ -279,7 +279,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Ryan10 - Whiscash Mill</p>
+<p class="jb-center"><strong>4th Place</strong><br />Ryan10 - Whiscash Mill</p>
 
 **Pokémon - 23** 4 Barboach ASR 35 4 Whiscash OBF 109 3 Horsea SHF 20 2 Bronzong BST 102 2 Bronzor ASR 111 2 Kingdra BST 33 2 Kingdra LOR 37 2 Manaphy SHF 24 2 Seadra LOR 36
 
@@ -294,7 +294,7 @@ Deck lists unavailable.
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Kaleidophoenix - Roaring Moon ex</p>
+<p class="jb-center"><strong>1st Place</strong><br />Kaleidophoenix - Roaring Moon ex</p>
 
 **Pokémon - 10** 4 Roaring Moon ex PAR 124 1 Crobat V SHF 44 1 Galarian Moltres EVS 93 1 Galarian Moltres V CRE 97 1 Lapras LM 8 1 Radiant Greninja ASR 46 1 Squawkabilly ex PAL 169
 
@@ -304,7 +304,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>MysteriousPlayer - Miraidon ex</p>
+<p class="jb-center"><strong>2nd Place</strong><br />MysteriousPlayer - Miraidon ex</p>
 
 **Pokémon - 12** 3 Miraidon ex SVI 81 1 Azelf LA 19 1 Flaaffy EVS 55 1 Iron Hands ex PAR 70 1 Mantine DF 20 1 Mareep LOT 75 1 Raikou V BRS 48 1 Squawkabilly ex PAL 169 1 Tapu Koko {\*} TEU 51 1 Zeraora-GX LOT 86
 
@@ -314,7 +314,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Guil - Roaring Moon ex</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Guil - Roaring Moon ex</p>
 
 **Pokémon - 10** 4 Roaring Moon ex PAR 124 2 Guzzlord CEC 136 1 Crobat V SHF 44 1 Lapras LM 8 1 Radiant Greninja ASR 46 1 Squawkabilly ex PAL 169
 
@@ -324,7 +324,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>ThatUnlimitedProfessor - Sceptile Grass Box</p>
+<p class="jb-center"><strong>4th Place</strong><br />ThatUnlimitedProfessor - Sceptile Grass Box</p>
 
 **Pokémon - 24** 3 Gossifleur SSH 20 3 Grovyle LOT 21 3 Treecko LOT 20 2 Eldegoss SSH 21 2 Rowlet SUM 9 2 Sceptile GE 8 1 Celebi TM 92 1 Dhelmise V SHF 9 1 Dhelmise VMAX SHF 10 1 Hisuian Lilligant V ASR 17 1 Hisuian Lilligant VSTAR ASR 18 1 Sceptile SF 10 1 Venusaur V CPA 1 1 Venusaur VMAX PR-SW 102 1 Wurmple DR 81
 
@@ -340,7 +340,7 @@ Deck lists unavailable.
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Kaleidophoenix - Chien-Pao ex / Frosmoth</p>
+<p class="jb-center"><strong>1st Place</strong><br />Kaleidophoenix - Chien-Pao ex / Frosmoth</p>
 
 **Pokémon - 18** 4 Chien-Pao ex PAL 61 3 Alolan Vulpix GRI 21 3 Snom SHF 29 2 Frosmoth SHF 30 2 Octillery BKT 33 2 Remoraid BKT 31 1 Cetitan PAL 55 1 Cetoddle PAL 53
 
@@ -350,7 +350,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-9"><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Guil - Galarian Weezing</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Guil - Galarian Weezing</p>
 
 **Pokémon - 14** 4 Koffing SHF 41 3 Galarian Weezing SHF 42 2 Noibat BKT 132 2 Noivern ex PAL 153 1 Octillery BKT 33 1 Remoraid BKT 31 1 Squawkabilly ex PAL 169
 
@@ -360,7 +360,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Tech - Wishiwashi-GX / Frosmoth</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Tech - Wishiwashi-GX / Frosmoth</p>
 
 **Pokémon - 14** 3 Frosmoth SHF 30 3 Snom SHF 29 3 Wishiwashi-GX GRI 38 2 Octillery BKT 33 2 Remoraid BKT 31 1 Mr. Mime GEN 52
 
@@ -370,7 +370,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>ThatUnlimitedProfessor - Chien-Pao ex</p>
+<p class="jb-center"><strong>4th Place</strong><br />ThatUnlimitedProfessor - Chien-Pao ex</p>
 
 **Pokémon - 16** 4 Chien-Pao ex PAL 61 2 Octillery BKT 33 2 Remoraid BKT 31 2 Zoroark BKT 91 2 Zorua BKT 89 1 Luxray SHF 33 1 Mr. Mime GEN 52 1 Oricorio GRI 55 1 Rotom SHF 34
 
@@ -385,7 +385,7 @@ Deck lists unavailable.
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Guil - Banette ex / Omastar</p>
+<p class="jb-center"><strong>1st Place</strong><br />Guil - Banette ex / Omastar</p>
 
 **Pokémon - 13** 4 Shuppet SVI 87 3 Banette ex SVI 88 2 Banette ROS 32 2 Omanyte FO 52 2 Omastar TEU 76
 
@@ -395,7 +395,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>ThatUnlimitedProfessor - Weezing DX</p>
+<p class="jb-center"><strong>2nd Place</strong><br />ThatUnlimitedProfessor - Weezing DX</p>
 
 **Pokémon - 20** 4 Koffing TRR 61 4 Pichu HS 28 4 Weezing DX 51 2 Ariados AOR 6 2 Skuntank G PL 94 1 Clefable JU 1 1 Clefairy BS 5 1 Ditto {\*} LOT 154 1 Spinarak AOR 5
 
@@ -405,7 +405,7 @@ Deck lists unavailable.
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Kaleidophoenix<strong><em> </em></strong>- Machamp</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Kaleidophoenix<strong><em> </em></strong>- Machamp</p>
 
 **Pokémon - 20** 4 Machoke GRI 64 4 Machop LOR 86 2 Baltoy SSH 101 2 Lunala CEL 15 2 Machamp LOR 88 2 Machamp SF 20 1 Azelf LA 19 1 Hisuian Decidueye V ASR 83 1 Hisuian Decidueye VSTAR ASR 84 1 Lapras LM 8
 
@@ -415,7 +415,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>MysteriousPlayer - Charizard ex</p>
+<p class="jb-center"><strong>4th Place</strong><br />MysteriousPlayer - Charizard ex</p>
 
 **Pokémon - 19** 4 Charmander TEU 11 3 Charizard ex OBF 125 2 Baltoy SIT 93 2 Claydol GE 15 1 Azelf LA 19 1 Charmeleon GEN RC4 1 Ditto {\*} LOT 154 1 Jirachi RR 7 1 Lapras LM 8 1 Machoke GRI 64 1 Mew UNB 76 1 Shining Celebi PR-SM 79
 
@@ -430,7 +430,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Guil - Houndour/Zeraora</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Guil - Houndour/Zeraora</p>
 
 **Pokémon - 18** 4 Houndoom JIB1 23 4 Houndour JIB1 22 3 Eevee JIB1 113 3 Flareon JIB1 18 2 Zeraora JIBP 15 1 Audino JIB1 121 1 Mew JIB1 63
 
@@ -440,7 +440,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Grayson H. - Bellossom <em>ACE</em></p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Grayson H. - Bellossom <em>ACE</em></p>
 
 **Pokémon - 17** 3 Bellossom ACE JIB1 6 3 Gloom JIB1 5 3 Oddish JIB1 4 2 Bulbasaur JIB1 1 2 Ivysaur JIB1 2 2 Venusaur JIB1 3 1 Audino JIB1 121 1 Tropius JIB1 13
 
@@ -450,7 +450,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Techster011 - Alolan Sandslash</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Techster011 - Alolan Sandslash</p>
 
 **Pokémon - 8** 4 Alolan Sandshrew JIB1 99 4 Alolan Sandslash JIB1 100
 
@@ -460,7 +460,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>kingK4RP - Stufful/Mew</p>
+<p class="jb-center"><strong>4th Place<br /></strong>kingK4RP - Stufful/Mew</p>
 
 **Pokémon - 21** 4 Mew JIB1 63 4 Unown JIB1 65 2 Audino JIB1 121 2 Eevee JIB1 113 2 Stufful JIB1 80 2 Wooper JIB1 72 1 Celebi JIB1 11 1 Heracross JIB1 74 1 Jolteon JIB1 43 1 Quagsire JIB1 73 1 Tropius JIB1 13
 
@@ -475,7 +475,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Guil - Rapid Strike Urshifu VMAX</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Guil - Rapid Strike Urshifu VMAX</p>
 
 **Pokémon - 14** 3 Rapid Strike Urshifu V BST 87 2 Baltoy AOR 32 2 Claydol GE 15 2 Rapid Strike Urshifu VMAX BST 88 1 Alolan Grimer UNM 127 1 Alolan Muk SUM 58 1 Azelf LA 19 1 Lapras LM 8 1 Umbreon & Darkrai-GX UNM 125
 
@@ -485,7 +485,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>MysteriousPlayer - Copperajah ex</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>MysteriousPlayer - Copperajah ex</p>
 
 **Pokémon - 13** 3 Cufant FST 191 2 Copperajah ex PAL 150 1 Azelf LA 19 1 Lucario & Melmetal-GX UNB 120 1 Mr. Mime PLF 47 1 Oranguru SSH 148 1 Radiant Greninja ASR 46 1 Shaymin UL 8 1 Tapu Koko PR-SM 30 1 Zacian V SSH 138
 
@@ -495,7 +495,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>kingK4RP - Zacian VSTAR</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>kingK4RP - Zacian VSTAR</p>
 
 **Pokémon - 8** 4 Zacian V SSH 138 3 Zacian VSTAR CRZ 96 1 Lucario & Melmetal-GX UNB 120
 
@@ -505,7 +505,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>Grayson H. - Glimmora†</p>
+<p class="jb-center"><strong>4th Place<br /></strong>Grayson H. - Glimmora†</p>
 
 **Pokémon - 11** 4 Glimmet PAL 124 4 Glimmora PAL 126 2 Lapras LM 8 1 Radiant Hisuian Sneasler LOR 123
 
@@ -522,7 +522,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Twitchy - Blacephalon</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Twitchy - Blacephalon</p>
 
 **Pokémon - 6** 4 Blacephalon UNB 32 1 Blacephalon-GX LOT 52 1 Victini {\*} DRM 7
 
@@ -532,7 +532,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-9"><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Grayson H. - ADPK</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Grayson H. - ADPK</p>
 
 **Pokémon - 12** 4 Jirachi TEU 99 3 Arceus & Dialga & Palkia-GX CEC 156 3 Keldeo-GX UNM 47 2 Dedenne-GX UNB 57
 
@@ -547,7 +547,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Grayson H. - Absol Spread</p>
+<p class="jb-center"><strong>1st Place</strong><br />Grayson H. - Absol Spread</p>
 
 **Pokémon - 9** 4 Absol ASR 97 2 Galarian Moltres EVS 93 1 Hawlucha SVI 118 1 Manaphy BRS 41 1 Radiant Alakazam SIT 59
 
@@ -557,7 +557,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Infection323 - Hariyama</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Infection323 - Hariyama</p>
 
 **Pokémon - 17** 4 Houndoom BST 96 4 Houndour BST 95 3 Hariyama FST 143 3 Makuhita FST 142 2 Yveltal FST 175 1 Radiant Greninja ASR 46
 
@@ -567,7 +567,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>Participant</strong><br>Ryan Doby - Pachirisu / Miraidon</p>
+<p class="jb-center"><strong>Participant</strong><br />Ryan Doby - Pachirisu / Miraidon</p>
 
 **Pokémon - 18** 4 Zapdos PGO 29 3 Flaaffy EVS 55 3 Mareep EVS 54 3 Miraidon SVI 80 3 Pachirisu SVI 68 2 Regieleki EVS 60
 
@@ -577,7 +577,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>Participant</strong><br>JustInBasil - Falinks</p>
+<p class="jb-center"><strong>Participant</strong><br />JustInBasil - Falinks</p>
 
 **Pokémon - 15** 4 Falinks BST 83 3 Blitzle CRE 50 3 Remoraid BST 36 3 Zebstrika CRE 51 2 Octillery BST 37
 
@@ -592,7 +592,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>JustInBasil - Thundurus / Flaaffy</p>
+<p class="jb-center"><strong>1st Place</strong><br />JustInBasil - Thundurus / Flaaffy</p>
 
 **Pokémon - 17** 4 Flaaffy EVS 55 4 Mareep LOT 75 4 Thundurus UNM 68 3 Audino UNM 177 1 Mr. Mime GEN 52 1 Tornadus UNM 178
 
@@ -602,7 +602,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>UNTOLDULTIMATUM - Poison Control</p>
+<p class="jb-center"><strong>2nd Place</strong><br />UNTOLDULTIMATUM - Poison Control</p>
 
 **Pokémon - 15** 3 Gastly UNB 68 3 Haunter GEN 34 3 Hisuian Overqwil ASR 90 3 Hisuian Qwilfish ASR 89 3 Spiritomb SLG 47
 
@@ -612,7 +612,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Techster011 - Spread†</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Techster011 - Spread†</p>
 
 **Pokémon - 18** 4 Drizzile SSH 56 4 Koffing CEC 76 4 Sobble CRE 41 2 Mareep LOT 75 1 Mr. Mime GEN 52 1 Rotom SVI 70 1 Skwovet SVI 151 1 Tyrogue UNB 100
 
@@ -624,7 +624,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>TandemTCG - Alolan Dugtrio</p>
+<p class="jb-center"><strong>4th Place</strong><br />TandemTCG - Alolan Dugtrio</p>
 
 **Pokémon - 15** 4 Alolan Diglett SUM 86 4 Alolan Dugtrio UPR 79 3 Cutiefly BUS 95 3 Ribombee BUS 96 1 Mr. Mime GEN 52
 
@@ -639,7 +639,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>TandemTCG - Empoleon ACE</p>
+<p class="jb-center"><strong>1st Place</strong><br />TandemTCG - Empoleon ACE</p>
 
 **Pokémon - 17** 4 Empoleon ACE JIB1 39 4 Piplup JIB1 37 4 Sharpedo JIB1 90 2 Absol JIB1 92 2 Prinplup JIB1 38 1 Sableye JIB1 91
 
@@ -649,7 +649,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Techster011 - Quagsire/Dragapult</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Techster011 - Quagsire/Dragapult</p>
 
 **Pokémon - 15** 4 Quagsire JIB1 73 4 Wooper JIB1 72 2 Dragapult JIB1 70 2 Dreepy JIB1 68 1 Absol JIB1 92 1 Falinks JIB1 84 1 Heracross JIB1 74
 
@@ -659,7 +659,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>JustInBasil - Kommo-o</p>
+<p class="jb-center"><strong>3rd Place</strong><br />JustInBasil - Kommo-o</p>
 
 **Pokémon - 15** 4 Jangmo-o JIB1 126 4 Kommo-o JIB1 83 2 Audino JIB1 121 2 Falinks JIB1 84 2 Zeraora JIBP 15 1 Absol JIB1 92
 
@@ -669,7 +669,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Jollybolivreede - Bellossom ACE</p>
+<p class="jb-center"><strong>4th Place</strong><br />Jollybolivreede - Bellossom ACE</p>
 
 **Pokémon - 16** 3 Bellossom ACE JIB1 6 3 Oddish JIB1 4 2 Bulbasaur JIB1 1 2 Celebi JIB1 11 2 Gloom JIB1 5 2 Venusaur JIB1 3 1 Audino JIB1 121 1 Ivysaur JIB1 2
 
@@ -684,7 +684,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Guil - Rapid Strike Urshifu VMAX</p>
+<p class="jb-center"><strong>1st Place</strong><br />Guil - Rapid Strike Urshifu VMAX</p>
 
 **Pokémon - 12** 3 Rapid Strike Urshifu V BST 87 2 Baltoy AOR 32 2 Claydol GE 15 2 Rapid Strike Urshifu VMAX BST 88 1 Azelf LA 19 1 Lapras LM 8 1 Raikou V BRS 48
 
@@ -694,7 +694,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>MysteriousPlayer - Togekiss VMAX</p>
+<p class="jb-center"><strong>2nd Place</strong><br />MysteriousPlayer - Togekiss VMAX</p>
 
 **Pokémon - 18** 3 Togekiss V VIV 140 3 Togekiss VMAX VIV 141 2 Jirachi RR 7 1 Azelf LA 19 1 Dusknoir DP 2 1 Gardevoir SW 7 1 Lapras LM 8 1 Machoke GRI 64 1 Oranguru SSH 148 1 Raticate BCR 105 1 Rattata TR 66 1 Skuntank G PL 94 1 Vileplume AOR 3
 
@@ -704,7 +704,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Techster011 - Lost Box</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Techster011 - Lost Box</p>
 
 **Pokémon - 13** 2 Jirachi RR 7 2 Kyogre SHF 21 2 Rayquaza VIV 138 2 Sableye LOR 70 1 Azelf LA 19 1 Lapras LM 8 1 Mr. Mime PLF 47 1 Radiant Greninja ASR 46 1 Trumbeak LOT 165
 
@@ -714,7 +714,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>iFly - Jirachi Mill</p>
+<p class="jb-center"><strong>4th Place</strong><br />iFly - Jirachi Mill</p>
 
 **Pokémon - 12** 4 Jirachi RR 7 3 Baltoy AOR 32 3 Claydol GE 15 2 Lapras LM 8
 
@@ -734,11 +734,11 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 <div class="jb-code-container">
     <div id="jan23" class="deck_box">
   <h2>Pauper</h2>
-    <p class="jb-deckbox-sublabel">6 January 2023, 6 Participants<br><i>Note: Lunatone PGO 34 was banned immediately following this tournament</i>. 
+    <p class="jb-deckbox-sublabel">6 January 2023, 6 Participants<br /><i>Note: Lunatone PGO 34 was banned immediately following this tournament</i>. 
 </p></div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Twitchy - Lunatone</p>
+<p class="jb-center"><strong>1st Place</strong><br />Twitchy - Lunatone</p>
 
 **Pokémon - 9** 4 Lunatone PGO 34 4 Solrock PGO 39 1 Mr. Mime GEN 52
 
@@ -748,7 +748,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Oatey99 - Lunatone</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Oatey99 - Lunatone</p>
 
 **Pokémon - 8** 4 Lunatone PGO 34 4 Solrock PGO 39
 
@@ -758,7 +758,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Okowen02 - Mad Party</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Okowen02 - Mad Party</p>
 
 **Pokémon - 20** 4 Bunnelby DAA 150 4 Dedenne DAA 78 4 Polteageist DAA 83 4 Sinistea SSH 89 2 Kirlia SIT 68 2 Ralts SIT 67
 
@@ -768,7 +768,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>JustInBasil - Wailord</p>
+<p class="jb-center"><strong>4th Place</strong><br />JustInBasil - Wailord</p>
 
 **Pokémon - 8** 4 Wailmer SIT 37 4 Wailord SIT 38
 
@@ -783,7 +783,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>KingK4RP - Dragapult RCL</p>
+<p class="jb-center"><strong>1st Place</strong><br />KingK4RP - Dragapult RCL</p>
 
 **Pokémon - 20** 4 Drakloak RCL 90 4 Dreepy RCL 89 3 Dragapult RCL 91 2 Magcargo CES 24 2 Slugma VIV 27 1 Audino UNM 177 1 Inkay FLI 50 1 Malamar FLI 51 1 Mew UNB 76 1 Oranguru SUM 113
 
@@ -793,7 +793,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>iFly - Lugia/Malamar</p>
+<p class="jb-center"><strong>2nd Place</strong><br />iFly - Lugia/Malamar</p>
 
 **Pokémon - 19** 4 Inkay FLI 50 4 Malamar FLI 51 3 Lugia DAA 140 2 Audino UNM 177 2 Blitzle LOT 81 2 Necrozma UNM 101 2 Zebstrika LOT 82
 
@@ -803,7 +803,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Bunnybird - Zeraora/Eelektrik</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Bunnybird - Zeraora/Eelektrik</p>
 
 **Pokémon - 16** 4 Eelektrik NVI 40 4 Tynamo NVI 39 4 Zeraora UNB 60 2 Audino UNM 177 2 Lugia DAA 140
 
@@ -813,7 +813,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Twitchy - Duraludon</p>
+<p class="jb-center"><strong>4th Place</strong><br />Twitchy - Duraludon</p>
 
 **Pokémon - 10** 4 Duraludon RCL 138 3 Dhelmise GRI 59 2 Oranguru SUM 113 1 Magearna VIV 128
 
@@ -824,11 +824,11 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div></div><div class="jb-code-container">
     <div id="nov22" class="deck_box">
   <h2>JIB Format</h2>
-  <p class="jb-deckbox-sublabel">4 November 2022, 4 Participants<br><i>Note: Since this tournament was held, a handful of cards in these deck lists were hit with rebalancing updates.</i></p>
+  <p class="jb-deckbox-sublabel">4 November 2022, 4 Participants<br /><i>Note: Since this tournament was held, a handful of cards in these deck lists were hit with rebalancing updates.</i></p>
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Curse - Kommo-o/Zeraora</p>
+<p class="jb-center"><strong>1st Place</strong><br />Curse - Kommo-o/Zeraora</p>
 
 **Pokémon - 15** 4 Jangmo-o JIB1 126 4 Kommo-o JIB1 83 2 Audino JIB1 121 2 Falinks JIB1 84 2 Zeraora JIBP 15 1 Absol JIB1 92
 
@@ -838,7 +838,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Guil - Zoroark/Malamar</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Guil - Zoroark/Malamar</p>
 
 **Pokémon - 18** 4 Inkay JIB1 96 4 Malamar JIB1 97 3 Zoroark JIB1 95 3 Zorua JIB1 94 2 Giratina JIBP 14 1 Empoleon ACE JIB1 39 1 Piplup JIB1 37
 
@@ -848,7 +848,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Bunnybird12 - Weavile/Cramorant</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Bunnybird12 - Weavile/Cramorant</p>
 
 **Pokémon - 17** 4 Sneasel JIB1 34 4 Weavile JIB1 35 3 Cramorant JIB1 42 2 Absol JIB1 92 2 Audino JIB1 121 2 Lugia JIB1 116
 
@@ -858,7 +858,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>TandemTCG - Flareon/Torkoal</p>
+<p class="jb-center"><strong>4th Place</strong><br />TandemTCG - Flareon/Torkoal</p>
 
 **Pokémon - 20** 4 Entei JIB1 24 4 Sableye JIB1 91 4 Torkoal JIB1 26 2 Absol JIB1 92 2 Eevee JIB1 113 2 Flareon JIB1 18 2 Skarmory JIB1 105
 
@@ -873,7 +873,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Twitchy - Lost Box</p>
+<p class="jb-center"><strong>1st Place</strong><br />Twitchy - Lost Box</p>
 
 **Pokémon - 14** 4 Comfey LOR 79 4 Cramorant LOR 50 4 Mew CEL 11 2 Sableye LOR 70
 
@@ -883,7 +883,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>JustInBasil - Falinks</p>
+<p class="jb-center"><strong>2nd Place</strong><br />JustInBasil - Falinks</p>
 
 **Pokémon - 15** 4 Falinks BST 83 3 Blitzle CRE 50 3 Remoraid BST 36 3 Zebstrika CRE 51 2 Octillery BST 37
 
@@ -893,7 +893,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>Neutral - Spiritomb</p>
+<p class="jb-center"><strong>3rd Place</strong><br />Neutral - Spiritomb</p>
 
 **Pokémon - 11** 4 Spiritomb LOR 117 2 Bibarel BRS 121 2 Bidoof BRS 120 2 Ditto PGO 53 1 Radiant Greninja ASR 46
 
@@ -903,7 +903,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Curse - Castform</p>
+<p class="jb-center"><strong>4th Place</strong><br />Curse - Castform</p>
 
 **Pokémon - 16** 4 Castform Sunny Form CRE 22 4 Liepard BRS 91 4 Purrloin BRS 90 2 Castform CRE 121 2 Castform Rainy Form CRE 33
 
@@ -919,7 +919,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Bunnybird - Togekiss VMAX</p>
+<p class="jb-center"><strong>1st Place</strong><br />Bunnybird - Togekiss VMAX</p>
 
 **Pokémon - 15** 4 Togekiss V VIV 140 4 Togekiss VMAX VIV 141 3 Snorlax VIV 131 1 Altaria ROS 74 1 Manaphy SLG 25 1 Shaymin-EX ROS 77 1 Swablu ROS 73
 
@@ -929,7 +929,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Twitchy - Galarian Darmanitan VMAX</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Twitchy - Galarian Darmanitan VMAX</p>
 
 **Pokémon - 18** 4 Galarian Darmanitan V VIV 36 4 Squirtle BCR 29 3 Blastoise BCR 31 3 Galarian Darmanitan VMAX VIV 37 3 Wartortle BCR 30 1 Shaymin-EX ROS 77
 
@@ -939,7 +939,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>JustInBasil - Zoroark-GX / Garchomp</p>
+<p class="jb-center"><strong>3rd Place</strong><br />JustInBasil - Zoroark-GX / Garchomp</p>
 
 **Pokémon - 23** 4 Gabite UPR 98 4 Garchomp UPR 99 4 Gible UPR 96 4 Zorua SLG 52 3 Zoroark-GX SLG 53 2 Lucario UPR 67 2 Riolu UPR 66
 
@@ -955,7 +955,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>Guil - Rapid Strike Urshifu VMAX</p>
+<p class="jb-center"><strong>1st Place</strong><br />Guil - Rapid Strike Urshifu VMAX</p>
 
 **Pokémon - 12** 2 Baltoy AOR 32 2 Claydol GE 15 3 Rapid Strike Urshifu V BST 87 2 Rapid Strike Urshifu VMAX BST 88 1 Azelf LA 19 1 Darkrai-GX BUS 88 1 Lapras LM 8
 
@@ -965,7 +965,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Sleight - Arceus VSTAR Control</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Sleight - Arceus VSTAR Control</p>
 
 **Pokémon - 23** 4 Arceus V BRS 122 3 Arceus VSTAR BRS 123 2 Baltoy AOR 32 2 Claydol GE 15 2 Oddish UNB 5 2 Vileplume AOR 3 1 Azelf LA 19 1 Blacephalon-GX LOT 52 1 Crobat V DAA 104 1 Duskull CEC 83 1 Dusclops VIV 70 1 Dusknoir VIV 71 1 Lapras LM 8 1 Unown Q MD 49
 
@@ -975,7 +975,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>David Hochmann - Shock Lock</p>
+<p class="jb-center"><strong>3rd Place</strong><br />David Hochmann - Shock Lock</p>
 
 **Pokémon - 29** 4 Spheal LM 65 3 Sealeo LM 43 2 Baltoy AOR 32 2 Claydol GE 15 2 Holon's Voltorb DS 71 2 Mew TM 97 2 Raichu BUS 41 2 Pikachu PR-SM 4 2 Walrein ex PK 99 1 Azelf LA 19 1 Celebi {\*} LOT 19 1 Ditto {\*} LOT 154 1 Feebas EM 49 1 Lapras LM 8 1 Milotic PRC 44 1 Pichu HS 28 1 Unown Q MD 49
 
@@ -985,7 +985,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>CursolaTCG - Celebi Mill</p>
+<p class="jb-center"><strong>4th Place</strong><br />CursolaTCG - Celebi Mill</p>
 
 **Pokémon - 4** 4 Celebi PR-XY 93
 
@@ -1001,7 +1001,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Mysterious Player - Ultra Necrozma</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Mysterious Player - Ultra Necrozma</p>
 
 **Pokémon - 16** 4 Ultra Necrozma CEC 164 2 Baltoy AOR 32 2 Claydol GE 15 2 Trubbish PLS 63 2 Garbodor DRX 54 1 Azelf LA 19 1 Tapu Lele-GX GRI 60 1 Unown G GE 57 1 Unown Q MD 49
 
@@ -1011,7 +1011,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Sleight - Sylveon VMAX</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Sleight - Sylveon VMAX</p>
 
 **Pokémon - 18** 3 Sylveon V EVS 74 2 Sylveon VMAX EVS 75 2 Kecleon RR 67 1 Azelf LA 19 1 Baltoy AOR 32 1 Claydol GE 15 1 Crobat V DAA 104 1 Dusknoir VIV 71 1 Oricorio GRI 55 1 Phione CEC 57 1 Shadow Rider Calyrex V CRE 74 1 Spiritomb AR 32 1 Tapu Lele-GX GRI 60 1 Unown Q MD 49
 
@@ -1021,7 +1021,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Willyazaa - Sylveon VMAX</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Willyazaa - Sylveon VMAX</p>
 
 **Pokémon - 22** 3 Sylveon V EVS 74 3 Sylveon VMAX EVS 75 2 Baltoy AOR 32 2 Claydol GE 15 2 Kecleon RR 67 1 Azelf LA 19 1 Jirachi {\*} CES 97 1 Mr. Mime PLF 47 1 Spiritomb AR 32 1 Tapu Lele-GX GRI 60 1 Trubbish NVI 48 1 Garbodor BKP 57 1 Unown Q MD 49 1 Unown G GE 57 1 Wobbuffet PHF 36
 
@@ -1031,7 +1031,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>Jake Gearhart - Holon Circle Lock</p>
+<p class="jb-center"><strong>4th Place<br /></strong>Jake Gearhart - Holon Circle Lock</p>
 
 **Pokémon - 21** 4 Spiritomb AR 32 3 Baltoy AOR 32 2 Claydol GE 15 3 Psyduck SW 100 3 Golduck HP 43 2 Dawn Wings Necrozma-GX UPR 63 1 Regirock PR-XY 49 1 Skuntank G PL 94 1 Unown G GE 57 1 Unown Q MD 49
 
@@ -1095,7 +1095,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div></div><div class="jb-code-container">
     <div id="may22" class="deck_box">
   <h2>JIB Format</h2>
-  <p class="jb-deckbox-sublabel">6 May 2022, 5 Participants<br><i>Note: Since this tournament was held, a handful of cards in these deck lists were hit with rebalancing updates.</i></p>
+  <p class="jb-deckbox-sublabel">6 May 2022, 5 Participants<br /><i>Note: Since this tournament was held, a handful of cards in these deck lists were hit with rebalancing updates.</i></p>
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
@@ -1853,7 +1853,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Bunnybird12, Eelektrik NVI</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Bunnybird12, Eelektrik NVI</p>
 
 **Pokémon - 12** 1 Oranguru SUM 113 4 Tynamo NVI 38 4 Zeraora UNB 60 3 Eelektrik NVI 40
 
@@ -1863,7 +1863,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>JimCheeseIt, Entei LOT</p>
+<p class="jb-center"><strong>2nd Place</strong><br />JimCheeseIt, Entei LOT</p>
 
 **Pokémon - 9** 1 Oranguru SUM 113 4 Entei LOT 47 2 Slugma LOT 43 2 Magcargo CES 24
 
@@ -1873,7 +1873,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Twitchy, Duraludon RCL</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Twitchy, Duraludon RCL</p>
 
 **Pokémon - 10** 2 Oranguru SUM 113 4 Duraludon RCL 138 1 Zamazenta RCL 140 3 Dhelmise GRI 59
 
@@ -1883,7 +1883,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>KingK4RP, Turtonator DRM</p>
+<p class="jb-center"><strong>4th Place</strong><br />KingK4RP, Turtonator DRM</p>
 
 **Pokémon - 9** 1 Oranguru SUM 113 4 Turtonator DRM 50 2 Poipole LOT 107 2 Naganadel LOT 108
 
@@ -1898,7 +1898,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place</strong><br>JT, Shrining Malamar</p>
+<p class="jb-center"><strong>1st Place</strong><br />JT, Shrining Malamar</p>
 
 **Pokémon - 17** 1 Shining Arceus SLG 57 1 Onix LOT 109 2 Tapu Koko PR-SM 31 2 Giratina LOT 97 4 Inkay FLI 50 1 Necrozma-GX BUS 63 1 Tapu Lele PR-SM 45 1 Tapu Lele-GX GRI 60 4 Malamar FLI 51
 
@@ -1908,7 +1908,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place</strong><br>Bunnybird12, White Kyurem</p>
+<p class="jb-center"><strong>2nd Place</strong><br />Bunnybird12, White Kyurem</p>
 
 **Pokémon - 11** 1 Arceus {\*} FLI 96 2 Pheromosa FLI 11 2 Blitzle LOT 81 2 Zebstrika LOT 82 4 White Kyurem LOT 63
 
@@ -1918,7 +1918,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place</strong><br>JimCheeseIt, Blacephalon-GX</p>
+<p class="jb-center"><strong>3rd Place</strong><br />JimCheeseIt, Blacephalon-GX</p>
 
 **Pokémon - 13** 4 Blacephalon-GX LOT 52 4 Poipole LOT 107 2 Tapu Lele-GX GRI 60 3 Naganadel LOT 108
 
@@ -1928,7 +1928,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Iskalla, Granbull</p>
+<p class="jb-center"><strong>4th Place</strong><br />Iskalla, Granbull</p>
 
 **Pokémon - 17** 1 Ditto {\*} LOT 154 2 Oranguru SUM 113 4 Snubbull LOT 137 4 Granbull LOT 138 2 Slugma LOT 43 2 Magcargo CES 24 1 Blitzle LOT 81 1 Zebstrika LOT 82
 
@@ -1943,7 +1943,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Gabagool, Tauros/Skarmory</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Gabagool, Tauros/Skarmory</p>
 
 **Pokémon - 16** 2 Pidgey TEU 121 4 Tauros DAA 134 2 Pidgeotto TEU 123 4 Galarian Zigzagoon SSH 117 4 Skarmory DAA 120
 
@@ -1953,7 +1953,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Meowththetopcat, Electrode/Bats</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Meowththetopcat, Electrode/Bats</p>
 
 **Pokémon - 17** 3 Dunsparce CES 110 2 Galarian Zigzagoon SSH 117 1 Voltorb ROS 21 3 Voltorb RCL 56 4 Electrode SLG 31 1 Zubat PHF 31 1 Zubat UNB 64 2 Golbat PHF 32
 
@@ -1963,7 +1963,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Iskalla, Tentacruelfish</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Iskalla, Tentacruelfish</p>
 
 **Pokémon - 13** 4 Seviper BUS 50 3 Qwilfish SSH 51 3 Tentacool GRI 23 3 Tentacruel GRI 24
 
@@ -1973,7 +1973,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Czan, Rapidash/Incineroar</p>
+<p class="jb-center"><strong>4th Place</strong><br />Czan, Rapidash/Incineroar</p>
 
 **Pokémon - 21** 2 Darumaka UNB 23 3 Litleo CEC 36 3 Litten SLG 15 3 Ponyta FLF 14 1 Torkoal CEC 29 2 Darmanitan BCR 28 2 Pyroar CEC 37 2 Rapidash TEU 18 1 Torracat SUM 25 2 Incineroar SLG 17
 
@@ -1984,11 +1984,11 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div></div><div class="jb-code-container">
     <div id="nov20" class="deck_box">
   <h2>Theme Pool</h2>
-  <p class="jb-deckbox-sublabel">11 November 2020, 8 Participants<br><i>Note: Since this tournament was held, Snorlax SSH 140 and Fighting Fury Belt BKP 99 have been banned in the Theme Pool format.</i></p>
+  <p class="jb-deckbox-sublabel">11 November 2020, 8 Participants<br /><i>Note: Since this tournament was held, Snorlax SSH 140 and Fighting Fury Belt BKP 99 have been banned in the Theme Pool format.</i></p>
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Twitchy, Snorlax/Welder</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Twitchy, Snorlax/Welder</p>
 
 **Pokémon - 5** 1 Oranguru SUM 113 4 Snorlax SSH 140
 
@@ -1998,7 +1998,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Bunnybird12, Eelektrik</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Bunnybird12, Eelektrik</p>
 
 **Pokémon - 13** 1 Oranguru SUM 113 4 Tynamo NVI 38 4 Zeraora UNB 60 4 Eelektrik NVI 40
 
@@ -2008,7 +2008,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Pengarde, Cramorant/Arrokuda</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Pengarde, Cramorant/Arrokuda</p>
 
 **Pokémon - 9** 1 Oranguru SUM 113 4 Arrokuda VIV 41 4 Cramorant VIV 40
 
@@ -2018,7 +2018,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place</strong><br>Iskalla, Garchomp</p>
+<p class="jb-center"><strong>4th Place</strong><br />Iskalla, Garchomp</p>
 
 **Pokémon - 18** 1 Oranguru SUM 113 4 Gible UPR 96 4 Gabite UPR 98 4 Garchomp UPR 99 2 Riolu UPR 66 1 Throh CEC 118 2 Lucario UPR 67
 
@@ -2029,11 +2029,11 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div></div><div class="jb-code-container">
     <div id="oct20" class="deck_box">
   <h2>Type Focus—Grass</h2>
-  <p class="jb-deckbox-sublabel">16 October 2020, 6 Participants<br><i>Note: Since this tournament was held, the rules of the Type Focus format have changed to state that a player must include more Pokémon of the selected type than Colorless.</i></p>
+  <p class="jb-deckbox-sublabel">16 October 2020, 6 Participants<br /><i>Note: Since this tournament was held, the rules of the Type Focus format have changed to state that a player must include more Pokémon of the selected type than Colorless.</i></p>
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Bunnybird12, Silvally-GX/Lurantis</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Bunnybird12, Silvally-GX/Lurantis</p>
 
 **Pokémon - 16** 1 Ditto {\*} LOT 154 4 Type: Null UNM 183 1 Silvally-GX UPR 116 3 Silvally-GX CEC 262 1 Eldegoss V RCL 19 3 Fomantis UNM 15 3 Lurantis PR-SM 25
 
@@ -2043,7 +2043,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Pengarde, Rillaboom VMAX</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Pengarde, Rillaboom VMAX</p>
 
 **Pokémon - 18** 4 Shaymin-EX ROS 106 1 Eldegoss V RCL 176 2 Grookey SSH 11 1 Pheromosa & Buzzwole-GX UNB 1 2 Rillaboom V RCL 17 2 Rowlet & Alolan Exeggutor-GX UNM 214 1 Thwackey SSH 12 1 Thwackey SSH 13 2 Rillaboom SSH 14 2 Rillaboom VMAX RCL 193
 
@@ -2053,7 +2053,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Iskalla, Celebi &amp; Venusaur-GX</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Iskalla, Celebi &amp; Venusaur-GX</p>
 
 **Pokémon - 8** 3 Celebi & Venusaur-GX TEU 1 4 Shaymin LOT 33 1 Shuckle-GX LOT 17
 
@@ -2063,7 +2063,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>Twitchy, Kartana</p>
+<p class="jb-center"><strong>4th Place<br /></strong>Twitchy, Kartana</p>
 
 **Pokémon - 14** 1 Dubwool V PR-SW 49 1 Kangaskhan DAA 133 1 Shaymin-EX ROS 106 3 Grookey SSH 11 4 Kartana UNB 19 1 Thwackey SSH 12 3 Rillaboom DAA 197
 
@@ -2078,7 +2078,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Pengarde, Perfection</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Pengarde, Perfection</p>
 
 **Pokémon - 19** 1 Incineroar-GX TEU 97 1 Naganadel-GX UNM 160 1 Reshiram & Charizard-GX UNB 20 1 Charizard-GX HIF 9 3 Dedenne-GX UNB 195 3 Jirachi TEU 99 1 Gengar & Mimikyu-GX TEU 53 1 Jirachi-GX UNM 79 1 Marshadow UNB 81 4 Mewtwo & Mew-GX PR-SM 191 1 Muk & Alolan Muk-GX UNB 61 1 Sigilyph-GX LOT 98
 
@@ -2088,7 +2088,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Bunnybird12, Blacephalon</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Bunnybird12, Blacephalon</p>
 
 **Pokémon - 6** 4 Blacephalon UNB 32 1 Blacephalon-GX LOT 219 1 Victini {\*} DRM 7
 
@@ -2098,7 +2098,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Twitchy, Whimsicott-GX</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Twitchy, Whimsicott-GX</p>
 
 **Pokémon - 15** 1 Hoopa UNM 140 3 Cottonee UNM 143 2 Tapu Lele LOT 150 3 Whimsicott-GX UNB 140 2 Jirachi TEU 99 2 Magearna UPR 91 1 Marshadow UNB 81 1 Oricorio-GX CEC 95
 
@@ -2108,7 +2108,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>Iskalla, Granbull</p>
+<p class="jb-center"><strong>4th Place<br /></strong>Iskalla, Granbull</p>
 
 **Pokémon - 17** 1 Ditto {\*} LOT 154 2 Oranguru SUM 113 1 Oranguru UPR 114 4 Snubbull LOT 137 4 Granbull LOT 138 2 Slugma LOT 43 2 Magcargo CES 24 1 Duskull CEC 83
 
@@ -2124,7 +2124,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Joecreed, Palossand Mill</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Joecreed, Palossand Mill</p>
 
 **Pokémon - 19** 1 Ditto {\*} LOT 154 3 Alolan Grimer UNM 127 2 Alolan Muk TEU 84 4 Jirachi TEU 99 1 Mew UNB 76 4 Sandygast RCL 81 4 Palossand RCL 82
 
@@ -2134,7 +2134,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Bunnybird12, Golurk</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Bunnybird12, Golurk</p>
 
 **Pokémon - 19** 1 Ditto {\*} LOT 154 1 Oranguru SSH 148 4 Blitzle LOT 81 4 Zebstrika LOT 82 4 Golett CEC 89 1 Mew UNB 76 4 Golurk CEC 90
 
@@ -2144,7 +2144,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Iskalla, Lapras</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Iskalla, Lapras</p>
 
 **Pokémon - 15** 1 Oranguru SSH 148 4 Jirachi TEU 99 4 Lapras TEU 31 2 Snom SSH 63 1 Tapu Fini UNM 53 1 Volcanion {\*} FLI 31 2 Frosmoth SSH 64
 
@@ -2154,7 +2154,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>ReyesMR, Galarian Obstagoon</p>
+<p class="jb-center"><strong>4th Place<br /></strong>ReyesMR, Galarian Obstagoon</p>
 
 **Pokemon - 17** 4 Galarian Zigzagoon SSH 117 2 Galarian Linoone SSH 118 4 Galarian Obstagoon SSH 119 4 Jirachi TEU 99 1 Mew UNB 76 1 Mimikyu CEC 97 1 Tyrogue UNB 100
 
@@ -2169,7 +2169,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 </div>
 </div><div class="jb-row"><div class="jb-col-3">
 
-<p class="jb-center"><strong>1st Place<br></strong>Bunnybird12, Luxio</p>
+<p class="jb-center"><strong>1st Place<br /></strong>Bunnybird12, Luxio</p>
 
 **Pokémon - 14** 1 Galarian Zigzagoon SSH 117 4 Shinx UPR 45 4 Luxio UPR 47 3 Zubat PLS 53 2 Golbat PHF 32
 
@@ -2179,7 +2179,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>2nd Place<br></strong>Joecreed, Alolan Dugtrio</p>
+<p class="jb-center"><strong>2nd Place<br /></strong>Joecreed, Alolan Dugtrio</p>
 
 **Pokémon - 14** 2 Pidgey TEU 122 2 Pidgeotto TEU 123 2 Alolan Meowth LOT 118 4 Alolan Diglett LOT 122 4 Alolan Dugtrio UPR 79
 
@@ -2189,7 +2189,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>3rd Place<br></strong>Iskalla, Vespiquen/Flareon</p>
+<p class="jb-center"><strong>3rd Place<br /></strong>Iskalla, Vespiquen/Flareon</p>
 
 **Pokémon - 27** 4 Eevee SUM 101 2 Pidgey TEU 122 2 Pidgeotto TEU 123 3 Flareon PLF 12 4 Combee AOR 9 4 Exeggcute PLF 4 4 Vespiquen AOR 10 4 Unown AOR 30
 
@@ -2199,7 +2199,7 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 </div><div class="jb-col-3">
 
-<p class="jb-center"><strong>4th Place<br></strong>JarboyP, Vespiquen/Flareon</p>
+<p class="jb-center"><strong>4th Place<br /></strong>JarboyP, Vespiquen/Flareon</p>
 
 **Pokémon - 24** 1 Eevee PLF 90 2 Eevee UPR 105 1 Eevee CEC 167 4 Flareon PLF 12 4 Combee LOT 31 4 Vespiquen AOR 10 4 Emolga TEU 46 4 Unown AOR 30
 

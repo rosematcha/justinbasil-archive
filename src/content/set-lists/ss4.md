@@ -40,7 +40,7 @@ showHeading: false
     <li><a href="https://www.serebii.net/card/legendarybeat/006.shtml" class="jlink">Yamna</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/007.shtml" class="jlink">Yanmega</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/008.shtml" class="jlink">Pineco</a> (S3a)</li>
-    <li><a href="https://www.serebii.net/card/legendarybeat/009.shtml" class="jlink">Celebi</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13">  (S3a)</li>
+    <li><a href="https://www.serebii.net/card/legendarybeat/009.shtml" class="jlink">Celebi</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13" />  (S3a)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/001.shtml" class="jlink">Seedot</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/002.shtml" class="jlink">Nuzleaf</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/003.shtml" class="jlink">Shiftry</a> (S4)</li>
@@ -81,7 +81,7 @@ showHeading: false
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/034.shtml" class="jlink">Jolteon</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/035.shtml" class="jlink">Zapdos</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/014.shtml" class="jlink">Ampharos V</a> (S3a)</li>
-    <li><a href="https://www.serebii.net/card/legendarybeat/015.shtml" class="jlink">Raikou</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13">  (S3a)</li>
+    <li><a href="https://www.serebii.net/card/legendarybeat/015.shtml" class="jlink">Raikou</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13" />  (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/016.shtml" class="jlink">Electrike</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/017.shtml" class="jlink">Manectric</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/036.shtml" class="jlink">Blitzle</a> (S4)</li>
@@ -113,7 +113,7 @@ showHeading: false
     <li><a href="https://www.serebii.net/card/legendarybeat/030.shtml" class="jlink">Diancie</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/051.shtml" class="jlink">Milcery</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/052.shtml" class="jlink">Alcremie</a> (S4)</li>
-    <li><a href="https://www.serebii.net/card/legendarybeat/033.shtml" class="jlink">Zacian</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13"> (S3a)</li>
+    <li><a href="https://www.serebii.net/card/legendarybeat/033.shtml" class="jlink">Zacian</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13" /> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/034.shtml" class="jlink">Wooper</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/035.shtml" class="jlink">Quagsire</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/036.shtml" class="jlink">Shuckle</a> (S3a)</li>
@@ -133,7 +133,7 @@ showHeading: false
     <li><a href="https://www.serebii.net/card/legendarybeat/043.shtml" class="jlink">Coalossal VMAX</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/063.shtml" class="jlink">Clobbopus</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/064.shtml" class="jlink">Grapploct</a> (S4)</li>
-    <li><a href="https://www.serebii.net/card/legendarybeat/044.shtml" class="jlink">Zamazenta</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13"> (S3a)</li>
+    <li><a href="https://www.serebii.net/card/legendarybeat/044.shtml" class="jlink">Zamazenta</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13" /> (S3a)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/066.shtml" class="jlink">Poochyena</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/067.shtml" class="jlink">Mightyena</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/068.shtml" class="jlink">Sableye</a> (S4)</li>
@@ -150,7 +150,7 @@ showHeading: false
     <li><a href="https://www.serebii.net/card/legendarybeat/047.shtml" class="jlink">Beldum</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/048.shtml" class="jlink">Metang</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/049.shtml" class="jlink">Metagross</a> (S3a)</li>
-    <li><a href="https://www.serebii.net/card/legendarybeat/050.shtml" class="jlink">Jirachi</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13"> (S3a)</li>
+    <li><a href="https://www.serebii.net/card/legendarybeat/050.shtml" class="jlink">Jirachi</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13" /> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/051.shtml" class="jlink">Lucario</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/052.shtml" class="jlink">Dialga</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/077.shtml" class="jlink">Excadrill</a> (S4)</li>
@@ -169,7 +169,7 @@ showHeading: false
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/087.shtml" class="jlink">Whismur</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/088.shtml" class="jlink">Loudred</a> (S4)</li>
     <li><a href="https://www.serebii.net/card/astonishingvolttackle/089.shtml" class="jlink">Exploud</a> (S4)</li>
-    <li><a href="https://www.serebii.net/card/legendarybeat/056.shtml" class="jlink">Rayquaza</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13"> (S3a)</li>
+    <li><a href="https://www.serebii.net/card/legendarybeat/056.shtml" class="jlink">Rayquaza</a>  <img src="/s/ar.png" loading="lazy" width="13" height="13" /> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/057.shtml" class="jlink">Chatot</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/058.shtml" class="jlink">Togekiss V</a> (S3a)</li>
     <li><a href="https://www.serebii.net/card/legendarybeat/059.shtml" class="jlink">Togekiss VMAX</a> (S3a)</li>

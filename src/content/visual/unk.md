@@ -10,9 +10,9 @@ showHeading: false
   <div>
     <h1 class="jb-white-center-margin0">Unaffiliated Cards</h1>
     <h1 class="jb-cta-title">Visual Set List</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">How we are getting the cards below is not yet known. These cards may appear in a future set or as promo cards.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/translations/unk">Card Translations</a> | 
           <a href="/visual/unk">Visual Set List</a> 
@@ -38,17 +38,17 @@ showHeading: false
 </p>
 </div><div class="jb-code-container">
     <span id="G" class="symb">G</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-5.webp"><img src="/images/005136-5.webp" alt="005136_5.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-5.webp"><img src="/images/005136-5.webp" alt="005136_5.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
     <span id="R" class="symb">R</span>
 </div><div class="jb-code-container">
     <span id="W" class="symb">W</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-2.webp"><img src="/images/005136-2.webp" alt="005136_2.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-2.webp"><img src="/images/005136-2.webp" alt="005136_2.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
     <span id="L" class="symb">L</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/004799-2.webp"><img src="/images/004799-2.webp" alt="004799_2.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/004799-2.webp"><img src="/images/004799-2.webp" alt="004799_2.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
     <span id="P" class="symb">P</span>
 </div><div class="jb-code-container">
     <span id="F" class="symb">F</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-6.webp"><img src="/images/005136-6.webp" alt="005136_6.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-6.webp"><img src="/images/005136-6.webp" alt="005136_6.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
     <span id="D" class="symb">D</span>
 </div><div class="jb-code-container">
     <span id="M" class="symb">M</span>
@@ -56,7 +56,7 @@ showHeading: false
     <span id="N" class="symb">N</span>
 </div><div class="jb-code-container">
     <span id="C" class="symb">C</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/team-rocket-s-kangaskhan-ex.webp"><img src="/images/team-rocket-s-kangaskhan-ex.webp" alt="Team Rocket's Kangaskhan ex.jpg" loading="lazy"></a></figure></div><div class="jb-code-container">
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/team-rocket-s-kangaskhan-ex.webp"><img src="/images/team-rocket-s-kangaskhan-ex.webp" alt="Team Rocket's Kangaskhan ex.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
     <span id="Trainers" class="jb-bold">Trainers</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-3.webp"><img src="/images/005136-3.webp" alt="005136_3.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/004799-3.webp"><img src="/images/004799-3.webp" alt="004799_3.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/team-rocket-s-hypnosis-device.webp"><img src="/images/team-rocket-s-hypnosis-device.webp" alt="Team Rocket's Hypnosis Device.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-3.webp"><img src="/images/005136-3.webp" alt="005136_3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/004799-3.webp"><img src="/images/004799-3.webp" alt="004799_3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/team-rocket-s-hypnosis-device.webp"><img src="/images/team-rocket-s-hypnosis-device.webp" alt="Team Rocket's Hypnosis Device.jpg" loading="lazy" /></a></figure></div>
 

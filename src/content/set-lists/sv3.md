@@ -8,11 +8,11 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" loading="lazy" class="jb-deck-thumb" />
     <h1 class="jb-cta-title">Set List</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv3">Prospective Set List</a>  | 
           <a class="blink" href="/translations/sv3">Card Translations</a> |

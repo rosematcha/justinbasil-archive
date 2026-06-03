@@ -8,12 +8,12 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
   <div>
-    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center">
+    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb" />
+    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center" />
     <h1 class="jb-cta-title">New Archetypes from Brilliant Stars</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/ss9">Set List</a> | 
           <a class="blink" href="/visual/ss9">Visual Set List</a> | 
@@ -850,206 +850,206 @@ Use Arceus V’s Trinity Charge attack to power up the deck’s partner of choic
   <button class="arceus_tabs">Charizard</button>
 </div>
 <div id="Dark_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 16</strong><br>
-4 Arceus V BRS 122<br>
-3 Arceus VSTAR BRS 123<br>
-2 Crobat V DAA 104<br>
-2 Galarian Moltres V CRE 97<br>
-1 Eldegoss V RCL 19<br>
-1 Galarian Moltres EVS 93<br>
-1 Hoopa DAA 111<br>
-1 Hoopa V FST 253<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 16</strong><br />
+4 Arceus V BRS 122<br />
+3 Arceus VSTAR BRS 123<br />
+2 Crobat V DAA 104<br />
+2 Galarian Moltres V CRE 97<br />
+1 Eldegoss V RCL 19<br />
+1 Galarian Moltres EVS 93<br />
+1 Hoopa DAA 111<br />
+1 Hoopa V FST 253<br />
 1 Lumineon V BRS 40</p>
-<p><strong>Trainer Cards - 32</strong><br>
-4 Professor's Research CEL 23<br>
-3 Boss's Orders RCL 154<br>
-3 Marnie CPA 56<br>
-1 Adventurer's Discovery FST 224<br>
-1 Bird Keeper DAA 159<br>
-1 Cheren's Care BRS 134<br>
-4 Quick Ball FST 237<br>
-3 Energy Switch SSH 162<br>
-3 Ultra Ball BRS 150<br>
-2 Air Balloon SSH 156<br>
-2 Choice Belt BRS 135<br>
-1 Escape Rope BST 125<br>
-1 Fan of Waves BST 127<br>
-2 Collapsed Stadium BRS 137<br>
+<p><strong>Trainer Cards - 32</strong><br />
+4 Professor's Research CEL 23<br />
+3 Boss's Orders RCL 154<br />
+3 Marnie CPA 56<br />
+1 Adventurer's Discovery FST 224<br />
+1 Bird Keeper DAA 159<br />
+1 Cheren's Care BRS 134<br />
+4 Quick Ball FST 237<br />
+3 Energy Switch SSH 162<br />
+3 Ultra Ball BRS 150<br />
+2 Air Balloon SSH 156<br />
+2 Choice Belt BRS 135<br />
+1 Escape Rope BST 125<br />
+1 Fan of Waves BST 127<br />
+2 Collapsed Stadium BRS 137<br />
 1 Training Court RCL 169</p>
-<p><strong>Energy - 12</strong><br>
-8 Darkness Energy SWSHEnergy 7<br>
+<p><strong>Energy - 12</strong><br />
+8 Darkness Energy SWSHEnergy 7<br />
 4 Double Turbo Energy BRS 151</p>
 </div>
 <div id="Water_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 21</strong><br>
-4 Sobble CRE 41<br>
-4 Drizzile SSH 56<br>
-2 Inteleon CRE 43<br>
-1 Inteleon SSH 58<br>
-3 Arceus V BRS 122<br>
-2 Arceus VSTAR BRS 123<br>
-2 Ice Rider Calyrex V CRE 45<br>
-2 Ice Rider Calyrex VMAX CRE 46<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 21</strong><br />
+4 Sobble CRE 41<br />
+4 Drizzile SSH 56<br />
+2 Inteleon CRE 43<br />
+1 Inteleon SSH 58<br />
+3 Arceus V BRS 122<br />
+2 Arceus VSTAR BRS 123<br />
+2 Ice Rider Calyrex V CRE 45<br />
+2 Ice Rider Calyrex VMAX CRE 46<br />
 1 Lumineon V BRS 40</p>
-<p><strong>Trainer Cards - 29 </strong><br>
-3 Melony CRE 146<br>
-2 Boss's Orders RCL 154<br>
-2 Marnie CPA 56<br>
-2 Professor's Research CEL 23<br>
-1 Raihan EVS 152<br>
-4 Quick Ball FST 237<br>
-3 Level Ball BST 129<br>
-2 Choice Belt BRS 135<br>
-2 Evolution Incense SSH 163<br>
-2 Ultra Ball BRS 150<br>
-1 Air Balloon SSH 156<br>
-1 Capacious Bucket RCL 156<br>
-1 Escape Rope BST 125<br>
-1 Scoop Up Net RCL 165<br>
+<p><strong>Trainer Cards - 29 </strong><br />
+3 Melony CRE 146<br />
+2 Boss's Orders RCL 154<br />
+2 Marnie CPA 56<br />
+2 Professor's Research CEL 23<br />
+1 Raihan EVS 152<br />
+4 Quick Ball FST 237<br />
+3 Level Ball BST 129<br />
+2 Choice Belt BRS 135<br />
+2 Evolution Incense SSH 163<br />
+2 Ultra Ball BRS 150<br />
+1 Air Balloon SSH 156<br />
+1 Capacious Bucket RCL 156<br />
+1 Escape Rope BST 125<br />
+1 Scoop Up Net RCL 165<br />
 2 Path to the Peak CRE 148</p>
-<p><strong>Energy - 10</strong><br>
-8 Water Energy SWSHEnergy 3<br>
+<p><strong>Energy - 10</strong><br />
+8 Water Energy SWSHEnergy 3<br />
 2 Double Turbo Energy BRS 151</p>
 </div>
 <div id="Cha_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 16</strong><br>
-4 Arceus V BRS 122<br>
-3 Arceus VSTAR BRS 123<br>
-3 Charizard V BRS 17<br>
-3 Charizard VSTAR BRS 18<br>
-1 Crobat V DAA 104<br>
-1 Lumineon V BRS 40<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 16</strong><br />
+4 Arceus V BRS 122<br />
+3 Arceus VSTAR BRS 123<br />
+3 Charizard V BRS 17<br />
+3 Charizard VSTAR BRS 18<br />
+1 Crobat V DAA 104<br />
+1 Lumineon V BRS 40<br />
 1 Moltres BRS 21</p>
-<p><strong>Trainer Cards - 31</strong><br>
-3 Boss's Orders RCL 154<br>
-3 Marnie CPA 56<br>
-3 Professor's Research CEL 23<br>
-2 Adventurer's Discovery FST 224<br>
-1 Raihan EVS 152<br>
-4 Quick Ball FST 237<br>
-4 Ultra Ball BRS 150<br>
-3 Choice Belt BRS 135<br>
-2 Air Balloon SSH 156<br>
-2 Switch SSH 183<br>
+<p><strong>Trainer Cards - 31</strong><br />
+3 Boss's Orders RCL 154<br />
+3 Marnie CPA 56<br />
+3 Professor's Research CEL 23<br />
+2 Adventurer's Discovery FST 224<br />
+1 Raihan EVS 152<br />
+4 Quick Ball FST 237<br />
+4 Ultra Ball BRS 150<br />
+3 Choice Belt BRS 135<br />
+2 Air Balloon SSH 156<br />
+2 Switch SSH 183<br />
 4 Magma Basin BRS 144</p>
-<p><strong>Energy - 13</strong><br>
-10 Fire Energy SWSHEnergy 2<br>
+<p><strong>Energy - 13</strong><br />
+10 Fire Energy SWSHEnergy 2<br />
 3 Double Turbo Energy BRS 151</p>
 </div>
 <div id="Psychic_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 15</strong><br>
-4 Shadow Rider Calyrex V CRE 74<br>
-4 Shadow Rider Calyrex VMAX CRE 75<br>
-3 Arceus V BRS 122<br>
-2 Arceus VSTAR BRS 123<br>
-1 Crobat V DAA 104<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 15</strong><br />
+4 Shadow Rider Calyrex V CRE 74<br />
+4 Shadow Rider Calyrex VMAX CRE 75<br />
+3 Arceus V BRS 122<br />
+2 Arceus VSTAR BRS 123<br />
+1 Crobat V DAA 104<br />
 1 Lumineon V BRS 40</p>
-<p><strong>Trainer Cards - 30</strong><br>
-4 Professor's Research CEL 23<br>
-3 Boss's Orders RCL 154<br>
-3 Marnie CPA 56<br>
-1 Adventurer's Discovery FST 224<br>
-4 Fog Crystal CRE 140<br>
-4 Quick Ball FST 237<br>
-3 Ultra Ball BRS 150<br>
-2 Air Balloon SSH 156<br>
-1 Choice Belt BRS 135<br>
-1 Escape Rope BST 125<br>
-1 Switch SSH 183<br>
+<p><strong>Trainer Cards - 30</strong><br />
+4 Professor's Research CEL 23<br />
+3 Boss's Orders RCL 154<br />
+3 Marnie CPA 56<br />
+1 Adventurer's Discovery FST 224<br />
+4 Fog Crystal CRE 140<br />
+4 Quick Ball FST 237<br />
+3 Ultra Ball BRS 150<br />
+2 Air Balloon SSH 156<br />
+1 Choice Belt BRS 135<br />
+1 Escape Rope BST 125<br />
+1 Switch SSH 183<br />
 3 Training Court RCL 169</p>
-<p><strong>Energy - 15</strong><br>
-13 Psychic Energy SWSHEnergy 5<br>
+<p><strong>Energy - 15</strong><br />
+13 Psychic Energy SWSHEnergy 5<br />
 2 Double Turbo Energy BRS 151</p>
 </div>
 <div id="Rainbow_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 17</strong><br>
-3 Arceus V BRS 122<br>
-2 Arceus VSTAR BRS 123<br>
-2 Galarian Moltres V CRE 97<br>
-2 Galarian Zapdos V CRE 80<br>
-2 Suicune V EVS 31<br>
-1 Crobat V DAA 104<br>
-1 Ditto V SHF 50<br>
-1 Hoopa V FST 253<br>
-1 Lumineon V BRS 40<br>
-1 Tsareena V FST 21<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 17</strong><br />
+3 Arceus V BRS 122<br />
+2 Arceus VSTAR BRS 123<br />
+2 Galarian Moltres V CRE 97<br />
+2 Galarian Zapdos V CRE 80<br />
+2 Suicune V EVS 31<br />
+1 Crobat V DAA 104<br />
+1 Ditto V SHF 50<br />
+1 Hoopa V FST 253<br />
+1 Lumineon V BRS 40<br />
+1 Tsareena V FST 21<br />
 1 Zamazenta V SSH 139</p>
-<p><strong>Trainer Cards - 30</strong><br>
-3 Boss's Orders RCL 154<br>
-3 Professor's Research CEL 23<br>
-2 Marnie CPA 56<br>
-2 Raihan EVS 152<br>
-4 Quick Ball FST 237<br>
-4 Ultra Ball BRS 150<br>
-3 Switch SSH 183<br>
-2 Air Balloon SSH 156<br>
-2 Choice Belt BRS 135<br>
-2 Energy Switch SSH 162<br>
-2 Training Court RCL 169<br>
+<p><strong>Trainer Cards - 30</strong><br />
+3 Boss's Orders RCL 154<br />
+3 Professor's Research CEL 23<br />
+2 Marnie CPA 56<br />
+2 Raihan EVS 152<br />
+4 Quick Ball FST 237<br />
+4 Ultra Ball BRS 150<br />
+3 Switch SSH 183<br />
+2 Air Balloon SSH 156<br />
+2 Choice Belt BRS 135<br />
+2 Energy Switch SSH 162<br />
+2 Training Court RCL 169<br />
 1 Collapsed Stadium BRS 137</p>
-<p><strong>Energy - 13</strong><br>
-5 Darkness Energy SWSHEnergy 7<br>
-4 Aurora Energy SSH 186<br>
-2 Double Turbo Energy BRS 151<br>
-1 Fighting Energy SWSHEnergy 6<br>
+<p><strong>Energy - 13</strong><br />
+5 Darkness Energy SWSHEnergy 7<br />
+4 Aurora Energy SSH 186<br />
+2 Double Turbo Energy BRS 151<br />
+1 Fighting Energy SWSHEnergy 6<br />
 1 Metal Energy SWSHEnergy 8</p>
 </div>
 <div id="Dragon_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 13</strong><br>
-4 Arceus V BRS 122<br>
-3 Arceus VSTAR BRS 123<br>
-3 Duraludon V CPA 47<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 13</strong><br />
+4 Arceus V BRS 122<br />
+3 Arceus VSTAR BRS 123<br />
+3 Duraludon V CPA 47<br />
 3 Duraludon VMAX EVS 123</p>
-<p><strong>Trainer Cards - 33</strong><br>
-4 Professor's Research CEL 23<br>
-3 Boss's Orders RCL 154<br>
-3 Marnie CPA 56<br>
-1 Single Strike Style Mustard BST 134<br>
-4 Quick Ball FST 237<br>
-4 Ultra Ball BRS 150<br>
-3 Switch SSH 183<br>
-2 Big Charm SSH 158<br>
-2 Hyper Potion CPA 54<br>
-2 Pokégear 3.0 SSH 174<br>
-1 Tool Scrapper RCL 168<br>
+<p><strong>Trainer Cards - 33</strong><br />
+4 Professor's Research CEL 23<br />
+3 Boss's Orders RCL 154<br />
+3 Marnie CPA 56<br />
+1 Single Strike Style Mustard BST 134<br />
+4 Quick Ball FST 237<br />
+4 Ultra Ball BRS 150<br />
+3 Switch SSH 183<br />
+2 Big Charm SSH 158<br />
+2 Hyper Potion CPA 54<br />
+2 Pokégear 3.0 SSH 174<br />
+1 Tool Scrapper RCL 168<br />
 4 Crystal Cave EVS 144</p>
-<p><strong>Energy - 14</strong><br>
-7 Metal Energy SWSHEnergy 8<br>
-4 Fighting Energy SWSHEnergy 6<br>
+<p><strong>Energy - 14</strong><br />
+7 Metal Energy SWSHEnergy 8<br />
+4 Fighting Energy SWSHEnergy 6<br />
 3 Double Turbo Energy BRS 151</p>
 </div>
 <div id="Ray_Arceus" class="arceus_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 19</strong><br>
-3 Arceus V BRS 122<br>
-2 Arceus VSTAR BRS 123<br>
-3 Mareep CRE 47<br>
-3 Flaaffy EVS 55<br>
-3 Rayquaza V EVS 110<br>
-3 Rayquaza VMAX EVS 111<br>
-1 Crobat V DAA 104<br>
-1 Lumineon V BRS 40<br>
-</p><p><strong>Trainer Cards - 28</strong><br>
-4 Professor's Research CEL 23<br>
-2 Boss's Orders RCL 154<br>
-2 Marnie CPA 56<br>
-1 Rose DAA 168<br>
-4 Quick Ball FST 237<br>
-4 Ultra Ball BRS 150<br>
-3 Switch SSH 183<br>
-2 Air Balloon SSH 156<br>
-2 Ordinary Rod SSH 171<br>
-1 Choice Belt BRS 135<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 19</strong><br />
+3 Arceus V BRS 122<br />
+2 Arceus VSTAR BRS 123<br />
+3 Mareep CRE 47<br />
+3 Flaaffy EVS 55<br />
+3 Rayquaza V EVS 110<br />
+3 Rayquaza VMAX EVS 111<br />
+1 Crobat V DAA 104<br />
+1 Lumineon V BRS 40<br />
+</p><p><strong>Trainer Cards - 28</strong><br />
+4 Professor's Research CEL 23<br />
+2 Boss's Orders RCL 154<br />
+2 Marnie CPA 56<br />
+1 Rose DAA 168<br />
+4 Quick Ball FST 237<br />
+4 Ultra Ball BRS 150<br />
+3 Switch SSH 183<br />
+2 Air Balloon SSH 156<br />
+2 Ordinary Rod SSH 171<br />
+1 Choice Belt BRS 135<br />
 3 Stormy Mountains EVS 161</p>
-<p><strong>Energy - 13</strong><br>
-8 Lightning Energy SWSHEnergy 4<br>
-3 Fire Energy SWSHEnergy 2<br>
+<p><strong>Energy - 13</strong><br />
+8 Lightning Energy SWSHEnergy 4<br />
+3 Fire Energy SWSHEnergy 2<br />
 2 Double Turbo Energy BRS 151</p>
 </div>
 </div>

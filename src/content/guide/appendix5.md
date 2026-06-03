@@ -74,11 +74,11 @@ These are other cards that are included in the Evolution Pack that simply don’
 
 ## Primary Pokémon Type
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ethan-s-cyndaquil.webp"><img src="/images/ethan-s-cyndaquil.webp" alt="4 Ethan's Cyndaquil DRI 32" loading="lazy"></a><figcaption>4 Ethan's Cyndaquil DRI 32</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-quilava.webp"><img src="/images/ethan-s-quilava.webp" alt="2 Quilava DRI 33" loading="lazy"></a><figcaption>2 Quilava DRI 33</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv10-en-34.webp"><img src="/images/sv10-en-34.webp" alt="1 Ethan's Typhlosion (Cosmos)" loading="lazy"></a><figcaption>1 Ethan's Typhlosion (Cosmos)</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-typhlosion-0c7ae9.webp"><img src="/images/ethan-s-typhlosion-0c7ae9.webp" alt="2 Ethan's Typhlosion DRI 34" loading="lazy"></a><figcaption>2 Ethan's Typhlosion DRI 34</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ethan-s-cyndaquil.webp"><img src="/images/ethan-s-cyndaquil.webp" alt="4 Ethan's Cyndaquil DRI 32" loading="lazy" /></a><figcaption>4 Ethan's Cyndaquil DRI 32</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-quilava.webp"><img src="/images/ethan-s-quilava.webp" alt="2 Quilava DRI 33" loading="lazy" /></a><figcaption>2 Quilava DRI 33</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv10-en-34.webp"><img src="/images/sv10-en-34.webp" alt="1 Ethan's Typhlosion (Cosmos)" loading="lazy" /></a><figcaption>1 Ethan's Typhlosion (Cosmos)</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-typhlosion-0c7ae9.webp"><img src="/images/ethan-s-typhlosion-0c7ae9.webp" alt="2 Ethan's Typhlosion DRI 34" loading="lazy" /></a><figcaption>2 Ethan's Typhlosion DRI 34</figcaption></figure></div>
 
 ## Secondary Type
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/misty-s-staryu-8814af.webp"><img src="/images/misty-s-staryu-8814af.webp" alt="3 Misty's Staryu DRI 46" loading="lazy"></a><figcaption>3 Misty's Staryu DRI 46</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-starmie-6269ff.webp"><img src="/images/misty-s-starmie-6269ff.webp" alt="2 Misty's Starmie DRI 47" loading="lazy"></a><figcaption>2 Misty's Starmie DRI 47</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-magikarp.webp"><img src="/images/misty-s-magikarp.webp" alt="1 Misty's Magikarp DRI 48" loading="lazy"></a><figcaption>1 Misty's Magikarp DRI 48</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-gyarados.webp"><img src="/images/misty-s-gyarados.webp" alt="1 Misty's Gyarados DRI 49" loading="lazy"></a><figcaption>1 Misty's Gyarados DRI 49</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-lapras.webp"><img src="/images/misty-s-lapras.webp" alt="1 Misty's Lapras DRI 50" loading="lazy"></a><figcaption>1 Misty's Lapras DRI 50</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/misty-s-staryu-8814af.webp"><img src="/images/misty-s-staryu-8814af.webp" alt="3 Misty's Staryu DRI 46" loading="lazy" /></a><figcaption>3 Misty's Staryu DRI 46</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-starmie-6269ff.webp"><img src="/images/misty-s-starmie-6269ff.webp" alt="2 Misty's Starmie DRI 47" loading="lazy" /></a><figcaption>2 Misty's Starmie DRI 47</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-magikarp.webp"><img src="/images/misty-s-magikarp.webp" alt="1 Misty's Magikarp DRI 48" loading="lazy" /></a><figcaption>1 Misty's Magikarp DRI 48</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-gyarados.webp"><img src="/images/misty-s-gyarados.webp" alt="1 Misty's Gyarados DRI 49" loading="lazy" /></a><figcaption>1 Misty's Gyarados DRI 49</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-lapras.webp"><img src="/images/misty-s-lapras.webp" alt="1 Misty's Lapras DRI 50" loading="lazy" /></a><figcaption>1 Misty's Lapras DRI 50</figcaption></figure></div>
 
 ## Other Pokémon
 
@@ -86,19 +86,19 @@ No cards from this category are included in this Build & Battle deck.
 
 ## Pokémon Search
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><img src="/images/ethan-s-adventure.webp" alt="2 Ethan's Adventure" loading="lazy"><figcaption>2 Ethan's Adventure</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/sv09-en-146-2x.webp" alt="1 Brock's Scouting" loading="lazy"><figcaption>1 Brock's Scouting</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/tef-144-r-en-e723e4.webp" alt="1 Buddy-Buddy Poffin" loading="lazy"><figcaption>1 Buddy-Buddy Poffin</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/svi-181-r-en-lg-c468f0.webp" alt="1 Nest Ball" loading="lazy"><figcaption>1 Nest Ball</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/pal-183-r-en-ec29ed.webp" alt="1 Great Ball" loading="lazy"><figcaption>1 Great Ball</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><img src="/images/ethan-s-adventure.webp" alt="2 Ethan's Adventure" loading="lazy" /><figcaption>2 Ethan's Adventure</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/sv09-en-146-2x.webp" alt="1 Brock's Scouting" loading="lazy" /><figcaption>1 Brock's Scouting</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/tef-144-r-en-e723e4.webp" alt="1 Buddy-Buddy Poffin" loading="lazy" /><figcaption>1 Buddy-Buddy Poffin</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/svi-181-r-en-lg-c468f0.webp" alt="1 Nest Ball" loading="lazy" /><figcaption>1 Nest Ball</figcaption></figure><figure class="jb-gallery-slide"><img src="/images/pal-183-r-en-ec29ed.webp" alt="1 Great Ball" loading="lazy" /><figcaption>1 Great Ball</figcaption></figure></div>
 
 ## Draw Cards
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv09-en-155-2x.webp"><img src="/images/sv09-en-155-2x.webp" alt="1 Professor's Research" loading="lazy"></a><figcaption>1 Professor's Research</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv08-en-187-2x.webp"><img src="/images/sv08-en-187-2x.webp" alt="1 Surfer" loading="lazy"></a><figcaption>1 Surfer</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv09-en-155-2x.webp"><img src="/images/sv09-en-155-2x.webp" alt="1 Professor's Research" loading="lazy" /></a><figcaption>1 Professor's Research</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv08-en-187-2x.webp"><img src="/images/sv08-en-187-2x.webp" alt="1 Surfer" loading="lazy" /></a><figcaption>1 Surfer</figcaption></figure></div>
 
 ## Energy
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sve-010-r-en-lg.webp"><img src="/images/sve-010-r-en-lg.webp" alt="6 Basic Fire Energy" loading="lazy"></a><figcaption>6 Basic Fire Energy</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sve-011-r-en-lg.webp"><img src="/images/sve-011-r-en-lg.webp" alt="7 Basic Water Energy" loading="lazy"></a><figcaption>7 Basic Water Energy</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sve-010-r-en-lg.webp"><img src="/images/sve-010-r-en-lg.webp" alt="6 Basic Fire Energy" loading="lazy" /></a><figcaption>6 Basic Fire Energy</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sve-011-r-en-lg.webp"><img src="/images/sve-011-r-en-lg.webp" alt="7 Basic Water Energy" loading="lazy" /></a><figcaption>7 Basic Water Energy</figcaption></figure></div>
 
 ## Misc.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pal-188-r-en-587684.webp"><img src="/images/pal-188-r-en-587684.webp" alt="1 Super Rod" loading="lazy"></a><figcaption>1 Super Rod</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/svi-191-r-en-lg-bc2e32.webp"><img src="/images/svi-191-r-en-lg-bc2e32.webp" alt="1 Rare Candy " loading="lazy"></a><figcaption>1 Rare Candy</figcaption></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pal-188-r-en-587684.webp"><img src="/images/pal-188-r-en-587684.webp" alt="1 Super Rod" loading="lazy" /></a><figcaption>1 Super Rod</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/svi-191-r-en-lg-bc2e32.webp"><img src="/images/svi-191-r-en-lg-bc2e32.webp" alt="1 Rare Candy " loading="lazy" /></a><figcaption>1 Rare Candy</figcaption></figure></div>
 
 As you open the four booster packs that are included in your Build & Battle Box, continue to use these same categories to sort the cards, sorting each Pokémon type into its own pile. From there, you’ll have four options for how to continue with the construction of your deck.
 
@@ -230,12 +230,12 @@ Additionally, each preconstructed deck contains cards from two of the Pokémon G
   </tr>
   <tr>
     <td>
-    	4 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_23848">Ethan's Cyndaquil DRI 32</a><br>
-    	2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_25603">Ethan's Quilava DRI 33</a><br>
-    	2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_27350">Ethan's Typhlosion DRI 34</a><br>
-    	2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_256157">Ethan's Adventure</a><br>
-    	1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/191">Rare Candy</a><br>
-    	1 <a class="jlink" href="https://limitlesstcg.com/cards/JTG/155">Professor's Research</a><br>
+    	4 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_23848">Ethan's Cyndaquil DRI 32</a><br />
+    	2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_25603">Ethan's Quilava DRI 33</a><br />
+    	2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_27350">Ethan's Typhlosion DRI 34</a><br />
+    	2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_256157">Ethan's Adventure</a><br />
+    	1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/191">Rare Candy</a><br />
+    	1 <a class="jlink" href="https://limitlesstcg.com/cards/JTG/155">Professor's Research</a><br />
   </td></tr>
 </tbody></table>
 </div></div><div class="jb-col-3"><div class="jb-code-container">
@@ -245,16 +245,16 @@ Additionally, each preconstructed deck contains cards from two of the Pokémon G
   </tr>
   <tr>
     <td>
-      3 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1740824254920_65027">Misty's Staryu DRI 46</a><br>
-      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1740824254920_83610">Misty's Starmie DRI 47</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_158803">Misty's Magikarp DRI 48</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_161080">Misty's Gyarados DRI 49</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1741316236124_199507">Misty's Lapras DRI 50</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/JTG/146">Brock's Scouting</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/SSP/187">Surfer</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/PAL/183">Great Ball</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/181">Nest Ball</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/PAL/188">Super Rod</a><br>
+      3 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1740824254920_65027">Misty's Staryu DRI 46</a><br />
+      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1740824254920_83610">Misty's Starmie DRI 47</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_158803">Misty's Magikarp DRI 48</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1738908192429_161080">Misty's Gyarados DRI 49</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1741316236124_199507">Misty's Lapras DRI 50</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/JTG/146">Brock's Scouting</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/SSP/187">Surfer</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/PAL/183">Great Ball</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/181">Nest Ball</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/PAL/188">Super Rod</a><br />
   </td></tr>
 </tbody></table>
 </div></div><div class="jb-col-3"><div class="jb-code-container">
@@ -264,14 +264,14 @@ Additionally, each preconstructed deck contains cards from two of the Pokémon G
   </tr>
   <tr>
     <td>
-      4 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_1262897">Team Rocket's Koffing DRI 125</a><br>
-      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_1273516">Team Rocket's Weezing DRI 126</a><br>
-      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744336774020_4103886">Team Rocket's Murkrow DRI 127</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1742536745787_526817">Team Rocket's Archer</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_2366493">Team Rocket's Proton</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/194">Switch</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/196">Ultra Ball</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1742536745787_762343">Team Rocket's Energy</a><br>
+      4 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_1262897">Team Rocket's Koffing DRI 125</a><br />
+      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_1273516">Team Rocket's Weezing DRI 126</a><br />
+      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744336774020_4103886">Team Rocket's Murkrow DRI 127</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1742536745787_526817">Team Rocket's Archer</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_2366493">Team Rocket's Proton</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/194">Switch</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/196">Ultra Ball</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1742536745787_762343">Team Rocket's Energy</a><br />
   </td></tr>
 </tbody></table>
 </div></div><div class="jb-col-3"><div class="jb-code-container">
@@ -281,13 +281,13 @@ Additionally, each preconstructed deck contains cards from two of the Pokémon G
   </tr>
   <tr>
     <td>
-      4 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744021732099_141218">Team Rocket's Larvitar DRI 94</a><br>
-      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744021732099_181962">Team Rocket's Pupitar DRI 95</a><br>
-      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744021732099_193459">Team Rocket's Tyranitar DRI 96</a><br>
-      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_2095044">Team Rocket's Great Ball</a><br>
-      1 <a class="jlink" href="https://limitlesstcg.com/cards/PRE/114">Lacey</a><br>
-      0-1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/191">Rare Candy</a><br>
-      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1742536745787_762343">Team Rocket's Energy</a><br>
+      4 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744021732099_141218">Team Rocket's Larvitar DRI 94</a><br />
+      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744021732099_181962">Team Rocket's Pupitar DRI 95</a><br />
+      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1744021732099_193459">Team Rocket's Tyranitar DRI 96</a><br />
+      1 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1743929347340_2095044">Team Rocket's Great Ball</a><br />
+      1 <a class="jlink" href="https://limitlesstcg.com/cards/PRE/114">Lacey</a><br />
+      0-1 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/191">Rare Candy</a><br />
+      2 <a class="jlink" href="/translations/sv10#block-yui_3_17_2_1_1742536745787_762343">Team Rocket's Energy</a><br />
   </td></tr>
 </tbody></table>
 </div></div></div>
@@ -301,8 +301,8 @@ In addition to the promo card and the cards from the two Pokémon groups, each k
   </tr>
   <tr>
     <td>
-      0-2 <a class="jlink" href="https://limitlesstcg.com/cards/TEF/144">Buddy-Buddy Poffin</a><br>
-      0-2 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/198">Youngster</a><br>
+      0-2 <a class="jlink" href="https://limitlesstcg.com/cards/TEF/144">Buddy-Buddy Poffin</a><br />
+      0-2 <a class="jlink" href="https://limitlesstcg.com/cards/SVI/198">Youngster</a><br />
    </td></tr>
 </tbody></table>
 </div>

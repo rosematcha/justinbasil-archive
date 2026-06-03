@@ -24,189 +24,189 @@ Below is the full list of cards in the set Battle Styles, with the rotation stat
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-</tr><tr><td>1/163</td><td>Bellsprout</td><td>Rotated<br></td></tr>
-<tr><td>2/163</td><td>Weepinbell</td><td>Rotated<br></td></tr>
-<tr><td>3/163</td><td>Victreebel</td><td>Rotated<br></td></tr>
-<tr><td>4/163</td><td>Cacnea</td><td>Rotated<br></td></tr>
-<tr><td>5/163</td><td>Cacturne</td><td>Rotated<br></td></tr>
-<tr><td>6/163</td><td>Kricketune V</td><td>Rotated<br></td></tr>
-<tr><td>7/163</td><td>Cherubi</td><td>Rotated<br></td></tr>
-<tr><td>8/163</td><td>Cherrim</td><td>Rotated<br></td></tr>
-<tr><td>9/163</td><td>Carnivine</td><td>Rotated<br></td></tr>
-<tr><td>10/163</td><td>Durant</td><td>Rotated<br></td></tr>
-<tr><td>11/163</td><td>Scatterbug</td><td>Rotated<br></td></tr>
-<tr><td>12/163</td><td>Spewpa</td><td>Rotated<br></td></tr>
-<tr><td>13/163</td><td>Vivillon</td><td>Rotated<br></td></tr>
-<tr><td>14/163</td><td>Fomantis</td><td>Rotated<br></td></tr>
-<tr><td>15/163</td><td>Lurantis</td><td>Rotated<br></td></tr>
-<tr><td>16/163</td><td>Tapu Bulu</td><td>Rotated<br></td></tr>
-<tr><td>17/163</td><td>Blipbug</td><td>Rotated<br></td></tr>
-<tr><td>18/163</td><td>Flapple V</td><td>Rotated<br></td></tr>
-<tr><td>19/163</td><td>Flapple VMAX</td><td>Rotated<br></td></tr>
-<tr><td>20/163</td><td>Entei</td><td>Rotated<br></td></tr>
-<tr><td>21/163</td><td>Victini V</td><td>Rotated<br></td></tr>
-<tr><td>22/163</td><td>Victini VMAX</td><td>Rotated<br></td></tr>
-<tr><td>23/163</td><td>Tepig</td><td>Rotated<br></td></tr>
-<tr><td>24/163</td><td>Pignite</td><td>Rotated<br></td></tr>
-<tr><td>25/163</td><td>Emboar</td><td>Rotated<br></td></tr>
-<tr><td>26/163</td><td>Heatmor</td><td>Rotated<br></td></tr>
-<tr><td>27/163</td><td>Salandit</td><td>Rotated<br></td></tr>
-<tr><td>28/163</td><td>Salazzle</td><td>Rotated<br></td></tr>
-<tr><td>29/163</td><td>Sizzlipede</td><td>Rotated<br></td></tr>
-<tr><td>30/163</td><td>Centiskorch</td><td>Rotated<br></td></tr>
-<tr><td>31/163</td><td>Horsea</td><td>Rotated<br></td></tr>
-<tr><td>32/163</td><td>Seadra</td><td>Rotated<br></td></tr>
-<tr><td>33/163</td><td>Kingdra</td><td>Rotated<br></td></tr>
-<tr><td>34/163</td><td>Galarian Mr. Mime</td><td>Rotated<br></td></tr>
-<tr><td>35/163</td><td>Galarian Mr. Rime</td><td>Rotated<br></td></tr>
-<tr><td>36/163</td><td>Remoraid</td><td>Rotated<br></td></tr>
-<tr><td>37/163</td><td>Octillery</td><td>Rotated<br></td></tr>
-<tr><td>38/163</td><td>Corphish</td><td>Rotated<br></td></tr>
-<tr><td>39/163</td><td>Crawdaunt</td><td>Rotated<br></td></tr>
-<tr><td>40/163</td><td>Empoleon V</td><td>Rotated<br></td></tr>
-<tr><td>41/163</td><td>Frillish</td><td>Rotated<br></td></tr>
-<tr><td>42/163</td><td>Jellicent</td><td>Rotated<br></td></tr>
-<tr><td>43/163</td><td>Bruxish</td><td>Rotated<br></td></tr>
-<tr><td>44/163</td><td>Electabuzz</td><td>Rotated<br></td></tr>
-<tr><td>45/163</td><td>Electivire</td><td>Rotated<br></td></tr>
-<tr><td>46/163</td><td>Shinx</td><td>Rotated<br></td></tr>
-<tr><td>47/163</td><td>Luxio</td><td>Rotated<br></td></tr>
-<tr><td>48/163</td><td>Luxray</td><td>Rotated<br></td></tr>
-<tr><td>49/163</td><td>Pachirisu</td><td>Rotated<br></td></tr>
-<tr><td>50/163</td><td>Tapu Koko V</td><td>Rotated<br></td></tr>
-<tr><td>51/163</td><td>Tapu Koko VMAX</td><td>Rotated<br></td></tr>
-<tr><td>52/163</td><td>Yamper</td><td>Rotated<br></td></tr>
-<tr><td>53/163</td><td>Boltund</td><td>Rotated<br></td></tr>
-<tr><td>54/163</td><td>Galarian Slowpoke</td><td>Rotated<br></td></tr>
-<tr><td>55/163</td><td>Spoink</td><td>Rotated<br></td></tr>
-<tr><td>56/163</td><td>Grumpig</td><td>Rotated<br></td></tr>
-<tr><td>57/163</td><td>Baltoy</td><td>Rotated<br></td></tr>
-<tr><td>58/163</td><td>Claydol</td><td>Rotated<br></td></tr>
-<tr><td>59/163</td><td>Chimecho</td><td>Rotated<br></td></tr>
-<tr><td>60/163</td><td>Espurr</td><td>Rotated<br></td></tr>
-<tr><td>61/163</td><td>Meowstic</td><td>Rotated<br></td></tr>
-<tr><td>62/163</td><td>Mimikyu V</td><td>Rotated<br></td></tr>
-<tr><td>63/163</td><td>Necrozma V</td><td>Rotated<br></td></tr>
-<tr><td>64/163</td><td>Dottler</td><td>Rotated<br></td></tr>
-<tr><td>65/163</td><td>Orbeetle</td><td>Rotated<br></td></tr>
-<tr><td>66/163</td><td>Mankey</td><td>Rotated<br></td></tr>
-<tr><td>67/163</td><td>Primeape</td><td>Rotated<br></td></tr>
-<tr><td>68/163</td><td>Onix</td><td>Rotated<br></td></tr>
-<tr><td>69/163</td><td>Cubone</td><td>Rotated<br></td></tr>
-<tr><td>70/163</td><td>Marowak</td><td>Rotated<br></td></tr>
-<tr><td>71/163</td><td>Gligar</td><td>Rotated<br></td></tr>
-<tr><td>72/163</td><td>Gliscor</td><td>Rotated<br></td></tr>
-<tr><td>73/163</td><td>Timburr</td><td>Rotated<br></td></tr>
-<tr><td>74/163</td><td>Gurdurr</td><td>Rotated<br></td></tr>
-<tr><td>75/163</td><td>Conkeldurr</td><td>Rotated<br></td></tr>
-<tr><td>76/163</td><td>Mienfoo</td><td>Rotated<br></td></tr>
-<tr><td>77/163</td><td>Mienshao</td><td>Rotated<br></td></tr>
-<tr><td>78/163</td><td>Rolycoly</td><td>Rotated<br></td></tr>
-<tr><td>79/163</td><td>Carkol</td><td>Rotated<br></td></tr>
-<tr><td>80/163</td><td>Coalossal</td><td>Rotated<br></td></tr>
-<tr><td>81/163</td><td>Silicobra</td><td>Rotated<br></td></tr>
-<tr><td>82/163</td><td>Sandaconda</td><td>Rotated<br></td></tr>
-<tr><td>83/163</td><td>Falinks</td><td>Rotated<br></td></tr>
-<tr><td>84/163</td><td>Stonjourner</td><td>Rotated<br></td></tr>
-<tr><td>85/163</td><td>Single Strike Urshifu V</td><td>Rotated<br></td></tr>
-<tr><td>86/163</td><td>Single Strike Urshifu VMAX</td><td>Rotated<br></td></tr>
-<tr><td>87/163</td><td>Rapid Strike Urshifu V</td><td>Rotated<br></td></tr>
-<tr><td>88/163</td><td>Rapid Strike Urshifu VMAX</td><td>Rotated<br></td></tr>
-<tr><td>89/163</td><td>Zubat</td><td>Rotated<br></td></tr>
-<tr><td>90/163</td><td>Golbat</td><td>Rotated<br></td></tr>
-<tr><td>91/163</td><td>Crobat</td><td>Rotated<br></td></tr>
-<tr><td>92/163</td><td>Galarian Slowbro</td><td>Rotated<br></td></tr>
-<tr><td>93/163</td><td>Murkrow</td><td>Rotated<br></td></tr>
-<tr><td>94/163</td><td>Honchkrow</td><td>Rotated<br></td></tr>
-<tr><td>95/163</td><td>Houndour</td><td>Rotated<br></td></tr>
-<tr><td>96/163</td><td>Houndoom</td><td>Rotated<br></td></tr>
-<tr><td>97/163</td><td>Tyranitar V</td><td>Rotated<br></td></tr>
-<tr><td>98/163</td><td>Morpeko</td><td>Rotated<br></td></tr>
-<tr><td>99/163</td><td>Steelix</td><td>Rotated<br></td></tr>
-<tr><td>100/163</td><td>Mawile</td><td>Rotated<br></td></tr>
-<tr><td>101/163</td><td>Bronzor</td><td>Rotated<br></td></tr>
-<tr><td>102/163</td><td>Bronzong</td><td>Rotated<br></td></tr>
-<tr><td>103/163</td><td>Pawniard</td><td>Rotated<br></td></tr>
-<tr><td>104/163</td><td>Bisharp</td><td>Rotated<br></td></tr>
-<tr><td>105/163</td><td>Honedge</td><td>Rotated<br></td></tr>
-<tr><td>106/163</td><td>Doublade</td><td>Rotated<br></td></tr>
-<tr><td>107/163</td><td>Aegislash</td><td>Rotated<br></td></tr>
-<tr><td>108/163</td><td>Aegislash</td><td>Rotated<br></td></tr>
-<tr><td>109/163</td><td>Corviknight V</td><td>Rotated<br></td></tr>
-<tr><td>110/163</td><td>Corviknight VMAX</td><td>Rotated<br></td></tr>
-<tr><td>111/163</td><td>Spearow</td><td>Rotated<br></td></tr>
-<tr><td>112/163</td><td>Fearow</td><td>Rotated<br></td></tr>
-<tr><td>113/163</td><td>Lickitung</td><td>Rotated<br></td></tr>
-<tr><td>114/163</td><td>Lickilicky</td><td>Rotated<br></td></tr>
-<tr><td>115/163</td><td>Glameow</td><td>Rotated<br></td></tr>
-<tr><td>116/163</td><td>Purugly</td><td>Rotated<br></td></tr>
-<tr><td>117/163</td><td>Stoutland V</td><td>Rotated<br></td></tr>
-<tr><td>118/163</td><td>Bouffalant</td><td>Rotated<br></td></tr>
-<tr><td>119/163</td><td>Drampa</td><td>Rotated<br></td></tr>
-<tr><td>120/163</td><td>Indeedee</td><td>Rotated<br></td></tr>
-<tr><td>121/163</td><td>Bruno</td><td>Rotated<br></td></tr>
-<tr><td>122/163</td><td>Camping Gear</td><td>Rotated<br></td></tr>
-<tr><td>123/163</td><td>Cheryl</td><td>Rotated<br></td></tr>
-<tr><td>124/163</td><td>Energy Recycler</td><td>Rotated<br></td></tr>
-<tr><td>125/163</td><td>Escape Rope</td><td>Rotated<br></td></tr>
+</tr><tr><td>1/163</td><td>Bellsprout</td><td>Rotated<br /></td></tr>
+<tr><td>2/163</td><td>Weepinbell</td><td>Rotated<br /></td></tr>
+<tr><td>3/163</td><td>Victreebel</td><td>Rotated<br /></td></tr>
+<tr><td>4/163</td><td>Cacnea</td><td>Rotated<br /></td></tr>
+<tr><td>5/163</td><td>Cacturne</td><td>Rotated<br /></td></tr>
+<tr><td>6/163</td><td>Kricketune V</td><td>Rotated<br /></td></tr>
+<tr><td>7/163</td><td>Cherubi</td><td>Rotated<br /></td></tr>
+<tr><td>8/163</td><td>Cherrim</td><td>Rotated<br /></td></tr>
+<tr><td>9/163</td><td>Carnivine</td><td>Rotated<br /></td></tr>
+<tr><td>10/163</td><td>Durant</td><td>Rotated<br /></td></tr>
+<tr><td>11/163</td><td>Scatterbug</td><td>Rotated<br /></td></tr>
+<tr><td>12/163</td><td>Spewpa</td><td>Rotated<br /></td></tr>
+<tr><td>13/163</td><td>Vivillon</td><td>Rotated<br /></td></tr>
+<tr><td>14/163</td><td>Fomantis</td><td>Rotated<br /></td></tr>
+<tr><td>15/163</td><td>Lurantis</td><td>Rotated<br /></td></tr>
+<tr><td>16/163</td><td>Tapu Bulu</td><td>Rotated<br /></td></tr>
+<tr><td>17/163</td><td>Blipbug</td><td>Rotated<br /></td></tr>
+<tr><td>18/163</td><td>Flapple V</td><td>Rotated<br /></td></tr>
+<tr><td>19/163</td><td>Flapple VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>20/163</td><td>Entei</td><td>Rotated<br /></td></tr>
+<tr><td>21/163</td><td>Victini V</td><td>Rotated<br /></td></tr>
+<tr><td>22/163</td><td>Victini VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>23/163</td><td>Tepig</td><td>Rotated<br /></td></tr>
+<tr><td>24/163</td><td>Pignite</td><td>Rotated<br /></td></tr>
+<tr><td>25/163</td><td>Emboar</td><td>Rotated<br /></td></tr>
+<tr><td>26/163</td><td>Heatmor</td><td>Rotated<br /></td></tr>
+<tr><td>27/163</td><td>Salandit</td><td>Rotated<br /></td></tr>
+<tr><td>28/163</td><td>Salazzle</td><td>Rotated<br /></td></tr>
+<tr><td>29/163</td><td>Sizzlipede</td><td>Rotated<br /></td></tr>
+<tr><td>30/163</td><td>Centiskorch</td><td>Rotated<br /></td></tr>
+<tr><td>31/163</td><td>Horsea</td><td>Rotated<br /></td></tr>
+<tr><td>32/163</td><td>Seadra</td><td>Rotated<br /></td></tr>
+<tr><td>33/163</td><td>Kingdra</td><td>Rotated<br /></td></tr>
+<tr><td>34/163</td><td>Galarian Mr. Mime</td><td>Rotated<br /></td></tr>
+<tr><td>35/163</td><td>Galarian Mr. Rime</td><td>Rotated<br /></td></tr>
+<tr><td>36/163</td><td>Remoraid</td><td>Rotated<br /></td></tr>
+<tr><td>37/163</td><td>Octillery</td><td>Rotated<br /></td></tr>
+<tr><td>38/163</td><td>Corphish</td><td>Rotated<br /></td></tr>
+<tr><td>39/163</td><td>Crawdaunt</td><td>Rotated<br /></td></tr>
+<tr><td>40/163</td><td>Empoleon V</td><td>Rotated<br /></td></tr>
+<tr><td>41/163</td><td>Frillish</td><td>Rotated<br /></td></tr>
+<tr><td>42/163</td><td>Jellicent</td><td>Rotated<br /></td></tr>
+<tr><td>43/163</td><td>Bruxish</td><td>Rotated<br /></td></tr>
+<tr><td>44/163</td><td>Electabuzz</td><td>Rotated<br /></td></tr>
+<tr><td>45/163</td><td>Electivire</td><td>Rotated<br /></td></tr>
+<tr><td>46/163</td><td>Shinx</td><td>Rotated<br /></td></tr>
+<tr><td>47/163</td><td>Luxio</td><td>Rotated<br /></td></tr>
+<tr><td>48/163</td><td>Luxray</td><td>Rotated<br /></td></tr>
+<tr><td>49/163</td><td>Pachirisu</td><td>Rotated<br /></td></tr>
+<tr><td>50/163</td><td>Tapu Koko V</td><td>Rotated<br /></td></tr>
+<tr><td>51/163</td><td>Tapu Koko VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>52/163</td><td>Yamper</td><td>Rotated<br /></td></tr>
+<tr><td>53/163</td><td>Boltund</td><td>Rotated<br /></td></tr>
+<tr><td>54/163</td><td>Galarian Slowpoke</td><td>Rotated<br /></td></tr>
+<tr><td>55/163</td><td>Spoink</td><td>Rotated<br /></td></tr>
+<tr><td>56/163</td><td>Grumpig</td><td>Rotated<br /></td></tr>
+<tr><td>57/163</td><td>Baltoy</td><td>Rotated<br /></td></tr>
+<tr><td>58/163</td><td>Claydol</td><td>Rotated<br /></td></tr>
+<tr><td>59/163</td><td>Chimecho</td><td>Rotated<br /></td></tr>
+<tr><td>60/163</td><td>Espurr</td><td>Rotated<br /></td></tr>
+<tr><td>61/163</td><td>Meowstic</td><td>Rotated<br /></td></tr>
+<tr><td>62/163</td><td>Mimikyu V</td><td>Rotated<br /></td></tr>
+<tr><td>63/163</td><td>Necrozma V</td><td>Rotated<br /></td></tr>
+<tr><td>64/163</td><td>Dottler</td><td>Rotated<br /></td></tr>
+<tr><td>65/163</td><td>Orbeetle</td><td>Rotated<br /></td></tr>
+<tr><td>66/163</td><td>Mankey</td><td>Rotated<br /></td></tr>
+<tr><td>67/163</td><td>Primeape</td><td>Rotated<br /></td></tr>
+<tr><td>68/163</td><td>Onix</td><td>Rotated<br /></td></tr>
+<tr><td>69/163</td><td>Cubone</td><td>Rotated<br /></td></tr>
+<tr><td>70/163</td><td>Marowak</td><td>Rotated<br /></td></tr>
+<tr><td>71/163</td><td>Gligar</td><td>Rotated<br /></td></tr>
+<tr><td>72/163</td><td>Gliscor</td><td>Rotated<br /></td></tr>
+<tr><td>73/163</td><td>Timburr</td><td>Rotated<br /></td></tr>
+<tr><td>74/163</td><td>Gurdurr</td><td>Rotated<br /></td></tr>
+<tr><td>75/163</td><td>Conkeldurr</td><td>Rotated<br /></td></tr>
+<tr><td>76/163</td><td>Mienfoo</td><td>Rotated<br /></td></tr>
+<tr><td>77/163</td><td>Mienshao</td><td>Rotated<br /></td></tr>
+<tr><td>78/163</td><td>Rolycoly</td><td>Rotated<br /></td></tr>
+<tr><td>79/163</td><td>Carkol</td><td>Rotated<br /></td></tr>
+<tr><td>80/163</td><td>Coalossal</td><td>Rotated<br /></td></tr>
+<tr><td>81/163</td><td>Silicobra</td><td>Rotated<br /></td></tr>
+<tr><td>82/163</td><td>Sandaconda</td><td>Rotated<br /></td></tr>
+<tr><td>83/163</td><td>Falinks</td><td>Rotated<br /></td></tr>
+<tr><td>84/163</td><td>Stonjourner</td><td>Rotated<br /></td></tr>
+<tr><td>85/163</td><td>Single Strike Urshifu V</td><td>Rotated<br /></td></tr>
+<tr><td>86/163</td><td>Single Strike Urshifu VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>87/163</td><td>Rapid Strike Urshifu V</td><td>Rotated<br /></td></tr>
+<tr><td>88/163</td><td>Rapid Strike Urshifu VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>89/163</td><td>Zubat</td><td>Rotated<br /></td></tr>
+<tr><td>90/163</td><td>Golbat</td><td>Rotated<br /></td></tr>
+<tr><td>91/163</td><td>Crobat</td><td>Rotated<br /></td></tr>
+<tr><td>92/163</td><td>Galarian Slowbro</td><td>Rotated<br /></td></tr>
+<tr><td>93/163</td><td>Murkrow</td><td>Rotated<br /></td></tr>
+<tr><td>94/163</td><td>Honchkrow</td><td>Rotated<br /></td></tr>
+<tr><td>95/163</td><td>Houndour</td><td>Rotated<br /></td></tr>
+<tr><td>96/163</td><td>Houndoom</td><td>Rotated<br /></td></tr>
+<tr><td>97/163</td><td>Tyranitar V</td><td>Rotated<br /></td></tr>
+<tr><td>98/163</td><td>Morpeko</td><td>Rotated<br /></td></tr>
+<tr><td>99/163</td><td>Steelix</td><td>Rotated<br /></td></tr>
+<tr><td>100/163</td><td>Mawile</td><td>Rotated<br /></td></tr>
+<tr><td>101/163</td><td>Bronzor</td><td>Rotated<br /></td></tr>
+<tr><td>102/163</td><td>Bronzong</td><td>Rotated<br /></td></tr>
+<tr><td>103/163</td><td>Pawniard</td><td>Rotated<br /></td></tr>
+<tr><td>104/163</td><td>Bisharp</td><td>Rotated<br /></td></tr>
+<tr><td>105/163</td><td>Honedge</td><td>Rotated<br /></td></tr>
+<tr><td>106/163</td><td>Doublade</td><td>Rotated<br /></td></tr>
+<tr><td>107/163</td><td>Aegislash</td><td>Rotated<br /></td></tr>
+<tr><td>108/163</td><td>Aegislash</td><td>Rotated<br /></td></tr>
+<tr><td>109/163</td><td>Corviknight V</td><td>Rotated<br /></td></tr>
+<tr><td>110/163</td><td>Corviknight VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>111/163</td><td>Spearow</td><td>Rotated<br /></td></tr>
+<tr><td>112/163</td><td>Fearow</td><td>Rotated<br /></td></tr>
+<tr><td>113/163</td><td>Lickitung</td><td>Rotated<br /></td></tr>
+<tr><td>114/163</td><td>Lickilicky</td><td>Rotated<br /></td></tr>
+<tr><td>115/163</td><td>Glameow</td><td>Rotated<br /></td></tr>
+<tr><td>116/163</td><td>Purugly</td><td>Rotated<br /></td></tr>
+<tr><td>117/163</td><td>Stoutland V</td><td>Rotated<br /></td></tr>
+<tr><td>118/163</td><td>Bouffalant</td><td>Rotated<br /></td></tr>
+<tr><td>119/163</td><td>Drampa</td><td>Rotated<br /></td></tr>
+<tr><td>120/163</td><td>Indeedee</td><td>Rotated<br /></td></tr>
+<tr><td>121/163</td><td>Bruno</td><td>Rotated<br /></td></tr>
+<tr><td>122/163</td><td>Camping Gear</td><td>Rotated<br /></td></tr>
+<tr><td>123/163</td><td>Cheryl</td><td>Rotated<br /></td></tr>
+<tr><td>124/163</td><td>Energy Recycler</td><td>Rotated<br /></td></tr>
+<tr><td>125/163</td><td>Escape Rope</td><td>Rotated<br /></td></tr>
 <tr><td>126/163</td><td>Exp. Share</td><td>Safe, Reprinted in Scarlet &amp; Violet (G Regulation)</td></tr>
-<tr><td>127/163</td><td>Fan of Waves</td><td>Rotated<br></td></tr>
-<tr><td>128/163</td><td>Korrina's Focus</td><td>Rotated<br></td></tr>
-<tr><td>129/163</td><td>Level Ball</td><td>Rotated<br></td></tr>
-<tr><td>130/163</td><td>Phoebe</td><td>Rotated<br></td></tr>
-<tr><td>131/163</td><td>Rapid Strike Scroll of Swirls</td><td>Rotated<br></td></tr>
-<tr><td>132/163</td><td>Rapid Strike Style Mustard</td><td>Rotated<br></td></tr>
-<tr><td>133/163</td><td>Single Strike Scroll of Scorn</td><td>Rotated<br></td></tr>
-<tr><td>134/163</td><td>Single Strike Style Mustard</td><td>Rotated<br></td></tr>
-<tr><td>135/163</td><td>Sordward &amp; Shielbert</td><td>Rotated<br></td></tr>
-<tr><td>136/163</td><td>Tool Jammer</td><td>Rotated<br></td></tr>
-<tr><td>137/163</td><td>Tower of Darkness</td><td>Rotated<br></td></tr>
-<tr><td>138/163</td><td>Tower of Waters</td><td>Rotated<br></td></tr>
-<tr><td>139/163</td><td>Urn of Vitality</td><td>Rotated<br></td></tr>
-<tr><td>140/163</td><td>Rapid Strike Energy</td><td>Rotated<br></td></tr>
-<tr><td>141/163</td><td>Single Strike Energy</td><td>Rotated<br></td></tr>
-<tr><td>142/163</td><td>Kricketune V</td><td>Rotated<br></td></tr>
-<tr><td>143/163</td><td>Flapple V</td><td>Rotated<br></td></tr>
-<tr><td>144/163</td><td>Victini V</td><td>Rotated<br></td></tr>
-<tr><td>145/163</td><td>Empoleon V</td><td>Rotated<br></td></tr>
-<tr><td>146/163</td><td>Empoleon V</td><td>Rotated<br></td></tr>
-<tr><td>147/163</td><td>Tapu Koko V</td><td>Rotated<br></td></tr>
-<tr><td>148/163</td><td>Mimikyu V</td><td>Rotated<br></td></tr>
-<tr><td>149/163</td><td>Necrozma V</td><td>Rotated<br></td></tr>
-<tr><td>150/163</td><td>Single Strike Urshifu V</td><td>Rotated<br></td></tr>
-<tr><td>151/163</td><td>Single Strike Urshifu V</td><td>Rotated<br></td></tr>
-<tr><td>152/163</td><td>Rapid Strike Urshifu V</td><td>Rotated<br></td></tr>
-<tr><td>153/163</td><td>Rapid Strike Urshifu V</td><td>Rotated<br></td></tr>
-<tr><td>154/163</td><td>Tyranitar V</td><td>Rotated<br></td></tr>
-<tr><td>155/163</td><td>Tyranitar V</td><td>Rotated<br></td></tr>
-<tr><td>156/163</td><td>Corviknight V</td><td>Rotated<br></td></tr>
-<tr><td>157/163</td><td>Stoutland V</td><td>Rotated<br></td></tr>
-<tr><td>158/163</td><td>Bruno</td><td>Rotated<br></td></tr>
-<tr><td>159/163</td><td>Cheryl</td><td>Rotated<br></td></tr>
-<tr><td>160/163</td><td>Korrina's Focus</td><td>Rotated<br></td></tr>
-<tr><td>161/163</td><td>Phoebe</td><td>Rotated<br></td></tr>
-<tr><td>162/163</td><td>Rapid Strike Style Mustard</td><td>Rotated<br></td></tr>
-<tr><td>163/163</td><td>Single Strike Style Mustard</td><td>Rotated<br></td></tr>
-<tr><td>164/163</td><td>Flapple VMAX</td><td>Rotated<br></td></tr>
-<tr><td>165/163</td><td>Victini VMAX</td><td>Rotated<br></td></tr>
-<tr><td>166/163</td><td>Tapu Koko VMAX</td><td>Rotated<br></td></tr>
-<tr><td>167/163</td><td>Single Strike Urshifu VMAX</td><td>Rotated<br></td></tr>
-<tr><td>168/163</td><td>Single Strike Urshifu VMAX</td><td>Rotated<br></td></tr>
-<tr><td>169/163</td><td>Rapid Strike Urshifu VMAX</td><td>Rotated<br></td></tr>
-<tr><td>170/163</td><td>Rapid Strike Urshifu VMAX</td><td>Rotated<br></td></tr>
-<tr><td>171/163</td><td>Corviknight VMAX</td><td>Rotated<br></td></tr>
-<tr><td>172/163</td><td>Bruno</td><td>Rotated<br></td></tr>
-<tr><td>173/163</td><td>Cheryl</td><td>Rotated<br></td></tr>
-<tr><td>174/163</td><td>Korrina's Focus</td><td>Rotated<br></td></tr>
-<tr><td>175/163</td><td>Phoebe</td><td>Rotated<br></td></tr>
-<tr><td>176/163</td><td>Rapid Strike Style Mustard</td><td>Rotated<br></td></tr>
-<tr><td>177/163</td><td>Single Strike Style Mustard</td><td>Rotated<br></td></tr>
-<tr><td>178/163</td><td>Octillery</td><td>Rotated<br></td></tr>
-<tr><td>179/163</td><td>Houndoom</td><td>Rotated<br></td></tr>
+<tr><td>127/163</td><td>Fan of Waves</td><td>Rotated<br /></td></tr>
+<tr><td>128/163</td><td>Korrina's Focus</td><td>Rotated<br /></td></tr>
+<tr><td>129/163</td><td>Level Ball</td><td>Rotated<br /></td></tr>
+<tr><td>130/163</td><td>Phoebe</td><td>Rotated<br /></td></tr>
+<tr><td>131/163</td><td>Rapid Strike Scroll of Swirls</td><td>Rotated<br /></td></tr>
+<tr><td>132/163</td><td>Rapid Strike Style Mustard</td><td>Rotated<br /></td></tr>
+<tr><td>133/163</td><td>Single Strike Scroll of Scorn</td><td>Rotated<br /></td></tr>
+<tr><td>134/163</td><td>Single Strike Style Mustard</td><td>Rotated<br /></td></tr>
+<tr><td>135/163</td><td>Sordward &amp; Shielbert</td><td>Rotated<br /></td></tr>
+<tr><td>136/163</td><td>Tool Jammer</td><td>Rotated<br /></td></tr>
+<tr><td>137/163</td><td>Tower of Darkness</td><td>Rotated<br /></td></tr>
+<tr><td>138/163</td><td>Tower of Waters</td><td>Rotated<br /></td></tr>
+<tr><td>139/163</td><td>Urn of Vitality</td><td>Rotated<br /></td></tr>
+<tr><td>140/163</td><td>Rapid Strike Energy</td><td>Rotated<br /></td></tr>
+<tr><td>141/163</td><td>Single Strike Energy</td><td>Rotated<br /></td></tr>
+<tr><td>142/163</td><td>Kricketune V</td><td>Rotated<br /></td></tr>
+<tr><td>143/163</td><td>Flapple V</td><td>Rotated<br /></td></tr>
+<tr><td>144/163</td><td>Victini V</td><td>Rotated<br /></td></tr>
+<tr><td>145/163</td><td>Empoleon V</td><td>Rotated<br /></td></tr>
+<tr><td>146/163</td><td>Empoleon V</td><td>Rotated<br /></td></tr>
+<tr><td>147/163</td><td>Tapu Koko V</td><td>Rotated<br /></td></tr>
+<tr><td>148/163</td><td>Mimikyu V</td><td>Rotated<br /></td></tr>
+<tr><td>149/163</td><td>Necrozma V</td><td>Rotated<br /></td></tr>
+<tr><td>150/163</td><td>Single Strike Urshifu V</td><td>Rotated<br /></td></tr>
+<tr><td>151/163</td><td>Single Strike Urshifu V</td><td>Rotated<br /></td></tr>
+<tr><td>152/163</td><td>Rapid Strike Urshifu V</td><td>Rotated<br /></td></tr>
+<tr><td>153/163</td><td>Rapid Strike Urshifu V</td><td>Rotated<br /></td></tr>
+<tr><td>154/163</td><td>Tyranitar V</td><td>Rotated<br /></td></tr>
+<tr><td>155/163</td><td>Tyranitar V</td><td>Rotated<br /></td></tr>
+<tr><td>156/163</td><td>Corviknight V</td><td>Rotated<br /></td></tr>
+<tr><td>157/163</td><td>Stoutland V</td><td>Rotated<br /></td></tr>
+<tr><td>158/163</td><td>Bruno</td><td>Rotated<br /></td></tr>
+<tr><td>159/163</td><td>Cheryl</td><td>Rotated<br /></td></tr>
+<tr><td>160/163</td><td>Korrina's Focus</td><td>Rotated<br /></td></tr>
+<tr><td>161/163</td><td>Phoebe</td><td>Rotated<br /></td></tr>
+<tr><td>162/163</td><td>Rapid Strike Style Mustard</td><td>Rotated<br /></td></tr>
+<tr><td>163/163</td><td>Single Strike Style Mustard</td><td>Rotated<br /></td></tr>
+<tr><td>164/163</td><td>Flapple VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>165/163</td><td>Victini VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>166/163</td><td>Tapu Koko VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>167/163</td><td>Single Strike Urshifu VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>168/163</td><td>Single Strike Urshifu VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>169/163</td><td>Rapid Strike Urshifu VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>170/163</td><td>Rapid Strike Urshifu VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>171/163</td><td>Corviknight VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>172/163</td><td>Bruno</td><td>Rotated<br /></td></tr>
+<tr><td>173/163</td><td>Cheryl</td><td>Rotated<br /></td></tr>
+<tr><td>174/163</td><td>Korrina's Focus</td><td>Rotated<br /></td></tr>
+<tr><td>175/163</td><td>Phoebe</td><td>Rotated<br /></td></tr>
+<tr><td>176/163</td><td>Rapid Strike Style Mustard</td><td>Rotated<br /></td></tr>
+<tr><td>177/163</td><td>Single Strike Style Mustard</td><td>Rotated<br /></td></tr>
+<tr><td>178/163</td><td>Octillery</td><td>Rotated<br /></td></tr>
+<tr><td>179/163</td><td>Houndoom</td><td>Rotated<br /></td></tr>
 <tr><td>180/163</td><td>Exp. Share</td><td>Safe, Reprinted in Scarlet &amp; Violet (G Regulation)</td></tr>
-<tr><td>181/163</td><td>Level Ball</td><td>Rotated<br></td></tr>
-<tr><td>182/163</td><td>Rapid Strike Energy</td><td>Rotated<br></td></tr>
-<tr><td>183/163</td><td>Single Strike Energy</td><td>Rotated<br></td></tr>
+<tr><td>181/163</td><td>Level Ball</td><td>Rotated<br /></td></tr>
+<tr><td>182/163</td><td>Rapid Strike Energy</td><td>Rotated<br /></td></tr>
+<tr><td>183/163</td><td>Single Strike Energy</td><td>Rotated<br /></td></tr>
     </tbody>
 </table>
 </div>
@@ -221,236 +221,236 @@ Below is the full list of cards in the set Chilling Reign, with the rotation sta
 <table border="0" cellspacing="0" cellpadding="0">
     <tbody>
 	<tr><td><strong>#</strong></td><td><strong>Name</strong></td><td><strong>Status</strong></td>
-</tr><tr><td>1/198</td><td>Weedle</td><td>Rotated<br></td></tr>
-<tr><td>2/198</td><td>Kakuna</td><td>Rotated<br></td></tr>
-<tr><td>3/198</td><td>Beedrill</td><td>Rotated<br></td></tr>
-<tr><td>4/198</td><td>Ledyba</td><td>Rotated<br></td></tr>
-<tr><td>5/198</td><td>Ledian</td><td>Rotated<br></td></tr>
-<tr><td>6/198</td><td>Heracross</td><td>Rotated<br></td></tr>
-<tr><td>7/198</td><td>Celebi V</td><td>Rotated<br></td></tr>
-<tr><td>8/198</td><td>Celebi VMAX</td><td>Rotated<br></td></tr>
-<tr><td>9/198</td><td>Snover</td><td>Rotated<br></td></tr>
-<tr><td>10/198</td><td>Abomasnow</td><td>Rotated<br></td></tr>
-<tr><td>11/198</td><td>Deerling</td><td>Rotated<br></td></tr>
-<tr><td>12/198</td><td>Sawsbuck</td><td>Rotated<br></td></tr>
-<tr><td>13/198</td><td>Bounsweet</td><td>Rotated<br></td></tr>
-<tr><td>14/198</td><td>Steenee</td><td>Rotated<br></td></tr>
-<tr><td>15/198</td><td>Tsareena</td><td>Rotated<br></td></tr>
-<tr><td>16/198</td><td>Grookey</td><td>Rotated<br></td></tr>
-<tr><td>17/198</td><td>Thwackey</td><td>Rotated<br></td></tr>
-<tr><td>18/198</td><td>Rillaboom</td><td>Rotated<br></td></tr>
-<tr><td>19/198</td><td>Zarude</td><td>Rotated<br></td></tr>
-<tr><td>20/198</td><td>Blaziken V</td><td>Rotated<br></td></tr>
-<tr><td>21/198</td><td>Blaziken VMAX</td><td>Rotated<br></td></tr>
-<tr><td>22/198</td><td>Castform Sunny Form</td><td>Rotated<br></td></tr>
-<tr><td>23/198</td><td>Larvesta</td><td>Rotated<br></td></tr>
-<tr><td>24/198</td><td>Volcarona</td><td>Rotated<br></td></tr>
-<tr><td>25/198</td><td>Volcanion V</td><td>Rotated<br></td></tr>
-<tr><td>26/198</td><td>Scorbunny</td><td>Rotated<br></td></tr>
-<tr><td>27/198</td><td>Raboot</td><td>Rotated<br></td></tr>
-<tr><td>28/198</td><td>Cinderace</td><td>Rotated<br></td></tr>
-<tr><td>29/198</td><td>Lapras</td><td>Rotated<br></td></tr>
-<tr><td>30/198</td><td>Sneasel</td><td>Rotated<br></td></tr>
-<tr><td>31/198</td><td>Weavile</td><td>Rotated<br></td></tr>
-<tr><td>32/198</td><td>Delibird</td><td>Rotated<br></td></tr>
-<tr><td>33/198</td><td>Castform Rainy Form</td><td>Rotated<br></td></tr>
-<tr><td>34/198</td><td>Castform Snowy Form</td><td>Rotated<br></td></tr>
-<tr><td>35/198</td><td>Snorunt</td><td>Rotated<br></td></tr>
-<tr><td>36/198</td><td>Froslass</td><td>Rotated<br></td></tr>
-<tr><td>37/198</td><td>Spheal</td><td>Rotated<br></td></tr>
-<tr><td>38/198</td><td>Sealeo</td><td>Rotated<br></td></tr>
-<tr><td>39/198</td><td>Walrein</td><td>Rotated<br></td></tr>
-<tr><td>40/198</td><td>Tapu Fini</td><td>Rotated<br></td></tr>
-<tr><td>41/198</td><td>Sobble</td><td>Rotated<br></td></tr>
-<tr><td>42/198</td><td>Drizzile</td><td>Rotated<br></td></tr>
-<tr><td>43/198</td><td>Inteleon</td><td>Rotated<br></td></tr>
-<tr><td>44/198</td><td>Rapid Strike Urshifu</td><td>Rotated<br></td></tr>
-<tr><td>45/198</td><td>Ice Rider Calyrex V</td><td>Rotated<br></td></tr>
-<tr><td>46/198</td><td>Ice Rider Calyrex VMAX</td><td>Rotated<br></td></tr>
-<tr><td>47/198</td><td>Mareep</td><td>Rotated<br></td></tr>
-<tr><td>48/198</td><td>Flaaffy</td><td>Rotated<br></td></tr>
-<tr><td>49/198</td><td>Ampharos</td><td>Rotated<br></td></tr>
-<tr><td>50/198</td><td>Blitzle</td><td>Rotated<br></td></tr>
-<tr><td>51/198</td><td>Zebstrika</td><td>Rotated<br></td></tr>
-<tr><td>52/198</td><td>Thundurus</td><td>Rotated<br></td></tr>
-<tr><td>53/198</td><td>Zeraora V</td><td>Rotated<br></td></tr>
-<tr><td>54/198</td><td>Galarian Slowpoke</td><td>Rotated<br></td></tr>
-<tr><td>55/198</td><td>Gastly</td><td>Rotated<br></td></tr>
-<tr><td>56/198</td><td>Haunter</td><td>Rotated<br></td></tr>
-<tr><td>57/198</td><td>Gengar</td><td>Rotated<br></td></tr>
-<tr><td>58/198</td><td>Galarian Articuno V</td><td>Rotated<br></td></tr>
-<tr><td>59/198</td><td>Ralts</td><td>Rotated<br></td></tr>
-<tr><td>60/198</td><td>Kirlia</td><td>Rotated<br></td></tr>
-<tr><td>61/198</td><td>Gardevoir</td><td>Rotated<br></td></tr>
-<tr><td>62/198</td><td>Shuppet</td><td>Rotated<br></td></tr>
-<tr><td>63/198</td><td>Banette</td><td>Rotated<br></td></tr>
-<tr><td>64/198</td><td>Cresselia</td><td>Rotated<br></td></tr>
-<tr><td>65/198</td><td>Golett</td><td>Rotated<br></td></tr>
-<tr><td>66/198</td><td>Golurk</td><td>Rotated<br></td></tr>
-<tr><td>67/198</td><td>Swirlix</td><td>Rotated<br></td></tr>
-<tr><td>68/198</td><td>Slurpuff</td><td>Rotated<br></td></tr>
-<tr><td>69/198</td><td>Inkay</td><td>Rotated<br></td></tr>
-<tr><td>70/198</td><td>Malamar</td><td>Rotated<br></td></tr>
-<tr><td>71/198</td><td>Hatenna</td><td>Rotated<br></td></tr>
-<tr><td>72/198</td><td>Hattrem</td><td>Rotated<br></td></tr>
-<tr><td>73/198</td><td>Hatterene</td><td>Rotated<br></td></tr>
-<tr><td>74/198</td><td>Shadow Rider Calyrex V</td><td>Rotated<br></td></tr>
-<tr><td>75/198</td><td>Shadow Rider Calyrex VMAX</td><td>Rotated<br></td></tr>
-<tr><td>76/198</td><td>Diglett</td><td>Rotated<br></td></tr>
-<tr><td>77/198</td><td>Dugtrio</td><td>Rotated<br></td></tr>
-<tr><td>78/198</td><td>Galarian Farfetch'd</td><td>Rotated<br></td></tr>
-<tr><td>79/198</td><td>Galarian Sirfetch'd</td><td>Rotated<br></td></tr>
-<tr><td>80/198</td><td>Galarian Zapdos V</td><td>Rotated<br></td></tr>
-<tr><td>81/198</td><td>Gallade</td><td>Rotated<br></td></tr>
-<tr><td>82/198</td><td>Galarian Yamask</td><td>Rotated<br></td></tr>
-<tr><td>83/198</td><td>Galarian Runerigus</td><td>Rotated<br></td></tr>
-<tr><td>84/198</td><td>Crabrawler</td><td>Rotated<br></td></tr>
-<tr><td>85/198</td><td>Crabominable</td><td>Rotated<br></td></tr>
-<tr><td>86/198</td><td>Rockruff</td><td>Rotated<br></td></tr>
-<tr><td>87/198</td><td>Lycanroc</td><td>Rotated<br></td></tr>
-<tr><td>88/198</td><td>Passimian</td><td>Rotated<br></td></tr>
-<tr><td>89/198</td><td>Sandaconda V</td><td>Rotated<br></td></tr>
-<tr><td>90/198</td><td>Sandaconda VMAX</td><td>Rotated<br></td></tr>
-<tr><td>91/198</td><td>Clobbopus</td><td>Rotated<br></td></tr>
-<tr><td>92/198</td><td>Grapploct</td><td>Rotated<br></td></tr>
-<tr><td>93/198</td><td>Kubfu</td><td>Rotated<br></td></tr>
-<tr><td>94/198</td><td>Koffing</td><td>Rotated<br></td></tr>
-<tr><td>95/198</td><td>Weezing</td><td>Rotated<br></td></tr>
-<tr><td>96/198</td><td>Galarian Weezing</td><td>Rotated<br></td></tr>
-<tr><td>97/198</td><td>Galarian Moltres V</td><td>Rotated<br></td></tr>
-<tr><td>98/198</td><td>Galarian Slowking</td><td>Rotated<br></td></tr>
-<tr><td>99/198</td><td>Galarian Slowking V</td><td>Rotated<br></td></tr>
-<tr><td>100/198</td><td>Galarian Slowking VMAX</td><td>Rotated<br></td></tr>
-<tr><td>101/198</td><td>Qwilfish</td><td>Rotated<br></td></tr>
-<tr><td>102/198</td><td>Seviper</td><td>Rotated<br></td></tr>
-<tr><td>103/198</td><td>Spiritomb</td><td>Rotated<br></td></tr>
-<tr><td>104/198</td><td>Liepard V</td><td>Rotated<br></td></tr>
-<tr><td>105/198</td><td>Venipede</td><td>Rotated<br></td></tr>
-<tr><td>106/198</td><td>Whirlipede</td><td>Rotated<br></td></tr>
-<tr><td>107/198</td><td>Scolipede</td><td>Rotated<br></td></tr>
-<tr><td>108/198</td><td>Single Strike Urshifu</td><td>Rotated<br></td></tr>
-<tr><td>109/198</td><td>Aron</td><td>Rotated<br></td></tr>
-<tr><td>110/198</td><td>Lairon</td><td>Rotated<br></td></tr>
-<tr><td>111/198</td><td>Aggron</td><td>Rotated<br></td></tr>
-<tr><td>112/198</td><td>Metagross V</td><td>Rotated<br></td></tr>
-<tr><td>113/198</td><td>Metagross VMAX</td><td>Rotated<br></td></tr>
-<tr><td>114/198</td><td>Cobalion</td><td>Rotated<br></td></tr>
-<tr><td>115/198</td><td>Tauros</td><td>Rotated<br></td></tr>
-<tr><td>116/198</td><td>Porygon</td><td>Rotated<br></td></tr>
-<tr><td>117/198</td><td>Porygon2</td><td>Rotated<br></td></tr>
-<tr><td>118/198</td><td>Porygon-Z</td><td>Rotated<br></td></tr>
-<tr><td>119/198</td><td>Blissey V</td><td>Rotated<br></td></tr>
-<tr><td>120/198</td><td>Zangoose</td><td>Rotated<br></td></tr>
-<tr><td>121/198</td><td>Castform</td><td>Rotated<br></td></tr>
-<tr><td>122/198</td><td>Kecleon</td><td>Rotated<br></td></tr>
-<tr><td>123/198</td><td>Shaymin</td><td>Rotated<br></td></tr>
-<tr><td>124/198</td><td>Tornadus V</td><td>Rotated<br></td></tr>
-<tr><td>125/198</td><td>Tornadus VMAX</td><td>Rotated<br></td></tr>
-<tr><td>126/198</td><td>Furfrou</td><td>Rotated<br></td></tr>
-<tr><td>127/198</td><td>Skwovet</td><td>Rotated<br></td></tr>
-<tr><td>128/198</td><td>Greedent</td><td>Rotated<br></td></tr>
-<tr><td>129/198</td><td>Agatha</td><td>Rotated<br></td></tr>
-<tr><td>130/198</td><td>Avery</td><td>Rotated<br></td></tr>
-<tr><td>131/198</td><td>Brawly</td><td>Rotated<br></td></tr>
-<tr><td>132/198</td><td>Caitlin</td><td>Rotated<br></td></tr>
-<tr><td>133/198</td><td>Crushing Gloves</td><td>Rotated<br></td></tr>
-<tr><td>134/198</td><td>Doctor</td><td>Rotated<br></td></tr>
-<tr><td>135/198</td><td>Dyna Tree Hill</td><td>Rotated<br></td></tr>
-<tr><td>136/198</td><td>Echoing Horn</td><td>Rotated<br></td></tr>
-<tr><td>137/198</td><td>Expedition Uniform</td><td>Rotated<br></td></tr>
-<tr><td>138/198</td><td>Fire-Resistant Gloves</td><td>Rotated<br></td></tr>
-<tr><td>139/198</td><td>Flannery</td><td>Rotated<br></td></tr>
-<tr><td>140/198</td><td>Fog Crystal</td><td>Rotated<br></td></tr>
-<tr><td>141/198</td><td>Galarian Chestplate</td><td>Rotated<br></td></tr>
-<tr><td>142/198</td><td>Honey</td><td>Rotated<br></td></tr>
-<tr><td>143/198</td><td>Justified Gloves</td><td>Rotated<br></td></tr>
-<tr><td>144/198</td><td>Karen's Conviction</td><td>Rotated<br></td></tr>
-<tr><td>145/198</td><td>Klara</td><td>Rotated<br></td></tr>
-<tr><td>146/198</td><td>Melony</td><td>Rotated<br></td></tr>
-<tr><td>147/198</td><td>Old Cemetery</td><td>Rotated<br></td></tr>
-<tr><td>148/198</td><td>Path to the Peak</td><td>Rotated<br></td></tr>
-<tr><td>149/198</td><td>Peonia</td><td>Rotated<br></td></tr>
-<tr><td>150/198</td><td>Peony</td><td>Rotated<br></td></tr>
-<tr><td>151/198</td><td>Rapid Strike Scroll of the Skies</td><td>Rotated<br></td></tr>
-<tr><td>152/198</td><td>Rugged Helmet</td><td>Rotated<br></td></tr>
-<tr><td>153/198</td><td>Siebold</td><td>Rotated<br></td></tr>
-<tr><td>154/198</td><td>Single Strike Scroll of Piercing</td><td>Rotated<br></td></tr>
-<tr><td>155/198</td><td>Weeding Gloves</td><td>Rotated<br></td></tr>
-<tr><td>156/198</td><td>Welcoming Lantern</td><td>Rotated<br></td></tr>
-<tr><td>157/198</td><td>Impact Energy</td><td>Rotated<br></td></tr>
-<tr><td>158/198</td><td>Lucky Energy</td><td>Rotated<br></td></tr>
-<tr><td>159/198</td><td>Spiral Energy</td><td>Rotated<br></td></tr>
-<tr><td>160/198</td><td>Celebi V</td><td>Rotated<br></td></tr>
-<tr><td>161/198</td><td>Blaziken V</td><td>Rotated<br></td></tr>
-<tr><td>162/198</td><td>Volcanion V</td><td>Rotated<br></td></tr>
-<tr><td>163/198</td><td>Ice Rider Calyrex V</td><td>Rotated<br></td></tr>
-<tr><td>164/198</td><td>Ice Rider Calyrex V</td><td>Rotated<br></td></tr>
-<tr><td>165/198</td><td>Zeraora V</td><td>Rotated<br></td></tr>
-<tr><td>166/198</td><td>Zeraora V</td><td>Rotated<br></td></tr>
-<tr><td>167/198</td><td>Galarian Rapidash V</td><td>Rotated<br></td></tr>
-<tr><td>168/198</td><td>Galarian Rapidash V</td><td>Rotated<br></td></tr>
-<tr><td>169/198</td><td>Galarian Articuno V</td><td>Rotated<br></td></tr>
-<tr><td>170/198</td><td>Galarian Articuno V</td><td>Rotated<br></td></tr>
-<tr><td>171/198</td><td>Shadow Rider Calyrex V</td><td>Rotated<br></td></tr>
-<tr><td>172/198</td><td>Shadow Rider Calyrex V</td><td>Rotated<br></td></tr>
-<tr><td>173/198</td><td>Galarian Zapdos V</td><td>Rotated<br></td></tr>
-<tr><td>174/198</td><td>Galarian Zapdos V</td><td>Rotated<br></td></tr>
-<tr><td>175/198</td><td>Sandaconda V</td><td>Rotated<br></td></tr>
-<tr><td>176/198</td><td>Galarian Moltres V</td><td>Rotated<br></td></tr>
-<tr><td>177/198</td><td>Galarian Moltres V</td><td>Rotated<br></td></tr>
-<tr><td>178/198</td><td>Galarian Slowking V</td><td>Rotated<br></td></tr>
-<tr><td>179/198</td><td>Galarian Slowking V</td><td>Rotated<br></td></tr>
-<tr><td>180/198</td><td>Liepard V</td><td>Rotated<br></td></tr>
-<tr><td>181/198</td><td>Metagross V</td><td>Rotated<br></td></tr>
-<tr><td>182/198</td><td>Blissey V</td><td>Rotated<br></td></tr>
-<tr><td>183/198</td><td>Blissey V</td><td>Rotated<br></td></tr>
-<tr><td>184/198</td><td>Tornadus V</td><td>Rotated<br></td></tr>
-<tr><td>185/198</td><td>Tornadus V</td><td>Rotated<br></td></tr>
-<tr><td>186/198</td><td>Agatha</td><td>Rotated<br></td></tr>
-<tr><td>187/198</td><td>Avery</td><td>Rotated<br></td></tr>
-<tr><td>188/198</td><td>Brawly</td><td>Rotated<br></td></tr>
-<tr><td>189/198</td><td>Caitlin</td><td>Rotated<br></td></tr>
-<tr><td>190/198</td><td>Doctor</td><td>Rotated<br></td></tr>
-<tr><td>191/198</td><td>Flannery</td><td>Rotated<br></td></tr>
-<tr><td>192/198</td><td>Honey</td><td>Rotated<br></td></tr>
-<tr><td>193/198</td><td>Karen's Conviction</td><td>Rotated<br></td></tr>
-<tr><td>194/198</td><td>Klara</td><td>Rotated<br></td></tr>
-<tr><td>195/198</td><td>Melony</td><td>Rotated<br></td></tr>
-<tr><td>196/198</td><td>Peonia</td><td>Rotated<br></td></tr>
-<tr><td>197/198</td><td>Peony</td><td>Rotated<br></td></tr>
-<tr><td>198/198</td><td>Siebold</td><td>Rotated<br></td></tr>
-<tr><td>199/198</td><td>Celebi VMAX</td><td>Rotated<br></td></tr>
-<tr><td>200/198</td><td>Blaziken VMAX</td><td>Rotated<br></td></tr>
-<tr><td>201/198</td><td>Blaziken VMAX</td><td>Rotated<br></td></tr>
-<tr><td>202/198</td><td>Ice Rider Calyrex VMAX</td><td>Rotated<br></td></tr>
-<tr><td>203/198</td><td>Ice Rider Calyrex VMAX</td><td>Rotated<br></td></tr>
-<tr><td>204/198</td><td>Shadow Rider Calyrex VMAX</td><td>Rotated<br></td></tr>
-<tr><td>205/198</td><td>Shadow Rider Calyrex VMAX</td><td>Rotated<br></td></tr>
-<tr><td>206/198</td><td>Sandaconda VMAX</td><td>Rotated<br></td></tr>
-<tr><td>207/198</td><td>Galarian Slowking VMAX</td><td>Rotated<br></td></tr>
-<tr><td>208/198</td><td>Metagross VMAX</td><td>Rotated<br></td></tr>
-<tr><td>209/198</td><td>Tornadus VMAX</td><td>Rotated<br></td></tr>
-<tr><td>210/198</td><td>Agatha</td><td>Rotated<br></td></tr>
-<tr><td>211/198</td><td>Avery</td><td>Rotated<br></td></tr>
-<tr><td>212/198</td><td>Brawly</td><td>Rotated<br></td></tr>
-<tr><td>213/198</td><td>Caitlin</td><td>Rotated<br></td></tr>
-<tr><td>214/198</td><td>Doctor</td><td>Rotated<br></td></tr>
-<tr><td>215/198</td><td>Flannery</td><td>Rotated<br></td></tr>
-<tr><td>216/198</td><td>Karen's Conviction</td><td>Rotated<br></td></tr>
-<tr><td>217/198</td><td>Klara</td><td>Rotated<br></td></tr>
-<tr><td>218/198</td><td>Melony</td><td>Rotated<br></td></tr>
-<tr><td>219/198</td><td>Peonia</td><td>Rotated<br></td></tr>
-<tr><td>220/198</td><td>Peony</td><td>Rotated<br></td></tr>
-<tr><td>221/198</td><td>Siebold</td><td>Rotated<br></td></tr>
-<tr><td>222/198</td><td>Electrode</td><td>Rotated<br></td></tr>
-<tr><td>223/198</td><td>Bronzong</td><td>Rotated<br></td></tr>
-<tr><td>224/198</td><td>Snorlax</td><td>Rotated<br></td></tr>
-<tr><td>225/198</td><td>Echoing Horn</td><td>Rotated<br></td></tr>
-<tr><td>226/198</td><td>Fan of Waves</td><td>Rotated<br></td></tr>
-<tr><td>227/198</td><td>Fog Crystal</td><td>Rotated<br></td></tr>
-<tr><td>228/198</td><td>Rugged Helmet</td><td>Rotated<br></td></tr>
-<tr><td>229/198</td><td>Urn of Vitality</td><td>Rotated<br></td></tr>
-<tr><td>230/198</td><td>Welcoming Lantern</td><td>Rotated<br></td></tr>
+</tr><tr><td>1/198</td><td>Weedle</td><td>Rotated<br /></td></tr>
+<tr><td>2/198</td><td>Kakuna</td><td>Rotated<br /></td></tr>
+<tr><td>3/198</td><td>Beedrill</td><td>Rotated<br /></td></tr>
+<tr><td>4/198</td><td>Ledyba</td><td>Rotated<br /></td></tr>
+<tr><td>5/198</td><td>Ledian</td><td>Rotated<br /></td></tr>
+<tr><td>6/198</td><td>Heracross</td><td>Rotated<br /></td></tr>
+<tr><td>7/198</td><td>Celebi V</td><td>Rotated<br /></td></tr>
+<tr><td>8/198</td><td>Celebi VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>9/198</td><td>Snover</td><td>Rotated<br /></td></tr>
+<tr><td>10/198</td><td>Abomasnow</td><td>Rotated<br /></td></tr>
+<tr><td>11/198</td><td>Deerling</td><td>Rotated<br /></td></tr>
+<tr><td>12/198</td><td>Sawsbuck</td><td>Rotated<br /></td></tr>
+<tr><td>13/198</td><td>Bounsweet</td><td>Rotated<br /></td></tr>
+<tr><td>14/198</td><td>Steenee</td><td>Rotated<br /></td></tr>
+<tr><td>15/198</td><td>Tsareena</td><td>Rotated<br /></td></tr>
+<tr><td>16/198</td><td>Grookey</td><td>Rotated<br /></td></tr>
+<tr><td>17/198</td><td>Thwackey</td><td>Rotated<br /></td></tr>
+<tr><td>18/198</td><td>Rillaboom</td><td>Rotated<br /></td></tr>
+<tr><td>19/198</td><td>Zarude</td><td>Rotated<br /></td></tr>
+<tr><td>20/198</td><td>Blaziken V</td><td>Rotated<br /></td></tr>
+<tr><td>21/198</td><td>Blaziken VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>22/198</td><td>Castform Sunny Form</td><td>Rotated<br /></td></tr>
+<tr><td>23/198</td><td>Larvesta</td><td>Rotated<br /></td></tr>
+<tr><td>24/198</td><td>Volcarona</td><td>Rotated<br /></td></tr>
+<tr><td>25/198</td><td>Volcanion V</td><td>Rotated<br /></td></tr>
+<tr><td>26/198</td><td>Scorbunny</td><td>Rotated<br /></td></tr>
+<tr><td>27/198</td><td>Raboot</td><td>Rotated<br /></td></tr>
+<tr><td>28/198</td><td>Cinderace</td><td>Rotated<br /></td></tr>
+<tr><td>29/198</td><td>Lapras</td><td>Rotated<br /></td></tr>
+<tr><td>30/198</td><td>Sneasel</td><td>Rotated<br /></td></tr>
+<tr><td>31/198</td><td>Weavile</td><td>Rotated<br /></td></tr>
+<tr><td>32/198</td><td>Delibird</td><td>Rotated<br /></td></tr>
+<tr><td>33/198</td><td>Castform Rainy Form</td><td>Rotated<br /></td></tr>
+<tr><td>34/198</td><td>Castform Snowy Form</td><td>Rotated<br /></td></tr>
+<tr><td>35/198</td><td>Snorunt</td><td>Rotated<br /></td></tr>
+<tr><td>36/198</td><td>Froslass</td><td>Rotated<br /></td></tr>
+<tr><td>37/198</td><td>Spheal</td><td>Rotated<br /></td></tr>
+<tr><td>38/198</td><td>Sealeo</td><td>Rotated<br /></td></tr>
+<tr><td>39/198</td><td>Walrein</td><td>Rotated<br /></td></tr>
+<tr><td>40/198</td><td>Tapu Fini</td><td>Rotated<br /></td></tr>
+<tr><td>41/198</td><td>Sobble</td><td>Rotated<br /></td></tr>
+<tr><td>42/198</td><td>Drizzile</td><td>Rotated<br /></td></tr>
+<tr><td>43/198</td><td>Inteleon</td><td>Rotated<br /></td></tr>
+<tr><td>44/198</td><td>Rapid Strike Urshifu</td><td>Rotated<br /></td></tr>
+<tr><td>45/198</td><td>Ice Rider Calyrex V</td><td>Rotated<br /></td></tr>
+<tr><td>46/198</td><td>Ice Rider Calyrex VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>47/198</td><td>Mareep</td><td>Rotated<br /></td></tr>
+<tr><td>48/198</td><td>Flaaffy</td><td>Rotated<br /></td></tr>
+<tr><td>49/198</td><td>Ampharos</td><td>Rotated<br /></td></tr>
+<tr><td>50/198</td><td>Blitzle</td><td>Rotated<br /></td></tr>
+<tr><td>51/198</td><td>Zebstrika</td><td>Rotated<br /></td></tr>
+<tr><td>52/198</td><td>Thundurus</td><td>Rotated<br /></td></tr>
+<tr><td>53/198</td><td>Zeraora V</td><td>Rotated<br /></td></tr>
+<tr><td>54/198</td><td>Galarian Slowpoke</td><td>Rotated<br /></td></tr>
+<tr><td>55/198</td><td>Gastly</td><td>Rotated<br /></td></tr>
+<tr><td>56/198</td><td>Haunter</td><td>Rotated<br /></td></tr>
+<tr><td>57/198</td><td>Gengar</td><td>Rotated<br /></td></tr>
+<tr><td>58/198</td><td>Galarian Articuno V</td><td>Rotated<br /></td></tr>
+<tr><td>59/198</td><td>Ralts</td><td>Rotated<br /></td></tr>
+<tr><td>60/198</td><td>Kirlia</td><td>Rotated<br /></td></tr>
+<tr><td>61/198</td><td>Gardevoir</td><td>Rotated<br /></td></tr>
+<tr><td>62/198</td><td>Shuppet</td><td>Rotated<br /></td></tr>
+<tr><td>63/198</td><td>Banette</td><td>Rotated<br /></td></tr>
+<tr><td>64/198</td><td>Cresselia</td><td>Rotated<br /></td></tr>
+<tr><td>65/198</td><td>Golett</td><td>Rotated<br /></td></tr>
+<tr><td>66/198</td><td>Golurk</td><td>Rotated<br /></td></tr>
+<tr><td>67/198</td><td>Swirlix</td><td>Rotated<br /></td></tr>
+<tr><td>68/198</td><td>Slurpuff</td><td>Rotated<br /></td></tr>
+<tr><td>69/198</td><td>Inkay</td><td>Rotated<br /></td></tr>
+<tr><td>70/198</td><td>Malamar</td><td>Rotated<br /></td></tr>
+<tr><td>71/198</td><td>Hatenna</td><td>Rotated<br /></td></tr>
+<tr><td>72/198</td><td>Hattrem</td><td>Rotated<br /></td></tr>
+<tr><td>73/198</td><td>Hatterene</td><td>Rotated<br /></td></tr>
+<tr><td>74/198</td><td>Shadow Rider Calyrex V</td><td>Rotated<br /></td></tr>
+<tr><td>75/198</td><td>Shadow Rider Calyrex VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>76/198</td><td>Diglett</td><td>Rotated<br /></td></tr>
+<tr><td>77/198</td><td>Dugtrio</td><td>Rotated<br /></td></tr>
+<tr><td>78/198</td><td>Galarian Farfetch'd</td><td>Rotated<br /></td></tr>
+<tr><td>79/198</td><td>Galarian Sirfetch'd</td><td>Rotated<br /></td></tr>
+<tr><td>80/198</td><td>Galarian Zapdos V</td><td>Rotated<br /></td></tr>
+<tr><td>81/198</td><td>Gallade</td><td>Rotated<br /></td></tr>
+<tr><td>82/198</td><td>Galarian Yamask</td><td>Rotated<br /></td></tr>
+<tr><td>83/198</td><td>Galarian Runerigus</td><td>Rotated<br /></td></tr>
+<tr><td>84/198</td><td>Crabrawler</td><td>Rotated<br /></td></tr>
+<tr><td>85/198</td><td>Crabominable</td><td>Rotated<br /></td></tr>
+<tr><td>86/198</td><td>Rockruff</td><td>Rotated<br /></td></tr>
+<tr><td>87/198</td><td>Lycanroc</td><td>Rotated<br /></td></tr>
+<tr><td>88/198</td><td>Passimian</td><td>Rotated<br /></td></tr>
+<tr><td>89/198</td><td>Sandaconda V</td><td>Rotated<br /></td></tr>
+<tr><td>90/198</td><td>Sandaconda VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>91/198</td><td>Clobbopus</td><td>Rotated<br /></td></tr>
+<tr><td>92/198</td><td>Grapploct</td><td>Rotated<br /></td></tr>
+<tr><td>93/198</td><td>Kubfu</td><td>Rotated<br /></td></tr>
+<tr><td>94/198</td><td>Koffing</td><td>Rotated<br /></td></tr>
+<tr><td>95/198</td><td>Weezing</td><td>Rotated<br /></td></tr>
+<tr><td>96/198</td><td>Galarian Weezing</td><td>Rotated<br /></td></tr>
+<tr><td>97/198</td><td>Galarian Moltres V</td><td>Rotated<br /></td></tr>
+<tr><td>98/198</td><td>Galarian Slowking</td><td>Rotated<br /></td></tr>
+<tr><td>99/198</td><td>Galarian Slowking V</td><td>Rotated<br /></td></tr>
+<tr><td>100/198</td><td>Galarian Slowking VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>101/198</td><td>Qwilfish</td><td>Rotated<br /></td></tr>
+<tr><td>102/198</td><td>Seviper</td><td>Rotated<br /></td></tr>
+<tr><td>103/198</td><td>Spiritomb</td><td>Rotated<br /></td></tr>
+<tr><td>104/198</td><td>Liepard V</td><td>Rotated<br /></td></tr>
+<tr><td>105/198</td><td>Venipede</td><td>Rotated<br /></td></tr>
+<tr><td>106/198</td><td>Whirlipede</td><td>Rotated<br /></td></tr>
+<tr><td>107/198</td><td>Scolipede</td><td>Rotated<br /></td></tr>
+<tr><td>108/198</td><td>Single Strike Urshifu</td><td>Rotated<br /></td></tr>
+<tr><td>109/198</td><td>Aron</td><td>Rotated<br /></td></tr>
+<tr><td>110/198</td><td>Lairon</td><td>Rotated<br /></td></tr>
+<tr><td>111/198</td><td>Aggron</td><td>Rotated<br /></td></tr>
+<tr><td>112/198</td><td>Metagross V</td><td>Rotated<br /></td></tr>
+<tr><td>113/198</td><td>Metagross VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>114/198</td><td>Cobalion</td><td>Rotated<br /></td></tr>
+<tr><td>115/198</td><td>Tauros</td><td>Rotated<br /></td></tr>
+<tr><td>116/198</td><td>Porygon</td><td>Rotated<br /></td></tr>
+<tr><td>117/198</td><td>Porygon2</td><td>Rotated<br /></td></tr>
+<tr><td>118/198</td><td>Porygon-Z</td><td>Rotated<br /></td></tr>
+<tr><td>119/198</td><td>Blissey V</td><td>Rotated<br /></td></tr>
+<tr><td>120/198</td><td>Zangoose</td><td>Rotated<br /></td></tr>
+<tr><td>121/198</td><td>Castform</td><td>Rotated<br /></td></tr>
+<tr><td>122/198</td><td>Kecleon</td><td>Rotated<br /></td></tr>
+<tr><td>123/198</td><td>Shaymin</td><td>Rotated<br /></td></tr>
+<tr><td>124/198</td><td>Tornadus V</td><td>Rotated<br /></td></tr>
+<tr><td>125/198</td><td>Tornadus VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>126/198</td><td>Furfrou</td><td>Rotated<br /></td></tr>
+<tr><td>127/198</td><td>Skwovet</td><td>Rotated<br /></td></tr>
+<tr><td>128/198</td><td>Greedent</td><td>Rotated<br /></td></tr>
+<tr><td>129/198</td><td>Agatha</td><td>Rotated<br /></td></tr>
+<tr><td>130/198</td><td>Avery</td><td>Rotated<br /></td></tr>
+<tr><td>131/198</td><td>Brawly</td><td>Rotated<br /></td></tr>
+<tr><td>132/198</td><td>Caitlin</td><td>Rotated<br /></td></tr>
+<tr><td>133/198</td><td>Crushing Gloves</td><td>Rotated<br /></td></tr>
+<tr><td>134/198</td><td>Doctor</td><td>Rotated<br /></td></tr>
+<tr><td>135/198</td><td>Dyna Tree Hill</td><td>Rotated<br /></td></tr>
+<tr><td>136/198</td><td>Echoing Horn</td><td>Rotated<br /></td></tr>
+<tr><td>137/198</td><td>Expedition Uniform</td><td>Rotated<br /></td></tr>
+<tr><td>138/198</td><td>Fire-Resistant Gloves</td><td>Rotated<br /></td></tr>
+<tr><td>139/198</td><td>Flannery</td><td>Rotated<br /></td></tr>
+<tr><td>140/198</td><td>Fog Crystal</td><td>Rotated<br /></td></tr>
+<tr><td>141/198</td><td>Galarian Chestplate</td><td>Rotated<br /></td></tr>
+<tr><td>142/198</td><td>Honey</td><td>Rotated<br /></td></tr>
+<tr><td>143/198</td><td>Justified Gloves</td><td>Rotated<br /></td></tr>
+<tr><td>144/198</td><td>Karen's Conviction</td><td>Rotated<br /></td></tr>
+<tr><td>145/198</td><td>Klara</td><td>Rotated<br /></td></tr>
+<tr><td>146/198</td><td>Melony</td><td>Rotated<br /></td></tr>
+<tr><td>147/198</td><td>Old Cemetery</td><td>Rotated<br /></td></tr>
+<tr><td>148/198</td><td>Path to the Peak</td><td>Rotated<br /></td></tr>
+<tr><td>149/198</td><td>Peonia</td><td>Rotated<br /></td></tr>
+<tr><td>150/198</td><td>Peony</td><td>Rotated<br /></td></tr>
+<tr><td>151/198</td><td>Rapid Strike Scroll of the Skies</td><td>Rotated<br /></td></tr>
+<tr><td>152/198</td><td>Rugged Helmet</td><td>Rotated<br /></td></tr>
+<tr><td>153/198</td><td>Siebold</td><td>Rotated<br /></td></tr>
+<tr><td>154/198</td><td>Single Strike Scroll of Piercing</td><td>Rotated<br /></td></tr>
+<tr><td>155/198</td><td>Weeding Gloves</td><td>Rotated<br /></td></tr>
+<tr><td>156/198</td><td>Welcoming Lantern</td><td>Rotated<br /></td></tr>
+<tr><td>157/198</td><td>Impact Energy</td><td>Rotated<br /></td></tr>
+<tr><td>158/198</td><td>Lucky Energy</td><td>Rotated<br /></td></tr>
+<tr><td>159/198</td><td>Spiral Energy</td><td>Rotated<br /></td></tr>
+<tr><td>160/198</td><td>Celebi V</td><td>Rotated<br /></td></tr>
+<tr><td>161/198</td><td>Blaziken V</td><td>Rotated<br /></td></tr>
+<tr><td>162/198</td><td>Volcanion V</td><td>Rotated<br /></td></tr>
+<tr><td>163/198</td><td>Ice Rider Calyrex V</td><td>Rotated<br /></td></tr>
+<tr><td>164/198</td><td>Ice Rider Calyrex V</td><td>Rotated<br /></td></tr>
+<tr><td>165/198</td><td>Zeraora V</td><td>Rotated<br /></td></tr>
+<tr><td>166/198</td><td>Zeraora V</td><td>Rotated<br /></td></tr>
+<tr><td>167/198</td><td>Galarian Rapidash V</td><td>Rotated<br /></td></tr>
+<tr><td>168/198</td><td>Galarian Rapidash V</td><td>Rotated<br /></td></tr>
+<tr><td>169/198</td><td>Galarian Articuno V</td><td>Rotated<br /></td></tr>
+<tr><td>170/198</td><td>Galarian Articuno V</td><td>Rotated<br /></td></tr>
+<tr><td>171/198</td><td>Shadow Rider Calyrex V</td><td>Rotated<br /></td></tr>
+<tr><td>172/198</td><td>Shadow Rider Calyrex V</td><td>Rotated<br /></td></tr>
+<tr><td>173/198</td><td>Galarian Zapdos V</td><td>Rotated<br /></td></tr>
+<tr><td>174/198</td><td>Galarian Zapdos V</td><td>Rotated<br /></td></tr>
+<tr><td>175/198</td><td>Sandaconda V</td><td>Rotated<br /></td></tr>
+<tr><td>176/198</td><td>Galarian Moltres V</td><td>Rotated<br /></td></tr>
+<tr><td>177/198</td><td>Galarian Moltres V</td><td>Rotated<br /></td></tr>
+<tr><td>178/198</td><td>Galarian Slowking V</td><td>Rotated<br /></td></tr>
+<tr><td>179/198</td><td>Galarian Slowking V</td><td>Rotated<br /></td></tr>
+<tr><td>180/198</td><td>Liepard V</td><td>Rotated<br /></td></tr>
+<tr><td>181/198</td><td>Metagross V</td><td>Rotated<br /></td></tr>
+<tr><td>182/198</td><td>Blissey V</td><td>Rotated<br /></td></tr>
+<tr><td>183/198</td><td>Blissey V</td><td>Rotated<br /></td></tr>
+<tr><td>184/198</td><td>Tornadus V</td><td>Rotated<br /></td></tr>
+<tr><td>185/198</td><td>Tornadus V</td><td>Rotated<br /></td></tr>
+<tr><td>186/198</td><td>Agatha</td><td>Rotated<br /></td></tr>
+<tr><td>187/198</td><td>Avery</td><td>Rotated<br /></td></tr>
+<tr><td>188/198</td><td>Brawly</td><td>Rotated<br /></td></tr>
+<tr><td>189/198</td><td>Caitlin</td><td>Rotated<br /></td></tr>
+<tr><td>190/198</td><td>Doctor</td><td>Rotated<br /></td></tr>
+<tr><td>191/198</td><td>Flannery</td><td>Rotated<br /></td></tr>
+<tr><td>192/198</td><td>Honey</td><td>Rotated<br /></td></tr>
+<tr><td>193/198</td><td>Karen's Conviction</td><td>Rotated<br /></td></tr>
+<tr><td>194/198</td><td>Klara</td><td>Rotated<br /></td></tr>
+<tr><td>195/198</td><td>Melony</td><td>Rotated<br /></td></tr>
+<tr><td>196/198</td><td>Peonia</td><td>Rotated<br /></td></tr>
+<tr><td>197/198</td><td>Peony</td><td>Rotated<br /></td></tr>
+<tr><td>198/198</td><td>Siebold</td><td>Rotated<br /></td></tr>
+<tr><td>199/198</td><td>Celebi VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>200/198</td><td>Blaziken VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>201/198</td><td>Blaziken VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>202/198</td><td>Ice Rider Calyrex VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>203/198</td><td>Ice Rider Calyrex VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>204/198</td><td>Shadow Rider Calyrex VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>205/198</td><td>Shadow Rider Calyrex VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>206/198</td><td>Sandaconda VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>207/198</td><td>Galarian Slowking VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>208/198</td><td>Metagross VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>209/198</td><td>Tornadus VMAX</td><td>Rotated<br /></td></tr>
+<tr><td>210/198</td><td>Agatha</td><td>Rotated<br /></td></tr>
+<tr><td>211/198</td><td>Avery</td><td>Rotated<br /></td></tr>
+<tr><td>212/198</td><td>Brawly</td><td>Rotated<br /></td></tr>
+<tr><td>213/198</td><td>Caitlin</td><td>Rotated<br /></td></tr>
+<tr><td>214/198</td><td>Doctor</td><td>Rotated<br /></td></tr>
+<tr><td>215/198</td><td>Flannery</td><td>Rotated<br /></td></tr>
+<tr><td>216/198</td><td>Karen's Conviction</td><td>Rotated<br /></td></tr>
+<tr><td>217/198</td><td>Klara</td><td>Rotated<br /></td></tr>
+<tr><td>218/198</td><td>Melony</td><td>Rotated<br /></td></tr>
+<tr><td>219/198</td><td>Peonia</td><td>Rotated<br /></td></tr>
+<tr><td>220/198</td><td>Peony</td><td>Rotated<br /></td></tr>
+<tr><td>221/198</td><td>Siebold</td><td>Rotated<br /></td></tr>
+<tr><td>222/198</td><td>Electrode</td><td>Rotated<br /></td></tr>
+<tr><td>223/198</td><td>Bronzong</td><td>Rotated<br /></td></tr>
+<tr><td>224/198</td><td>Snorlax</td><td>Rotated<br /></td></tr>
+<tr><td>225/198</td><td>Echoing Horn</td><td>Rotated<br /></td></tr>
+<tr><td>226/198</td><td>Fan of Waves</td><td>Rotated<br /></td></tr>
+<tr><td>227/198</td><td>Fog Crystal</td><td>Rotated<br /></td></tr>
+<tr><td>228/198</td><td>Rugged Helmet</td><td>Rotated<br /></td></tr>
+<tr><td>229/198</td><td>Urn of Vitality</td><td>Rotated<br /></td></tr>
+<tr><td>230/198</td><td>Welcoming Lantern</td><td>Rotated<br /></td></tr>
 <tr><td>231/198</td><td>Water Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>232/198</td><td>Psychic Energy</td><td>Safe, Basic Energy Card</td></tr>
 <tr><td>233/198</td><td>Fighting Energy</td><td>Safe, Basic Energy Card</td></tr>

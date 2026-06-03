@@ -569,7 +569,7 @@ The following cards (and any alternate printings) are banned in the Quick Draw f
     <li><a href="https://limitlesstcg.com/cards/unm/206/" class="jlink">Reset Stamp UNM 206</a></li>
   </ul>
 </div>
-<br>
+<br />
 <span class="jb-fs10"><sup>†</sup> For sets with Shiny Vaults, Trainer Galleries, or a Galarian Gallery, cards in that subset are only legal if that card's original set is one of the sets drawn for the Quick Draw format. This means, for example, that even if Shining Fates is one of the sets drawn for Quick Draw, Charizard VMAX SHF SV107 isn't legal in the Quick Draw format unless Darkness Ablaze is one of the five sets drawn. Cards from Radiant Collections are legal for the format if the set that Radiant Collection is tied to is legal.</span>
 </div>
 
@@ -648,9 +648,9 @@ In the Type Focus format, all players are restricted to the same single† type 
 <p>A tournament held in the Type Focus format will announce which type the tournament is to be centered around when announced. For example, a tournament may be held in the Type Focus–Grass format, which would mean that types of allowed Pokémon would be Grass and Colorless and all players would need to primarily build around the Grass type.</p>
 </div><div class="jb-code-container">
     <span class="jb-fs10"><sup>†</sup> With two exceptions, aside from Colorless Pokémon:
-<br> 
+<br /> 
 <b>Exception 1</b>: Pokémon of the focus type whose pre-evolutions have <i>no other available</i> types may be used if and only if their Type Focus typed evolution is present in the deck. However, the use of these pre-evolutions counts against the deck's number of permitted Colorless Pokémon. (For example a Type Focus–Fairy deck <i>could</i> include 4 copies of Alolan Vulpix GRI 21 and 4 copies of Alolan Ninetales CEC 145, but in order to include a copy of Ditto {*} LOT 154, the deck would need to include a fifth Fairy-type Pokémon card.)
-<br><b>Exception 2</b>: Pokémon with multiple printed types. So long as one of the types printed on the card is the assigned focus type, the card is permitted. For example, M Gardevoir STS 79 is both Psychic and Fairy type. This means that the card is legal for use in both the Type Focus–Fairy and Type Focus–Psychic formats. These Pokémon simply count as the assigned type in their corresponding Type Focus formats.
+<br /><b>Exception 2</b>: Pokémon with multiple printed types. So long as one of the types printed on the card is the assigned focus type, the card is permitted. For example, M Gardevoir STS 79 is both Psychic and Fairy type. This means that the card is legal for use in both the Type Focus–Fairy and Type Focus–Psychic formats. These Pokémon simply count as the assigned type in their corresponding Type Focus formats.
 </span></div>
 
 ---

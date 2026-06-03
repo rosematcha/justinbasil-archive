@@ -8,12 +8,12 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
   <div> 
-    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb" />
+    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15" />
     <h1 class="jb-white-center-margin5">Set List</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv1">Set List</a> | 
           <a class="blink" href="/visual/sv1">Visual Set List</a>  |

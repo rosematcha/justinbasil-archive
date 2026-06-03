@@ -21,7 +21,7 @@ The following card is no longer banned in the listed formats:
     <li><a href="https://pkmncards.com/card/dusk-stone-unbroken-bonds-unb-167/">Dusk Stone UNB 167</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-167-r-en-lg-4a1586.webp"><img src="/images/unb-167-r-en-lg-4a1586.webp" alt="UNB_167_R_EN_LG.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-167-r-en-lg-4a1586.webp"><img src="/images/unb-167-r-en-lg-4a1586.webp" alt="UNB_167_R_EN_LG.png" loading="lazy" /></a></figure></div>
 
 **In the Dream, Quick Draw, and Type Focus Formats**
 
@@ -36,7 +36,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://pkmncards.com/card/mismagius-unbroken-bonds-unb-78/">Mismagius UNB 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops.webp"><img src="/images/dusclops.webp" alt="Dusclops.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops.webp"><img src="/images/dusclops.webp" alt="Dusclops.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy" /></a></figure></div>
 
 **In the Alola Format**
 
@@ -49,7 +49,7 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://pkmncards.com/card/mismagius-unbroken-bonds-unb-78/">Mismagius UNB 78</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp"><img src="/images/en-us-sm10-109-honchkrow-gx-f9466f.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-078-mismagius.webp"><img src="/images/en-us-sm10-078-mismagius.webp" alt="en_US-SM10-078-mismagius.jpg" loading="lazy" /></a></figure></div>
 
 **In the Pauper Format**
 
@@ -61,5 +61,5 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/sfa/19/">Dusclops SFA 19</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy"></a></figure></div>
+</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy" /></a></figure></div>
 

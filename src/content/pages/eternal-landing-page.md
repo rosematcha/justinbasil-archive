@@ -70,7 +70,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/paradoxrifteternalbanlistupdate" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="IMG_5846.jpeg" class="summary-thumbnail-image" src="/images/img-5846.webp" loading="lazy">
+          <img alt="IMG_5846.jpeg" class="summary-thumbnail-image" src="/images/img-5846.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -107,7 +107,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/emergency-ban-list-update-eternal-format-1" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Houndoom UF Header.png" class="summary-thumbnail-image" src="/images/houndoom-uf-header.webp" loading="lazy">
+          <img alt="Houndoom UF Header.png" class="summary-thumbnail-image" src="/images/houndoom-uf-header.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -144,7 +144,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/obsidian-flames-alternate-formats-ban-list-update-345-aceless-and-eternal-formats" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Hariyama.png" class="summary-thumbnail-image" src="/images/hariyama-baa521.webp" loading="lazy">
+          <img alt="Hariyama.png" class="summary-thumbnail-image" src="/images/hariyama-baa521.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -181,7 +181,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/paldea-evolved-alternate-formats-ban-list-update-345-aceless-and-eternal-formats" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Brock's Box.png" class="summary-thumbnail-image" src="/images/brock-s-box.webp" loading="lazy">
+          <img alt="Brock's Box.png" class="summary-thumbnail-image" src="/images/brock-s-box.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -218,7 +218,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/resources/alternate-formats-ban-list-update-scarlet-amp-violet-eternal-format-updates" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Penny.png" class="summary-thumbnail-image" src="/images/penny-aeebb6.webp" loading="lazy">
+          <img alt="Penny.png" class="summary-thumbnail-image" src="/images/penny-aeebb6.webp" loading="lazy" />
     </div>
   </a>
     </div>

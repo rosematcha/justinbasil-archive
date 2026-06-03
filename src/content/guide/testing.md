@@ -17,7 +17,7 @@ Before your very first tests, it’s a good idea to give the deck one last look 
     <div class="jb-cta-banner" style="max-width:750px;background-color:#eec7ec;border:5px solid #64295f;color:#000">
   <div class="jb-p5">
      <span class="jb-25-bold-upper">Functional Deck Checklist</span>
-<br>
+<br />
       <ul>
         <li>The deck contains exactly 60 cards.</li>
         <li>The deck contains at least one Basic Pokémon.</li>

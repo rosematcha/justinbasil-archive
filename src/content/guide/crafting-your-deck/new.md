@@ -56,7 +56,7 @@ The link below summarizes the four basic strategies employed in a deck—Aggress
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Deck Strategy</span>
-<br>
+<br />
     Click here to learn more about the basic strategies that decks use to win.</p>
   </div>
 </div></a>
@@ -84,7 +84,7 @@ Review the article on deck structure to better understand how the different type
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Deck Structure</span>
-<br>
+<br />
     Click here to learn more about a deck's skeleton.</p>
   </div>
 </div></a>
@@ -112,7 +112,7 @@ The link below will help you understand what it takes for a Pokémon to be a gre
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Main Attacker</span>
-<br>
+<br />
     Click here to learn more about how to choose a great main attacker.</p>
   </div>
 </div></a>
@@ -136,7 +136,7 @@ So, in order to use this Aggron in our deck, we’ll need to include both Aron a
 
 Since we now know that we need to include both Aron and Lairon—we’ll start by looking at our options for Aron. Using the [Limitless TCG Card Database](https://limitlesstcg.com/cards/?cpp=default&display=grid&q=format%3Astandard%20Aron&show=all&sort=set), we can see that there are just two different Aron available to us in the Standard format. Each of these possibilities is pictured below.
 
-</div></div><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/crz-087-r-en.webp"><img src="/images/crz-087-r-en.webp" alt="Aron CRZ 87" loading="lazy"></a><figcaption>Aron CRZ 87</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/twm-120-r-en-50017a.webp"><img src="/images/twm-120-r-en-50017a.webp" alt="Aron TWM 120" loading="lazy"></a><figcaption>Aron TWM 120</figcaption></figure></div></div><div class="jb-col-4"></div></div></div></div>
+</div></div><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/crz-087-r-en.webp"><img src="/images/crz-087-r-en.webp" alt="Aron CRZ 87" loading="lazy" /></a><figcaption>Aron CRZ 87</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/twm-120-r-en-50017a.webp"><img src="/images/twm-120-r-en-50017a.webp" alt="Aron TWM 120" loading="lazy" /></a><figcaption>Aron TWM 120</figcaption></figure></div></div><div class="jb-col-4"></div></div></div></div>
 
 When considering which basic Pokémon to use for your Stage 1 or Stage 2 deck, you often will have more than one option—and some are certainly better than others. When selecting which Basic Pokémon to use, there are a few things to consider. In general, Basic Pokémon with one or more of the following attributes tend to be the best option:
 
@@ -258,7 +258,7 @@ Although not every deck includes one, Secondary Attackers are often critical par
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Secondary Attackers</span>
-<br>
+<br />
     Click here to learn more about secondary attackers.</p>
   </div>
 </div></a>
@@ -374,7 +374,7 @@ However, there are other options available to a deck builder that, in conjunctio
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Draw Cards</span>
-<br>
+<br />
     Click here to review your Draw options.</p>
   </div>
 </div></a>
@@ -385,31 +385,31 @@ Now, returning to the deck we’re building around Aggron, it’s time for us to
 <div class="jb-row"><div class="jb-col-6"><div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
   <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SSH_178_R_EN.png" data-type="image" src="/images/ssh-178-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="SSH_178_R_EN.png" data-type="image" src="/images/ssh-178-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SHF_060_R_EN.png" data-type="image" src="/images/shf-060-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="SHF_060_R_EN.png" data-type="image" src="/images/shf-060-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="CEL_023_R_EN.png" data-type="image" src="/images/cel-023-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="CEL_023_R_EN.png" data-type="image" src="/images/cel-023-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="BRS_147_R_EN_LG.png" data-type="image" src="/images/brs-147-r-en-lg.webp" loading="lazy">
+                <img class="thumb-image" alt="BRS_147_R_EN_LG.png" data-type="image" src="/images/brs-147-r-en-lg.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SSP_178_R_EN_LG.png" data-type="image" src="/images/ssp-178-r-en-lg.webp" loading="lazy">
+                <img class="thumb-image" alt="SSP_178_R_EN_LG.png" data-type="image" src="/images/ssp-178-r-en-lg.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_189_Professor_s_Research_(Sada).png" data-type="image" src="/images/pokemon-tcg-scarlet-violet-189-professor-s-research-sada.webp" loading="lazy">
+                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_189_Professor_s_Research_(Sada).png" data-type="image" src="/images/pokemon-tcg-scarlet-violet-189-professor-s-research-sada.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_190_Professor_s_Research_(Turo).png" data-type="image" src="/images/pokemon-tcg-scarlet-violet-190-professor-s-research-turo.webp" loading="lazy">
+                <img class="thumb-image" alt="Pokemon_TCG_Scarlet_Violet_190_Professor_s_Research_(Turo).png" data-type="image" src="/images/pokemon-tcg-scarlet-violet-190-professor-s-research-turo.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
   </div>
@@ -428,23 +428,23 @@ For now, we’ll add four copies of Professor’s Research.
 </div></div></div><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
   <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="UL_078_R_EN_LG (1).png" data-type="image" src="/images/ul-078-r-en-lg-1.webp" loading="lazy">
+                <img class="thumb-image" alt="UL_078_R_EN_LG (1).png" data-type="image" src="/images/ul-078-r-en-lg-1.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="BKT_143_R_EN_LG.png" data-type="image" src="/images/bkt-143-r-en-lg.webp" loading="lazy">
+                <img class="thumb-image" alt="BKT_143_R_EN_LG.png" data-type="image" src="/images/bkt-143-r-en-lg.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="FLI_108_R_EN_LG.png" data-type="image" src="/images/fli-108-r-en-lg.webp" loading="lazy">
+                <img class="thumb-image" alt="FLI_108_R_EN_LG.png" data-type="image" src="/images/fli-108-r-en-lg.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="FST_235_R_EN_LG.png" data-type="image" src="/images/fst-235-r-en-lg-c0120d.webp" loading="lazy">
+                <img class="thumb-image" alt="FST_235_R_EN_LG.png" data-type="image" src="/images/fst-235-r-en-lg-c0120d.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SVI_176_R_EN.png" data-type="image" src="/images/svi-176-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="SVI_176_R_EN.png" data-type="image" src="/images/svi-176-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
   </div>
@@ -607,7 +607,7 @@ The cards used to find the Pokémon in a deck are often as important as the Pok�
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Pokémon Search</span>
-<br>
+<br />
     Click here to review your Pokémon Search options.</p>
   </div>
 </div></a>
@@ -735,7 +735,7 @@ Decks need **Gusting**—the ability to selectively switch an opponent’s Activ
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Gusting and Repulsion</span>
-<br>
+<br />
     Click here to review your Gusting and Repulsion options.</p>
   </div>
 </div></a>
@@ -746,19 +746,19 @@ Our deck, like all decks, needs cards that will allow us to gust up our opponent
 <div class="jb-row"><div class="jb-col-2"><div class="jb-block jb-gallery-block jb-block-gallery"><div class="jb-gallery-container jb-gallery-block-slideshow jb-gallery-has-controls jb-gallery-block-show-meta block-animation-none clear">
   <div class="jb-gallery">
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="PAL_172_R_EN.png" data-type="image" src="/images/pal-172-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="PAL_172_R_EN.png" data-type="image" src="/images/pal-172-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="BRS_132_R_EN.png" data-type="image" src="/images/brs-132-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="BRS_132_R_EN.png" data-type="image" src="/images/brs-132-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="SHF_058_R_EN.png" data-type="image" src="/images/shf-058-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="SHF_058_R_EN.png" data-type="image" src="/images/shf-058-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
             <div class="slide content-fit" data-type="image" data-click-through-url="">
-                <img class="thumb-image" alt="RCL_154_R_EN.png" data-type="image" src="/images/rcl-154-r-en.webp" loading="lazy">
+                <img class="thumb-image" alt="RCL_154_R_EN.png" data-type="image" src="/images/rcl-154-r-en.webp" loading="lazy" />
               <div class="color-overlay"></div>
             </div>
   </div>
@@ -872,7 +872,7 @@ However, because Energy cards are not the only important cards in our deck, we n
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Energy and Energy Acceleration</span>
-<br>
+<br />
     Click here to learn more about Energy and to review your Energy Accleration options.</p>
   </div>
 </div></a>
@@ -1007,7 +1007,7 @@ Now, let’s add the 10 Basic Metal Energy and the two copies of Giant Hearth to
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Consistency and Setup</span>
-<br>
+<br />
     Click here to review cards that help decks be more consistent.</p>
   </div>
 </div></a>
@@ -1146,7 +1146,7 @@ Now that we’ve added Rare Candy and reduced the number of Charmeleon in our de
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Switching and Prize Denial</span>
-<br>
+<br />
     Click here to review your Switching and Prize Denial options.</p>
   </div>
 </div></a>
@@ -1276,7 +1276,7 @@ Let’s add Rescue Board to our deck list.
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Recovery and Rebound</span>
-<br>
+<br />
     Click here to review your Recovery and Rebound options.</p>
   </div>
 </div></a>
@@ -1407,7 +1407,7 @@ With Fire Crystal and Ordinary Rod added to our deck list, we’re one step clos
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Disruption</span>
-<br>
+<br />
     Click here to review your Disruption options.</p>
   </div>
 </div></a>
@@ -1465,7 +1465,7 @@ As we haven’t made any changes to our deck list after reviewing our Disruption
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Damage Control</span>
-<br>
+<br />
     Click here to review your Damage Control options.</p>
   </div>
 </div></a>
@@ -1600,7 +1600,7 @@ Go through each of the steps in the *Cutting Cards* box below.
     <div class="jb-cta-banner" style="max-width:750px;background-color:#dffefd;border:5px solid #96aaad;color:#000">
   <div class="jb-p5">
      <span class="jb-25-bold-upper">Cutting Cards</span>
-<br>
+<br />
       <ul>
         <li>Revisit the article on <a href="/guide/deck-structure" class="jb-darkblue">Deck Structure</a>. If your deck's skeleton differs significantly from the general deck skeleton, cut cards that have moved your deck list away from it.</li>
         <li>Consider thinning your lines of Pokémon.</li> 

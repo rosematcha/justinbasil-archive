@@ -145,8 +145,8 @@ A little overwhelmed with the choices? That’s okay. Below is a generic set of 
     <td class="jb-th">General Search Set</td>
   </tr>
   <tr>
-    <td>4 Nest Ball SVI 181<br>
-    4 Ultra Ball SVI 196<br>
+    <td>4 Nest Ball SVI 181<br />
+    4 Ultra Ball SVI 196<br />
   </td></tr>
 </tbody></table>
 </div></div><div class="jb-col-4"></div></div>

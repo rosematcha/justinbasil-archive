@@ -36,7 +36,7 @@ In addition to the valuable deck lists and tournament information available at L
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Meta Decks</span>
-<br>
+<br />
     These established deck archetypes have proved themselves in large competitions. These are the most important decks to be aware of when choosing or constructing a deck of your own.</p>
   </div>
 </div></a>
@@ -45,7 +45,7 @@ In addition to the valuable deck lists and tournament information available at L
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Budget Decks</span>
-<br>
+<br />
     These decks aren’t likely to win any big tournaments, but  offer a relatively cheap way to get into the Pokémon Trading Card Game and are stepping stones toward more competitive decks.</p>
   </div>
 </div></a>

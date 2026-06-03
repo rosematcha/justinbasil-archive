@@ -143,7 +143,7 @@ If you find yourself unsure of which cards above are the best fit for your deck,
     <td class="jb-th">General Gusting Set</td>
   </tr>
   <tr>
-    <td>3 Boss's Orders RCL 154<br></td>
+    <td>3 Boss's Orders RCL 154<br /></td>
   </tr>
 </tbody></table>
 </div></div><div class="jb-col-4"></div></div>

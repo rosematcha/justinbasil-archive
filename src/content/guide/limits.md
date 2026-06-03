@@ -31,12 +31,12 @@ The Rule of Four also applies to cards featuring Pokémon, though the rules abou
   <li>Some Pokémon cards have extra information after their name, such as a Level or a symbol like <span class="jb-pkmntcg">l</span>. A Pokémon's name changes how you can evolve or play certain cards. Level is <i>not</i> part of a Pokémon's name:</li>
   <ul>
     <li>Gengar, Gengar LV. 43, Gengar LV. 44, and Gengar <i>LV.X</i> all have the same name.</li>
-  </ul><br>
+  </ul><br />
   <li>Symbols at the end of a Pokémon's name are part of a Pokémon's name:
   <ul>
     <li>Alakazam, Alakazam <span class="jb-pkmntcg">4</span>, and Alakazam <span class="jb-pkmntcg">*</span> all have different names from each other.
       </li><li>However, <span class="jb-pkmntcg">d</span> (Delta Species) is not part of a Pokémon's name. Aerodactyl and Aerodactyl <span class="jb-pkmntcg">d</span> (Delta Species) have the same name.
-       </li><br>
+       </li><br />
     </ul>
   </li>
   <li>An owner or form name in a Pokémon's name is part of the Pokémon's name:
@@ -45,7 +45,7 @@ The Rule of Four also applies to cards featuring Pokémon, though the rules abou
     </ul>
   </li>
 </ul>
-  When you are building a deck, you can have only 4 copies of a card with the same name in it, except for basic Energy cards. If your deck has 1 each of Gengar, Gengar LV. 43, Gengar LV. 44, and Gengar <i>LV.X</i>, you can't put any more cards named Gengar in your deck! However, you could have 4 Meowth, 4 Alolan Meowth, and 4 Rocket's Meowth.<br><br>
+  When you are building a deck, you can have only 4 copies of a card with the same name in it, except for basic Energy cards. If your deck has 1 each of Gengar, Gengar LV. 43, Gengar LV. 44, and Gengar <i>LV.X</i>, you can't put any more cards named Gengar in your deck! However, you could have 4 Meowth, 4 Alolan Meowth, and 4 Rocket's Meowth.<br /><br />
   When evolving, the "evolves from" Pokémon name must match the Pokémon being evolved. So Graveler can evolve from Geodude, or Geodude LV. 12, but not Brock's Geodude.
 </div>
 </div>
@@ -129,13 +129,13 @@ Although Fairy Energy is also a Basic Energy card, Fairy Energy is not legal in 
 
 Whereas you can have up to 59 copies of any basic Energy in your deck, Radiant Pokémon are a bit more restrictive. Not only can you have just a single copy of your Radiant Pokémon, you can only include one Radiant Pokémon of any kind. This means that if you include Radiant Greninja ASR 46, you can’t also include Radiant Gardevoir LOR 69 in your deck.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ssp-230-r-en-lg.webp"><img src="/images/ssp-230-r-en-lg.webp" alt="SSP_230_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/181-6-0f4d9b.webp"><img src="/images/181-6-0f4d9b.webp" alt="181-6.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/146-7-81e0b7.webp"><img src="/images/146-7-81e0b7.webp" alt="146-7.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/127-18-fe49cc.webp"><img src="/images/127-18-fe49cc.webp" alt="127-18.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/14-53.webp"><img src="/images/14-53.webp" alt="14-53.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/111-29.webp"><img src="/images/111-29.webp" alt="111-29.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp"><img src="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp" alt="Pokemon_TCG_Pokemon_GO_Radiant_Blastoise_(18).png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/069.webp"><img src="/images/069.webp" alt="069.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/123.webp"><img src="/images/123.webp" alt="123.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/124.webp"><img src="/images/124.webp" alt="124.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/016-3eccc5.webp"><img src="/images/016-3eccc5.webp" alt="016.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/059-85c3e9.webp"><img src="/images/059-85c3e9.webp" alt="059.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/120-21af8d.webp"><img src="/images/120-21af8d.webp" alt="120.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3661.webp"><img src="/images/img-3661.webp" alt="IMG_3661.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3662.webp"><img src="/images/img-3662.webp" alt="IMG_3662.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3663.webp"><img src="/images/img-3663.webp" alt="IMG_3663.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ssp-230-r-en-lg.webp"><img src="/images/ssp-230-r-en-lg.webp" alt="SSP_230_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/181-6-0f4d9b.webp"><img src="/images/181-6-0f4d9b.webp" alt="181-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/146-7-81e0b7.webp"><img src="/images/146-7-81e0b7.webp" alt="146-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/127-18-fe49cc.webp"><img src="/images/127-18-fe49cc.webp" alt="127-18.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/14-53.webp"><img src="/images/14-53.webp" alt="14-53.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/111-29.webp"><img src="/images/111-29.webp" alt="111-29.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp"><img src="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp" alt="Pokemon_TCG_Pokemon_GO_Radiant_Blastoise_(18).png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/069.webp"><img src="/images/069.webp" alt="069.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/123.webp"><img src="/images/123.webp" alt="123.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/124.webp"><img src="/images/124.webp" alt="124.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/016-3eccc5.webp"><img src="/images/016-3eccc5.webp" alt="016.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/059-85c3e9.webp"><img src="/images/059-85c3e9.webp" alt="059.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/120-21af8d.webp"><img src="/images/120-21af8d.webp" alt="120.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3661.webp"><img src="/images/img-3661.webp" alt="IMG_3661.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3662.webp"><img src="/images/img-3662.webp" alt="IMG_3662.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3663.webp"><img src="/images/img-3663.webp" alt="IMG_3663.png" loading="lazy" /></a></figure></div>
 
 ### Third Exception to the Rule of Four - ACE SPECs
 
 Like Radiant Pokémon, ACE SPECs are extremely powerful cards that are limited to just a single copy of any one ACE SPEC in your deck. This means that if you include Prime Catcher, you can’t also include Unfair Stamp in your deck.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv05-en-141-2x.webp"><img src="/images/sv05-en-141-2x.webp" alt="SV05_EN_141-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-152-2x.webp"><img src="/images/sv05-en-152-2x.webp" alt="SV05_EN_152-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-152-r-en.webp"><img src="/images/twm-152-r-en.webp" alt="TWM_152_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-167-r-en.webp"><img src="/images/twm-167-r-en.webp" alt="TWM_167_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-153-2x.webp"><img src="/images/sv05-en-153-2x.webp" alt="SV05_EN_153-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-154-2x.webp"><img src="/images/sv05-en-154-2x.webp" alt="SV05_EN_154-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-162-2x.webp"><img src="/images/sv05-en-162-2x.webp" alt="SV05_EN_162-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-157-2x.webp"><img src="/images/sv05-en-157-2x.webp" alt="SV05_EN_157-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-158-2x.webp"><img src="/images/sv05-en-158-2x.webp" alt="SV05_EN_158-2x.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-162-r-en-bfa7e8.webp"><img src="/images/twm-162-r-en-bfa7e8.webp" alt="TWM_162_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-163-r-en.webp"><img src="/images/twm-163-r-en.webp" alt="TWM_163_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-164-r-en.webp"><img src="/images/twm-164-r-en.webp" alt="TWM_164_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-165-r-en.webp"><img src="/images/twm-165-r-en.webp" alt="TWM_165_R_EN.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv05-en-141-2x.webp"><img src="/images/sv05-en-141-2x.webp" alt="SV05_EN_141-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-152-2x.webp"><img src="/images/sv05-en-152-2x.webp" alt="SV05_EN_152-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-152-r-en.webp"><img src="/images/twm-152-r-en.webp" alt="TWM_152_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-167-r-en.webp"><img src="/images/twm-167-r-en.webp" alt="TWM_167_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-153-2x.webp"><img src="/images/sv05-en-153-2x.webp" alt="SV05_EN_153-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-154-2x.webp"><img src="/images/sv05-en-154-2x.webp" alt="SV05_EN_154-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-162-2x.webp"><img src="/images/sv05-en-162-2x.webp" alt="SV05_EN_162-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-157-2x.webp"><img src="/images/sv05-en-157-2x.webp" alt="SV05_EN_157-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-158-2x.webp"><img src="/images/sv05-en-158-2x.webp" alt="SV05_EN_158-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-162-r-en-bfa7e8.webp"><img src="/images/twm-162-r-en-bfa7e8.webp" alt="TWM_162_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-163-r-en.webp"><img src="/images/twm-163-r-en.webp" alt="TWM_163_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-164-r-en.webp"><img src="/images/twm-164-r-en.webp" alt="TWM_164_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-165-r-en.webp"><img src="/images/twm-165-r-en.webp" alt="TWM_165_R_EN.png" loading="lazy" /></a></figure></div>
 
 ## What’s Not Allowed
 
@@ -236,7 +236,7 @@ Below is a pair of tables excerpted from the document [Play! Pokémon Tournament
     <td>French</td>
   </tr>
   <tr bgcolor="#f2f2f2">
-    <td>Argentina, Brazil, Chile, Colombia, <br>
+    <td>Argentina, Brazil, Chile, Colombia, <br />
       Ecuador, Panama, Paraguay, Peru</td>
     <td>Portuguese</td>
   </tr>
@@ -251,22 +251,22 @@ Every card that is used in your deck must be legal in the format you’re buildi
 <div class="jb-code-container">
 <div class="mobile-collapse">
   <ol>
-  <dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy"> Brilliant Stars</dd>
-  <dd><img src="/images/ss10-png.webp" width="30" height="30" loading="lazy"> Astral Radiance</dd>
-  <dd><img src="/images/pgo.webp" width="30" height="30" loading="lazy"> Pokémon GO</dd>
-  <dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy"> Lost Origin</dd>
-  <dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy"> Silver Tempest</dd>
-  <dd><img src="/images/cze.webp" width="30" height="30" loading="lazy"> Crown Zenith</dd>
-  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
-  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
-  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
-  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
-  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
-  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
-  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
-  <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
-  <dd><img src="/images/sfa.webp" width="35" height="30" loading="lazy"> Shrouded Fable (SFA)</dd>
-  <dd><img src="/images/scr.webp" width="35" height="30" loading="lazy"> Stellar Crown (SCR)</dd>
+  <dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy" /> Brilliant Stars</dd>
+  <dd><img src="/images/ss10-png.webp" width="30" height="30" loading="lazy" /> Astral Radiance</dd>
+  <dd><img src="/images/pgo.webp" width="30" height="30" loading="lazy" /> Pokémon GO</dd>
+  <dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy" /> Lost Origin</dd>
+  <dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy" /> Silver Tempest</dd>
+  <dd><img src="/images/cze.webp" width="30" height="30" loading="lazy" /> Crown Zenith</dd>
+  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy" /> Scarlet &amp; Violet (SVI)</dd>
+  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy" /> Paldea Evolved (PAL)</dd>
+  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy" /> Obsidian Flames (OBF)</dd>
+  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy" /> Scarlet &amp; Violet—151 (MEW)</dd>
+  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy" /> Paradox Rift (PAR)</dd>
+  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy" /> Paldean Fates (PAF)</dd>
+  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy" /> Temporal Forces (TEF)</dd>
+  <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy" /> Twilight Masquerade (TWM)</dd>
+  <dd><img src="/images/sfa.webp" width="35" height="30" loading="lazy" /> Shrouded Fable (SFA)</dd>
+  <dd><img src="/images/scr.webp" width="35" height="30" loading="lazy" /> Stellar Crown (SCR)</dd>
   </ol>
 </div>
 </div><div class="jb-row"><div class="jb-col-8">

@@ -8,12 +8,12 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-stellar-crown-logo.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV6.5 Set Identifier" src="/images/scr.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-stellar-crown-logo.webp" loading="lazy" class="jb-deck-thumb" />
+    <img alt="SV6.5 Set Identifier" src="/images/scr.webp" loading="lazy" class="jb-icon-center-mt15" />
     <h1 class="jb-white-center-margin5">Set List</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about our seventh Scarlet &amp; Violet set by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv7">Set List</a>  |
           <a class="blink" href="/translations/sv7">Card Translations</a>  |

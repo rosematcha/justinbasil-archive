@@ -96,7 +96,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/white-flare-amp-black-bolt-opening" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="BLW WHT Pack Opening.jpg" class="summary-thumbnail-image" src="/images/blw-wht-pack-opening.webp" loading="lazy">
+          <img alt="BLW WHT Pack Opening.jpg" class="summary-thumbnail-image" src="/images/blw-wht-pack-opening.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -133,7 +133,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/pokbeach-podcast-episode-74-stunning-new-mega-evolution-cards-and-mega-dragonite-revealed" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="geodude.jpg" class="summary-thumbnail-image" src="/images/geodude-63b014.webp" loading="lazy">
+          <img alt="geodude.jpg" class="summary-thumbnail-image" src="/images/geodude-63b014.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -170,7 +170,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-team-rockets-weezing-vs-liability-weezing" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="01 Team Rocket's Weezing v Liability Weezing.jpg" class="summary-thumbnail-image" src="/images/01-team-rocket-s-weezing-v-liability-weezing.webp" loading="lazy">
+          <img alt="01 Team Rocket's Weezing v Liability Weezing.jpg" class="summary-thumbnail-image" src="/images/01-team-rocket-s-weezing-v-liability-weezing.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -207,7 +207,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-mewtwo-v-union-vs-feraligatr-first-drafts-22" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="03 First Drafts Feraligatr v Mewtwo V-UNION.jpg" class="summary-thumbnail-image" src="/images/03-first-drafts-feraligatr-v-mewtwo-v-union.webp" loading="lazy">
+          <img alt="03 First Drafts Feraligatr v Mewtwo V-UNION.jpg" class="summary-thumbnail-image" src="/images/03-first-drafts-feraligatr-v-mewtwo-v-union.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -244,7 +244,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/black-bolt-amp-white-flare-early-testing-bonus-2-gardevoir-ex-jellicent-ex-vs-emboar-box" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="BLK WHT Bonus 2.jpg" class="summary-thumbnail-image" src="/images/blk-wht-bonus-2.webp" loading="lazy">
+          <img alt="BLK WHT Bonus 2.jpg" class="summary-thumbnail-image" src="/images/blk-wht-bonus-2.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -281,7 +281,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/top-5-from-white-flare" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Top 5 from White Flare.jpg" class="summary-thumbnail-image" src="/images/top-5-from-white-flare.webp" loading="lazy">
+          <img alt="Top 5 from White Flare.jpg" class="summary-thumbnail-image" src="/images/top-5-from-white-flare.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -318,7 +318,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/top-5-from-black-bolt" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Top 5 from Black Bolt.jpg" class="summary-thumbnail-image" src="/images/top-5-from-black-bolt.webp" loading="lazy">
+          <img alt="Top 5 from Black Bolt.jpg" class="summary-thumbnail-image" src="/images/top-5-from-black-bolt.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -355,7 +355,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/black-bolt-amp-white-flare-early-testing-bonus-1-miraidon-eels-vs-serperior-ex" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="BLK WHT Bonus 1.jpg" class="summary-thumbnail-image" src="/images/blk-wht-bonus-1.webp" loading="lazy">
+          <img alt="BLK WHT Bonus 1.jpg" class="summary-thumbnail-image" src="/images/blk-wht-bonus-1.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -392,7 +392,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-festival-grounds-vs-greninja-ex-first-drafts-21" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="02 First Drafts Festival Grounds v Greninja ex.jpg" class="summary-thumbnail-image" src="/images/02-first-drafts-festival-grounds-v-greninja-ex.webp" loading="lazy">
+          <img alt="02 First Drafts Festival Grounds v Greninja ex.jpg" class="summary-thumbnail-image" src="/images/02-first-drafts-festival-grounds-v-greninja-ex.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -429,7 +429,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-naic-2025-top-8-lists" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Top 8 From NAIC 2025.jpg" class="summary-thumbnail-image" src="/images/top-8-from-naic-2025.webp" loading="lazy">
+          <img alt="Top 8 From NAIC 2025.jpg" class="summary-thumbnail-image" src="/images/top-8-from-naic-2025.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -466,7 +466,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-dodrio-vs-wailord" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="01 Dodrio v Wailord.jpg" class="summary-thumbnail-image" src="/images/01-dodrio-v-wailord.webp" loading="lazy">
+          <img alt="01 Dodrio v Wailord.jpg" class="summary-thumbnail-image" src="/images/01-dodrio-v-wailord.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -503,7 +503,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-wailord-vs-salamence-ex-first-drafts-20" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="06 First Drafts Wailor v Salamence ex.jpg" class="summary-thumbnail-image" src="/images/06-first-drafts-wailor-v-salamence-ex.webp" loading="lazy">
+          <img alt="06 First Drafts Wailor v Salamence ex.jpg" class="summary-thumbnail-image" src="/images/06-first-drafts-wailor-v-salamence-ex.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -540,7 +540,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-liability-weezing-vs-raging-bolt-ex-ogerpon" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="05 Weezing Raging Bolt.jpg" class="summary-thumbnail-image" src="/images/05-weezing-raging-bolt.webp" loading="lazy">
+          <img alt="05 Weezing Raging Bolt.jpg" class="summary-thumbnail-image" src="/images/05-weezing-raging-bolt.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -577,7 +577,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-early-testing-bonus-5-marnies-morpeko-vs-team-rockets-weezing" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Bonus 5.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-5.webp" loading="lazy">
+          <img alt="DRI Bonus 5.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-5.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -614,7 +614,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-banette-ex-vileplume-vs-wugtrio-mill" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="04 Banette Wugtrio.jpg" class="summary-thumbnail-image" src="/images/04-banette-wugtrio.webp" loading="lazy">
+          <img alt="04 Banette Wugtrio.jpg" class="summary-thumbnail-image" src="/images/04-banette-wugtrio.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -651,7 +651,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-opening" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Box Opening.jpg" class="summary-thumbnail-image" src="/images/dri-box-opening.webp" loading="lazy">
+          <img alt="DRI Box Opening.jpg" class="summary-thumbnail-image" src="/images/dri-box-opening.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -688,7 +688,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-raging-bolt-ex-naganadel-vs-banette-ex-vileplume" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="02 Raging Bolt ex v Banette ex Vileplume.jpg" class="summary-thumbnail-image" src="/images/02-raging-bolt-ex-v-banette-ex-vileplume.webp" loading="lazy">
+          <img alt="02 Raging Bolt ex v Banette ex Vileplume.jpg" class="summary-thumbnail-image" src="/images/02-raging-bolt-ex-v-banette-ex-vileplume.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -725,7 +725,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/top-10-cards-from-destined-rivals" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Thumbnail Top 10 from Destined Rivals.jpg" class="summary-thumbnail-image" src="/images/thumbnail-top-10-from-destined-rivals.webp" loading="lazy">
+          <img alt="Thumbnail Top 10 from Destined Rivals.jpg" class="summary-thumbnail-image" src="/images/thumbnail-top-10-from-destined-rivals.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -762,7 +762,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-magcargo-vs-raging-bolt-ex-naganadel" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="01 Magcargo v Raging Bolt ex.jpg" class="summary-thumbnail-image" src="/images/01-magcargo-v-raging-bolt-ex.webp" loading="lazy">
+          <img alt="01 Magcargo v Raging Bolt ex.jpg" class="summary-thumbnail-image" src="/images/01-magcargo-v-raging-bolt-ex.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -799,7 +799,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-early-testing-bonus-4-ethans-magcargo-vs-team-rockets-mewtwo-ex" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Bonus 4.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-4.webp" loading="lazy">
+          <img alt="DRI Bonus 4.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-4.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -836,7 +836,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-quad-wobbuffet-vs-dodrio" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="03 First Drafts Dodrio v Wobbuffet.jpg" class="summary-thumbnail-image" src="/images/03-first-drafts-dodrio-v-wobbuffet.webp" loading="lazy">
+          <img alt="03 First Drafts Dodrio v Wobbuffet.jpg" class="summary-thumbnail-image" src="/images/03-first-drafts-dodrio-v-wobbuffet.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -873,7 +873,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-early-testing-bonus-3-yanmega-ex-vs-mistys-gyarados" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Bonus 3.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-3.webp" loading="lazy">
+          <img alt="DRI Bonus 3.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-3.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -910,7 +910,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-gardevoir-vs-magcargo" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Gardevoir v Magcargo.jpg" class="summary-thumbnail-image" src="/images/gardevoir-v-magcargo.webp" loading="lazy">
+          <img alt="Gardevoir v Magcargo.jpg" class="summary-thumbnail-image" src="/images/gardevoir-v-magcargo.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -947,7 +947,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-early-testing-bonus-2-stevens-metagross-ex-vs-cynthias-garchomp-ex" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Bonus 2.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-2.webp" loading="lazy">
+          <img alt="DRI Bonus 2.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-2.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -984,7 +984,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-magmortar-burn-vs-glimmora-prize-denial-first-drafts" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="First Drafts 18 - Magmortar vs Glimmora.jpg" class="summary-thumbnail-image" src="/images/first-drafts-18-magmortar-vs-glimmora.webp" loading="lazy">
+          <img alt="First Drafts 18 - Magmortar vs Glimmora.jpg" class="summary-thumbnail-image" src="/images/first-drafts-18-magmortar-vs-glimmora.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -1021,7 +1021,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-early-testing-part-1-cynthias-garchomp-ex-vs-ethans-typhlosion" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Part 1.jpg" class="summary-thumbnail-image" src="/images/dri-part-1.webp" loading="lazy">
+          <img alt="DRI Part 1.jpg" class="summary-thumbnail-image" src="/images/dri-part-1.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -1058,7 +1058,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/destined-rivals-early-testing-part-1-ethans-typhlosion-vs-marnies-morpeko" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="DRI Bonus 1.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-1.webp" loading="lazy">
+          <img alt="DRI Bonus 1.jpg" class="summary-thumbnail-image" src="/images/dri-bonus-1.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -1095,7 +1095,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-magnezone-box-vs-charizard-ex-miraidon-ex" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Magnezone v Charizard.jpg" class="summary-thumbnail-image" src="/images/magnezone-v-charizard.webp" loading="lazy">
+          <img alt="Magnezone v Charizard.jpg" class="summary-thumbnail-image" src="/images/magnezone-v-charizard.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -1132,7 +1132,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-monday-mime-jr-stall-vs-gardevoir" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="Mime Jr v Gardy.jpg" class="summary-thumbnail-image" src="/images/mime-jr-v-gardy.webp" loading="lazy">
+          <img alt="Mime Jr v Gardy.jpg" class="summary-thumbnail-image" src="/images/mime-jr-v-gardy.webp" loading="lazy" />
     </div>
   </a>
     </div>
@@ -1169,7 +1169,7 @@ showHeading: false
     <div class="summary-thumbnail-outer-container">
       <a href="/videos/eternal-format-deck-tier-list-surging-sparks-edition" class="summary-thumbnail-container jb-gallery-image-container">
         <div class="summary-thumbnail img-wrapper">
-          <img alt="SSP Eternal Tier List.jpg" class="summary-thumbnail-image" src="/images/ssp-eternal-tier-list.webp" loading="lazy">
+          <img alt="SSP Eternal Tier List.jpg" class="summary-thumbnail-image" src="/images/ssp-eternal-tier-list.webp" loading="lazy" />
     </div>
   </a>
     </div>

@@ -53,7 +53,7 @@ Noteworthy cards from each set in the Standard format have been split into three
 
 <h1 class="jb-center">Brilliant Stars (BRS)</h1>
 
-<p class="jb-center">Set Release: 25 February 2022 | Set Legality Date: 11 March 2022 | Likely Rotation: Early 2025<br>Last Updated: 28 February 2022</p>
+<p class="jb-center">Set Release: 25 February 2022 | Set Legality Date: 11 March 2022 | Likely Rotation: Early 2025<br />Last Updated: 28 February 2022</p>
 
 
 
@@ -98,7 +98,7 @@ Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 
 
 <h1 class="jb-center">Astral Radiance (ASR)</h1>
 
-<p class="jb-center">Set Release: 27 May 2022 | Set Legality Date: 10 June 2022 | Likely Rotation: Early 2025<br>Last Updated: 14 May 2022</p>
+<p class="jb-center">Set Release: 27 May 2022 | Set Legality Date: 10 June 2022 | Likely Rotation: Early 2025<br />Last Updated: 14 May 2022</p>
 
 
 
@@ -143,7 +143,7 @@ Kricketune ASR 10 Shaymin ASR 14 Radiant Heatran ASR 27 Regice ASR 37 Hisuian Ba
 
 <h1 class="jb-center">Pokémon GO (PGO)</h1>
 
-<p class="jb-center">Set Release: 1 July 2022 | Set Legality Date: 15 July 2022 | Likely Rotation: Early 2025<br>Last Updated: 20 June 2022</p>
+<p class="jb-center">Set Release: 1 July 2022 | Set Legality Date: 15 July 2022 | Likely Rotation: Early 2025<br />Last Updated: 20 June 2022</p>
 
 
 
@@ -188,7 +188,7 @@ Charizard PGO 10 Magikarp PGO 21 Mewtwo V PGO 30 Mewtwo VSTAR PGO 31 Lunatone PG
 
 <h1 class="jb-center">Lost Origin (LOR)</h1>
 
-<p class="jb-center">Set Release: 9 September 2022 | Set Legality Date: 23 September 2022 | Likely Rotation: Early 2025<br>Last Updated: 23 August 2022</p>
+<p class="jb-center">Set Release: 9 September 2022 | Set Legality Date: 23 September 2022 | Likely Rotation: Early 2025<br />Last Updated: 23 August 2022</p>
 
 
 
@@ -233,7 +233,7 @@ Parasect LOR 5 Beautifly LOR 8 Shiftry LOR 13 Trevenant LOR 17 Chandelure LOR 26
 
 <h1 class="jb-center">Silver Tempest (SIT)</h1>
 
-<p class="jb-center">Set Release: 11 November 2022 | Set Legality Date: 25 November 2022 | Likely Rotation: Early 2025<br>Last Updated: 27 October 2022</p>
+<p class="jb-center">Set Release: 11 November 2022 | Set Legality Date: 25 November 2022 | Likely Rotation: Early 2025<br />Last Updated: 27 October 2022</p>
 
 
 
@@ -278,7 +278,7 @@ Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alol
 
 <h1 class="jb-center">Crown Zenith (CRZ)</h1>
 
-<p class="jb-center">Set Release: 20 January 2023 | Set Legality Date: 3 February 2023 | Likely Rotation: Varies (2023-2025)<br>Last Updated: 25 February 2023</p>
+<p class="jb-center">Set Release: 20 January 2023 | Set Legality Date: 3 February 2023 | Likely Rotation: Varies (2023-2025)<br />Last Updated: 25 February 2023</p>
 
 
 
@@ -323,7 +323,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Scarlet &amp; Violet (SVI)</h1>
 
-<p class="jb-center">Set Release: 31 March 2023 | Set Legality Date: 14 April 2023 | Likely Rotation: Early 2026<br>Last Updated: 18 March 2023</p>
+<p class="jb-center">Set Release: 31 March 2023 | Set Legality Date: 14 April 2023 | Likely Rotation: Early 2026<br />Last Updated: 18 March 2023</p>
 
 
 
@@ -420,7 +420,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Paldea Evolved (PAL)</h1>
 
-<p class="jb-center">Set Release: 9 June 2023 | Set Legality Date: 23 June 2022 | Likely Rotation: Early 2026<br>Last Updated: 26 May 2023</p>
+<p class="jb-center">Set Release: 9 June 2023 | Set Legality Date: 23 June 2022 | Likely Rotation: Early 2026<br />Last Updated: 26 May 2023</p>
 
 
 
@@ -508,7 +508,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Obsidian Flames (OBF)</h1>
 
-<p class="jb-center">Set Release: 11 August 2023 | Set Legality Date: 25 August 2023 | Likely Rotation: Early 2026<br>Last Updated: 27 July 2023</p>
+<p class="jb-center">Set Release: 11 August 2023 | Set Legality Date: 25 August 2023 | Likely Rotation: Early 2026<br />Last Updated: 27 July 2023</p>
 
 
 
@@ -583,7 +583,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Scarlet &amp; Violet—151 (MEW)</h1>
 
-<p class="jb-center">Set Release: 22 September 2023 | Set Legality Date: 6 October 2023 | Likely Rotation: Early 2026<br>Last Updated: 30 September 2023</p>
+<p class="jb-center">Set Release: 22 September 2023 | Set Legality Date: 6 October 2023 | Likely Rotation: Early 2026<br />Last Updated: 30 September 2023</p>
 
 
 
@@ -667,7 +667,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Paradox Rift (PAR)</h1>
 
-<p class="jb-center">Set Release: 3 November 2023 | Set Legality Date: 17 November 2023 | Likely Rotation: Early 2026<br>Last Updated: 29 October 2023</p>
+<p class="jb-center">Set Release: 3 November 2023 | Set Legality Date: 17 November 2023 | Likely Rotation: Early 2026<br />Last Updated: 29 October 2023</p>
 
 
 
@@ -771,7 +771,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Paldean Fates (PAF)</h1>
 
-<p class="jb-center">Set Release: 26 January 2024 | Set Legality Date: 9 February 2024 | Likely Rotation: Varies (2025-2026)<br>Last Updated: 13 March 2024</p>
+<p class="jb-center">Set Release: 26 January 2024 | Set Legality Date: 9 February 2024 | Likely Rotation: Varies (2025-2026)<br />Last Updated: 13 March 2024</p>
 
 
 
@@ -844,7 +844,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Temporal Forces (TEF)</h1>
 
-<p class="jb-center">Set Release: 22 March 2024 | Set Legality Date: 5 April 2024 | Likely Rotation: April 2027<br>Last Updated: 13 March 2024</p>
+<p class="jb-center">Set Release: 22 March 2024 | Set Legality Date: 5 April 2024 | Likely Rotation: April 2027<br />Last Updated: 13 March 2024</p>
 
 
 
@@ -941,7 +941,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Twilight Masquerade (TWM)</h1>
 
-<p class="jb-center">Set Release: 24 May 2024 | Set Legality Date: 7 June 2024 | Likely Rotation: April 2027<br>Last Updated: 10 October 2024</p>
+<p class="jb-center">Set Release: 24 May 2024 | Set Legality Date: 7 June 2024 | Likely Rotation: April 2027<br />Last Updated: 10 October 2024</p>
 
 
 
@@ -1025,7 +1025,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Shrouded Fable (SFA)</h1>
 
-<p class="jb-center">Set Release: 2 August 2024 | Set Legality Date: 16 August 2024 | Likely Rotation: April 2027<br>Last Updated: 10 October 2024</p>
+<p class="jb-center">Set Release: 2 August 2024 | Set Legality Date: 16 August 2024 | Likely Rotation: April 2027<br />Last Updated: 10 October 2024</p>
 
 
 
@@ -1085,7 +1085,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 <h1 class="jb-center">Stellar Crown (SCR)</h1>
 
-<p class="jb-center">Set Release: 13 September 2024 | Set Legality Date: 27 September 2024 | Likely Rotation: April 2027<br>Last Updated: 10 October 2024</p>
+<p class="jb-center">Set Release: 13 September 2024 | Set Legality Date: 27 September 2024 | Likely Rotation: April 2027<br />Last Updated: 10 October 2024</p>
 
 
 

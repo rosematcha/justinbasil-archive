@@ -30,20 +30,20 @@ For the 2024 Season, beginning April 5th, 2024, the Standard format consists of 
 <div class="jb-code-container">
 <div class="mobile-collapse">
   <ol>
-  <dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy"> Brilliant Stars</dd>
-  <dd><img src="/images/ss10-png.webp" width="30" height="30" loading="lazy"> Astral Radiance</dd>
-  <dd><img src="/images/pgo.webp" width="30" height="30" loading="lazy"> Pokémon GO</dd>
-  <dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy"> Lost Origin</dd>
-  <dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy"> Silver Tempest</dd>
-  <dd><img src="/images/cze.webp" width="30" height="30" loading="lazy"> Crown Zenith</dd>
-  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet (SVI)</dd>
-  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy"> Paldea Evolved (PAL)</dd>
-  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy"> Obsidian Flames (OBF)</dd>
-  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy"> Scarlet &amp; Violet—151 (MEW)</dd>
-  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy"> Paradox Rift (PAR)</dd>
-  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy"> Paldean Fates (PAF)</dd>
-  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy"> Temporal Forces (TEF)</dd>
-    <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy"> Twilight Masquerade (TWM)</dd>
+  <dd><img src="/images/ss9.webp" width="30" height="30" loading="lazy" /> Brilliant Stars</dd>
+  <dd><img src="/images/ss10-png.webp" width="30" height="30" loading="lazy" /> Astral Radiance</dd>
+  <dd><img src="/images/pgo.webp" width="30" height="30" loading="lazy" /> Pokémon GO</dd>
+  <dd><img src="/images/swsh11-symbol-38x38.webp" width="30" height="30" loading="lazy" /> Lost Origin</dd>
+  <dd><img src="/images/swsh12-symbol-38x38.webp" width="30" height="30" loading="lazy" /> Silver Tempest</dd>
+  <dd><img src="/images/cze.webp" width="30" height="30" loading="lazy" /> Crown Zenith</dd>
+  <dd><img src="/images/svi-baf90b.webp" width="35" height="30" loading="lazy" /> Scarlet &amp; Violet (SVI)</dd>
+  <dd><img src="/images/pal.webp" width="35" height="30" loading="lazy" /> Paldea Evolved (PAL)</dd>
+  <dd><img src="/images/obf.webp" width="35" height="30" loading="lazy" /> Obsidian Flames (OBF)</dd>
+  <dd><img src="/images/mew.webp" width="35" height="30" loading="lazy" /> Scarlet &amp; Violet—151 (MEW)</dd>
+  <dd><img src="/images/par.webp" width="35" height="30" loading="lazy" /> Paradox Rift (PAR)</dd>
+  <dd><img src="/images/paf.webp" width="35" height="30" loading="lazy" /> Paldean Fates (PAF)</dd>
+  <dd><img src="/images/tef.webp" width="35" height="30" loading="lazy" /> Temporal Forces (TEF)</dd>
+    <dd><img src="/images/twm.webp" width="35" height="30" loading="lazy" /> Twilight Masquerade (TWM)</dd>
   </ol>
 </div>
 </div>

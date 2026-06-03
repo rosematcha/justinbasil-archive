@@ -62,7 +62,7 @@ Decks produced through the use of a deck stencil won’t been as well tuned to t
     <td class="jb-th-white">Total Cards - 30</td>
   </tr>
 </tbody></table>
-<br>
+<br />
 </div>
 
 ### Step 1 - Add Your Attacker

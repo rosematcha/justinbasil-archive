@@ -29,7 +29,7 @@ To review this set’s card list, visit the article [Fusion Strike—What We Kno
     </li><li><a href="#srtrainers" class="jlink">Gold Trainer Cards and Energy Cards</a>
   </li></ul>
 </div>
-<br>
+<br />
   <b>For Players</b>
 <div class="mobile-collapse">
   <ul>  

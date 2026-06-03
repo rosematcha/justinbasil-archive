@@ -12,9 +12,9 @@ showHeading: false
   <div>
     <h1 class="jb-white-center-margin0">Unaffiliated Cards</h1>
     <h1 class="jb-cta-title">Card Translations</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">How we are getting the cards below is not yet known. These cards may appear in a future set or as promo cards.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a href="/translations/unk">Card Translations</a> | 
           <a class="blink" href="/visual/unk">Visual Set List</a> 
@@ -117,7 +117,7 @@ Ability: Counterattack Quills If this Pokémon is in the Active Spot and is dama
 ![](/images/team-rocket-s-kangaskhan-ex.webp)
 
 </div><div class="jb-col-10"><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">
-  <p><strong>Team Rocket’s Kangaskhan ex</strong><br><em>From SV Gym Promos Series 10</em></p><blockquote><p>[C][C] Comet Punch: 30x damage. Flip 4 coins. This attack does 30 damage for each heads.</p></blockquote><blockquote><p>[C][C][C] Dark Impact: 120+ damage. If you played a Supporter card with Team Rocket’s in its name from your hand during this turn, this attack does 100 more damage.</p></blockquote>
+  <p><strong>Team Rocket’s Kangaskhan ex</strong><br /><em>From SV Gym Promos Series 10</em></p><blockquote><p>[C][C] Comet Punch: 30x damage. Flip 4 coins. This attack does 30 damage for each heads.</p></blockquote><blockquote><p>[C][C][C] Dark Impact: 120+ damage. If you played a Supporter card with Team Rocket’s in its name from your hand during this turn, this attack does 100 more damage.</p></blockquote>
 </div></div></div></div><div class="jb-code-container">
     <span id="Trainers" class="jb-bold">Trainer Cards</span>
 </div><div class="jb-row"><div class="jb-col-2">

@@ -215,8 +215,8 @@ A little overwhelmed by the choices? That’s okay. Below is a generic set of Dr
     <td class="jb-th">General Draw Set</td>
   </tr>
   <tr>
-    <td>4 Iono PAL 185<br>
-    4 Professor's Research SVI 190<br>
+    <td>4 Iono PAL 185<br />
+    4 Professor's Research SVI 190<br />
   </td></tr>
 </tbody></table>
 </div></div><div class="jb-col-4"></div></div>

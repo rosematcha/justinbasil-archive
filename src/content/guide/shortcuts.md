@@ -18,7 +18,7 @@ Select one of the deck building shortcuts below to learn more about it.
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Using a Deck Stencil</span>
-<br>
+<br />
     The bottled spice mix of deck construction. Add a handful of your own cards to a set of univerally useful cards to make a deck with your own special flavor.</p>
   </div>
 </div></a>
@@ -27,7 +27,7 @@ Select one of the deck building shortcuts below to learn more about it.
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Net Decking</span>
-<br>
+<br />
     Whether you tweak a tournament-topping deck or copy it wholesale, net decking is a commonly used shortcut that can help further develop established archetypes.</p>
   </div>
 </div></a>

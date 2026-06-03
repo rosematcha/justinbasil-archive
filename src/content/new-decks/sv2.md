@@ -9,11 +9,11 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
   <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb" />
     <h1 class="jb-cta-title">New Archetypes from Paldea Evolved</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv2">Set List</a> | 
           <a class="blink" href="/translations/sv2">Card Translations</a> | 

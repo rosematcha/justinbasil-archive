@@ -8,12 +8,12 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
   <div>
-    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center">
+    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb" />
+    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center" />
     <h1 class="jb-cta-title">Set List</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/ss9">Set List</a> | 
           <a class="blink" href="/visual/ss9">Visual Set List</a> | 

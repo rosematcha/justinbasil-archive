@@ -9,11 +9,11 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb" />
     <h1 class="jb-cta-title">New Decks from Twilight Masquerade</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv6">Set List</a>  |
           <a class="blink" href="/translations/sv6">Card Translations</a>  |
@@ -566,11 +566,11 @@ Evolve Pidgey into Pidgeotto and Froakie into Greninja ex with Rare Candy. Attac
   <button class="lostbox_tabs">With Froslass</button>
 </div>
 <div id="Zam_LZB" class="lostbox_content">
-<br>  <h3>Example Deck List</h3>
+<br />  <h3>Example Deck List</h3>
 <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Froakie TWM 56</li> <li>3 Greninja ex TWM 106</li> <li>2 Origin Forme Palkia V ASR 39</li> <li>2 Origin Forme Palkia VSTAR ASR 40</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey MEW 16</li> <li>1 Lumineon V BRS 40</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>2 Irida ASR 147</li> <li>1 Professor's Research PAF 88</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Nest Ball PAF 84</li> <li>2 Counter Catcher PAR 160</li> <li>1 Canceling Cologne ASR 136</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>2 Lost City LOR 161</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>8 Basic Water Energy SVE 3</li> <li>2 Double Turbo Energy BRS 151</li>
 </ul></div>
 <div id="Zard_LZB" class="lostbox_content">
-<br>  <h3>Example Deck List</h3>
+<br />  <h3>Example Deck List</h3>
   <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Froakie OBF 56</li> <li>4 Froslass TWM 53</li> <li>4 Snorunt SIT 41</li> <li>3 Greninja ex TWM 106</li> <li>1 Cleffa OBF 80</li> <li>1 Frogadier TWM 57</li> <li>1 Rotom V CRZ 45</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Irida ASR 147</li> <li>3 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>3 Rare Candy PAF 89</li> <li>2 Nest Ball PAF 84</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Super Rod PAL 188</li> <li>1 Unfair Stamp TWM 165</li> <li>2 Technical Machine: Devolution PAR 177</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Rescue Board TEF 159</li> <li>1 Collapsed Stadium BRS 137</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>6 Basic Water Energy SVE 3</li> <li>2 Double Turbo Energy BRS 151</li> </ul>
 </div>
 </div>

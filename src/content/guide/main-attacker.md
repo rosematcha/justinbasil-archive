@@ -96,7 +96,7 @@ Below are a few common examples of Pokémon lines for Main Attackers, based on t
   </tr>
   <tr>
     <td><p>
-      4 copies of the Basic Pokémon<br>
+      4 copies of the Basic Pokémon<br />
       3-4 copies of the Stage 1, VMAX, or VSTAR Pokémon
       </p></td>
   </tr>
@@ -108,9 +108,9 @@ Below are a few common examples of Pokémon lines for Main Attackers, based on t
   </tr>
   <tr>
     <td><p>
-      4 copies of the Basic Pokémon<br>
-      0-2 copies of the Stage 1 Pokémon<br>
-      3-4 copies of the Stage 2 Pokémon<br>
+      4 copies of the Basic Pokémon<br />
+      0-2 copies of the Stage 1 Pokémon<br />
+      3-4 copies of the Stage 2 Pokémon<br />
       4 copies of <a href="https://limitlesstcg.com/cards/ssh/180/" target="_blank" class="jb-darkblue">Rare Candy</a>
       </p></td>
   </tr>

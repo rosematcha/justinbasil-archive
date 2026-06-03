@@ -10,11 +10,11 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card">
   <div>
-    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb">
+    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb" />
     <h1 class="jb-cta-title">Card Translations</h1>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv6">Set List</a> |
           <a href="/translations/sv6">Card Translations</a> | 

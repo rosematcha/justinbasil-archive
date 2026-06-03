@@ -44,7 +44,7 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/004.shtml" class="jlink">Kricketune V</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/005.shtml" class="jlink">Cherubi</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/006.shtml" class="jlink">Cherrim</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/007.shtml" class="jlink">Carnivine</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/007.shtml" class="jlink">Carnivine</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/003.shtml" class="jlink">Durant</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/004.shtml" class="jlink">Scatterbug</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/005.shtml" class="jlink">Spewpa</a> (S5I)</li>
@@ -58,9 +58,9 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
     <li><a href="https://www.serebii.net/card/singlestrikemaster/009.shtml" class="jlink">Entei</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/012.shtml" class="jlink">Victini V</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/013.shtml" class="jlink">Victini VMAX</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/010.shtml" class="jlink">Tepig</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/011.shtml" class="jlink">Pignite</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/battlestyles/025.shtml" class="jlink">Emboar</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/010.shtml" class="jlink">Tepig</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/011.shtml" class="jlink">Pignite</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/battlestyles/025.shtml" class="jlink">Emboar</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/014.shtml" class="jlink">Heatmor (S5R)</a></li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/013.shtml" class="jlink">Salandit</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/014.shtml" class="jlink">Salazzle</a> (S5I)</li>
@@ -71,19 +71,19 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/019.shtml" class="jlink">Kingdra</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/020.shtml" class="jlink">Galarian Mr. Mime</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/021.shtml" class="jlink">Galarian Mr. Rime</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/022.shtml" class="jlink">Remoraid</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://serebii.net/card/battlestyles/037.shtml" class="jlink">Octillery</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/022.shtml" class="jlink">Remoraid</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://serebii.net/card/battlestyles/037.shtml" class="jlink">Octillery</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/024.shtml" class="jlink">Corphish</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/025.shtml" class="jlink">Crawdaunt</a> (S5R)</li>
-    <li><a href="https://serebii.net/card/battlestyles/040.shtml" class="jlink">Empoleon V</a>  <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
+    <li><a href="https://serebii.net/card/battlestyles/040.shtml" class="jlink">Empoleon V</a>  <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/027.shtml" class="jlink">Frillish</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/028.shtml" class="jlink">Jellicent</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/029.shtml" class="jlink">Bruxish</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/015.shtml" class="jlink">Electabuzz</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/016.shtml" class="jlink">Electivire</a> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/030.shtml" class="jlink">Shinx</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/031.shtml" class="jlink">Luxio</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/032.shtml" class="jlink">Luxray</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/030.shtml" class="jlink">Shinx</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/031.shtml" class="jlink">Luxio</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/032.shtml" class="jlink">Luxray</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/033.shtml" class="jlink">Pachirisu (S5R)</a>
     </li><li><a href="https://www.serebii.net/card/singlestrikemaster/017.shtml" class="jlink">Tapu Koko V</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/018.shtml" class="jlink">Tapu Koko VMAX</a> (S5I)</li>
@@ -101,8 +101,8 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/036.shtml" class="jlink">Necrozma V</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/037.shtml" class="jlink">Dottler</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/038.shtml" class="jlink">Orbeetle</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/028.shtml" class="jlink">Mankey</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/029.shtml" class="jlink">Primeape</a> (S5I) <img src="/s/single_strike.png" loading="lazy" width="54" height="13"></li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/028.shtml" class="jlink">Mankey</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/029.shtml" class="jlink">Primeape</a> (S5I) <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /></li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/039.shtml" class="jlink">Onix</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/040.shtml" class="jlink">Cubone</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/041.shtml" class="jlink">Marowak</a> (S5R)</li>
@@ -111,31 +111,31 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/042.shtml" class="jlink">Timburr</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/043.shtml" class="jlink">Gurdurr</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/044.shtml" class="jlink">Conkeldurr</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/045.shtml" class="jlink">Mienfoo</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://serebii.net/card/battlestyles/077.shtml" class="jlink">Mienshao</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/045.shtml" class="jlink">Mienfoo</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://serebii.net/card/battlestyles/077.shtml" class="jlink">Mienshao</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/032.shtml" class="jlink">Rolycoly</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/033.shtml" class="jlink">Carkol</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/034.shtml" class="jlink">Coalossal</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/047.shtml" class="jlink">Silicobra</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/048.shtml" class="jlink">Sandaconda</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/049.shtml" class="jlink">Falinks</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/035.shtml" class="jlink">Stonjourner</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/battlestyles/085.shtml" class="jlink"><span>Single Strike</span> Urshifu V</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/battlestyles/086.shtml" class="jlink"><span>Single Strike</span> Urshifu VMAX</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/battlestyles/087.shtml" class="jlink"><span>Rapid Strike</span> Urshifu V</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://serebii.net/card/battlestyles/088.shtml" class="jlink"><span>Rapid Strike</span> Urshifu VMAX</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/049.shtml" class="jlink">Falinks</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/035.shtml" class="jlink">Stonjourner</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/battlestyles/085.shtml" class="jlink"><span>Single Strike</span> Urshifu V</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/battlestyles/086.shtml" class="jlink"><span>Single Strike</span> Urshifu VMAX</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/battlestyles/087.shtml" class="jlink"><span>Rapid Strike</span> Urshifu V</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://serebii.net/card/battlestyles/088.shtml" class="jlink"><span>Rapid Strike</span> Urshifu VMAX</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/038.shtml" class="jlink">Zubat</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/039.shtml" class="jlink">Golbat</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/040.shtml" class="jlink">Crobat</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/041.shtml" class="jlink">Galarian Slowbro</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/042.shtml" class="jlink">Murkrow</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/043.shtml" class="jlink">Honchkrow</a> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/044.shtml" class="jlink">Houndour</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/battlestyles/096.shtml" class="jlink">Houndoom</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/battlestyles/097.shtml" class="jlink">Tyranitar V</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/044.shtml" class="jlink">Houndour</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/battlestyles/096.shtml" class="jlink">Houndoom</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/battlestyles/097.shtml" class="jlink">Tyranitar V</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/047.shtml" class="jlink">Morpeko</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/052.shtml" class="jlink">Steelix</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/048.shtml" class="jlink">Mawile</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/048.shtml" class="jlink">Mawile</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/049.shtml" class="jlink">Bronzor</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/050.shtml" class="jlink">Bronzong</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/053.shtml" class="jlink">Pawniard</a> (S5R)</li>
@@ -156,27 +156,27 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/059.shtml" class="jlink">Bouffalant</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/060.shtml" class="jlink">Drampa</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/060.shtml" class="jlink">Indeedee</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/066.shtml" class="jlink">Bruno</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/066.shtml" class="jlink">Bruno</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/063.shtml" class="jlink">Camping Gear</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/068.shtml" class="jlink">Cheryl</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/062.shtml" class="jlink">Energy Recycler</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/061.shtml" class="jlink">Escape Rope</a> (S5I)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/065.shtml" class="jlink">Exp. Share</a> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/061.shtml" class="jlink">Fan of Waves</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/066.shtml" class="jlink">Korrina's Focus</a>  <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13">  (S5I)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/061.shtml" class="jlink">Fan of Waves</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/066.shtml" class="jlink">Korrina's Focus</a>  <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" />  (S5I)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/063.shtml" class="jlink">Level Ball</a> (S5R)</li>
     <li><a href="https://www.serebii.net/card/singlestrikemaster/067.shtml" class="jlink">Phoebe</a> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/065.shtml" class="jlink">Rapid Strike Scroll of Swirls</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/067.shtml" class="jlink">Rapid Strike Stance Mustard</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/064.shtml" class="jlink">Single Strike Scroll of Scorn</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/068.shtml" class="jlink">Single Strike Stance Mustard</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/065.shtml" class="jlink">Rapid Strike Scroll of Swirls</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/067.shtml" class="jlink">Rapid Strike Stance Mustard</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/064.shtml" class="jlink">Single Strike Scroll of Scorn</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/068.shtml" class="jlink">Single Strike Stance Mustard</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
      <li><a href="https://www.pokebeach.com/2020/09/septembers-gym-promos-revealed-including-signs-of-evolution-eevee" class="jlink">Sordward and Shielbert</a> (Gym Promo)</li>
     <li><a href="https://www.serebii.net/card/rapidstrikemaster/064.shtml" class="jlink">Tool Jammer</a> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/069.shtml" class="jlink">Tower of Darkness</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://www.serebii.net/card/rapidstrikemaster/069.shtml" class="jlink">Tower of Waters</a>  <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://www.serebii.net/card/singlestrikemaster/062.shtml" class="jlink">Urn of Vitality</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
-    <li><a href="https://serebii.net/card/rapidstrikemaster/070.shtml" class="jlink">Rapid Strike Energy</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13"> (S5R)</li>
-    <li><a href="https://serebii.net/card/singlestrikemaster/070.shtml" class="jlink">Single Strike Energy</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13"> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/069.shtml" class="jlink">Tower of Darkness</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://www.serebii.net/card/rapidstrikemaster/069.shtml" class="jlink">Tower of Waters</a>  <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://www.serebii.net/card/singlestrikemaster/062.shtml" class="jlink">Urn of Vitality</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
+    <li><a href="https://serebii.net/card/rapidstrikemaster/070.shtml" class="jlink">Rapid Strike Energy</a> <img src="/s/rapid_strike.png" loading="lazy" width="55" height="13" /> (S5R)</li>
+    <li><a href="https://serebii.net/card/singlestrikemaster/070.shtml" class="jlink">Single Strike Energy</a> <img src="/s/single_strike.png" loading="lazy" width="54" height="13" /> (S5I)</li>
     <li>FA <a href="https://www.pokebeach.com/2021/01/secret-rares-from-single-rapid-strike-master-revealed" class="jlink">Kricketune V</a> (S5R)</li>
     <li>FA <a href="https://www.pokebeach.com/2021/01/secret-rares-from-single-rapid-strike-master-revealed" class="jlink">Flapple V</a> (S5I)</li>
     <li>FA <a href="https://www.pokebeach.com/2021/01/secret-rares-from-single-rapid-strike-master-revealed" class="jlink">Victini V</a> (S5R)</li>

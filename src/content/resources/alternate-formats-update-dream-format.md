@@ -23,5 +23,5 @@ Additionally, the following cards are now banned in the Dream format:
 - Earthen Seal Stone SIT 154
 - Forest Seal Stone SIT 156
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-032-r-en.webp"><img src="/images/unb-032-r-en.webp" alt="UNB_032_R_EN.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sit-154-r-en-lg.webp"><img src="/images/sit-154-r-en-lg.webp" alt="SIT_154_R_EN_LG.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/sit-156-r-en-lg.webp"><img src="/images/sit-156-r-en-lg.webp" alt="SIT_156_R_EN_LG.png" loading="lazy"></a></figure></div>
+<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/unb-032-r-en.webp"><img src="/images/unb-032-r-en.webp" alt="UNB_032_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sit-154-r-en-lg.webp"><img src="/images/sit-154-r-en-lg.webp" alt="SIT_154_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sit-156-r-en-lg.webp"><img src="/images/sit-156-r-en-lg.webp" alt="SIT_156_R_EN_LG.png" loading="lazy" /></a></figure></div>
 

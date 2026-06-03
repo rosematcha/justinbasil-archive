@@ -61,7 +61,7 @@ The link below summarizes the four basic strategies employed in a deck—Aggress
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Deck Strategy</span>
-<br>
+<br />
     Click here to learn more about the basic strategies that decks use to win.</p>
   </div>
 </div></a>
@@ -89,7 +89,7 @@ Review the article on deck structure to better understand how the different type
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Deck Structure</span>
-<br>
+<br />
     Click here to learn more about a deck's skeleton.</p>
   </div>
 </div></a>
@@ -117,7 +117,7 @@ The link below will help you understand what it takes for a Pokémon to be a gre
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Main Attacker</span>
-<br>
+<br />
     Click here to learn more about how to choose a great main attacker.</p>
   </div>
 </div></a>
@@ -297,7 +297,7 @@ Although not every deck includes one, Secondary Attackers are often critical par
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Secondary Attackers</span>
-<br>
+<br />
     Click here to learn more about secondary attackers.</p>
   </div>
 </div></a>
@@ -412,7 +412,7 @@ However, there are other options available to a deck builder that, in conjunctio
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Draw Cards</span>
-<br>
+<br />
     Click here to review your Draw options.</p>
   </div>
 </div></a>
@@ -597,7 +597,7 @@ The cards used to find the Pokémon in a deck are often as important as the Pok�
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Pokémon Search</span>
-<br>
+<br />
     Click here to review your Pokémon Search options.</p>
   </div>
 </div></a>
@@ -713,7 +713,7 @@ Decks need **Gusting**—the ability to selectively switch an opponent’s Activ
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Gusting and Repulsion</span>
-<br>
+<br />
     Click here to review your Gusting and Repulsion options.</p>
   </div>
 </div></a>
@@ -836,7 +836,7 @@ However, because Energy cards are not the only important cards in our deck, we n
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Energy and Energy Acceleration</span>
-<br>
+<br />
     Click here to learn more about Energy and to review your Energy Accleration options.</p>
   </div>
 </div></a>
@@ -962,7 +962,7 @@ Now, let’s add the 11 Fire energy and the two copies of Giant Hearth to our de
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Consistency and Setup</span>
-<br>
+<br />
     Click here to review cards that help decks be more consistent.</p>
   </div>
 </div></a>
@@ -1079,7 +1079,7 @@ Now that we’ve added Rare Candy and reduced the number of Charmeleon in our de
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Switching and Prize Denial</span>
-<br>
+<br />
     Click here to review your Switching and Prize Denial options.</p>
   </div>
 </div></a>
@@ -1202,7 +1202,7 @@ Let’s add Switch and Air Balloon to our deck list. You’ll notice that we’v
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Recovery and Rebound</span>
-<br>
+<br />
     Click here to review your Recovery and Rebound options.</p>
   </div>
 </div></a>
@@ -1347,7 +1347,7 @@ With Fire Crystal and Ordinary Rod added to our deck list, we’re one step clos
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Disruption</span>
-<br>
+<br />
     Click here to review your Disruption options.</p>
   </div>
 </div></a>
@@ -1401,7 +1401,7 @@ As we haven’t made any changes to our deck list after reviewing our Disruption
   <div class="jb-p10">
     <p>
     <span class="jb-25-upper">Damage Control</span>
-<br>
+<br />
     Click here to review your Damage Control options.</p>
   </div>
 </div></a>
@@ -1472,7 +1472,7 @@ Go through each of the steps in the *Cutting Cards* box below.
     <div class="jb-cta-banner" style="max-width:750px;background-color:#dffefd;border:5px solid #96aaad;color:#000">
   <div class="jb-p5">
      <span class="jb-25-bold-upper">Cutting Cards</span>
-<br>
+<br />
       <ul>
         <li>Revisit the article on <a href="/guide/deck-structure" class="jb-darkblue">Deck Structure</a>. If your deck's skeleton differs significantly from the general deck skeleton, cut cards that have moved your deck list away from it.</li>
         <li>Consider thinning your lines of Pokémon.</li> 

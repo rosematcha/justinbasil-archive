@@ -9,13 +9,13 @@ showHeading: false
 <div class="jb-code-container">
     <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
   <div> 
-    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb">
-    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15">
+    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb" />
+    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15" />
     <h1 class="jb-white-center-margin5">New Archetypes from Scarlet &amp; Violet</h1>
     <h3 class="jb-smallcaps-center">And Other Archetypes Worth Considering After Rotation</h3>
-    <hr>
+    <hr />
     <p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
-    <br>
+    <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv1">Set List</a> | 
           <a class="blink" href="/visual/sv1">Visual Set List</a> |
@@ -435,68 +435,68 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
   <button class="lostbox_tabs">Charizard</button>
 </div>
 <div id="Zam_LZB" class="lostbox_content">
-<br>  <h3>Example Deck List</h3>
+<br />  <h3>Example Deck List</h3>
 Source: Champion's League Aichi, 1st Place
-<p><strong>Pokémon - 13</strong><br>
-4 Comfey LOR 79<br>
-2 Sableye LOR 70<br>
-1 Cramorant LOR 50<br>
-1 Drapion V LOR 118<br>
-1 Manaphy BRS 41<br>
-1 Radiant Greninja ASR 46<br>
-1 Raikou V BRS 48<br>
-1 Snorlax LOR 143<br>
+<p><strong>Pokémon - 13</strong><br />
+4 Comfey LOR 79<br />
+2 Sableye LOR 70<br />
+1 Cramorant LOR 50<br />
+1 Drapion V LOR 118<br />
+1 Manaphy BRS 41<br />
+1 Radiant Greninja ASR 46<br />
+1 Raikou V BRS 48<br />
+1 Snorlax LOR 143<br />
 1 Zamazenta CRZ 97</p>
-<p><strong>Trainer Cards - 36</strong><br>
-4 Colress's Experiment LOR 155<br>
-2 Klara CRE 145<br>
-2 Raihan CRZ 140<br>
-1 Boss's Orders BRS 132<br>
-4 Battle VIP Pass FST 225<br>
-4 Escape Rope BST 125<br>
-4 Mirage Gate LOR 163<br>
-4 Switch Cart ASR 154<br>
-3 Nest Ball SVI 181<br>
-2 Energy Recycler BST 124<br>
-1 Echoing Horn CRE 136<br>
-1 Hisuian Heavy Ball ASR 146<br>
-1 Lost Vacuum CRZ 135<br>
-1 Sky Seal Stone CRZ 143<br>
+<p><strong>Trainer Cards - 36</strong><br />
+4 Colress's Experiment LOR 155<br />
+2 Klara CRE 145<br />
+2 Raihan CRZ 140<br />
+1 Boss's Orders BRS 132<br />
+4 Battle VIP Pass FST 225<br />
+4 Escape Rope BST 125<br />
+4 Mirage Gate LOR 163<br />
+4 Switch Cart ASR 154<br />
+3 Nest Ball SVI 181<br />
+2 Energy Recycler BST 124<br />
+1 Echoing Horn CRE 136<br />
+1 Hisuian Heavy Ball ASR 146<br />
+1 Lost Vacuum CRZ 135<br />
+1 Sky Seal Stone CRZ 143<br />
 2 Beach Court SVI 167</p>
-<p><strong>Energy - 11</strong><br>
-4 Water Energy SWSHEnergy 3<br>
-3 Metal Energy SWSHEnergy 8<br>
-3 Psychic Energy SWSHEnergy 5<br>
+<p><strong>Energy - 11</strong><br />
+4 Water Energy SWSHEnergy 3<br />
+3 Metal Energy SWSHEnergy 8<br />
+3 Psychic Energy SWSHEnergy 5<br />
 1 Lightning Energy SWSHEnergy 4</p>
 </div>
 <div id="Zard_LZB" class="lostbox_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 12</strong><br>
-4 Comfey LOR 79<br>
-3 Sableye LOR 70<br>
-2 Cramorant LOR 50<br>
-1 Drapion V LOR 118<br>
-1 Manaphy BRS 41<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 12</strong><br />
+4 Comfey LOR 79<br />
+3 Sableye LOR 70<br />
+2 Cramorant LOR 50<br />
+1 Drapion V LOR 118<br />
+1 Manaphy BRS 41<br />
 1 Radiant Charizard CRZ 20</p>
-<p><strong>Trainer Cards - 42</strong><br>
-4 Colress's Experiment LOR 155<br>
-3 Klara CRE 145<br>
-2 Raihan CRZ 140<br>
-4 Battle VIP Pass FST 225<br>
-4 Cross Switcher FST 230<br>
-4 Escape Rope BST 125<br>
-4 Switch Cart ASR 154<br>
-3 Fog Crystal CRE 140<br>
-3 Nest Ball SVI 181<br>
-3 Pokégear 3.0 SVI 186<br>
-2 Lost Vacuum CRZ 135<br>
-1 Echoing Horn CRE 136<br>
-1 Hisuian Heavy Ball ASR 146<br>
-1 Choice Belt BRS 135<br>
-2 Beach Court SVI 167<br>
+<p><strong>Trainer Cards - 42</strong><br />
+4 Colress's Experiment LOR 155<br />
+3 Klara CRE 145<br />
+2 Raihan CRZ 140<br />
+4 Battle VIP Pass FST 225<br />
+4 Cross Switcher FST 230<br />
+4 Escape Rope BST 125<br />
+4 Switch Cart ASR 154<br />
+3 Fog Crystal CRE 140<br />
+3 Nest Ball SVI 181<br />
+3 Pokégear 3.0 SVI 186<br />
+2 Lost Vacuum CRZ 135<br />
+1 Echoing Horn CRE 136<br />
+1 Hisuian Heavy Ball ASR 146<br />
+1 Choice Belt BRS 135<br />
+2 Beach Court SVI 167<br />
 1 Magma Basin BRS 144</p>
-<p><strong>Energy - 6</strong><br>
-3 Fire Energy SWSHEnergy 2<br>
+<p><strong>Energy - 6</strong><br />
+3 Fire Energy SWSHEnergy 2<br />
 3 Psychic Energy SWSHEnergy 5</p>
 </div>
 </div>
@@ -810,64 +810,64 @@ Get Mareep into play as early as possible with the assistance of Miraidon ex’s
   <button class="miraidonex_tabs">Regieleki VMAX</button>
 </div>
 <div id="Flaaffy_Miraidon" class="miraidonex_content">
-<br>  
+<br />  
 <div class="note_box">
   <h3>Card Availability Note</h3>
   <p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
   <p>Suggested temporary stand-in: Raichu V BRS 45 or Regieleki EVS 60</p>
 </div>
 <h3>Example Deck List</h3>
-<p><strong>Pokémon - 15</strong><br>
-4 Mareep EVS 54<br>
-3 Flaaffy EVS 55<br>
-3 Miraidon ex SVI 81<br>
-1 Ampharos ex SVP 16<br>
-1 Drapion V LOR 118<br>
-1 Manaphy BRS 41<br>
-1 Radiant Greninja ASR 46<br>
+<p><strong>Pokémon - 15</strong><br />
+4 Mareep EVS 54<br />
+3 Flaaffy EVS 55<br />
+3 Miraidon ex SVI 81<br />
+1 Ampharos ex SVP 16<br />
+1 Drapion V LOR 118<br />
+1 Manaphy BRS 41<br />
+1 Radiant Greninja ASR 46<br />
 1 Raichu V BRS 45</p>
-<p><strong>Trainer Cards - 32</strong><br>
-4 Professor's Research SVI 190<br>
-2 Boss's Orders BRS 132<br>
-2 Raihan CRZ 140<br>
-2 Serena SIT 164<br>
-4 Electric Generator SVI 170<br>
-4 Trekking Shoes CRZ 145<br>
-4 Ultra Ball SVI 196<br>
-3 Nest Ball SVI 181<br>
-2 Level Ball BST 129<br>
-2 Switch SVI 194<br>
-1 Hisuian Heavy Ball ASR 146<br>
-1 Beach Court SVI 167<br>
+<p><strong>Trainer Cards - 32</strong><br />
+4 Professor's Research SVI 190<br />
+2 Boss's Orders BRS 132<br />
+2 Raihan CRZ 140<br />
+2 Serena SIT 164<br />
+4 Electric Generator SVI 170<br />
+4 Trekking Shoes CRZ 145<br />
+4 Ultra Ball SVI 196<br />
+3 Nest Ball SVI 181<br />
+2 Level Ball BST 129<br />
+2 Switch SVI 194<br />
+1 Hisuian Heavy Ball ASR 146<br />
+1 Beach Court SVI 167<br />
 1 Stormy Mountains EVS 161</p>
-<p><strong>Energy - 13</strong><br>
+<p><strong>Energy - 13</strong><br />
 13 Lightning Energy SWSHEnergy 4</p>
 </div>
 <div id="Regieleki_Miraidon" class="miraidonex_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 16</strong><br>
-4 Regieleki V SIT 57<br>
-4 Regieleki VMAX SIT 58<br>
-3 Klefki SVI 96<br>
-3 Miraidon ex SVI 81<br>
-1 Drapion V LOR 118<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 16</strong><br />
+4 Regieleki V SIT 57<br />
+4 Regieleki VMAX SIT 58<br />
+3 Klefki SVI 96<br />
+3 Miraidon ex SVI 81<br />
+1 Drapion V LOR 118<br />
 1 Raikou V BRS 48</p>
-<p><strong>Trainer Cards - 29</strong><br>
-4 Professor's Research SVI 190<br>
-2 Arven SVI 166<br>
-2 Boss's Orders BRS 132<br>
-2 Judge SVI 176<br>
-1 Raihan CRZ 140<br>
-1 Serena SIT 164<br>
-4 Electric Generator SVI 170<br>
-4 Ultra Ball SVI 196<br>
-3 Nest Ball SVI 181<br>
-2 Escape Rope BST 125<br>
-1 Forest Seal Stone SIT 156<br>
-1 Sky Seal Stone CRZ 143<br>
-1 Beach Court SVI 167<br>
+<p><strong>Trainer Cards - 29</strong><br />
+4 Professor's Research SVI 190<br />
+2 Arven SVI 166<br />
+2 Boss's Orders BRS 132<br />
+2 Judge SVI 176<br />
+1 Raihan CRZ 140<br />
+1 Serena SIT 164<br />
+4 Electric Generator SVI 170<br />
+4 Ultra Ball SVI 196<br />
+3 Nest Ball SVI 181<br />
+2 Escape Rope BST 125<br />
+1 Forest Seal Stone SIT 156<br />
+1 Sky Seal Stone CRZ 143<br />
+1 Beach Court SVI 167<br />
 1 Stormy Mountains EVS 161</p>
-<p><strong>Energy - 15</strong><br>
+<p><strong>Energy - 15</strong><br />
 15 Lightning Energy SWSHEnergy 4</p>
 </div>
 </div>
@@ -929,60 +929,60 @@ Bench Meloetta, Mew V, and Genesect V, filling your bench with Genesect V and a 
   <button class="mewvmax_tabs">DTE Build</button>
 </div>
 <div id="Fusion_Mew" class="mewvmax_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 13</strong><br>
-4 Genesect V FST 185<br>
-4 Mew V FST 113<br>
-3 Mew VMAX FST 114<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 13</strong><br />
+4 Genesect V FST 185<br />
+4 Mew V FST 113<br />
+3 Mew VMAX FST 114<br />
 2 Meloetta FST 124</p>
-<p><strong>Trainer Cards - 40</strong><br>
-3 Boss's Orders BRS 132<br>
-3 Elesa's Sparkle FST 233<br>
-1 Roxanne ASR 150<br>
-1 Serena SIT 164<br>
-4 Battle VIP Pass FST 225<br>
-4 Cram-o-matic FST 229<br>
-4 Power Tablet FST 236<br>
-4 Ultra Ball SVI 196<br>
-3 Feather Ball ASR 141<br>
-2 Choice Belt BRS 135<br>
-2 Forest Seal Stone SIT 156<br>
-2 Lost Vacuum CRZ 135<br>
-2 Switch Cart ASR 154<br>
-1 Escape Rope BST 125<br>
-2 Lost City LOR 161<br>
+<p><strong>Trainer Cards - 40</strong><br />
+3 Boss's Orders BRS 132<br />
+3 Elesa's Sparkle FST 233<br />
+1 Roxanne ASR 150<br />
+1 Serena SIT 164<br />
+4 Battle VIP Pass FST 225<br />
+4 Cram-o-matic FST 229<br />
+4 Power Tablet FST 236<br />
+4 Ultra Ball SVI 196<br />
+3 Feather Ball ASR 141<br />
+2 Choice Belt BRS 135<br />
+2 Forest Seal Stone SIT 156<br />
+2 Lost Vacuum CRZ 135<br />
+2 Switch Cart ASR 154<br />
+1 Escape Rope BST 125<br />
+2 Lost City LOR 161<br />
 2 Path to the Peak CRE 148</p>
-<p><strong>Energy - 7</strong><br>
-4 Fusion Strike Energy FST 244<br>
+<p><strong>Energy - 7</strong><br />
+4 Fusion Strike Energy FST 244<br />
 3 Double Turbo Energy BRS 151</p>
 </div>
 <div id="DTE_Mew" class="mewvmax_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 12</strong><br>
-4 Genesect V FST 185<br>
-4 Mew V FST 113<br>
-3 Mew VMAX FST 114<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 12</strong><br />
+4 Genesect V FST 185<br />
+4 Mew V FST 113<br />
+3 Mew VMAX FST 114<br />
 1 Oricorio FST 42</p>
-<p><strong>Trainer Cards - 44</strong><br>
-2 Boss's Orders BRS 132<br>
-2 Judge SVI 176<br>
-1 Arven SVI 166<br>
-1 Roxanne ASR 150<br>
-4 Battle VIP Pass FST 225<br>
-4 Cram-o-matic FST 229<br>
-4 Cross Switcher FST 230<br>
-4 Power Tablet FST 236<br>
-4 Ultra Ball SVI 196<br>
-3 Lost Vacuum CRZ 135<br>
-2 Escape Rope BST 125<br>
-2 Feather Ball ASR 141<br>
-2 Nest Ball SVI 181<br>
-1 Echoing Horn CRE 136<br>
-2 Choice Belt BRS 135<br>
-2 Forest Seal Stone SIT 156<br>
-3 Path to the Peak CRE 148<br>
+<p><strong>Trainer Cards - 44</strong><br />
+2 Boss's Orders BRS 132<br />
+2 Judge SVI 176<br />
+1 Arven SVI 166<br />
+1 Roxanne ASR 150<br />
+4 Battle VIP Pass FST 225<br />
+4 Cram-o-matic FST 229<br />
+4 Cross Switcher FST 230<br />
+4 Power Tablet FST 236<br />
+4 Ultra Ball SVI 196<br />
+3 Lost Vacuum CRZ 135<br />
+2 Escape Rope BST 125<br />
+2 Feather Ball ASR 141<br />
+2 Nest Ball SVI 181<br />
+1 Echoing Horn CRE 136<br />
+2 Choice Belt BRS 135<br />
+2 Forest Seal Stone SIT 156<br />
+3 Path to the Peak CRE 148<br />
 1 Lost City LOR 161</p>
-<p><strong>Energy - 4</strong><br>
+<p><strong>Energy - 4</strong><br />
 4 Double Turbo Energy BRS 151</p>
 </div>
 </div>
@@ -1461,64 +1461,64 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
   <button class="thegoo_tabs">Arceus VSTAR</button>
 </div>
 <div id="Lost_Goo" class="thegoo_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 17</strong><br>
-4 Comfey LOR 79<br>
-3 Hisuian Goodra V LOR 135<br>
-3 Hisuian Goodra VSTAR LOR 136<br>
-2 Sableye LOR 70<br>
-1 Cramorant LOR 50<br>
-1 Drapion V LOR 118<br>
-1 Manaphy BRS 41<br>
-1 Radiant Greninja ASR 46<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 17</strong><br />
+4 Comfey LOR 79<br />
+3 Hisuian Goodra V LOR 135<br />
+3 Hisuian Goodra VSTAR LOR 136<br />
+2 Sableye LOR 70<br />
+1 Cramorant LOR 50<br />
+1 Drapion V LOR 118<br />
+1 Manaphy BRS 41<br />
+1 Radiant Greninja ASR 46<br />
 1 Zamazenta CRZ 97</p>
-<p><strong>Trainer Cards - 31</strong><br>
-4 Colress's Experiment LOR 155<br>
-2 Boss's Orders BRS 132<br>
-1 Roxanne ASR 150<br>
-4 Battle VIP Pass FST 225<br>
-4 Mirage Gate LOR 163<br>
-4 Switch SVI 194<br>
-3 Escape Rope BST 125<br>
-3 Nest Ball SVI 181<br>
-2 Ultra Ball SVI 196<br>
-1 Energy Recycler BST 124<br>
-1 Lost Vacuum CRZ 135<br>
-2 Beach Court SVI 167<br>
-</p><p><strong>Energy - 12</strong><br>
-5 Metal Energy SWSHEnergy 8<br>
-5 Water Energy SWSHEnergy 3<br>
+<p><strong>Trainer Cards - 31</strong><br />
+4 Colress's Experiment LOR 155<br />
+2 Boss's Orders BRS 132<br />
+1 Roxanne ASR 150<br />
+4 Battle VIP Pass FST 225<br />
+4 Mirage Gate LOR 163<br />
+4 Switch SVI 194<br />
+3 Escape Rope BST 125<br />
+3 Nest Ball SVI 181<br />
+2 Ultra Ball SVI 196<br />
+1 Energy Recycler BST 124<br />
+1 Lost Vacuum CRZ 135<br />
+2 Beach Court SVI 167<br />
+</p><p><strong>Energy - 12</strong><br />
+5 Metal Energy SWSHEnergy 8<br />
+5 Water Energy SWSHEnergy 3<br />
 2 Psychic Energy SWSHEnergy 5</p>
 </div>
 <div id="Arc_Goo" class="thegoo_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 12</strong><br>
-4 Arceus V BRS 122<br>
-2 Arceus VSTAR BRS 123<br>
-2 Hisuian Goodra V LOR 135<br>
-2 Hisuian Goodra VSTAR LOR 136<br>
-1 Drapion V LOR 118<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 12</strong><br />
+4 Arceus V BRS 122<br />
+2 Arceus VSTAR BRS 123<br />
+2 Hisuian Goodra V LOR 135<br />
+2 Hisuian Goodra VSTAR LOR 136<br />
+1 Drapion V LOR 118<br />
 1 Radiant Gardevoir LOR 69</p>
-<p><strong>Trainer Cards - 34</strong><br>
-4 Colress's Experiment LOR 155<br>
-3 Melony CRE 146<br>
-2 Boss's Orders BRS 132<br>
-2 Judge SVI 176<br>
-1 Professor's Research SVI 190<br>
-1 Serena SIT 164<br>
-4 Nest Ball SVI 181<br>
-4 Trekking Shoes ASR 156<br>
-4 Ultra Ball SVI 196<br>
-2 Switch SVI 194<br>
-1 Capturing Aroma SIT 153<br>
-1 Hisuian Heavy Ball ASR 146<br>
-1 Lost Vacuum CRZ 135<br>
-3 Crystal Cave EVS 144<br>
+<p><strong>Trainer Cards - 34</strong><br />
+4 Colress's Experiment LOR 155<br />
+3 Melony CRE 146<br />
+2 Boss's Orders BRS 132<br />
+2 Judge SVI 176<br />
+1 Professor's Research SVI 190<br />
+1 Serena SIT 164<br />
+4 Nest Ball SVI 181<br />
+4 Trekking Shoes ASR 156<br />
+4 Ultra Ball SVI 196<br />
+2 Switch SVI 194<br />
+1 Capturing Aroma SIT 153<br />
+1 Hisuian Heavy Ball ASR 146<br />
+1 Lost Vacuum CRZ 135<br />
+3 Crystal Cave EVS 144<br />
 1 Path to the Peak CRE 148</p>
-<p><strong>Energy - 14</strong><br>
-5 Water Energy SWSHEnergy 3<br>
-4 Double Turbo Energy BRS 151<br>
-4 Metal Energy SWSHEnergy 8<br>
+<p><strong>Energy - 14</strong><br />
+5 Water Energy SWSHEnergy 3<br />
+4 Double Turbo Energy BRS 151<br />
+4 Metal Energy SWSHEnergy 8<br />
 1 V Guard Energy SIT 169</p>
 </div>
 </div></div></div><div class="jb-code-container">
@@ -1692,121 +1692,121 @@ Get two Archeops into the discard pile while benching and eventually evolving Lu
   <button class="lugiavstar_tabs">Deoxys</button>
 </div>
 <div id="SS_Lugia" class="lugiavstar_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 17</strong><br>
-4 Archeops SIT 147<br>
-4 Lugia V SIT 138<br>
-3 Lugia VSTAR SIT 139<br>
-2 Lumineon V BRS 40<br>
-2 Stonjourner BST 84<br>
-2 Tyranitar V BST 97<br>
-</p><p><strong>Trainer Cards - 29</strong><br>
-4 Professor's Research SVI 190<br>
-2 Boss's Orders BRS 132<br>
-2 Judge SVI 176<br>
-2 Serena SIT 164<br>
-1 Professor Burnet PR-SW 167<br>
-4 Capturing Aroma SIT 153<br>
-4 Ultra Ball SVI 196<br>
-3 Nest Ball SVI 181<br>
-3 Urn of Vitality BST 139<br>
-3 Mesagoza SVI 178<br>
-1 Collapsed Stadium BRS 137<br>
-</p><p><strong>Energy - 14</strong><br>
-4 Single Strike Energy BST 141<br>
-3 Double Turbo Energy BRS 151<br>
-3 Gift Energy LOR 171<br>
-2 Regenerative Energy SIT 168<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 17</strong><br />
+4 Archeops SIT 147<br />
+4 Lugia V SIT 138<br />
+3 Lugia VSTAR SIT 139<br />
+2 Lumineon V BRS 40<br />
+2 Stonjourner BST 84<br />
+2 Tyranitar V BST 97<br />
+</p><p><strong>Trainer Cards - 29</strong><br />
+4 Professor's Research SVI 190<br />
+2 Boss's Orders BRS 132<br />
+2 Judge SVI 176<br />
+2 Serena SIT 164<br />
+1 Professor Burnet PR-SW 167<br />
+4 Capturing Aroma SIT 153<br />
+4 Ultra Ball SVI 196<br />
+3 Nest Ball SVI 181<br />
+3 Urn of Vitality BST 139<br />
+3 Mesagoza SVI 178<br />
+1 Collapsed Stadium BRS 137<br />
+</p><p><strong>Energy - 14</strong><br />
+4 Single Strike Energy BST 141<br />
+3 Double Turbo Energy BRS 151<br />
+3 Gift Energy LOR 171<br />
+2 Regenerative Energy SIT 168<br />
 2 V Guard Energy SIT 169</p>
 </div>
 <div id="Umbreon_Lugia" class="lugiavstar_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 20</strong><br>
-4 Archeops SIT 147<br>
-3 Lugia V SIT 138<br>
-3 Lugia VSTAR SIT 139<br>
-3 Umbreon V EVS 94<br>
-2 Single Strike Urshifu V BST 85<br>
-2 Single Strike Urshifu VMAX BST 86<br>
-2 Umbreon VMAX EVS 95<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 20</strong><br />
+4 Archeops SIT 147<br />
+3 Lugia V SIT 138<br />
+3 Lugia VSTAR SIT 139<br />
+3 Umbreon V EVS 94<br />
+2 Single Strike Urshifu V BST 85<br />
+2 Single Strike Urshifu VMAX BST 86<br />
+2 Umbreon VMAX EVS 95<br />
 1 Lumineon V BRS 40</p>
-<p><strong>Trainer Cards - 25</strong><br>
-4 Professor's Research SVI 190<br>
-2 Boss's Orders BRS 132<br>
-2 Judge SVI 176<br>
-1 Serena SIT 164<br>
-4 Capturing Aroma SIT 153<br>
-4 Ultra Ball SVI 196<br>
-3 Urn of Vitality BST 139<br>
-1 Lost Vacuum CRZ 135<br>
+<p><strong>Trainer Cards - 25</strong><br />
+4 Professor's Research SVI 190<br />
+2 Boss's Orders BRS 132<br />
+2 Judge SVI 176<br />
+1 Serena SIT 164<br />
+4 Capturing Aroma SIT 153<br />
+4 Ultra Ball SVI 196<br />
+3 Urn of Vitality BST 139<br />
+1 Lost Vacuum CRZ 135<br />
 4 Tower of Darkness BST 137</p>
-<p><strong>Energy - 15</strong><br>
-4 Single Strike Energy BST 141<br>
-3 Impact Energy CRE 157<br>
-3 Lucky Energy CRE 158<br>
-2 Double Turbo Energy BRS 151<br>
-1 Gift Energy LOR 171<br>
-1 Regenerative Energy SIT 168<br>
+<p><strong>Energy - 15</strong><br />
+4 Single Strike Energy BST 141<br />
+3 Impact Energy CRE 157<br />
+3 Lucky Energy CRE 158<br />
+2 Double Turbo Energy BRS 151<br />
+1 Gift Energy LOR 171<br />
+1 Regenerative Energy SIT 168<br />
 1 V Guard Energy SIT 169</p>
 </div>
 <div id="RS_Lugia" class="lugiavstar_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 20</strong><br>
-4 Archeops SIT 147<br>
-4 Lugia V SIT 138<br>
-3 Lugia VSTAR SIT 139<br>
-2 Empoleon V BST 40<br>
-2 Rapid Strike Urshifu V BST 87<br>
-2 Rapid Strike Urshifu VMAX BST 88<br>
-1 Drapion V LOR 118<br>
-1 Lumineon V BRS 40<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 20</strong><br />
+4 Archeops SIT 147<br />
+4 Lugia V SIT 138<br />
+3 Lugia VSTAR SIT 139<br />
+2 Empoleon V BST 40<br />
+2 Rapid Strike Urshifu V BST 87<br />
+2 Rapid Strike Urshifu VMAX BST 88<br />
+1 Drapion V LOR 118<br />
+1 Lumineon V BRS 40<br />
 1 Zeraora V CRE 53</p>
-<p><strong>Trainer Cards - 25</strong><br>
-4 Professor's Research SVI 190<br>
-2 Boss's Orders BRS 132<br>
-2 Serena SIT 164<br>
-1 Judge SVI 176<br>
-1 Professor Burnet PR-SW 167<br>
-4 Capturing Aroma SIT 153<br>
-4 Nest Ball SVI 181<br>
-4 Ultra Ball SVI 196<br>
+<p><strong>Trainer Cards - 25</strong><br />
+4 Professor's Research SVI 190<br />
+2 Boss's Orders BRS 132<br />
+2 Serena SIT 164<br />
+1 Judge SVI 176<br />
+1 Professor Burnet PR-SW 167<br />
+4 Capturing Aroma SIT 153<br />
+4 Nest Ball SVI 181<br />
+4 Ultra Ball SVI 196<br />
 3 Tower of Waters BST 138</p>
-<p><strong>Energy - 15</strong><br>
-4 Rapid Strike Energy BST 140<br>
-3 Double Turbo Energy BRS 151<br>
-2 Gift Energy LOR 171<br>
-2 Spiral Energy CRE 159<br>
-2 V Guard Energy SIT 169<br>
-1 Lucky Energy CRE 158<br>
+<p><strong>Energy - 15</strong><br />
+4 Rapid Strike Energy BST 140<br />
+3 Double Turbo Energy BRS 151<br />
+2 Gift Energy LOR 171<br />
+2 Spiral Energy CRE 159<br />
+2 V Guard Energy SIT 169<br />
+1 Lucky Energy CRE 158<br />
 1 Regenerative Energy SIT 168</p>
 </div>
 <div id="Deoxys_Lugia" class="lugiavstar_content">
-<br>  <h3>Example Deck List</h3>
-<p><strong>Pokémon - 17</strong><br>
-4 Archeops SIT 147<br>
-4 Lugia V SIT 138<br>
-3 Deoxys FST 120<br>
-3 Lugia VSTAR SIT 139<br>
-1 Lumineon V BRS 40<br>
-1 Stonjourner BST 84<br>
+<br />  <h3>Example Deck List</h3>
+<p><strong>Pokémon - 17</strong><br />
+4 Archeops SIT 147<br />
+4 Lugia V SIT 138<br />
+3 Deoxys FST 120<br />
+3 Lugia VSTAR SIT 139<br />
+1 Lumineon V BRS 40<br />
+1 Stonjourner BST 84<br />
 1 Tyranitar V BST 97</p>
-<p><strong>Trainer Cards - 28</strong><br>
-4 Professor's Research SVI 190<br>
-3 Serena SIT 164<br>
-1 Boss's Orders BRS 132<br>
-1 Professor Burnet PR-SW 167<br>
-4 Capturing Aroma SIT 153<br>
-4 Ultra Ball SVI 196<br>
-3 Nest Ball SVI 181<br>
-3 Urn of Vitality BST 139<br>
-1 Choice Belt BRS 135<br>
-1 Single Strike Scroll of the Fanged Dragon EVS 158<br>
+<p><strong>Trainer Cards - 28</strong><br />
+4 Professor's Research SVI 190<br />
+3 Serena SIT 164<br />
+1 Boss's Orders BRS 132<br />
+1 Professor Burnet PR-SW 167<br />
+4 Capturing Aroma SIT 153<br />
+4 Ultra Ball SVI 196<br />
+3 Nest Ball SVI 181<br />
+3 Urn of Vitality BST 139<br />
+1 Choice Belt BRS 135<br />
+1 Single Strike Scroll of the Fanged Dragon EVS 158<br />
 3 Mesagoza SVI 178</p>
-<p><strong>Energy - 15</strong><br>
-4 Fusion Strike Energy FST 244<br>
-4 Single Strike Energy BST 141<br>
-3 Double Turbo Energy BRS 151<br>
-2 Gift Energy LOR 171<br>
+<p><strong>Energy - 15</strong><br />
+4 Fusion Strike Energy FST 244<br />
+4 Single Strike Energy BST 141<br />
+3 Double Turbo Energy BRS 151<br />
+2 Gift Energy LOR 171<br />
 2 V Guard Energy SIT 169</p>
 </div>
 </div></div></div><div class="jb-code-container">

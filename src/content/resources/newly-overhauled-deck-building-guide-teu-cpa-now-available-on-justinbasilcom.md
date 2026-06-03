@@ -20,7 +20,7 @@ A handful of pages in the guide are not yet complete, but the guide in its curre
   <div class="jb-p5">
     <p>
     <span class="jb-25-bold-upper">Visit the New Guide</span>
-<br>
+<br />
     Jump into a newly-overhauled version of the <em>Basic Guide to Deck Building in the Standard Format</em>.</p>
   </div>
 </div></a>

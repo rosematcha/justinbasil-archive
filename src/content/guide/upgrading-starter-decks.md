@@ -38,8 +38,8 @@ Next, let’s assess the draw cards the deck has access to. Often, these will be
   </tr>
   <tr>
     <td>
-    4 Professor's Research SVI 190<br>
-    3 Judge SVI 176<br>
+    4 Professor's Research SVI 190<br />
+    3 Judge SVI 176<br />
   </td></tr>
 </tbody></table>
 </div>
@@ -60,8 +60,8 @@ To replace these cards, we can look at our available Item-based options on the p
     <td class="jb-th">General Search Set</td>
   </tr>
   <tr>
-    <td>4 Nest Ball SVI 181<br>
-    4 Ultra Ball SVI 196<br>
+    <td>4 Nest Ball SVI 181<br />
+    4 Ultra Ball SVI 196<br />
   </td></tr>
 </tbody></table>
 </div>
@@ -92,7 +92,7 @@ Now that we've chosen all of our attackers, we can thicken up their lines. As ou
   </tr>
   <tr>
     <td><p>
-      4 copies of the Basic Pokémon<br>
+      4 copies of the Basic Pokémon<br />
       3-4 copies of the Stage 1 Pokémon
       </p></td>
   </tr>
@@ -104,9 +104,9 @@ Now that we've chosen all of our attackers, we can thicken up their lines. As ou
   </tr>
   <tr>
     <td><p>
-      4 copies of the Basic Pokémon<br>
-      0-2 copies of the Stage 1 Pokémon<br>
-      3-4 copies of the Stage 2 Pokémon<br>
+      4 copies of the Basic Pokémon<br />
+      0-2 copies of the Stage 1 Pokémon<br />
+      3-4 copies of the Stage 2 Pokémon<br />
       4 copies of <a href="https://limitlesstcg.com/cards/ssh/180/" target="_blank" class="jb-darkblue">Rare Candy</a>
       </p></td>
   </tr>
@@ -140,11 +140,11 @@ Now that we have draw supporters, our Pokémon, and our energy acceleration sele
   </tr>
   <tr>
     <td>
-4 Ralts ASR 60<br>
-4 Kirlia SIT 68<br>
-2 Gardevoir CRE 61<br>
-1 Gallade ASR 62<br>
-4 Level Ball BST 129<br>
+4 Ralts ASR 60<br />
+4 Kirlia SIT 68<br />
+2 Gardevoir CRE 61<br />
+1 Gallade ASR 62<br />
+4 Level Ball BST 129<br />
     </td>
   </tr>
 </tbody></table>
@@ -155,7 +155,7 @@ Now that we have draw supporters, our Pokémon, and our energy acceleration sele
   </tr>
   <tr>
     <td><p>
-      2 Bidoof CRZ 111<br>
+      2 Bidoof CRZ 111<br />
       2 Bibarel BRS 121
       </p></td>
   </tr>
@@ -173,7 +173,7 @@ A critical component of any deck focused on an aggression strategy, gusting give
   </tr>
   <tr>
     <td><p>
-      2 Boss's Orders BRS 132<br>
+      2 Boss's Orders BRS 132<br />
       </p></td>
   </tr>
 </tbody></table>
@@ -194,7 +194,7 @@ Now, let’s look at the last two roles cards play in a deck—[Recovery and Reb
   </tr>
   <tr>
     <td><p>
-      2 Switch SVI 194<br>
+      2 Switch SVI 194<br />
       1 Klara CRE 145
       </p></td>
   </tr>

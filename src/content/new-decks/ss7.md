@@ -1341,50 +1341,50 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
   <button class="tablinks">Necrozma Build</button>
 </div>
 <div id="Alcremie" class="tabcontent">
-<br>  <h3>Example Deck List</h3>
+<br />  <h3>Example Deck List</h3>
 <p>Source: <a href="https://twitter.com/GabrielSmartTCG/status/1424160261125066756" class="jlink">Gabriel Smart</a></p>
-<p><strong>Pokémon - 14 </strong><br>
-4 Shadow Rider Calyrex V CRE 74<br>
-4 Shadow Rider Calyrex VMAX CRE 75<br>
-2 Alcremie V CPA 22<br>
-2 Alcremie VMAX CPA 23<br>
+<p><strong>Pokémon - 14 </strong><br />
+4 Shadow Rider Calyrex V CRE 74<br />
+4 Shadow Rider Calyrex VMAX CRE 75<br />
+2 Alcremie V CPA 22<br />
+2 Alcremie VMAX CPA 23<br />
 2 Crobat V DAA 104</p>
-<p><strong>Trainer Cards - 33</strong><br>
-4 Boss's Orders RCL 154<br>
-4 Marnie CPA 56<br>
-4 Professor's Research CPA 62<br>
-4 Evolution Incense SSH 163<br>
-4 Fog Crystal CRE 140<br>
-4 Quick Ball SSH 179<br>
-2 Air Balloon SSH 156<br>
-2 Switch SSH 183<br>
-1 Energy Recycler GRI 123<br>
+<p><strong>Trainer Cards - 33</strong><br />
+4 Boss's Orders RCL 154<br />
+4 Marnie CPA 56<br />
+4 Professor's Research CPA 62<br />
+4 Evolution Incense SSH 163<br />
+4 Fog Crystal CRE 140<br />
+4 Quick Ball SSH 179<br />
+2 Air Balloon SSH 156<br />
+2 Switch SSH 183<br />
+1 Energy Recycler GRI 123<br />
 4 Training Court RCL 169</p>
-<p><strong>Energy - 13</strong><br>
+<p><strong>Energy - 13</strong><br />
 13 Psychic Energy SWSHEnergy 5</p>
 </div>
 <div id="Necrozma" class="tabcontent">
-<br>  <h3>Example Deck List</h3>
-  <p><strong>Pokémon - 15</strong><br>
-4 Shadow Rider Calyrex V CRE 74<br>
-4 Shadow Rider Calyrex VMAX CRE 75<br>
-2 Crobat V DAA 104<br>
-2 Galarian Zapdos V CRE 80<br>
-2 Necrozma V BST 63<br>
+<br />  <h3>Example Deck List</h3>
+  <p><strong>Pokémon - 15</strong><br />
+4 Shadow Rider Calyrex V CRE 74<br />
+4 Shadow Rider Calyrex VMAX CRE 75<br />
+2 Crobat V DAA 104<br />
+2 Galarian Zapdos V CRE 80<br />
+2 Necrozma V BST 63<br />
 1 Galarian Articuno EVS 63</p>
-  <p><strong>Trainer Cards - 30</strong><br>
-4 Professor's Research CPA 62<br>
-3 Boss's Orders RCL 154<br>
-3 Marnie CPA 56<br>
-4 Fog Crystal CRE 140<br>
-4 Quick Ball SSH 179<br>
-3 Evolution Incense SSH 163<br>
-2 Air Balloon SSH 156<br>
-2 Switch SSH 183<br>
-1 Tool Scrapper RCL 168<br>
+  <p><strong>Trainer Cards - 30</strong><br />
+4 Professor's Research CPA 62<br />
+3 Boss's Orders RCL 154<br />
+3 Marnie CPA 56<br />
+4 Fog Crystal CRE 140<br />
+4 Quick Ball SSH 179<br />
+3 Evolution Incense SSH 163<br />
+2 Air Balloon SSH 156<br />
+2 Switch SSH 183<br />
+1 Tool Scrapper RCL 168<br />
 4 Training Court RCL 169</p>
-  <p><strong>Energy - 15</strong><br>
-11 Psychic Energy SWSHEnergy 5<br>
+  <p><strong>Energy - 15</strong><br />
+11 Psychic Energy SWSHEnergy 5<br />
 4 Aurora Energy SSH 186</p>
 </div>
 <div id="Tokyo" class="tabcontent">
@@ -1643,92 +1643,92 @@ Evolve Rapid Strike Urshifu V into Rapid Strike Urshifu VMAX and use the deck’
   <button class="urshilinks">Oranguru Build</button>
 </div>
 <div id="Octillery" class="urshicontent">
-<br>  <h3>Example Deck List</h3>
-<p><b>Pokémon - 18</b><br>
-4 Rapid Strike Urshifu V BST 87<br>
-3 Rapid Strike Urshifu VMAX BST 88<br>
-3 Remoraid BST 36<br>
-2 Octillery BST 37<br>
-2 Crobat V DAA 104<br>
-2 Galarian Moltres V CRE 97<br>
+<br />  <h3>Example Deck List</h3>
+<p><b>Pokémon - 18</b><br />
+4 Rapid Strike Urshifu V BST 87<br />
+3 Rapid Strike Urshifu VMAX BST 88<br />
+3 Remoraid BST 36<br />
+2 Octillery BST 37<br />
+2 Crobat V DAA 104<br />
+2 Galarian Moltres V CRE 97<br />
 2 Passimian CRE 88</p>
-<p><b>Trainer Cards - 33</b><br>
-4 Professor's Research CPA 62<br>
-3 Boss's Orders RCL 154<br>
-3 Marnie CPA 56<br>
-1 Korrina's Focus BST 128<br>
-4 Energy Switch SSH 162<br>
-4 Quick Ball SSH 179<br>
-3 Evolution Incense SSH 163<br>
-3 Switch SSH 183<br>
-2 Energy Search SSH 161<br>
-2 Telescopic Sight VIV 160<br>
-1 Escape Rope BST 125<br>
-3 Tower of Waters BST 138<br></p>
-<p><b>Energy - 9</b><br>
-4 Darkness Energy SWSHEnergy 7<br>
-4 Rapid Strike Energy BST 140<br>
+<p><b>Trainer Cards - 33</b><br />
+4 Professor's Research CPA 62<br />
+3 Boss's Orders RCL 154<br />
+3 Marnie CPA 56<br />
+1 Korrina's Focus BST 128<br />
+4 Energy Switch SSH 162<br />
+4 Quick Ball SSH 179<br />
+3 Evolution Incense SSH 163<br />
+3 Switch SSH 183<br />
+2 Energy Search SSH 161<br />
+2 Telescopic Sight VIV 160<br />
+1 Escape Rope BST 125<br />
+3 Tower of Waters BST 138<br /></p>
+<p><b>Energy - 9</b><br />
+4 Darkness Energy SWSHEnergy 7<br />
+4 Rapid Strike Energy BST 140<br />
 1 Fighting Energy SWSHEnergy 6</p>
 </div>
 <div id="Inteleon" class="urshicontent">
-<br>  <h3>Example Deck List</h3>
+<br />  <h3>Example Deck List</h3>
 <p>Source: <a href="https://drive.google.com/file/d/1QrQeGTi8F_Tb0Aa6hdeljETK5Pdjeaei/view?usp=sharing" class="jlink">Celio's Network</a></p>
-<p><b>Pokémon - 23</b><br>
-4 Rapid Strike Urshifu V BST 87<br>
-3 Rapid Strike Urshifu VMAX BST 88<br>
-4 Sobble CRE 41<br>
-4 Drizzile SSH 56<br>
-3 Inteleon CRE 43<br>
-1 Inteleon SSH 58<br>
-1 Medicham V EVS 83<br>
-1 Passimian CRE 88<br>
-1 Eldegoss V RCL 19<br>
+<p><b>Pokémon - 23</b><br />
+4 Rapid Strike Urshifu V BST 87<br />
+3 Rapid Strike Urshifu VMAX BST 88<br />
+4 Sobble CRE 41<br />
+4 Drizzile SSH 56<br />
+3 Inteleon CRE 43<br />
+1 Inteleon SSH 58<br />
+1 Medicham V EVS 83<br />
+1 Passimian CRE 88<br />
+1 Eldegoss V RCL 19<br />
 1 Crobat V DAA 104</p>
-<p><b>Trainer Cards - 29</b><br>
-4 Professor's Research CPA 62<br>
-3 Marnie CPA 56<br>
-2 Boss's Orders RCL 154<br>
-1 Raihan EVS 152<br>
-4 Quick Ball SSH 179<br>
-3 Evolution Incense SSH 163<br>
-3 Level Ball BST 129<br>
-2 Switch SSH 183<br>
-2 Telescopic Sight VIV 160<br>
-1 Air Balloon SSH 156<br>
-1 Energy Search SSH 161<br>
-1 Ordinary Rod SSH 171<br>
+<p><b>Trainer Cards - 29</b><br />
+4 Professor's Research CPA 62<br />
+3 Marnie CPA 56<br />
+2 Boss's Orders RCL 154<br />
+1 Raihan EVS 152<br />
+4 Quick Ball SSH 179<br />
+3 Evolution Incense SSH 163<br />
+3 Level Ball BST 129<br />
+2 Switch SSH 183<br />
+2 Telescopic Sight VIV 160<br />
+1 Air Balloon SSH 156<br />
+1 Energy Search SSH 161<br />
+1 Ordinary Rod SSH 171<br />
 2 Tower of Waters BST 138</p>
-<p><b>Energy - 8</b><br>
-4 Fighting Energy SWSHEnergy 6<br>
+<p><b>Energy - 8</b><br />
+4 Fighting Energy SWSHEnergy 6<br />
 4 Rapid Strike Energy BST 140</p>
 </div>
 <div id="Oranguru" class="urshicontent">
-<br>  <h3>Example Deck List</h3>
+<br />  <h3>Example Deck List</h3>
 <p>Source: <a href="https://play.limitlesstcg.com/tournament/61170f873ec3ac1f06b242f9/player/kingk4rp/decklist" class="jlink">KingK4RP</a></p>
-<p><b>Pokémon - 16 </b><br>
-4 Rapid Strike Urshifu V BST 87<br>
-3 Rapid Strike Urshifu VMAX BST 88<br>
-2 Galarian Moltres V CRE 97<br>
-2 Oranguru SSH 148<br>
-2 Crobat V DAA 104<br>
-1 Galarian Articuno V CRE 58<br>
-1 Passimian CRE 88<br>
+<p><b>Pokémon - 16 </b><br />
+4 Rapid Strike Urshifu V BST 87<br />
+3 Rapid Strike Urshifu VMAX BST 88<br />
+2 Galarian Moltres V CRE 97<br />
+2 Oranguru SSH 148<br />
+2 Crobat V DAA 104<br />
+1 Galarian Articuno V CRE 58<br />
+1 Passimian CRE 88<br />
 1 Ditto V SHF 50</p>
-<p><b>Trainer Cards - 35</b><br>
-4 Marnie CPA 56<br>
-4 Professor's Research CPA 62<br>
-3 Boss's Orders RCL 154<br>
-4 Great Ball CPA 52<br>
-4 Quick Ball SSH 179<br>
-4 Rotom Phone CPA 64<br>
-3 Energy Switch SSH 162<br>
-2 Air Balloon SSH 156<br>
-2 Energy Search SSH 161<br>
-2 Switch SSH 183<br>
+<p><b>Trainer Cards - 35</b><br />
+4 Marnie CPA 56<br />
+4 Professor's Research CPA 62<br />
+3 Boss's Orders RCL 154<br />
+4 Great Ball CPA 52<br />
+4 Quick Ball SSH 179<br />
+4 Rotom Phone CPA 64<br />
+3 Energy Switch SSH 162<br />
+2 Air Balloon SSH 156<br />
+2 Energy Search SSH 161<br />
+2 Switch SSH 183<br />
 3 Tower of Waters BST 138</p>
-<p><b>Energy - 9</b><br>
-4 Rapid Strike Energy BST 140<br>
-4 Darkness Energy SWSHEnergy 7<br>
+<p><b>Energy - 9</b><br />
+4 Rapid Strike Energy BST 140<br />
+4 Darkness Energy SWSHEnergy 7<br />
 1 Fighting Energy SWSHEnergy 6</p>
 </div>
 </div></div></div><div class="jb-code-container">

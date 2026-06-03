@@ -115,7 +115,7 @@ Purchasing two of the most recent version of the Trainer’s Toolkit may be a co
   <button id="defaultOpen" class="tablinks">2024<span class="nomobile"> Trainer's Toolkit</span></button>
 </div>
 <div id="2020" class="tabcontent">
-<br>
+<br />
 <p>
 The 2020 Trainer's Toolkit features a red box. As of 5 April 2024, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format. Because so much of this version of the Trainer's Toolkit has rotated from the Standard format, picking up this product is not ideal.
 </p>
@@ -151,7 +151,7 @@ The 2020 Trainer's Toolkit features a red box. As of 5 April 2024, cards from th
 </div>
 </div>
 <div id="2021" class="tabcontent">
-<br>
+<br />
 <p>
 The 2021 Trainer's Toolkit features a blue box. As of 25 July 2025, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format. Because so much of this version of the Trainer's Toolkit has rotated from the Standard format, picking up this product is not ideal.
 </p>
@@ -190,7 +190,7 @@ The 2021 Trainer's Toolkit features a blue box. As of 25 July 2025, cards from t
 </div>    
 </div>
 <div id="2022" class="tabcontent">
-<br>
+<br />
 <p>
 The 2022 Trainer's Toolkit features a purple box. As of 25 July 2025, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format. Because so much of this version of the Trainer's Toolkit has rotated from the Standard format, picking up this product is not ideal.
 </p>
@@ -228,7 +228,7 @@ The 2022 Trainer's Toolkit features a purple box. As of 25 July 2025, cards from
 </div>
 </div>
 <div id="2023" class="tabcontent">
-<br>
+<br />
 <p>
 The 2023 Trainer's Toolkit features a multicolored white and yellow box, with a picture of Arceus on the front. As of 25 July 2025, cards from this version of the Trainer's Toolkit marked in red below have rotated out of the current Standard format.
 </p>
@@ -268,7 +268,7 @@ The 2023 Trainer's Toolkit features a multicolored white and yellow box, with a 
 </div>
 </div>
 <div id="2024" class="tabcontent">
-<br>
+<br />
 <p>
 The 2024 Trainer's Toolkit features a bright seafoam-colored box, with a picture of Squawkabilly on the front. As of July 2025, no cards from this product have rotated from the Standard format.
 </p>

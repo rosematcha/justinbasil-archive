@@ -28,7 +28,7 @@ To review this set’s full card list, visit the article [Battle Styles—What W
     </li><li><a href="#srtrainers" class="jlink">Gold Items and Energy Cards</a>
   </li></ul>
 </div>
-<br>
+<br />
   <b>For Players</b>
 <div class="mobile-collapse">
   <ul>  

@@ -1206,6 +1206,12 @@ export function finalizeBody(html) {
     new RegExp(STASH_OPEN + '(\\d+)' + STASH_CLOSE, 'g'),
     (_m, idx) => '\n\n' + stash[Number(idx)] + '\n\n',
   );
+  // 3. Self-close void HTML elements. The public Astro Markdown renderer is lenient about
+  //    `<img src="…">`, but Keystatic edits these bodies as MDX, whose parser requires void
+  //    tags to be self-closed (otherwise `<a><img></a>` makes `</a>` look like it's closing
+  //    the `<img>`). Idempotent — already-closed `… />` stays `… />`.
+  s = s.replace(/<(img|br|hr|input|source|area|col|embed|wbr|track|base|link|meta)\b([^>]*?)\s*\/?>/gi,
+    (_m, tag, attrs) => `<${tag}${attrs} />`);
   return s;
 }
 
