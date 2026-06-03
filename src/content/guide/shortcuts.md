@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Deck Building Shortcuts
+<h1 class="jb-center">&nbsp;Deck Building Shortcuts</h1>
 
 As a new deck builder, the process of building a deck from scratch can be overwhelming. There are a couple shortcuts you can take to help you get a new deck list to play without starting from zero. Below are two ways to shortcut the deck building process. As you become a more seasoned deck builder, you’ll rely on these less—but these methods can still prove to be useful starting points for building a deck of your own.
 
@@ -37,7 +37,7 @@ Select one of the deck building shortcuts below to learn more about it.
 
 
 
-< [Testing](/guide/testing) | [Table of Contents](/guide) | [A Deck Stencil](/guide/deck-stencil) >
+<p class="jb-center">&lt; <a href="/guide/testing">Testing</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/deck-stencil" target="_blank">A Deck Stencil</a> &gt;</p>
 
 
 

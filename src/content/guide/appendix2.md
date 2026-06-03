@@ -43,7 +43,7 @@ Noteworthy cards from each set in the Standard format have been split into three
 </div>
           <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1712020794653" id="page-61ffe972edb5904d236c7652"><div class="jb-row"><div class="jb-col-6"></div><div class="jb-col-6">
 
-[Astral Radiance (ASR) >](#staples/asr)
+<p style="text-align:right;"><a href="#staples/asr">Astral Radiance (ASR) &gt;</a></p>
 
 </div></div>
 
@@ -51,9 +51,9 @@ Noteworthy cards from each set in the Standard format have been split into three
 
 
 
-# Brilliant Stars (BRS)
+<h1 class="jb-center">Brilliant Stars (BRS)</h1>
 
-Set Release: 25 February 2022 | Set Legality Date: 11 March 2022 | Likely Rotation: Early 2025 Last Updated: 28 February 2022
+<p class="jb-center">Set Release: 25 February 2022 | Set Legality Date: 11 March 2022 | Likely Rotation: Early 2025<br>Last Updated: 28 February 2022</p>
 
 
 
@@ -88,7 +88,7 @@ Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 
 
 </div><div class="jb-col-6">
 
-[Pokémon GO (PGO)](#staples/pgo) [>](#staples/promos)
+<p style="text-align:right;"><a href="#staples/pgo">Pokémon GO (PGO)</a><a href="#staples/promos"> &gt;</a></p>
 
 </div></div>
 
@@ -96,9 +96,9 @@ Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 
 
 
 
-# Astral Radiance (ASR)
+<h1 class="jb-center">Astral Radiance (ASR)</h1>
 
-Set Release: 27 May 2022 | Set Legality Date: 10 June 2022 | Likely Rotation: Early 2025 Last Updated: 14 May 2022
+<p class="jb-center">Set Release: 27 May 2022 | Set Legality Date: 10 June 2022 | Likely Rotation: Early 2025<br>Last Updated: 14 May 2022</p>
 
 
 
@@ -133,7 +133,7 @@ Kricketune ASR 10 Shaymin ASR 14 Radiant Heatran ASR 27 Regice ASR 37 Hisuian Ba
 
 </div><div class="jb-col-6">
 
-[Lost Origin (LOR)](#staples/lor) [>](#staples/promos)
+<p style="text-align:right;"><a href="#staples/lor">Lost Origin (LOR)</a><a href="#staples/promos"> &gt;</a></p>
 
 </div></div>
 
@@ -141,9 +141,9 @@ Kricketune ASR 10 Shaymin ASR 14 Radiant Heatran ASR 27 Regice ASR 37 Hisuian Ba
 
 
 
-# Pokémon GO (PGO)
+<h1 class="jb-center">Pokémon GO (PGO)</h1>
 
-Set Release: 1 July 2022 | Set Legality Date: 15 July 2022 | Likely Rotation: Early 2025 Last Updated: 20 June 2022
+<p class="jb-center">Set Release: 1 July 2022 | Set Legality Date: 15 July 2022 | Likely Rotation: Early 2025<br>Last Updated: 20 June 2022</p>
 
 
 
@@ -178,7 +178,7 @@ Charizard PGO 10 Magikarp PGO 21 Mewtwo V PGO 30 Mewtwo VSTAR PGO 31 Lunatone PG
 
 </div><div class="jb-col-6">
 
-[Silver Tempest (SIT) >](#staples/sit)
+<p style="text-align:right;"><a href="#staples/sit">Silver Tempest (SIT) &gt;</a></p>
 
 </div></div>
 
@@ -186,9 +186,9 @@ Charizard PGO 10 Magikarp PGO 21 Mewtwo V PGO 30 Mewtwo VSTAR PGO 31 Lunatone PG
 
 
 
-# Lost Origin (LOR)
+<h1 class="jb-center">Lost Origin (LOR)</h1>
 
-Set Release: 9 September 2022 | Set Legality Date: 23 September 2022 | Likely Rotation: Early 2025 Last Updated: 23 August 2022
+<p class="jb-center">Set Release: 9 September 2022 | Set Legality Date: 23 September 2022 | Likely Rotation: Early 2025<br>Last Updated: 23 August 2022</p>
 
 
 
@@ -223,7 +223,7 @@ Parasect LOR 5 Beautifly LOR 8 Shiftry LOR 13 Trevenant LOR 17 Chandelure LOR 26
 
 </div><div class="jb-col-6">
 
-[Crown Zenith (CRZ) >](#staples/crz)
+<p style="text-align:right;"><a href="#staples/crz">Crown Zenith (CRZ) &gt;</a></p>
 
 </div></div>
 
@@ -231,9 +231,9 @@ Parasect LOR 5 Beautifly LOR 8 Shiftry LOR 13 Trevenant LOR 17 Chandelure LOR 26
 
 
 
-# Silver Tempest (SIT)
+<h1 class="jb-center">Silver Tempest (SIT)</h1>
 
-Set Release: 11 November 2022 | Set Legality Date: 25 November 2022 | Likely Rotation: Early 2025 Last Updated: 27 October 2022
+<p class="jb-center">Set Release: 11 November 2022 | Set Legality Date: 25 November 2022 | Likely Rotation: Early 2025<br>Last Updated: 27 October 2022</p>
 
 
 
@@ -268,7 +268,7 @@ Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alol
 
 </div><div class="jb-col-6">
 
-[Scarlet & Violet (SVI) >](#staples/svi)
+<p style="text-align:right;"><a href="#staples/svi">Scarlet &amp; Violet (SVI) &gt;</a></p>
 
 </div></div>
 
@@ -276,9 +276,9 @@ Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alol
 
 
 
-# Crown Zenith (CRZ)
+<h1 class="jb-center">Crown Zenith (CRZ)</h1>
 
-Set Release: 20 January 2023 | Set Legality Date: 3 February 2023 | Likely Rotation: Varies (2023-2025) Last Updated: 25 February 2023
+<p class="jb-center">Set Release: 20 January 2023 | Set Legality Date: 3 February 2023 | Likely Rotation: Varies (2023-2025)<br>Last Updated: 25 February 2023</p>
 
 
 
@@ -313,7 +313,7 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 </div><div class="jb-col-6">
 
-[Paldea Evolved (PAL) >](#staples/pal)
+<p style="text-align:right;"><a href="#staples/pal">Paldea Evolved (PAL) &gt;</a></p>
 
 </div></div>
 
@@ -321,9 +321,9 @@ Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VST
 
 
 
-# Scarlet & Violet (SVI)
+<h1 class="jb-center">Scarlet &amp; Violet (SVI)</h1>
 
-Set Release: 31 March 2023 | Set Legality Date: 14 April 2023 | Likely Rotation: Early 2026 Last Updated: 18 March 2023
+<p class="jb-center">Set Release: 31 March 2023 | Set Legality Date: 14 April 2023 | Likely Rotation: Early 2026<br>Last Updated: 18 March 2023</p>
 
 
 
@@ -410,7 +410,7 @@ Set Release: 31 March 2023 | Set Legality Date: 14 April 2023 | Likely Rotation:
 
 </div><div class="jb-col-6">
 
-[Obsidian Flames (OBF) >](#staples/obf)
+<p style="text-align:right;"><a href="#staples/obf">Obsidian Flames (OBF) &gt; </a></p>
 
 </div></div>
 
@@ -418,9 +418,9 @@ Set Release: 31 March 2023 | Set Legality Date: 14 April 2023 | Likely Rotation:
 
 
 
-# Paldea Evolved (PAL)
+<h1 class="jb-center">Paldea Evolved (PAL)</h1>
 
-Set Release: 9 June 2023 | Set Legality Date: 23 June 2022 | Likely Rotation: Early 2026 Last Updated: 26 May 2023
+<p class="jb-center">Set Release: 9 June 2023 | Set Legality Date: 23 June 2022 | Likely Rotation: Early 2026<br>Last Updated: 26 May 2023</p>
 
 
 
@@ -498,7 +498,7 @@ Set Release: 9 June 2023 | Set Legality Date: 23 June 2022 | Likely Rotation: Ea
 
 </div><div class="jb-col-6">
 
-[Scarlet & Violet—151 (MEW)](#staples/mew) >
+<p style="text-align:right;"><a href="#staples/mew">Scarlet &amp; Violet—151 (MEW)</a> &gt; </p>
 
 </div></div>
 
@@ -506,9 +506,9 @@ Set Release: 9 June 2023 | Set Legality Date: 23 June 2022 | Likely Rotation: Ea
 
 
 
-# Obsidian Flames (OBF)
+<h1 class="jb-center">Obsidian Flames (OBF)</h1>
 
-Set Release: 11 August 2023 | Set Legality Date: 25 August 2023 | Likely Rotation: Early 2026 Last Updated: 27 July 2023
+<p class="jb-center">Set Release: 11 August 2023 | Set Legality Date: 25 August 2023 | Likely Rotation: Early 2026<br>Last Updated: 27 July 2023</p>
 
 
 
@@ -573,7 +573,7 @@ Set Release: 11 August 2023 | Set Legality Date: 25 August 2023 | Likely Rotatio
 
 </div><div class="jb-col-6">
 
-[Paradox Rift (PAR) >](#staples/par)
+<p style="text-align:right;"><a href="#staples/par">Paradox Rift (PAR) &gt; </a></p>
 
 </div></div>
 
@@ -581,9 +581,9 @@ Set Release: 11 August 2023 | Set Legality Date: 25 August 2023 | Likely Rotatio
 
 
 
-# Scarlet & Violet—151 (MEW)
+<h1 class="jb-center">Scarlet &amp; Violet—151 (MEW)</h1>
 
-Set Release: 22 September 2023 | Set Legality Date: 6 October 2023 | Likely Rotation: Early 2026 Last Updated: 30 September 2023
+<p class="jb-center">Set Release: 22 September 2023 | Set Legality Date: 6 October 2023 | Likely Rotation: Early 2026<br>Last Updated: 30 September 2023</p>
 
 
 
@@ -657,7 +657,7 @@ Set Release: 22 September 2023 | Set Legality Date: 6 October 2023 | Likely Rota
 
 </div><div class="jb-col-6">
 
-[Paldean Fates (PAF) >](#staples/paf)
+<p style="text-align:right;"><a href="#staples/paf">Paldean Fates (PAF) &gt; </a></p>
 
 </div></div>
 
@@ -665,9 +665,9 @@ Set Release: 22 September 2023 | Set Legality Date: 6 October 2023 | Likely Rota
 
 
 
-# Paradox Rift (PAR)
+<h1 class="jb-center">Paradox Rift (PAR)</h1>
 
-Set Release: 3 November 2023 | Set Legality Date: 17 November 2023 | Likely Rotation: Early 2026 Last Updated: 29 October 2023
+<p class="jb-center">Set Release: 3 November 2023 | Set Legality Date: 17 November 2023 | Likely Rotation: Early 2026<br>Last Updated: 29 October 2023</p>
 
 
 
@@ -761,7 +761,7 @@ Set Release: 3 November 2023 | Set Legality Date: 17 November 2023 | Likely Rota
 
 </div><div class="jb-col-6">
 
-[Temporal Forces (TEF) >](#staples/tef)
+<p style="text-align:right;"><a href="#staples/tef"> Temporal Forces (TEF) &gt;</a></p>
 
 </div></div>
 
@@ -769,9 +769,9 @@ Set Release: 3 November 2023 | Set Legality Date: 17 November 2023 | Likely Rota
 
 
 
-# Paldean Fates (PAF)
+<h1 class="jb-center">Paldean Fates (PAF)</h1>
 
-Set Release: 26 January 2024 | Set Legality Date: 9 February 2024 | Likely Rotation: Varies (2025-2026) Last Updated: 13 March 2024
+<p class="jb-center">Set Release: 26 January 2024 | Set Legality Date: 9 February 2024 | Likely Rotation: Varies (2025-2026)<br>Last Updated: 13 March 2024</p>
 
 
 
@@ -834,7 +834,7 @@ Set Release: 26 January 2024 | Set Legality Date: 9 February 2024 | Likely Rotat
 
 </div><div class="jb-col-6">
 
-[Twilight Masquerade (TWM) >](#staples/twm)
+<p style="text-align:right;"><a href="#staples/twm" target="">Twilight Masquerade (TWM) &gt;</a></p>
 
 </div></div>
 
@@ -842,9 +842,9 @@ Set Release: 26 January 2024 | Set Legality Date: 9 February 2024 | Likely Rotat
 
 
 
-# Temporal Forces (TEF)
+<h1 class="jb-center">Temporal Forces (TEF)</h1>
 
-Set Release: 22 March 2024 | Set Legality Date: 5 April 2024 | Likely Rotation: April 2027 Last Updated: 13 March 2024
+<p class="jb-center">Set Release: 22 March 2024 | Set Legality Date: 5 April 2024 | Likely Rotation: April 2027<br>Last Updated: 13 March 2024</p>
 
 
 
@@ -931,7 +931,7 @@ Set Release: 22 March 2024 | Set Legality Date: 5 April 2024 | Likely Rotation: 
 
 </div><div class="jb-col-6">
 
-[Shrouded Fable (SFA) >](#staples/sfa)
+<p style="text-align:right;"><a href="#staples/sfa" target="_blank">Shrouded Fable (SFA) &gt;</a></p>
 
 </div></div>
 
@@ -939,9 +939,9 @@ Set Release: 22 March 2024 | Set Legality Date: 5 April 2024 | Likely Rotation: 
 
 
 
-# Twilight Masquerade (TWM)
+<h1 class="jb-center">Twilight Masquerade (TWM)</h1>
 
-Set Release: 24 May 2024 | Set Legality Date: 7 June 2024 | Likely Rotation: April 2027 Last Updated: 10 October 2024
+<p class="jb-center">Set Release: 24 May 2024 | Set Legality Date: 7 June 2024 | Likely Rotation: April 2027<br>Last Updated: 10 October 2024</p>
 
 
 
@@ -1015,7 +1015,7 @@ Set Release: 24 May 2024 | Set Legality Date: 7 June 2024 | Likely Rotation: Apr
 
 </div><div class="jb-col-6">
 
-[Stellar Crown (SCR) >](#staples/scr)
+<p style="text-align:right;"><a href="#staples/scr" target="_blank">Stellar Crown (SCR) &gt;</a></p>
 
 </div></div>
 
@@ -1023,9 +1023,9 @@ Set Release: 24 May 2024 | Set Legality Date: 7 June 2024 | Likely Rotation: Apr
 
 
 
-# Shrouded Fable (SFA)
+<h1 class="jb-center">Shrouded Fable (SFA)</h1>
 
-Set Release: 2 August 2024 | Set Legality Date: 16 August 2024 | Likely Rotation: April 2027 Last Updated: 10 October 2024
+<p class="jb-center">Set Release: 2 August 2024 | Set Legality Date: 16 August 2024 | Likely Rotation: April 2027<br>Last Updated: 10 October 2024</p>
 
 
 
@@ -1083,9 +1083,9 @@ Set Release: 2 August 2024 | Set Legality Date: 16 August 2024 | Likely Rotation
 
 
 
-# Stellar Crown (SCR)
+<h1 class="jb-center">Stellar Crown (SCR)</h1>
 
-Set Release: 13 September 2024 | Set Legality Date: 27 September 2024 | Likely Rotation: April 2027 Last Updated: 10 October 2024
+<p class="jb-center">Set Release: 13 September 2024 | Set Legality Date: 27 September 2024 | Likely Rotation: April 2027<br>Last Updated: 10 October 2024</p>
 
 
 

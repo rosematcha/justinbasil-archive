@@ -8,7 +8,7 @@ showHeading: false
 
 
 
-# Limits - What You Can and Can’t Put into Your Deck
+<h1 class="jb-center">Limits - What You Can and Can’t Put into Your Deck</h1>
 
 Before we begin looking at what you can—and what you should—put into your deck, it’s important to understand what can’t be put into a deck.
 
@@ -428,7 +428,7 @@ New promo cards, such as those found in special collections, also become legal t
 
 
 
-< [Introduction](/guide/introduction) | [Table of Contents](/guide) | [Getting to Know the Cards](/guide/knowing-the-cards) >
+<p class="jb-center">&lt; <a href="/guide/introduction">Introduction</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/knowing-the-cards">Getting to Know the Cards</a> &gt;</p>
 
 
 

@@ -193,12 +193,23 @@ function blockToMd(node) {
   const tag = node.tagName.toLowerCase();
   const m = tag.match(/^h([1-6])$/);
   if (m) {
+    // A heading that carries a promoted style class (e.g. `jb-center` on centered
+    // page titles / banner headers) must stay HTML so the class — and thus the
+    // original alignment — survives. Markdown `#` can't express alignment, so
+    // flattening these silently left-aligned every centered title. At this point in
+    // the pipeline `stripNoiseAttrs` has removed noise classes and
+    // `promoteUtilityStyles` has converted meaningful inline styles to `jb-*`
+    // classes, so any remaining class on a heading is a real, kept style.
+    if ((node.classList && node.classList.length) || /text-align\s*:/i.test(node.getAttribute('style') || '')) return node.outerHTML.trim();
     const txt = inlineToMd(node);
     // Empty heading: keep the element so fidelity sees the same heading count.
     if (!txt) return `<${tag}></${tag}>`;
     return '#'.repeat(Number(m[1])) + ' ' + txt;
   }
   if (tag === 'p') {
+    // Same as headings: a paragraph carrying a promoted alignment class (or an inline
+    // text-align) must stay HTML so its centering survives — Markdown can't express it.
+    if ((node.classList && node.classList.length) || /text-align\s*:/i.test(node.getAttribute('style') || '')) return node.outerHTML.trim();
     let txt = inlineToMd(node);
     if (!txt) return null;
     // Prevent CommonMark ordered-list interpretation at line start.
@@ -747,6 +758,13 @@ function stripNoiseAttrs(root) {
           // Always dead: width:100% on block elements (block default), explicit zero
           // margins/paddings that are typically already zero by the user-agent / our CSS.
           if (isBlock && (norm === 'width:100%' || norm === 'width:auto')) return false;
+          // `white-space:pre-wrap` is a pure Squarespace rich-text artifact: our prose
+          // conversion already collapses whitespace, and for normal text it renders
+          // identically to the default. Dropping it both de-noises the markup and lets a
+          // lone `text-align:center` promote to the `jb-center` class (otherwise the
+          // pre-wrap suffix blocks the exact-match in promoteUtilityStyles, which is why
+          // centered page titles silently went left-aligned).
+          if (norm === 'white-space:pre-wrap' || norm === 'white-space:pre-line') return false;
           return true;
         });
         if (!kept.length) { el.removeAttribute('style'); continue; }

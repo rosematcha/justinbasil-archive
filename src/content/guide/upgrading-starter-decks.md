@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Upgrading Starter Decks
+<h1 class="jb-center">&nbsp;Upgrading Starter Decks</h1>
 
 <div class="jb-row"><div class="jb-col-9">
 
@@ -299,7 +299,7 @@ Once our deck is exactly 60 cards and lines up relatively well with the general 
 
 
 
-< [Deck Building Shortcuts](/guide/shortcuts) | [Table of Contents](/guide) | [A Deck Stencil](/guide/deck-stencil) >
+<p class="jb-center">&lt; <a href="/guide/shortcuts">Deck Building Shortcuts</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/deck-stencil">A Deck Stencil</a> &gt;</p>
 
 
 

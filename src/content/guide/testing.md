@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Testing
+<h1 class="jb-center">Testing</h1>
 
 ## Before You Test
 
@@ -115,7 +115,7 @@ Sometimes, the last stage in testing a deck isn’t a tournament, it’s moving 
 
 
 
-< [Damage Control](/guide/damage) | [Table of Contents](/guide) | [Deck Building Shortcuts](/guide/shortcuts) >
+<p class="jb-center">&lt; <a href="/guide/damage">Damage Control</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/shortcuts">Deck Building Shortcuts</a> &gt;</p>
 
 
 

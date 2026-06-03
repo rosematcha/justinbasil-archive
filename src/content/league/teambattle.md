@@ -7,9 +7,9 @@ showHeading: false
 
 
 
-# TEAM BATTLE
+<h1 class="jb-center">&nbsp;TEAM BATTLE</h1>
 
-A new way to play with your cards from the Pokémon Trading Card Game
+<p class="jb-center">A new way to play with your cards from the Pokémon Trading Card Game</p>
 
 With the regular rules of the Pokémon Trading Card game, players evolve up their Pokémon over the course of a game and battle their opponent with all stages of Pokémon. With Pokémon TCG Team Battles, devolved by [Ninecard TCG](https://www.youtube.com/c/NinecardTCG), you’re a Pokémon Master—and your team of most trusted Pokémon is already at your fingertips.
 

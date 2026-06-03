@@ -11,7 +11,7 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Highlights from Battle Styles
+<h1 class="jb-center">Highlights from Battle Styles</h1>
 
 To review this set’s full card list, visit the article [Battle Styles—What We Know So Far](/set-lists/ss5).
 

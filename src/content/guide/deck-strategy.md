@@ -8,7 +8,7 @@ showHeading: false
 
 
 
-# Deck Strategy
+<h1 class="jb-center">Deck Strategy</h1>
 
 A **Deck** is a set of sixty cards that work together to execute a strategy to win. In the Pokémon Trading Card Game, there are three ways to win:
 
@@ -112,7 +112,7 @@ The goal of a deck whose primary strategy is **Stall** is to deny the opponent t
 
 
 
-< [Crafting Your Deck](/guide/crafting-your-deck) | [Table of Contents](/guide) | [Deck Structure](/guide/deck-structure) >
+<p class="jb-center">&lt; <a href="/guide/crafting-your-deck">Crafting Your Deck</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/deck-structure">Deck Structure</a> &gt;</p>
 
 
 

@@ -9,7 +9,7 @@ showHeading: false
 
 [< Noteworthy Losses and Retentions from BRT-CRZ](/rotation/g-on/noteworthy-losses-and-retentions) | [Table of Contents](/rotation/g-on) | Archetypes to Consider after Rotation >
 
-# The New Essentials
+<h1 class="jb-center">The New Essentials</h1>
 
 Below is a simple list of many of the most critical cards for any deck builder to have in their arsenal. General Essentials are options worth having on hand for nearly any deck, whereas deck builders looking to put together a deck built around a Pokémon of a specific type may find some help in the Type Support section that corresponds to their ideal deck’s type.
 

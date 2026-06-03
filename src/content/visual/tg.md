@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Trainer Galleries
+<h1 class="jb-center">&nbsp;Trainer Galleries</h1>
 
 **International Trainer Gallery Sets** Cards from these galleries have already had an international release or have been confirmed to be part of an upcoming international release.
 

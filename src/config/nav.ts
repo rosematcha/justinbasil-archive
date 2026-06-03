@@ -20,6 +20,7 @@ export const nav: NavEntry[] = [
   { label: 'Home', href: '/' },
   {
     label: 'What to Play',
+    href: '/play',
     children: [
       { label: 'What to Play', href: '/play' },
       { label: 'Meta Decks (Standard)', href: '/guide/meta' },
@@ -30,6 +31,7 @@ export const nav: NavEntry[] = [
   },
   {
     label: "What's Next",
+    href: '/new',
     children: [
       { label: 'Upcoming Releases', href: '/new' },
       { label: 'Black Bolt & White Flare Set List', href: '/set-lists/sv105' },
@@ -38,6 +40,7 @@ export const nav: NavEntry[] = [
   },
   {
     label: 'Rotation',
+    href: '/rotation/g-on',
     children: [
       { label: 'Table of Contents (2025)', href: '/rotation/g-on' },
       { label: 'Introduction (2025)', href: '/rotation/g-on/introduction' },
@@ -48,6 +51,7 @@ export const nav: NavEntry[] = [
   },
   {
     label: 'Deck Building',
+    href: '/deck-building',
     children: [
       { label: 'Deck Building', href: '/deck-building' },
       { label: 'Deck Building Guide', href: '/guide' },
@@ -58,6 +62,7 @@ export const nav: NavEntry[] = [
   },
   {
     label: 'Other Tools',
+    href: '/tools',
     children: [
       { label: 'Other Tools', href: '/tools' },
       { label: 'Gift Guide', href: '/gifts' },

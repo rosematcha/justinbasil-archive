@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Recovery and Rebound
+<h1 class="jb-center">&nbsp;Recovery and Rebound</h1>
 
 <div class="jb-row"><div class="jb-col-3">
 
@@ -45,7 +45,7 @@ Canceling Cologne ASR 136
 
 
 
-## Healing
+<h2 class="jb-center">Healing</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -69,7 +69,7 @@ That said, Oricorio is not a common inclusion in decks and tends not to be playe
 
 </div></div>
 
-## Recovery
+<h2 class="jb-center">Recovery</h2>
 
 ### Supporters
 
@@ -163,7 +163,7 @@ Decks that *do* want to run Superior Energy Retrieval are those that can and do 
 
 </div></div>
 
-## Rebound
+<h2 class="jb-center">Rebound</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -177,7 +177,7 @@ In order to make adequate use of Mela, a deck must be built to contain Basic Fir
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Effect Break
+<h2 class="jb-center">Effect Break</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -195,7 +195,7 @@ Decks that canâ€™t run alternative answers to cards with Abilities like Mimikyuâ
 
 
 
-< [Switching and Prize Denial](/guide/switching) | [Table of Contents](/guide) | [Disruption](/guide/disruption) >
+<p class="jb-center">&lt; <a href="/guide/switching">Switching and Prize Denial</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/disruption">Disruption</a> &gt;</p>
 
 
 

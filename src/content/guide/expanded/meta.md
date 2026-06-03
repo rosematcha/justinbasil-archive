@@ -7,9 +7,9 @@ showHeading: false
 
 
 
-# What to Play - Expanded Meta Decks
+<h1 class="jb-center">What to Play -&nbsp;Expanded Meta Decks</h1>
 
-### Meta Update Page Decommissioned 14 May 2023
+<h3 class="jb-center">Meta Update Page Decommissioned 14 May 2023</h3>
 
 
 

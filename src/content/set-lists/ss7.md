@@ -11,11 +11,11 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Evolving Skies - What We Know So Far
+<h1 class="jb-center">Evolving Skies - What We Know So Far</h1>
 
-### set size: 203 cards (before Secret Rares)
+<h3 class="jb-center">set size: 203 cards (before Secret Rares)</h3>
 
-Set Abbreviation: EVS
+<p class="jb-center">Set Abbreviation: EVS</p>
 
 
 
@@ -23,7 +23,7 @@ Set Abbreviation: EVS
 
 
 
-Below is a list of cards that will comprise our seventh Sword & Shield set, Evolving Skies, when it releases 27 August 2021. The set will be legal for tournament play on 10 September 2021.
+<p class="jb-center">Below is a list of cards that will comprise our seventh Sword &amp; Shield set, Evolving Skies, when it releases 27 August 2021. The set will be legal for tournament play on 10 September 2021.</p>
 
 <div class="jb-code-container">
     <div class="mobile-collapse">
@@ -45,7 +45,7 @@ Below is a list of cards that will comprise our seventh Sword & Shield set, Evol
 </div>
 </div>
 
-### **Set List**
+<h3 class="jb-center"><strong>Set List</strong></h3>
 
 <div class="jb-code-container">
 <div class="mobile-collapse">
@@ -298,7 +298,7 @@ Below is a list of cards that will comprise our seventh Sword & Shield set, Evol
 </div>
 </div>
 
-### **Cut Cards**
+<h3 class="jb-center"><strong>Cut Cards</strong></h3>
 
 The following cards have been cut from Evolving Skies and are likely to appear in a future Pokémon TCG product or set. The Kanto Eevolutions [will appear in their own tins](https://www.pokebeach.com/2021/06/eevee-evolution-tins-in-september) that will release on 3 September 2021.
 
@@ -413,9 +413,9 @@ The following cards have been cut from Evolving Skies and are likely to appear i
 </div>
 </div>
 
-### **Cut Chase Cards**
+<h3 class="jb-center"><strong>Cut Chase Cards</strong></h3>
 
-The cards below are chase cards that were cut from the set. They may appear as promos or in future sets.
+<p class="jb-center">The cards below are chase cards that were cut from the set. They may appear as promos or in future sets.</p>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -518,7 +518,7 @@ The cards below are chase cards that were cut from the set. They may appear as p
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Evolving Skies is expected to be comprised of the Japanese S6a Eevee Heroes (releases 28 May 2021, 69 cards) and the twin S7 sets S7R Sky Stream and S7D Towering Perfection (9 July 2021, 67 cards each).
 

@@ -25,11 +25,11 @@ showHeading: false
 </div>
 </div>
 
-### set size: 198 cards (before Secret Rares)
+<h3 class="jb-center">set size: 198 cards (before Secret Rares)</h3>
 
-Set Abbreviation: SVI
+<p class="jb-center">Set Abbreviation: SVI</p>
 
-Below is a list of cards that comprises our first set for the Scarlet & Violet era, Scarlet & Violet base set, when it releases on 31 March 2023. The set will be legal for tournament play on 14 April 2023.
+<p class="jb-center">Below is a list of cards that comprises our first set for the Scarlet &amp; Violet era, Scarlet &amp; Violet base set, when it releases on 31 March 2023. The set will be legal for tournament play on 14 April 2023.</p>
 
 
 
@@ -351,7 +351,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Scarlet & Violet base set is expected to be comprised of cards from the twin Japanese sets Scarlet ex and Violet ex and may also feature any new cards from the three Starter Set ex products (Fuecoco & Ampharos ex, Sprigatito & Lucario ex, and Quaxly & Mimikyu ex).
 

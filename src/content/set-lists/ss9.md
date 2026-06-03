@@ -24,11 +24,11 @@ showHeading: false
 </div>
 </div>
 
-### set size: 172 cards (before Secret Rares)
+<h3 class="jb-center">set size: 172 cards (before Secret Rares)</h3>
 
-Set Abbreviation: BRS
+<p class="jb-center">Set Abbreviation: BRS</p>
 
-Below is a list of cards that will comprise our ninth Sword & Shield set, Brilliant Stars, when it releases 25 February 2022. The set became legal for tournament play on 11 March 2021.
+<p class="jb-center">Below is a list of cards that will comprise our ninth Sword &amp; Shield set, Brilliant Stars, when it releases 25 February 2022. The set became legal for tournament play on 11 March 2021.</p>
 
 <div class="jb-code-container">
     <a href="/highlights/ss9"><div class="highlights">
@@ -395,7 +395,7 @@ The cards below may appear as promo cards or may see their release in some other
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Brilliant Stars is comprised of new cards from the Japanese set VMAX Climax (3 December 2021, 194 cards before secret rares, 14 new cards excluding full arts and character rares), any new cards from Start Deck 100 (17 December 2021, 414 cards, primarily reprints but with 30-40 new cards), plus cards from the Japanese S9 set Starbirth (14 January 2022, 100 cards, plus 10-14 full art cards).
 

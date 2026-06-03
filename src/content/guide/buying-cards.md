@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Buying Cards for Your Deck
+<h1 class="jb-center">&nbsp;Buying Cards for Your Deck</h1>
 
 New players often ask the following question: “Which booster packs should I buy to get the cards I need to make a good deck?” The only correct answer to this question is <em>none.</em> You can buy packs all day and not get what you're after. You’ll save a lot of money buy simply buying the cards you need for your deck as **Singles**—individual cards instead of sealed Pokémon Trading Card Game merchandise—from your local card shop or from a trusted seller online. The best options for buying singles vary by region, and many of these options are listed below. In the United States, TCGplayer is the most popular choice for picking up singles.
 
@@ -337,7 +337,7 @@ Although it’s not monetarily efficient and is far from the best or easiest way
 
 
 
-< [Net Decking](/guide/net-decking) | [Table of Contents](/guide) | [Appendix I: Set Symbols and Abbreviations](/guide/appendix1) >
+<p class="jb-center">&lt; <a href="/guide/net-decking">Net Decking</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/appendix1">Appendix I: Set Symbols and Abbreviations</a> &gt;</p>
 
 
 

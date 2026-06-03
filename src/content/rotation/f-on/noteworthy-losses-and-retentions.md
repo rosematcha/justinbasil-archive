@@ -9,7 +9,7 @@ showHeading: false
 
 [<](/rotation/e-on/introduction) [Introduction](/rotation/f-on/introduction) | [Table of Contents](/rotation/f-on) | [The New Essentials](/rotation/f-on/essentials) >
 
-# Noteworthy Losses and Retentions from BST-FST
+<h1 class="jb-center">Noteworthy Losses and Retentions from BST-FST</h1>
 
 <div class="jb-code-container">
     For a comprehensive list of losses from Battle Styles through Fusion Strike, see <a href="/rotation/f-on/card-status" class="jlink">2024 Rotation Card Status (BST-FST)</a>.

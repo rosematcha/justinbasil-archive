@@ -12,9 +12,9 @@ showHeading: false
 </div>
 </div>
 
-# What to Play - Budget Decks
+<h1 class="jb-center">What to Play - Budget Decks</h1>
 
-### BRS-SSP
+<h3 class="jb-center">BRS-SSP</h3>
 
 These decks aren’t likely to win any big tournaments, but many of them offer a relatively cheap way to get into the Pokémon Trading Card Game and are steppingstones toward more competitive decks. Pricier cards like Prime Catcher from *Temporal Forces* and Fezandipiti ex from *Shrouded Fable* are used sparingly in these lists but *are* present in several of them. As you continue your journey as a player of the Pokémon Trading Card game, you’ll often find it’s worth it to [pick up these less-than-budget-friendly staples](/guide/f-on/buying-cards) as they’re common components for many decks.
 
@@ -22,7 +22,7 @@ Decks with a star (☆) are the most competitively viable options—or can be up
 
 **Important Note**: Before committing to purchasing the cards required for any of the decks below, it’s crucial to examine the decks on the [Meta Decks page](/guide/meta) to see if a suitable archetype also fits your budget. Often, meta decks can be budget decks themselves!
 
-### Deck Archetypes
+<h3 class="jb-center">Deck Archetypes</h3>
 
 <div class="jb-code-container">
     <div class="mobile-collapse links">

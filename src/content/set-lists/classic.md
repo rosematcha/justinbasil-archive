@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# What We Know About
+<h1 class="jb-center">What We Know About</h1>
 
 <div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 
@@ -25,7 +25,7 @@ The Pokémon Trading Card Game Classic is a self-contained game in a box featuri
 
 
 
-# **Venusaur**
+<h1 class="jb-center"><strong>Venusaur</strong></h1>
 
 
 
@@ -53,7 +53,7 @@ The Pokémon Trading Card Game Classic is a self-contained game in a box featuri
 
 
 
-## Visual Card Breakdown
+<h2 class="jb-center">Visual Card Breakdown</h2>
 
 <div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/fa6982bfc5f29a31.webp"><img src="/images/fa6982bfc5f29a31.webp" alt="deck-card-1-9.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/12ecbc43958c82bd.webp"><img src="/images/12ecbc43958c82bd.webp" alt="deck-card-1-10.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/ba4f6c448c3fc402.webp"><img src="/images/ba4f6c448c3fc402.webp" alt="Pokemon_Trading_Card_Game_Classic_Venusaur_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/6f4ae748720fd87e.webp"><img src="/images/6f4ae748720fd87e.webp" alt="deck-card-1-6.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a964f13c05382ee9.webp"><img src="/images/a964f13c05382ee9.webp" alt="deck-card-1-3.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/faa84cecfaa62893.webp"><img src="/images/faa84cecfaa62893.webp" alt="Pokemon_Trading_Card_Game_Classic_17_Lugia_ex_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/781dbb7c162665b6.webp"><img src="/images/781dbb7c162665b6.webp" alt="deck-card-1-7.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7063319d544c7dad.webp"><img src="/images/7063319d544c7dad.webp" alt="Pokemon_Trading_Card_Game_Classic_Professor_Oak_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/35e72215021467a4.webp"><img src="/images/35e72215021467a4.webp" alt="Pokemon_Trading_Card_Game_Classic_27_Sun_Seed_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/cfe1d72580afac62.webp"><img src="/images/cfe1d72580afac62.webp" alt="deck-card-1-8.png" loading="lazy"></a></figure></div>
 
@@ -61,7 +61,7 @@ The Pokémon Trading Card Game Classic is a self-contained game in a box featuri
 
 
 
-## Venusaur Deck Set List
+<h2 class="jb-center">Venusaur Deck Set List</h2>
 
 <div class="jb-code-container">
 <div class="mobile-collapse links">
@@ -108,7 +108,7 @@ The Pokémon Trading Card Game Classic is a self-contained game in a box featuri
 
 
 
-## New Card Translations
+<h2 class="jb-center">New Card Translations</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -138,7 +138,7 @@ The attacks by the Venusaur this card is attached to do 100 more damage to your 
 
 
 
-# **Charizard**
+<h1 class="jb-center"><strong>Charizard</strong></h1>
 
 
 
@@ -166,7 +166,7 @@ The attacks by the Venusaur this card is attached to do 100 more damage to your 
 
 
 
-## Visual Card Breakdown
+<h2 class="jb-center">Visual Card Breakdown</h2>
 
 <div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/126001e4a84d66c2.webp"><img src="/images/126001e4a84d66c2.webp" alt="deck-card-2-9.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/836c6a88fb248a0a.webp"><img src="/images/836c6a88fb248a0a.webp" alt="deck-card-2-10.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/0ecd39edd3a897a0.webp"><img src="/images/0ecd39edd3a897a0.webp" alt="Pokemon_Trading_Card_Game_Classic_Charizard_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/b8e7331ec64dae54.webp"><img src="/images/b8e7331ec64dae54.webp" alt="Pokemon_Trading_Card_Game_Classic_7_Ho-Oh_ex_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e676fec6cbea20d7.webp"><img src="/images/e676fec6cbea20d7.webp" alt="deck-card-2-3.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/37148e248805e9f3.webp"><img src="/images/37148e248805e9f3.webp" alt="deck-card-2-6.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/f3438c1287284142.webp"><img src="/images/f3438c1287284142.webp" alt="deck-card-2-4.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/908b3378c3b4e471.webp"><img src="/images/908b3378c3b4e471.webp" alt="Pokemon_Trading_Card_Game_Classic_26_Scorching_Charcoal_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/7d94e5efaa567caa.webp"><img src="/images/7d94e5efaa567caa.webp" alt="deck-card-2-7.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c61a2dd6d91f62e4.webp"><img src="/images/c61a2dd6d91f62e4.webp" alt="deck-card-2-8.png" loading="lazy"></a></figure></div>
 
@@ -174,7 +174,7 @@ The attacks by the Venusaur this card is attached to do 100 more damage to your 
 
 
 
-## Charizard Deck Set List
+<h2 class="jb-center">Charizard Deck Set List</h2>
 
 <div class="jb-code-container">
 <div class="mobile-collapse links">
@@ -221,7 +221,7 @@ The attacks by the Venusaur this card is attached to do 100 more damage to your 
 
 
 
-## New Card Translations
+<h2 class="jb-center">New Card Translations</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -251,7 +251,7 @@ The attacks used by the Charizard this card is attached to do 100 more damage to
 
 
 
-# **Blastoise**
+<h1 class="jb-center"><strong>Blastoise</strong></h1>
 
 
 
@@ -279,7 +279,7 @@ The attacks used by the Charizard this card is attached to do 100 more damage to
 
 
 
-## Visual Card Breakdown
+<h2 class="jb-center">Visual Card Breakdown</h2>
 
 <div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/0c3fd09e662212fb.webp"><img src="/images/0c3fd09e662212fb.webp" alt="deck-card-3-9.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/8fc43852246f2ef0.webp"><img src="/images/8fc43852246f2ef0.webp" alt="deck-card-3-10.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c982f63a1a6fb4e9.webp"><img src="/images/c982f63a1a6fb4e9.webp" alt="Pokemon_Trading_Card_Game_Classic_Blastoise_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/dbd8154396551cd5.webp"><img src="/images/dbd8154396551cd5.webp" alt="Pokemon_Trading_Card_Game_Classic_10_Suicune_ex_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/fd74966e99738419.webp"><img src="/images/fd74966e99738419.webp" alt="deck-card-3-3.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/4adbf4b0c97db621.webp"><img src="/images/4adbf4b0c97db621.webp" alt="deck-card-3-6.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/a60875fdd8c74d21.webp"><img src="/images/a60875fdd8c74d21.webp" alt="deck-card-3-7.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/85b3caa3a778420d.webp"><img src="/images/85b3caa3a778420d.webp" alt="Pokemon_Trading_Card_Game_Classic_21_Drops_in_the_Ocean_png_jpgcopy.jpg" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/d73b57a18c87c4ca.webp"><img src="/images/d73b57a18c87c4ca.webp" alt="deck-card-3-5.png" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/c2c1530a1e94ed0c.webp"><img src="/images/c2c1530a1e94ed0c.webp" alt="deck-card-3-8.png" loading="lazy"></a></figure></div>
 
@@ -287,7 +287,7 @@ The attacks used by the Charizard this card is attached to do 100 more damage to
 
 
 
-## Blastoise Deck Set List
+<h2 class="jb-center">Blastoise Deck Set List</h2>
 
 <div class="jb-code-container">
 <div class="mobile-collapse links">
@@ -334,7 +334,7 @@ The attacks used by the Charizard this card is attached to do 100 more damage to
 
 
 
-## New Card Translations
+<h2 class="jb-center">New Card Translations</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 

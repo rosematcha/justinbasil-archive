@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Getting to Know the Cards
+<h1 class="jb-center">&nbsp;Getting to Know the Cards</h1>
 
 For many players, one of the biggest hurdles for deck building is a lack of familiarity with the pool of cards available. The best way to get familiar with the cards available to you as a deck builder is to play the game and to play it <em>a lot,</em> but you’ve got to have a deck to start playing<em>.</em> Below is a list of a handful of helpful resources to help get to know the cards a bit better. These resources will help you find cards you might not have realized existed—and to more easily compare cards you do. As you build upon your first deck, testing, tweaking, and battling new opponents, your knowledge of the card pool will expand. And as you become more familiar with the cards available to you, the better deck builder you’ll be.
 
@@ -130,7 +130,7 @@ In addition to the resources above, the rest of this guide breaks down a number 
 
 
 
-< [Limits](/guide/limits) | [Table of Contents](/guide) | [Crafting Your Deck](/guide/crafting-your-deck) >
+<p class="jb-center">&lt; <a href="/guide/limits">Limits</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/crafting-your-deck">Crafting Your Deck</a> &gt;</p>
 
 
 

@@ -24,7 +24,7 @@ showHeading: false
 </div>
 </div>
 
-### Estimated Set size: 132 cards (before Secret Rares)
+<h3 class="jb-center">Estimated Set size: 132 cards (before Secret Rares)</h3>
 
 Below is a list of cards believed to comprise our third main set of 2025, Mega Evolution, when it releaseson 26 September 2025. As this is largely educated guesswork, there will inevitably be differences between what appears below and the actual set list. Check back regularly as this list will continue to grow and be updated as new information comes out about cards that are likely to be included in the set. The set will be legal for tournament play on 10 October 2025.
 
@@ -185,7 +185,7 @@ Below is a list of cards believed to comprise our third main set of 2025, Mega E
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Mega Evolution is expected to be comprised of any new cards from the Japanese sets Mega Brave and Mega Symphonia (1 August 2025).
 

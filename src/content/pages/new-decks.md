@@ -58,6 +58,6 @@ showHeading: false
       </div> 
 </div>
 </div><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">
-  <p class="jb-pre">&nbsp;</p>
+  <p>&nbsp;</p>
 </div></div>
 

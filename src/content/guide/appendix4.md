@@ -9,7 +9,7 @@ showHeading: false
     &nbsp;<p class="jb-h-19">Appendix IV
 </p></div>
 
-# Some Deck Math
+<h1 class="jb-center">Some Deck Math</h1>
 
 ## MULLIGAN CHANCE BY NUMBER OF BASIC POKÉMON IN DECK
 
@@ -128,7 +128,7 @@ See also: [TheMathTCG: The Probabilities Behind the Opening Hand](https://sixpri
 
 
 
-< [Appendix III: 2024 Card Legality Status (BST-FST)](/rotation/f-on/card-status) | [Table of Contents](/guide) | [Appendix V: Pre-release Deck Building](/guide/appendix5) >
+<p class="jb-center">&lt; <a href="/rotation/f-on/card-status">Appendix III: 2024 Card Legality Status (BST-FST)</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/appendix5">Appendix V: Pre-release Deck Building</a> &gt;</p>
 
 
 

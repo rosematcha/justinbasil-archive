@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Damage Control
+<h1 class="jb-center">&nbsp;Damage Control</h1>
 
 <div class="jb-row"><div class="jb-col-3">
 
@@ -65,7 +65,7 @@ Manaphy BRS 41 Diancie ASR 68 Miltank ASR 126 Mimikyu PAL 97
 
 </div></div>
 
-## Damage Augmentation
+<h2 class="jb-center">Damage Augmentation </h2>
 
 ### Pokémon
 
@@ -213,7 +213,7 @@ Decks that include Gapejaw Bog tend to include 2-3 copies of the card.
 
 </div><div class="jb-col-6"></div></div>
 
-## SPECIAL CONDITION APPLIERS AND EXTENDERS
+<h2 class="jb-center">SPECIAL CONDITION APPLIERS AND EXTENDERS</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -237,7 +237,7 @@ Decks don’t often include this card, but those that do would likely include 1-
 
 </div></div></div></div></div></div>
 
-## HP Boost
+<h2 class="jb-center">HP Boost </h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -283,7 +283,7 @@ Because it is an ACE SPEC card, Heros’ Cape’s inclusion has to be weighed ag
 
 </div></div></div></div>
 
-## Damage Reduction and Weakness Removal
+<h2 class="jb-center">Damage Reduction and Weakness Removal </h2>
 
 ### Pokémon
 
@@ -323,7 +323,7 @@ Decks that include V Guard Energy tend to run 1-3 copies of the card.
 
 </div></div>
 
-## Damage Redistribution
+<h2 class="jb-center">Damage Redistribution</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -337,7 +337,7 @@ The vast majority of decks will have no use for Damage Pump, but those that need
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Walling and Protection
+<h2 class="jb-center">Walling and Protection </h2>
 
 ### Pokémon
 
@@ -389,7 +389,7 @@ Most decks won’t run Mimikuyu, but those that do tend to include just 1 copy o
 
 
 
-< [Disruption](/guide/disruption) | [Table of Contents](/guide) | [Testing](/guide/testing) >
+<p class="jb-center">&lt; <a href="/guide/disruption">Disruption</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/testing">Testing</a> &gt;</p>
 
 
 

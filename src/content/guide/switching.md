@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Switching and Prize Denial
+<h1 class="jb-center">Switching and Prize Denial</h1>
 
 <div class="jb-row"><div class="jb-col-4">
 
@@ -39,7 +39,7 @@ Cheren’s Care BRS 134 Volo LOR 169 Professor Turo’s Scenario PAR 171 Legacy 
 
 
 
-## Pivot Tools and Retreat Cost Reducers
+<h2 class="jb-center">Pivot Tools and Retreat Cost Reducers </h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -65,7 +65,7 @@ Decks that run Rescue Board tend to run 1-2 copies of the card.
 
 </div></div></div></div></div></div>
 
-## Switching and Scoop Up Effects
+<h2 class="jb-center">Switching and Scoop Up Effects</h2>
 
 ### Items
 
@@ -133,7 +133,7 @@ Not all decks will include Kieran, but those that do will likely include just 1 
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Prize Denial
+<h2 class="jb-center">Prize Denial</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -181,7 +181,7 @@ Because it is an ACE SPEC card, Legacy Energy’s inclusion has to be weighed ag
 
 
 
-< [Consistency and Setup](/guide/consistency) | [Table of Contents](/guide) | [Recovery and Rebound](/guide/recovery) >
+<p class="jb-center">&lt; <a href="/guide/consistency">Consistency and Setup</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/recovery">Recovery and Rebound</a> &gt;</p>
 
 
 

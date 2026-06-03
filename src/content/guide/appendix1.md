@@ -9,7 +9,7 @@ showHeading: false
     &nbsp;<p class="jb-h-19">Appendix I
 </p></div>
 
-# Set Symbols and Abbreviations
+<h1 class="jb-center">Set Symbols and Abbreviations</h1>
 
 
 
@@ -19,7 +19,7 @@ showHeading: false
 
 All throughout this guide, you’ll see a card name followed by a set of two to three letters and a number, like these examples below:
 
-Energy Retrieval BS 81 Blacephalon-GX LOT 52 Boss’s Orders RCL 154
+<p class="jb-center">Energy Retrieval BS 81<br>Blacephalon-GX LOT 52<br>Boss’s Orders RCL 154</p>
 
 This is the most common way for players to specify which card they’re referring to when discussing their decks and the cards in them. The letters are the official **Set Abbreviation**—or the shorthand used to refer to a specific **Set**—also called an **Expansion**. The Pokémon Company International releases four main expansions each year—typically in February, May, August, and November—in additional to an annual miniset that usually releases between August and October. You’ll recognize these sets by their names on the booster packs you open—Brilliant Stars, Astral Radiance, and Lost Origin are all examples of these sets and each has its own Set Abbreviation. You can review a list of these abbreviations below.
 
@@ -36,7 +36,7 @@ Note that card legality is no longer strictly determined by the set a card was p
 </div>
 </div>
 
-## List of Sets, set symbols, and Abbreviations
+<h2 class="jb-center">List of Sets, set symbols, and Abbreviations</h2>
 
 <div class="jb-row"><div class="jb-col-6"><div class="jb-code-container">
     <h3>For Standard Sets</h3>
@@ -219,7 +219,7 @@ Note that card legality is no longer strictly determined by the set a card was p
 
 
 
-< [Buying Cards for Your Deck](/guide/buying-cards) | [Table of Contents](/guide) | [Appendix II: Staples and Other Key Cards](/guide/appendix2) >
+<p class="jb-center">&lt; <a href="/guide/buying-cards">Buying Cards for Your Deck</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/appendix2">Appendix II: Staples and Other Key Cards</a> &gt;</p>
 
 
 

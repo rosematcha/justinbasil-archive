@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Consistency and Setup
+<h1 class="jb-center">&nbsp;Consistency and Setup</h1>
 
 <div class="jb-row"><div class="jb-col-3">
 
@@ -45,7 +45,7 @@ Lugia VSTAR SIT 139 Rare Candy SVI 191
 
 </div></div>
 
-## Consistency
+<h2 class="jb-center">Consistency</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -81,7 +81,7 @@ Decks that run Pokégear 3.0 tend to include 3-4 copies.
 
 </div><div class="jb-col-6"></div></div>
 
-## Setup
+<h2 class="jb-center">Setup</h2>
 
 ### Pokémon
 
@@ -153,7 +153,7 @@ Decks that run Arven tend to include 3-4 copies of the card.
 
 </div><div class="jb-col-6"></div></div>
 
-## Prize and Luck Manipulation
+<h2 class="jb-center">Prize and Luck Manipulation</h2>
 
 ### Prize Manipulation
 
@@ -169,7 +169,7 @@ Decks that run Hisuian Heavy Ball tend to run 1-2 copies of the card.
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Evolution and Devolution
+<h2 class="jb-center">Evolution and Devolution</h2>
 
 ### Evolution Acceleration
 
@@ -199,7 +199,7 @@ Decks that include Rare Candy include 3-4 copies.
 
 
 
-< [Energy and Acceleration](/guide/energy) | [Table of Contents](/guide) | [Switching and Prize Denial](/guide/switching) >
+<p class="jb-center">&lt; <a href="/guide/energy">Energy and Acceleration</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/switching">Switching and Prize Denial</a> &gt;</p>
 
 
 

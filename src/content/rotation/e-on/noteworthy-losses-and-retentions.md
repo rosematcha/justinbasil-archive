@@ -9,7 +9,7 @@ showHeading: false
 
 [< Introduction](/rotation/e-on/introduction) | [Table of Contents](/rotation/e-on) | [The New Essentials](/rotation/e-on/essentials) >
 
-# Noteworthy Losses and Retentions from SSH-SHF
+<h1 class="jb-center">Noteworthy Losses and Retentions from SSH-SHF</h1>
 
 <div class="jb-code-container">
     For a comprehensive list of losses from Sword &amp; Shield base set through Shining Fates, see <a href="/rotation/e-on/card-status" class="jlink">2023 Rotation Card Status (SSH-SHF)</a>.

@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Energy and Acceleration
+<h1 class="jb-center">&nbsp;Energy and Acceleration</h1>
 
 <div class="jb-row"><div class="jb-col-4">
 
@@ -217,7 +217,7 @@ Only decks focused on interaction with the Lost Zone and the Lost Engine are lik
 
 </div></div></div></div></div></div>
 
-## Redistribution
+<h2 class="jb-center">Redistribution</h2>
 
 ### Items
 
@@ -245,7 +245,7 @@ Decks don’t often run Exp. Share, but those that do tend to run 2-3 copies.
 
 </div></div>
 
-## Energy Search
+<h2 class="jb-center">Energy Search</h2>
 
 ### Items
 
@@ -301,7 +301,7 @@ Most decks will not use Lady in any capacity. Those that find it useful will lik
 
 
 
-< [Gusting and Repulsion](/guide/gusting) | [Table of Contents](/guide) | [Consistency and Setup](/guide/consistency) >
+<p class="jb-center">&lt; <a href="/guide/gusting">Gusting and Repulsion</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/consistency">Consistency and Setup</a> &gt;</p>
 
 
 

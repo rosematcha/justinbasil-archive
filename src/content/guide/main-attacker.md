@@ -7,7 +7,7 @@ showHeading: false
 
 <div class="jb-row"><div class="jb-col-9">
 
-# The Main Attacker
+<h1 class="jb-center">&nbsp;The Main Attacker</h1>
 
 ## A Deck’s Focus
 
@@ -121,9 +121,9 @@ Because the Main Attacker is often the most important Pokémon in any deck, it r
 
 When speaking of Pokémon lines, it is common to refer to them as in the examples below:
 
-“A 4-3 line of Quagsire”
+<p class="jb-center">“A 4-3 line of Quagsire”</p>
 
-“A 4-0-4 line of Bellossom”
+<p class="jb-center">“A 4-0-4 line of Bellossom”</p>
 
 In the first example, the speaker is referring to four copies of the Basic Pokémon (Wooper) and three copies of the Stage 1 Pokémon, Quagsire. In the second example, the speaker is referring to four copies of the Basic Pokémon (Oddish), zero copies of the Stage 1 (Gloom), and 4 copies of the Stage 2 Pokémon, Bellossom. Including fewer copies of the Stage 1 than of the Stage 2 also tells us that the speaker includes an Item Card called Rare Candy in their deck.
 
@@ -282,7 +282,7 @@ Pokémon lines are a critical consideration when deciding whether a Pokémon is 
 
 
 
-< [Deck Structure](/guide/deck-structure) | [Table of Contents](/guide) | [Secondary Attackers](/guide/secondary-attackers) >
+<p class="jb-center">&lt; <a href="/guide/deck-structure">Deck Structure</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/secondary-attackers">Secondary Attackers</a> &gt;</p>
 
 
 

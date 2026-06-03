@@ -11,11 +11,11 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Vivid Voltage - What We Know So Far
+<h1 class="jb-center">Vivid Voltage - What We Know So Far</h1>
 
-### set size: 185 cards (before Secret Rares)
+<h3 class="jb-center">set size: 185 cards (before Secret Rares)</h3>
 
-Set Abbreviation: VIV
+<p class="jb-center">Set Abbreviation: VIV</p>
 
 
 
@@ -23,7 +23,7 @@ Set Abbreviation: VIV
 
 
 
-Below is a list of cards that comprise our fourth Sword & Shield set, Vivid Voltage, when it releases November 13th, 2020. The set will be legal for tournament play 27 November 2020.
+<p class="jb-center">Below is a list of cards that comprise our fourth Sword &amp; Shield set, Vivid Voltage, when it releases November 13th, 2020. The set will be legal for tournament play 27 November 2020.</p>
 
 
 
@@ -225,7 +225,7 @@ Below is a list of cards that comprise our fourth Sword & Shield set, Vivid Volt
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Vivid Voltage is comprised of the Japanese set S4 Shocking Volt Tackle (100 cards, releases 18 September 2020) and the the Japanese set S3a Legendary Heartbeat (76 cards, releases 10 July 2020), with additional cards coming from the new V Starter Decks. The [official set description](https://press.pokemon.com/Latest-Pokemon-Trading-Card-Game-Sword-ShieldVivid-Voltage-Expansion-I) says the set will contain 6 Amazing Pokémon (Amazing Rares), 6 Pokémon VMAX, 11 Pokémon V and 13 full art Pokémon V, 16 Trainer cards, 7 full art Trainer cards, and 4 new Special Energy cards.
 

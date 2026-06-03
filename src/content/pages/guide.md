@@ -12,9 +12,9 @@ showHeading: false
 </div>
 </div>
 
-# A Basic Guide to Deck Building in the Standard Format
+<h1 class="jb-center">&nbsp;A Basic Guide to Deck Building in the Standard Format</h1>
 
-### BRS-TWM\*
+<h3 class="jb-center">BRS-TWM*</h3>
 
 
 
@@ -22,7 +22,7 @@ showHeading: false
 
 
 
-## Table of Contents
+<h2 class="jb-center">Table of Contents </h2>
 
 <div class="jb-row"><div class="jb-col-6">
 

@@ -11,7 +11,7 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Highlights from Evolving Skies
+<h1 class="jb-center">Highlights from Evolving Skies</h1>
 
 To review this set’s card list, visit the article [Evolving Skies—What We Know So Far](/set-lists/ss7/).
 

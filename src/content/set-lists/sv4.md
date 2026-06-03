@@ -26,11 +26,11 @@ showHeading: false
 </div>
 </div>
 
-### set size: 182 cards (before Secret Rares)
+<h3 class="jb-center">set size: 182 cards (before Secret Rares)</h3>
 
-Set Abbreviation: PAR
+<p class="jb-center">Set Abbreviation: PAR</p>
 
-Below is a list of cards that will comprise our fourth Scarlet & Violet set, Paradox Rift, when it releases on 3 November 2023. The set will be legal for tournament play on 17 November 2023.
+<p class="jb-center">Below is a list of cards that will comprise our fourth Scarlet &amp; Violet set, Paradox Rift, when it releases on 3 November 2023. The set will be legal for tournament play on 17 November 2023.</p>
 
 
 
@@ -352,7 +352,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Paradox Rift is expected to be comprised of cards from the Japanese set Raging Surf (22 September 2023, 62 cards) and cards from the twin Japanese sets Ancient Roar and Future Flash (expected October 2023, 66 cards each). This set will have a focus on Paradox Pokémon, which will have special “Ancient” and “Future” gimmick markers similar to that of the previous “Rapid Strike”, “Single Strike”, and “Fusion Strike” mechanic.
 

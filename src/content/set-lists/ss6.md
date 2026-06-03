@@ -11,11 +11,11 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Chilling Reign - What We Know So Far
+<h1 class="jb-center">Chilling Reign - What We Know So Far</h1>
 
-### set size: 198 cards (Before Secret Rares)
+<h3 class="jb-center">set size: 198 cards (Before Secret Rares)</h3>
 
-Set Abbreviation: CRE
+<p class="jb-center">Set Abbreviation: CRE</p>
 
 
 
@@ -23,7 +23,7 @@ Set Abbreviation: CRE
 
 
 
-Below is a list of cards that comprise our sixth Sword & Shield set, Chilling Reign, which releases 18 June 2021. The set will be legal for tournament play on 2 July 2021.
+<p class="jb-center">Below is a list of cards that comprise our sixth Sword &amp; Shield set, Chilling Reign, which releases 18 June 2021. The set will be legal for tournament play on 2 July 2021.</p>
 
 <div class="jb-code-container">
     <a href="/highlights/ss6"><div class="highlights">
@@ -278,7 +278,7 @@ Below is a list of cards that comprise our sixth Sword & Shield set, Chilling Re
 
 
 
-### **Cut Cards**
+<h3 class="jb-center"><strong>Cut Cards</strong></h3>
 
 The following cards have been cut from *Chilling Reign* and are likely to appear in a future Pokémon TCG set or product.
 
@@ -349,7 +349,7 @@ The following cards have been cut from *Chilling Reign* and are likely to appear
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Chilling Reign is primarily comprised of the Japanese set S5a Matchless Fighter (releases 19 March 2021, 70 cards), and the twin sets S6h Silver Lance and S6k Jet-Black Spirit (releasing 23 April 2021, 70 cards each).
 

@@ -104,7 +104,7 @@ And that’s it! We’ve now created a simple deck using the deck stencil. As ou
 
 
 
-< [Deck Building Shortcuts](/guide/shortcuts) | [Table of Contents](/guide) | [Net Decking](/guide/net-decking) >
+<p class="jb-center">&lt; <a href="/guide/shortcuts" target="_blank">Deck Building Shortcuts</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/net-decking">Net Decking</a> &gt;</p>
 
 
 

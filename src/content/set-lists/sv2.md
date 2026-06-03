@@ -25,11 +25,11 @@ showHeading: false
 </div>
 </div>
 
-### set size: 193 cards (before Secret Rares)
+<h3 class="jb-center">set size: 193 cards (before Secret Rares)</h3>
 
-Set Abbreviation: PAL
+<p class="jb-center">Set Abbreviation: PAL</p>
 
-Below is a list of cards that comprise our second Scarlet & Violet set, Paldea Evolved, when it releases on 9 June 2023. The set will be legal for tournament play on 23 June 2023.
+<p class="jb-center">Below is a list of cards that comprise our second Scarlet &amp; Violet set, Paldea Evolved, when it releases on 9 June 2023. The set will be legal for tournament play on 23 June 2023.</p>
 
 
 
@@ -369,7 +369,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 </div> 
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Paldea Evolved is expected to be comprised of cards from the Japanese set Triplet Beat (10 March 2023, 73 cards) and the twin Japanese sets Clay Burst and Snow Hazard (14 April 2023, 71 cards each). Because the total number of cards from the source sets exceeds the number of cards said to be included in the English set release, it is very likely that approximately 30 base rarity cards will be cut from this set to be included in a future set.
 

@@ -13,7 +13,7 @@ showHeading: false
     &nbsp;<p class="jb-h-19">Appendix III
 </p></div>
 
-# 2024 Rotation Card Status (BST-FST)
+<h1 class="jb-center">2024 Rotation Card Status (BST-FST)</h1>
 
 ## Battle Styles (BST)
 
@@ -6202,9 +6202,9 @@ Below is a list of Black Star promo cards from the Sword & Shield era, beginning
 </div>
 </div>
 
-< Archetypes to Consider after Rotation | [Table of Contents](/rotation/f-on) (Rotation Survival Guide)
+<p class="jb-center">&lt; Archetypes to Consider after Rotation | <a href="/rotation/f-on">Table of Contents</a> (Rotation Survival Guide)</p>
 
-< [Appendix II: Staples and Other Key Cards](/guide/appendix2) | [Table of Contents (Deck Building Guide)](/guide) | [Appendix IV: Some Deck Math](/guide/appendix4) >
+<p class="jb-center">&lt; <a href="/guide/appendix2">Appendix II: Staples and Other Key Cards</a> | <a href="/guide">Table of Contents (Deck Building Guide)</a> | <a href="/guide/appendix4">Appendix IV: Some Deck Math</a> &gt;</p>
 
 </div>
 

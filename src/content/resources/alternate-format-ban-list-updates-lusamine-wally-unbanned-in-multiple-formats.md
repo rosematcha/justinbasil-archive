@@ -21,14 +21,14 @@ Following the announcement of their removal from the Expanded format’s ban lis
 
 <div class="jb-row"><div class="jb-col-6">
 
-<span class="jb-u"><strong>Lusamine</strong></span>
+<p class="jb-center"><span class="jb-u"><strong>Lusamine</strong></span></p>
 
 - Pauper
 - Type Focus
 
 </div><div class="jb-col-6">
 
-<span class="jb-u"><strong>Wally</strong></span>
+<p class="jb-center"><span class="jb-u"><strong>Wally</strong></span></p>
 
 - Pauper
 - Kalos

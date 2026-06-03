@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Net Decking
+<h1 class="jb-center">&nbsp;Net Decking</h1>
 
 Perhaps, after reading this guide, you decide you’d prefer not to try building a deck from scratch. It’s understandable—many people are apprehensive about the complexities of deck building and often resort to **Net Decking**—or copying a deck list from the Internet. Often, players will copy winning deck lists from recent tournaments exactly or tweak a few cards to better suit their play styles. These top-performing decks are often referred to as **Meta Decks**. Other players will instead take inspiration from winning decks, instead of copying them exactly.
 
@@ -59,7 +59,7 @@ No matter the route you take to building your deck, it’s important to remember
 
 
 
-< [A Deck Stencil](/guide/deck-stencil) | [Table of Contents](/guide) | [Buying Cards for Your Deck](/guide/buying-cards) >
+<p class="jb-center">&lt; <a href="/guide/deck-stencil">A Deck Stencil</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/buying-cards">Buying Cards for Your Deck</a> &gt;</p>
 
 
 

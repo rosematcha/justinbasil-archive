@@ -25,9 +25,9 @@ showHeading: false
 </div>
 </div>
 
-### set size: 191 cards (before Secret Rares)
+<h3 class="jb-center">set size: 191 cards (before Secret Rares)</h3>
 
-Below is a list of cards that comprises our eighth Scarlet & Violet set, Surging Sparks, when it releases 8 November 2024. The set will be legal for tournament play on 22 November 2024.
+<p class="jb-center">Below is a list of cards that comprises our eighth Scarlet &amp; Violet set, Surging Sparks, when it releases 8 November 2024. The set will be legal for tournament play on 22 November 2024.</p>
 
 
 
@@ -296,7 +296,7 @@ Below is a list of cards that comprises our eighth Scarlet & Violet set, Surging
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Surging Sparks is comprised of any new cards from the Stellar Starter Sets (30 August 2024) and the Japanese sets Paradise Dragona (13 September 2024) and Supercharged Breaker (18 October 2024), with additional miscellaneous cards added to the mix.
 

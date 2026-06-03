@@ -101,9 +101,16 @@
    Restore the look of the styled `<ul>/<ol>/<li>` lists inside
    `.jb-code-container` (deck lists, navigation index lists, etc.) without per-element
    inline styles. */
-.jb-code-container ul,
-.jb-code-container ol {
+.jb-code-container ul {
   list-style: none;
+  list-style-position: inside;
+  padding-left: 17px;
+  margin: 0;
+}
+/* Ordered lists (e.g. the "Top Decks" ranking) keep their numbers — the blanket
+   `list-style:none` above was stripping the 1–N numbering the original showed. */
+.jb-code-container ol {
+  list-style: decimal;
   list-style-position: inside;
   padding-left: 17px;
   margin: 0;
@@ -141,7 +148,7 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 .deck_box h1, .deck_box h2,
 .deckbox h1, .deckbox h2,
 .notebox h1, .notebox h2,
-.note_box h1, .note_box h2 { padding-bottom: 0; margin-bottom: 0; }
+.note_box h1, .note_box h2 { padding-bottom: 0; margin-top: 0; margin-bottom: 0; }
 .deck_box > div, .deckbox > div, .notebox > div, .note_box > div { margin-bottom: 15px; }
 .jb-code-container li img { vertical-align: middle; }
 .jb-code-container img.jb-deck-thumb {
@@ -164,7 +171,16 @@ a.jlink > span:not(.symb) { vertical-align: middle; font-size: 15px; }
 }
 .jb-deckbox-sublabel { font-size: 12px; padding-top: 0; margin-top: -4px; }
 .jb-smallcaps { font-variant: small-caps; }
-.jb-deckbox-title { font-size: 25px; text-align: center; margin-bottom: 0; }
+.jb-deckbox-title { font-size: 25px; text-align: center; margin-top: 0; margin-bottom: 0; }
+
+/* Content links use the original site's link blue. Scoped to in-body content so the
+   header/footer keep their own colours. `.blink` (light blue on dark set-list cards)
+   and the inline color:inherit on onclick card-links are preserved by higher specificity. */
+.sqs-content a, .sqs-content a:visited { color: #2738b4; }
+.sqs-content a.blink { color: #add8e6; }
+/* Whole-card "button" links (home / /play grid tiles) are not text links — their
+   title + descriptor text should inherit the normal text colour, not the link blue. */
+.sqs-content a.jb-onclick-link, .sqs-content a.jb-onclick-link:visited { color: inherit; }
 .jb-deckbox-body {
   font-size: 20px;
   text-align: center;

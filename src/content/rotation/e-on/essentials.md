@@ -9,7 +9,7 @@ showHeading: false
 
 [<](https://ocelot-spinach-2abg.squarespace.com/rotation/e-on/introduction) [Noteworthy Losses and Retentions from SSH-SHF](/rotation/e-on/noteworthy-losses-and-retentions) | [Table of Contents](/rotation/e-on) | [Archetypes to Consider after Rotation](/new-decks/sv1) >
 
-# The New Essentials
+<h1 class="jb-center">The New Essentials</h1>
 
 Below is a simple list of many of the most critical cards for any deck builder to have in their arsenal. General Essentials are options worth having on hand for nearly any deck, whereas deck builders looking to put together a deck built around a Pokémon of a specific type may find some help in the Type Support section that corresponds to their ideal deck’s type.
 

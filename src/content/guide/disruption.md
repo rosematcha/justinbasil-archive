@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Disruption
+<h1 class="jb-center">&nbsp;Disruption</h1>
 
 <div class="jb-row"><div class="jb-col-3">
 
@@ -53,7 +53,7 @@ Muk BRS 85 Collapsed Stadium BRS 137 Temple of Sinnoh ASR 135
 
 </div></div>
 
-## Resource Removal
+<h2 class="jb-center">Resource Removal</h2>
 
 ### Supporters
 
@@ -123,7 +123,7 @@ Decks that play Enhanced Hammer tend to include just 1 copy of the card.
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Ability Lock
+<h2 class="jb-center">Ability Lock</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -157,7 +157,7 @@ Decks that run Iron Thorns ex tend to include just 1-2 copies of the card.
 
 </div><div class="jb-col-6"></div></div>
 
-## Resource Lock
+<h2 class="jb-center">Resource Lock</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -171,7 +171,7 @@ Decks that run Banette ex tend to be built around it. They’ll often include 2-
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Hand Disruption/Revelation
+<h2 class="jb-center">Hand Disruption/Revelation</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -217,7 +217,7 @@ Not every deck will (or can) run Unfair Stamp, because including the card means 
 
 </div></div></div></div>
 
-## Milling / Deck Manipulation
+<h2 class="jb-center">Milling / Deck Manipulation</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -243,7 +243,7 @@ Where Great Tusk is the core strategy of the deck, decks tend to run 4 copies of
 
 </div></div>
 
-## Miscellaneous
+<h2 class="jb-center">Miscellaneous</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -285,7 +285,7 @@ Temple of Sinnoh won’t find its way into every deck, but it can be a potent ch
 
 
 
-< [Recovery and Rebound](/guide/recovery) | [Table of Contents](/guide) | [Damage Control](/guide/damage) >
+<p class="jb-center">&lt; <a href="/guide/recovery">Recovery and Rebound</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/damage">Damage Control</a> &gt;</p>
 
 
 

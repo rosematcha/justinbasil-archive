@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Draw Cards
+<h1 class="jb-center">&nbsp;Draw Cards</h1>
 
 A deck’s **Draw Engine** consists of the resources it uses to draw into more cards. Most often, the most dominant part of any draw engine is its **Draw Supporters**—or the Supporter cards included in the deck expressly for their ability to draw their player additional cards. There are many draw supporters, but below are six of the most common draw supporters in the Standard format.
 
@@ -17,7 +17,7 @@ A deck’s **Draw Engine** consists of the resources it uses to draw into more c
 
 
 
-### List of Important Draw Cards
+<h3 class="jb-center">List of Important Draw Cards</h3>
 
 <div class="jb-row"><div class="jb-col-4">
 
@@ -61,7 +61,7 @@ Gift Energy LOR 171
 
 
 
-## Supporters
+<h2 class="jb-center">Supporters</h2>
 
 ### Class A
 
@@ -221,7 +221,7 @@ A little overwhelmed by the choices? That’s okay. Below is a generic set of Dr
 </tbody></table>
 </div></div><div class="jb-col-4"></div></div>
 
-## Pokémon
+<h2 class="jb-center">Pokémon</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -357,7 +357,7 @@ Drakloak tends not to be run outside of decks featuring its fully evolved form, 
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Items
+<h2 class="jb-center">Items</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -381,7 +381,7 @@ Decks that make use of Trekking Shoes tend to include 2-4 copies of the card.
 
 </div></div>
 
-## Stadium Cards
+<h2 class="jb-center">Stadium Cards</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -395,7 +395,7 @@ Because use of Jubilife Village ends your turn when it is used, it won’t often
 
 </div><div class="jb-col-6"></div></div></div></div>
 
-## Special Energies
+<h2 class="jb-center">Special Energies</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -413,7 +413,7 @@ Decks tend not to run Gift Energy, but those that would want it tend to run 2-3 
 
 
 
-< [Secondary Attackers](/guide/secondary-attackers) | [Table of Contents](/guide) | [Pokémon Search](/guide/search) >
+<p class="jb-center">&lt; <a href="/guide/secondary-attackers">Secondary Attackers</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/search">Pokémon Search</a> &gt;</p>
 
 
 

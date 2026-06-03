@@ -32,6 +32,6 @@ In an effort to help maintain a healthy and enjoyable Theme Pool format, the car
 *Trick Coin PHF 108*
 
 </div></div><div class="jb-block jb-html-block jb-block-html"><div class="jb-html-content">
-  <p class="jb-pre"><br></p><p class="jb-pre"><br></p>
+  <p><br></p><p><br></p>
 </div></div>
 

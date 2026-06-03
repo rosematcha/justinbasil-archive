@@ -9,7 +9,7 @@ showHeading: false
     &nbsp;<p class="jb-h-19">Appendix V
 </p></div>
 
-# Pre-release Deck Building
+<h1 class="jb-center">Pre-release Deck Building</h1>
 
 Building a deck for a **Pre-release Event**—an event where players get together a few weeks before a new set’s official release to play with cards from the new set—differs significantly from building a deck for the Standard or Expanded Formats. In a pre-release event, all players play in a **Limited Format**—where players are restricted to deck building resources provided for the event itself. This puts all players on a roughly level playing field and invites a much more laid-back, casual atmosphere.
 
@@ -26,43 +26,43 @@ Below is an example of what could come in a Build & Battle Box’s preconstructe
 
 <div class="jb-row"><div class="jb-col-4">
 
-### Primary Pokémon Type
+<h3 class="jb-center">Primary Pokémon Type</h3>
 
-These are all of the Pokémon in the Evolution Pack that have the same type as the Promo card at the front of the pack.
+<p class="jb-center">These are all of the Pokémon in the Evolution Pack that have the same type as the Promo card at the front of the pack.</p>
 
 </div><div class="jb-col-4">
 
-### Secondary Pokémon Type
+<h3 class="jb-center">Secondary Pokémon Type</h3>
 
 These Pokémon also share their type with each other, but are not the same type as the Promo card’s type.
 
 </div><div class="jb-col-4">
 
-### Other Pokémon
+<h3 class="jb-center">Other Pokémon</h3>
 
 These Pokémon don’t share their type with the Promo card or with the other type in the Evolution Pack. Most often, these are colorless Pokémon that can be played with any type of energy. Sort each of these Pokémon by their type.
 
 </div></div><div class="jb-row"><div class="jb-col-3">
 
-### Pokémon Search
+<h3 class="jb-center">Pokémon Search</h3>
 
 These cards—typically Supporter cards and Item cards—provide ways to find the Pokémon in your deck.
 
 </div><div class="jb-col-3">
 
-### Draw Cards
+<h3 class="jb-center">Draw Cards</h3>
 
 These are Trainer cards—typically Supporter cards and Item cards—that provide a means of drawing more cards than the card you draw at the beginning of your turn.
 
 </div><div class="jb-col-3">
 
-### Energy Cards
+<h3 class="jb-center">Energy Cards</h3>
 
 These cards are the means of powering up your attacking Pokémon.
 
 </div><div class="jb-col-3">
 
-### Misc. Cards
+<h3 class="jb-center">Misc. Cards</h3>
 
 These are other cards that are included in the Evolution Pack that simply don’t fit into another category.
 
@@ -311,7 +311,7 @@ In addition to the promo card and the cards from the two Pokémon groups, each k
 
 
 
-< [Appendix IV: Some Deck Math](/guide/appendix4) | [Table of Contents](/guide)
+<p class="jb-center">&lt; <a href="/guide/appendix4">Appendix IV: Some Deck Math</a> | <a href="/guide">Table of Contents</a></p>
 
 
 

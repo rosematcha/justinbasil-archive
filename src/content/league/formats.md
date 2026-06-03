@@ -26,7 +26,7 @@ To see decks that did well in previous alternate format tournaments, visit the [
 
 
 
-### Alternate Formats
+<h3 class="jb-center">Alternate Formats</h3>
 
 <div class="jb-code-container">
     <div class="mobile-collapse links">

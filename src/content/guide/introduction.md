@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Introduction
+<h1 class="jb-center">Introduction</h1>
 
 In the Pokémon Trading Card Game, there are two† formats used at officially sanctioned [Play! Pokémon Events](https://www.pokemon.com/us/play-pokemon/). These formats are **Standard** and **Expanded**. In the **Standard Format**, cards from approximately the last year and a half to two and a half years (approximately Battle Styles onward) are legal for play. The **Expanded Format** expands the field of available cards back to the Black & White expansion, which released in English in April 2011.
 
@@ -98,7 +98,7 @@ Additionally, Rotation makes the game more accessible for newer players—when d
 
 
 
-< [Table of Contents](/guide) | [Limits](/guide/limits) >
+<p class="jb-center">&lt;<a href="/guide"> Table of Contents</a> | <a href="/guide/limits">Limits</a> &gt;</p>
 
 
 

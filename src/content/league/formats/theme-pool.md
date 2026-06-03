@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# List of Trainer Cards Legal in the Theme Pool Format
+<h1 class="jb-center">&nbsp;List of Trainer Cards Legal in the Theme Pool Format</h1>
 
 Below is a comprehensive list of all Trainer Cards legal in the [Theme Pool](/league/formats#themepool) format. This list was last updated for the release of the Tapu Koko and Iron Leaves ex Battle Decks released in October 2024.
 

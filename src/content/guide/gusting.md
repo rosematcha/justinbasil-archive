@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Gusting and Repulsion
+<h1 class="jb-center">&nbsp;Gusting and Repulsion</h1>
 
 
 
@@ -15,7 +15,7 @@ showHeading: false
 
 
 
-### List of Important Gusting and Repulsion Cards
+<h3 class="jb-center">List of Important Gusting and Repulsion Cards</h3>
 
 <div class="jb-row"><div class="jb-col-3"></div><div class="jb-col-3">
 
@@ -45,7 +45,7 @@ Tornadus BRS 126 Iron Bundle PAR 56
 
 
 
-# Gusting
+<h1 class="jb-center">Gusting</h1>
 
 **Gusting**—or switching the opponent’s Active Pokémon with a Benched Pokémon of your choosing—is a critical part of any deck that intends to take knockouts. Often, it won’t be possible to knock out our opponent’s Pokémon in a single hit and our opponent can take advantage of the situation by hiding their damaged Pokémon on the bench. Damaged Pokémon and otherwise vulnerable Pokémon are prime targets for gusting and can make an opponent think twice before unnecessarily benching a new Pokémon.
 
@@ -148,7 +148,7 @@ If you find yourself unsure of which cards above are the best fit for your deck,
 </tbody></table>
 </div></div><div class="jb-col-4"></div></div>
 
-## Repulsion
+<h2 class="jb-center">Repulsion</h2>
 
 Repulsion, like gusting, can be a helpful addition to your deck. In some cases, it doesn’t matter *what* the new Active Pokémon is—just that it is a *different* Active Pokémon. **Repulsion** is an effect that forces your opponent to switch their Active Pokémon with one of their benched Pokémon—unlike gusting, it is your opponent who chooses the new Active Pokémon instead of you. Repulsion takes its name from item Repel in the video games and from the card that came to represent it in the Trading Card Game, Repel SUM 130.
 
@@ -178,7 +178,7 @@ Decks that include Iron Bundle tend to include just 1 copy.
 
 
 
-< [Pokémon Search](/guide/search) | [Table of Contents](/guide) | [Energy and Acceleration](/guide/energy) >
+<p class="jb-center">&lt; <a href="/guide/search">Pokémon Search</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/energy">Energy and Acceleration</a> &gt;</p>
 
 
 

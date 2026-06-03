@@ -7,11 +7,11 @@ showHeading: false
 
 
 
-# New and Revitalized Archetypes from Vivid Voltage
+<h1 class="jb-center">New and Revitalized Archetypes from Vivid Voltage</h1>
 
 With the arrival of Vivid Voltage this November, we’ve had a handful of new deck archetypes joining the fray. As always, some deck archetypes are better than others—some are meme tier and some are merely playable, fun decks without much competitive promise. Those that appear to have the most competitive promise are marked with a ☆. Lists below are very rough drafts and are intended as a starting place for testing, not as League Cup ready deck lists. Use [<span class="jb-u">LimitlessTCG</span>](https://limitlesstcg.com/tools/proxies/)’s proxy tool to test before making purchases.
 
-### Archetypes
+<h3 class="jb-center">Archetypes</h3>
 
 <div class="jb-code-container">
 <div class="mobile-collapse">
@@ -43,7 +43,7 @@ With the arrival of Vivid Voltage this November, we’ve had a handful of new de
 </div>
 </div>
 
-## Orbeetle VMAX
+<h2 class="jb-center">Orbeetle VMAX</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -102,7 +102,7 @@ Setup early by playing down Koffing and Orbeetle V, evolving them into Weezing a
 </div>
 </div>
 
-## Rillaboom VMAX / Zarude V
+<h2 class="jb-center">Rillaboom VMAX / Zarude V</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -161,7 +161,7 @@ Source: Based on [this winning Japanese deck list](https://twitter.com/ds_nippon
 </div>
 </div>
 
-## Leon’s Charizard
+<h2 class="jb-center">Leon’s Charizard</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -219,7 +219,7 @@ Use Dedenne-GX’s Dedechange ability, Charizard’s Battle Sense ability, Quick
 </div>
 </div>
 
-## Wailord
+<h2 class="jb-center">Wailord</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -271,7 +271,7 @@ Play down Snom and Wailmer, evolving them into Frosmoth and Wailord as quickly a
 </div>
 </div>
 
-## Galarian Darmanitan VMAX
+<h2 class="jb-center">Galarian Darmanitan VMAX</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -325,7 +325,7 @@ Source: Based on [this winning Japanese list](https://twitter.com/kdpl2/status/1
 </div>
 </div>
 
-## Cramorant
+<h2 class="jb-center">Cramorant</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -381,7 +381,7 @@ Quickly search out and play down as many Arrokuda as you can, preparing a Cramor
 </div>
 </div>
 
-## Pikachu VMAX
+<h2 class="jb-center">Pikachu VMAX</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -438,7 +438,7 @@ Use a combination of Electrode’s Buzzap Generator ability, Tapu Koko {\*}’s 
 </div>
 </div>
 
-## Alakazam V
+<h2 class="jb-center">Alakazam V</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -492,7 +492,7 @@ Search for Pokémon Research Lab with Green’s Exploration, attach an energy to
 </div>
 </div>
 
-## Shedinja
+<h2 class="jb-center">Shedinja</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -544,7 +544,7 @@ Evolve Nincada into Ninjask to bring Shedinja into play with Ninjask’s Shell S
 </div>
 </div>
 
-## Whimsicott
+<h2 class="jb-center">Whimsicott</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -605,7 +605,7 @@ Bench Skwovet and Cottonee, evolving them into Greedent and Whimsicott as soon a
 </div>
 </div>
 
-## Excadrill / Machamp
+<h2 class="jb-center">Excadrill / Machamp</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -657,7 +657,7 @@ In the early game, setup and evolve Drilbur, working toward attacking with Excad
 </div>
 </div>
 
-## Donphan / Spiritomb
+<h2 class="jb-center">Donphan / Spiritomb</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -717,7 +717,7 @@ Source: Based on [this winning Japanese deck list](https://twitter.com/t_chigasa
 </div>
 </div>
 
-## Coalossal VMAX
+<h2 class="jb-center">Coalossal VMAX</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -781,7 +781,7 @@ Setup Coalossal V and Oranguru early, then evolve into Coalossal VMAX as soon as
 </div>
 </div>
 
-## Falinks
+<h2 class="jb-center">Falinks</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -832,7 +832,7 @@ Use Quick Ball, Poké Ball, Great Ball, Capture Energy, the deck’s own general
 </div>
 </div>
 
-## Garbodor
+<h2 class="jb-center">Garbodor</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -889,7 +889,7 @@ Play down Trubbish and use Quick Ball and the attachement of Capture Energy to b
 </div>
 </div>
 
-## Togekiss VMAX
+<h2 class="jb-center">Togekiss VMAX</h2>
 
 <div class="jb-row"><div class="jb-col-6">
 
@@ -940,7 +940,7 @@ Place down Togekiss V and evolve it into a Togekiss VMAX as necessary. Use Talon
 </div>
 </div>
 
-## Explanation of Competitive Viability Tiers
+<h2 class="jb-center">Explanation of Competitive Viability Tiers</h2>
 
 With this list of new and revitalized archetypes, I’ve done something a little new and tried to assess how each archetype may perform in a competitive environment—events starting at the League Challenge level and upward. Below is how I’m defining each tier.
 

@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Deck Structure
+<h1 class="jb-center">Deck Structure</h1>
 
 The general breakdown of the cards in a deck by category can be seen below.
 
@@ -135,7 +135,7 @@ Energy is a critical component of a deck as your Pokémon need Energy to power u
 
 
 
-< [Deck Strategy](/guide/deck-strategy) | [Table of Contents](/guide) | [The Main Attacker](/guide/main-attacker) >
+<p class="jb-center">&lt; <a href="/guide/deck-strategy">Deck Strategy</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/main-attacker">The Main Attacker</a> &gt;</p>
 
 
 

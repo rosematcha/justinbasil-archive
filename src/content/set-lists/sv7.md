@@ -26,9 +26,9 @@ showHeading: false
 </div>
 </div>
 
-### set size: 142 cards (before Secret Rares)
+<h3 class="jb-center">set size: 142 cards (before Secret Rares)</h3>
 
-Below is a list of cards that will comprise our seventh Scarlet & Violet set, Stellar Crown, when it releases 13 September 2024. The set will be legal for tournament play on 27 September 2024.
+<p class="jb-center">Below is a list of cards that will comprise our seventh Scarlet &amp; Violet set, Stellar Crown, when it releases 13 September 2024. The set will be legal for tournament play on 27 September 2024.</p>
 
 
 
@@ -220,7 +220,7 @@ Below is a list of cards that will comprise our seventh Scarlet & Violet set, St
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Stellar Crown is expected to be comprised of new cards from the Japanese set Stellar Miracle (19 July 2024, 102 cards) and cards from the Stellar Starter Sets (30 August 2024, with approximately 40 new cards) featuring Stellar type versions of Sylveon ex and Ceruledge ex.
 

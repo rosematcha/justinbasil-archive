@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Prize Pack Series 5 Set List
+<h1 class="jb-center">Prize Pack Series 5 Set List</h1>
 
 
 
@@ -23,7 +23,7 @@ Prize Pack Series 5 officially releases on Wednesday, August 14th and cards firs
     <span id="textlist"></span>
 </div>
 
-### Set List
+<h3 class="jb-center">Set List</h3>
 
 <div class="jb-code-container">
 <div class="mobile-collapse links">

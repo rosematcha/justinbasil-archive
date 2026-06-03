@@ -7,15 +7,15 @@ showHeading: false
 
 <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1753066745507" id="page-5ee785cf7801861dd675359d">
 
-# What to Play - Standard Meta Decks
+<h1 class="jb-center">&nbsp;What to Play - Standard Meta Decks</h1>
 
-### This page was last updated 20 July 2025
+<h3 class="jb-center">This page was last updated 20 July 2025</h3>
 
-*Next Planned Update: 27 July 2025*
+<p class="jb-center"><em>Next Planned Update: 27 July 2025</em></p>
 
 The decks below have proven to be noteworthy contenders in the competitive scene. Although the metagame is always shifting, it’s important to keep these top-performing decks in mind when constructing a new deck to bring to your next tournament.
 
-### Top Decks
+<h3 class="jb-center">Top Decks</h3>
 
 <div class="jb-code-container">
     <div class="mobile-collapse links">     <ol>  <li>(<span class="fl"></span>) <a href="#marniefroslass">Marnie's Grimmsnarl ex w/ Froslass</a></li>  <li>(<span class="up">1</span>) <a href="#ragingboltex">Raging Bolt ex </a></li>  <li>(<span class="dn">1</span>) <a href="#dragapultex">Dragapult ex </a></li>  <li>(<span class="fl"></span>) <a href="#gardevoirex">Gardevoir ex </a></li>   <li>(<span class="up">1</span>) <a href="#dragapultexcharizardex">Dragapult ex w/ Charizard ex</a></li>  <li>(<span class="up">2</span>) <a href="#joltik">Joltik Box </a></li>  <li>(<span class="up">4</span>) <a href="#gholdengoex">Gholdengo ex </a></li>  <li>(<span class="dn">3</span>) <a href="#charizardex">Charizard ex </a></li>   </ol></div>
@@ -307,7 +307,7 @@ Source: Yoshihisa Fukui - 4th Place, Champions League Aichi
 </ul></div></div></div></div>
           <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527514571" id="page-62cd7d7222d91866fad738b6">
 
-# Recently Competitive / Up and Coming Archetypes
+<h1 class="jb-center">&nbsp;Recently Competitive / Up and Coming Archetypes</h1>
 
 The decks that appear below may have recently appeared in the top 8 but have since fallen out of it. Alternatively, these may be up and coming decks that have neared the top 8 recently, but have failed to actually make it in. Either way, these decks may lack the competitive edge necessary to fight off the current meta—or they may just be taking a quick nap and will come out swinging after a short rest.
 

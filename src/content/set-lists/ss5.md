@@ -11,11 +11,11 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Battle Styles - What We Know So Far
+<h1 class="jb-center">Battle Styles - What We Know So Far</h1>
 
-### Set size: 163 cards (before Secret Rares)
+<h3 class="jb-center">Set size: 163 cards (before Secret Rares)</h3>
 
-Set Abbreviation: BST
+<p class="jb-center">Set Abbreviation: BST</p>
 
 
 
@@ -207,7 +207,7 @@ Below is a list of cards believed to comprise our fifth Sword & Shield set, Batt
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Battle Styles is expected to be comprised primarily of the twin Japanese S5 sets—S5I Single Attack Master (22 January 2021, 70 cards) and S5R Rapid Strike Master (22 January 2021, 70 cards). The set will feature six full art Supporter cards and 60 Battle Style cards—including Pokémon, Trainers, and Energy cards with the “Single Strike” or “Rapid Strike” designator, similar to the “Ultra Beast” and “Tag Team” designators during the Sun & Moon era. Each alternative print of a card (regular art, full art) counts separately toward the total number of Battle Style cards included in the set, with a total of 18 unique Single Strike and 18 unique Rapid Strike cards.
 

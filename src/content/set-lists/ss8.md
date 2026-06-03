@@ -11,11 +11,11 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Fusion Strike - Set List
+<h1 class="jb-center">Fusion Strike - Set List</h1>
 
-### set size: 264 cards (before Secret Rares)
+<h3 class="jb-center">set size: 264 cards (before Secret Rares)</h3>
 
-Set Abbreviation: FST
+<p class="jb-center">Set Abbreviation: FST</p>
 
 
 
@@ -23,7 +23,7 @@ Set Abbreviation: FST
 
 
 
-Below is a list of cards that will comprise our eighth Sword & Shield set, Fusion Strike, when it releases 12 November 2021. The set will be legal for tournament play on 26 November 2021.
+<p class="jb-center">Below is a list of cards that will comprise our eighth Sword &amp; Shield set, Fusion Strike, when it releases 12 November 2021. The set will be legal for tournament play on 26 November 2021.</p>
 
 <div class="jb-code-container">
     <a href="/highlights/ss8"><div class="highlights">
@@ -328,7 +328,7 @@ Below is a list of cards that will comprise our eighth Sword & Shield set, Fusio
 
 
 
-### Cards Intentionally Excluded from the List Above
+<h3 class="jb-center">Cards Intentionally Excluded from the List Above</h3>
 
 The cards did not make it into Fusion Strike and will likely appear as promo cards related to the set or in future sets.
 
@@ -349,7 +349,7 @@ The cards did not make it into Fusion Strike and will likely appear as promo car
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Fusion Strike is expected to be comprised of the Japanese set S8 Fusion Arts (100 cards, releases 24 September 2021, plus approximately 11 full art cards), cut cards from the international Evolving Skies set (89 cards, plus 4 secret rares), new cards from the Gengar VMAX and Inteleon VMAX decks (12 cards), and new cards from the new Family Box Set (42 new cards).
 

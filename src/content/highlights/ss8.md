@@ -11,7 +11,7 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Highlights from Fusion Strike
+<h1 class="jb-center">Highlights from Fusion Strike</h1>
 
 To review this set’s card list, visit the article [Fusion Strike—What We Know So Far](/set-lists/ss8/).
 

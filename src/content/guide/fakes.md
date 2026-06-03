@@ -8,7 +8,7 @@ showHeading: false
 
 
 
-# Identifying Fake Pokémon Cards
+<h1 class="jb-center">Identifying Fake Pokémon Cards</h1>
 
 While we certainly wish that every purchase we made online and in person were sure to result in authentic cards, there are many sellers of fake cards online—even on otherwise largely trustworthy sites like Amazon and eBay. The majority of the time, these fake cards are easy to spot—the creators of these fake cards just have to make them close *enough* and shiny *enough* that an unsuspecting parent will buy them for their child.
 
@@ -146,7 +146,7 @@ It’s true that power creep can make the game feel like the HP of Pokémon is g
 
 </div><div class="jb-col-6"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/fc259dee2df04919.webp"><img src="/images/fc259dee2df04919.webp" alt="A fake Arcanine" loading="lazy"></a></figure><figure class="jb-gallery-slide"><a href="/images/e0ebea9a5afeb102.webp"><img src="/images/e0ebea9a5afeb102.webp" alt="Real ARcanine.jpg" loading="lazy"></a></figure></div>
 
-Credit: reddit user /u/ParkCityFIFA
+<p class="jb-center">Credit: reddit user /u/ParkCityFIFA</p>
 
 </div></div>
 

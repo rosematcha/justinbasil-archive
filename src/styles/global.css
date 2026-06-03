@@ -26,7 +26,8 @@
 
   --jb-font-body: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
   --jb-font-head: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
-  --jb-font-nav: 'Rubik', 'Helvetica Neue', Arial, sans-serif;
+  /* Original site nav is Montserrat (not Rubik) — matches the live justinbasil.com header. */
+  --jb-font-nav: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
   --jb-radius: 0;               /* the original uses square corners */
 }
 

@@ -9,7 +9,7 @@ showHeading: false
 
 [<](/rotation/e-on) [Table of Contents](/rotation/f-on) | [Noteworthy Losses and Retentions from BST-FST](/rotation/f-on/noteworthy-losses-and-retentions) [>](/rotation/d-on/noteworthy-losses-and-retentions)
 
-# Introduction - What is Rotation?
+<h1 class="jb-center">Introduction&nbsp;- What is Rotation?</h1>
 
 <div class="jb-row"><div class="jb-col-8"><div class="jb-row"><div class="jb-col-4"></div><div class="jb-col-4">
 

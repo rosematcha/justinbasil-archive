@@ -26,9 +26,9 @@ showHeading: false
 </div>
 </div>
 
-### set size: 159 cards (before Secret Rares)
+<h3 class="jb-center">set size: 159 cards (before Secret Rares)</h3>
 
-Below is a list of cards that will comprise our first main set of 2025, Journey Together, when it releases on 28 March 2025. The set will be legal for tournament play on 11 April 2025.
+<p class="jb-center">Below is a list of cards that will comprise our first main set of 2025, Journey Together, when it releases on 28 March 2025. The set will be legal for tournament play on 11 April 2025.</p>
 
 
 
@@ -235,7 +235,7 @@ Below is a list of cards that will comprise our first main set of 2025, Journey 
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Scarlet & Violet 9 is expected to be comprised of any new cards from the Japanese set Battle Partners (24 January 2025) and new cards from a pair of Japanese decks featuring Marnie and Steven (21 February 2025). Cards from the N and Lillie collection file products (24 January 2025) may also appear in this product.
 

@@ -21,7 +21,11 @@ const isActive = (href: string) =>
         {nav.map((entry) =>
           entry.children ? (
             <li class="jb-nav__item jb-nav__item--folder">
-              <span class="jb-nav__label">{entry.label}</span>
+              {entry.href ? (
+                <a href={entry.href} class:list={['jb-nav__link', { 'is-active': isActive(entry.href) }]}>{entry.label}</a>
+              ) : (
+                <span class="jb-nav__label">{entry.label}</span>
+              )}
               <ul class="jb-nav__submenu">
                 {entry.children.map((child) => (
                   <li>
@@ -51,8 +55,8 @@ const isActive = (href: string) =>
 
 <style>
   .jb-header {
-    position: sticky;
-    top: 0;
+    /* Original site header was NOT sticky — it scrolls away with the page. */
+    position: relative;
     z-index: 100;
     background: var(--jb-green-dark);
     -webkit-font-smoothing: antialiased;
@@ -84,9 +88,11 @@ const isActive = (href: string) =>
     display: block;
     padding: 0.5rem 0.7rem;
     font-family: var(--jb-font-nav);
-    font-size: 0.95rem;
+    /* Match the original header metrics: Montserrat 14px / 0.7px tracking / 14px line. */
+    font-size: 14px;
     font-weight: 400;
-    letter-spacing: 0.01em;
+    letter-spacing: 0.7px;
+    line-height: 1;
     color: var(--jb-nav-text);
     cursor: pointer;
     white-space: nowrap;

@@ -7,11 +7,11 @@ showHeading: false
 
 
 
-# Crafting Your Deck
+<h1 class="jb-center">&nbsp;Crafting Your Deck</h1>
 
 Now that you understand the basics of what can and can’t go into a deck, it’s time to build yourself a deck. Below is a list of the basic steps to building one.
 
-### Building your First Deck
+<h3 class="jb-center">Building your First Deck</h3>
 
 As you use this guide to construct your deck, use these links to help you return to where you’ve left off.
 
@@ -1708,7 +1708,7 @@ Now that we’re at 60 cards, we finally have an initial deck list! Now, we can 
 
 
 
-< [Getting to Know the Cards](/guide/knowing-the-cards) | [Table of Contents](/guide) | [Deck Strategy](/guide/deck-strategy) >
+<p class="jb-center">&lt; <a href="/guide/knowing-the-cards">Getting to Know the Cards</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/deck-strategy">Deck Strategy</a> &gt;</p>
 
 
 

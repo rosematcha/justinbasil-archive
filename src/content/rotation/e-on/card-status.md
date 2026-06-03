@@ -13,7 +13,7 @@ showHeading: false
     &nbsp;<p class="jb-h-19">Appendix III
 </p></div>
 
-# 2023 Rotation Card Status (SSH-SHF)
+<h1 class="jb-center">2023 Rotation Card Status (SSH-SHF)</h1>
 
 ## Sword & Shield (SSH)
 
@@ -25468,9 +25468,9 @@ Below is a list of Black Star promo cards from the Sword & Shield era, with the 
 </div>
 </div>
 
-< [Archetypes to Consider after Rotation](/new-decks/sv1) | [Table of Contents](/rotation/e-on) (Rotation Survival Guide)
+<p class="jb-center">&lt; <a href="/new-decks/sv1">Archetypes to Consider after Rotation</a> | <a href="/rotation/e-on">Table of Contents</a> (Rotation Survival Guide)</p>
 
-< [Appendix II: Staples and Other Key Cards](/guide/appendix2) | [Table of Contents (Deck Building Guide)](/guide) | [Appendix IV: Some Deck Math](/guide/appendix4) >
+<p class="jb-center">&lt; <a href="/guide/appendix2">Appendix II: Staples and Other Key Cards</a> | <a href="/guide">Table of Contents (Deck Building Guide)</a> | <a href="/guide/appendix4">Appendix IV: Some Deck Math</a> &gt;</p>
 
 </div>
 

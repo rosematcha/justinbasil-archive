@@ -9,7 +9,7 @@ showHeading: false
 
 [< Introduction](/rotation/g-on/introduction) | [Table of Contents](/rotation/g-on) | [The New Essentials >](/rotation/g-on/essentials)
 
-# Noteworthy Losses and Retentions from BRS-CRZ
+<h1 class="jb-center">Noteworthy Losses and Retentions from BRS-CRZ</h1>
 
 <div class="jb-code-container">
     For a comprehensive list of losses from Brilliant Stars through Crown Zenith, see <a href="/rotation/g-on/card-status" class="jlink">2025 Rotation Card Status (BRS-CRZ)</a>.
@@ -284,7 +284,7 @@ Below is a list of noteworthy losses from Brilliant Stars through Crown Zenith. 
 
 Note: Cards below are noteworthy in their leaving the format not necessarily because they are especially significant in the meta, but because they are rotating despite being printed in sets that are largely comprised of cards with the “G” regulation mark and newer.
 
-<strong>This year, no cards fall into this category.</strong>
+<p class="jb-center"><strong>This year, no cards fall into this category.</strong></p>
 
 
 

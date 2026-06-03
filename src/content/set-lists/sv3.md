@@ -26,9 +26,9 @@ showHeading: false
 </div>
 </div>
 
-### set size: 197 cards (before Secret Rares)
+<h3 class="jb-center">set size: 197 cards (before Secret Rares)</h3>
 
-Set Abbreviation: OBF
+<p class="jb-center">Set Abbreviation: OBF</p>
 
 Below is a list of cards that will form our third Scarlet & Violet set, Obsidian Flames, when it releases on 11 August 2023. The set will be legal for tournament play on 25 August 2023
 
@@ -293,7 +293,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Obsidian Flames is expected to be comprised of cards cut from Paldea Evolved, any new cards from [the new ex Starter Decks](https://www.pokebeach.com/2023/01/pokemon-card-151-set-announced-for-june-new-ex-starter-decks-in-july) (7 July 2023, 139 cards in set, with an estimated 35 new cards) featuring Decidueye ex, Victini ex, Greninja ex, Miraidon ex, Clefable ex, Koraidon ex, Houndoom ex, and Melmetal ex, and cards from Black Flame Ruler (28 July 2023, 108 new cards).
 

@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Secondary Attackers
+<h1 class="jb-center">&nbsp;Secondary Attackers</h1>
 
 <div class="jb-row"><div class="jb-col-9">
 
@@ -225,7 +225,7 @@ Decks with many Secondary Attackers, especially those decks built around having 
 
 
 
-< [The Main Attacker](/guide/main-attacker) | [Table of Contents](/guide) | [Draw Cards](/guide/draw) >
+<p class="jb-center">&lt; <a href="/guide/main-attacker">The Main Attacker</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/draw">Draw Cards</a> &gt;</p>
 
 
 

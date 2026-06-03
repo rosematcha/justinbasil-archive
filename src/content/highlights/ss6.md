@@ -11,7 +11,7 @@ showHeading: false
 
 </div><div class="jb-col-4"></div></div>
 
-# Highlights from Chilling Reign
+<h1 class="jb-center">Highlights from Chilling Reign</h1>
 
 <div class="jb-code-container">
     <div class="indev">

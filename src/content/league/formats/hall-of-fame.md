@@ -7,9 +7,9 @@ showHeading: false
 
 
 
-# Hall of Fame Format
+<h1 class="jb-center">&nbsp;Hall of Fame Format</h1>
 
-*Last Updated 12 December 2020*
+<p class="jb-center"><em>Last Updated 12 December 2020</em></p>
 
 Also known as the *Palace* format, the Hall of Fame format is an official format in Japan. The text below intends to reflect the official description of the format on the [official Japanese Pokémon Trading Card Game website](https://www.pokemon-card.com/rules/regulation/). The wording and formatting may differ, but the format remains the same.
 
@@ -34,7 +34,7 @@ For cards like Shaymin-EX ROS 77 that have alternate prints (same card name, HP,
 
 For an alternate point Hall of Fame point system proposed by Charlie Lockyer, read [his article on PokéBeach](https://www.pokebeach.com/2020/05/palace-101-exploration-palace-hall-fame-format). The official point system follows below.
 
-### 1-Point Cards
+<h3 class="jb-center">1-Point Cards</h3>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -92,7 +92,7 @@ For an alternate point Hall of Fame point system proposed by Charlie Lockyer, re
 
 </div><div class="jb-col-6"></div></div>
 
-### 2-Point Cards
+<h3 class="jb-center">2-Point Cards</h3>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -138,7 +138,7 @@ For an alternate point Hall of Fame point system proposed by Charlie Lockyer, re
 
 </div><div class="jb-col-10"></div></div>
 
-### 3-Point Cards
+<h3 class="jb-center">3-Point Cards</h3>
 
 <div class="jb-row"><div class="jb-col-2">
 

@@ -20,6 +20,46 @@ will see your own prior work in the files, git, and the ledger.
 
 ---
 
+## ⚠️ What an earlier run of this loop already broke — read before you touch anything
+
+A previous pass of this prompt ran and **silently regressed the site's appearance** while the
+text-fidelity harness reported "green" every time. The maintainer then fixed these by hand.
+Do not re-introduce them, and understand *why the loop missed them*:
+
+- **The fidelity harness is blind to styling and layout.** It compares *visible text, links,
+  images, headings, table cells* — NOT computed styles, alignment, spacing, colour, or column
+  layout. **"Fidelity OK" does NOT mean the page looks right.** Every regression below passed
+  the harness. You MUST verify the *rendered look* separately (see "Styling/layout
+  verification" in step 5).
+- **Centering was lost wholesale.** Converting a centered `<h1 style="text-align:center">` (or
+  `<p>`) to Markdown `#`/text **drops the alignment** — Markdown can't express it. ~80% of page
+  titles and many in-body headers are centered in the original. → **Rule:** a heading OR
+  paragraph that carries a promoted alignment/style class (e.g. `jb-center`) must stay HTML
+  (`outerHTML`), so the class survives. Only *unstyled* prose becomes Markdown. (Already
+  implemented in `blockToMd`; keep it.)
+- **`white-space:pre-wrap` blocked class promotion.** It's dead Squarespace noise, but left in
+  the `style` it prevented the exact-match `text-align:center → jb-center` promotion, so
+  centered elements never got their class. → strip `white-space:pre-wrap`/`pre-line` as dead
+  style (already implemented).
+- **Column gutters collapsed.** Stripping the `.sqs-block` wrappers removed the 17px padding
+  that *was* the inter-column gutter, so columns butted together at 0px. → when you remove a
+  wrapper/style, you must reproduce its **measured** effect in CSS and confirm with computed
+  styles, not by eye.
+- **A site-wide class rename half-applied.** Renaming `.sqs-*` → `.jb-*` in CSS while content
+  still used `.sqs-*` (or vice-versa) collapsed every grid. → never rename a class unless the
+  content references AND the CSS rules move together in the same iteration, verified by build +
+  computed-style check.
+- **An over-broad CSS reset killed list numbers.** `.jb-code-container ol { list-style:none }`
+  (meant for `<ul>` decklists) stripped the numbers off ordered ranking lists. → scope CSS
+  tightly; check ordered lists still show markers.
+
+**The current `beautify.mjs` + stylesheets already contain the fixes for all of the above.**
+Start from the current branch state — do not revert these. Re-running `convert` reproduces the
+committed output byte-for-byte (verified), so any diff you see after a regen is *only* your
+intended change.
+
+---
+
 ## The one rule you must never break
 
 **DO NOT COMMIT / `git add` / `git push`.** The maintainer reviews the full diff and makes a
@@ -51,6 +91,10 @@ is fine: `git status`, `git diff`, `git show HEAD:<path>`.)
   **structure/attribute-agnostic**, so it stays valid even as you change the DOM from HTML
   to Markdown — it proves you didn't drop or reorder content. Do **not** recapture or weaken
   it. `node scripts/lib/fidelity.mjs check [collection]` must report zero meaningful diffs.
+  - **⚠️ It is necessary but NOT sufficient.** It says nothing about how the page *looks* —
+    alignment, spacing, colour, fonts, column layout all pass through it untouched. A green
+    fidelity run with a broken layout is exactly how the earlier pass shipped regressions.
+    Pair it with the styling/layout verification in step 5 — never treat it as the whole gate.
 - **Ledger:** `scripts/ralph/PROGRESS.md`. Add a `## Round 2: Markdown compliance` section
   (reset all in-scope collections to `pending` for this round) and keep it current.
 
@@ -84,6 +128,12 @@ collections should contain **essentially no** HTML for these — they should be 
 | standalone content `<img>`/`<figure>` | `![alt](src)` (see Images) |
 | `<span>` with no semantic purpose | unwrap to plain text; push any real styling to CSS |
 | redundant wrappers: `div.sqs-row > .col-12.span-12`, `.sqs-block`, `.sqs-block-content`, `.sqs-html-content`, `.sqs-code-container` that wrap a single column of content | remove; reproduce any needed spacing/width on the `.sqs-content` prose container in CSS |
+
+> **Exception (do not skip):** a `<h1>`–`<h6>` or `<p>` that is **aligned or otherwise styled**
+> (carries a promoted `jb-center`/`jb-*` class, or an inline `text-align`) must **stay HTML** —
+> Markdown can't express alignment, and flattening it silently left-aligns the element. Only
+> *unstyled* headings/paragraphs become Markdown `#`/text. This is the single biggest
+> regression from the last run; `blockToMd` already does this — keep it.
 
 **Inline `style=` and Squarespace `class=` are not allowed to survive on converted
 content.** When a rule is purely presentational, drop it. When it carries real visual intent
@@ -151,26 +201,52 @@ CSS, not inline attributes:
    rule (prefer JSDOM DOM ops over regex). If the rule removes styling, **add the matching
    CSS** in the same iteration.
 4. **Regenerate** just this collection: `node scripts/convert.mjs --no-images <slugs…>`.
-5. **Verify — all must pass before the collection is PASSING:**
+5. **Verify — ALL gates must pass. Content gates AND styling gates AND human sign-off.**
+
+   **a. Content / compile gates (necessary, not sufficient):**
    - `npm run build` is green (no Markdown/MDX compile errors; no indented-HTML code blocks).
-   - `node scripts/lib/fidelity.mjs check <collection>` → **zero meaningful content diffs**
-     (content preserved despite the DOM change).
+   - `node scripts/lib/fidelity.mjs check <collection>` → **zero meaningful content diffs**.
    - `npm run verify` is green.
    - **Markdown-compliance bar** for the collection's bodies:
      - Zero of: `<p>`, `<strong>`, `<b>`, `<em>`, `<i>`, `<h1>`–`<h6>`, `<a>`, `<ul>`,
-       `<ol>`, `<li>`, `<hr>`, `<blockquote>` (all of these have Markdown forms).
+       `<ol>`, `<li>`, `<hr>`, `<blockquote>` **except** where the element carries a kept
+       style class (e.g. a centered `<h2 class="jb-center">` legitimately stays HTML — see
+       the centering lesson). Unstyled prose must be Markdown.
      - Zero inline `style=` and zero Squarespace `class=` (`sqs-*`, `span-N`, `col`, `row`,
-       `image-block-*`, etc.) on content.
-     - Remaining HTML limited to the **allowlist**: `<iframe>`, and explicitly-whitelisted
-       semantic blocks (`.jb-gallery`, `.jb-set-card`, `.jb-button` or equivalents) whose
-       styling is fully CSS-driven (no inline styles).
+       `image-block-*`, etc.) on content. (Promoted `jb-*` classes are allowed and expected.)
+     - Remaining HTML limited to the **allowlist**: `<iframe>`, alignment/style-bearing
+       headings & paragraphs (`jb-*` classed), and whitelisted semantic blocks (`.jb-gallery`,
+       `.jb-set-card`, `.jb-button`, `.jb-onclick-link`, …) whose styling is fully CSS-driven.
      - Genuine data tables are GFM pipe tables.
-   - **Visual spot-check:** build and eyeball 2–3 representative pages from the collection
-     (and note them in the ledger) to confirm the CSS migration preserved the look — captions
-     centered, set-list card intact, tables readable, images sized sensibly.
+
+   **b. Styling / layout gates (the part the earlier run skipped — DO NOT skip):**
+   The fidelity harness CANNOT see these. Build a real check. Extend the harness (e.g. a new
+   `node scripts/lib/fidelity.mjs style <collection>` mode) that, for representative pages,
+   compares the **computed/declared styling against the `_corpus` original** — the corpus is
+   the source of truth. At minimum assert these invariants and FAIL on any mismatch:
+   - **Alignment:** every element centered in the corpus is still centered in the output
+     (and left ones still left). Derive the expected set from the corpus `text-align`.
+   - **Grid/layout:** multi-column rows still render side-by-side with the original gutter
+     (no collapse to a single stacked column at desktop width); column widths match.
+   - **Lists:** ordered lists still show their numbers; intentionally-unmarked lists stay so.
+   - **Link colour:** content links are the site link blue (`#2738b4`); card/`.blink`/inherit
+     exceptions preserved.
+   - **No leaked inline styles / orphaned classes:** no content element references a CSS class
+     that no longer exists, and no inline `style=` survived on converted prose.
+   If a true computed-style diff isn't feasible headlessly, the check must at least assert the
+   above as **structural invariants** on the built `dist/**/*.html` + presence of the matching
+   CSS rules — and you must escalate to (c).
+
+   **c. Human visual sign-off (mandatory per collection):**
+   You cannot *see* the page. Do **not** self-certify a collection as PASSING. After a/b pass,
+   mark the collection **`READY FOR REVIEW`** in the ledger, list 3–5 representative page URLs
+   (incl. the trickiest: multi-column, set-list cards, tables, centered headers) and run
+   `npm run dev` so the maintainer can eyeball them at desktop **and** mobile width. Only the
+   maintainer flips `READY FOR REVIEW → PASSING`. The completion promise requires every
+   collection at human-confirmed `PASSING`.
 6. **Record** in the ledger: the rule + CSS you added, the new tag counts (should drop
-   monotonically), the collection status, and any page parked under "Open problems" with a
-   specific hypothesis.
+   monotonically), the styling invariants you checked, the review URLs, the collection status,
+   and any page parked under "Open problems" with a specific hypothesis.
 7. **Stop.**
 
 Track the headline metric each iteration so progress is visible: total in-scope count of the
@@ -183,13 +259,16 @@ Track the headline metric each iteration so progress is visible: total in-scope 
 
 Output the promise **only when ALL hold**:
 
-- Every in-scope collection is **PASSING** (meets the Markdown-compliance bar in step 5).
+- Every in-scope collection is at **human-confirmed `PASSING`** (content gates + styling gates
+  + maintainer visual sign-off — step 5a/b/c). Self-certified collections do NOT count.
 - Across all in-scope bodies: zero `<p>/<strong>/<b>/<em>/<i>/<h1-6>/<a>/<ul>/<ol>/<li>/<hr>/
-  <blockquote>`, zero inline `style=`, zero Squarespace `class=`. Remaining HTML is only the
-  allowlist (`<iframe>` + CSS-driven `.jb-*` semantic blocks), and genuine tables are GFM.
-- The removed styling is reproduced in CSS so spot-checked pages still match the original look.
+  <blockquote>` **except** alignment/style-bearing elements kept as `jb-*`-classed HTML; zero
+  inline `style=`; zero Squarespace `class=`. Remaining HTML is only the allowlist, and
+  genuine tables are GFM.
+- The removed styling is reproduced in CSS, **verified against the corpus** (alignment, grid
+  gutters, list markers, link colour) — not just eyeballed.
 - `npm run build` green, `node scripts/lib/fidelity.mjs check` (all) reports zero meaningful
-  content diffs, `npm run verify` green.
+  content diffs, the styling-invariant check passes, `npm run verify` green.
 - `videos/` and out-of-scope files unchanged; `git status` shows only in-scope content, the
   transform/scripts, stylesheets, and `scripts/ralph/**`.
 - **Nothing committed.** Working tree clean and uncommitted, ready for the maintainer's bulk
@@ -207,12 +286,25 @@ Otherwise: do one solid step, update the ledger, and stop so the loop continues.
 
 ## Guardrails / anti-patterns
 
+- **Don't trust "Fidelity OK" as proof the page looks right.** It only checks text/links/
+  images/headings. A green run with a wrecked layout is the failure mode that already shipped.
+  Styling/layout has its own gate (5b) + human sign-off (5c).
+- Don't flatten a heading/paragraph that carries an alignment/style class to Markdown — keep
+  it as `jb-*`-classed HTML so the alignment survives.
+- Don't remove a wrapper/inline-style without reproducing its **measured** effect in CSS and
+  confirming against the corpus (the gutter-collapse lesson).
+- Don't rename a CSS class unless the content references AND the stylesheet rules move in the
+  same iteration, verified by build + styling check (the namespace-mismatch lesson).
+- Don't write a broad CSS reset that hits more than intended (the `ol { list-style:none }`
+  lesson) — scope tightly and re-check the affected elements.
 - Don't hand-edit generated `.md` bodies as the fix — fix the transform + CSS and regenerate.
-- Don't keep HTML "to be safe" when a Markdown form exists — convert it and move styling to
-  CSS. (Reverses Round 1.)
+- Don't keep HTML "to be safe" when a Markdown form exists and the element is unstyled —
+  convert it and move styling to CSS. (Reverses Round 1, but the centering exception above
+  takes precedence: styled/aligned elements stay HTML.)
 - Don't solve styling with inline `style=` or by re-adding Squarespace classes — use named
   CSS classes on the compiled output.
-- Don't weaken/delete the fidelity harness, baseline, or `verify.mjs` to pass a check — a
-  failing check means the *content/look* regressed, not the check.
+- Don't weaken/delete the fidelity harness, baseline, styling check, or `verify.mjs` to pass —
+  a failing check means the *content/look* regressed, not the check.
+- Don't self-certify a collection as PASSING — only the maintainer's visual review promotes it.
 - Don't expand scope to `videos/`. Don't commit, add, stage, or push. Ever.
 ```

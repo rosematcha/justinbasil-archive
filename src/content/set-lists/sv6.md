@@ -25,7 +25,7 @@ showHeading: false
 </div>
 </div>
 
-### set size: 167 cards (before Secret Rares)
+<h3 class="jb-center">set size: 167 cards (before Secret Rares)</h3>
 
 Below is a list of cards that will comprise our sixth Scarlet & Violet set, Twilight Masquerade, when it releases on 24 May 2024. The set will be legal for tournament play on 7 June 2024.
 
@@ -333,7 +333,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 </div> 
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Twilight Masquerade is expected to be comprised of any new cards from the Japanese sets Crimson Haze (22 March 2024, 77 cards) and Mask of Change (26 April 2024, 101 cards). Cards from the Ogerpon Special Set (17 May 2024) may also become part of this set. A few new cards from the Japanese Battle Academy product featuring Sprigatito ex, Pikachu ex, Greninja ex, and Lucario ex (8 March 2024) may also find their way into the set.
 

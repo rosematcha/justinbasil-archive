@@ -7,7 +7,7 @@ showHeading: false
 
 
 
-# Pokémon Search
+<h1 class="jb-center">&nbsp;Pokémon Search</h1>
 
 **Pokémon Search** cards—especially those often referred to as **Ball Cards** or **Ball Search** because they are often based on some variety of Poké Ball from the video games—are a crucial element in any deck and a core part of a deck’s **Setup Engine**—the collection of cards included in a deck to bring out the Pokémon and other resources crucial to its strategy.
 
@@ -17,7 +17,7 @@ showHeading: false
 
 
 
-### List of Important Pokémon Search Cards
+<h3 class="jb-center">List of Important Pokémon Search Cards</h3>
 
 <div class="jb-row"><div class="jb-col-3">
 
@@ -45,7 +45,7 @@ Mesagoza SVI 178 Artazon PAL 171
 
 The single most important Item card in nearly every deck is Nest Ball, but there are a number of especially useful Pokémon search cards, all with different advantages and disadvantages. Most decks will run 8 to 10 in some combination of the Item-Based Search cards listed below. Read through each item card below to become more familiar with them all. Each card has its own strengths and weaknesses—try to tailor the Pokémon search cards you choose for your deck to be the best possible options for your deck. Ensure that the cards you select will help you to easily find your most crucial Pokémon.
 
-## Items
+<h2 class="jb-center">Items</h2>
 
 <div class="jb-row"><div class="jb-col-2">
 
@@ -151,7 +151,7 @@ A little overwhelmed with the choices? That’s okay. Below is a generic set of 
 </tbody></table>
 </div></div><div class="jb-col-4"></div></div>
 
-## Supporters
+<h2 class="jb-center">Supporters</h2>
 
 In addition to the Item-based Pokémon search cards listed above, some decks will also take advantage of Supporter-based Pokémon search cards. However, because the player who goes first can no longer play a Supporter card on their first turn, these options are much less popular than they once were, but can still be a helpful addition in certain decks.
 
@@ -199,7 +199,7 @@ However, as is the generally the case with Pokémon Search Supporter cards, beca
 
 In most cases, a deck won’t run any Supporter-based Search cards, so if you’re not sure what cards to include here, it’s probably safe to just skip these cards altogether. However, it’s good to be familiar with these Supporter-based Search cards as you may find that a deck you build in the future could make good use of one.
 
-## Stadium Cards
+<h2 class="jb-center">Stadium Cards</h2>
 
 Occasionally, a deck can benefit from additional Pokémon Search via a Stadium card. In many cases, a deck will opt not to play these and will instead play other Stadium cards with different beneficial effects. However, it’s good to be aware of these cards so that, when building decks where they could be especially useful, they have the chance to be considered.
 
@@ -229,7 +229,7 @@ Although not every deck will run Artazon, it can be an especially useful card fo
 
 
 
-< [Draw Cards](/guide/draw) | [Table of Contents](/guide) | [Gusting and Repulsion](/guide/gusting) >
+<p class="jb-center">&lt; <a href="/guide/draw">Draw Cards</a> | <a href="/guide">Table of Contents</a> | <a href="/guide/gusting">Gusting and Repulsion</a> &gt;</p>
 
 
 

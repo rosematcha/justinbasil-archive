@@ -25,11 +25,11 @@ showHeading: false
 </div>
 </div>
 
-### set size: 162 cards (before Secret Rares)
+<h3 class="jb-center">set size: 162 cards (before Secret Rares)</h3>
 
-Set Abbreviation: TEF
+<p class="jb-center">Set Abbreviation: TEF</p>
 
-Below is a list of cards that comprise our fifth Scarlet & Violet set, *Temporal Forces*, when it releases on 22 March 2024. The set will be legal for tournament play on 5 April 2024.
+<p class="jb-center">Below is a list of cards that comprise our fifth Scarlet &amp; Violet set, <em>Temporal Forces</em>, when it releases on 22 March 2024. The set will be legal for tournament play on 5 April 2024.</p>
 
 
 
@@ -277,7 +277,7 @@ The cards below may appear in a future set, as promo cards, or may see their rel
 </div>
 </div>
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 *Temporal Forces* is expected to be primarily comprised of cards from the twin Japanese sets Cyber Judge and Wild Force (26 January 2024, 71 cards each). This set will feature the return of ACE SPEC cards, a much-beloved mechanic previously seen during the Black & White era.
 

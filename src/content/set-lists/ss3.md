@@ -11,11 +11,11 @@ showHeading: false
 
 
 
-# Darkness Ablaze - What We Know So Far
+<h1 class="jb-center">&nbsp;Darkness Ablaze - What We Know So Far</h1>
 
-### set size: 188 cards (before Secret Rares)
+<h3 class="jb-center">set size: 188 cards (before Secret Rares)</h3>
 
-Set Abbreviation: DAA
+<p class="jb-center">Set Abbreviation: DAA</p>
 
 
 
@@ -39,7 +39,7 @@ Set Abbreviation: DAA
 
 </div></div>
 
-Below is a list of cards that will comprise our third Sword & Shield set, Darkness Ablaze, when it releases August 14th. Darkness Ablaze will be legal for tournament play 28 August 2020.
+<p class="jb-center">Below is a list of cards that will comprise our third Sword &amp; Shield set, Darkness Ablaze, when it releases August 14th. Darkness Ablaze will be legal for tournament play 28 August 2020.</p>
 
 
 
@@ -244,7 +244,7 @@ Below is a list of cards that will comprise our third Sword & Shield set, Darkne
 
 
 
-### **Other set details**
+<h3 class="jb-center"><strong>Other set details</strong></h3>
 
 Darkness Ablaze is made up of cards from the Japanese sets S2a Eruption Walker (70 cards, releases 24 April 2020), S3 Infinity Zone (100 cards, releases 5 June 2020), and the new cards from the (Sc) Charizard VMAX and (Sc) Grimmsnarl VMAX Starter Decks (41 total cards, 14 new), with a few additional cards coming from the new V Starter Decks.
 
