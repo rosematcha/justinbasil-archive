@@ -16,15 +16,24 @@ publishDate: 2024-06-13
 
 ### Pokémon
 
-Radiant Hawlucha ASR 81 Rapidash SIT 22 Hawlucha SVI 118 Skeledirge ex PAR 137
+Radiant Hawlucha ASR 81<br>
+Rapidash SIT 22<br>
+Hawlucha SVI 118<br>
+Skeledirge ex PAR 137
 
 ### Items, Supporters, and Special Energy
 
-Grant ASR 144 Kieran TWM 154
+Grant ASR 144<br>
+Kieran TWM 154
 
 ### Pokémon Tool Cards
 
-Supereffective Glasses ASR 152 Earthen Seal Stone SIT 154 Defiance Band SVI 169 Vitality Band SVI 197 Choice Belt PAL 176 Maximum Belt TEF 154
+Supereffective Glasses ASR 152<br>
+Earthen Seal Stone SIT 154<br>
+Defiance Band SVI 169<br>
+Vitality Band SVI 197<br>
+Choice Belt PAL 176<br>
+Maximum Belt TEF 154
 
 ### Stadium Cards
 
@@ -34,11 +43,15 @@ Gapejaw Bog ASR 142
 
 ## SPECIAL CONDITION APPLIERS AND EXTENDERS
 
-Paldean Clodsire ex PAL 130 Brute Bonnet PAR 123
+Paldean Clodsire ex PAL 130<br>
+Brute Bonnet PAR 123
 
 ## HP Boost
 
-Kricketune ASR 10 Bravery Charm PAL 173 Luxurious Cape PAR 166 Hero’s Cape TEF 152
+Kricketune ASR 10<br>
+Bravery Charm PAL 173<br>
+Luxurious Cape PAR 166<br>
+Hero’s Cape TEF 152
 
 </div><div class="jb-col-3">
 
@@ -50,7 +63,8 @@ Radiant Gardevoir LOR 69
 
 ### Trainers and Special Energy
 
-Fantina LOR 157 V Guard Energy SIT 169
+Fantina LOR 157<br>
+V Guard Energy SIT 169
 
 ## Damage Redistribution
 
@@ -62,7 +76,10 @@ Damage Pump LOR 156
 
 ### Pokémon
 
-Manaphy BRS 41 Diancie ASR 68 Miltank ASR 126 Mimikyu PAL 97
+Manaphy BRS 41<br>
+Diancie ASR 68<br>
+Miltank ASR 126<br>
+Mimikyu PAL 97
 
 </div></div>
 

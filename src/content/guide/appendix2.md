@@ -64,19 +64,71 @@ Noteworthy cards from each set in the Standard format have been split into three
 
 ### Staple Cards
 
-Lumineon V BRS 40 Manaphy BRS 41 Bidoof BRS 120 Bibarel BRS 121 Arceus V BRS 122 Arceus VSTAR BRS 123 Boss's Orders BRS 132 Choice Belt BRS 135 Professor's Research BRS 147 Ultra Ball BRS 150 Double Turbo Energy BRS 151
+Lumineon V BRS 40<br>
+Manaphy BRS 41<br>
+Bidoof BRS 120<br>
+Bibarel BRS 121<br>
+Arceus V BRS 122<br>
+Arceus VSTAR BRS 123<br>
+Boss's Orders BRS 132<br>
+Choice Belt BRS 135<br>
+Professor's Research BRS 147<br>
+Ultra Ball BRS 150<br>
+Double Turbo Energy BRS 151
 
 </div><div class="jb-col-4">
 
 ### Set Highlights
 
-Empoleon BRS 37 Raikou V BRS 48 Whimsicott V BRS 64 Whimsicott VSTAR BRS 65 Minccino BRS 124 Cheren's Care BRS 134 Collapsed Stadium BRS 137 Cynthia's Ambition BRS 138 Magma Basin BRS 144 Team Yell's Cheer BRS 149
+Empoleon BRS 37<br>
+Raikou V BRS 48<br>
+Whimsicott V BRS 64<br>
+Whimsicott VSTAR BRS 65<br>
+Minccino BRS 124<br>
+Cheren's Care BRS 134<br>
+Collapsed Stadium BRS 137<br>
+Cynthia's Ambition BRS 138<br>
+Magma Basin BRS 144<br>
+Team Yell's Cheer BRS 149
 
 </div><div class="jb-col-0"></div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
-Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 Zarude V BRS 16 Charizard V BRS 17 Charizard VSTAR BRS 18 Moltres BRS 21 Entei V BRS 22 Buizel BRS 38 Floatzel BRS 39 Eiscue BRS 44 Raichu V BRS 45 Mimikyu V BRS 68 Mimikyu VMAX BRS 69 Riolu BRS 78 Lucario BRS 79 Honchkrow V BRS 88 Purrloin BRS 90 Liepard BRS 91 Zamazenta V BRS 105 Gible BRS 107 Gabite BRS 108 Garchomp BRS 109 Farfetch'd BRS 115 Acerola's Premonition BRS 129 Blunder Policy BRS 131 Café Master BRS 133 Fresh Water Set BRS 139 Gloria BRS 141 Kindler BRS 143 Marnie's Pride BRS 145 Roseanne's Backup BRS 148
+Turtwig BRS 6<br>
+Grotle BRS 7<br>
+Torterra BRS 8<br>
+Shaymin V BRS 13<br>
+Shaymin VSTAR BRS 14<br>
+Zarude V BRS 16<br>
+Charizard V BRS 17<br>
+Charizard VSTAR BRS 18<br>
+Moltres BRS 21<br>
+Entei V BRS 22<br>
+Buizel BRS 38<br>
+Floatzel BRS 39<br>
+Eiscue BRS 44<br>
+Raichu V BRS 45<br>
+Mimikyu V BRS 68<br>
+Mimikyu VMAX BRS 69<br>
+Riolu BRS 78<br>
+Lucario BRS 79<br>
+Honchkrow V BRS 88<br>
+Purrloin BRS 90<br>
+Liepard BRS 91<br>
+Zamazenta V BRS 105<br>
+Gible BRS 107<br>
+Gabite BRS 108<br>
+Garchomp BRS 109<br>
+Farfetch'd BRS 115<br>
+Acerola's Premonition BRS 129<br>
+Blunder Policy BRS 131<br>
+Café Master BRS 133<br>
+Fresh Water Set BRS 139<br>
+Gloria BRS 141<br>
+Kindler BRS 143<br>
+Marnie's Pride BRS 145<br>
+Roseanne's Backup BRS 148
 
 </div></div>
 
@@ -109,19 +161,80 @@ Turtwig BRS 6 Grotle BRS 7 Torterra BRS 8 Shaymin V BRS 13 Shaymin VSTAR BRS 14 
 
 ### Staple Cards
 
-Radiant Greninja ASR 46 Roxanne ASR 150 Trekking Shoes ASR 156
+Radiant Greninja ASR 46<br>
+Roxanne ASR 150<br>
+Trekking Shoes ASR 156
 
 </div><div class="jb-col-4">
 
 ### Set Highlights
 
-Hisuian Lilligant V ASR 17 Hisuian Lilligant VSTAR ASR 18 Starmie V ASR 30 Origin Forme Palkia V ASR 39 Origin Forme Palkia VSTAR ASR 40 Diancie ASR 68 Radiant Hawlucha ASR 81 Mightyena ASR 96 Absol ASR 97 Darkrai V ASR 98 Darkrai VSTAR ASR 99 Hisuian Samurott V ASR 101 Hisuian Samurott VSTAR ASR 102 Origin Forme Dialga V ASR 113 Origin Forme Dialga VSTAR ASR 114 Wyrdeer V ASR 134 Adaman ASR 135 Dark Patch ASR 139 Gardenia's Vigor ASR 143 Grant ASR 144 Gutsy Pickaxe ASR 145 Hisuian Heavy Ball ASR 146 Irida ASR 147 Jubilife Village ASR 148 Temple of Sinnoh ASR 155
+Hisuian Lilligant V ASR 17<br>
+Hisuian Lilligant VSTAR ASR 18<br>
+Starmie V ASR 30<br>
+Origin Forme Palkia V ASR 39<br>
+Origin Forme Palkia VSTAR ASR 40<br>
+Diancie ASR 68<br>
+Radiant Hawlucha ASR 81<br>
+Mightyena ASR 96<br>
+Absol ASR 97<br>
+Darkrai V ASR 98<br>
+Darkrai VSTAR ASR 99<br>
+Hisuian Samurott V ASR 101<br>
+Hisuian Samurott VSTAR ASR 102<br>
+Origin Forme Dialga V ASR 113<br>
+Origin Forme Dialga VSTAR ASR 114<br>
+Wyrdeer V ASR 134<br>
+Adaman ASR 135<br>
+Dark Patch ASR 139<br>
+Gardenia's Vigor ASR 143<br>
+Grant ASR 144<br>
+Gutsy Pickaxe ASR 145<br>
+Hisuian Heavy Ball ASR 146<br>
+Irida ASR 147<br>
+Jubilife Village ASR 148<br>
+Temple of Sinnoh ASR 155
 
 </div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
-Kricketune ASR 10 Shaymin ASR 14 Radiant Heatran ASR 27 Regice ASR 37 Hisuian Basculin ASR 43 Luxray V ASR 50 Regieleki ASR 51 Hisuian Typhlosion V ASR 53 Hisuian Typhlosion VSTAR ASR 54 Togepi ASR 55 Togetic ASR 56 Togekiss ASR 57 Wyrdeer ASR 69 Regirock ASR 75 Hisuian Decidueye V ASR 83 Hisuian Decidueye VSTAR ASR 84 Thievul ASR 104 Magnezone ASR 107 Registeel ASR 108 Bastiodon ASR 110 Bronzong ASR 112 Bisharp ASR 116 Regidrago ASR 118 Eevee ASR 119 Hoothoot ASR 120 Miltank ASR 126 Regigigas ASR 130 Oranguru V ASR 133 Canceling Cologne ASR 136 Cyllene ASR 138 Energy Loto ASR 140 Feather Ball ASR 141 Gapejaw Bog ASR 142 Spicy Seasoned Curry ASR 151 Supereffective Glasses ASR 152 Unidentified Fossil ASR 157
+Kricketune ASR 10<br>
+Shaymin ASR 14<br>
+Radiant Heatran ASR 27<br>
+Regice ASR 37<br>
+Hisuian Basculin ASR 43<br>
+Luxray V ASR 50<br>
+Regieleki ASR 51<br>
+Hisuian Typhlosion V ASR 53<br>
+Hisuian Typhlosion VSTAR ASR 54<br>
+Togepi ASR 55<br>
+Togetic ASR 56<br>
+Togekiss ASR 57<br>
+Wyrdeer ASR 69<br>
+Regirock ASR 75<br>
+Hisuian Decidueye V ASR 83<br>
+Hisuian Decidueye VSTAR ASR 84<br>
+Thievul ASR 104<br>
+Magnezone ASR 107<br>
+Registeel ASR 108<br>
+Bastiodon ASR 110<br>
+Bronzong ASR 112<br>
+Bisharp ASR 116<br>
+Regidrago ASR 118<br>
+Eevee ASR 119<br>
+Hoothoot ASR 120<br>
+Miltank ASR 126<br>
+Regigigas ASR 130<br>
+Oranguru V ASR 133<br>
+Canceling Cologne ASR 136<br>
+Cyllene ASR 138<br>
+Energy Loto ASR 140<br>
+Feather Ball ASR 141<br>
+Gapejaw Bog ASR 142<br>
+Spicy Seasoned Curry ASR 151<br>
+Supereffective Glasses ASR 152<br>
+Unidentified Fossil ASR 157
 
 </div></div>
 
@@ -160,13 +273,34 @@ None.
 
 ### Set Highlights
 
-Radiant Venusaur PGO 4 Radiant Charizard PGO 11 Blastoise PGO 17 Radiant Blastoise PGO 18 Slowbro PGO 20 Ditto PGO 53 Snorlax PGO 55 PokéStop PGO 68 Rare Candy PGO 69
+Radiant Venusaur PGO 4<br>
+Radiant Charizard PGO 11<br>
+Blastoise PGO 17<br>
+Radiant Blastoise PGO 18<br>
+Slowbro PGO 20<br>
+Ditto PGO 53<br>
+Snorlax PGO 55<br>
+PokéStop PGO 68<br>
+Rare Candy PGO 69
 
 </div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
-Charizard PGO 10 Magikarp PGO 21 Mewtwo V PGO 30 Mewtwo VSTAR PGO 31 Lunatone PGO 34 Solrock PGO 39 Alolan Raticate PGO 42 Melmetal V PGO 47 Melmetal VMAX PGO 48 Dragonite V PGO 49 Dragonite VSTAR PGO 50 Ambipom PGO 57 Bibarel PGO 60 Lure Module PGO 67
+Charizard PGO 10<br>
+Magikarp PGO 21<br>
+Mewtwo V PGO 30<br>
+Mewtwo VSTAR PGO 31<br>
+Lunatone PGO 34<br>
+Solrock PGO 39<br>
+Alolan Raticate PGO 42<br>
+Melmetal V PGO 47<br>
+Melmetal VMAX PGO 48<br>
+Dragonite V PGO 49<br>
+Dragonite VSTAR PGO 50<br>
+Ambipom PGO 57<br>
+Bibarel PGO 60<br>
+Lure Module PGO 67
 
 </div></div>
 
@@ -205,13 +339,65 @@ None.
 
 ### Set Highlights
 
-Cramorant LOR 50 Magnezone VSTAR LOR 57 Gengar LOR 66 Radiant Gardevoir LOR 69 Sableye LOR 70 Comfey LOR 79 Hisuian Arcanine LOR 84 Drapion V LOR 118 Giratina V LOR 130 Giratina VSTAR LOR 131 Hisuian Goodra VSTAR LOR 136 Hisuian Zoroark VSTAR LOR 147 Colress's Experiment LOR 155 Damage Pump LOR 156 Fantina LOR 157 Lost Vacuum LOR 162 Mirage Gate LOR 163 Thorton LOR 167 Volo LOR 169
+Cramorant LOR 50<br>
+Magnezone VSTAR LOR 57<br>
+Gengar LOR 66<br>
+Radiant Gardevoir LOR 69<br>
+Sableye LOR 70<br>
+Comfey LOR 79<br>
+Hisuian Arcanine LOR 84<br>
+Drapion V LOR 118<br>
+Giratina V LOR 130<br>
+Giratina VSTAR LOR 131<br>
+Hisuian Goodra VSTAR LOR 136<br>
+Hisuian Zoroark VSTAR LOR 147<br>
+Colress's Experiment LOR 155<br>
+Damage Pump LOR 156<br>
+Fantina LOR 157<br>
+Lost Vacuum LOR 162<br>
+Mirage Gate LOR 163<br>
+Thorton LOR 167<br>
+Volo LOR 169
 
 </div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
-Parasect LOR 5 Beautifly LOR 8 Shiftry LOR 13 Trevenant LOR 17 Chandelure LOR 26 Kingdra LOR 37 Finneon LOR 40 Hisuian Basculegion LOR 45 Kyurem V LOR 48 Kyurem VMAX LOR 49 Raichu LOR 53 Rotom V LOR 58 Eelektrik LOR 60 Clefairy LOR 62 Jynx LOR 68 Banette LOR 73 Hisuian Zoroark LOR 76 Mimikyu LOR 80 Aerodactyl VSTAR LOR 93 Barbaracle LOR 107 Spiritomb LOR 117 Radiant Hisuian Sneasler LOR 123 Radiant Steelix LOR 124 Galarian Stunfisk LOR 127 Hisuian Goodra LOR 134 Porygon2 LOR 141 Greedent LOR 151 Arc Phone LOR 152 Lady LOR 159 Lake Acuity LOR 160 Lost City LOR 161 Miss Fortune Sisters LOR 164 Toolbox LOR 168 Windup Arm LOR 170 Gift Energy LOR 171
+Parasect LOR 5<br>
+Beautifly LOR 8<br>
+Shiftry LOR 13<br>
+Trevenant LOR 17<br>
+Chandelure LOR 26<br>
+Kingdra LOR 37<br>
+Finneon LOR 40<br>
+Hisuian Basculegion LOR 45<br>
+Kyurem V LOR 48<br>
+Kyurem VMAX LOR 49<br>
+Raichu LOR 53<br>
+Rotom V LOR 58<br>
+Eelektrik LOR 60<br>
+Clefairy LOR 62<br>
+Jynx LOR 68<br>
+Banette LOR 73<br>
+Hisuian Zoroark LOR 76<br>
+Mimikyu LOR 80<br>
+Aerodactyl VSTAR LOR 93<br>
+Barbaracle LOR 107<br>
+Spiritomb LOR 117<br>
+Radiant Hisuian Sneasler LOR 123<br>
+Radiant Steelix LOR 124<br>
+Galarian Stunfisk LOR 127<br>
+Hisuian Goodra LOR 134<br>
+Porygon2 LOR 141<br>
+Greedent LOR 151<br>
+Arc Phone LOR 152<br>
+Lady LOR 159<br>
+Lake Acuity LOR 160<br>
+Lost City LOR 161<br>
+Miss Fortune Sisters LOR 164<br>
+Toolbox LOR 168<br>
+Windup Arm LOR 170<br>
+Gift Energy LOR 171
 
 </div></div>
 
@@ -250,13 +436,47 @@ Serena SIT 164
 
 ### Set Highlights
 
-Regieleki V SIT 57 Regieleki VMAX SIT 58 Jynx SIT 62 Kirlia SIT 68 Dragonite SIT 131 Regidrago V SIT 135 Regidrago VSTAR SIT 136 Lugia V SIT 138 Lugia VSTAR SIT 139 Altaria SIT 143 Archeops SIT 147 Earthen Seal Stone SIT 154 Forest Seal Stone SIT 156 Furisode Girl SIT 157 V Guard Energy SIT 169
+Regieleki V SIT 57<br>
+Regieleki VMAX SIT 58<br>
+Jynx SIT 62<br>
+Kirlia SIT 68<br>
+Dragonite SIT 131<br>
+Regidrago V SIT 135<br>
+Regidrago VSTAR SIT 136<br>
+Lugia V SIT 138<br>
+Lugia VSTAR SIT 139<br>
+Altaria SIT 143<br>
+Archeops SIT 147<br>
+Earthen Seal Stone SIT 154<br>
+Forest Seal Stone SIT 156<br>
+Furisode Girl SIT 157<br>
+V Guard Energy SIT 169
 
 </div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
-Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alolan Vulpix V SIT 33 Alolan Vulpix VSTAR SIT 34 Omastar V SIT 35 Relicanth SIT 44 Radiant Alakazam SIT 59 Unown V SIT 65 Mawile VSTAR SIT 71 Sigilyph SIT 75 Radiant Jirachi SIT 120 Klinklang SIT 125 Noivern SIT 133 Ho-oh V SIT 140 Lance SIT 159 Leafy Camo Poncho SIT 16 Unidentified Fossil SIT 165 Worker SIT 167 Regenerative Energy SIT 168
+Ariados SIT 4<br>
+Serperior VSTAR SIT 8<br>
+Radiant Tsareena SIT 16<br>
+Rapidash SIT 22<br>
+Alolan Vulpix V SIT 33<br>
+Alolan Vulpix VSTAR SIT 34<br>
+Omastar V SIT 35<br>
+Relicanth SIT 44<br>
+Radiant Alakazam SIT 59<br>
+Unown V SIT 65<br>
+Mawile VSTAR SIT 71<br>
+Sigilyph SIT 75<br>
+Radiant Jirachi SIT 120<br>
+Klinklang SIT 125<br>
+Noivern SIT 133<br>
+Ho-oh V SIT 140<br>
+Lance SIT 159<br>
+Leafy Camo Poncho SIT 16<br>
+Unidentified Fossil SIT 165<br>
+Worker SIT 167<br>
+Regenerative Energy SIT 168
 
 </div></div>
 
@@ -289,19 +509,65 @@ Ariados SIT 4 Serperior VSTAR SIT 8 Radiant Tsareena SIT 16 Rapidash SIT 22 Alol
 
 ### Staple Cards
 
-Bidoof CRZ 111 Raihan CRZ 140 Switch CRZ 144 Trekking Shoes CRZ 145 Ultra Ball CRZ 146
+Bidoof CRZ 111<br>
+Raihan CRZ 140<br>
+Switch CRZ 144<br>
+Trekking Shoes CRZ 145<br>
+Ultra Ball CRZ 146
 
 </div><div class="jb-col-4">
 
 ### Set Highlights
 
-Leafeon V CRZ 13 Leafeon VSTAR CRZ 14 Radiant Charizard CRZ 20 Mewtwo CRZ 59 Mew V CRZ 60 Zacian VSTAR CRZ 96 Zamazenta CRZ 97 Zamazenta V CRZ 98 Zamazenta VSTAR CRZ 99 Duraludon V CRZ 103 Duraludon VMAX CRZ 104 Radiant Eternatus CRZ 105 Ditto CRZ 107 Stoutland V CRZ 116 Crushing Hammer CRZ 125 Energy Retrieval CRZ 127 Energy Search CRZ 128 Energy Switch CRZ 129 Great Ball CRZ 132 Leon CRZ 134 Lost Vacuum CRZ 135 Rare Candy CRZ 141 Sky Seal Stone CRZ 143
+Leafeon V CRZ 13<br>
+Leafeon VSTAR CRZ 14<br>
+Radiant Charizard CRZ 20<br>
+Mewtwo CRZ 59<br>
+Mew V CRZ 60<br>
+Zacian VSTAR CRZ 96<br>
+Zamazenta CRZ 97<br>
+Zamazenta V CRZ 98<br>
+Zamazenta VSTAR CRZ 99<br>
+Duraludon V CRZ 103<br>
+Duraludon VMAX CRZ 104<br>
+Radiant Eternatus CRZ 105<br>
+Ditto CRZ 107<br>
+Stoutland V CRZ 116<br>
+Crushing Hammer CRZ 125<br>
+Energy Retrieval CRZ 127<br>
+Energy Search CRZ 128<br>
+Energy Switch CRZ 129<br>
+Great Ball CRZ 132<br>
+Leon CRZ 134<br>
+Lost Vacuum CRZ 135<br>
+Rare Candy CRZ 141<br>
+Sky Seal Stone CRZ 143
 
 </div><div class="jb-col-4">
 
 ### Other Noteworthy Cards
 
-Charizard V CRZ 18 Charizard VSTAR CRZ 19 Kyogre CRZ 36 Rotom V CRZ 45 Rotom VSTAR CRZ 46 Radiant Charjabug CRZ 51 Zeraora V CRZ 53 Zeraora VMAX CRZ 54 Zeraora VSTAR CRZ 55 Lunatone CRZ 62 Hoopa CRZ 83 Rayquaza V CRZ 100 Rayquaza VMAX CRZ 101 Rayquaza VMAX CRZ 102 Oranguru CRZ 119 Regigigas V CRZ 113 Regigigas VSTAR CRZ 114 Bea CRZ 123 Nessa CRZ 136 Pokémon Catcher CRZ 138 Rescue Carrier CRZ 142
+Charizard V CRZ 18<br>
+Charizard VSTAR CRZ 19<br>
+Kyogre CRZ 36<br>
+Rotom V CRZ 45<br>
+Rotom VSTAR CRZ 46<br>
+Radiant Charjabug CRZ 51<br>
+Zeraora V CRZ 53<br>
+Zeraora VMAX CRZ 54<br>
+Zeraora VSTAR CRZ 55<br>
+Lunatone CRZ 62<br>
+Hoopa CRZ 83<br>
+Rayquaza V CRZ 100<br>
+Rayquaza VMAX CRZ 101<br>
+Rayquaza VMAX CRZ 102<br>
+Oranguru CRZ 119<br>
+Regigigas V CRZ 113<br>
+Regigigas VSTAR CRZ 114<br>
+Bea CRZ 123<br>
+Nessa CRZ 136<br>
+Pokémon Catcher CRZ 138<br>
+Rescue Carrier CRZ 142
 
 </div></div>
 

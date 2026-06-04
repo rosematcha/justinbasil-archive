@@ -14,7 +14,8 @@ publishDate: 2024-06-14
 
 ## Pivot Tools and Retreat Cost Reducers
 
-Beach Court SVI 167 Rescue Board TEF 159
+Beach Court SVI 167<br>
+Rescue Board TEF 159
 
 </div><div class="jb-col-4">
 
@@ -22,17 +23,24 @@ Beach Court SVI 167 Rescue Board TEF 159
 
 ### Items
 
-Switch Cart ASR 154 Switch SVI 194 Scoop Up Cyclone TWM 162
+Switch Cart ASR 154<br>
+Switch SVI 194<br>
+Scoop Up Cyclone TWM 162
 
 ### Supporters
 
-Thorton LOR 167 Furisode Girl SIT 156 Kieran TWM 154
+Thorton LOR 167<br>
+Furisode Girl SIT 156<br>
+Kieran TWM 154
 
 </div><div class="jb-col-4">
 
 ## Prize Denial
 
-Cheren’s Care BRS 134 Volo LOR 169 Professor Turo’s Scenario PAR 171 Legacy Energy TWM 167
+Cheren’s Care BRS 134<br>
+Volo LOR 169<br>
+Professor Turo’s Scenario PAR 171<br>
+Legacy Energy TWM 167
 
 </div></div>
 

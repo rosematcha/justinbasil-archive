@@ -26,27 +26,49 @@ A deck’s **Draw Engine** consists of the resources it uses to draw into more c
 
 ### Class A
 
-☆ Professor's Research SVI 190 ☆ Iono PAL 185
+☆ Professor's Research SVI 190<br>
+☆ Iono PAL 185
 
 ### Class B
 
-Cynthia’s Ambition BRS 138 Gardenia’s Vigor ASR 143 Colress’s Experiment LOR 155 Serena SIT 164 Judge SVI 176 Mela PAR 167 Professor Sada’s Vitality PAR 170 Carmine TWM 145
+Cynthia’s Ambition BRS 138<br>
+Gardenia’s Vigor ASR 143<br>
+Colress’s Experiment LOR 155<br>
+Serena SIT 164<br>
+Judge SVI 176<br>
+Mela PAR 167<br>
+Professor Sada’s Vitality PAR 170<br>
+Carmine TWM 145
 
 ### Class C
 
-Worker SIT 167 Youngster SVI 198
+Worker SIT 167<br>
+Youngster SVI 198
 
 </div><div class="jb-col-4">
 
 ## Pokémon
 
-Empoleon BRS 37 Liepard BRS 91 Zamazenta V BRS 105 Bibarel BRS 121 Radiant Greninja ASR 46 Wyrdeer ASR 69 Regidrago ASR 118 Rotom V LOR 58 Comfey LOR 79 Kirlia SIT 68 Squawkabilly ex PAL 169 Dudunsparce TEF 129 Drakloak TWM 129
+Empoleon BRS 37<br>
+Liepard BRS 91<br>
+Zamazenta V BRS 105<br>
+Bibarel BRS 121<br>
+Radiant Greninja ASR 46<br>
+Wyrdeer ASR 69<br>
+Regidrago ASR 118<br>
+Rotom V LOR 58<br>
+Comfey LOR 79<br>
+Kirlia SIT 68<br>
+Squawkabilly ex PAL 169<br>
+Dudunsparce TEF 129<br>
+Drakloak TWM 129
 
 </div><div class="jb-col-4">
 
 ## Items
 
-Gutsy Pickaxe ASR 145 Trekking Shoes ASR 156
+Gutsy Pickaxe ASR 145<br>
+Trekking Shoes ASR 156
 
 ## Stadium Cards
 

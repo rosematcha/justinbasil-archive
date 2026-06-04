@@ -16,15 +16,27 @@ publishDate: 2024-06-13
 
 ### Pokémon
 
-Arceus V BRS 122 Arceus VSTAR BRS 123 Magnezone ASR 107 Archeops SIT 147 Baxcalibur PAL 60 Metang TEF 114 Infernape TWM 33
+Arceus V BRS 122<br>
+Arceus VSTAR BRS 123<br>
+Magnezone ASR 107<br>
+Archeops SIT 147<br>
+Baxcalibur PAL 60<br>
+Metang TEF 114<br>
+Infernape TWM 33
 
 ### Supporters
 
-Gardenia’s Vigor ASR 143 Geeta OBF 188 Mela PAR 167 Professor Sada’s Vitality PAR 170
+Gardenia’s Vigor ASR 143<br>
+Geeta OBF 188<br>
+Mela PAR 167<br>
+Professor Sada’s Vitality PAR 170
 
 ### Items and Stadium Cards
 
-Magma Basin BRS 144 Dark Patch ASR 139 Gutsy Pickaxe ASR 145 Mirage Gate LOR 163
+Magma Basin BRS 144<br>
+Dark Patch ASR 139<br>
+Gutsy Pickaxe ASR 145<br>
+Mirage Gate LOR 163
 
 </div><div class="jb-col-4">
 
@@ -32,7 +44,8 @@ Magma Basin BRS 144 Dark Patch ASR 139 Gutsy Pickaxe ASR 145 Mirage Gate LOR 163
 
 ### Items
 
-Energy Switch SVI 173 Exp. Share SVI 174
+Energy Switch SVI 173<br>
+Exp. Share SVI 174
 
 </div><div class="jb-col-4">
 
@@ -40,7 +53,9 @@ Energy Switch SVI 173 Exp. Share SVI 174
 
 ### Items
 
-Energy Loto ASR 140 Energy Search SVI 172 Earthen Vessel PAR 163
+Energy Loto ASR 140<br>
+Energy Search SVI 172<br>
+Earthen Vessel PAR 163
 
 ### Supporters
 

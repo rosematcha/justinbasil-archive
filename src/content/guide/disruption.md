@@ -16,17 +16,23 @@ publishDate: 2024-06-13
 
 ### Supporters
 
-Giacomo PAL 182 Eri TEF 146 Team Star Grunt SVI 195
+Giacomo PAL 182<br>
+Eri TEF 146<br>
+Team Star Grunt SVI 195
 
 ### Items
 
-Lost Vacuum LOR 162 Crushing Hammer SVI 168 Enhanced Hammer TWM 148
+Lost Vacuum LOR 162<br>
+Crushing Hammer SVI 168<br>
+Enhanced Hammer TWM 148
 
 </div><div class="jb-col-3">
 
 ## Ability Lock
 
-Klefki SVI 96 Flutter Mane TEF 78 Iron Thorns ex TWM 77
+Klefki SVI 96<br>
+Flutter Mane TEF 78<br>
+Iron Thorns ex TWM 77
 
 ## Resource Lock
 
@@ -40,17 +46,23 @@ Banette ex SVI 88
 
 ## Hand Disruption / Revelation
 
-Judge FST 235 Roxanne ASR 150 Iono PAF 80 Unfair Stamp TWM 165
+Judge FST 235<br>
+Roxanne ASR 150<br>
+Iono PAF 80<br>
+Unfair Stamp TWM 165
 
 ## Milling / Deck Manipulation
 
-Chi-Yu ex PAL 40 Great Tusk TEF 97
+Chi-Yu ex PAL 40<br>
+Great Tusk TEF 97
 
 </div><div class="jb-col-3">
 
 ## Miscellaneous
 
-Muk BRS 85 Collapsed Stadium BRS 137 Temple of Sinnoh ASR 135
+Muk BRS 85<br>
+Collapsed Stadium BRS 137<br>
+Temple of Sinnoh ASR 135
 
 </div></div>
 

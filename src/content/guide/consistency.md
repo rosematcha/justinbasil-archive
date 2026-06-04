@@ -14,7 +14,9 @@ publishDate: 2024-06-13
 
 ## Consistency
 
-PokéStop PGO 68 Forest Seal Stone SIT 156 Pokégear 3.0 SVI 186
+PokéStop PGO 68<br>
+Forest Seal Stone SIT 156<br>
+Pokégear 3.0 SVI 186
 
 </div><div class="jb-col-3">
 
@@ -22,11 +24,15 @@ PokéStop PGO 68 Forest Seal Stone SIT 156 Pokégear 3.0 SVI 186
 
 ### Pokémon
 
-Lumineon V BRS 40 Arceus VSTAR BRS 123 Oranguru V ASR 133
+Lumineon V BRS 40<br>
+Arceus VSTAR BRS 123<br>
+Oranguru V ASR 133
 
 ### Supporters
 
-Adaman ASR 135 Irida ASR 147 Arven OBF 186
+Adaman ASR 135<br>
+Irida ASR 147<br>
+Arven OBF 186
 
 </div><div class="jb-col-3">
 
@@ -42,7 +48,8 @@ Hisuian Heavy Ball ASR 146
 
 ### Evolution Acceleration
 
-Lugia VSTAR SIT 139 Rare Candy SVI 191
+Lugia VSTAR SIT 139<br>
+Rare Candy SVI 191
 
 </div></div>
 

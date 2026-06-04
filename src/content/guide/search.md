@@ -24,19 +24,30 @@ publishDate: 2024-06-13
 
 ## Items
 
-Feather Ball ASR 141 Hisuian Heavy Ball ASR 146 Capturing Aroma SIT 153 Poké Ball SVI 185 Great Ball PAL 183 Nest Ball PAF 84 Ultra Ball PAF 91 Buddy-Buddy Poffin TEF 144
+Feather Ball ASR 141<br>
+Hisuian Heavy Ball ASR 146<br>
+Capturing Aroma SIT 153<br>
+Poké Ball SVI 185<br>
+Great Ball PAL 183<br>
+Nest Ball PAF 84<br>
+Ultra Ball PAF 91<br>
+Buddy-Buddy Poffin TEF 144
 
 </div><div class="jb-col-3">
 
 ## Supporters
 
-Irida ASR 147 Arezu LOR 153 Furisode Girl SIT 156 Jacq SVI 175
+Irida ASR 147<br>
+Arezu LOR 153<br>
+Furisode Girl SIT 156<br>
+Jacq SVI 175
 
 </div><div class="jb-col-3">
 
 ## Stadium Cards
 
-Mesagoza SVI 178 Artazon PAL 171
+Mesagoza SVI 178<br>
+Artazon PAL 171
 
 </div><div class="jb-col-3"></div></div>
 

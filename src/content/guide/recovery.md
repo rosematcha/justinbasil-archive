@@ -14,7 +14,8 @@ publishDate: 2024-06-13
 
 ## Healing
 
-Radiant Tsareena SIT 16 Oricorio PAL 33
+Radiant Tsareena SIT 16<br>
+Oricorio PAL 33
 
 </div><div class="jb-col-3">
 
@@ -22,11 +23,17 @@ Radiant Tsareena SIT 16 Oricorio PAL 33
 
 ### Supporters
 
-Roseanne’s Backup BRS 148 Team Yell’s Cheer BRS 149 Cyllene ASR 138 Lana’s Aid TWM 155
+Roseanne’s Backup BRS 148<br>
+Team Yell’s Cheer BRS 149<br>
+Cyllene ASR 138<br>
+Lana’s Aid TWM 155
 
 ### Items
 
-Energy Retrieval SVI 171 Pal Pad SVI 182 Super Rod PAL 188 Superior Energy Retrieval PAL 189
+Energy Retrieval SVI 171<br>
+Pal Pad SVI 182<br>
+Super Rod PAL 188<br>
+Superior Energy Retrieval PAL 189
 
 </div><div class="jb-col-3">
 

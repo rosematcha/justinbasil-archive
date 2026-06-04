@@ -24,21 +24,25 @@ publishDate: 2024-06-13
 
 ### Supporter
 
-☆ Serena SIT 164 ☆ Boss's Orders PAL 172
+☆ Serena SIT 164<br>
+☆ Boss's Orders PAL 172
 
 ### Item
 
-Pokémon Catcher SVI 187 Prime Catcher TEF 157
+Pokémon Catcher SVI 187<br>
+Prime Catcher TEF 157
 
 ### Pokémon
 
-Leafeon VSTAR PR-SW 195 Mawile VSTAR SIT 71
+Leafeon VSTAR PR-SW 195<br>
+Mawile VSTAR SIT 71
 
 </div><div class="jb-col-3">
 
 ## Repulsion
 
-Tornadus BRS 126 Iron Bundle PAR 56
+Tornadus BRS 126<br>
+Iron Bundle PAR 56
 
 </div><div class="jb-col-3"></div></div>
 
