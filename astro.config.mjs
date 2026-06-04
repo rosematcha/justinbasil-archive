@@ -2,9 +2,15 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
+import { fileURLToPath } from 'node:url';
 import { unified } from '@astrojs/markdown-remark';
 import remarkDirective from 'remark-directive';
-import remarkJbShortcodes from './src/lib/remark-jb-shortcodes.mjs';
+// Resolve the local plugin to an absolute path. A bare './src/lib/...' relative
+// import can fail to resolve when Vite hot-reloads astro.config (it keeps the id
+// relative and looks in the wrong CWD); an absolute file path always resolves.
+const remarkJbShortcodes = (
+  await import(fileURLToPath(new URL('./src/lib/remark-jb-shortcodes.mjs', import.meta.url)))
+).default;
 
 // Architecture:
 //  - Public site is built as PURE STATIC HTML (fast, robust, deploys anywhere incl.
