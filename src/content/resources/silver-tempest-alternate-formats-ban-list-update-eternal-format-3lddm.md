@@ -17,7 +17,13 @@ Effective immediately, the following card is banned in the Eternal format:
 
 - Poké Drawer + SF 89
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pokedrawerban.webp"><img src="/images/pokedrawerban.webp" alt="pokedrawerban.jpg" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/pokedrawerban.webp
+:::
+
+
 
 Unfortunately, this card’s effect has proved too potent in the format, even with the removal of Green’s Exploration. Alternate searching cards, including Irida and Korrina, also worked to make the card’s two-card effect far more readily available to use than is healthy for the format. As a result of Poké Drawer +’s ban, Green’s Exploration has been removed from the format’s ban list on a probationary basis. After more data has been collected without Poké Drawer + in the format, whether or not Green’s Exploration warrants a ban will be revisited.
 

@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2023-11-02
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Selected Proxies</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" title="Selected Proxies"}
+
+<p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv4">Set List</a> | 
@@ -21,9 +19,10 @@ publishDate: 2023-11-02
           <a href="/proxies/sv4">Selected Proxies</a> | 
           <a class="blink" href="/new-decks/sv4">New Archetypes</a>
     </p>
-  </div>
-</div> 
-</div>
+
+:::
+
+
 
 Below are proxies designed for testing new cards from Paradox Rift for the upcoming Standard format. Not all cards in the set will appear in the selected proxies below. More proxies will be added as they are needed for archetype testing in the live streams on the [JustInBasil YouTube channel](https://www.youtube.com/channel/UCtgOKNZRDs8Atbj7j8VVKGw).
 
@@ -34,5 +33,96 @@ Use the PowerPoint method described in [the article on proxies](/guide/proxies) 
   <h2>Update</h2>
   <p class="jb-deckbox-body">Official English-language images are now available for Scarlet &amp; Violet—Paradox Rift. Click here to view those instead.</p>
 </div></a>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-froslass-ex-par.webp"><img src="/images/en-froslass-ex-par.webp" alt="EN Froslass ex PAR.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pansage-795392.webp"><img src="/images/pansage-795392.webp" alt="Pansage.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/simisage.webp"><img src="/images/simisage.webp" alt="Simisage.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bounsweet.webp"><img src="/images/bounsweet.webp" alt="Bounsweet.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/steenee.webp"><img src="/images/steenee.webp" alt="Steenee.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/toedscool.webp"><img src="/images/toedscool.webp" alt="Toedscool.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/toedscruel.webp"><img src="/images/toedscruel.webp" alt="Toedscruel.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pansear.webp"><img src="/images/pansear.webp" alt="Pansear.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/simisear-0ab6d9.webp"><img src="/images/simisear-0ab6d9.webp" alt="Simisear.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/volcanion.webp"><img src="/images/volcanion.webp" alt="Volcanion.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charcadet-60hp.webp"><img src="/images/charcadet-60hp.webp" alt="Charcadet 60HP.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charcadet-80hp.webp"><img src="/images/charcadet-80hp.webp" alt="Charcadet 80HP.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/armarouge-ex.webp"><img src="/images/armarouge-ex.webp" alt="Armarouge ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/snorunt-4b9eae.webp"><img src="/images/snorunt-4b9eae.webp" alt="Snorunt.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/garchomp-ex-4ac2b3.webp"><img src="/images/garchomp-ex-4ac2b3.webp" alt="Garchomp ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/panpour-69abb0.webp"><img src="/images/panpour-69abb0.webp" alt="Panpour.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/simipour.webp"><img src="/images/simipour.webp" alt="Simipour.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/vanillite.webp"><img src="/images/vanillite.webp" alt="Vanillite.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/vanillish.webp"><img src="/images/vanillish.webp" alt="Vanillish.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/vanilluxe.webp"><img src="/images/vanilluxe.webp" alt="Vanilluxe.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tsareena-ex.webp"><img src="/images/tsareena-ex.webp" alt="Tsareena ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/wimpod.webp"><img src="/images/wimpod.webp" alt="Wimpod.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/golisopod-ex.webp"><img src="/images/golisopod-ex.webp" alt="Golisopod ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mewtwo-ex.webp"><img src="/images/mewtwo-ex.webp" alt="Mewtwo ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tapu-koko.webp"><img src="/images/tapu-koko.webp" alt="Tapu Koko.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/toxel.webp"><img src="/images/toxel.webp" alt="Toxel.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-iron-hands-ex-par.webp"><img src="/images/en-iron-hands-ex-par.webp" alt="EN Iron Hands ex PAR.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/natu.webp"><img src="/images/natu.webp" alt="Natu.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/xatu.webp"><img src="/images/xatu.webp" alt="Xatu.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deoxys-2d0f64.webp"><img src="/images/deoxys-2d0f64.webp" alt="Deoxys.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/espathra.webp"><img src="/images/espathra.webp" alt="Espathra.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gimmighoul-50hp.webp"><img src="/images/gimmighoul-50hp.webp" alt="Gimmighoul 50HP.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gimmighoul-70hp.webp"><img src="/images/gimmighoul-70hp.webp" alt="Gimmighoul 70HP.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/scream-tail-8576a2.webp"><img src="/images/scream-tail-8576a2.webp" alt="Scream Tail.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-valiant-ex.webp"><img src="/images/iron-valiant-ex.webp" alt="Iron Valiant ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/groudon-1dbd85.webp"><img src="/images/groudon-1dbd85.webp" alt="Groudon.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gible-f8d7b4.webp"><img src="/images/gible-f8d7b4.webp" alt="Gible.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gabite-9399d9.webp"><img src="/images/gabite-9399d9.webp" alt="Gabite.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/hoopa-ex.webp"><img src="/images/hoopa-ex.webp" alt="Hoopa ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/toxtricity-ex.webp"><img src="/images/toxtricity-ex.webp" alt="Toxtricity ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/nacli-60hp.webp"><img src="/images/nacli-60hp.webp" alt="Nacli 60HP.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/nacli-70hp.webp"><img src="/images/nacli-70hp.webp" alt="Nacli 70HP.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/naclstack.webp"><img src="/images/naclstack.webp" alt="Naclstack.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/garganacl.webp"><img src="/images/garganacl.webp" alt="Garganacl.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/klawf.webp"><img src="/images/klawf.webp" alt="Klawf.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/flamigo-5f1721.webp"><img src="/images/flamigo-5f1721.webp" alt="Flamigo.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sandy-shocks-ex.webp"><img src="/images/sandy-shocks-ex.webp" alt="Sandy Shocks ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/crobat-94933d.webp"><img src="/images/crobat-94933d.webp" alt="Crobat.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/nickit.webp"><img src="/images/nickit.webp" alt="Nickit.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/thievul.webp"><img src="/images/thievul.webp" alt="Thievul.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/roaring-moon-ex.webp"><img src="/images/roaring-moon-ex.webp" alt="Roaring Moon ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv04-en-126.webp"><img src="/images/sv04-en-126.webp" alt="SV04_EN_126.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/honedge-de2b50.webp"><img src="/images/honedge-de2b50.webp" alt="Honedge.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/doublade.webp"><img src="/images/doublade.webp" alt="Doublade.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/aegislash.webp"><img src="/images/aegislash.webp" alt="Aegislash.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/aegislash-ex-1b40c4.webp"><img src="/images/aegislash-ex-1b40c4.webp" alt="Aegislash ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-skeledirge-ex-par.webp"><img src="/images/en-skeledirge-ex-par.webp" alt="EN Skeledirge ex PAR.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gholdengo-ex-c50ca4.webp"><img src="/images/gholdengo-ex-c50ca4.webp" alt="Gholdengo ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/altaria-ex.webp"><img src="/images/altaria-ex.webp" alt="Altaria ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tatsugiri-6f2e9f.webp"><img src="/images/tatsugiri-6f2e9f.webp" alt="Tatsugiri.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/swablu-5e5ac8.webp"><img src="/images/swablu-5e5ac8.webp" alt="Swablu.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tandemaus-037243.webp"><img src="/images/tandemaus-037243.webp" alt="Tandemaus.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-maushold-ex-par.webp"><img src="/images/en-maushold-ex-par.webp" alt="EN Maushold ex PAR.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bombirdier-ex.webp"><img src="/images/bombirdier-ex.webp" alt="Bombirdier ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-iron-jugulis-par.webp"><img src="/images/en-iron-jugulis-par.webp" alt="EN Iron Jugulis PAR.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/ancient-booster-energy-capsule.webp"><img src="/images/ancient-booster-energy-capsule.webp" alt="Ancient Booster Energy Capsule.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/counter-catcher.webp"><img src="/images/counter-catcher.webp" alt="Counter Catcher.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/defiance-vest.webp"><img src="/images/defiance-vest.webp" alt="Defiance Vest.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/earthen-vessel.webp"><img src="/images/earthen-vessel.webp" alt="Earthen Vessel.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/future-booster-energy-capsule.webp"><img src="/images/future-booster-energy-capsule.webp" alt="Future Booster Energy Capsule.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gorgeous-mantle.webp"><img src="/images/gorgeous-mantle.webp" alt="Gorgeous Mantle.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/larry-f523eb.webp"><img src="/images/larry-f523eb.webp" alt="Larry.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv04-en-167.webp"><img src="/images/sv04-en-167.webp" alt="SV04_EN_167.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/parasol-lady.webp"><img src="/images/parasol-lady.webp" alt="Parasol Lady.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/professor-sada-s-vitality.webp"><img src="/images/professor-sada-s-vitality.webp" alt="Professor Sada's Vitality.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/turos-scenario.webp"><img src="/images/turos-scenario.webp" alt="Turos Scenario.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/rika-6fee41.webp"><img src="/images/rika-6fee41.webp" alt="Rika.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/shauntal.webp"><img src="/images/shauntal.webp" alt="Shauntal.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/snorlax-doll.webp"><img src="/images/snorlax-doll.webp" alt="Snorlax Doll.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tm-blindside.webp"><img src="/images/tm-blindside.webp" alt="TM Blindside.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tm-devolution.webp"><img src="/images/tm-devolution.webp" alt="TM Devolution.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tm-evolution.webp"><img src="/images/tm-evolution.webp" alt="TM Evolution.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv04-en-179.webp"><img src="/images/sv04-en-179.webp" alt="SV04_EN_179.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/techno-radar.webp"><img src="/images/techno-radar.webp" alt="Techno Radar.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tulip.webp"><img src="/images/tulip.webp" alt="Tulip.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/medical-energy.webp"><img src="/images/medical-energy.webp" alt="Medical Energy.png" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/en-froslass-ex-par.webp
+- /images/pansage-795392.webp
+- /images/simisage.webp
+- /images/bounsweet.webp
+- /images/steenee.webp
+- /images/toedscool.webp
+- /images/toedscruel.webp
+- /images/pansear.webp
+- /images/simisear-0ab6d9.webp
+- /images/volcanion.webp
+- /images/charcadet-60hp.webp
+- /images/charcadet-80hp.webp
+- /images/armarouge-ex.webp
+- /images/snorunt-4b9eae.webp
+- /images/garchomp-ex-4ac2b3.webp
+- /images/panpour-69abb0.webp
+- /images/simipour.webp
+- /images/vanillite.webp
+- /images/vanillish.webp
+- /images/vanilluxe.webp
+- /images/tsareena-ex.webp
+- /images/wimpod.webp
+- /images/golisopod-ex.webp
+- /images/mewtwo-ex.webp
+- /images/tapu-koko.webp
+- /images/toxel.webp
+- /images/en-iron-hands-ex-par.webp
+- /images/natu.webp
+- /images/xatu.webp
+- /images/deoxys-2d0f64.webp
+- /images/espathra.webp
+- /images/gimmighoul-50hp.webp
+- /images/gimmighoul-70hp.webp
+- /images/scream-tail-8576a2.webp
+- /images/iron-valiant-ex.webp
+- /images/groudon-1dbd85.webp
+- /images/gible-f8d7b4.webp
+- /images/gabite-9399d9.webp
+- /images/hoopa-ex.webp
+- /images/toxtricity-ex.webp
+- /images/nacli-60hp.webp
+- /images/nacli-70hp.webp
+- /images/naclstack.webp
+- /images/garganacl.webp
+- /images/klawf.webp
+- /images/flamigo-5f1721.webp
+- /images/sandy-shocks-ex.webp
+- /images/crobat-94933d.webp
+- /images/nickit.webp
+- /images/thievul.webp
+- /images/roaring-moon-ex.webp
+- /images/sv04-en-126.webp
+- /images/honedge-de2b50.webp
+- /images/doublade.webp
+- /images/aegislash.webp
+- /images/aegislash-ex-1b40c4.webp
+- /images/en-skeledirge-ex-par.webp
+- /images/gholdengo-ex-c50ca4.webp
+- /images/altaria-ex.webp
+- /images/tatsugiri-6f2e9f.webp
+- /images/swablu-5e5ac8.webp
+- /images/tandemaus-037243.webp
+- /images/en-maushold-ex-par.webp
+- /images/bombirdier-ex.webp
+- /images/en-iron-jugulis-par.webp
+- /images/ancient-booster-energy-capsule.webp
+- /images/counter-catcher.webp
+- /images/defiance-vest.webp
+- /images/earthen-vessel.webp
+- /images/future-booster-energy-capsule.webp
+- /images/gorgeous-mantle.webp
+- /images/larry-f523eb.webp
+- /images/sv04-en-167.webp
+- /images/parasol-lady.webp
+- /images/professor-sada-s-vitality.webp
+- /images/turos-scenario.webp
+- /images/rika-6fee41.webp
+- /images/shauntal.webp
+- /images/snorlax-doll.webp
+- /images/tm-blindside.webp
+- /images/tm-devolution.webp
+- /images/tm-evolution.webp
+- /images/sv04-en-179.webp
+- /images/techno-radar.webp
+- /images/tulip.webp
+- /images/medical-energy.webp
+:::
+
+
 

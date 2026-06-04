@@ -7,14 +7,11 @@ sourceUrl: "https://www.justinbasil.com/translations/sv9"
 showHeading: false
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV6.5 Set Identifier" src="/images/jtg.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">Card Translations</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our ninth Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp" identifier="/images/jtg.webp" idalt="SV6.5 Set Identifier" title="Card Translations"}
+
+<p class="jb-decklist-center">Learn more about our ninth Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv9">Set List</a>  |
@@ -23,9 +20,10 @@ showHeading: false
           <a class="blink" href="/proxies/sv9">Selected Proxies</a> |
           <a class="blink" href="/new-decks/sv9">New Decks</a> 
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below is a running summary of translations for all base-rarity cards currently believed to be part of our Journey Together set. To view secret rare cards, visit the set’s [Visual Set List](/visual/sv9).
 

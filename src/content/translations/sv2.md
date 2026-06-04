@@ -7,13 +7,11 @@ sourceUrl: "https://www.justinbasil.com/translations/sv2"
 showHeading: false
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Card Translations</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
+
+
+:::setcard{bg="/images/sv2-short.webp" logo="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" title="Card Translations"}
+
+<p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv2">Set List</a> | 
@@ -23,9 +21,10 @@ showHeading: false
           <a class="blink" href="/new-decks/sv2">New Archetypes</a> | 
           <a class="blink" href="/proxies/sv2">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below is a running summary of translations for all base-rarity cards currently believed to be part of the Paldea Evolved set. To view secret rare cards, visit the set’s [Visual Set List](/visual/sv2).
 

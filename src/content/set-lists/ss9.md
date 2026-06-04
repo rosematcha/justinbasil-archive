@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2022-06-19
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center" />
-    <h1 class="jb-cta-title">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
+
+
+:::setcard{bg="/images/brilliant-stars.webp" logo="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" identifier="/s/ss9.png" idalt="Brilliant Stars Set Symbol" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/ss9">Set List</a> | 
@@ -21,9 +18,10 @@ publishDate: 2022-06-19
           <a class="blink" href="/highlights/ss9">Set Highlights</a> |
           <a class="blink" href="/new-decks/ss9">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 172 cards (before Secret Rares)</h3>
 

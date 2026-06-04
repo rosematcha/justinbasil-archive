@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2025-03-31
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV6.5 Set Identifier" src="/images/jtg.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our first main Scarlet &amp; Violet set of 2025 by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-journey-together-logo-1.webp" identifier="/images/jtg.webp" idalt="SV6.5 Set Identifier" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about our first main Scarlet &amp; Violet set of 2025 by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv9">Prospective Set List</a>  |
@@ -22,9 +19,10 @@ publishDate: 2025-03-31
           <a class="blink" href="/proxies/sv9">Selected Proxies</a> |
           <a class="blink" href="/new-decks/sv9">New Decks</a> 
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 159 cards (before Secret Rares)</h3>
 

@@ -41,5 +41,27 @@ The 17 cards below have been added to the ban list for the Eternal Format, effec
 
 This ban list update brings the total number of banned cards in the Eternal format to 117. Please be aware that these bans may have a ripple effect on the format and may cause some shifts that will warrant additional bans—or unbans—in the future. Eternal is a new format with an absolutely enormous card pool, and its ban list will need a little while longer to get out of its teething phase.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/blaines-quiz-1-gym-heroes-97.webp"><img src="/images/blaines-quiz-1-gym-heroes-97.webp" alt="blaines-quiz-1-gym-heroes-97.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/blaines-quiz-2-gym-challenge-111.webp"><img src="/images/blaines-quiz-2-gym-challenge-111.webp" alt="blaines-quiz-2-gym-challenge-111.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/blaines-quiz-3-gym-challenge-112.webp"><img src="/images/blaines-quiz-3-gym-challenge-112.webp" alt="blaines-quiz-3-gym-challenge-112.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/chatot-g-supreme-victors-sv-54.webp"><img src="/images/chatot-g-supreme-victors-sv-54.webp" alt="chatot-g-supreme-victors-sv-54.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gambler-fossil-fo-60.webp"><img src="/images/gambler-fossil-fo-60.webp" alt="gambler-fossil-fo-60.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm11-146-garchomp-giratina-gx.webp"><img src="/images/en-us-sm11-146-garchomp-giratina-gx.webp" alt="en_US-SM11-146-garchomp_giratina_gx.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm10-109-honchkrow-gx.webp"><img src="/images/en-us-sm10-109-honchkrow-gx.webp" alt="en_US-SM10-109-honchkrow_gx.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/kecleon-rising-rivals-rr-67.webp"><img src="/images/kecleon-rising-rivals-rr-67.webp" alt="kecleon-rising-rivals-rr-67.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm4-096-lusamine.webp"><img src="/images/en-us-sm4-096-lusamine.webp" alt="en_US-SM4-096-lusamine.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-bw8-046-magnezone.webp"><img src="/images/en-us-bw8-046-magnezone.webp" alt="en_US-BW8-046-magnezone.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mr-fuji-fossil-fo-58.webp"><img src="/images/mr-fuji-fossil-fo-58.webp" alt="mr.-fuji-fossil-fo-58.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/murkrow-secret-wonders-sw-95.webp"><img src="/images/murkrow-secret-wonders-sw-95.webp" alt="murkrow-secret-wonders-sw-95.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/rockets-sneak-attack-team-rocket-tr-16.webp"><img src="/images/rockets-sneak-attack-team-rocket-tr-16.webp" alt="rockets-sneak-attack-team-rocket-tr-16.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-promo-hgss-hgss15-shuckle-0951b9.webp"><img src="/images/en-us-promo-hgss-hgss15-shuckle-0951b9.webp" alt="en_US-Promo_HGSS-HGSS15-shuckle.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/spiritomb-arceus-ar-32.webp"><img src="/images/spiritomb-arceus-ar-32.webp" alt="spiritomb-arceus-ar-32.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/swoop-teleporter-team-rocket-returns-rr-92.webp"><img src="/images/swoop-teleporter-team-rocket-returns-rr-92.webp" alt="swoop-teleporter-team-rocket-returns-rr-92.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/poke-turn-platinum-pl-118.webp"><img src="/images/poke-turn-platinum-pl-118.webp" alt="poke-turn-platinum-pl-118.jpg" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/blaines-quiz-1-gym-heroes-97.webp
+- /images/blaines-quiz-2-gym-challenge-111.webp
+- /images/blaines-quiz-3-gym-challenge-112.webp
+- /images/chatot-g-supreme-victors-sv-54.webp
+- /images/gambler-fossil-fo-60.webp
+- /images/en-us-sm11-146-garchomp-giratina-gx.webp
+- /images/en-us-sm10-109-honchkrow-gx.webp
+- /images/kecleon-rising-rivals-rr-67.webp
+- /images/en-us-sm4-096-lusamine.webp
+- /images/en-us-bw8-046-magnezone.webp
+- /images/mr-fuji-fossil-fo-58.webp
+- /images/murkrow-secret-wonders-sw-95.webp
+- /images/rockets-sneak-attack-team-rocket-tr-16.webp
+- /images/en-us-promo-hgss-hgss15-shuckle-0951b9.webp
+- /images/spiritomb-arceus-ar-32.webp
+- /images/swoop-teleporter-team-rocket-returns-rr-92.webp
+- /images/poke-turn-platinum-pl-118.webp
+:::
+
+
 

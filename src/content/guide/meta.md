@@ -25,18 +25,9 @@ The decks below have proven to be noteworthy contenders in the competitive scene
 ---
 
 </div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1750049203938" id="page-684795e1d9d9e6054ec8c549"><div class="jb-code-container">
-    <div id="marniefroslass" class="deck_box">
-  <p class="jb-deckbox-title">$65</p>
-  <h1>Marnie's Grimmsnarl ex / Froslass</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/marnie-s-grimmsnarl-ex-froslass.webp)
-
-*Illus. PLANETA Mochizuki & Makura Tami*
 
 
+::::deck{id="marniefroslass" name="Marnie's Grimmsnarl ex / Froslass" image="/images/marnie-s-grimmsnarl-ex-froslass.webp" illus="PLANETA Mochizuki & Makura Tami" price="$65" source="Piper Lepine - 6th Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -54,25 +45,46 @@ Evolve Marnie’s Impidimp up into Marnie’s Grimmsnarl ex and use its Punk Up 
 - [ForTheWinTCG](https://www.youtube.com/watch?v=HfCDe5W4Eog)
 - [LittleDarkFury](https://www.youtube.com/watch?v=XXLsdxarEEE)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+3 Marnie's Impidimp DRI 134
+3 Munkidori TWM 95
+2 Froslass TWM 53
+2 Marnie's Grimmsnarl ex DRI 136
+2 Marnie's Morgrem DRI 135
+2 Snorunt TWM 51
+1 Budew PRE 4
+1 Shaymin DRI 10
+Trainer Cards - 36
+4 Arven OBF 186
+4 Iono PAF 80
+3 Professor's Research JTG 155
+2 Boss's Orders PAL 172
+2 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+1 Energy Search SVI 172
+1 Pokégear 3.0 SVI 186
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+1 Ultra Ball PAF 91
+2 Technical Machine: Evolution PAR 178
+1 Rescue Board PRE 126
+1 Technical Machine: Devolution PAR 177
+3 Spikemuth Gym DRI 169
+1 Artazon PAF 76
+Energy - 8
+8 Basic Darkness Energy SVE 7
+```
 
-Source: Piper Lepine - 6th Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>3 Marnie's Impidimp DRI 134</li> <li>3 Munkidori TWM 95</li> <li>2 Froslass TWM 53</li> <li>2 Marnie's Grimmsnarl ex DRI 136</li> <li>2 Marnie's Morgrem DRI 135</li> <li>2 Snorunt TWM 51</li> <li>1 Budew PRE 4</li> <li>1 Shaymin DRI 10</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Arven OBF 186</li> <li>4 Iono PAF 80</li> <li>3 Professor's Research JTG 155</li> <li>2 Boss's Orders PAL 172</li> <li>2 Buddy-Buddy Poffin PRE 101</li> <li>2 Counter Catcher PAR 160</li> <li>2 Nest Ball PAF 84</li> <li>2 Night Stretcher SFA 61</li> <li>2 Rare Candy PAF 89</li> <li>1 Energy Search SVI 172</li> <li>1 Pokégear 3.0 SVI 186</li> <li>1 Secret Box TWM 163</li> <li>1 Super Rod PAL 188</li> <li>1 Ultra Ball PAF 91</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>1 Rescue Board PRE 126</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>3 Spikemuth Gym DRI 169</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>8 Basic Darkness Energy SVE 7</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527422350" id="page-660b4b3363beaa7f85e01b05"><div class="jb-code-container">
-    <div id="ragingboltex" class="deck_box">
-  <p class="jb-deckbox-title">$65</p>
-  <h1>Raging Bolt ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/raging-bolt-ex-4da408.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+
+::::deck{id="ragingboltex" name="Raging Bolt ex" image="/images/raging-bolt-ex-4da408.webp" illus="aky CG Works" price="$65" source="Christian LaBella - 1st Place - Milkaukee Regional Championships"}
 
 ### BASIC STRATEGY
 
@@ -90,25 +102,47 @@ Using a combination of Professor Sada’s Vitality and manual attachments, power
 - [LittleDarkFury](https://www.youtube.com/watch?v=sGQA2D7qQb4&pp=ygUOUmFnaW5nIEJvbHQgZXg%3D)
 - [ZapdosTCG](https://www.youtube.com/watch?v=tNz-NiyJFcc&pp=ygUOUmFnaW5nIEJvbHQgZXg%3D)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 21
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+3 Raging Bolt ex TEF 123
+3 Teal Mask Ogerpon ex TWM 25
+2 Fan Rotom SCR 118
+1 Ditto MEW 132
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+1 Raging Bolt SCR 111
+1 Slither Wing PAR 107
+1 Squawkabilly ex PAL 169
+Trainer Cards - 28
+4 Professor Sada's Vitality PRE 120
+2 Crispin PRE 105
+1 Boss's Orders PAL 172
+1 Judge DRI 167
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+3 Earthen Vessel PRE 106
+2 Night Stretcher SFA 61
+1 Energy Retrieval SVI 171
+1 Pal Pad SVI 182
+1 Prime Catcher PRE 119
+1 Bravery Charm PAL 173
+2 Area Zero Underdepths PRE 94
+1 Jamming Tower TWM 153
+Energy - 11
+5 Basic Grass Energy SVE 1
+3 Basic Fighting Energy SVE 6
+3 Basic Lightning Energy SVE 4
+```
 
-Source: Christian LaBella - 1st Place - Milkaukee Regional Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 21</p><ul> <li>3 Hoothoot SCR 114</li> <li>3 Noctowl SCR 115</li> <li>3 Raging Bolt ex TEF 123</li> <li>3 Teal Mask Ogerpon ex TWM 25</li> <li>2 Fan Rotom SCR 118</li> <li>1 Ditto MEW 132</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Latias ex SSP 76</li> <li>1 Mew ex MEW 151</li> <li>1 Raging Bolt SCR 111</li> <li>1 Slither Wing PAR 107</li> <li>1 Squawkabilly ex PAL 169</li> </ul><p class="jb-decklist-section">Trainer Cards - 28</p><ul> <li>4 Professor Sada's Vitality PRE 120</li> <li>2 Crispin PRE 105</li> <li>1 Boss's Orders PAL 172</li> <li>1 Judge DRI 167</li> <li>4 Nest Ball PAF 84</li> <li>4 Ultra Ball PAF 91</li> <li>3 Earthen Vessel PRE 106</li> <li>2 Night Stretcher SFA 61</li> <li>1 Energy Retrieval SVI 171</li> <li>1 Pal Pad SVI 182</li> <li>1 Prime Catcher PRE 119</li> <li>1 Bravery Charm PAL 173</li> <li>2 Area Zero Underdepths PRE 94</li> <li>1 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>5 Basic Grass Energy SVE 1</li> <li>3 Basic Fighting Energy SVE 6</li> <li>3 Basic Lightning Energy SVE 4</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1750049130689" id="page-665427d20d63f979ceb12440"><div class="jb-code-container">
-    <div id="dragapultex" class="deck_box">
-  <p class="jb-deckbox-title">$65</p>
-  <h1>Dragapult ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/dragapult-ex-998553.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="dragapultex" name="Dragapult ex" image="/images/dragapult-ex-998553.webp" illus="5ban Graphics" price="$65" source="Tord Reklev - 3rd Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -124,25 +158,42 @@ Evolve Dreepy up into Drakloak to take advantage of its Recon Directive Ability 
 - [ZapdosTCG](https://www.youtube.com/watch?v=qaBbU-qHsfw&pp=ygUMRHJhZ2FwdWx0IGV4)
 - [OmniPoke](https://www.youtube.com/watch?v=nEw8X2y6qE4&pp=ygUMRHJhZ2FwdWx0IGV4)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+3 Dragapult ex TWM 130
+2 Budew PRE 4
+2 Munkidori TWM 95
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Hawlucha SVI 118
+1 Latias ex SSP 76
+1 Maractus JTG 8
+Trainer Cards - 31
+4 Boss's Orders PAL 172
+4 Iono PAF 80
+4 Professor's Research JTG 155
+3 Brock's Scouting JTG 146
+2 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball PAF 91
+3 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Jamming Tower TWM 153
+Energy - 9
+4 Luminous Energy PAL 191
+2 Basic Fire Energy SVE 2
+2 Basic Psychic Energy SVE 5
+1 Neo Upper Energy TEF 162
+```
 
-Source: Tord Reklev - 3rd Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Drakloak TWM 129</li> <li>4 Dreepy TWM 128</li> <li>3 Dragapult ex TWM 130</li> <li>2 Budew PRE 4</li> <li>2 Munkidori TWM 95</li> <li>1 Bloodmoon Ursaluna ex TWM 141</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Hawlucha SVI 118</li> <li>1 Latias ex SSP 76</li> <li>1 Maractus JTG 8</li> </ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>4 Boss's Orders PAL 172</li> <li>4 Iono PAF 80</li> <li>4 Professor's Research JTG 155</li> <li>3 Brock's Scouting JTG 146</li> <li>2 Professor Turo's Scenario PRE 121</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Ultra Ball PAF 91</li> <li>3 Counter Catcher PAR 160</li> <li>2 Night Stretcher SFA 61</li> <li>1 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>4 Luminous Energy PAL 191</li> <li>2 Basic Fire Energy SVE 2</li> <li>2 Basic Psychic Energy SVE 5</li> <li>1 Neo Upper Energy TEF 162</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1750049029926" id="page-643411491b5789102e09df49"><div class="jb-code-container">
-    <div id="gardevoirex" class="deck_box">
-  <p class="jb-deckbox-title">$70</p>
-  <h1>Gardevoir ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/gardevoir-ex-afeede.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="gardevoirex" name="Gardevoir ex" image="/images/gardevoir-ex-afeede.webp" illus="5ban Graphics" price="$70" source="Isaiah Bradner - 1st Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -160,25 +211,45 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 - [OmniPoke](https://www.youtube.com/watch?v=JAoU1tR-2Ns)
 - [ZapdosTCG](https://www.youtube.com/watch?v=OR2MHLoQMsw)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Munkidori TWM 95
+3 Ralts SVI 84
+2 Gardevoir ex SVI 86
+2 Kirlia SVI 85
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Scream Tail PAR 86
+Trainer Cards - 34
+4 Iono PAF 80
+4 Professor's Research JTG 155
+2 Arven OBF 186
+1 Boss's Orders PAL 172
+4 Ultra Ball PAF 91
+3 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+1 Counter Catcher PAR 160
+1 Energy Switch SVI 173
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Bravery Charm PAL 173
+1 Technical Machine: Turbo Energize PAR 179
+2 Artazon PAF 76
+Energy - 11
+7 Basic Psychic Energy SVE 5
+4 Basic Darkness Energy SVE 7
+```
 
-Source: Isaiah Bradner - 1st Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>4 Munkidori TWM 95</li> <li>3 Ralts SVI 84</li> <li>2 Gardevoir ex SVI 86</li> <li>2 Kirlia SVI 85</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Lillie's Clefairy ex JTG 56</li> <li>1 Mew ex MEW 151</li> <li>1 Scream Tail PAR 86</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Iono PAF 80</li> <li>4 Professor's Research JTG 155</li> <li>2 Arven OBF 186</li> <li>1 Boss's Orders PAL 172</li> <li>4 Ultra Ball PAF 91</li> <li>3 Earthen Vessel PRE 106</li> <li>2 Nest Ball PAF 84</li> <li>2 Night Stretcher SFA 61</li> <li>2 Rare Candy PAF 89</li> <li>1 Counter Catcher PAR 160</li> <li>1 Energy Switch SVI 173</li> <li>1 Secret Box TWM 163</li> <li>1 Super Rod PAL 188</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>1 Bravery Charm PAL 173</li> <li>1 Technical Machine: Turbo Energize PAR 179</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>7 Basic Psychic Energy SVE 5</li> <li>4 Basic Darkness Energy SVE 7</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1753177350696" id="page-667084ef0d517569f76504e1"><div class="jb-code-container">
-    <div id="dragapultexcharizardex" class="deck_box">
-  <p class="jb-deckbox-title">$60</p>
-  <h1>Charizard ex w/ Dragapult ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/dragzard.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="dragapultexcharizardex" name="Charizard ex w/ Dragapult ex" image="/images/dragzard.webp" illus="5ban Graphics" price="$60" source="Ryan Antonucci - 10th Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -194,25 +265,45 @@ Build your board up by getting a Dreepy and a Pidgey or two into play alongside 
 
 - [LittleDarkFury](https://www.youtube.com/watch?v=_4mOFqHUImU&pp=ygUTRHJhZ2FwdWx0IENoYXJpemFyZA%3D%3D)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Charizard ex OBF 125
+2 Charmander PAF 7
+2 Dragapult ex TWM 130
+1 Budew PRE 4
+1 Charmeleon MEW 5
+1 Fezandipiti ex SFA 38
+1 Hawlucha SVI 118
+1 Munkidori TWM 95
+Trainer Cards - 32
+4 Arven OBF 186
+4 Iono PAF 80
+3 Boss's Orders PAL 172
+2 Professor's Research JTG 155
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+2 Rare Candy PAF 89
+1 Nest Ball PAF 84
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+1 Rescue Board PRE 126
+1 Technical Machine: Evolution PAR 178
+1 Jamming Tower TWM 153
+Energy - 9
+5 Basic Fire Energy SVE 2
+4 Luminous Energy PAL 191
+```
 
-Source: Ryan Antonucci - 10th Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Drakloak TWM 129</li> <li>4 Dreepy TWM 128</li> <li>2 Charizard ex OBF 125</li> <li>2 Charmander PAF 7</li> <li>2 Dragapult ex TWM 130</li> <li>1 Budew PRE 4</li> <li>1 Charmeleon MEW 5</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Hawlucha SVI 118</li> <li>1 Munkidori TWM 95</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>4 Arven OBF 186</li> <li>4 Iono PAF 80</li> <li>3 Boss's Orders PAL 172</li> <li>2 Professor's Research JTG 155</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Ultra Ball PAF 91</li> <li>2 Counter Catcher PAR 160</li> <li>2 Rare Candy PAF 89</li> <li>1 Nest Ball PAF 84</li> <li>1 Night Stretcher SFA 61</li> <li>1 Super Rod PAL 188</li> <li>1 Unfair Stamp TWM 165</li> <li>1 Rescue Board PRE 126</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>5 Basic Fire Energy SVE 2</li> <li>4 Luminous Energy PAL 191</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527442737" id="page-666d18fea3c1f3670c10c2c5"><div class="jb-code-container">
-    <div id="joltik" class="deck_box">
-  <p class="jb-deckbox-title">$80</p>
-  <h1>Joltik Box</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/joltik-a418a3.webp)
-
-*Illus. Nisota Niso*
+::::
 
 
+
+
+::::deck{id="joltik" name="Joltik Box" image="/images/joltik-a418a3.webp" illus="Nisota Niso" price="$80" source="Tyler Mathews - 7th Place - Monterrey Regional Championships"}
 
 ### BASIC STRATEGY
 
@@ -229,25 +320,46 @@ Use Miraidon ex’s Tandem Unit Ability (Once during your turn, you may search y
 
 - [Jaxtyy](https://www.youtube.com/watch?v=OYjGlTqaexI)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+2 Iron Hands ex PAR 70
+2 Joltik SCR 50
+2 Miraidon ex SVI 81
+2 Pikachu ex SSP 57
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Galvantula SFA 2
+1 Iron Leaves ex TEF 25
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Maractus JTG 8
+1 Mew ex MEW 151
+Trainer Cards - 30
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+4 Crispin PRE 105
+1 Iono PAF 80
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+1 Earthen Vessel PRE 106
+1 Prime Catcher PRE 119
+2 Bravery Charm PAL 173
+1 Future Booster Energy Capsule TEF 149
+1 Rescue Board PRE 126
+Energy - 14
+5 Basic Grass Energy SVE 1
+5 Basic Lightning Energy SVE 4
+2 Basic Metal Energy SVE 8
+2 Basic Psychic Energy SVE 5
+```
 
-Source: Tyler Mathews - 7th Place - Monterrey Regional Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>2 Iron Hands ex PAR 70</li> <li>2 Joltik SCR 50</li> <li>2 Miraidon ex SVI 81</li> <li>2 Pikachu ex SSP 57</li> <li>1 Bloodmoon Ursaluna ex TWM 141</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Galvantula SFA 2</li> <li>1 Iron Leaves ex TEF 25</li> <li>1 Latias ex SSP 76</li> <li>1 Lillie's Clefairy ex JTG 56</li> <li>1 Maractus JTG 8</li> <li>1 Mew ex MEW 151</li> </ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>4 Arven OBF 186</li> <li>4 Boss's Orders PAL 172</li> <li>4 Crispin PRE 105</li> <li>1 Iono PAF 80</li> <li>4 Nest Ball PAF 84</li> <li>4 Ultra Ball PAF 91</li> <li>3 Pokégear 3.0 SVI 186</li> <li>1 Earthen Vessel PRE 106</li> <li>1 Prime Catcher PRE 119</li> <li>2 Bravery Charm PAL 173</li> <li>1 Future Booster Energy Capsule TEF 149</li> <li>1 Rescue Board PRE 126</li> </ul><p class="jb-decklist-section">Energy - 14</p><ul> <li>5 Basic Grass Energy SVE 1</li> <li>5 Basic Lightning Energy SVE 4</li> <li>2 Basic Metal Energy SVE 8</li> <li>2 Basic Psychic Energy SVE 5</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527611384" id="page-65a49c6c265f9c55108918da"><div class="jb-code-container">
-    <div id="gholdengoex" class="deck_box">
-  <p class="jb-deckbox-title">$70</p>
-  <h1>Gholdengo ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/gholdengo-ex-0bd195.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+
+::::deck{id="gholdengoex" name="Gholdengo ex" image="/images/gholdengo-ex-0bd195.webp" illus="aky CG Works" price="$70" source="Bodhi Robinson - 9th Place, Atlanta Regional Championships"}
 
 ### Basic Strategy
 
@@ -264,25 +376,50 @@ Evolve Gimmighoul up into Gholdengo ex and Dunsparce into Dudunsparce. Draw card
 - [LittleDarkFury](https://www.youtube.com/watch?pp=ygUMR2hvbGRlbmdvIGV4&v=HFRpbbNO5zw)
 - [Hitmonchanning](https://www.youtube.com/watch?v=1yKlu0MJNxk)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 12
+4 Gholdengo ex PAR 139
+4 Gimmighoul SSP 97
+1 Fezandipiti ex SFA 38
+1 Gholdengo SSP 131
+1 Iron Bundle PAR 56
+1 Munkidori TWM 95
+Trainer Cards - 36
+4 Arven OBF 186
+4 Ciphermaniac's Codebreaking PRE 104
+2 Boss's Orders PAL 172
+1 Iono PAF 80
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Superior Energy Retrieval PAL 189
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+2 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Energy Search Pro SSP 176
+1 Super Rod PAL 188
+1 Switch SVI 194
+2 Technical Machine: Evolution PAR 178
+1 Jamming Tower TWM 153
+Energy - 12
+3 Basic Metal Energy SVE 8
+2 Basic Darkness Energy SVE 7
+2 Basic Lightning Energy SVE 4
+1 Basic Fighting Energy SVE 6
+1 Basic Fire Energy SVE 2
+1 Basic Grass Energy SVE 1
+1 Basic Psychic Energy SVE 5
+1 Basic Water Energy SVE 3
+```
 
-Source: Bodhi Robinson - 9th Place, Atlanta Regional Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>4 Gholdengo ex PAR 139</li> <li>4 Gimmighoul SSP 97</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Gholdengo SSP 131</li> <li>1 Iron Bundle PAR 56</li> <li>1 Munkidori TWM 95</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Arven OBF 186</li> <li>4 Ciphermaniac's Codebreaking PRE 104</li> <li>2 Boss's Orders PAL 172</li> <li>1 Iono PAF 80</li> <li>1 Professor Turo's Scenario PRE 121</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Superior Energy Retrieval PAL 189</li> <li>2 Nest Ball PAF 84</li> <li>2 Night Stretcher SFA 61</li> <li>2 Pokégear 3.0 SVI 186</li> <li>2 Ultra Ball PAF 91</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PRE 106</li> <li>1 Energy Search Pro SSP 176</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>1 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>3 Basic Metal Energy SVE 8</li> <li>2 Basic Darkness Energy SVE 7</li> <li>2 Basic Lightning Energy SVE 4</li> <li>1 Basic Fighting Energy SVE 6</li> <li>1 Basic Fire Energy SVE 2</li> <li>1 Basic Grass Energy SVE 1</li> <li>1 Basic Psychic Energy SVE 5</li> <li>1 Basic Water Energy SVE 3</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1753177464586" id="page-64e35cbfd913c822be07d3d2"><div class="jb-code-container">
-    <div id="charizardex" class="deck_box">
-  <p class="jb-deckbox-title">$45</p>
-  <h1>Charizard ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/charizard-ex-obf.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="charizardex" name="Charizard ex" image="/images/charizard-ex-obf.webp" illus="5ban Graphics" price="$45" source="Yoshihisa Fukui - 4th Place, Champions League Aichi"}
 
 ### BASIC STRATEGY
 
@@ -299,32 +436,54 @@ Build your board up by getting a Pidgey or two into play alongside as many Charm
 - [Tricky Gym](https://www.youtube.com/watch?pp=ygURQ2hhcml6YXJkIGV4IGRlY2s%3D&v=DimDWJtr6aM)
 - [Mellow Magikarp](https://www.youtube.com/watch?pp=ygURQ2hhcml6YXJkIGV4IGRlY2s%3D&v=P0wZ25hRbFY)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 25
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+3 Charmander MEW 4
+2 Charizard ex OBF 125
+2 Fan Rotom SCR 118
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+2 Terapagos ex SCR 128
+1 Charmeleon MEW 5
+1 Dusknoir PRE 37
+1 Duskull PRE 35
+1 Fezandipiti ex SFA 38
+Trainer Cards - 29
+2 Iono PAF 80
+1 Boss's Orders PAL 172
+1 Briar PRE 100
+1 Jacq SVI 175
+1 Professor's Research JTG 155
+4 Buddy-Buddy Poffin PRE 101
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Nest Ball PAF 84
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Prime Catcher PRE 119
+1 Tera Orb SSP 189
+2 Area Zero Underdepths PRE 94
+1 Jamming Tower TWM 153
+Energy - 6
+5 Basic Fire Energy SVE 2
+1 Jet Energy PAL 190
+```
 
-Source: Yoshihisa Fukui - 4th Place, Champions League Aichi
+::::
 
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 25</p><ul> <li>4 Hoothoot SCR 114</li> <li>4 Noctowl SCR 115</li> <li>3 Charmander MEW 4</li> <li>2 Charizard ex OBF 125</li> <li>2 Fan Rotom SCR 118</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey OBF 162</li> <li>2 Terapagos ex SCR 128</li> <li>1 Charmeleon MEW 5</li> <li>1 Dusknoir PRE 37</li> <li>1 Duskull PRE 35</li> <li>1 Fezandipiti ex SFA 38</li> </ul><p class="jb-decklist-section">Trainer Cards - 29</p><ul> <li>2 Iono PAF 80</li> <li>1 Boss's Orders PAL 172</li> <li>1 Briar PRE 100</li> <li>1 Jacq SVI 175</li> <li>1 Professor's Research JTG 155</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Nest Ball PAF 84</li> <li>2 Super Rod PAL 188</li> <li>1 Counter Catcher PAR 160</li> <li>1 Prime Catcher PRE 119</li> <li>1 Tera Orb SSP 189</li> <li>2 Area Zero Underdepths PRE 94</li> <li>1 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 6</p><ul> <li>5 Basic Fire Energy SVE 2</li> <li>1 Jet Energy PAL 190</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527514571" id="page-62cd7d7222d91866fad738b6">
+
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527514571" id="page-62cd7d7222d91866fad738b6">
 
 <h1 class="jb-center">&nbsp;Recently Competitive / Up and Coming Archetypes</h1>
 
 The decks that appear below may have recently appeared in the top 8 but have since fallen out of it. Alternatively, these may be up and coming decks that have neared the top 8 recently, but have failed to actually make it in. Either way, these decks may lack the competitive edge necessary to fight off the current meta—or they may just be taking a quick nap and will come out swinging after a short rest.
 
 </div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745204992499" id="page-629cc10b694dba7f69afb5f6"><div class="jb-code-container">
-    <div id="dragapultexgholdengoex" class="deck_box">
-  <p class="jb-deckbox-title">$70</p>
-  <h1>Gholdengo ex w/ Dragapult ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/gholdengo-dragapult.webp)
-
-*Illus. Shigenori Negishi & Jerky*
 
 
+::::deck{id="dragapultexgholdengoex" name="Gholdengo ex w/ Dragapult ex" image="/images/gholdengo-dragapult.webp" illus="Shigenori Negishi & Jerky" price="$70" source="Caleb Rogerson - 4th Place, Monterrey Regional Championships"}
 
 ### BASIC STRATEGY
 
@@ -341,25 +500,52 @@ Evolve Gimmighoul up into Gholdengo ex and Dreepy into Drakloak. Draw cards with
 
 - [AzulGG](https://www.youtube.com/watch?v=atkeHjsLr3g)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Gholdengo ex PAR 139
+4 Gimmighoul SSP 97
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+1 Dragapult ex TWM 130
+1 Fezandipiti ex SFA 38
+1 Genesect SFA 40
+1 Munkidori TWM 95
+Trainer Cards - 33
+4 Arven OBF 186
+3 Ciphermaniac's Codebreaking PRE 104
+2 Boss's Orders PAL 172
+1 Iono PAF 80
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Superior Energy Retrieval PAL 189
+2 Night Stretcher SFA 61
+2 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Energy Search Pro SSP 176
+1 Nest Ball PAF 84
+1 Pokégear 3.0 SVI 186
+1 Switch SVI 194
+2 Technical Machine: Evolution PAR 178
+1 Vengeful Punch OBF 197
+1 Artazon PAF 76
+Energy - 11
+3 Basic Metal Energy SVE 8
+2 Basic Darkness Energy SVE 7
+1 Basic Fighting Energy SVE 6
+1 Basic Fire Energy SVE 2
+1 Basic Grass Energy SVE 1
+1 Basic Lightning Energy SVE 4
+1 Basic Psychic Energy SVE 5
+1 Basic Water Energy SVE 3
+```
 
-Source: Caleb Rogerson - 4th Place, Monterrey Regional Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Gholdengo ex PAR 139</li> <li>4 Gimmighoul SSP 97</li> <li>2 Drakloak TWM 129</li> <li>2 Dreepy TWM 128</li> <li>1 Dragapult ex TWM 130</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Genesect SFA 40</li> <li>1 Munkidori TWM 95</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Arven OBF 186</li> <li>3 Ciphermaniac's Codebreaking PRE 104</li> <li>2 Boss's Orders PAL 172</li> <li>1 Iono PAF 80</li> <li>1 Professor Turo's Scenario PRE 121</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Superior Energy Retrieval PAL 189</li> <li>2 Night Stretcher SFA 61</li> <li>2 Ultra Ball PAF 91</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PRE 106</li> <li>1 Energy Search Pro SSP 176</li> <li>1 Nest Ball PAF 84</li> <li>1 Pokégear 3.0 SVI 186</li> <li>1 Switch SVI 194</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>1 Vengeful Punch OBF 197</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>3 Basic Metal Energy SVE 8</li> <li>2 Basic Darkness Energy SVE 7</li> <li>1 Basic Fighting Energy SVE 6</li> <li>1 Basic Fire Energy SVE 2</li> <li>1 Basic Grass Energy SVE 1</li> <li>1 Basic Lightning Energy SVE 4</li> <li>1 Basic Psychic Energy SVE 5</li> <li>1 Basic Water Energy SVE 3</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527569782" id="page-62b0694714ae6e7398656cf6"><div class="jb-code-container">
-    <div id="flareonex" class="deck_box">
-  <p class="jb-deckbox-title">$90</p>
-  <h1>Flareon ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/flareon-ex-3689f4.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="flareonex" name="Flareon ex" image="/images/flareon-ex-3689f4.webp" illus="5ban Graphics" price="$90" source="Michael Bio - 11th Place, Melbourne Regional Championships"}
 
 ### Basic Strategy
 
@@ -376,25 +562,52 @@ Evolve Eevee and Eevee ex up into Flareon ex or Sylveon ex as needed. Attack wit
 
 - [Celio’s Network](https://www.youtube.com/watch?v=q8W20fy_2mU)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 23
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+2 Fan Rotom SCR 118
+2 Flareon ex PRE 14
+2 Sylveon ex SSP 86
+1 Eevee ex PRE 75
+1 Eevee MEW 133
+1 Eevee SSP 143
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Terapagos ex SCR 128
+1 Umbreon ex PRE 60
+Trainer Cards - 28
+3 Crispin PRE 105
+2 Boss's Orders PAL 172
+2 Iono PAF 80
+1 Briar PRE 100
+1 Brock's Scouting JTG 146
+1 Professor Turo's Scenario PRE 121
+4 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Tera Orb SSP 189
+1 Sparkling Crystal PRE 129
+2 Area Zero Underdepths PRE 94
+Energy - 9
+3 Basic Lightning Energy SVE 4
+2 Basic Fire Energy SVE 2
+2 Basic Psychic Energy SVE 5
+2 Basic Water Energy SVE 3
+```
 
-Source: Michael Bio - 11th Place, Melbourne Regional Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 23</p><ul> <li>4 Hoothoot SCR 114</li> <li>4 Noctowl SCR 115</li> <li>2 Fan Rotom SCR 118</li> <li>2 Flareon ex PRE 14</li> <li>2 Sylveon ex SSP 86</li> <li>1 Eevee ex PRE 75</li> <li>1 Eevee MEW 133</li> <li>1 Eevee SSP 143</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Latias ex SSP 76</li> <li>1 Lillie's Clefairy ex JTG 56</li> <li>1 Mew ex MEW 151</li> <li>1 Terapagos ex SCR 128</li> <li>1 Umbreon ex PRE 60</li> </ul><p class="jb-decklist-section">Trainer Cards - 28</p><ul> <li>3 Crispin PRE 105</li> <li>2 Boss's Orders PAL 172</li> <li>2 Iono PAF 80</li> <li>1 Briar PRE 100</li> <li>1 Brock's Scouting JTG 146</li> <li>1 Professor Turo's Scenario PRE 121</li> <li>4 Nest Ball PAF 84</li> <li>3 Ultra Ball PAF 91</li> <li>2 Buddy-Buddy Poffin PRE 101</li> <li>2 Night Stretcher SFA 61</li> <li>1 Counter Catcher PAR 160</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>1 Tera Orb SSP 189</li> <li>1 Sparkling Crystal PRE 129</li> <li>2 Area Zero Underdepths PRE 94</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>3 Basic Lightning Energy SVE 4</li> <li>2 Basic Fire Energy SVE 2</li> <li>2 Basic Psychic Energy SVE 5</li> <li>2 Basic Water Energy SVE 3</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749588676134" id="page-6254302c54391209aa082dc6"><div class="jb-code-container">
-    <div id="whimsicottvstar" class="deck_box">
-  <p class="jb-deckbox-title">$50</p>
-  <h1>Ethan's Typhlosion</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/ethan-s-typhlosion.webp)
-
-*Illus. danciao*
+::::
 
 
+
+
+::::deck{id="whimsicottvstar" name="Ethan's Typhlosion" image="/images/ethan-s-typhlosion.webp" illus="danciao" price="$50" source="Generic List"}
 
 ### BASIC STRATEGY
 
@@ -412,25 +625,47 @@ Coming soon.
 - [LittleDarkFury](https://www.youtube.com/watch?v=GAv42xb2qiY)
 - [ZapdosTCG](https://youtu.be/aDbiQr0kCNk?feature=shared&t=164)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 22
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+4 Ethan's Typhlosion DRI 34
+2 Dudunsparce TEF 129
+2 Dunsparce PAL 156
+2 Victini SSP 21
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Shaymin DRI 10
+Trainer Cards - 33
+4 Ethan's Adventure DRI 165
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Iono PAF 80
+1 Lana's Aid TWM 155
+1 Professor's Research JTG 155
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Nest Ball PAF 84
+1 Rare Candy PAF 89
+1 Super Rod PAL 188
+1 Maximum Belt PRE 117
+1 Rescue Board PRE 126
+1 Technical Machine: Evolution PAR 178
+2 Artazon PAF 76
+Energy - 5
+5 Basic Fire Energy SVE 2
+```
 
-Source: Generic List
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 22</p><ul> <li>4 Ethan's Cyndaquil DRI 32</li> <li>4 Ethan's Quilava DRI 33</li> <li>4 Ethan's Typhlosion DRI 34</li> <li>2 Dudunsparce TEF 129</li> <li>2 Dunsparce PAL 156</li> <li>2 Victini SSP 21</li> <li>1 Budew PRE 4</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Iron Bundle PAR 56</li> <li>1 Shaymin DRI 10</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Ethan's Adventure DRI 165</li> <li>3 Arven OBF 186</li> <li>2 Boss's Orders PAL 172</li> <li>2 Iono PAF 80</li> <li>1 Lana's Aid TWM 155</li> <li>1 Professor's Research JTG 155</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Ultra Ball PAF 91</li> <li>2 Night Stretcher SFA 61</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PRE 106</li> <li>1 Nest Ball PAF 84</li> <li>1 Rare Candy PAF 89</li> <li>1 Super Rod PAL 188</li> <li>1 Maximum Belt PRE 117</li> <li>1 Rescue Board PRE 126</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 5</p><ul> <li>5 Basic Fire Energy SVE 2</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1743996358962" id="page-65a49ade9f408c4e4df5461d"><div class="jb-code-container">
-    <div id="archaludonex" class="deck_box">
-  <p class="jb-deckbox-title">$55</p>
-  <h1>Archaludon ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/archaludon-ex-377447.webp)
-
-*Illus. 5ban Graphics & PLANETA Mochizuki*
+::::
 
 
+
+
+::::deck{id="archaludonex" name="Archaludon ex" image="/images/archaludon-ex-377447.webp" illus="5ban Graphics & PLANETA Mochizuki" price="$55" source="Joshyl - 5th Place, Tournament of Doom “Regional” Championships V"}
 
 ### BASIC STRATEGY
 
@@ -447,25 +682,42 @@ Use Archaludon ex’s Assemble Alloy Ability which lets you attach 2 Metal Energ
 - [AzulGG](https://www.youtube.com/watch?v=99B3g92CA2M)
 - [LittleDarkFury](https://www.youtube.com/watch?v=g2Qq3zvU1EU)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Duraludon SCR 106
+3 Archaludon ex SSP 130
+3 Dunsparce PAL 156
+2 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+1 Relicanth TEF 84
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+Trainer Cards - 35
+4 Professor's Research JTG 155
+3 Boss's Orders PAL 172
+2 Iono PAF 80
+2 Professor Turo's Scenario PRE 121
+2 Black Belt's Training JTG 145
+4 Ultra Ball PAF 91
+4 Night Stretcher SFA 61
+4 Nest Ball PAF 84
+3 Earthen Vessel PRE 106
+2 Pokégear 3.0 SVI 186
+1 Counter Catcher PAR 160
+1 Pal Pad SVI 182
+1 Vengeful Punch OBF 197
+1 Maximum Belt PRE 117
+1 Artazon PAF 76
+Energy - 9
+9 Basic Metal Energy SVE 8
+```
 
-Source: Joshyl - 5th Place, Tournament of Doom “Regional” Championships V
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Duraludon SCR 106</li> <li>3 Archaludon ex SSP 130</li> <li>3 Dunsparce PAL 156</li> <li>2 Dudunsparce TEF 129</li> <li>1 Dudunsparce ex JTG 121</li> <li>1 Relicanth TEF 84</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Iron Bundle PAR 56</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Professor's Research JTG 155</li> <li>3 Boss's Orders PAL 172</li> <li>2 Iono PAF 80</li> <li>2 Professor Turo's Scenario PRE 121</li> <li>2 Black Belt's Training JTG 145</li> <li>4 Ultra Ball PAF 91</li> <li>4 Night Stretcher SFA 61</li> <li>4 Nest Ball PAF 84</li> <li>3 Earthen Vessel PRE 106</li> <li>2 Pokégear 3.0 SVI 186</li> <li>1 Counter Catcher PAR 160</li> <li>1 Pal Pad SVI 182</li> <li>1 Vengeful Punch OBF 197</li> <li>1 Maximum Belt PRE 117</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>9 Basic Metal Energy SVE 8</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1750049426105" id="page-64905cfb77c8e20738fc8c5e"><div class="jb-code-container">
-    <div id="nszoroarkex" class="deck_box">
-  <p class="jb-deckbox-title">$70</p>
-  <h1>N's Zoroark ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/n-s-zoroark-ex-58d5cc.webp)
-
-*Illus. takuyoa*
+::::
 
 
+
+
+::::deck{id="nszoroarkex" name="N's Zoroark ex" image="/images/n-s-zoroark-ex-58d5cc.webp" illus="takuyoa" price="$70" source="Cameron Shenoy - 7th Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -483,25 +735,47 @@ Evolve N’s Zorua into N’s Zoroark ex to take advantage of its Trade Ability,
 - [Tricky Gym](https://www.youtube.com/watch?v=xkP_Xrkbq3g)
 - [LitteDarkFury](https://www.youtube.com/watch?v=nDqCglgT_E8)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 N's Zoroark ex JTG 98
+4 N's Zorua JTG 97
+2 Munkidori TWM 95
+2 N's Reshiram JTG 116
+1 Bloodmoon Ursaluna ex TWM 141
+1 Cleffa OBF 80
+1 Fezandipiti ex SFA 38
+1 N's Darmanitan JTG 27
+1 N's Darumaka JTG 26
+Trainer Cards - 36
+4 Cyrano SSP 170
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+2 Ciphermaniac's Codebreaking PRE 104
+2 Professor Turo's Scenario PRE 121
+1 Black Belt's Training JTG 145
+4 Buddy-Buddy Poffin PRE 101
+3 N's PP Up JTG 153
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Energy Switch SVI 173
+1 Pal Pad SVI 182
+1 Secret Box TWM 163
+2 Rigid Band MEW 165
+1 Defiance Band SVI 169
+1 Technical Machine: Devolution PAR 177
+2 Artazon PAF 76
+2 N's Castle JTG 152
+Energy - 7
+6 Basic Darkness Energy SVE 7
+1 Reversal Energy PAL 192
+```
 
-Source: Cameron Shenoy - 7th Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 N's Zoroark ex JTG 98</li> <li>4 N's Zorua JTG 97</li> <li>2 Munkidori TWM 95</li> <li>2 N's Reshiram JTG 116</li> <li>1 Bloodmoon Ursaluna ex TWM 141</li> <li>1 Cleffa OBF 80</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 N's Darmanitan JTG 27</li> <li>1 N's Darumaka JTG 26</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Cyrano SSP 170</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>2 Ciphermaniac's Codebreaking PRE 104</li> <li>2 Professor Turo's Scenario PRE 121</li> <li>1 Black Belt's Training JTG 145</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>3 N's PP Up JTG 153</li> <li>2 Counter Catcher PAR 160</li> <li>2 Night Stretcher SFA 61</li> <li>1 Energy Switch SVI 173</li> <li>1 Pal Pad SVI 182</li> <li>1 Secret Box TWM 163</li> <li>2 Rigid Band MEW 165</li> <li>1 Defiance Band SVI 169</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>2 Artazon PAF 76</li> <li>2 N's Castle JTG 152</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>6 Basic Darkness Energy SVE 7</li> <li>1 Reversal Energy PAL 192</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527747710" id="page-673a468e357e9a7a7f9f01d5"><div class="jb-code-container">
-    <div id="hydreigonex" class="deck_box">
-  <p class="jb-deckbox-title">$60</p>
-  <h1>Hydreigon ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/hydreigon-ex-06303f.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="hydreigonex" name="Hydreigon ex" image="/images/hydreigon-ex-06303f.webp" illus="5ban Graphics" price="$60" source="yakumaru72 - 1st Place, TOURNAMENT OF DOOM! Star...."}
 
 ### BASIC STRATEGY
 
@@ -518,25 +792,51 @@ Set up your Deino to evolve up into Hydreigon ex via Rare Candy. Attack with Hyd
 - [LittleDarkFury](https://www.youtube.com/watch?v=OVPgVCbpEoI)
 - [Popsicle Knight](https://www.youtube.com/watch?v=-sptgcmJcpQ)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 21
+3 Deino SSP 117
+2 Budew PRE 4
+2 Hydreigon ex SSP 119
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+2 Zweilous PAL 139
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Klefki SVI 96
+1 Lillie's Clefairy ex JTG 56
+1 Maractus JTG 8
+1 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+1 Pidgeotto MEW 17
+Trainer Cards - 31
+4 Iono PAF 80
+3 Arven OBF 186
+2 Jacq SVI 175
+1 Boss's Orders PAL 172
+1 Brock's Scouting JTG 146
+1 Crispin PRE 105
+4 Buddy-Buddy Poffin PRE 101
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Nest Ball PAF 84
+2 Counter Gain SSP 169
+1 Rescue Board PRE 126
+1 Artazon PAF 76
+Energy - 8
+3 Basic Darkness Energy SVE 7
+2 Basic Metal Energy SVE 8
+2 Basic Psychic Energy SVE 5
+1 Neo Upper Energy TEF 162
+```
 
-Source: yakumaru72 - 1st Place, TOURNAMENT OF DOOM! Star....
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 21</p><ul> <li>3 Deino SSP 117</li> <li>2 Budew PRE 4</li> <li>2 Hydreigon ex SSP 119</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey OBF 162</li> <li>2 Zweilous PAL 139</li> <li>1 Bloodmoon Ursaluna ex TWM 141</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Klefki SVI 96</li> <li>1 Lillie's Clefairy ex JTG 56</li> <li>1 Maractus JTG 8</li> <li>1 Munkidori TWM 95<p></p> </li><li>1 Pecharunt ex SFA 39<p></p> </li><li>1 Pidgeotto MEW 17<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>4 Iono PAF 80</li> <li>3 Arven OBF 186</li> <li>2 Jacq SVI 175</li> <li>1 Boss's Orders PAL 172</li> <li>1 Brock's Scouting JTG 146</li> <li>1 Crispin PRE 105</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>3 Rare Candy PAF 89</li> <li>3 Ultra Ball PAF 91</li> <li>2 Counter Catcher PAR 160</li> <li>2 Night Stretcher SFA 61</li> <li>1 Nest Ball PAF 84</li> <li>2 Counter Gain SSP 169</li> <li>1 Rescue Board PRE 126</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>3 Basic Darkness Energy SVE 7</li> <li>2 Basic Metal Energy SVE 8</li> <li>2 Basic Psychic Energy SVE 5</li> <li>1 Neo Upper Energy TEF 162</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1751881183184" id="page-66a72f7be863915d70a6c1cc"><div class="jb-code-container">
-    <div id="ironthornsex" class="deck_box">
-  <p class="jb-deckbox-title">$35</p>
-  <h1>Iron Thorns ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/iron-thorns-ex-4bc577.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+
+::::deck{id="ironthornsex" name="Iron Thorns ex" image="/images/iron-thorns-ex-4bc577.webp" illus="PLANETA Mochizuki" price="$35" source="Aidan T - 1st Place, Challenge of Doom! Last One of the Season"}
 
 ### BASIC STRATEGY
 
@@ -552,25 +852,43 @@ Slam down Iron Thorns ex and use its Initialization Ability to cripple your oppo
 - [ForTheWinTCG](https://www.youtube.com/watch?v=zb_sJVZ3HVY)
 - [LittleDarkFury](https://www.youtube.com/watch?v=h3yGAOopxbs)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 10
+4 Iron Thorns ex TWM 77
+3 Crustle DRI 12
+3 Dwebble DRI 11
+Trainer Cards - 38
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+4 Iono PAF 80
+3 Crispin PRE 105
+3 Professor's Research JTG 155
+2 Professor Turo's Scenario PRE 121
+1 Colress's Tenacity SFA 57
+4 Pokégear 3.0 SVI 186
+2 Earthen Vessel PRE 106
+1 Buddy-Buddy Poffin PRE 101
+1 Nest Ball PAF 84
+1 Poké Vital A SFA 62
+1 Super Potion JTG 158
+1 Super Rod PAL 188
+1 Techno Radar PRE 130
+2 Future Booster Energy Capsule TEF 149
+2 Luxurious Cape PAR 166
+1 Town Store OBF 196
+Energy - 12
+4 Basic Grass Energy SVE 1
+4 Basic Lightning Energy SVE 4
+3 Mist Energy TEF 161
+1 Jet Energy PAL 190
+```
 
-Source: Aidan T - 1st Place, Challenge of Doom! Last One of the Season
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 10</p><ul> <li>4 Iron Thorns ex TWM 77</li> <li>3 Crustle DRI 12</li> <li>3 Dwebble DRI 11</li> </ul><p class="jb-decklist-section">Trainer Cards - 38</p><ul> <li>4 Arven OBF 186</li> <li>4 Boss's Orders PAL 172</li> <li>4 Iono PAF 80</li> <li>3 Crispin PRE 105</li> <li>3 Professor's Research JTG 155</li> <li>2 Professor Turo's Scenario PRE 121</li> <li>1 Colress's Tenacity SFA 57</li> <li>4 Pokégear 3.0 SVI 186</li> <li>2 Earthen Vessel PRE 106</li> <li>1 Buddy-Buddy Poffin PRE 101</li> <li>1 Nest Ball PAF 84</li> <li>1 Poké Vital A SFA 62</li> <li>1 Super Potion JTG 158</li> <li>1 Super Rod PAL 188</li> <li>1 Techno Radar PRE 130</li> <li>2 Future Booster Energy Capsule TEF 149</li> <li>2 Luxurious Cape PAR 166</li> <li>1 Town Store OBF 196</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>4 Basic Grass Energy SVE 1</li> <li>4 Basic Lightning Energy SVE 4</li> <li>3 Mist Energy TEF 161</li> <li>1 Jet Energy PAL 190</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749589196700" id="page-63287b56ce33b1043ec4da7b"><div class="jb-code-container">
-    <div id="ethanshoohexarmarouge" class="deck_box">
-  <p class="jb-deckbox-title">$65</p>
-  <h1>Ethan's Ho-Oh ex / Armarouge</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/ethan-s-ho-oh-ex-armarouge.webp)
-
-*Illus. aky CG Works & AKIRA EGAWA*
+::::
 
 
+
+
+::::deck{id="ethanshoohexarmarouge" name="Ethan's Ho-Oh ex / Armarouge" image="/images/ethan-s-ho-oh-ex-armarouge.webp" illus="aky CG Works & AKIRA EGAWA" price="$65" source="Generic List"}
 
 ### Basic Strategy
 
@@ -585,25 +903,49 @@ Coming soon.
 
 - [LittleDarkFury](https://www.youtube.com/watch?v=NjNsCrmF2tQ)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+3 Armarouge SVI 41
+3 Charcadet SSP 32
+3 Ethan's Ho-Oh ex DRI 39
+1 Black Kyurem ex SSP 48
+1 Cleffa OBF 80
+1 Durant ex SSP 4
+1 Fezandipiti ex SFA 38
+1 Hearthflame Mask Ogerpon ex TWM 40
+1 Iron Hands ex PAR 70
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Squawkabilly ex PAL 169
+1 Wellspring Mask Ogerpon ex TWM 64
+Trainer Cards - 30
+4 Iono PAF 80
+4 Professor's Research JTG 155
+2 Boss's Orders PAL 172
+1 Brock's Scouting JTG 146
+1 Kieran PRE 113
+4 Nest Ball PAF 84
+3 Night Stretcher SFA 61
+3 Ultra Ball PAF 91
+2 Earthen Vessel PRE 106
+1 Super Rod PAL 188
+1 Superior Energy Retrieval PAL 189
+1 Bravery Charm PAL 173
+2 Area Zero Underdepths PRE 94
+1 Jamming Tower TWM 153
+Energy - 10
+7 Basic Fire Energy SVE 2
+2 Luminous Energy PAL 191
+1 Legacy Energy TWM 167
+```
 
-Source: Generic List
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>3 Armarouge SVI 41</li> <li>3 Charcadet SSP 32</li> <li>3 Ethan's Ho-Oh ex DRI 39</li> <li>1 Black Kyurem ex SSP 48</li> <li>1 Cleffa OBF 80</li> <li>1 Durant ex SSP 4</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Hearthflame Mask Ogerpon ex TWM 40</li> <li>1 Iron Hands ex PAR 70</li> <li>1 Latias ex SSP 76</li> <li>1 Lillie's Clefairy ex JTG 56</li> <li>1 Mew ex MEW 151<p></p> </li><li>1 Squawkabilly ex PAL 169<p></p> </li><li>1 Wellspring Mask Ogerpon ex TWM 64<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>4 Iono PAF 80</li> <li>4 Professor's Research JTG 155</li> <li>2 Boss's Orders PAL 172</li> <li>1 Brock's Scouting JTG 146</li> <li>1 Kieran PRE 113</li> <li>4 Nest Ball PAF 84</li> <li>3 Night Stretcher SFA 61</li> <li>3 Ultra Ball PAF 91</li> <li>2 Earthen Vessel PRE 106</li> <li>1 Super Rod PAL 188</li> <li>1 Superior Energy Retrieval PAL 189</li> <li>1 Bravery Charm PAL 173</li> <li>2 Area Zero Underdepths PRE 94</li> <li>1 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>7 Basic Fire Energy SVE 2</li> <li>2 Luminous Energy PAL 191</li> <li>1 Legacy Energy TWM 167</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1750049667378" id="page-652c9af08234a550d862c6e0"><div class="jb-code-container">
-    <div id="cynthiasgarchompex" class="deck_box">
-  <p class="jb-deckbox-title">$65</p>
-  <h1>Cynthia's Garchomp ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/cynthia-s-garchomp-301902.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="cynthiasgarchompex" name="Cynthia's Garchomp ex" image="/images/cynthia-s-garchomp-301902.webp" illus="5ban Graphics" price="$65" source="Fabien Pujol - 60th Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -622,25 +964,44 @@ Coming soon.
 - [LittleDarkFury](https://www.youtube.com/watch?v=pF2u_wfwk2I&pp=ygUaQ3ludGhpYSdzIEdhcmNob21wIGV4IGRlY2vSBwkJ3gkBhyohjO8%3D)
 - [ZapdosTCG](https://youtu.be/MlbQprJUjJ4?feature=shared&t=158)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Cynthia's Gabite DRI 103
+4 Cynthia's Gible DRI 102
+3 Cynthia's Garchomp ex DRI 104
+2 Cynthia's Roselia DRI 7
+2 Cynthia's Roserade DRI 8
+2 Munkidori TWM 95
+1 Budew PRE 4
+1 Cynthia's Spiritomb DRI 129
+Trainer Cards - 32
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+2 Crispin PRE 105
+2 Team Rocket's Petrel DRI 176
+3 Buddy-Buddy Poffin PRE 101
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+4 Cynthia's Power Weight DRI 162
+2 Technical Machine: Evolution PAR 178
+2 Team Rocket's Watchtower DRI 180
+1 Artazon PAF 76
+Energy - 9
+4 Basic Fighting Energy SVE 6
+3 Basic Darkness Energy SVE 7
+2 Luminous Energy PAL 191
+```
 
-Source: Fabien Pujol - 60th Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Cynthia's Gabite DRI 103</li> <li>4 Cynthia's Gible DRI 102</li> <li>3 Cynthia's Garchomp ex DRI 104</li> <li>2 Cynthia's Roselia DRI 7</li> <li>2 Cynthia's Roserade DRI 8</li> <li>2 Munkidori TWM 95</li> <li>1 Budew PRE 4</li> <li>1 Cynthia's Spiritomb DRI 129</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>4 Arven OBF 186</li> <li>3 Boss's Orders PAL 172</li> <li>3 Iono PAF 80</li> <li>2 Crispin PRE 105</li> <li>2 Team Rocket's Petrel DRI 176</li> <li>3 Buddy-Buddy Poffin PRE 101</li> <li>2 Night Stretcher SFA 61</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PRE 106</li> <li>1 Secret Box TWM 163</li> <li>1 Super Rod PAL 188</li> <li>4 Cynthia's Power Weight DRI 162</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>2 Team Rocket's Watchtower DRI 180</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>4 Basic Fighting Energy SVE 6</li> <li>3 Basic Darkness Energy SVE 7</li> <li>2 Luminous Energy PAL 191</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1743997579336" id="page-673a44b51c22600600d02e20"><div class="jb-code-container">
-    <div id="ceruledgeex" class="deck_box">
-  <p class="jb-deckbox-title">$40</p>
-  <h1>Ceruledge ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/ceruledge-ex-1c93d3.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="ceruledgeex" name="Ceruledge ex" image="/images/ceruledge-ex-1c93d3.webp" illus="5ban Graphics" price="$40" source="nelcq - 8th Place, Pumpka Weekly (31 March 2025)"}
 
 ### BASIC STRATEGY
 
@@ -657,25 +1018,44 @@ While building up your board by setting up your Charcadet to be ready to evolve 
 - [AzulGG](https://www.youtube.com/watch?v=Ql1An2EHVJY)
 - [LitteDarkFury](https://www.youtube.com/watch?v=sTjGlHN2bfk)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+4 Charcadet SSP 32
+3 Ceruledge ex SSP 36
+1 Budew PRE 4
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Fezandipiti ex SFA 38
+1 Klefki SVI 96
+1 Munkidori TWM 95
+1 Squawkabilly ex PAL 169
+Trainer Cards - 29
+4 Carmine PRE 103
+3 Professor's Research JTG 155
+2 Boss's Orders PAL 172
+2 Explorer's Guidance PRE 107
+2 Iono PAF 80
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+2 Earthen Vessel PRE 106
+2 Night Stretcher SFA 61
+1 Brilliant Blender SSP 164
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Gravity Mountain SSP 177
+Energy - 18
+9 Basic Fire Energy SVE 2
+4 Luminous Energy PAL 191
+3 Jet Energy PAL 190
+1 Basic Darkness Energy SVE 7
+1 Basic Fighting Energy SVE 6
+```
 
-Source: nelcq - 8th Place, Pumpka Weekly (31 March 2025)
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 13</p><ul> <li>4 Charcadet SSP 32</li> <li>3 Ceruledge ex SSP 36</li> <li>1 Budew PRE 4</li> <li>1 Cornerstone Mask Ogerpon ex TWM 112</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Klefki SVI 96</li> <li>1 Munkidori TWM 95</li> <li>1 Squawkabilly ex PAL 169</li> </ul><p class="jb-decklist-section">Trainer Cards - 29</p><ul> <li>4 Carmine PRE 103</li> <li>3 Professor's Research JTG 155</li> <li>2 Boss's Orders PAL 172</li> <li>2 Explorer's Guidance PRE 107</li> <li>2 Iono PAF 80</li> <li>4 Nest Ball PAF 84</li> <li>4 Ultra Ball PAF 91</li> <li>2 Earthen Vessel PRE 106</li> <li>2 Night Stretcher SFA 61</li> <li>1 Brilliant Blender SSP 164</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Gravity Mountain SSP 177</li> </ul><p class="jb-decklist-section">Energy - 18</p><ul> <li>9 Basic Fire Energy SVE 2</li> <li>4 Luminous Energy PAL 191</li> <li>3 Jet Energy PAL 190</li> <li>1 Basic Darkness Energy SVE 7</li> <li>1 Basic Fighting Energy SVE 6</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749527681931" id="page-660b53e912cd0c5bda6eeba6"><div class="jb-code-container">
-    <div id="pidgeotcontrol" class="deck_box">
-  <p class="jb-deckbox-title">$70</p>
-  <h1>Pidgeot ex Control</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/pidgeot-ex-control.webp)
-
-*Illus. takuya*
+::::
 
 
+
+
+::::deck{id="pidgeotcontrol" name="Pidgeot ex Control" image="/images/pidgeot-ex-control.webp" illus="takuya" price="$70" source="Alloutblitzle - 6th Place, Tournament of Doom “Regional” Championships V"}
 
 ### BASIC STRATEGY
 
@@ -691,25 +1071,55 @@ Run your opponent out of resources by using the deck’s combination of resource
 
 - [Alloutblitzle](https://www.youtube.com/watch?v=cX_hZ2IB6-I&pp=ygUSUGlkZ2VvdCBleCBDb250cm9s)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 14
+3 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Bloodmoon Ursaluna ex TWM 141
+1 Budew PRE 4
+1 Chi-Yu ex PAL 40
+1 Cleffa OBF 80
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+1 Munkidori TWM 95
+1 Nacli PAR 102
+1 Pidgeotto MEW 17
+Trainer Cards - 41
+4 Arven OBF 186
+2 Penny SVI 183
+1 Boss's Orders PAL 172
+1 Iono PAF 80
+1 Xerosic's Machinations SFA 64
+3 Buddy-Buddy Poffin PRE 101
+3 Counter Catcher PAR 160
+3 Nest Ball PAF 84
+2 Accompanying Flute TWM 142
+2 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+2 Pokégear 3.0 SVI 186
+2 Rare Candy PAF 89
+1 Energy Search SVI 172
+1 Redeemable Ticket JTG 156
+1 Ultra Ball PAF 91
+2 Defiance Vest PAR 162
+2 Technical Machine: Evolution PAR 178
+1 Counter Gain SSP 169
+1 Hero's Cape TEF 152
+1 Rescue Board PRE 126
+2 Calamitous Wasteland PAL 175
+1 Lively Stadium SSP 180
+Energy - 5
+3 Luminous Energy PAL 191
+1 Basic Fighting Energy SVE 6
+1 Mist Energy TEF 161
+```
 
-Source: Alloutblitzle - 6th Place, Tournament of Doom “Regional” Championships V
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 14</p><ul> <li>3 Pidgeot ex OBF 164</li> <li>2 Pidgey OBF 162</li> <li>1 Bloodmoon Ursaluna ex TWM 141</li> <li>1 Budew PRE 4</li> <li>1 Chi-Yu ex PAL 40</li> <li>1 Cleffa OBF 80</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Lillie's Clefairy ex JTG 56</li> <li>1 Munkidori TWM 95</li> <li>1 Nacli PAR 102</li> <li>1 Pidgeotto MEW 17</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>4 Arven OBF 186</li> <li>2 Penny SVI 183</li> <li>1 Boss's Orders PAL 172</li> <li>1 Iono PAF 80</li> <li>1 Xerosic's Machinations SFA 64</li> <li>3 Buddy-Buddy Poffin PRE 101</li> <li>3 Counter Catcher PAR 160</li> <li>3 Nest Ball PAF 84</li> <li>2 Accompanying Flute TWM 142</li> <li>2 Night Stretcher SFA 61</li> <li>2 Pal Pad SVI 182</li> <li>2 Pokégear 3.0 SVI 186</li> <li>2 Rare Candy PAF 89</li> <li>1 Energy Search SVI 172</li> <li>1 Redeemable Ticket JTG 156</li> <li>1 Ultra Ball PAF 91</li> <li>2 Defiance Vest PAR 162</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>1 Counter Gain SSP 169</li> <li>1 Hero's Cape TEF 152</li> <li>1 Rescue Board PRE 126</li> <li>2 Calamitous Wasteland PAL 175</li> <li>1 Lively Stadium SSP 180</li> </ul><p class="jb-decklist-section">Energy - 5</p><ul> <li>3 Luminous Energy PAL 191</li> <li>1 Basic Fighting Energy SVE 6</li> <li>1 Mist Energy TEF 161</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749523540207" id="page-660b587c3c856d3dd38cc5e2"><div class="jb-code-container">
-    <div id="greattusk" class="deck_box">
-  <p class="jb-deckbox-title">$25</p>
-  <h1>Great Tusk Mill</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/great-tusk-mill.webp)
-
-*Illus. GIDORA*
+::::
 
 
+
+
+::::deck{id="greattusk" name="Great Tusk Mill" image="/images/great-tusk-mill.webp" illus="GIDORA" price="$25" source="Generic List"}
 
 ### BASIC STRATEGY
 
@@ -727,25 +1137,41 @@ Using Professor Sada’s Vitality and a manual attachment, use Great Tusk’s La
 - [Tricky Gym](https://www.youtube.com/watch?v=JDxySYUwAik&pp=ygUPR3JlYXQgVHVzayBNaWxs)
 - [ForTheWinTCG](https://www.youtube.com/watch?v=yGObOWmvCcE&pp=ygUPR3JlYXQgVHVzayBNaWxs)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+4 Great Tusk TEF 97
+3 Dudunsparce TEF 129
+3 Dunsparce PAL 156
+2 Fan Rotom SCR 118
+1 Mimikyu PAL 97
+Trainer Cards - 38
+4 Explorer's Guidance PRE 107
+4 Professor Sada's Vitality PRE 120
+1 Xerosic's Machinations SFA 64
+3 Counter Catcher PAR 160
+3 Earthen Vessel PRE 106
+3 Nest Ball PAF 84
+3 Pokégear 3.0 SVI 186
+2 Crushing Hammer SVI 168
+2 Pal Pad SVI 182
+2 Super Rod PAL 188
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Redeemable Ticket JTG 156
+3 Handheld Fan TWM 150
+3 Artazon PAF 76
+1 Neutralization Zone SFA 60
+Energy - 9
+7 Basic Fighting Energy SVE 6
+2 Jet Energy PAL 190
+```
 
-Source: Generic List
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 13</p><ul> <li>4 Great Tusk TEF 97</li> <li>3 Dudunsparce TEF 129</li> <li>3 Dunsparce PAL 156</li> <li>2 Fan Rotom SCR 118</li> <li>1 Mimikyu PAL 97</li> </ul><p class="jb-decklist-section">Trainer Cards - 38</p><ul> <li>4 Explorer's Guidance PRE 107</li> <li>4 Professor Sada's Vitality PRE 120</li> <li>1 Xerosic's Machinations SFA 64</li> <li>3 Counter Catcher PAR 160</li> <li>3 Earthen Vessel PRE 106</li> <li>3 Nest Ball PAF 84</li> <li>3 Pokégear 3.0 SVI 186</li> <li>2 Crushing Hammer SVI 168</li> <li>2 Pal Pad SVI 182</li> <li>2 Super Rod PAL 188</li> <li>2 Ultra Ball PAF 91</li> <li>1 Night Stretcher SFA 61</li> <li>1 Redeemable Ticket JTG 156</li> <li>3 Handheld Fan TWM 150</li> <li>3 Artazon PAF 76</li> <li>1 Neutralization Zone SFA 60</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>7 Basic Fighting Energy SVE 6</li> <li>2 Jet Energy PAL 190</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1750049314099" id="page-63287607e874697229fb10e0"><div class="jb-code-container">
-    <div id="hzoroarkvstar" class="deck_box">
-  <p class="jb-deckbox-title">$60</p>
-  <h1>Toedscruel ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/toedscruel-ex-22b299.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="hzoroarkvstar" name="Toedscruel ex" image="/images/toedscruel-ex-22b299.webp" illus="5ban Graphics" price="$60" source="Ray Chen - 5th Place, North America International Championships"}
 
 ### BASIC STRATEGY
 
@@ -762,25 +1188,40 @@ Coming soon.
 - [LittleDarkFury](https://www.youtube.com/watch?v=nAFd8-Uz_Ik)
 - [TheShuffleSquad](https://www.youtube.com/watch?v=jbNtMFsw5sY) (Zach Lesage)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Teal Mask Ogerpon ex TWM 25
+3 Toedscool PAR 16
+3 Toedscruel ex OBF 22
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Iron Leaves ex TEF 25
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+1 Squawkabilly ex PAL 169
+1 Toedscool SCR 17
+1 Toedscruel PAR 17
+Trainer Cards - 30
+4 Professor's Research JTG 155
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+4 Bug Catching Set PRE 102
+4 Energy Switch SVI 173
+4 Nest Ball PAF 84
+2 Super Rod PAL 188
+2 Ultra Ball PAF 91
+1 Prime Catcher PRE 119
+3 Area Zero Underdepths PRE 94
+Energy - 12
+12 Basic Grass Energy SVE 1
+```
 
-Source: Ray Chen - 5th Place, North America International Championships
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Teal Mask Ogerpon ex TWM 25</li> <li>3 Toedscool PAR 16</li> <li>3 Toedscruel ex OBF 22</li> <li>1 Budew PRE 4</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Iron Leaves ex TEF 25</li> <li>1 Latias ex SSP 76</li> <li>1 Mew ex MEW 151</li> <li>1 Squawkabilly ex PAL 169</li> <li>1 Toedscool SCR 17</li> <li>1 Toedscruel PAR 17</li> </ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>4 Professor's Research JTG 155</li> <li>3 Boss's Orders PAL 172</li> <li>3 Iono PAF 80</li> <li>4 Bug Catching Set PRE 102</li> <li>4 Energy Switch SVI 173</li> <li>4 Nest Ball PAF 84</li> <li>2 Super Rod PAL 188</li> <li>2 Ultra Ball PAF 91</li> <li>1 Prime Catcher PRE 119</li> <li>3 Area Zero Underdepths PRE 94</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>12 Basic Grass Energy SVE 1</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749589051984" id="page-62d55dc7eeb20f4f6b05e3e0"><div class="jb-code-container">
-    <div id="yanmegaex" class="deck_box">
-  <p class="jb-deckbox-title">$35</p>
-  <h1>Yanmega ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/yanmega-ex-6562c7.webp)
-
-*Illus. takuyoa*
+::::
 
 
+
+
+::::deck{id="yanmegaex" name="Yanmega ex" image="/images/yanmega-ex-6562c7.webp" illus="takuyoa" price="$35" source="Generic List"}
 
 ### BASIC STRATEGY
 
@@ -795,25 +1236,39 @@ Coming soon.
 
 - [LittleDarkFury](https://www.youtube.com/watch?v=VPbhnAHpyts)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Dunsparce TEF 128
+4 Yanma DRI 2
+4 Yanmega ex DRI 3
+3 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+1 Fezandipiti ex SFA 38
+1 Iron Hands ex PAR 70
+Trainer Cards - 30
+4 Boss's Orders PAL 172
+4 Morty's Conviction TEF 155
+3 Iono PAF 80
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Dusk Ball SSP 175
+4 Ultra Ball PAF 91
+2 Super Rod PAL 188
+1 Pokémon Catcher SVI 187
+1 Prime Catcher PRE 119
+2 Jamming Tower TWM 153
+Energy - 12
+9 Basic Grass Energy SVE 1
+2 Basic Lightning Energy SVE 4
+1 Jet Energy PAL 190
+```
 
-Source: Generic List
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Dunsparce TEF 128</li> <li>4 Yanma DRI 2</li> <li>4 Yanmega ex DRI 3</li> <li>3 Dudunsparce TEF 129</li> <li>1 Dudunsparce ex JTG 121</li> <li>1 Fezandipiti ex SFA 38</li> <li>1 Iron Hands ex PAR 70</li> </ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>4 Boss's Orders PAL 172</li> <li>4 Morty's Conviction TEF 155</li> <li>3 Iono PAF 80</li> <li>1 Professor Turo's Scenario PRE 121</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Dusk Ball SSP 175</li> <li>4 Ultra Ball PAF 91</li> <li>2 Super Rod PAL 188</li> <li>1 Pokémon Catcher SVI 187</li> <li>1 Prime Catcher PRE 119</li> <li>2 Jamming Tower TWM 153</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>9 Basic Grass Energy SVE 1</li> <li>2 Basic Lightning Energy SVE 4</li> <li>1 Jet Energy PAL 190</li>
-</ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1749588445319" id="page-63bc24c3f5538910f626e0e3"><div class="jb-code-container">
-    <div id="teamrocketsmewtwoex" class="deck_box">
-  <p class="jb-deckbox-title">$55</p>
-  <h1>Team Rocket's Mewtwo ex</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/team-rocket-s-mewtwo-ex-de6561.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+
+::::deck{id="teamrocketsmewtwoex" name="Team Rocket's Mewtwo ex" image="/images/team-rocket-s-mewtwo-ex-de6561.webp" illus="aky CG Works" price="$55" source="Juan - 2nd Place, Tournament of Doom! Wait, Where Did Last Week Go?"}
 
 ### BASIC STRATEGY
 
@@ -833,25 +1288,40 @@ Coming soon.
 - [AzulGG](https://www.youtube.com/watch?v=ALhmjwxpp34)
 - [The Shuffle Squad](https://www.youtube.com/watch?v=k9rpI3CoixQ) (Zach Lesage)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+4 Team Rocket's Spidops DRI 20
+4 Team Rocket's Tarountula DRI 19
+2 Team Rocket's Mewtwo ex DRI 81
+1 Team Rocket's Articuno DRI 51
+1 Team Rocket's Mimikyu DRI 87
+1 Team Rocket's Zapdos DRI 70
+Trainer Cards - 36
+4 Team Rocket's Giovanni DRI 174
+4 Team Rocket's Proton DRI 177
+3 Team Rocket's Ariana DRI 171
+2 Team Rocket's Archer DRI 170
+1 Iono PAF 80
+4 Team Rocket's Transceiver DRI 178
+4 Ultra Ball PAF 91
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+2 Bravery Charm PAL 173
+4 Team Rocket's Factory DRI 173
+Energy - 11
+7 Basic Grass Energy SVE 1
+4 Team Rocket's Energy DRI 182
+```
 
-Source: Juan - 2nd Place, Tournament of Doom! Wait, Where Did Last Week Go?
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 13</p><ul> <li>4 Team Rocket's Spidops DRI 20</li> <li>4 Team Rocket's Tarountula DRI 19</li> <li>2 Team Rocket's Mewtwo ex DRI 81</li> <li>1 Team Rocket's Articuno DRI 51</li> <li>1 Team Rocket's Mimikyu DRI 87</li> <li>1 Team Rocket's Zapdos DRI 70</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Team Rocket's Giovanni DRI 174</li> <li>4 Team Rocket's Proton DRI 177</li> <li>3 Team Rocket's Ariana DRI 171</li> <li>2 Team Rocket's Archer DRI 170</li> <li>1 Iono PAF 80</li> <li>4 Team Rocket's Transceiver DRI 178</li> <li>4 Ultra Ball PAF 91</li> <li>2 Earthen Vessel PRE 106</li> <li>2 Nest Ball PAF 84</li> <li>2 Night Stretcher SFA 61</li> <li>1 Counter Catcher PAR 160</li> <li>1 Secret Box TWM 163</li> <li>2 Bravery Charm PAL 173</li> <li>4 Team Rocket's Factory DRI 173</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>7 Basic Grass Energy SVE 1</li> <li>4 Team Rocket's Energy DRI 182</li> </ul>
-</div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1698671472693" id="page-63319d0c8a436c63811fbf7d"><div class="jb-code-container">
-    <div id="hgoodravstar" class="deck_box">
-  <p class="jb-deckbox-title">$45</p>
-  <h1>Hisuian Goodra VSTAR w/ Comfey</h1>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/h-goodra-vstar.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+
+::::deck{id="hgoodravstar" name="Hisuian Goodra VSTAR w/ Comfey" image="/images/h-goodra-vstar.webp" illus="5ban Graphics" price="$45" source="Hermanni Hietalahti - 5th Place, Toronto Regional Championships"}
 
 ### BASIC STRATEGY
 
@@ -869,15 +1339,40 @@ Using the components of the Comfey engine, get first to seven and then later ten
 - [TheShuffleSquad](https://www.youtube.com/watch?v=z-irEQQZZYU) (Gaia Storm TCG)
 - [ZapdosTCG](https://www.youtube.com/watch?pp=ygUjR29vZHJhIFZTVEFSIHBvc3Qgcm90YXRpb24gZ2FtZXBsYXk%3D&v=wT4GQ5VseN8)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Comfey LOR 79
+2 Hisuian Goodra V LOR 135
+2 Hisuian Goodra VSTAR LOR 136
+2 Sableye LOR 70
+1 Cramorant LOR 50
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Spiritomb PAL 89
+1 Zamazenta CRZ 97
+Trainer Cards - 33
+4 Colress's Experiment LOR 155
+2 Boss's Orders PAL 172
+1 Raihan CRZ 140
+1 Roxanne ASR 150
+4 Battle VIP Pass FST 225
+4 Mirage Gate LOR 163
+4 Switch Cart ASR 154
+3 Super Rod PAL 188
+2 Escape Rope BST 125
+2 Nest Ball SVI 181
+2 Pokégear 3.0 SVI 186
+1 Lost Vacuum CRZ 135
+1 Ultra Ball SVI 196
+2 Artazon PAL 171
+Energy - 12
+4 Basic Metal Energy SVE 8
+3 Basic Water Energy SVE 3
+3 Jet Energy PAL 190
+2 Basic Psychic Energy SVE 5
+```
 
-Source: Hermanni Hietalahti - 5th Place, Toronto Regional Championships
+::::
 
-**Pokémon - 15** 4 Comfey LOR 79 2 Hisuian Goodra V LOR 135 2 Hisuian Goodra VSTAR LOR 136 2 Sableye LOR 70 1 Cramorant LOR 50 1 Manaphy BRS 41 1 Radiant Greninja ASR 46 1 Spiritomb PAL 89 1 Zamazenta CRZ 97
 
-**Trainer Cards - 33** 4 Colress's Experiment LOR 155 2 Boss's Orders PAL 172 1 Raihan CRZ 140 1 Roxanne ASR 150 4 Battle VIP Pass FST 225 4 Mirage Gate LOR 163 4 Switch Cart ASR 154 3 Super Rod PAL 188 2 Escape Rope BST 125 2 Nest Ball SVI 181 2 Pokégear 3.0 SVI 186 1 Lost Vacuum CRZ 135 1 Ultra Ball SVI 196 2 Artazon PAL 171
-
-**Energy - 12** 4 Basic Metal Energy SVE 8 3 Basic Water Energy SVE 3 3 Jet Energy PAL 190 2 Basic Psychic Energy SVE 5
-
-</div></div></div>
 

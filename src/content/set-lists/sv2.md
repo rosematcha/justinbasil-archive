@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2023-11-06
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
+
+
+:::setcard{bg="/images/sv2-short.webp" logo="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv2">Set List</a> | 
@@ -22,9 +20,10 @@ publishDate: 2023-11-06
           <a class="blink" href="/new-decks/sv2">New Archetypes</a> |
           <a class="blink" href="/proxies/sv2">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 193 cards (before Secret Rares)</h3>
 

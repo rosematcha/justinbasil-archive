@@ -130,13 +130,52 @@ Although Fairy Energy is also a Basic Energy card, Fairy Energy is not legal in 
 
 Whereas you can have up to 59 copies of any basic Energy in your deck, Radiant Pokémon are a bit more restrictive. Not only can you have just a single copy of your Radiant Pokémon, you can only include one Radiant Pokémon of any kind. This means that if you include Radiant Greninja ASR 46, you can’t also include Radiant Gardevoir LOR 69 in your deck.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ssp-230-r-en-lg.webp"><img src="/images/ssp-230-r-en-lg.webp" alt="SSP_230_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/181-6-0f4d9b.webp"><img src="/images/181-6-0f4d9b.webp" alt="181-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/146-7-81e0b7.webp"><img src="/images/146-7-81e0b7.webp" alt="146-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/127-18-fe49cc.webp"><img src="/images/127-18-fe49cc.webp" alt="127-18.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/14-53.webp"><img src="/images/14-53.webp" alt="14-53.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/111-29.webp"><img src="/images/111-29.webp" alt="111-29.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp"><img src="/images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp" alt="Pokemon_TCG_Pokemon_GO_Radiant_Blastoise_(18).png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/069.webp"><img src="/images/069.webp" alt="069.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/123.webp"><img src="/images/123.webp" alt="123.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/124.webp"><img src="/images/124.webp" alt="124.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/016-3eccc5.webp"><img src="/images/016-3eccc5.webp" alt="016.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/059-85c3e9.webp"><img src="/images/059-85c3e9.webp" alt="059.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/120-21af8d.webp"><img src="/images/120-21af8d.webp" alt="120.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3661.webp"><img src="/images/img-3661.webp" alt="IMG_3661.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3662.webp"><img src="/images/img-3662.webp" alt="IMG_3662.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/img-3663.webp"><img src="/images/img-3663.webp" alt="IMG_3663.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/ssp-230-r-en-lg.webp
+- /images/181-6-0f4d9b.webp
+- /images/146-7-81e0b7.webp
+- /images/127-18-fe49cc.webp
+- /images/14-53.webp
+- /images/111-29.webp
+- /images/pokemon-tcg-pokemon-go-radiant-blastoise-18.webp
+- /images/069.webp
+- /images/123.webp
+- /images/124.webp
+- /images/016-3eccc5.webp
+- /images/059-85c3e9.webp
+- /images/120-21af8d.webp
+- /images/img-3661.webp
+- /images/img-3662.webp
+- /images/img-3663.webp
+:::
+
+
 
 ### Third Exception to the Rule of Four - ACE SPECs
 
 Like Radiant Pokémon, ACE SPECs are extremely powerful cards that are limited to just a single copy of any one ACE SPEC in your deck. This means that if you include Prime Catcher, you can’t also include Unfair Stamp in your deck.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv05-en-141-2x.webp"><img src="/images/sv05-en-141-2x.webp" alt="SV05_EN_141-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-152-2x.webp"><img src="/images/sv05-en-152-2x.webp" alt="SV05_EN_152-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-152-r-en.webp"><img src="/images/twm-152-r-en.webp" alt="TWM_152_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-167-r-en.webp"><img src="/images/twm-167-r-en.webp" alt="TWM_167_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-153-2x.webp"><img src="/images/sv05-en-153-2x.webp" alt="SV05_EN_153-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-154-2x.webp"><img src="/images/sv05-en-154-2x.webp" alt="SV05_EN_154-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-162-2x.webp"><img src="/images/sv05-en-162-2x.webp" alt="SV05_EN_162-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-157-2x.webp"><img src="/images/sv05-en-157-2x.webp" alt="SV05_EN_157-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv05-en-158-2x.webp"><img src="/images/sv05-en-158-2x.webp" alt="SV05_EN_158-2x.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-162-r-en-bfa7e8.webp"><img src="/images/twm-162-r-en-bfa7e8.webp" alt="TWM_162_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-163-r-en.webp"><img src="/images/twm-163-r-en.webp" alt="TWM_163_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-164-r-en.webp"><img src="/images/twm-164-r-en.webp" alt="TWM_164_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-165-r-en.webp"><img src="/images/twm-165-r-en.webp" alt="TWM_165_R_EN.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/sv05-en-141-2x.webp
+- /images/sv05-en-152-2x.webp
+- /images/twm-152-r-en.webp
+- /images/twm-167-r-en.webp
+- /images/sv05-en-153-2x.webp
+- /images/sv05-en-154-2x.webp
+- /images/sv05-en-162-2x.webp
+- /images/sv05-en-157-2x.webp
+- /images/sv05-en-158-2x.webp
+- /images/twm-162-r-en-bfa7e8.webp
+- /images/twm-163-r-en.webp
+- /images/twm-164-r-en.webp
+- /images/twm-165-r-en.webp
+:::
+
+
 
 ## What’s Not Allowed
 

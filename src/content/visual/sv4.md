@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2023-11-02
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Visual Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" title="Visual Set List"}
+
+<p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv4">Set List</a> | 
@@ -21,9 +19,10 @@ publishDate: 2023-11-02
           <a class="blink" href="/proxies/sv4">Selected Proxies</a> | 
           <a class="blink" href="/new-decks/sv4">New Archetypes</a>
     </p>
-  </div>
-</div> 
-</div><div class="jb-code-container">
+
+:::
+
+<div class="jb-code-container">
     <p class="jb-center">Click an option below to jump to that part of the visual set list.</p>
 <p class="jb-center">
 <a href="#G" class="jlink"><span class="symb">G</span><span> Grass</span></a> | 
@@ -42,29 +41,271 @@ publishDate: 2023-11-02
 </p>
 </div><div class="jb-code-container">
     <span id="G" class="symb">G</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-001.webp"><img src="/images/sv4-en-001.webp" alt="sv4_en_001.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-002.webp"><img src="/images/sv4-en-002.webp" alt="sv4_en_002.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-003.webp"><img src="/images/sv4-en-003.webp" alt="sv4_en_003.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-004.webp"><img src="/images/sv4-en-004.webp" alt="sv4_en_004.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-005.webp"><img src="/images/sv4-en-005.webp" alt="sv4_en_005.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-006.webp"><img src="/images/sv4-en-006.webp" alt="sv4_en_006.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-007.webp"><img src="/images/sv4-en-007.webp" alt="sv4_en_007.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-008.webp"><img src="/images/sv4-en-008.webp" alt="sv4_en_008.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-009.webp"><img src="/images/sv4-en-009.webp" alt="sv4_en_009.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-010.webp"><img src="/images/sv4-en-010.webp" alt="sv4_en_010.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-011.webp"><img src="/images/sv4-en-011.webp" alt="sv4_en_011.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-012.webp"><img src="/images/sv4-en-012.webp" alt="sv4_en_012.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-013.webp"><img src="/images/sv4-en-013.webp" alt="sv4_en_013.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-014.webp"><img src="/images/sv4-en-014.webp" alt="sv4_en_014.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-015.webp"><img src="/images/sv4-en-015.webp" alt="sv4_en_015.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-016.webp"><img src="/images/sv4-en-016.webp" alt="sv4_en_016.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-017.webp"><img src="/images/sv4-en-017.webp" alt="sv4_en_017.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-018.webp"><img src="/images/sv4-en-018.webp" alt="sv4_en_018.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-001.webp
+- /images/sv4-en-002.webp
+- /images/sv4-en-003.webp
+- /images/sv4-en-004.webp
+- /images/sv4-en-005.webp
+- /images/sv4-en-006.webp
+- /images/sv4-en-007.webp
+- /images/sv4-en-008.webp
+- /images/sv4-en-009.webp
+- /images/sv4-en-010.webp
+- /images/sv4-en-011.webp
+- /images/sv4-en-012.webp
+- /images/sv4-en-013.webp
+- /images/sv4-en-014.webp
+- /images/sv4-en-015.webp
+- /images/sv4-en-016.webp
+- /images/sv4-en-017.webp
+- /images/sv4-en-018.webp
+:::
+
+<div class="jb-code-container">
     <span id="R" class="symb">R</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-019.webp"><img src="/images/sv4-en-019.webp" alt="sv4_en_019.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-020.webp"><img src="/images/sv4-en-020.webp" alt="sv4_en_020.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-021.webp"><img src="/images/sv4-en-021.webp" alt="sv4_en_021.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-022.webp"><img src="/images/sv4-en-022.webp" alt="sv4_en_022.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-023.webp"><img src="/images/sv4-en-023.webp" alt="sv4_en_023.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-024.webp"><img src="/images/sv4-en-024.webp" alt="sv4_en_024.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-025.webp"><img src="/images/sv4-en-025.webp" alt="sv4_en_025.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-026.webp"><img src="/images/sv4-en-026.webp" alt="sv4_en_026.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-027.webp"><img src="/images/sv4-en-027.webp" alt="sv4_en_027.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-028.webp"><img src="/images/sv4-en-028.webp" alt="sv4_en_028.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-029.webp"><img src="/images/sv4-en-029.webp" alt="sv4_en_029.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-019.webp
+- /images/sv4-en-020.webp
+- /images/sv4-en-021.webp
+- /images/sv4-en-022.webp
+- /images/sv4-en-023.webp
+- /images/sv4-en-024.webp
+- /images/sv4-en-025.webp
+- /images/sv4-en-026.webp
+- /images/sv4-en-027.webp
+- /images/sv4-en-028.webp
+- /images/sv4-en-029.webp
+:::
+
+<div class="jb-code-container">
     <span id="W" class="symb">W</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-030.webp"><img src="/images/sv4-en-030.webp" alt="sv4_en_030.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-031.webp"><img src="/images/sv4-en-031.webp" alt="sv4_en_031.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-032.webp"><img src="/images/sv4-en-032.webp" alt="sv4_en_032.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-033.webp"><img src="/images/sv4-en-033.webp" alt="sv4_en_033.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-034.webp"><img src="/images/sv4-en-034.webp" alt="sv4_en_034.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-035.webp"><img src="/images/sv4-en-035.webp" alt="sv4_en_035.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-036.webp"><img src="/images/sv4-en-036.webp" alt="sv4_en_036.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-037.webp"><img src="/images/sv4-en-037.webp" alt="sv4_en_037.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-038.webp"><img src="/images/sv4-en-038.webp" alt="sv4_en_038.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-039.webp"><img src="/images/sv4-en-039.webp" alt="sv4_en_039.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-040.webp"><img src="/images/sv4-en-040.webp" alt="sv4_en_040.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-041.webp"><img src="/images/sv4-en-041.webp" alt="sv4_en_041.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-042.webp"><img src="/images/sv4-en-042.webp" alt="sv4_en_042.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-043.webp"><img src="/images/sv4-en-043.webp" alt="sv4_en_043.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-044.webp"><img src="/images/sv4-en-044.webp" alt="sv4_en_044.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-045.webp"><img src="/images/sv4-en-045.webp" alt="sv4_en_045.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-046.webp"><img src="/images/sv4-en-046.webp" alt="sv4_en_046.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-047.webp"><img src="/images/sv4-en-047.webp" alt="sv4_en_047.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-048.webp"><img src="/images/sv4-en-048.webp" alt="sv4_en_048.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-049.webp"><img src="/images/sv4-en-049.webp" alt="sv4_en_049.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-050.webp"><img src="/images/sv4-en-050.webp" alt="sv4_en_050.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-051.webp"><img src="/images/sv4-en-051.webp" alt="sv4_en_051.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-052.webp"><img src="/images/sv4-en-052.webp" alt="sv4_en_052.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-053.webp"><img src="/images/sv4-en-053.webp" alt="sv4_en_053.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-054.webp"><img src="/images/sv4-en-054.webp" alt="sv4_en_054.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-055.webp"><img src="/images/sv4-en-055.webp" alt="sv4_en_055.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-056.webp"><img src="/images/sv4-en-056.webp" alt="sv4_en_056.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-057.webp"><img src="/images/sv4-en-057.webp" alt="sv4_en_057.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-030.webp
+- /images/sv4-en-031.webp
+- /images/sv4-en-032.webp
+- /images/sv4-en-033.webp
+- /images/sv4-en-034.webp
+- /images/sv4-en-035.webp
+- /images/sv4-en-036.webp
+- /images/sv4-en-037.webp
+- /images/sv4-en-038.webp
+- /images/sv4-en-039.webp
+- /images/sv4-en-040.webp
+- /images/sv4-en-041.webp
+- /images/sv4-en-042.webp
+- /images/sv4-en-043.webp
+- /images/sv4-en-044.webp
+- /images/sv4-en-045.webp
+- /images/sv4-en-046.webp
+- /images/sv4-en-047.webp
+- /images/sv4-en-048.webp
+- /images/sv4-en-049.webp
+- /images/sv4-en-050.webp
+- /images/sv4-en-051.webp
+- /images/sv4-en-052.webp
+- /images/sv4-en-053.webp
+- /images/sv4-en-054.webp
+- /images/sv4-en-055.webp
+- /images/sv4-en-056.webp
+- /images/sv4-en-057.webp
+:::
+
+<div class="jb-code-container">
     <span id="L" class="symb">L</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-058.webp"><img src="/images/sv4-en-058.webp" alt="sv4_en_058.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-059.webp"><img src="/images/sv4-en-059.webp" alt="sv4_en_059.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-060.webp"><img src="/images/sv4-en-060.webp" alt="sv4_en_060.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-061.webp"><img src="/images/sv4-en-061.webp" alt="sv4_en_061.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-062.webp"><img src="/images/sv4-en-062.webp" alt="sv4_en_062.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-063.webp"><img src="/images/sv4-en-063.webp" alt="sv4_en_063.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-064.webp"><img src="/images/sv4-en-064.webp" alt="sv4_en_064.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-065.webp"><img src="/images/sv4-en-065.webp" alt="sv4_en_065.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-066.webp"><img src="/images/sv4-en-066.webp" alt="sv4_en_066.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-067.webp"><img src="/images/sv4-en-067.webp" alt="sv4_en_067.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-068.webp"><img src="/images/sv4-en-068.webp" alt="sv4_en_068.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-069.webp"><img src="/images/sv4-en-069.webp" alt="sv4_en_069.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-070.webp"><img src="/images/sv4-en-070.webp" alt="sv4_en_070.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-058.webp
+- /images/sv4-en-059.webp
+- /images/sv4-en-060.webp
+- /images/sv4-en-061.webp
+- /images/sv4-en-062.webp
+- /images/sv4-en-063.webp
+- /images/sv4-en-064.webp
+- /images/sv4-en-065.webp
+- /images/sv4-en-066.webp
+- /images/sv4-en-067.webp
+- /images/sv4-en-068.webp
+- /images/sv4-en-069.webp
+- /images/sv4-en-070.webp
+:::
+
+<div class="jb-code-container">
     <span id="P" class="symb">P</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-071.webp"><img src="/images/sv4-en-071.webp" alt="sv4_en_071.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-072.webp"><img src="/images/sv4-en-072.webp" alt="sv4_en_072.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-073.webp"><img src="/images/sv4-en-073.webp" alt="sv4_en_073.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-074.webp"><img src="/images/sv4-en-074.webp" alt="sv4_en_074.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-075.webp"><img src="/images/sv4-en-075.webp" alt="sv4_en_075.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-076.webp"><img src="/images/sv4-en-076.webp" alt="sv4_en_076.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-077.webp"><img src="/images/sv4-en-077.webp" alt="sv4_en_077.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-078.webp"><img src="/images/sv4-en-078.webp" alt="sv4_en_078.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-079.webp"><img src="/images/sv4-en-079.webp" alt="sv4_en_079.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-080.webp"><img src="/images/sv4-en-080.webp" alt="sv4_en_080.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-081.webp"><img src="/images/sv4-en-081.webp" alt="sv4_en_081.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-082.webp"><img src="/images/sv4-en-082.webp" alt="sv4_en_082.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-083.webp"><img src="/images/sv4-en-083.webp" alt="sv4_en_083.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-084.webp"><img src="/images/sv4-en-084.webp" alt="sv4_en_084.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-085.webp"><img src="/images/sv4-en-085.webp" alt="sv4_en_085.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-086.webp"><img src="/images/sv4-en-086.webp" alt="sv4_en_086.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-087.webp"><img src="/images/sv4-en-087.webp" alt="sv4_en_087.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-088.webp"><img src="/images/sv4-en-088.webp" alt="sv4_en_088.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-089.webp"><img src="/images/sv4-en-089.webp" alt="sv4_en_089.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-071.webp
+- /images/sv4-en-072.webp
+- /images/sv4-en-073.webp
+- /images/sv4-en-074.webp
+- /images/sv4-en-075.webp
+- /images/sv4-en-076.webp
+- /images/sv4-en-077.webp
+- /images/sv4-en-078.webp
+- /images/sv4-en-079.webp
+- /images/sv4-en-080.webp
+- /images/sv4-en-081.webp
+- /images/sv4-en-082.webp
+- /images/sv4-en-083.webp
+- /images/sv4-en-084.webp
+- /images/sv4-en-085.webp
+- /images/sv4-en-086.webp
+- /images/sv4-en-087.webp
+- /images/sv4-en-088.webp
+- /images/sv4-en-089.webp
+:::
+
+<div class="jb-code-container">
     <span id="F" class="symb">F</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-090.webp"><img src="/images/sv4-en-090.webp" alt="sv4_en_090.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-091.webp"><img src="/images/sv4-en-091.webp" alt="sv4_en_091.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-092.webp"><img src="/images/sv4-en-092.webp" alt="sv4_en_092.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-093.webp"><img src="/images/sv4-en-093.webp" alt="sv4_en_093.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-094.webp"><img src="/images/sv4-en-094.webp" alt="sv4_en_094.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-095.webp"><img src="/images/sv4-en-095.webp" alt="sv4_en_095.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-096.webp"><img src="/images/sv4-en-096.webp" alt="sv4_en_096.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-097.webp"><img src="/images/sv4-en-097.webp" alt="sv4_en_097.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-098.webp"><img src="/images/sv4-en-098.webp" alt="sv4_en_098.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-099.webp"><img src="/images/sv4-en-099.webp" alt="sv4_en_099.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-100.webp"><img src="/images/sv4-en-100.webp" alt="sv4_en_100.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-101.webp"><img src="/images/sv4-en-101.webp" alt="sv4_en_101.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-102.webp"><img src="/images/sv4-en-102.webp" alt="sv4_en_102.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-103.webp"><img src="/images/sv4-en-103.webp" alt="sv4_en_103.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-104.webp"><img src="/images/sv4-en-104.webp" alt="sv4_en_104.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-105.webp"><img src="/images/sv4-en-105.webp" alt="sv4_en_105.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-106.webp"><img src="/images/sv4-en-106.webp" alt="sv4_en_106.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-107.webp"><img src="/images/sv4-en-107.webp" alt="sv4_en_107.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-108.webp"><img src="/images/sv4-en-108.webp" alt="sv4_en_108.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-109.webp"><img src="/images/sv4-en-109.webp" alt="sv4_en_109.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-090.webp
+- /images/sv4-en-091.webp
+- /images/sv4-en-092.webp
+- /images/sv4-en-093.webp
+- /images/sv4-en-094.webp
+- /images/sv4-en-095.webp
+- /images/sv4-en-096.webp
+- /images/sv4-en-097.webp
+- /images/sv4-en-098.webp
+- /images/sv4-en-099.webp
+- /images/sv4-en-100.webp
+- /images/sv4-en-101.webp
+- /images/sv4-en-102.webp
+- /images/sv4-en-103.webp
+- /images/sv4-en-104.webp
+- /images/sv4-en-105.webp
+- /images/sv4-en-106.webp
+- /images/sv4-en-107.webp
+- /images/sv4-en-108.webp
+- /images/sv4-en-109.webp
+:::
+
+<div class="jb-code-container">
     <span id="D" class="symb">D</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-110.webp"><img src="/images/sv4-en-110.webp" alt="sv4_en_110.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-111.webp"><img src="/images/sv4-en-111.webp" alt="sv4_en_111.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-112.webp"><img src="/images/sv4-en-112.webp" alt="sv4_en_112.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-113.webp"><img src="/images/sv4-en-113.webp" alt="sv4_en_113.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-114.webp"><img src="/images/sv4-en-114.webp" alt="sv4_en_114.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-115.webp"><img src="/images/sv4-en-115.webp" alt="sv4_en_115.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-116.webp"><img src="/images/sv4-en-116.webp" alt="sv4_en_116.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-117.webp"><img src="/images/sv4-en-117.webp" alt="sv4_en_117.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-118.webp"><img src="/images/sv4-en-118.webp" alt="sv4_en_118.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-119.webp"><img src="/images/sv4-en-119.webp" alt="sv4_en_119.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-120.webp"><img src="/images/sv4-en-120.webp" alt="sv4_en_120.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-121.webp"><img src="/images/sv4-en-121.webp" alt="sv4_en_121.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-122.webp"><img src="/images/sv4-en-122.webp" alt="sv4_en_122.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-123.webp"><img src="/images/sv4-en-123.webp" alt="sv4_en_123.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-124.webp"><img src="/images/sv4-en-124.webp" alt="sv4_en_124.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-110.webp
+- /images/sv4-en-111.webp
+- /images/sv4-en-112.webp
+- /images/sv4-en-113.webp
+- /images/sv4-en-114.webp
+- /images/sv4-en-115.webp
+- /images/sv4-en-116.webp
+- /images/sv4-en-117.webp
+- /images/sv4-en-118.webp
+- /images/sv4-en-119.webp
+- /images/sv4-en-120.webp
+- /images/sv4-en-121.webp
+- /images/sv4-en-122.webp
+- /images/sv4-en-123.webp
+- /images/sv4-en-124.webp
+:::
+
+<div class="jb-code-container">
     <span id="M" class="symb">M</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-125.webp"><img src="/images/sv4-en-125.webp" alt="sv4_en_125.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-126.webp"><img src="/images/sv4-en-126.webp" alt="sv4_en_126.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-127.webp"><img src="/images/sv4-en-127.webp" alt="sv4_en_127.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-128.webp"><img src="/images/sv4-en-128.webp" alt="sv4_en_128.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-129.webp"><img src="/images/sv4-en-129.webp" alt="sv4_en_129.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-130.webp"><img src="/images/sv4-en-130.webp" alt="sv4_en_130.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-131.webp"><img src="/images/sv4-en-131.webp" alt="sv4_en_131.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-132.webp"><img src="/images/sv4-en-132.webp" alt="sv4_en_132.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-133.webp"><img src="/images/sv4-en-133.webp" alt="sv4_en_133.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-134.webp"><img src="/images/sv4-en-134.webp" alt="sv4_en_134.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-135.webp"><img src="/images/sv4-en-135.webp" alt="sv4_en_135.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-136.webp"><img src="/images/sv4-en-136.webp" alt="sv4_en_136.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-137.webp"><img src="/images/sv4-en-137.webp" alt="sv4_en_137.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-138.webp"><img src="/images/sv4-en-138.webp" alt="sv4_en_138.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-139.webp"><img src="/images/sv4-en-139.webp" alt="sv4_en_139.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-125.webp
+- /images/sv4-en-126.webp
+- /images/sv4-en-127.webp
+- /images/sv4-en-128.webp
+- /images/sv4-en-129.webp
+- /images/sv4-en-130.webp
+- /images/sv4-en-131.webp
+- /images/sv4-en-132.webp
+- /images/sv4-en-133.webp
+- /images/sv4-en-134.webp
+- /images/sv4-en-135.webp
+- /images/sv4-en-136.webp
+- /images/sv4-en-137.webp
+- /images/sv4-en-138.webp
+- /images/sv4-en-139.webp
+:::
+
+<div class="jb-code-container">
     <span id="n" class="symb">N</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-140.webp"><img src="/images/sv4-en-140.webp" alt="sv4_en_140.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-141.webp"><img src="/images/sv4-en-141.webp" alt="sv4_en_141.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-140.webp
+- /images/sv4-en-141.webp
+:::
+
+<div class="jb-code-container">
     <span id="C" class="symb">C</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-142.webp"><img src="/images/sv4-en-142.webp" alt="sv4_en_142.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-143.webp"><img src="/images/sv4-en-143.webp" alt="sv4_en_143.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-144.webp"><img src="/images/sv4-en-144.webp" alt="sv4_en_144.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-145.webp"><img src="/images/sv4-en-145.webp" alt="sv4_en_145.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-146.webp"><img src="/images/sv4-en-146.webp" alt="sv4_en_146.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-147.webp"><img src="/images/sv4-en-147.webp" alt="sv4_en_147.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-148.webp"><img src="/images/sv4-en-148.webp" alt="sv4_en_148.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-149.webp"><img src="/images/sv4-en-149.webp" alt="sv4_en_149.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-150.webp"><img src="/images/sv4-en-150.webp" alt="sv4_en_150.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-151.webp"><img src="/images/sv4-en-151.webp" alt="sv4_en_151.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-152.webp"><img src="/images/sv4-en-152.webp" alt="sv4_en_152.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-153.webp"><img src="/images/sv4-en-153.webp" alt="sv4_en_153.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-154.webp"><img src="/images/sv4-en-154.webp" alt="sv4_en_154.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-155.webp"><img src="/images/sv4-en-155.webp" alt="sv4_en_155.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-156.webp"><img src="/images/sv4-en-156.webp" alt="sv4_en_156.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-157.webp"><img src="/images/sv4-en-157.webp" alt="sv4_en_157.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-158.webp"><img src="/images/sv4-en-158.webp" alt="sv4_en_158.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-142.webp
+- /images/sv4-en-143.webp
+- /images/sv4-en-144.webp
+- /images/sv4-en-145.webp
+- /images/sv4-en-146.webp
+- /images/sv4-en-147.webp
+- /images/sv4-en-148.webp
+- /images/sv4-en-149.webp
+- /images/sv4-en-150.webp
+- /images/sv4-en-151.webp
+- /images/sv4-en-152.webp
+- /images/sv4-en-153.webp
+- /images/sv4-en-154.webp
+- /images/sv4-en-155.webp
+- /images/sv4-en-156.webp
+- /images/sv4-en-157.webp
+- /images/sv4-en-158.webp
+:::
+
+<div class="jb-code-container">
     <span id="Trainers" class="jb-bold">Trainers</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-159.webp"><img src="/images/sv4-en-159.webp" alt="sv4_en_159.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-160.webp"><img src="/images/sv4-en-160.webp" alt="sv4_en_160.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-161.webp"><img src="/images/sv4-en-161.webp" alt="sv4_en_161.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-162.webp"><img src="/images/sv4-en-162.webp" alt="sv4_en_162.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-163.webp"><img src="/images/sv4-en-163.webp" alt="sv4_en_163.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-164.webp"><img src="/images/sv4-en-164.webp" alt="sv4_en_164.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-165.webp"><img src="/images/sv4-en-165.webp" alt="sv4_en_165.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-166.webp"><img src="/images/sv4-en-166.webp" alt="sv4_en_166.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-167.webp"><img src="/images/sv4-en-167.webp" alt="sv4_en_167.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-168.webp"><img src="/images/sv4-en-168.webp" alt="sv4_en_168.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-169.webp"><img src="/images/sv4-en-169.webp" alt="sv4_en_169.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-170.webp"><img src="/images/sv4-en-170.webp" alt="sv4_en_170.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-171.webp"><img src="/images/sv4-en-171.webp" alt="sv4_en_171.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-172.webp"><img src="/images/sv4-en-172.webp" alt="sv4_en_172.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-173.webp"><img src="/images/sv4-en-173.webp" alt="sv4_en_173.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-174.webp"><img src="/images/sv4-en-174.webp" alt="sv4_en_174.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-175.webp"><img src="/images/sv4-en-175.webp" alt="sv4_en_175.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-176.webp"><img src="/images/sv4-en-176.webp" alt="sv4_en_176.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-177.webp"><img src="/images/sv4-en-177.webp" alt="sv4_en_177.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-178.webp"><img src="/images/sv4-en-178.webp" alt="sv4_en_178.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-179.webp"><img src="/images/sv4-en-179.webp" alt="sv4_en_179.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-180.webp"><img src="/images/sv4-en-180.webp" alt="sv4_en_180.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-181.webp"><img src="/images/sv4-en-181.webp" alt="sv4_en_181.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-159.webp
+- /images/sv4-en-160.webp
+- /images/sv4-en-161.webp
+- /images/sv4-en-162.webp
+- /images/sv4-en-163.webp
+- /images/sv4-en-164.webp
+- /images/sv4-en-165.webp
+- /images/sv4-en-166.webp
+- /images/sv4-en-167.webp
+- /images/sv4-en-168.webp
+- /images/sv4-en-169.webp
+- /images/sv4-en-170.webp
+- /images/sv4-en-171.webp
+- /images/sv4-en-172.webp
+- /images/sv4-en-173.webp
+- /images/sv4-en-174.webp
+- /images/sv4-en-175.webp
+- /images/sv4-en-176.webp
+- /images/sv4-en-177.webp
+- /images/sv4-en-178.webp
+- /images/sv4-en-179.webp
+- /images/sv4-en-180.webp
+- /images/sv4-en-181.webp
+:::
+
+<div class="jb-code-container">
     <span id="Energy" class="jb-bold">Special Energy</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-182.webp"><img src="/images/sv4-en-182.webp" alt="sv4_en_182.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv4-en-182.webp
+:::
+
+<div class="jb-code-container">
     <div id="srs"></div>
 </div>
 
@@ -78,37 +319,151 @@ Beginning with Scarlet & Violet base set, Full Art cards are now also considered
 
 **Illustration Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-183.webp"><img src="/images/sv4-en-183.webp" alt="sv4_en_183.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-184.webp"><img src="/images/sv4-en-184.webp" alt="sv4_en_184.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-185.webp"><img src="/images/sv4-en-185.webp" alt="sv4_en_185.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-186.webp"><img src="/images/sv4-en-186.webp" alt="sv4_en_186.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-187.webp"><img src="/images/sv4-en-187.webp" alt="sv4_en_187.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-188.webp"><img src="/images/sv4-en-188.webp" alt="sv4_en_188.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-189.webp"><img src="/images/sv4-en-189.webp" alt="sv4_en_189.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-190.webp"><img src="/images/sv4-en-190.webp" alt="sv4_en_190.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-191.webp"><img src="/images/sv4-en-191.webp" alt="sv4_en_191.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-192.webp"><img src="/images/sv4-en-192.webp" alt="sv4_en_192.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-193.webp"><img src="/images/sv4-en-193.webp" alt="sv4_en_193.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-194.webp"><img src="/images/sv4-en-194.webp" alt="sv4_en_194.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-195.webp"><img src="/images/sv4-en-195.webp" alt="sv4_en_195.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-196.webp"><img src="/images/sv4-en-196.webp" alt="sv4_en_196.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-197.webp"><img src="/images/sv4-en-197.webp" alt="sv4_en_197.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-198.webp"><img src="/images/sv4-en-198.webp" alt="sv4_en_198.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-199.webp"><img src="/images/sv4-en-199.webp" alt="sv4_en_199.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-200.webp"><img src="/images/sv4-en-200.webp" alt="sv4_en_200.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-201.webp"><img src="/images/sv4-en-201.webp" alt="sv4_en_201.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-202.webp"><img src="/images/sv4-en-202.webp" alt="sv4_en_202.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-203.webp"><img src="/images/sv4-en-203.webp" alt="sv4_en_203.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-204.webp"><img src="/images/sv4-en-204.webp" alt="sv4_en_204.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-205.webp"><img src="/images/sv4-en-205.webp" alt="sv4_en_205.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-206.webp"><img src="/images/sv4-en-206.webp" alt="sv4_en_206.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-207.webp"><img src="/images/sv4-en-207.webp" alt="sv4_en_207.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-208.webp"><img src="/images/sv4-en-208.webp" alt="sv4_en_208.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-209.webp"><img src="/images/sv4-en-209.webp" alt="sv4_en_209.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-210.webp"><img src="/images/sv4-en-210.webp" alt="sv4_en_210.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-211.webp"><img src="/images/sv4-en-211.webp" alt="sv4_en_211.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-212.webp"><img src="/images/sv4-en-212.webp" alt="sv4_en_212.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-213.webp"><img src="/images/sv4-en-213.webp" alt="sv4_en_213.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-214.webp"><img src="/images/sv4-en-214.webp" alt="sv4_en_214.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-215.webp"><img src="/images/sv4-en-215.webp" alt="sv4_en_215.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-216.webp"><img src="/images/sv4-en-216.webp" alt="sv4_en_216.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/sv4-en-183.webp
+- /images/sv4-en-184.webp
+- /images/sv4-en-185.webp
+- /images/sv4-en-186.webp
+- /images/sv4-en-187.webp
+- /images/sv4-en-188.webp
+- /images/sv4-en-189.webp
+- /images/sv4-en-190.webp
+- /images/sv4-en-191.webp
+- /images/sv4-en-192.webp
+- /images/sv4-en-193.webp
+- /images/sv4-en-194.webp
+- /images/sv4-en-195.webp
+- /images/sv4-en-196.webp
+- /images/sv4-en-197.webp
+- /images/sv4-en-198.webp
+- /images/sv4-en-199.webp
+- /images/sv4-en-200.webp
+- /images/sv4-en-201.webp
+- /images/sv4-en-202.webp
+- /images/sv4-en-203.webp
+- /images/sv4-en-204.webp
+- /images/sv4-en-205.webp
+- /images/sv4-en-206.webp
+- /images/sv4-en-207.webp
+- /images/sv4-en-208.webp
+- /images/sv4-en-209.webp
+- /images/sv4-en-210.webp
+- /images/sv4-en-211.webp
+- /images/sv4-en-212.webp
+- /images/sv4-en-213.webp
+- /images/sv4-en-214.webp
+- /images/sv4-en-215.webp
+- /images/sv4-en-216.webp
+:::
+
+<div class="jb-code-container">
     <div id="fapokemon"></div>
 </div>
 
 **Full Art Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-217.webp"><img src="/images/sv4-en-217.webp" alt="sv4_en_217.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-218.webp"><img src="/images/sv4-en-218.webp" alt="sv4_en_218.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-219.webp"><img src="/images/sv4-en-219.webp" alt="sv4_en_219.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-220.webp"><img src="/images/sv4-en-220.webp" alt="sv4_en_220.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-221.webp"><img src="/images/sv4-en-221.webp" alt="sv4_en_221.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-222.webp"><img src="/images/sv4-en-222.webp" alt="sv4_en_222.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-223.webp"><img src="/images/sv4-en-223.webp" alt="sv4_en_223.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-224.webp"><img src="/images/sv4-en-224.webp" alt="sv4_en_224.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-225.webp"><img src="/images/sv4-en-225.webp" alt="sv4_en_225.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-226.webp"><img src="/images/sv4-en-226.webp" alt="sv4_en_226.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-227.webp"><img src="/images/sv4-en-227.webp" alt="sv4_en_227.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-228.webp"><img src="/images/sv4-en-228.webp" alt="sv4_en_228.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-229.webp"><img src="/images/sv4-en-229.webp" alt="sv4_en_229.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-230.webp"><img src="/images/sv4-en-230.webp" alt="sv4_en_230.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-231.webp"><img src="/images/sv4-en-231.webp" alt="sv4_en_231.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-232.webp"><img src="/images/sv4-en-232.webp" alt="sv4_en_232.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-233.webp"><img src="/images/sv4-en-233.webp" alt="sv4_en_233.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-234.webp"><img src="/images/sv4-en-234.webp" alt="sv4_en_234.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/sv4-en-217.webp
+- /images/sv4-en-218.webp
+- /images/sv4-en-219.webp
+- /images/sv4-en-220.webp
+- /images/sv4-en-221.webp
+- /images/sv4-en-222.webp
+- /images/sv4-en-223.webp
+- /images/sv4-en-224.webp
+- /images/sv4-en-225.webp
+- /images/sv4-en-226.webp
+- /images/sv4-en-227.webp
+- /images/sv4-en-228.webp
+- /images/sv4-en-229.webp
+- /images/sv4-en-230.webp
+- /images/sv4-en-231.webp
+- /images/sv4-en-232.webp
+- /images/sv4-en-233.webp
+- /images/sv4-en-234.webp
+:::
+
+<div class="jb-code-container">
     <div id="fasupporters"></div>
 </div>
 
 **Full Art Supporters**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-235.webp"><img src="/images/sv4-en-235.webp" alt="sv4_en_235.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-236.webp"><img src="/images/sv4-en-236.webp" alt="sv4_en_236.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-237.webp"><img src="/images/sv4-en-237.webp" alt="sv4_en_237.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-238.webp"><img src="/images/sv4-en-238.webp" alt="sv4_en_238.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-239.webp"><img src="/images/sv4-en-239.webp" alt="sv4_en_239.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-240.webp"><img src="/images/sv4-en-240.webp" alt="sv4_en_240.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-241.webp"><img src="/images/sv4-en-241.webp" alt="sv4_en_241.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-242.webp"><img src="/images/sv4-en-242.webp" alt="sv4_en_242.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-243.webp"><img src="/images/sv4-en-243.webp" alt="sv4_en_243.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-244.webp"><img src="/images/sv4-en-244.webp" alt="sv4_en_244.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/sv4-en-235.webp
+- /images/sv4-en-236.webp
+- /images/sv4-en-237.webp
+- /images/sv4-en-238.webp
+- /images/sv4-en-239.webp
+- /images/sv4-en-240.webp
+- /images/sv4-en-241.webp
+- /images/sv4-en-242.webp
+- /images/sv4-en-243.webp
+- /images/sv4-en-244.webp
+:::
+
+<div class="jb-code-container">
     <div id="sirpokemon"></div>
 </div>
 
 **Special Illustration Rare Pokémon**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-245.webp"><img src="/images/sv4-en-245.webp" alt="sv4_en_245.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-246.webp"><img src="/images/sv4-en-246.webp" alt="sv4_en_246.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-247.webp"><img src="/images/sv4-en-247.webp" alt="sv4_en_247.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-248.webp"><img src="/images/sv4-en-248.webp" alt="sv4_en_248.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-249.webp"><img src="/images/sv4-en-249.webp" alt="sv4_en_249.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-250.webp"><img src="/images/sv4-en-250.webp" alt="sv4_en_250.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-251.webp"><img src="/images/sv4-en-251.webp" alt="sv4_en_251.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-252.webp"><img src="/images/sv4-en-252.webp" alt="sv4_en_252.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-253.webp"><img src="/images/sv4-en-253.webp" alt="sv4_en_253.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/sv4-en-245.webp
+- /images/sv4-en-246.webp
+- /images/sv4-en-247.webp
+- /images/sv4-en-248.webp
+- /images/sv4-en-249.webp
+- /images/sv4-en-250.webp
+- /images/sv4-en-251.webp
+- /images/sv4-en-252.webp
+- /images/sv4-en-253.webp
+:::
+
+<div class="jb-code-container">
     <div id="sirsupporters"></div>
 </div>
 
 **Special Illustration Rare Supporters**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-254.webp"><img src="/images/sv4-en-254.webp" alt="sv4_en_254.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-255.webp"><img src="/images/sv4-en-255.webp" alt="sv4_en_255.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-256.webp"><img src="/images/sv4-en-256.webp" alt="sv4_en_256.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-257.webp"><img src="/images/sv4-en-257.webp" alt="sv4_en_257.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-258.webp"><img src="/images/sv4-en-258.webp" alt="sv4_en_258.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-259.webp"><img src="/images/sv4-en-259.webp" alt="sv4_en_259.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/sv4-en-254.webp
+- /images/sv4-en-255.webp
+- /images/sv4-en-256.webp
+- /images/sv4-en-257.webp
+- /images/sv4-en-258.webp
+- /images/sv4-en-259.webp
+:::
+
+<div class="jb-code-container">
     <div id="gold"></div>
 </div>
 
 **Gold Cards**
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv4-en-260.webp"><img src="/images/sv4-en-260.webp" alt="sv4_en_260.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-261.webp"><img src="/images/sv4-en-261.webp" alt="sv4_en_261.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-262.webp"><img src="/images/sv4-en-262.webp" alt="sv4_en_262.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-263.webp"><img src="/images/sv4-en-263.webp" alt="sv4_en_263.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-264.webp"><img src="/images/sv4-en-264.webp" alt="sv4_en_264.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-265.webp"><img src="/images/sv4-en-265.webp" alt="sv4_en_265.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv4-en-266.webp"><img src="/images/sv4-en-266.webp" alt="sv4_en_266.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/sv4-en-260.webp
+- /images/sv4-en-261.webp
+- /images/sv4-en-262.webp
+- /images/sv4-en-263.webp
+- /images/sv4-en-264.webp
+- /images/sv4-en-265.webp
+- /images/sv4-en-266.webp
+:::
+
+<div class="jb-code-container">
     <div id="artrares"></div>
 </div>
 

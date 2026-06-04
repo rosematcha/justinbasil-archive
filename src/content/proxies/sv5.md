@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2024-03-22
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Selected Proxies</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Temporal Forces by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" title="Selected Proxies"}
+
+<p class="jb-decklist-center">Learn more about Temporal Forces by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv5">Set List</a>  | 
@@ -21,9 +19,10 @@ publishDate: 2024-03-22
           <a href="/proxies/sv5">Selected Proxies</a>  | 
           <a class="blink" href="/new-decks/sv5">New Decks</a> 
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below are proxies designed for testing new cards from Temporal Forces for the upcoming Standard format. Not all cards in the set will appear in the selected proxies below. More proxies will be added as they are needed for archetype testing in the live streams on the [JustInBasil YouTube channel](https://www.youtube.com/channel/UCtgOKNZRDs8Atbj7j8VVKGw).
 
@@ -34,5 +33,89 @@ Use the PowerPoint method described in [the article on proxies](/guide/proxies) 
   <h2>Update</h2>
   <p class="jb-deckbox-body">Official English-language images are now available for Scarlet &amp; Violet—Temporal Forces. Click here to view those instead.</p>
 </div></a>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/turtwig.webp"><img src="/images/turtwig.webp" alt="Turtwig.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/torterra-ex.webp"><img src="/images/torterra-ex.webp" alt="Torterra ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/shaymin.webp"><img src="/images/shaymin.webp" alt="Shaymin.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/cottonee.webp"><img src="/images/cottonee.webp" alt="Cottonee.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/whimsicott-29c405.webp"><img src="/images/whimsicott-29c405.webp" alt="Whimsicott.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deerling.webp"><img src="/images/deerling.webp" alt="Deerling.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sawsbuck.webp"><img src="/images/sawsbuck.webp" alt="Sawsbuck.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/grubbin-a33d53.webp"><img src="/images/grubbin-a33d53.webp" alt="Grubbin.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/brambleghast-d341ef.webp"><img src="/images/brambleghast-d341ef.webp" alt="Brambleghast.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/scovillain-ex.webp"><img src="/images/scovillain-ex.webp" alt="Scovillain ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/rellor-cfe506.webp"><img src="/images/rellor-cfe506.webp" alt="Rellor.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/rabsca-f63340.webp"><img src="/images/rabsca-f63340.webp" alt="Rabsca.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-leaves-ex.webp"><img src="/images/iron-leaves-ex.webp" alt="Iron Leaves ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/incineroar-ex.webp"><img src="/images/incineroar-ex.webp" alt="Incineroar ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gouging-fire-ex.webp"><img src="/images/gouging-fire-ex.webp" alt="Gouging Fire ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/totodile.webp"><img src="/images/totodile.webp" alt="Totodile.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/croconaw.webp"><img src="/images/croconaw.webp" alt="Croconaw.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/feraligatr.webp"><img src="/images/feraligatr.webp" alt="Feraligatr.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/walking-wake-ex.webp"><img src="/images/walking-wake-ex.webp" alt="Walking Wake ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charjabug-79a638.webp"><img src="/images/charjabug-79a638.webp" alt="Charjabug.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/vikavolt-02b4e0.webp"><img src="/images/vikavolt-02b4e0.webp" alt="Vikavolt.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/wugtrio-ex.webp"><img src="/images/wugtrio-ex.webp" alt="Wugtrio ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-hands.webp"><img src="/images/iron-hands.webp" alt="Iron Hands.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/girafarig.webp"><img src="/images/girafarig.webp" alt="Girafarig.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bronzor.webp"><img src="/images/bronzor.webp" alt="Bronzor.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bronzong-580925.webp"><img src="/images/bronzong-580925.webp" alt="Bronzong.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/cutiefly.webp"><img src="/images/cutiefly.webp" alt="Cutiefly.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/ribombee.webp"><img src="/images/ribombee.webp" alt="Ribombee.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/flutter-mane.webp"><img src="/images/flutter-mane.webp" alt="Flutter Mane.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-valiant-2.webp"><img src="/images/iron-valiant-2.webp" alt="Iron Valiant 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-valiant.webp"><img src="/images/iron-valiant.webp" alt="Iron Valiant.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-crown-ex.webp"><img src="/images/iron-crown-ex.webp" alt="Iron Crown ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/relicanth.webp"><img src="/images/relicanth.webp" alt="Relicanth.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/drilbur.webp"><img src="/images/drilbur.webp" alt="Drilbur.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/great-tusk-2.webp"><img src="/images/great-tusk-2.webp" alt="Great Tusk 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/flutter-mane-052203.webp"><img src="/images/flutter-mane-052203.webp" alt="Flutter Mane.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/iron-boulder-ex.webp"><img src="/images/iron-boulder-ex.webp" alt="Iron Boulder ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gastly-c7494f.webp"><img src="/images/gastly-c7494f.webp" alt="Gastly.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/haunter-af821c.webp"><img src="/images/haunter-af821c.webp" alt="Haunter.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gengar-ex.webp"><img src="/images/gengar-ex.webp" alt="Gengar ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sableye-0cbf41.webp"><img src="/images/sableye-0cbf41.webp" alt="Sableye.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/farigiraf-ex.webp"><img src="/images/farigiraf-ex.webp" alt="Farigiraf ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/roaring-moon.webp"><img src="/images/roaring-moon.webp" alt="Roaring Moon.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/scizor-ex-768565.webp"><img src="/images/scizor-ex-768565.webp" alt="Scizor ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/beldum.webp"><img src="/images/beldum.webp" alt="Beldum.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/metang.webp"><img src="/images/metang.webp" alt="Metang.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/koraidon.webp"><img src="/images/koraidon.webp" alt="Koraidon.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/koraidon-ex.webp"><img src="/images/koraidon-ex.webp" alt="Koraidon ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/miraidon.webp"><img src="/images/miraidon.webp" alt="Miraidon.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/miraidon-ex-da10e7.webp"><img src="/images/miraidon-ex-da10e7.webp" alt="Miraidon ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/raging-bolt-ex.webp"><img src="/images/raging-bolt-ex.webp" alt="Raging Bolt ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/dunsparce.webp"><img src="/images/dunsparce.webp" alt="Dunsparce.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/dudunsparce-79cdaf.webp"><img src="/images/dudunsparce-79cdaf.webp" alt="Dudunsparce.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pidove.webp"><img src="/images/pidove.webp" alt="Pidove.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tranquill.webp"><img src="/images/tranquill.webp" alt="Tranquill.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/unfezant.webp"><img src="/images/unfezant.webp" alt="Unfezant.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/minccino.webp"><img src="/images/minccino.webp" alt="Minccino.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/cinccino.webp"><img src="/images/cinccino.webp" alt="Cinccino.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/drums-of-awakening.webp"><img src="/images/drums-of-awakening.webp" alt="Drums of Awakening.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bianca-s-sincerity.webp"><img src="/images/bianca-s-sincerity.webp" alt="Bianca's Sincerity.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/buddy-poffin-168a2f.webp"><img src="/images/buddy-poffin-168a2f.webp" alt="Buddy Poffin.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/cryptomaniac-s-deciphering.webp"><img src="/images/cryptomaniac-s-deciphering.webp" alt="Cryptomaniac's Deciphering.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/dangerous-jungle.webp"><img src="/images/dangerous-jungle.webp" alt="Dangerous Jungle.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/emergency-board.webp"><img src="/images/emergency-board.webp" alt="Emergency Board.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/eri.webp"><img src="/images/eri.webp" alt="Eri.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/explorer-s-guidance.webp"><img src="/images/explorer-s-guidance.webp" alt="Explorer's Guidance.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/full-metal-lab.webp"><img src="/images/full-metal-lab.webp" alt="Full Metal Lab.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/hand-trimmer.webp"><img src="/images/hand-trimmer.webp" alt="Hand Trimmer.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/heavy-baton.webp"><img src="/images/heavy-baton.webp" alt="Heavy Baton.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/hero-s-cape.webp"><img src="/images/hero-s-cape.webp" alt="Hero's Cape.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/master-ball.webp"><img src="/images/master-ball.webp" alt="Master Ball.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/maximum-belt.webp"><img src="/images/maximum-belt.webp" alt="Maximum Belt.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/morty-s-conviction.webp"><img src="/images/morty-s-conviction.webp" alt="Morty's Conviction.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/order-box.webp"><img src="/images/order-box.webp" alt="Order Box.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/prime-catcher.webp"><img src="/images/prime-catcher.webp" alt="Prime Catcher.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/reboot-pod.webp"><img src="/images/reboot-pod.webp" alt="Reboot Pod.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/salvatore.webp"><img src="/images/salvatore.webp" alt="Salvatore.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mist-energy-4d52ff.webp"><img src="/images/mist-energy-4d52ff.webp" alt="Mist Energy.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/neo-upper-energy.webp"><img src="/images/neo-upper-energy.webp" alt="Neo Upper Energy.png" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/turtwig.webp
+- /images/torterra-ex.webp
+- /images/shaymin.webp
+- /images/cottonee.webp
+- /images/whimsicott-29c405.webp
+- /images/deerling.webp
+- /images/sawsbuck.webp
+- /images/grubbin-a33d53.webp
+- /images/brambleghast-d341ef.webp
+- /images/scovillain-ex.webp
+- /images/rellor-cfe506.webp
+- /images/rabsca-f63340.webp
+- /images/iron-leaves-ex.webp
+- /images/incineroar-ex.webp
+- /images/gouging-fire-ex.webp
+- /images/totodile.webp
+- /images/croconaw.webp
+- /images/feraligatr.webp
+- /images/walking-wake-ex.webp
+- /images/charjabug-79a638.webp
+- /images/vikavolt-02b4e0.webp
+- /images/wugtrio-ex.webp
+- /images/iron-hands.webp
+- /images/girafarig.webp
+- /images/bronzor.webp
+- /images/bronzong-580925.webp
+- /images/cutiefly.webp
+- /images/ribombee.webp
+- /images/flutter-mane.webp
+- /images/iron-valiant-2.webp
+- /images/iron-valiant.webp
+- /images/iron-crown-ex.webp
+- /images/relicanth.webp
+- /images/drilbur.webp
+- /images/great-tusk-2.webp
+- /images/flutter-mane-052203.webp
+- /images/iron-boulder-ex.webp
+- /images/gastly-c7494f.webp
+- /images/haunter-af821c.webp
+- /images/gengar-ex.webp
+- /images/sableye-0cbf41.webp
+- /images/farigiraf-ex.webp
+- /images/roaring-moon.webp
+- /images/scizor-ex-768565.webp
+- /images/beldum.webp
+- /images/metang.webp
+- /images/koraidon.webp
+- /images/koraidon-ex.webp
+- /images/miraidon.webp
+- /images/miraidon-ex-da10e7.webp
+- /images/raging-bolt-ex.webp
+- /images/dunsparce.webp
+- /images/dudunsparce-79cdaf.webp
+- /images/pidove.webp
+- /images/tranquill.webp
+- /images/unfezant.webp
+- /images/minccino.webp
+- /images/cinccino.webp
+- /images/drums-of-awakening.webp
+- /images/bianca-s-sincerity.webp
+- /images/buddy-poffin-168a2f.webp
+- /images/cryptomaniac-s-deciphering.webp
+- /images/dangerous-jungle.webp
+- /images/emergency-board.webp
+- /images/eri.webp
+- /images/explorer-s-guidance.webp
+- /images/full-metal-lab.webp
+- /images/hand-trimmer.webp
+- /images/heavy-baton.webp
+- /images/hero-s-cape.webp
+- /images/master-ball.webp
+- /images/maximum-belt.webp
+- /images/morty-s-conviction.webp
+- /images/order-box.webp
+- /images/prime-catcher.webp
+- /images/reboot-pod.webp
+- /images/salvatore.webp
+- /images/mist-energy-4d52ff.webp
+- /images/neo-upper-energy.webp
+:::
+
+
 

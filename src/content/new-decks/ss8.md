@@ -42,20 +42,9 @@ With the arrival of Fusion Strike this November, we’ll have a handful of new d
 
 ---
 
-<div class="jb-code-container">
-    <div id="chandelurevmax" class="deck_box">
-    <h2>Chandelure VMAX</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. AKIRA EGAWA](/images/chandelure-vmax.webp)
-
-*Illus. AKIRA EGAWA*
 
 
+::::deck{id="chandelurevmax" name="Chandelure VMAX" image="/images/chandelure-vmax.webp" illus="AKIRA EGAWA" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -70,34 +59,42 @@ Bench and power up Victini V and Chandelure V, choosing which to focus on buildi
 
 - [Rotom Drone](https://limitlesstcg.com/cards/viv/151/) to sneak peaks at your opponent’s hand.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 3 Chandelure V FST 39 3 Chandelure VMAX FST 40 3 Mew CEL 11 2 Victini V SSH 25 1 Victini V BST 21 3 Victini VMAX BST 22 1 Crobat V DAA 104
-
-**Trainer Cards - 33** 4 Marnie CPA 56 3 Boss's Orders RCL 154 3 Professor's Research CPA 62 2 Raihan EVS 152 4 Crushing Hammer SSH 159 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 2 Air Balloon SSH 156 2 Fan of Waves BST 127 1 Escape Rope BST 125 1 Switch SSH 183 3 Path to the Peak CRE 148
-
-**Energy - 11** 7 Fire Energy SWSHEnergy 2 4 Capture Energy RCL 171
+```decklist
+Pokémon - 16
+3 Chandelure V FST 39
+3 Chandelure VMAX FST 40
+3 Mew CEL 11
+2 Victini V SSH 25
+1 Victini V BST 21
+3 Victini VMAX BST 22
+1 Crobat V DAA 104
+Trainer Cards - 33
+4 Marnie CPA 56
+3 Boss's Orders RCL 154
+3 Professor's Research CPA 62
+2 Raihan EVS 152
+4 Crushing Hammer SSH 159
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+2 Air Balloon SSH 156
+2 Fan of Waves BST 127
+1 Escape Rope BST 125
+1 Switch SSH 183
+3 Path to the Peak CRE 148
+Energy - 11
+7 Fire Energy SWSHEnergy 2
+4 Capture Energy RCL 171
+```
 
 ### ALTERNATE LISTS
 
 - Coming soon.
 
-</div></div><div class="jb-code-container">
-    <div id="starmie" class="deck_box">
-  <h2>Starmie</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Uta](/images/starmie-1c4dfc.webp)
-
-*Illus. Uta*
+::::
 
 
+
+::::deck{id="starmie" name="Starmie" image="/images/starmie-1c4dfc.webp" illus="Uta" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -112,30 +109,38 @@ Bench Snom and Staryu and evolve Snom into Frosmoth and Staryu into Starmie as s
 
 - [Barraskewda VIV 42](https://limitlesstcg.com/cards/VIV/42/) to snipe damaged benched Pokémon without the need to flood energy on a single Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Staryu FST 52
+4 Starmie FST 53
+2 Basculin FST 70
+3 Snom SHF 29
+3 Frosmoth SSH 64
+1 Passimian CRE 88
+1 Crobat V DAA 104
+Trainer Cards - 31
+4 Professor's Research CEL 23
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Raihan EVS 152
+1 Nessa VIV 157
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+2 Air Balloon SSH 156
+2 Capacious Bucket RCL 156
+2 Energy Retrieval SSH 160
+2 Telescopic Sight VIV 160
+1 Escape Rope BST 125
+2 Training Court RCL 169
+Energy - 11
+11 Water Energy SWSHEnergy 3
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Staryu FST 52 4 Starmie FST 53 2 Basculin FST 70 3 Snom SHF 29 3 Frosmoth SSH 64 1 Passimian CRE 88 1 Crobat V DAA 104
-
-**Trainer Cards - 31** 4 Professor's Research CEL 23 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Raihan EVS 152 1 Nessa VIV 157 4 Level Ball BST 129 4 Quick Ball SSH 179 2 Air Balloon SSH 156 2 Capacious Bucket RCL 156 2 Energy Retrieval SSH 160 2 Telescopic Sight VIV 160 1 Escape Rope BST 125 2 Training Court RCL 169
-
-**Energy - 11** 11 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="crabominablev" class="deck_box">
-  <h2>Crabominable V</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. MUGENUP](/images/crabominable-v.webp)
-
-*Illus. MUGENUP*
+::::
 
 
+
+::::deck{id="crabominablev" name="Crabominable V" image="/images/crabominable-v.webp" illus="MUGENUP" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -155,30 +160,40 @@ Using the deck’s various search cards including Quick Ball and Capture Energy,
 
 - Gutting the Inteleon engine to use another engine, like the [Mew](https://limitlesstcg.com/cards/cel/11/) engine, in its place in order to make room for [Frosmoth SSH 64](https://limitlesstcg.com/cards/SSH/64/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Sobble CRE 41
+4 Drizzile SSH 56
+3 Inteleon CRE 43
+1 Inteleon SSH 58
+3 Crabominable V FST 76
+2 Suicune V EVS 31
+1 Crobat V DAA 104
+1 Galarian Zigzagoon SSH 117
+Trainer Cards - 31
+4 Melony CRE 146
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 Professor's Research CPA 62
+1 Raihan EVS 152
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Exp. Share BST 126
+2 Capacious Bucket RCL 156
+2 Scoop Up Net RCL 165
+1 Air Balloon SSH 156
+1 Switch SSH 183
+Energy - 10
+8 Water Energy SWSHEnergy 3
+2 Capture Energy RCL 171
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Sobble CRE 41 4 Drizzile SSH 56 3 Inteleon CRE 43 1 Inteleon SSH 58 3 Crabominable V FST 76 2 Suicune V EVS 31 1 Crobat V DAA 104 1 Galarian Zigzagoon SSH 117
-
-**Trainer Cards - 31** 4 Melony CRE 146 2 Boss's Orders RCL 154 2 Marnie CPA 56 2 Professor's Research CPA 62 1 Raihan EVS 152 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Exp. Share BST 126 2 Capacious Bucket RCL 156 2 Scoop Up Net RCL 165 1 Air Balloon SSH 156 1 Switch SSH 183
-
-**Energy - 10** 8 Water Energy SWSHEnergy 3 2 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="inteleonvmax" class="deck_box">
-    <h2>Inteleon VMAX</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/inteleon-v-fst.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="inteleonvmax" name="Inteleon VMAX" image="/images/inteleon-v-fst.webp" illus="5ban Graphics" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -202,34 +217,42 @@ Bench and evolve Inteleon V into Inteleon VMAX, and bench Sobble to prepare it t
 - [Galarian Zigzagoon SSH 117](https://limitlesstcg.com/cards/SSH/117/) as an extra out to a damage counter to set up knockouts or to finish off damaged Pokémon.
 - [Crobat V DAA 104](https://limitlesstcg.com/cards/DAA/104/) as an out to draw more cards.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 20** 4 Inteleon V RCL 49 2 Inteleon VMAX RCL 50 2 Inteleon VMAX FST 79 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 1 Suicune V EVS 31
-
-**Trainer Cards - 31** 4 Melony CRE 146 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 1 Marnie CPA 56 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Capacious Bucket RCL 156 2 Scoop Up Net RCL 165 1 Escape Rope BST 125 3 Training Court RCL 169
-
-**Energy - 9** 9 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 20
+4 Inteleon V RCL 49
+2 Inteleon VMAX RCL 50
+2 Inteleon VMAX FST 79
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+1 Suicune V EVS 31
+Trainer Cards - 31
+4 Melony CRE 146
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+1 Marnie CPA 56
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Capacious Bucket RCL 156
+2 Scoop Up Net RCL 165
+1 Escape Rope BST 125
+3 Training Court RCL 169
+Energy - 9
+9 Water Energy SWSHEnergy 3
+```
 
 ### ALTERNATE LISTS
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=2-r2h8IXMaA)
 
-</div></div><div class="jb-code-container">
-    <div id="boltundvmax" class="deck_box">
-  <h2>Boltund VMAX</h2>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Tsuji](/images/boltund-vmax.webp)
-
-*Illus. PLANETA Tsuji*
+::::
 
 
+
+::::deck{id="boltundvmax" name="Boltund VMAX" image="/images/boltund-vmax.webp" illus="PLANETA Tsuji" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -252,35 +275,39 @@ Bench and evolve Mareep into Flaaffy and use Boltund V’s Electrify attack and 
 - [Cheryl](https://limitlesstcg.com/cards/BST/123/) to heal off Boltund VMAX, after which you can simply reattach the discarded energy with Flaaffy’s Dynamotor ability.
 - [Rose](https://limitlesstcg.com/cards/DAA/168/) as another option to quickly attach two energy cards, making it possibly to have a fresh Boltund VMAX ready to attack right away.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Boltund V RCL 67 3 Boltund VMAX FST 104 4 Mareep CRE 47 4 Flaaffy EVS 55 2 Crobat V DAA 104 1 Tapu Koko V SSH 72
-
-**Trainer Cards - 29** 4 Marnie CPA 56 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Switch SSH 183 4 Stormy Mountains EVS 161
-
-**Energy - 13** 9 Lightning Energy SWSHEnergy 4 4 Speed Lightning Energy RCL 173
+```decklist
+Pokémon - 18
+4 Boltund V RCL 67
+3 Boltund VMAX FST 104
+4 Mareep CRE 47
+4 Flaaffy EVS 55
+2 Crobat V DAA 104
+1 Tapu Koko V SSH 72
+Trainer Cards - 29
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Switch SSH 183
+4 Stormy Mountains EVS 161
+Energy - 13
+9 Lightning Energy SWSHEnergy 4
+4 Speed Lightning Energy RCL 173
+```
 
 ### ALTERNATE LISTS
 
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=Kx6d1F25mlw)
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=lljpblJwWlA)
 
-</div></div><div class="jb-code-container">
-    <div id="mewvmax" class="deck_box">
-  <h2>Mew VMAX</h2>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/mew-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="mewvmax" name="Mew VMAX" image="/images/mew-vmax.webp" illus="5ban Graphics" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -301,35 +328,43 @@ Bench Mew V and Genesect V, filling your bench with Genesect V and a spare Mew V
 - [Pokégear 3.0](https://limitlesstcg.com/cards/SSH/174/) as a means of more easily finding [Peony](https://limitlesstcg.com/cards/CRE/150/).
 - [Chili & Cilan & Cress](https://limitlesstcg.com/cards/jp/S8/98/) as a way of quickly filling your bench and/or hand with Fusion Strike Pokémon.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 13** 4 Mew V FST 113 3 Mew VMAX FST 114 4 Genesect V FST 185 1 Latias FST 193 1 Oricorio FST 42
-
-**Trainer Cards - 37** 3 Boss's Orders RCL 154 3 Marnie CPA 56 3 Peony CRE 150 2 Elesa's Sparkle FST 233 4 Power Tablet FST 236 4 Quick Ball SSH 179 4 Switch SSH 183 3 Evolution Incense SSH 163 3 Fog Crystal CRE 140 2 Air Balloon SSH 156 2 Escape Rope BST 125 1 Vitality Band SSH 185 3 Old Cemetery CRE 147
-
-**Energy - 10** 4 Capture Energy RCL 171 4 Fusion Strike Energy FST 244 2 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 13
+4 Mew V FST 113
+3 Mew VMAX FST 114
+4 Genesect V FST 185
+1 Latias FST 193
+1 Oricorio FST 42
+Trainer Cards - 37
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+3 Peony CRE 150
+2 Elesa's Sparkle FST 233
+4 Power Tablet FST 236
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Evolution Incense SSH 163
+3 Fog Crystal CRE 140
+2 Air Balloon SSH 156
+2 Escape Rope BST 125
+1 Vitality Band SSH 185
+3 Old Cemetery CRE 147
+Energy - 10
+4 Capture Energy RCL 171
+4 Fusion Strike Energy FST 244
+2 Psychic Energy SWSHEnergy 5
+```
 
 ### ALTERNATE LISTS
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=IQDDV2ZS3_M)
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=mjC8BNbpLVk)
 
-</div></div><div class="jb-code-container">
-    <div id="deoxys" class="deck_box">
-  <h2>Deoxys</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Kouki Saitou](/images/deoxys.webp)
-
-*Illus. Kouki Saitou*
+::::
 
 
+
+::::deck{id="deoxys" name="Deoxys" image="/images/deoxys.webp" illus="Kouki Saitou" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -347,30 +382,36 @@ Bench Houndour and evolve it to Houndoom as quickly as possible. Prepare Deoxys 
 
 - [Single Strike Urshifu V BST 85](https://limitlesstcg.com/cards/BST/85/), [Stonjourner BST 84](https://limitlesstcg.com/cards/BST/84/), or [Seviper CRE 102](https://limitlesstcg.com/cards/CRE/102/) as an alternate attacker when Fusion Strike Energy runs dry.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 14
+4 Deoxys FST 120
+4 Houndour BST 95
+4 Houndoom BST 96
+2 Crobat V DAA 104
+Trainer Cards - 36
+4 Marnie CPA 56
+4 Professor's Research CEL 23
+2 Boss's Orders RCL 154
+2 Elesa's Sparkle FST 233
+4 Power Tablet FST 236
+4 Quick Ball SSH 179
+4 Urn of Vitality BST 139
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Level Ball BST 129
+1 Ordinary Rod SSH 171
+4 Tower of Darkness BST 137
+Energy - 10
+4 Fusion Strike Energy FST 244
+4 Single Strike Energy BST 141
+2 Rapid Strike Energy BST 140
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 14** 4 Deoxys FST 120 4 Houndour BST 95 4 Houndoom BST 96 2 Crobat V DAA 104
-
-**Trainer Cards - 36** 4 Marnie CPA 56 4 Professor's Research CEL 23 2 Boss's Orders RCL 154 2 Elesa's Sparkle FST 233 4 Power Tablet FST 236 4 Quick Ball SSH 179 4 Urn of Vitality BST 139 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Level Ball BST 129 1 Ordinary Rod SSH 171 4 Tower of Darkness BST 137
-
-**Energy - 10** 4 Fusion Strike Energy FST 244 4 Single Strike Energy BST 141 2 Rapid Strike Energy BST 140
-
-</div></div><div class="jb-code-container">
-    <div id="steelix" class="deck_box">
-  <h2>Steelix</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryota Fuse](/images/steelix.webp)
-
-*Illus. Ryota Fuse*
+::::
 
 
+
+::::deck{id="steelix" name="Steelix" image="/images/steelix.webp" illus="Ryota Fuse" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -387,30 +428,34 @@ Play down Onix, Cherubi, and Minccino, evolving them to Steelix, Cherrim, and Ci
 - [Evolution Incense](https://limitlesstcg.com/cards/SSH/163/) to make it easier to find Steelix.
 - An alternate setup engine in place of Cinccino, like [Mew CEL 11](https://limitlesstcg.com/cards/cel/11/), [Jirachi VIV 119](https://limitlesstcg.com/cards/viv/119/), or [Crobat V DAA 104](https://limitlesstcg.com/cards/DAA/104/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 21
+4 Onix FST 138
+4 Steelix FST 139
+3 Cherubi BST 7
+3 Cherrim BST 8
+3 Minccino SSH 145
+3 Cinccino SSH 147
+1 Tropius EVS 6
+Trainer Cards - 28
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Raihan EVS 152
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Energy Retrieval SSH 160
+2 Ordinary Rod SSH 171
+4 Old Cemetery CRE 147
+Energy - 11
+11 Grass Energy SWSHEnergy 1
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 21** 4 Onix FST 138 4 Steelix FST 139 3 Cherubi BST 7 3 Cherrim BST 8 3 Minccino SSH 145 3 Cinccino SSH 147 1 Tropius EVS 6
-
-**Trainer Cards - 28** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Raihan EVS 152 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Energy Retrieval SSH 160 2 Ordinary Rod SSH 171 4 Old Cemetery CRE 147
-
-**Energy - 11** 11 Grass Energy SWSHEnergy 1
-
-</div></div><div class="jb-code-container">
-    <div id="gengarvmax" class="deck_box">
-  <h2>Gengar VMAX</h2>
-     <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/gengar-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="gengarvmax" name="Gengar VMAX" image="/images/gengar-vmax.webp" illus="5ban Graphics" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -429,35 +474,42 @@ Bench Houndour and evolve it to Houndoom as quickly as possible. Play down Umbre
 
 - [Single Strike Urshifu V BST 85](https://limitlesstcg.com/cards/BST/85/) to hit an additional typing for weakness.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 20** 4 Houndour BST 95 4 Houndoom BST 96 3 Umbreon V EVS 94 3 Umbreon VMAX EVS 95 2 Gengar V FST 156 2 Gengar VMAX FST 157 2 Crobat V DAA 104
-
-**Trainer Cards - 30** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Quick Ball SSH 179 4 Urn of Vitality BST 139 4 Evolution Incense SSH 163 2 Air Balloon SSH 156 1 Escape Rope BST 125 1 Switch SSH 183 4 Tower of Darkness BST 137
-
-**Energy - 10** 4 Capture Energy RCL 171 4 Single Strike Energy BST 141 2 Hiding Darkness Energy DAA 175
+```decklist
+Pokémon - 20
+4 Houndour BST 95
+4 Houndoom BST 96
+3 Umbreon V EVS 94
+3 Umbreon VMAX EVS 95
+2 Gengar V FST 156
+2 Gengar VMAX FST 157
+2 Crobat V DAA 104
+Trainer Cards - 30
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Urn of Vitality BST 139
+4 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+1 Escape Rope BST 125
+1 Switch SSH 183
+4 Tower of Darkness BST 137
+Energy - 10
+4 Capture Energy RCL 171
+4 Single Strike Energy BST 141
+2 Hiding Darkness Energy DAA 175
+```
 
 ### ALTERNATE LISTS
 
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=cFkuxP7ojHw)
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=BMpWR4LlAiU)
 
-</div></div><div class="jb-code-container">
-    <div id="morpeko" class="deck_box">
-  <h2>Morpeko</h2>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Teeziro](/images/morpeko.webp)
-
-*Illus. Teeziro*
+::::
 
 
+
+::::deck{id="morpeko" name="Morpeko" image="/images/morpeko.webp" illus="Teeziro" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -476,30 +528,38 @@ Bench Houndour and evolve it to Houndoom as quickly as possible. Play down Morpe
 
 - [Hiding Darkness Energy](https://limitlesstcg.com/cards/DAA/175/) as an additional switching option.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 14
+4 Morpeko FST 109
+3 Houndour BST 95
+3 Houndoom BST 96
+2 Crobat V DAA 104
+2 Mew CEL 11
+Trainer Cards - 39
+3 Professor's Research CEL 23
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+4 Cape of Toughness DAA 160
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Escape Rope BST 125
+3 Scoop Up Net RCL 165
+2 Urn of Vitality BST 139
+1 Ordinary Rod SSH 171
+1 Rescue Carrier EVS 154
+4 Spikemuth DAA 170
+Energy - 7
+4 Single Strike Energy BST 141
+3 Darkness Energy SWSHEnergy 7
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 14** 4 Morpeko FST 109 3 Houndour BST 95 3 Houndoom BST 96 2 Crobat V DAA 104 2 Mew CEL 11
-
-**Trainer Cards - 39** 3 Professor's Research CEL 23 2 Bird Keeper DAA 159 2 Boss's Orders RCL 154 2 Marnie CPA 56 4 Cape of Toughness DAA 160 4 Level Ball BST 129 4 Quick Ball SSH 179 4 Switch SSH 183 3 Escape Rope BST 125 3 Scoop Up Net RCL 165 2 Urn of Vitality BST 139 1 Ordinary Rod SSH 171 1 Rescue Carrier EVS 154 4 Spikemuth DAA 170
-
-**Energy - 7** 4 Single Strike Energy BST 141 3 Darkness Energy SWSHEnergy 7
-
-</div></div><div class="jb-code-container">
-    <div id="roll" class="deck_box">
-  <h2>Let's All Rollout</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Mizue](/images/blissey.webp)
-
-*Illus. Mizue*
+::::
 
 
+
+::::deck{id="roll" name="Let's All Rollout" image="/images/blissey.webp" illus="Mizue" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -516,30 +576,36 @@ Fill your bench with a Chansey and various Let’s All Rollout Pokémon. Evolve 
 - [Capture Energy](https://limitlesstcg.com/cards/rcl/171/) to help get your Let’s All Rollout Pokémon in play so that they can contribute to your damage from the bench.
 - [Vitality Band](https://limitlesstcg.com/cards/ssh/185/) to boost the damage of the Let’s All Rollout attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Chansey FST 202
+4 Blissey FST 203
+3 Jigglypuff FST 110
+3 Sandshrew FST 131
+3 Togedemaru FST 187
+2 Marill FST 58
+Trainer Cards - 32
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+3 Raihan EVS 152
+2 Boss's Orders RCL 154
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Great Ball CPA 52
+3 PokéGear 3.0 SSH 174
+2 Air Balloon SSH 156
+2 Evolution Incense SSH 163
+2 Rescue Carrier EVS 154
+Energy - 9
+5 Water Energy SWSHEnergy 3
+4 Twin Energy RCL 174
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Chansey FST 202 4 Blissey FST 203 3 Jigglypuff FST 110 3 Sandshrew FST 131 3 Togedemaru FST 187 2 Marill FST 58
-
-**Trainer Cards - 32** 4 Professor's Research CPA 62 3 Marnie CPA 56 3 Raihan EVS 152 2 Boss's Orders RCL 154 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Great Ball CPA 52 3 PokéGear 3.0 SSH 174 2 Air Balloon SSH 156 2 Evolution Incense SSH 163 2 Rescue Carrier EVS 154
-
-**Energy - 9** 5 Water Energy SWSHEnergy 3 4 Twin Energy RCL 174
-
-</div></div><div class="jb-code-container">
-    <div id="greedentvmax" class="deck_box">
-  <h2>Greedent VMAX</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Mochizuki](/images/greedent.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="greedentvmax" name="Greedent VMAX" image="/images/greedent.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -561,19 +627,41 @@ Weaken your opponent's Pokémon with Suicune V's Blizzard Rondo attack and Intel
 - [Tool Scrapper](https://limitlesstcg.com/cards/rcl/168/) to remove damage reducing and HP increasing tools.
 - [Vitality Band](https://limitlesstcg.com/cards/SSH/185/) and/or [Powerful Colorless Energy](https://limitlesstcg.com/cards/DAA/176/) to boost Greedent VMAX’s damage to make it easier to take knockouts and to get the extra prize cards.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 23** 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 3 Suicune V EVS 31 2 Greedent V FST 217 2 Greedent VMAX FST 218 2 Shuppet VIV 67 2 Banette VIV 68 1 Crobat V DAA 104
-
-**Trainer Cards - 28** 4 Melony CRE 146 2 Boss's Orders RCL 154 2 Marnie CPA 56 2 Professor's Research CPA 62 1 Raihan EVS 152 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 2 Capacious Bucket RCL 156 2 Echoing Horn CRE 136 1 Air Balloon SSH 156 1 Switch SSH 183
-
-**Energy - 9** 7 Water Energy SWSHEnergy 3 2 Capture Energy RCL 171
+```decklist
+Pokémon - 23
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+3 Suicune V EVS 31
+2 Greedent V FST 217
+2 Greedent VMAX FST 218
+2 Shuppet VIV 67
+2 Banette VIV 68
+1 Crobat V DAA 104
+Trainer Cards - 28
+4 Melony CRE 146
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 Professor's Research CPA 62
+1 Raihan EVS 152
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+2 Capacious Bucket RCL 156
+2 Echoing Horn CRE 136
+1 Air Balloon SSH 156
+1 Switch SSH 183
+Energy - 9
+7 Water Energy SWSHEnergy 3
+2 Capture Energy RCL 171
+```
 
 ### ALTERNATE LISTS
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=gH_AZF3hIsI)
 
-</div></div>
+::::
+
+
 

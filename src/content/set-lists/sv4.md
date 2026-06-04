@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2023-11-06
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
               </p><p class="jb-decklist-center">
@@ -22,9 +20,10 @@ publishDate: 2023-11-06
           <a class="blink" href="/proxies/sv4">Selected Proxies</a> | 
           <a class="blink" href="/new-decks/sv4">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 182 cards (before Secret Rares)</h3>
 

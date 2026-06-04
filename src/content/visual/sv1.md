@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2023-04-03
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
-  <div> 
-    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">Visual Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Scarlet &amp; Violet by visiting the articles below.
+
+
+:::setcard{bg="/images/scarlet-violet.webp" logo="/images/pokemon-tcg-scarlet-violet-logo.webp" identifier="/images/svi.webp" idalt="SV1 Set Identifier" title="Visual Set List"}
+
+<p class="jb-decklist-center">Learn more about Scarlet &amp; Violet by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv1">Set List</a> | 
@@ -22,9 +19,10 @@ publishDate: 2023-04-03
           <a class="blink" href="/new-decks/sv1">New Archetypes</a>
         | <a class="blink" href="/proxies/sv1">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div><div class="jb-code-container">
+
+:::
+
+<div class="jb-code-container">
     <p class="jb-center">Click an option below to jump to that part of the visual set list.</p>
 <p class="jb-center">
 <a href="#G" class="jlink"><span class="symb">G</span><span> Grass</span></a> | 
@@ -44,49 +42,297 @@ publishDate: 2023-04-03
 </center>
 </div><div class="jb-code-container">
     <span id="G" class="symb">G</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-001.webp"><img src="/images/sv1-en-001.webp" alt="sv1_en_001.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-002.webp"><img src="/images/sv1-en-002.webp" alt="sv1_en_002.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-003.webp"><img src="/images/sv1-en-003.webp" alt="sv1_en_003.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-004.webp"><img src="/images/sv1-en-004.webp" alt="sv1_en_004.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-005.webp"><img src="/images/sv1-en-005.webp" alt="sv1_en_005.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-006.webp"><img src="/images/sv1-en-006.webp" alt="sv1_en_006.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-007.webp"><img src="/images/sv1-en-007.webp" alt="sv1_en_007.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-008.webp"><img src="/images/sv1-en-008.webp" alt="sv1_en_008.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-009.webp"><img src="/images/sv1-en-009.webp" alt="sv1_en_009.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-010.webp"><img src="/images/sv1-en-010.webp" alt="sv1_en_010.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-011.webp"><img src="/images/sv1-en-011.webp" alt="sv1_en_011.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-012.webp"><img src="/images/sv1-en-012.webp" alt="sv1_en_012.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-013.webp"><img src="/images/sv1-en-013.webp" alt="sv1_en_013.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-014.webp"><img src="/images/sv1-en-014.webp" alt="sv1_en_014.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-015.webp"><img src="/images/sv1-en-015.webp" alt="sv1_en_015.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-016.webp"><img src="/images/sv1-en-016.webp" alt="sv1_en_016.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-017.webp"><img src="/images/sv1-en-017.webp" alt="sv1_en_017.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-018.webp"><img src="/images/sv1-en-018.webp" alt="sv1_en_018.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-019.webp"><img src="/images/sv1-en-019.webp" alt="sv1_en_019.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-020.webp"><img src="/images/sv1-en-020.webp" alt="sv1_en_020.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-021.webp"><img src="/images/sv1-en-021.webp" alt="sv1_en_021.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-022.webp"><img src="/images/sv1-en-022.webp" alt="sv1_en_022.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-023.webp"><img src="/images/sv1-en-023.webp" alt="sv1_en_023.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-024.webp"><img src="/images/sv1-en-024.webp" alt="sv1_en_024.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-025.webp"><img src="/images/sv1-en-025.webp" alt="sv1_en_025.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-026.webp"><img src="/images/sv1-en-026.webp" alt="sv1_en_026.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-027.webp"><img src="/images/sv1-en-027.webp" alt="sv1_en_027.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-028.webp"><img src="/images/sv1-en-028.webp" alt="sv1_en_028.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-029.webp"><img src="/images/sv1-en-029.webp" alt="sv1_en_029.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-001.webp
+- /images/sv1-en-002.webp
+- /images/sv1-en-003.webp
+- /images/sv1-en-004.webp
+- /images/sv1-en-005.webp
+- /images/sv1-en-006.webp
+- /images/sv1-en-007.webp
+- /images/sv1-en-008.webp
+- /images/sv1-en-009.webp
+- /images/sv1-en-010.webp
+- /images/sv1-en-011.webp
+- /images/sv1-en-012.webp
+- /images/sv1-en-013.webp
+- /images/sv1-en-014.webp
+- /images/sv1-en-015.webp
+- /images/sv1-en-016.webp
+- /images/sv1-en-017.webp
+- /images/sv1-en-018.webp
+- /images/sv1-en-019.webp
+- /images/sv1-en-020.webp
+- /images/sv1-en-021.webp
+- /images/sv1-en-022.webp
+- /images/sv1-en-023.webp
+- /images/sv1-en-024.webp
+- /images/sv1-en-025.webp
+- /images/sv1-en-026.webp
+- /images/sv1-en-027.webp
+- /images/sv1-en-028.webp
+- /images/sv1-en-029.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="R" class="symb">R</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-030.webp"><img src="/images/sv1-en-030.webp" alt="sv1_en_030.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-031.webp"><img src="/images/sv1-en-031.webp" alt="sv1_en_031.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-032.webp"><img src="/images/sv1-en-032.webp" alt="sv1_en_032.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-033.webp"><img src="/images/sv1-en-033.webp" alt="sv1_en_033.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-034.webp"><img src="/images/sv1-en-034.webp" alt="sv1_en_034.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-035.webp"><img src="/images/sv1-en-035.webp" alt="sv1_en_035.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-036.webp"><img src="/images/sv1-en-036.webp" alt="sv1_en_036.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-037.webp"><img src="/images/sv1-en-037.webp" alt="sv1_en_037.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-038.webp"><img src="/images/sv1-en-038.webp" alt="sv1_en_038.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-039.webp"><img src="/images/sv1-en-039.webp" alt="sv1_en_039.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-040.webp"><img src="/images/sv1-en-040.webp" alt="sv1_en_040.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-041.webp"><img src="/images/sv1-en-041.webp" alt="sv1_en_041.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-030.webp
+- /images/sv1-en-031.webp
+- /images/sv1-en-032.webp
+- /images/sv1-en-033.webp
+- /images/sv1-en-034.webp
+- /images/sv1-en-035.webp
+- /images/sv1-en-036.webp
+- /images/sv1-en-037.webp
+- /images/sv1-en-038.webp
+- /images/sv1-en-039.webp
+- /images/sv1-en-040.webp
+- /images/sv1-en-041.webp
+:::
+
+<div class="jb-code-container">
     <span id="W" class="symb">W</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-042.webp"><img src="/images/sv1-en-042.webp" alt="sv1_en_042.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-043.webp"><img src="/images/sv1-en-043.webp" alt="sv1_en_043.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-044.webp"><img src="/images/sv1-en-044.webp" alt="sv1_en_044.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-045.webp"><img src="/images/sv1-en-045.webp" alt="sv1_en_045.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-046.webp"><img src="/images/sv1-en-046.webp" alt="sv1_en_046.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-047.webp"><img src="/images/sv1-en-047.webp" alt="sv1_en_047.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-048.webp"><img src="/images/sv1-en-048.webp" alt="sv1_en_048.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-049.webp"><img src="/images/sv1-en-049.webp" alt="sv1_en_049.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-050.webp"><img src="/images/sv1-en-050.webp" alt="sv1_en_050.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-051.webp"><img src="/images/sv1-en-051.webp" alt="sv1_en_051.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-052.webp"><img src="/images/sv1-en-052.webp" alt="sv1_en_052.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-053.webp"><img src="/images/sv1-en-053.webp" alt="sv1_en_053.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-054.webp"><img src="/images/sv1-en-054.webp" alt="sv1_en_054.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-055.webp"><img src="/images/sv1-en-055.webp" alt="sv1_en_055.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-056.webp"><img src="/images/sv1-en-056.webp" alt="sv1_en_056.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-057.webp"><img src="/images/sv1-en-057.webp" alt="sv1_en_057.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-058.webp"><img src="/images/sv1-en-058.webp" alt="sv1_en_058.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-059.webp"><img src="/images/sv1-en-059.webp" alt="sv1_en_059.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-060.webp"><img src="/images/sv1-en-060.webp" alt="sv1_en_060.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-061.webp"><img src="/images/sv1-en-061.webp" alt="sv1_en_061.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-062.webp"><img src="/images/sv1-en-062.webp" alt="sv1_en_062.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-042.webp
+- /images/sv1-en-043.webp
+- /images/sv1-en-044.webp
+- /images/sv1-en-045.webp
+- /images/sv1-en-046.webp
+- /images/sv1-en-047.webp
+- /images/sv1-en-048.webp
+- /images/sv1-en-049.webp
+- /images/sv1-en-050.webp
+- /images/sv1-en-051.webp
+- /images/sv1-en-052.webp
+- /images/sv1-en-053.webp
+- /images/sv1-en-054.webp
+- /images/sv1-en-055.webp
+- /images/sv1-en-056.webp
+- /images/sv1-en-057.webp
+- /images/sv1-en-058.webp
+- /images/sv1-en-059.webp
+- /images/sv1-en-060.webp
+- /images/sv1-en-061.webp
+- /images/sv1-en-062.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="L" class="symb">L</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-063.webp"><img src="/images/sv1-en-063.webp" alt="sv1_en_063.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-064.webp"><img src="/images/sv1-en-064.webp" alt="sv1_en_064.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-065.webp"><img src="/images/sv1-en-065.webp" alt="sv1_en_065.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-066.webp"><img src="/images/sv1-en-066.webp" alt="sv1_en_066.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-067.webp"><img src="/images/sv1-en-067.webp" alt="sv1_en_067.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-068.webp"><img src="/images/sv1-en-068.webp" alt="sv1_en_068.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-069.webp"><img src="/images/sv1-en-069.webp" alt="sv1_en_069.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-070.webp"><img src="/images/sv1-en-070.webp" alt="sv1_en_070.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-071.webp"><img src="/images/sv1-en-071.webp" alt="sv1_en_071.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-072.webp"><img src="/images/sv1-en-072.webp" alt="sv1_en_072.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-073.webp"><img src="/images/sv1-en-073.webp" alt="sv1_en_073.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-074.webp"><img src="/images/sv1-en-074.webp" alt="sv1_en_074.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-075.webp"><img src="/images/sv1-en-075.webp" alt="sv1_en_075.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-076.webp"><img src="/images/sv1-en-076.webp" alt="sv1_en_076.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-077.webp"><img src="/images/sv1-en-077.webp" alt="sv1_en_077.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-078.webp"><img src="/images/sv1-en-078.webp" alt="sv1_en_078.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-079.webp"><img src="/images/sv1-en-079.webp" alt="sv1_en_079.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-080.webp"><img src="/images/sv1-en-080.webp" alt="sv1_en_080.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-081.webp"><img src="/images/sv1-en-081.webp" alt="sv1_en_081.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-063.webp
+- /images/sv1-en-064.webp
+- /images/sv1-en-065.webp
+- /images/sv1-en-066.webp
+- /images/sv1-en-067.webp
+- /images/sv1-en-068.webp
+- /images/sv1-en-069.webp
+- /images/sv1-en-070.webp
+- /images/sv1-en-071.webp
+- /images/sv1-en-072.webp
+- /images/sv1-en-073.webp
+- /images/sv1-en-074.webp
+- /images/sv1-en-075.webp
+- /images/sv1-en-076.webp
+- /images/sv1-en-077.webp
+- /images/sv1-en-078.webp
+- /images/sv1-en-079.webp
+- /images/sv1-en-080.webp
+- /images/sv1-en-081.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="P" class="symb">P</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-082.webp"><img src="/images/sv1-en-082.webp" alt="sv1_en_082.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-083.webp"><img src="/images/sv1-en-083.webp" alt="sv1_en_083.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-084.webp"><img src="/images/sv1-en-084.webp" alt="sv1_en_084.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-085.webp"><img src="/images/sv1-en-085.webp" alt="sv1_en_085.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-086.webp"><img src="/images/sv1-en-086.webp" alt="sv1_en_086.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-087.webp"><img src="/images/sv1-en-087.webp" alt="sv1_en_087.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-088.webp"><img src="/images/sv1-en-088.webp" alt="sv1_en_088.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-089.webp"><img src="/images/sv1-en-089.webp" alt="sv1_en_089.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-090.webp"><img src="/images/sv1-en-090.webp" alt="sv1_en_090.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-091.webp"><img src="/images/sv1-en-091.webp" alt="sv1_en_091.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-092.webp"><img src="/images/sv1-en-092.webp" alt="sv1_en_092.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-093.webp"><img src="/images/sv1-en-093.webp" alt="sv1_en_093.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-094.webp"><img src="/images/sv1-en-094.webp" alt="sv1_en_094.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-095.webp"><img src="/images/sv1-en-095.webp" alt="sv1_en_095.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-096.webp"><img src="/images/sv1-en-096.webp" alt="sv1_en_096.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-097.webp"><img src="/images/sv1-en-097.webp" alt="sv1_en_097.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-098.webp"><img src="/images/sv1-en-098.webp" alt="sv1_en_098.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-099.webp"><img src="/images/sv1-en-099.webp" alt="sv1_en_099.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-100.webp"><img src="/images/sv1-en-100.webp" alt="sv1_en_100.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-101.webp"><img src="/images/sv1-en-101.webp" alt="sv1_en_101.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-102.webp"><img src="/images/sv1-en-102.webp" alt="sv1_en_102.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-103.webp"><img src="/images/sv1-en-103.webp" alt="sv1_en_103.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-104.webp"><img src="/images/sv1-en-104.webp" alt="sv1_en_104.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-105.webp"><img src="/images/sv1-en-105.webp" alt="sv1_en_105.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-106.webp"><img src="/images/sv1-en-106.webp" alt="sv1_en_106.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-082.webp
+- /images/sv1-en-083.webp
+- /images/sv1-en-084.webp
+- /images/sv1-en-085.webp
+- /images/sv1-en-086.webp
+- /images/sv1-en-087.webp
+- /images/sv1-en-088.webp
+- /images/sv1-en-089.webp
+- /images/sv1-en-090.webp
+- /images/sv1-en-091.webp
+- /images/sv1-en-092.webp
+- /images/sv1-en-093.webp
+- /images/sv1-en-094.webp
+- /images/sv1-en-095.webp
+- /images/sv1-en-096.webp
+- /images/sv1-en-097.webp
+- /images/sv1-en-098.webp
+- /images/sv1-en-099.webp
+- /images/sv1-en-100.webp
+- /images/sv1-en-101.webp
+- /images/sv1-en-102.webp
+- /images/sv1-en-103.webp
+- /images/sv1-en-104.webp
+- /images/sv1-en-105.webp
+- /images/sv1-en-106.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="F" class="symb">F</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-107.webp"><img src="/images/sv1-en-107.webp" alt="sv1_en_107.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-108.webp"><img src="/images/sv1-en-108.webp" alt="sv1_en_108.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-109.webp"><img src="/images/sv1-en-109.webp" alt="sv1_en_109.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-110.webp"><img src="/images/sv1-en-110.webp" alt="sv1_en_110.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-111.webp"><img src="/images/sv1-en-111.webp" alt="sv1_en_111.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-112.webp"><img src="/images/sv1-en-112.webp" alt="sv1_en_112.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-113.webp"><img src="/images/sv1-en-113.webp" alt="sv1_en_113.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-114.webp"><img src="/images/sv1-en-114.webp" alt="sv1_en_114.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-115.webp"><img src="/images/sv1-en-115.webp" alt="sv1_en_115.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-116.webp"><img src="/images/sv1-en-116.webp" alt="sv1_en_116.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-117.webp"><img src="/images/sv1-en-117.webp" alt="sv1_en_117.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-118.webp"><img src="/images/sv1-en-118.webp" alt="sv1_en_118.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-119.webp"><img src="/images/sv1-en-119.webp" alt="sv1_en_119.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-120.webp"><img src="/images/sv1-en-120.webp" alt="sv1_en_120.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-121.webp"><img src="/images/sv1-en-121.webp" alt="sv1_en_121.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-122.webp"><img src="/images/sv1-en-122.webp" alt="sv1_en_122.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-123.webp"><img src="/images/sv1-en-123.webp" alt="sv1_en_123.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-124.webp"><img src="/images/sv1-en-124.webp" alt="sv1_en_124.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-125.webp"><img src="/images/sv1-en-125.webp" alt="sv1_en_125.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-107.webp
+- /images/sv1-en-108.webp
+- /images/sv1-en-109.webp
+- /images/sv1-en-110.webp
+- /images/sv1-en-111.webp
+- /images/sv1-en-112.webp
+- /images/sv1-en-113.webp
+- /images/sv1-en-114.webp
+- /images/sv1-en-115.webp
+- /images/sv1-en-116.webp
+- /images/sv1-en-117.webp
+- /images/sv1-en-118.webp
+- /images/sv1-en-119.webp
+- /images/sv1-en-120.webp
+- /images/sv1-en-121.webp
+- /images/sv1-en-122.webp
+- /images/sv1-en-123.webp
+- /images/sv1-en-124.webp
+- /images/sv1-en-125.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="D" class="symb">D</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-126.webp"><img src="/images/sv1-en-126.webp" alt="sv1_en_126.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-127.webp"><img src="/images/sv1-en-127.webp" alt="sv1_en_127.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-128.webp"><img src="/images/sv1-en-128.webp" alt="sv1_en_128.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-129.webp"><img src="/images/sv1-en-129.webp" alt="sv1_en_129.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-130.webp"><img src="/images/sv1-en-130.webp" alt="sv1_en_130.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-131.webp"><img src="/images/sv1-en-131.webp" alt="sv1_en_131.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-132.webp"><img src="/images/sv1-en-132.webp" alt="sv1_en_132.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-133.webp"><img src="/images/sv1-en-133.webp" alt="sv1_en_133.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-134.webp"><img src="/images/sv1-en-134.webp" alt="sv1_en_134.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-135.webp"><img src="/images/sv1-en-135.webp" alt="sv1_en_135.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-136.webp"><img src="/images/sv1-en-136.webp" alt="sv1_en_136.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-137.webp"><img src="/images/sv1-en-137.webp" alt="sv1_en_137.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-138.webp"><img src="/images/sv1-en-138.webp" alt="sv1_en_138.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-126.webp
+- /images/sv1-en-127.webp
+- /images/sv1-en-128.webp
+- /images/sv1-en-129.webp
+- /images/sv1-en-130.webp
+- /images/sv1-en-131.webp
+- /images/sv1-en-132.webp
+- /images/sv1-en-133.webp
+- /images/sv1-en-134.webp
+- /images/sv1-en-135.webp
+- /images/sv1-en-136.webp
+- /images/sv1-en-137.webp
+- /images/sv1-en-138.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="M" class="symb">M</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-139.webp"><img src="/images/sv1-en-139.webp" alt="sv1_en_139.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-140.webp"><img src="/images/sv1-en-140.webp" alt="sv1_en_140.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-141.webp"><img src="/images/sv1-en-141.webp" alt="sv1_en_141.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-142.webp"><img src="/images/sv1-en-142.webp" alt="sv1_en_142.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-143.webp"><img src="/images/sv1-en-143.webp" alt="sv1_en_143.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-139.webp
+- /images/sv1-en-140.webp
+- /images/sv1-en-141.webp
+- /images/sv1-en-142.webp
+- /images/sv1-en-143.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="C" class="symb">C</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-144.webp"><img src="/images/sv1-en-144.webp" alt="sv1_en_144.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-145.webp"><img src="/images/sv1-en-145.webp" alt="sv1_en_145.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-146.webp"><img src="/images/sv1-en-146.webp" alt="sv1_en_146.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-147.webp"><img src="/images/sv1-en-147.webp" alt="sv1_en_147.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-148.webp"><img src="/images/sv1-en-148.webp" alt="sv1_en_148.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-149.webp"><img src="/images/sv1-en-149.webp" alt="sv1_en_149.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-150.webp"><img src="/images/sv1-en-150.webp" alt="sv1_en_150.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-151.webp"><img src="/images/sv1-en-151.webp" alt="sv1_en_151.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-152.webp"><img src="/images/sv1-en-152.webp" alt="sv1_en_152.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-153.webp"><img src="/images/sv1-en-153.webp" alt="sv1_en_153.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-154.webp"><img src="/images/sv1-en-154.webp" alt="sv1_en_154.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-155.webp"><img src="/images/sv1-en-155.webp" alt="sv1_en_155.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-156.webp"><img src="/images/sv1-en-156.webp" alt="sv1_en_156.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-157.webp"><img src="/images/sv1-en-157.webp" alt="sv1_en_157.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-158.webp"><img src="/images/sv1-en-158.webp" alt="sv1_en_158.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-159.webp"><img src="/images/sv1-en-159.webp" alt="sv1_en_159.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-160.webp"><img src="/images/sv1-en-160.webp" alt="sv1_en_160.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-161.webp"><img src="/images/sv1-en-161.webp" alt="sv1_en_161.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-162.webp"><img src="/images/sv1-en-162.webp" alt="sv1_en_162.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-163.webp"><img src="/images/sv1-en-163.webp" alt="sv1_en_163.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-164.webp"><img src="/images/sv1-en-164.webp" alt="sv1_en_164.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-165.webp"><img src="/images/sv1-en-165.webp" alt="sv1_en_165.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-144.webp
+- /images/sv1-en-145.webp
+- /images/sv1-en-146.webp
+- /images/sv1-en-147.webp
+- /images/sv1-en-148.webp
+- /images/sv1-en-149.webp
+- /images/sv1-en-150.webp
+- /images/sv1-en-151.webp
+- /images/sv1-en-152.webp
+- /images/sv1-en-153.webp
+- /images/sv1-en-154.webp
+- /images/sv1-en-155.webp
+- /images/sv1-en-156.webp
+- /images/sv1-en-157.webp
+- /images/sv1-en-158.webp
+- /images/sv1-en-159.webp
+- /images/sv1-en-160.webp
+- /images/sv1-en-161.webp
+- /images/sv1-en-162.webp
+- /images/sv1-en-163.webp
+- /images/sv1-en-164.webp
+- /images/sv1-en-165.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
     <span id="Trainers">Trainers</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-166.webp"><img src="/images/sv1-en-166.webp" alt="sv1_en_166.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-167.webp"><img src="/images/sv1-en-167.webp" alt="sv1_en_167.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-168.webp"><img src="/images/sv1-en-168.webp" alt="sv1_en_168.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-169.webp"><img src="/images/sv1-en-169.webp" alt="sv1_en_169.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-170.webp"><img src="/images/sv1-en-170.webp" alt="sv1_en_170.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-171.webp"><img src="/images/sv1-en-171.webp" alt="sv1_en_171.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-172.webp"><img src="/images/sv1-en-172.webp" alt="sv1_en_172.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-173.webp"><img src="/images/sv1-en-173.webp" alt="sv1_en_173.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-174.webp"><img src="/images/sv1-en-174.webp" alt="sv1_en_174.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-175.webp"><img src="/images/sv1-en-175.webp" alt="sv1_en_175.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-176.webp"><img src="/images/sv1-en-176.webp" alt="sv1_en_176.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-177.webp"><img src="/images/sv1-en-177.webp" alt="sv1_en_177.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-178.webp"><img src="/images/sv1-en-178.webp" alt="sv1_en_178.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-179.webp"><img src="/images/sv1-en-179.webp" alt="sv1_en_179.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-180.webp"><img src="/images/sv1-en-180.webp" alt="sv1_en_180.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-181.webp"><img src="/images/sv1-en-181.webp" alt="sv1_en_181.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-182.webp"><img src="/images/sv1-en-182.webp" alt="sv1_en_182.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-183.webp"><img src="/images/sv1-en-183.webp" alt="sv1_en_183.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-184.webp"><img src="/images/sv1-en-184.webp" alt="sv1_en_184.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-185.webp"><img src="/images/sv1-en-185.webp" alt="sv1_en_185.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-186.webp"><img src="/images/sv1-en-186.webp" alt="sv1_en_186.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-187.webp"><img src="/images/sv1-en-187.webp" alt="sv1_en_187.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-188.webp"><img src="/images/sv1-en-188.webp" alt="sv1_en_188.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-189.webp"><img src="/images/sv1-en-189.webp" alt="sv1_en_189.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-190.webp"><img src="/images/sv1-en-190.webp" alt="sv1_en_190.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-191.webp"><img src="/images/sv1-en-191.webp" alt="sv1_en_191.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-192.webp"><img src="/images/sv1-en-192.webp" alt="sv1_en_192.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-193.webp"><img src="/images/sv1-en-193.webp" alt="sv1_en_193.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-194.webp"><img src="/images/sv1-en-194.webp" alt="sv1_en_194.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-195.webp"><img src="/images/sv1-en-195.webp" alt="sv1_en_195.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-196.webp"><img src="/images/sv1-en-196.webp" alt="sv1_en_196.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-197.webp"><img src="/images/sv1-en-197.webp" alt="sv1_en_197.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-198.webp"><img src="/images/sv1-en-198.webp" alt="sv1_en_198.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-166.webp
+- /images/sv1-en-167.webp
+- /images/sv1-en-168.webp
+- /images/sv1-en-169.webp
+- /images/sv1-en-170.webp
+- /images/sv1-en-171.webp
+- /images/sv1-en-172.webp
+- /images/sv1-en-173.webp
+- /images/sv1-en-174.webp
+- /images/sv1-en-175.webp
+- /images/sv1-en-176.webp
+- /images/sv1-en-177.webp
+- /images/sv1-en-178.webp
+- /images/sv1-en-179.webp
+- /images/sv1-en-180.webp
+- /images/sv1-en-181.webp
+- /images/sv1-en-182.webp
+- /images/sv1-en-183.webp
+- /images/sv1-en-184.webp
+- /images/sv1-en-185.webp
+- /images/sv1-en-186.webp
+- /images/sv1-en-187.webp
+- /images/sv1-en-188.webp
+- /images/sv1-en-189.webp
+- /images/sv1-en-190.webp
+- /images/sv1-en-191.webp
+- /images/sv1-en-192.webp
+- /images/sv1-en-193.webp
+- /images/sv1-en-194.webp
+- /images/sv1-en-195.webp
+- /images/sv1-en-196.webp
+- /images/sv1-en-197.webp
+- /images/sv1-en-198.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div><div class="jb-code-container">
@@ -99,7 +345,72 @@ Beginning with Scarlet & Violet base set, Full Art cards are now also considered
 
 <div class="jb-code-container">
     <div id="artrares"></div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv1-en-199.webp"><img src="/images/sv1-en-199.webp" alt="sv1_en_199.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-200.webp"><img src="/images/sv1-en-200.webp" alt="sv1_en_200.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-201.webp"><img src="/images/sv1-en-201.webp" alt="sv1_en_201.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-202.webp"><img src="/images/sv1-en-202.webp" alt="sv1_en_202.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-203.webp"><img src="/images/sv1-en-203.webp" alt="sv1_en_203.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-204.webp"><img src="/images/sv1-en-204.webp" alt="sv1_en_204.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-205.webp"><img src="/images/sv1-en-205.webp" alt="sv1_en_205.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-206.webp"><img src="/images/sv1-en-206.webp" alt="sv1_en_206.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-207.webp"><img src="/images/sv1-en-207.webp" alt="sv1_en_207.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-208.webp"><img src="/images/sv1-en-208.webp" alt="sv1_en_208.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-209.webp"><img src="/images/sv1-en-209.webp" alt="sv1_en_209.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-210.webp"><img src="/images/sv1-en-210.webp" alt="sv1_en_210.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-211.webp"><img src="/images/sv1-en-211.webp" alt="sv1_en_211.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-212.webp"><img src="/images/sv1-en-212.webp" alt="sv1_en_212.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-213.webp"><img src="/images/sv1-en-213.webp" alt="sv1_en_213.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-214.webp"><img src="/images/sv1-en-214.webp" alt="sv1_en_214.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-215.webp"><img src="/images/sv1-en-215.webp" alt="sv1_en_215.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-216.webp"><img src="/images/sv1-en-216.webp" alt="sv1_en_216.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-217.webp"><img src="/images/sv1-en-217.webp" alt="sv1_en_217.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-218.webp"><img src="/images/sv1-en-218.webp" alt="sv1_en_218.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-219.webp"><img src="/images/sv1-en-219.webp" alt="sv1_en_219.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-220.webp"><img src="/images/sv1-en-220.webp" alt="sv1_en_220.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-221.webp"><img src="/images/sv1-en-221.webp" alt="sv1_en_221.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-222.webp"><img src="/images/sv1-en-222.webp" alt="sv1_en_222.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-223.webp"><img src="/images/sv1-en-223.webp" alt="sv1_en_223.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-224.webp"><img src="/images/sv1-en-224.webp" alt="sv1_en_224.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-225.webp"><img src="/images/sv1-en-225.webp" alt="sv1_en_225.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-226.webp"><img src="/images/sv1-en-226.webp" alt="sv1_en_226.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-227.webp"><img src="/images/sv1-en-227.webp" alt="sv1_en_227.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-228.webp"><img src="/images/sv1-en-228.webp" alt="sv1_en_228.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-229.webp"><img src="/images/sv1-en-229.webp" alt="sv1_en_229.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-230.webp"><img src="/images/sv1-en-230.webp" alt="sv1_en_230.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-231.webp"><img src="/images/sv1-en-231.webp" alt="sv1_en_231.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-232.webp"><img src="/images/sv1-en-232.webp" alt="sv1_en_232.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-233.webp"><img src="/images/sv1-en-233.webp" alt="sv1_en_233.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-234.webp"><img src="/images/sv1-en-234.webp" alt="sv1_en_234.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-235.webp"><img src="/images/sv1-en-235.webp" alt="sv1_en_235.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-236.webp"><img src="/images/sv1-en-236.webp" alt="sv1_en_236.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-237.webp"><img src="/images/sv1-en-237.webp" alt="sv1_en_237.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-238.webp"><img src="/images/sv1-en-238.webp" alt="sv1_en_238.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-239.webp"><img src="/images/sv1-en-239.webp" alt="sv1_en_239.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-240.webp"><img src="/images/sv1-en-240.webp" alt="sv1_en_240.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-241.webp"><img src="/images/sv1-en-241.webp" alt="sv1_en_241.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-242.webp"><img src="/images/sv1-en-242.webp" alt="sv1_en_242.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-243.webp"><img src="/images/sv1-en-243.webp" alt="sv1_en_243.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-244.webp"><img src="/images/sv1-en-244.webp" alt="sv1_en_244.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-245.webp"><img src="/images/sv1-en-245.webp" alt="sv1_en_245.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-246.webp"><img src="/images/sv1-en-246.webp" alt="sv1_en_246.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-247.webp"><img src="/images/sv1-en-247.webp" alt="sv1_en_247.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-248.webp"><img src="/images/sv1-en-248.webp" alt="sv1_en_248.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-249.webp"><img src="/images/sv1-en-249.webp" alt="sv1_en_249.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-250.webp"><img src="/images/sv1-en-250.webp" alt="sv1_en_250.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-251.webp"><img src="/images/sv1-en-251.webp" alt="sv1_en_251.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-252.webp"><img src="/images/sv1-en-252.webp" alt="sv1_en_252.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-253.webp"><img src="/images/sv1-en-253.webp" alt="sv1_en_253.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-254.webp"><img src="/images/sv1-en-254.webp" alt="sv1_en_254.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-255.webp"><img src="/images/sv1-en-255.webp" alt="sv1_en_255.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-256.webp"><img src="/images/sv1-en-256.webp" alt="sv1_en_256.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-257.webp"><img src="/images/sv1-en-257.webp" alt="sv1_en_257.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv1-en-258.webp"><img src="/images/sv1-en-258.webp" alt="sv1_en_258.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/sv1-en-199.webp
+- /images/sv1-en-200.webp
+- /images/sv1-en-201.webp
+- /images/sv1-en-202.webp
+- /images/sv1-en-203.webp
+- /images/sv1-en-204.webp
+- /images/sv1-en-205.webp
+- /images/sv1-en-206.webp
+- /images/sv1-en-207.webp
+- /images/sv1-en-208.webp
+- /images/sv1-en-209.webp
+- /images/sv1-en-210.webp
+- /images/sv1-en-211.webp
+- /images/sv1-en-212.webp
+- /images/sv1-en-213.webp
+- /images/sv1-en-214.webp
+- /images/sv1-en-215.webp
+- /images/sv1-en-216.webp
+- /images/sv1-en-217.webp
+- /images/sv1-en-218.webp
+- /images/sv1-en-219.webp
+- /images/sv1-en-220.webp
+- /images/sv1-en-221.webp
+- /images/sv1-en-222.webp
+- /images/sv1-en-223.webp
+- /images/sv1-en-224.webp
+- /images/sv1-en-225.webp
+- /images/sv1-en-226.webp
+- /images/sv1-en-227.webp
+- /images/sv1-en-228.webp
+- /images/sv1-en-229.webp
+- /images/sv1-en-230.webp
+- /images/sv1-en-231.webp
+- /images/sv1-en-232.webp
+- /images/sv1-en-233.webp
+- /images/sv1-en-234.webp
+- /images/sv1-en-235.webp
+- /images/sv1-en-236.webp
+- /images/sv1-en-237.webp
+- /images/sv1-en-238.webp
+- /images/sv1-en-239.webp
+- /images/sv1-en-240.webp
+- /images/sv1-en-241.webp
+- /images/sv1-en-242.webp
+- /images/sv1-en-243.webp
+- /images/sv1-en-244.webp
+- /images/sv1-en-245.webp
+- /images/sv1-en-246.webp
+- /images/sv1-en-247.webp
+- /images/sv1-en-248.webp
+- /images/sv1-en-249.webp
+- /images/sv1-en-250.webp
+- /images/sv1-en-251.webp
+- /images/sv1-en-252.webp
+- /images/sv1-en-253.webp
+- /images/sv1-en-254.webp
+- /images/sv1-en-255.webp
+- /images/sv1-en-256.webp
+- /images/sv1-en-257.webp
+- /images/sv1-en-258.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div>
@@ -108,7 +419,20 @@ Beginning with Scarlet & Violet base set, Full Art cards are now also considered
 
 Although these cards are not part of the actual Scarlet & Violet set, these cards will appear in Scarlet & Violet series booster packs and in other TCG merchandise.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-001-grass.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-001-grass.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_001_Grass.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-002-fire.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-002-fire.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_002_Fire.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-003-water.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-003-water.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_003_Water.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-004-lightning.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-004-lightning.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_004_Lightning.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-005-psychic.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-005-psychic.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_005_Psychic.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-006-fighting.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-006-fighting.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_006_Fighting.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-007-darkness.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-007-darkness.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_007_Darkness.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-basic-energy-008-metal.webp"><img src="/images/pokemon-tcg-scarlet-violet-basic-energy-008-metal.webp" alt="Pokemon_TCG_Scarlet_Violet_Basic_Energy_008_Metal.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/pokemon-tcg-scarlet-violet-basic-energy-001-grass.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-002-fire.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-003-water.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-004-lightning.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-005-psychic.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-006-fighting.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-007-darkness.webp
+- /images/pokemon-tcg-scarlet-violet-basic-energy-008-metal.webp
+:::
+
+<div class="jb-code-container">
     <center>
 </center>
 </div>

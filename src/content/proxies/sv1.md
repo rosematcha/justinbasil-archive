@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2023-03-30
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
-  <div> 
-    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">Selected Proxies</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Scarlet &amp; Violet by visiting the articles below.
+
+
+:::setcard{bg="/images/scarlet-violet.webp" logo="/images/pokemon-tcg-scarlet-violet-logo.webp" identifier="/images/svi.webp" idalt="SV1 Set Identifier" title="Selected Proxies"}
+
+<p class="jb-decklist-center">Learn more about Scarlet &amp; Violet by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv1">Set List</a> | 
@@ -22,9 +19,10 @@ publishDate: 2023-03-30
           <a class="blink" href="/new-decks/sv1">New Archetypes</a>
          | <a href="/proxies/sv1">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below are proxies designed for testing new cards from Scarlet & Violet for the upcoming Standard format. Not all cards in the set will appear in the selected proxies below. More proxies will be added as they are needed for archetype testing in the live streams on the [JustInBasil YouTube channel](https://www.youtube.com/channel/UCtgOKNZRDs8Atbj7j8VVKGw).
 
@@ -35,5 +33,76 @@ Use the PowerPoint method described in [the article on proxies](/guide/proxies) 
   <h2>Update</h2>
   <p class="jb-deckbox-body">Official English-language images are now available for Scarlet &amp; Violet. Click here to view those instead.</p>
 </div></a>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/tarountula-1.webp"><img src="/images/tarountula-1.webp" alt="Tarountula 1.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tarountula-2.webp"><img src="/images/tarountula-2.webp" alt="Tarountula 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/spidops-ex.webp"><img src="/images/spidops-ex.webp" alt="Spidops ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/smoliv.webp"><img src="/images/smoliv.webp" alt="Smoliv.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/dolliv.webp"><img src="/images/dolliv.webp" alt="Dolliv.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/arboliva.webp"><img src="/images/arboliva.webp" alt="Arboliva.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/arcanine-ex.webp"><img src="/images/arcanine-ex.webp" alt="Arcanine ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charcadet-1.webp"><img src="/images/charcadet-1.webp" alt="Charcadet 1.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charcadet-2.webp"><img src="/images/charcadet-2.webp" alt="Charcadet 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/armarouge.webp"><img src="/images/armarouge.webp" alt="Armarouge.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/slowpoke.webp"><img src="/images/slowpoke.webp" alt="Slowpoke.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/slowbro.webp"><img src="/images/slowbro.webp" alt="Slowbro.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gyarados-ex.webp"><img src="/images/gyarados-ex.webp" alt="Gyarados ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-052-quaxly.webp"><img src="/images/pokemon-tcg-scarlet-violet-052-quaxly.webp" alt="Pokemon_TCG_Scarlet_Violet_052_Quaxly.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/quaxwell.webp"><img src="/images/quaxwell.webp" alt="Quaxwell.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/quaquaval.webp"><img src="/images/quaquaval.webp" alt="Quaquaval.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/wiglett.webp"><img src="/images/wiglett.webp" alt="Wiglett.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/wugtrio-b54bdb.webp"><img src="/images/wugtrio-b54bdb.webp" alt="Wugtrio.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/dondozo.webp"><img src="/images/dondozo.webp" alt="Dondozo.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tatsugiri.webp"><img src="/images/tatsugiri.webp" alt="Tatsugiri.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/ampharos-ex.webp"><img src="/images/ampharos-ex.webp" alt="Ampharos ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pachirisu.webp"><img src="/images/pachirisu.webp" alt="Pachirisu.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-081-miraidon-ex.webp"><img src="/images/pokemon-tcg-scarlet-violet-081-miraidon-ex.webp" alt="Pokemon_TCG_Scarlet_Violet_081_Miraidon_ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gardevoir-ex.webp"><img src="/images/gardevoir-ex.webp" alt="Gardevoir ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/shuppet-573e60.webp"><img src="/images/shuppet-573e60.webp" alt="Shuppet.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/banette-ex.webp"><img src="/images/banette-ex.webp" alt="Banette ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/drifloon.webp"><img src="/images/drifloon.webp" alt="Drifloon.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv01-en-96.webp"><img src="/images/sv01-en-96.webp" alt="SV01_EN_96.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/fidough-1.webp"><img src="/images/fidough-1.webp" alt="Fidough 1.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/fidough-2.webp"><img src="/images/fidough-2.webp" alt="Fidough 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/dachsbun.webp"><img src="/images/dachsbun.webp" alt="Dachsbun.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/greavard.webp"><img src="/images/greavard.webp" alt="Greavard.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/houndstone.webp"><img src="/images/houndstone.webp" alt="Houndstone.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/riolu.webp"><img src="/images/riolu.webp" alt="Riolu.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lucario.webp"><img src="/images/lucario.webp" alt="Lucario.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lucario-ex.webp"><img src="/images/lucario-ex.webp" alt="Lucario ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sandile-7f1a7d.webp"><img src="/images/sandile-7f1a7d.webp" alt="Sandile.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/krokorok.webp"><img src="/images/krokorok.webp" alt="Krokorok.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/krookodile.webp"><img src="/images/krookodile.webp" alt="Krookodile.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/hawlucha.webp"><img src="/images/hawlucha.webp" alt="Hawlucha.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-125-koraidon-ex.webp"><img src="/images/pokemon-tcg-scarlet-violet-125-koraidon-ex.webp" alt="Pokemon_TCG_Scarlet_Violet_125_Koraidon_ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/varoom.webp"><img src="/images/varoom.webp" alt="Varoom.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/varoom-2.webp"><img src="/images/varoom-2.webp" alt="Varoom 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/revavroom.webp"><img src="/images/revavroom.webp" alt="Revavroom.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/starly.webp"><img src="/images/starly.webp" alt="Starly.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/staraptor.webp"><img src="/images/staraptor.webp" alt="Staraptor.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/skwovet.webp"><img src="/images/skwovet.webp" alt="Skwovet.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lechonk-2.webp"><img src="/images/lechonk-2.webp" alt="Lechonk 2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lechonk.webp"><img src="/images/lechonk.webp" alt="Lechonk.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/oinkologne-ex.webp"><img src="/images/oinkologne-ex.webp" alt="Oinkologne ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tandemaus.webp"><img src="/images/tandemaus.webp" alt="Tandemaus.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/maushold.webp"><img src="/images/maushold.webp" alt="Maushold.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/arven.webp"><img src="/images/arven.webp" alt="Arven.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/beach-court.webp"><img src="/images/beach-court.webp" alt="Beach Court.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/defiant-band.webp"><img src="/images/defiant-band.webp" alt="Defiant Band.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/electricity-generator.webp"><img src="/images/electricity-generator.webp" alt="Electricity Generator.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mesagoza.webp"><img src="/images/mesagoza.webp" alt="Mesagoza.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/miriam.webp"><img src="/images/miriam.webp" alt="Miriam.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/nest-ball.webp"><img src="/images/nest-ball.webp" alt="Nest Ball.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/penny.webp"><img src="/images/penny.webp" alt="Penny.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/picnic-basket.webp"><img src="/images/picnic-basket.webp" alt="Picnic Basket.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-189-professor-s-research-sada.webp"><img src="/images/pokemon-tcg-scarlet-violet-189-professor-s-research-sada.webp" alt="Pokemon_TCG_Scarlet_Violet_189_Professor_s_Research_(Sada).png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-tcg-scarlet-violet-190-professor-s-research-turo.webp"><img src="/images/pokemon-tcg-scarlet-violet-190-professor-s-research-turo.webp" alt="Pokemon_TCG_Scarlet_Violet_190_Professor_s_Research_(Turo).png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/rock-chestplate.webp"><img src="/images/rock-chestplate.webp" alt="Rock Chestplate.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/team-star-grunt.webp"><img src="/images/team-star-grunt.webp" alt="Team Star Grunt.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/youngster.webp"><img src="/images/youngster.webp" alt="Youngster.png" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/tarountula-1.webp
+- /images/tarountula-2.webp
+- /images/spidops-ex.webp
+- /images/smoliv.webp
+- /images/dolliv.webp
+- /images/arboliva.webp
+- /images/arcanine-ex.webp
+- /images/charcadet-1.webp
+- /images/charcadet-2.webp
+- /images/armarouge.webp
+- /images/slowpoke.webp
+- /images/slowbro.webp
+- /images/gyarados-ex.webp
+- /images/pokemon-tcg-scarlet-violet-052-quaxly.webp
+- /images/quaxwell.webp
+- /images/quaquaval.webp
+- /images/wiglett.webp
+- /images/wugtrio-b54bdb.webp
+- /images/dondozo.webp
+- /images/tatsugiri.webp
+- /images/ampharos-ex.webp
+- /images/pachirisu.webp
+- /images/pokemon-tcg-scarlet-violet-081-miraidon-ex.webp
+- /images/gardevoir-ex.webp
+- /images/shuppet-573e60.webp
+- /images/banette-ex.webp
+- /images/drifloon.webp
+- /images/sv01-en-96.webp
+- /images/fidough-1.webp
+- /images/fidough-2.webp
+- /images/dachsbun.webp
+- /images/greavard.webp
+- /images/houndstone.webp
+- /images/riolu.webp
+- /images/lucario.webp
+- /images/lucario-ex.webp
+- /images/sandile-7f1a7d.webp
+- /images/krokorok.webp
+- /images/krookodile.webp
+- /images/hawlucha.webp
+- /images/pokemon-tcg-scarlet-violet-125-koraidon-ex.webp
+- /images/varoom.webp
+- /images/varoom-2.webp
+- /images/revavroom.webp
+- /images/starly.webp
+- /images/staraptor.webp
+- /images/skwovet.webp
+- /images/lechonk-2.webp
+- /images/lechonk.webp
+- /images/oinkologne-ex.webp
+- /images/tandemaus.webp
+- /images/maushold.webp
+- /images/arven.webp
+- /images/beach-court.webp
+- /images/defiant-band.webp
+- /images/electricity-generator.webp
+- /images/mesagoza.webp
+- /images/miriam.webp
+- /images/nest-ball.webp
+- /images/penny.webp
+- /images/picnic-basket.webp
+- /images/pokemon-tcg-scarlet-violet-189-professor-s-research-sada.webp
+- /images/pokemon-tcg-scarlet-violet-190-professor-s-research-turo.webp
+- /images/rock-chestplate.webp
+- /images/team-star-grunt.webp
+- /images/youngster.webp
+:::
+
+
 

@@ -7,13 +7,11 @@ sourceUrl: "https://www.justinbasil.com/translations/mega1"
 showHeading: false
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-mega-evolution-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Card Translations</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our third main set of 2025 by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-mega-evolution-logo.webp" title="Card Translations"}
+
+<p class="jb-decklist-center">Learn more about our third main set of 2025 by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/mega1">Prospective Set List</a> |
@@ -21,9 +19,10 @@ showHeading: false
           <a class="blink" href="/visual/mega1">Visual Set List</a> | 
           <a class="blink" href="/proxies/mega1">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below is a running summary of translations for all base-rarity cards currently believed to be part of our Mega Evolution set. To view secret rare cards, visit the set’s [Visual Set List](/visual/mega1).
 

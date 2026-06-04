@@ -7,13 +7,11 @@ showHeading: false
 publishDate: 2023-05-27
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/sv2-short.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">New Archetypes from Paldea Evolved</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
+
+
+:::setcard{bg="/images/sv2-short.webp" logo="/images/pokemon-tcg-scarlet-violet-paldea-evolved-logo.webp" title="New Archetypes from Paldea Evolved"}
+
+<p class="jb-decklist-center">Learn more about Paldea Evolved by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv2">Set List</a> | 
@@ -23,9 +21,10 @@ publishDate: 2023-05-27
           <a href="/new-decks/sv2">New Archetypes</a> | 
           <a class="blink" href="/proxies/sv2">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 With the arrival of Paldea Evolved this June, we’ll have a handful of new deck archetypes joining the fray. As always, some deck archetypes are better than others—some are meme tier and some are merely playable, fun decks without much competitive promise. Lists below are very rough drafts and are intended as a starting place for testing, not as tournament-ready deck lists. Consider [creating and using proxies to test cards you don’t already own](/guide/proxies) prior to making any purchases.
 
@@ -49,20 +48,9 @@ With the arrival of Paldea Evolved this June, we’ll have a handful of new deck
     <li class="c"><a href="#regigigas">Regigigas</a></li>
   </ul>
 </div>
-</div><div class="jb-code-container">
-    <div id="meowscaradaex" class="deck_box">
-    <h1>Meowscarada ex</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
 </div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/meowscarada-ex.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="meowscaradaex" name="Meowscarada ex" image="/images/meowscarada-ex.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -80,15 +68,37 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
 - [Arceus VSTAR BRS 123](https://limitlesstcg.com/cards/BRS/123) to take advantage of its Starbirth VSTAR Power which reads, “During your turn, you may search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck. <em>(You can't use more than 1 VSTAR Power in a game.)”</em>
 - Building the deck as part of the Lost Zone Box archetype.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Meowscarada ex PAL 15 4 Sprigatito PAL 12 2 Revavroom SVI 142 2 Varoom SVI 141 1 Floragato PAL 14 1 Lumineon V BRS 40 1 Manaphy BRS 41 1 Radiant Alakazam SIT 59
-
-**Trainer Cards - 32** 3 Iono PAL 185 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 1 Arven SVI 166 1 Miriam SVI 179 1 Raihan CRZ 140 4 Nest Ball SVI 181 4 Rare Candy SVI 191 4 Ultra Ball SVI 196 2 Superior Energy Retrieval PAL 189 1 Battle VIP Pass FST 225 1 Energy Search SVI 172 1 Escape Rope BST 125 1 Hisuian Heavy Ball ASR 146 1 Forest Seal Stone SIT 156 2 Artazon PAL 171
-
-**Energy - 12** 8 Grass Energy SVE 1 4 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 16
+4 Meowscarada ex PAL 15
+4 Sprigatito PAL 12
+2 Revavroom SVI 142
+2 Varoom SVI 141
+1 Floragato PAL 14
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+Trainer Cards - 32
+3 Iono PAL 185
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+1 Arven SVI 166
+1 Miriam SVI 179
+1 Raihan CRZ 140
+4 Nest Ball SVI 181
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+2 Superior Energy Retrieval PAL 189
+1 Battle VIP Pass FST 225
+1 Energy Search SVI 172
+1 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Forest Seal Stone SIT 156
+2 Artazon PAL 171
+Energy - 12
+8 Grass Energy SVE 1
+4 Double Turbo Energy BRS 151
+```
 
 ### Alternate Lists
 
@@ -101,7 +111,10 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-fNmLTMou6s?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 1: Meowscarada ex vs. Regigigas&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/aJcnkAHur5A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #2: Quaquaval ex vs. Meowscarada ex!&quot;></iframe>">
       </div>
@@ -116,20 +129,9 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/o7SlRVTnY-c?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #6: Annihilape ex vs. Meowscarada ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="skeledirgeex" class="deck_box">
-    <h1>Skeledirge ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/skeledirge-ex.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="skeledirgeex" name="Skeledirge ex" image="/images/skeledirge-ex.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -147,15 +149,35 @@ Play down and evolve Fuecoco into Skeledirge ex, using a combination of manual a
 - [Radiant Charizard PGO 11](https://limitlesstcg.com/cards/PGO/11) in place of Radiant Greninja for use as a devastating late game single prize attacker.
 - [Lumineon V BRS 40](https://limitlesstcg.com/cards/BRS/40) for the additional boost to consistency that access to its Luminous Sign Ability brings.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 13** 4 Fuecoco PAL 35 3 Skeledirge ex PAL 37 2 Bibarel BRS 121 2 Bidoof CRZ 111 1 Entei V BRS 22 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 37** 3 Colress's Experiment LOR 155 2 Arven SVI 166 2 Boss's Orders BRS 132 2 Cheryl BST 123 2 Professor's Research SVI 190 1 Raihan CRZ 140 1 Serena SIT 164 4 Nest Ball SVI 181 4 Rare Candy SVI 191 4 Ultra Ball SVI 196 3 Switch SVI 194 2 Battle VIP Pass FST 225 1 Pal Pad SVI 182 1 Super Rod PAL 188 1 Choice Belt PAL 176 1 Forest Seal Stone SIT 156 3 Magma Basin BRS 144
-
-**Energy - 10** 10 Fire Energy SVE 2
+```decklist
+Pokémon - 13
+4 Fuecoco PAL 35
+3 Skeledirge ex PAL 37
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Entei V BRS 22
+1 Radiant Greninja ASR 46
+Trainer Cards - 37
+3 Colress's Experiment LOR 155
+2 Arven SVI 166
+2 Boss's Orders BRS 132
+2 Cheryl BST 123
+2 Professor's Research SVI 190
+1 Raihan CRZ 140
+1 Serena SIT 164
+4 Nest Ball SVI 181
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+2 Battle VIP Pass FST 225
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Choice Belt PAL 176
+1 Forest Seal Stone SIT 156
+3 Magma Basin BRS 144
+Energy - 10
+10 Fire Energy SVE 2
+```
 
 ### Testing Streams
 
@@ -164,7 +186,10 @@ Play down and evolve Fuecoco into Skeledirge ex, using a combination of manual a
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/BARL9laoaPY?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #3: Skeledirge ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/UpHP8PdoJ3k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 7: Ting-Lu ex vs. Skeledirge ex&quot;></iframe>">
       </div>
@@ -174,20 +199,9 @@ Play down and evolve Fuecoco into Skeledirge ex, using a combination of manual a
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ToskxNKckRo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 6: Skeledirge ex. vs. United Wings&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="quaquavalex" class="deck_box">
-    <h1>Quaquaval ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/quaquaval-ex-66e722.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="quaquavalex" name="Quaquaval ex" image="/images/quaquaval-ex-66e722.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -204,15 +218,35 @@ Evolve Quaxly into Quaquaval and Quaquaval ex. Use Quaquaval’s Energy Carnival
 - [Drapion V LOR 118](https://limitlesstcg.com/cards/LOR/118) as a counter to Mew VMAX that, with the help of Quaquaval’s Energy Carnival Ability, can also sometimes serve as a counter to Gardevoir ex.
 - [Origin Forme Palkia VSTAR 40](https://limitlesstcg.com/cards/ASR/40) or [Suicune V EVS 31](https://limitlesstcg.com/cards/EVS/31) as alternative attackers.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Quaxly PAL 50 3 Klefki SVI 96 3 Quaquaval ex PAL 52 2 Bibarel BRS 121 2 Bidoof CRZ 111 2 Quaquaval SVI 54 1 Basculin FST 70 1 Quaxwell PAL 51 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 31** 4 Irida ASR 147 3 Iono PAL 185 2 Boss's Orders BRS 132 4 Nest Ball SVI 181 4 Rare Candy SVI 191 4 Ultra Ball SVI 196 2 Level Ball BST 129 1 Battle VIP Pass FST 225 1 Energy Search SVI 172 1 Hisuian Heavy Ball ASR 146 1 Super Rod PAL 188 2 Vitality Band SVI 197 2 Artazon PAL 171
-
-**Energy - 10** 7 Water Energy SVE 3 3 Jet Energy PAL 190
+```decklist
+Pokémon - 19
+4 Quaxly PAL 50
+3 Klefki SVI 96
+3 Quaquaval ex PAL 52
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Quaquaval SVI 54
+1 Basculin FST 70
+1 Quaxwell PAL 51
+1 Radiant Greninja ASR 46
+Trainer Cards - 31
+4 Irida ASR 147
+3 Iono PAL 185
+2 Boss's Orders BRS 132
+4 Nest Ball SVI 181
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+2 Level Ball BST 129
+1 Battle VIP Pass FST 225
+1 Energy Search SVI 172
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+2 Vitality Band SVI 197
+2 Artazon PAL 171
+Energy - 10
+7 Water Energy SVE 3
+3 Jet Energy PAL 190
+```
 
 ### Testing Streams
 
@@ -221,7 +255,10 @@ Evolve Quaxly into Quaquaval and Quaquaval ex. Use Quaquaval’s Energy Carnival
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/aJcnkAHur5A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #2: Quaquaval ex vs. Meowscarada ex!&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Rgu3U0GF04A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #4: Quaquaval ex vs. Regigigas&quot;></iframe>">
       </div>
@@ -231,20 +268,9 @@ Evolve Quaxly into Quaquaval and Quaquaval ex. Use Quaquaval’s Energy Carnival
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/CykIR7tP6Yg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 4: Quaquaval ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="chienpaoex" class="deck_box">
-    <h1>Chien-Pao ex</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/chien-pao-ex-d1996f.webp)
-
-*Illus. aky CG Works*
-
-
+::::deck{id="chienpaoex" name="Chien-Pao ex" image="/images/chien-pao-ex-d1996f.webp" illus="aky CG Works" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -263,15 +289,34 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 - [Luminous Energy](/highlights/sv2#block-yui_3_17_2_1_1675437289553_127880) to still serve as the Metal Energy in Kyurem’s attack cost while still being an Energy that can be discarded to add 60 damage to the attacks of both Chien-Pao ex and Kyurem.
 - [Origin Forme Palkia VSTAR 40](https://limitlesstcg.com/cards/ASR/40) both as an alternate attacker and as a means of getting two Energy from the discard pile very quickly back into play via its Star Portal VSTAR Power.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 12** 3 Baxcalibur PAL 60 3 Chien-Pao ex PAL 61 3 Frigibax PAL 57 1 Lumineon V BRS 40 1 Manaphy BRS 41 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 38** 4 Irida ASR 147 3 Iono PAL 185 2 Boss's Orders BRS 132 4 Battle VIP Pass FST 225 4 Superior Energy Retrieval PAL 189 4 Trekking Shoes CRZ 145 3 Nest Ball SVI 181 3 Rare Candy SVI 191 2 Ultra Ball SVI 196 1 Escape Rope BST 125 1 Hisuian Heavy Ball ASR 146 1 Lost Vacuum CRZ 135 1 Super Rod PAL 188 1 Switch SVI 194 2 Bravery Charm PAL 173 2 Skaters' Park FST 242
-
-**Energy - 10** 10 Water Energy SVE 3
+```decklist
+Pokémon - 12
+3 Baxcalibur PAL 60
+3 Chien-Pao ex PAL 61
+3 Frigibax PAL 57
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+Trainer Cards - 38
+4 Irida ASR 147
+3 Iono PAL 185
+2 Boss's Orders BRS 132
+4 Battle VIP Pass FST 225
+4 Superior Energy Retrieval PAL 189
+4 Trekking Shoes CRZ 145
+3 Nest Ball SVI 181
+3 Rare Candy SVI 191
+2 Ultra Ball SVI 196
+1 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Super Rod PAL 188
+1 Switch SVI 194
+2 Bravery Charm PAL 173
+2 Skaters' Park FST 242
+Energy - 10
+10 Water Energy SVE 3
+```
 
 ### Alternate Lists
 
@@ -288,7 +333,10 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/fHIEEDtUaE8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 2: Chien-Pao ex vs. Meowscarada ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EOiQT7Zt4Jc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #5: Tinkaton ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
@@ -298,20 +346,9 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/j9DlSeLe55w?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 3: Paldean Clodsire ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="wings" class="deck_box">
-    <h1>United Wings</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/wings-of-unity.webp)
-
-*Illus. Shibuzoh*
-
-
+::::deck{id="wings" name="United Wings" image="/images/wings-of-unity.webp" illus="Shibuzoh" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -328,15 +365,32 @@ Using every discarding resource in the deck, put all or most of your “United W
 - [Echoing Horn](https://limitlesstcg.com/cards/CRE/136) to help the deck get easy knockouts against Basic Pokémon V.
 - [Thorton](https://limitlesstcg.com/cards/LOR/167) to turn Squawkabilly ex into something other than the giant squishy two prize liability it is after your first turn.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Flamigo PAL 170 4 Murkrow PAL 131 4 Wattrel PAL 80 3 Ditto CRZ 107 1 Manaphy BRS 41 1 Radiant Charizard CRZ 20 1 Squawkabilly ex PAL 169
-
-**Trainer Cards - 31** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Serena SIT 164 2 Zinnia's Resolve EVS 164 4 Level Ball BST 129 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 3 Great Ball PAL 183 2 Hisuian Heavy Ball ASR 146 2 Rescue Carrier CRZ 142 2 PokéStop PGO 68
-
-**Energy - 11** 4 Double Turbo Energy BRS 151 4 Luminous Energy PAL 191 3 Darkness Energy SVE 7
+```decklist
+Pokémon - 18
+4 Flamigo PAL 170
+4 Murkrow PAL 131
+4 Wattrel PAL 80
+3 Ditto CRZ 107
+1 Manaphy BRS 41
+1 Radiant Charizard CRZ 20
+1 Squawkabilly ex PAL 169
+Trainer Cards - 31
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Serena SIT 164
+2 Zinnia's Resolve EVS 164
+4 Level Ball BST 129
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+3 Great Ball PAL 183
+2 Hisuian Heavy Ball ASR 146
+2 Rescue Carrier CRZ 142
+2 PokéStop PGO 68
+Energy - 11
+4 Double Turbo Energy BRS 151
+4 Luminous Energy PAL 191
+3 Darkness Energy SVE 7
+```
 
 ### Testing Streams
 
@@ -345,25 +399,17 @@ Using every discarding resource in the deck, put all or most of your “United W
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/MKYhl9lB_-M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 5: Unified Wings vs. Quaquaval ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ToskxNKckRo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 6: Skeledirge ex. vs. United Wings&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="tinkatonex" class="deck_box">
-    <h1>Tinkaton ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/tinkaton-ex-c13c91.webp)
-
-*Illus. takuyoa*
-
-
+::::deck{id="tinkatonex" name="Tinkaton ex" image="/images/tinkaton-ex-c13c91.webp" illus="takuyoa" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -379,15 +425,38 @@ Build up your board by evolving Tinkatink into Tinkaton ex and Ralts into Kirlia
 
 - [Gardevoir CRE 61](https://limitlesstcg.com/cards/CRE/61) as an additional attacker, draw card, and energy accelerator.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 20** 4 Tinkatink PAL 101 3 Kirlia SIT 68 3 Tinkaton ex SVP 31 2 Ralts ASR 60 2 Tinkaton PAL 105 1 Feebas EVS 37 1 Lumineon V BRS 40 1 Manaphy BRS 41 1 Milotic EVS 38 1 Ralts SIT 67 1 Tinkatuff PAL 103
-
-**Trainer Cards - 31** 4 Colress's Experiment LOR 155 3 Zinnia's Resolve EVS 164 1 Arven SVI 166 1 Boss's Orders BRS 132 1 Miriam SVI 179 1 Raihan CRZ 140 4 Level Ball BST 129 4 Rare Candy SVI 191 4 Ultra Ball SVI 196 3 Fog Crystal CRE 140 1 Battle VIP Pass FST 225 1 Super Rod PAL 188 1 Forest Seal Stone SIT 156 2 Artazon PAL 171
-
-**Energy - 9** 5 Psychic Energy SVE 5 4 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 20
+4 Tinkatink PAL 101
+3 Kirlia SIT 68
+3 Tinkaton ex SVP 31
+2 Ralts ASR 60
+2 Tinkaton PAL 105
+1 Feebas EVS 37
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Milotic EVS 38
+1 Ralts SIT 67
+1 Tinkatuff PAL 103
+Trainer Cards - 31
+4 Colress's Experiment LOR 155
+3 Zinnia's Resolve EVS 164
+1 Arven SVI 166
+1 Boss's Orders BRS 132
+1 Miriam SVI 179
+1 Raihan CRZ 140
+4 Level Ball BST 129
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+3 Fog Crystal CRE 140
+1 Battle VIP Pass FST 225
+1 Super Rod PAL 188
+1 Forest Seal Stone SIT 156
+2 Artazon PAL 171
+Energy - 9
+5 Psychic Energy SVE 5
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -396,20 +465,12 @@ Build up your board by evolving Tinkatink into Tinkaton ex and Ralts into Kirlia
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EOiQT7Zt4Jc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #5: Tinkaton ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="annihilapeex" class="deck_box">
-    <h1>Annihilape ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/annihilape-ex-ee7757.webp)
+::::
 
-*Illus. PLANETA Hiiragi*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="annihilapeex" name="Annihilape ex" image="/images/annihilape-ex-ee7757.webp" illus="PLANETA Hiiragi" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -425,15 +486,33 @@ Build up your board, getting Annihilape ex ready early on while quickly building
 - [Lake Acuity](https://www.limitlesstcg.com/cards/LOR/160) to reduce the damage done by your opponent’s Active Pokémon to your Pokémon with any Fighting Energy attached by 20.
 - [Rock Chestplate](https://www.limitlesstcg.com/cards/SVI/192) to bulk up Annihilape ex’s HP.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Mankey SVI 107 3 Annihilape SVI 109 2 Annihilape ex SVP 32 2 Bibarel BRS 121 2 Bidoof CRZ 111 2 Primeape SVI 108 1 Manaphy BRS 41
-
-**Trainer Cards - 37** 4 Professor's Research SVI 190 3 Iono PAL 185 2 Boss's Orders BRS 132 1 Raihan CRZ 140 1 Serena SIT 164 4 Level Ball BST 129 4 Nest Ball SVI 181 4 Rare Candy SVI 191 4 Ultra Ball SVI 196 2 Escape Rope BST 125 2 Super Rod PAL 188 2 Switch SVI 194 2 Defiance Band SVI 169 2 Artazon PAL 171
-
-**Energy - 7** 7 Fighting Energy SVE 6
+```decklist
+Pokémon - 16
+4 Mankey SVI 107
+3 Annihilape SVI 109
+2 Annihilape ex SVP 32
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Primeape SVI 108
+1 Manaphy BRS 41
+Trainer Cards - 37
+4 Professor's Research SVI 190
+3 Iono PAL 185
+2 Boss's Orders BRS 132
+1 Raihan CRZ 140
+1 Serena SIT 164
+4 Level Ball BST 129
+4 Nest Ball SVI 181
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+2 Escape Rope BST 125
+2 Super Rod PAL 188
+2 Switch SVI 194
+2 Defiance Band SVI 169
+2 Artazon PAL 171
+Energy - 7
+7 Fighting Energy SVE 6
+```
 
 ### Testing Streams
 
@@ -442,20 +521,12 @@ Build up your board, getting Annihilape ex ready early on while quickly building
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/o7SlRVTnY-c?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #6: Annihilape ex vs. Meowscarada ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="lycanrocex" class="deck_box">
-    <h1>Lycanroc ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/lycanroc-ex-e8c5e9.webp)
+::::
 
-*Illus. kawayoo*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="lycanrocex" name="Lycanroc ex" image="/images/lycanroc-ex-e8c5e9.webp" illus="kawayoo" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -470,15 +541,33 @@ After evolving Rockruff into Lycanroc ex, attack with its Scary Fangs attack, wh
 
 - [Lake Acuity](https://www.limitlesstcg.com/cards/LOR/160) to reduce the damage done by your opponent’s Active Pokémon to your Pokémon with any Fighting Energy attached by 20.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Lycanroc ex PAL 117 4 Rockruff PAL 116 2 Bibarel BRS 121 2 Bidoof CRZ 111 2 Galarian Zapdos EVS 82 1 Drapion V LOR 118 1 Radiant Alakazam SIT 59
-
-**Trainer Cards - 32** 3 Iono PAL 185 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 4 Gutsy Pickaxe ASR 145 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 2 Escape Rope BST 125 1 Hisuian Heavy Ball ASR 146 1 Pal Pad SVI 182 1 Super Rod PAL 188 3 Rock Chestplate SVI 192 3 Path to the Peak CRE 148 1 Temple of Sinnoh ASR 155
-
-**Energy - 12** 8 Fighting Energy SVE 6 4 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 16
+4 Lycanroc ex PAL 117
+4 Rockruff PAL 116
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Galarian Zapdos EVS 82
+1 Drapion V LOR 118
+1 Radiant Alakazam SIT 59
+Trainer Cards - 32
+3 Iono PAL 185
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+4 Gutsy Pickaxe ASR 145
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+2 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+3 Rock Chestplate SVI 192
+3 Path to the Peak CRE 148
+1 Temple of Sinnoh ASR 155
+Energy - 12
+8 Fighting Energy SVE 6
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -487,20 +576,12 @@ After evolving Rockruff into Lycanroc ex, attack with its Scary Fangs attack, wh
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/4INzyOdr8C8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #1: Lycanroc ex vs. Regigigas!&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="tingluex" class="deck_box">
-    <h1>Ting-Lu ex</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/ting-lu-ex-41c1c1.webp)
+::::
 
-*Illus. 5ban Graphics*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="tingluex" name="Ting-Lu ex" image="/images/ting-lu-ex-41c1c1.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -516,15 +597,32 @@ Play down Squawkabilly ex, Ting-Lu ex, and Koraidon ex, then use Squawkabilly ex
 
 - Add in a 1-1 [Aerodactyl VSTAR LOR 93](https://www.limitlesstcg.com/cards/LOR/93) for further shutting down of Abilities of your opponent’s Pokémon V, VMAX, and V-UNION.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 12** 4 Ting-Lu ex PAL 127 2 Hawlucha SVI 118 2 Koraidon ex SVI 125 2 Squawkabilly ex PAL 169 1 Radiant Alakazam SIT 59 1 Spiritomb PAL 89
-
-**Trainer Cards - 35** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Iono PAL 185 2 Judge SVI 176 4 Gutsy Pickaxe ASR 145 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Trekking Shoes CRZ 145 2 Escape Rope BST 125 2 Switch Cart ASR 154 2 Bravery Charm PAL 173 1 Exp. Share SVI 174 2 Gapejaw Bog ASR 142 1 Collapsed Stadium BRS 137
-
-**Energy - 13** 13 Fighting Energy SVE 6
+```decklist
+Pokémon - 12
+4 Ting-Lu ex PAL 127
+2 Hawlucha SVI 118
+2 Koraidon ex SVI 125
+2 Squawkabilly ex PAL 169
+1 Radiant Alakazam SIT 59
+1 Spiritomb PAL 89
+Trainer Cards - 35
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Iono PAL 185
+2 Judge SVI 176
+4 Gutsy Pickaxe ASR 145
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Trekking Shoes CRZ 145
+2 Escape Rope BST 125
+2 Switch Cart ASR 154
+2 Bravery Charm PAL 173
+1 Exp. Share SVI 174
+2 Gapejaw Bog ASR 142
+1 Collapsed Stadium BRS 137
+Energy - 13
+13 Fighting Energy SVE 6
+```
 
 ### Alternate Lists
 
@@ -537,20 +635,12 @@ Play down Squawkabilly ex, Ting-Lu ex, and Koraidon ex, then use Squawkabilly ex
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/UpHP8PdoJ3k?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 7: Ting-Lu ex vs. Skeledirge ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="clodsireex" class="deck_box">
-    <h1>Paldean Clodsire ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/clodsire-ex.webp)
+::::
 
-*Illus. PLANETA Mochizuki*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="clodsireex" name="Paldean Clodsire ex" image="/images/clodsire-ex.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -565,15 +655,33 @@ Using Paldean Clodsire ex’s Poison Bog ability, Poison your opponent’s Activ
 
 - Instead of focusing on attacking with Alolan Raticate, focus instead on Paldean Clodsire ex itself and bulk up its Poison damage wit Radiant Hisuian Sneasler.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 17** 4 Paldean Wooper PAL 129 3 Alolan Raticate PGO 42 3 Alolan Rattata PGO 41 3 Paldean Clodsire ex PAL 130 1 Galarian Moltres EVS 93 1 Lumineon V BRS 40 1 Radiant Greninja ASR 46 1 Sableye PAL 136
-
-**Trainer Cards - 31** 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Iono PAL 185 4 Dark Patch ASR 139 4 Nest Ball SVI 181 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 2 Switch SVI 194 1 Pal Pad SVI 182 1 Super Rod PAL 188 2 Beach Court SVI 167 2 Mesagoza SVI 178
-
-**Energy - 12** 8 Darkness Energy SVE 7 4 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 17
+4 Paldean Wooper PAL 129
+3 Alolan Raticate PGO 42
+3 Alolan Rattata PGO 41
+3 Paldean Clodsire ex PAL 130
+1 Galarian Moltres EVS 93
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+1 Sableye PAL 136
+Trainer Cards - 31
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Iono PAL 185
+4 Dark Patch ASR 139
+4 Nest Ball SVI 181
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+2 Beach Court SVI 167
+2 Mesagoza SVI 178
+Energy - 12
+8 Darkness Energy SVE 7
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -582,7 +690,10 @@ Using Paldean Clodsire ex’s Poison Bog ability, Poison your opponent’s Activ
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/j9DlSeLe55w?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 3: Paldean Clodsire ex vs. Chien-Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/CykIR7tP6Yg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 4: Quaquaval ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
@@ -592,20 +703,9 @@ Using Paldean Clodsire ex’s Poison Bog ability, Poison your opponent’s Activ
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/BARL9laoaPY?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #3: Skeledirge ex vs. Paldean Clodsire ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="regigigas" class="deck_box">
-    <h1>Regigigas</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/regigigas-859806.webp)
-
-*Illus. Yuya Oka*
-
-
+::::deck{id="regigigas" name="Regigigas" image="/images/regigigas-859806.webp" illus="Yuya Oka" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -620,15 +720,39 @@ Get 1 of each of the Regis into play via the deck’s large variety of searching
 
 - Running [Iono](/translations/sv2#block-yui_3_17_2_1_1679315587130_5611050), a draw and disruption card from Paldea Evolved.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 14** 2 Regice ASR 37 2 Regidrago ASR 118 2 Regieleki EVS 60 2 Regigigas ASR 130 2 Regirock ASR 75 2 Registeel ASR 108 1 Regidrago EVS 124 1 Regieleki ASR 51
-
-**Trainer Cards - 35** 4 Professor's Research SVI 190 4 Serena SIT 164 1 Boss's Orders BRS 132 4 Energy Search SVI 172 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Super Rod PAL 188 3 Switch Cart ASR 154 2 Choice Belt PAL 176 1 Escape Rope BST 125 1 Hisuian Heavy Ball ASR 146 1 Pal Pad SVI 182 3 Artazon PAL 171
-
-**Energy - 11** 2 Fighting Energy SVE 6 2 Grass Energy SVE 1 2 Lightning Energy SVE 4 2 Luminous Energy PAL 191 1 Double Turbo Energy BRS 151 1 Fire Energy SVE 2 1 Gift Energy LOR 171
+```decklist
+Pokémon - 14
+2 Regice ASR 37
+2 Regidrago ASR 118
+2 Regieleki EVS 60
+2 Regigigas ASR 130
+2 Regirock ASR 75
+2 Registeel ASR 108
+1 Regidrago EVS 124
+1 Regieleki ASR 51
+Trainer Cards - 35
+4 Professor's Research SVI 190
+4 Serena SIT 164
+1 Boss's Orders BRS 132
+4 Energy Search SVI 172
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Super Rod PAL 188
+3 Switch Cart ASR 154
+2 Choice Belt PAL 176
+1 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+3 Artazon PAL 171
+Energy - 11
+2 Fighting Energy SVE 6
+2 Grass Energy SVE 1
+2 Lightning Energy SVE 4
+2 Luminous Energy PAL 191
+1 Double Turbo Energy BRS 151
+1 Fire Energy SVE 2
+1 Gift Energy LOR 171
+```
 
 ### Testing Streams
 
@@ -637,7 +761,10 @@ Get 1 of each of the Regis into play via the deck’s large variety of searching
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-fNmLTMou6s?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Part 1: Meowscarada ex vs. Regigigas&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Rgu3U0GF04A?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Paldea Evolved Testing Bonus #4: Quaquaval ex vs. Regigigas&quot;></iframe>">
       </div>

@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2024-03-14
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our fifth Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about our fifth Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv5">Set List</a> | 
@@ -21,9 +19,10 @@ publishDate: 2024-03-14
           <a class="blink" href="/proxies/sv5">Selected Proxies</a>  | 
           <a class="blink" href="/new-decks/sv5">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 162 cards (before Secret Rares)</h3>
 

@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2024-10-08
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-stellar-crown-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV6.5 Set Identifier" src="/images/scr.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our seventh Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-stellar-crown-logo.webp" identifier="/images/scr.webp" idalt="SV6.5 Set Identifier" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about our seventh Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv7">Set List</a>  |
@@ -22,9 +19,10 @@ publishDate: 2024-10-08
           <a class="blink" href="/proxies/sv7">Selected Proxies</a> |
           <a class="blink" href="/new-decks/sv7">New Decks</a> 
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 142 cards (before Secret Rares)</h3>
 

@@ -14,7 +14,14 @@ The following cards have been added to the Eternal format’s ban list, effectiv
 - [Palkia & Dialga LEGEND TM 101](https://pkmncards.com/card/palkia-dialga-legend-triumphant-tm-101/)
 - [Palkia & Dialga LEGEND TM 102](https://pkmncards.com/card/palkia-dialga-legend-triumphant-tm-102/)
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-hgss4-101-palkia-dialga-legend-101.webp"><img src="/images/en-us-hgss4-101-palkia-dialga-legend-101.webp" alt="en_US-HGSS4-101-palkia_dialga_legend_101.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-hgss4-101-palkia-dialga-legend-102.webp"><img src="/images/en-us-hgss4-101-palkia-dialga-legend-102.webp" alt="en_US-HGSS4-101-palkia_dialga_legend_102.jpg" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/en-us-hgss4-101-palkia-dialga-legend-101.webp
+- /images/en-us-hgss4-101-palkia-dialga-legend-102.webp
+:::
+
+
 
 Ban reasoning: Because of the large variety of Metal-type energy acceleration in the format, it is too easy for players to abuse Palkia & Dialga LEGEND’s Time Control attack, which reads, “Discard all [M] Energy attached to Palkia & Dialga LEGEND. Add the top 2 cards of your opponent's deck to his or her Prize cards.”
 

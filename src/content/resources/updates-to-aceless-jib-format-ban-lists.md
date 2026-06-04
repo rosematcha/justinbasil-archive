@@ -19,7 +19,13 @@ Ban list updates are now live for two alternate formats. Please keep in mind the
 
 The following card has been added to the Aceless format ban list: Malamar CRE 70.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/cre-070-r-en.webp"><img src="/images/cre-070-r-en.webp" alt="CRE_070_R_EN.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/cre-070-r-en.webp
+:::
+
+
 
 ### JIB Format
 
@@ -27,5 +33,12 @@ For the first time since its creation, two cards have been added to the ban list
 
 Going forward, Professor’s Research JIB1 141 and Quick Ball JIB1 142 are banned in the JIB format.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/professor-s-research.webp"><img src="/images/professor-s-research.webp" alt="Professor's+Research.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/quick-ball.webp"><img src="/images/quick-ball.webp" alt="Quick+Ball.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/professor-s-research.webp
+- /images/quick-ball.webp
+:::
+
+
 

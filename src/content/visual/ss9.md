@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2022-06-19
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center" />
-    <h1 class="jb-cta-title">Visual Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
+
+
+:::setcard{bg="/images/brilliant-stars.webp" logo="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" identifier="/s/ss9.png" idalt="Brilliant Stars Set Symbol" title="Visual Set List"}
+
+<p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/ss9">Set List</a> | 
@@ -21,9 +18,10 @@ publishDate: 2022-06-19
           <a class="blink" href="/highlights/ss9">Set Highlights</a> |
           <a class="blink" href="/new-decks/ss9">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below are images for all cards we’ve seen that became part of our ninth Sword & Shield set, Brilliant Stars. For more information about the set, including a text version of this set list—be sure to check out [Brilliant Stars - What We Know So Far](/set-lists/ss9). For a more focused look at what’s in Brilliant Stars, visit [Highlights from Brilliant Stars](/highlights/ss9)!
 
@@ -31,7 +29,198 @@ Below are images for all cards we’ve seen that became part of our ninth Sword 
 
 ### Main Set
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/11-50.webp"><img src="/images/11-50.webp" alt="11-50.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/12-54.webp"><img src="/images/12-54.webp" alt="12-54.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/13-45.webp"><img src="/images/13-45.webp" alt="13-45.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/14-43.webp"><img src="/images/14-43.webp" alt="14-43.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/15-45.webp"><img src="/images/15-45.webp" alt="15-45.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/16-38.webp"><img src="/images/16-38.webp" alt="16-38.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/17-35.webp"><img src="/images/17-35.webp" alt="17-35.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/18-37.webp"><img src="/images/18-37.webp" alt="18-37.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/19-30.webp"><img src="/images/19-30.webp" alt="19-30.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/110-21.webp"><img src="/images/110-21.webp" alt="110-21.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/111-23.webp"><img src="/images/111-23.webp" alt="111-23.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/112-22.webp"><img src="/images/112-22.webp" alt="112-22.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/113-21.webp"><img src="/images/113-21.webp" alt="113-21.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/114-21.webp"><img src="/images/114-21.webp" alt="114-21.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/115-21.webp"><img src="/images/115-21.webp" alt="115-21.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/116-19.webp"><img src="/images/116-19.webp" alt="116-19.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/117-18.webp"><img src="/images/117-18.webp" alt="117-18.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/118-20.webp"><img src="/images/118-20.webp" alt="118-20.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/119-20.webp"><img src="/images/119-20.webp" alt="119-20.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/120-20.webp"><img src="/images/120-20.webp" alt="120-20.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/121-18.webp"><img src="/images/121-18.webp" alt="121-18.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/122-22.webp"><img src="/images/122-22.webp" alt="122-22.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/123-42.webp"><img src="/images/123-42.webp" alt="123-42.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/124-20.webp"><img src="/images/124-20.webp" alt="124-20.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/125-22.webp"><img src="/images/125-22.webp" alt="125-22.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/126-16.webp"><img src="/images/126-16.webp" alt="126-16.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/127-17.webp"><img src="/images/127-17.webp" alt="127-17.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/128-14.webp"><img src="/images/128-14.webp" alt="128-14.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/129-11.webp"><img src="/images/129-11.webp" alt="129-11.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/130-5.webp"><img src="/images/130-5.webp" alt="130-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/131-5.webp"><img src="/images/131-5.webp" alt="131-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/132-9.webp"><img src="/images/132-9.webp" alt="132-9.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/133-9.webp"><img src="/images/133-9.webp" alt="133-9.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/134-9.webp"><img src="/images/134-9.webp" alt="134-9.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/135-7.webp"><img src="/images/135-7.webp" alt="135-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/136-8.webp"><img src="/images/136-8.webp" alt="136-8.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/137-8-f06bb9.webp"><img src="/images/137-8-f06bb9.webp" alt="137-8.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/138-8.webp"><img src="/images/138-8.webp" alt="138-8.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/139-5.webp"><img src="/images/139-5.webp" alt="139-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/140-6-02c868.webp"><img src="/images/140-6-02c868.webp" alt="140-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/141-6.webp"><img src="/images/141-6.webp" alt="141-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/142-7.webp"><img src="/images/142-7.webp" alt="142-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/143-6.webp"><img src="/images/143-6.webp" alt="143-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/144-7.webp"><img src="/images/144-7.webp" alt="144-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/145-6.webp"><img src="/images/145-6.webp" alt="145-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/146-6.webp"><img src="/images/146-6.webp" alt="146-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/147-7.webp"><img src="/images/147-7.webp" alt="147-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/148-7.webp"><img src="/images/148-7.webp" alt="148-7.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/149-4.webp"><img src="/images/149-4.webp" alt="149-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/150-4.webp"><img src="/images/150-4.webp" alt="150-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/151-4.webp"><img src="/images/151-4.webp" alt="151-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/152-3.webp"><img src="/images/152-3.webp" alt="152-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/153-3.webp"><img src="/images/153-3.webp" alt="153-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/154-4.webp"><img src="/images/154-4.webp" alt="154-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/155-3.webp"><img src="/images/155-3.webp" alt="155-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/156-3.webp"><img src="/images/156-3.webp" alt="156-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/157-3.webp"><img src="/images/157-3.webp" alt="157-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/158-3.webp"><img src="/images/158-3.webp" alt="158-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/159-3.webp"><img src="/images/159-3.webp" alt="159-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/160-4.webp"><img src="/images/160-4.webp" alt="160-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/161-4.webp"><img src="/images/161-4.webp" alt="161-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/162-4.webp"><img src="/images/162-4.webp" alt="162-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/163-5.webp"><img src="/images/163-5.webp" alt="163-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/164-5.webp"><img src="/images/164-5.webp" alt="164-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/165-5.webp"><img src="/images/165-5.webp" alt="165-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/166-5.webp"><img src="/images/166-5.webp" alt="166-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/167-5.webp"><img src="/images/167-5.webp" alt="167-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/168-5.webp"><img src="/images/168-5.webp" alt="168-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/169-5.webp"><img src="/images/169-5.webp" alt="169-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/170-5.webp"><img src="/images/170-5.webp" alt="170-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/171-5.webp"><img src="/images/171-5.webp" alt="171-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/172-5.webp"><img src="/images/172-5.webp" alt="172-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/173-5.webp"><img src="/images/173-5.webp" alt="173-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/174-5.webp"><img src="/images/174-5.webp" alt="174-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/175-5.webp"><img src="/images/175-5.webp" alt="175-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/176-5.webp"><img src="/images/176-5.webp" alt="176-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/177-4.webp"><img src="/images/177-4.webp" alt="177-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/178-4.webp"><img src="/images/178-4.webp" alt="178-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/179-5.webp"><img src="/images/179-5.webp" alt="179-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/180-5.webp"><img src="/images/180-5.webp" alt="180-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/181-5.webp"><img src="/images/181-5.webp" alt="181-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/182-5.webp"><img src="/images/182-5.webp" alt="182-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/183-5.webp"><img src="/images/183-5.webp" alt="183-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/184-5.webp"><img src="/images/184-5.webp" alt="184-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/185-4.webp"><img src="/images/185-4.webp" alt="185-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/186-4.webp"><img src="/images/186-4.webp" alt="186-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/187-4.webp"><img src="/images/187-4.webp" alt="187-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/188-4.webp"><img src="/images/188-4.webp" alt="188-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/189-4.webp"><img src="/images/189-4.webp" alt="189-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/190-4.webp"><img src="/images/190-4.webp" alt="190-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/191-4.webp"><img src="/images/191-4.webp" alt="191-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/192-6.webp"><img src="/images/192-6.webp" alt="192-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/193-4.webp"><img src="/images/193-4.webp" alt="193-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/194-4.webp"><img src="/images/194-4.webp" alt="194-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/195-4.webp"><img src="/images/195-4.webp" alt="195-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/196-4.webp"><img src="/images/196-4.webp" alt="196-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/197-5.webp"><img src="/images/197-5.webp" alt="197-5.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/198-4.webp"><img src="/images/198-4.webp" alt="198-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/199-3.webp"><img src="/images/199-3.webp" alt="199-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1100-2.webp"><img src="/images/1100-2.webp" alt="1100-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1101-2.webp"><img src="/images/1101-2.webp" alt="1101-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1102-2.webp"><img src="/images/1102-2.webp" alt="1102-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1103-2.webp"><img src="/images/1103-2.webp" alt="1103-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1104-2.webp"><img src="/images/1104-2.webp" alt="1104-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1105-2.webp"><img src="/images/1105-2.webp" alt="1105-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1106-2.webp"><img src="/images/1106-2.webp" alt="1106-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1107-2.webp"><img src="/images/1107-2.webp" alt="1107-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1108-2.webp"><img src="/images/1108-2.webp" alt="1108-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1109-2.webp"><img src="/images/1109-2.webp" alt="1109-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1110-2.webp"><img src="/images/1110-2.webp" alt="1110-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1111-2.webp"><img src="/images/1111-2.webp" alt="1111-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1112-2.webp"><img src="/images/1112-2.webp" alt="1112-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1113-2.webp"><img src="/images/1113-2.webp" alt="1113-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1114-2.webp"><img src="/images/1114-2.webp" alt="1114-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1115-2.webp"><img src="/images/1115-2.webp" alt="1115-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1116-2.webp"><img src="/images/1116-2.webp" alt="1116-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1117-2.webp"><img src="/images/1117-2.webp" alt="1117-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1118-2.webp"><img src="/images/1118-2.webp" alt="1118-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1119-2.webp"><img src="/images/1119-2.webp" alt="1119-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1120-2.webp"><img src="/images/1120-2.webp" alt="1120-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1121-2.webp"><img src="/images/1121-2.webp" alt="1121-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1122-2.webp"><img src="/images/1122-2.webp" alt="1122-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1123-2.webp"><img src="/images/1123-2.webp" alt="1123-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1124-2.webp"><img src="/images/1124-2.webp" alt="1124-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1125-2.webp"><img src="/images/1125-2.webp" alt="1125-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1126-2.webp"><img src="/images/1126-2.webp" alt="1126-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1127-2.webp"><img src="/images/1127-2.webp" alt="1127-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1128-2.webp"><img src="/images/1128-2.webp" alt="1128-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1129-2.webp"><img src="/images/1129-2.webp" alt="1129-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1130-2.webp"><img src="/images/1130-2.webp" alt="1130-2.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1131-3-2e7db7.webp"><img src="/images/1131-3-2e7db7.webp" alt="1131-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1132-3.webp"><img src="/images/1132-3.webp" alt="1132-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1133-3.webp"><img src="/images/1133-3.webp" alt="1133-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1134-3.webp"><img src="/images/1134-3.webp" alt="1134-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1135-3.webp"><img src="/images/1135-3.webp" alt="1135-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1136-3.webp"><img src="/images/1136-3.webp" alt="1136-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1137-3.webp"><img src="/images/1137-3.webp" alt="1137-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1138-3.webp"><img src="/images/1138-3.webp" alt="1138-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1139-3.webp"><img src="/images/1139-3.webp" alt="1139-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1140-3.webp"><img src="/images/1140-3.webp" alt="1140-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1141-3.webp"><img src="/images/1141-3.webp" alt="1141-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1142-3.webp"><img src="/images/1142-3.webp" alt="1142-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1143-3.webp"><img src="/images/1143-3.webp" alt="1143-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1144-3.webp"><img src="/images/1144-3.webp" alt="1144-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1145-3.webp"><img src="/images/1145-3.webp" alt="1145-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1146-3.webp"><img src="/images/1146-3.webp" alt="1146-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1147-3.webp"><img src="/images/1147-3.webp" alt="1147-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1148-3.webp"><img src="/images/1148-3.webp" alt="1148-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1149-3.webp"><img src="/images/1149-3.webp" alt="1149-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1150-3-4b20c4.webp"><img src="/images/1150-3-4b20c4.webp" alt="1150-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1151-3.webp"><img src="/images/1151-3.webp" alt="1151-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1152-3.webp"><img src="/images/1152-3.webp" alt="1152-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1153-3.webp"><img src="/images/1153-3.webp" alt="1153-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1154-3.webp"><img src="/images/1154-3.webp" alt="1154-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1155-3.webp"><img src="/images/1155-3.webp" alt="1155-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1156-3.webp"><img src="/images/1156-3.webp" alt="1156-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1157-3.webp"><img src="/images/1157-3.webp" alt="1157-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1158-3.webp"><img src="/images/1158-3.webp" alt="1158-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1159-3.webp"><img src="/images/1159-3.webp" alt="1159-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1160-3.webp"><img src="/images/1160-3.webp" alt="1160-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1161-3.webp"><img src="/images/1161-3.webp" alt="1161-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1162-3.webp"><img src="/images/1162-3.webp" alt="1162-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1163-3.webp"><img src="/images/1163-3.webp" alt="1163-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1164-3.webp"><img src="/images/1164-3.webp" alt="1164-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1165-3.webp"><img src="/images/1165-3.webp" alt="1165-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1166-4.webp"><img src="/images/1166-4.webp" alt="1166-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1167-4.webp"><img src="/images/1167-4.webp" alt="1167-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1168-4.webp"><img src="/images/1168-4.webp" alt="1168-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1169-4.webp"><img src="/images/1169-4.webp" alt="1169-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1170-4.webp"><img src="/images/1170-4.webp" alt="1170-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1171-4.webp"><img src="/images/1171-4.webp" alt="1171-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1172-4.webp"><img src="/images/1172-4.webp" alt="1172-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1173-4.webp"><img src="/images/1173-4.webp" alt="1173-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1174-4.webp"><img src="/images/1174-4.webp" alt="1174-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1175-4.webp"><img src="/images/1175-4.webp" alt="1175-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1176-4.webp"><img src="/images/1176-4.webp" alt="1176-4.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1177-3.webp"><img src="/images/1177-3.webp" alt="1177-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1178-3.webp"><img src="/images/1178-3.webp" alt="1178-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1179-3.webp"><img src="/images/1179-3.webp" alt="1179-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1180-3.webp"><img src="/images/1180-3.webp" alt="1180-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1181-3.webp"><img src="/images/1181-3.webp" alt="1181-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1182-3.webp"><img src="/images/1182-3.webp" alt="1182-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1183-3.webp"><img src="/images/1183-3.webp" alt="1183-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1184-3.webp"><img src="/images/1184-3.webp" alt="1184-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1185-3.webp"><img src="/images/1185-3.webp" alt="1185-3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/1186-3.webp"><img src="/images/1186-3.webp" alt="1186-3.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/11-50.webp
+- /images/12-54.webp
+- /images/13-45.webp
+- /images/14-43.webp
+- /images/15-45.webp
+- /images/16-38.webp
+- /images/17-35.webp
+- /images/18-37.webp
+- /images/19-30.webp
+- /images/110-21.webp
+- /images/111-23.webp
+- /images/112-22.webp
+- /images/113-21.webp
+- /images/114-21.webp
+- /images/115-21.webp
+- /images/116-19.webp
+- /images/117-18.webp
+- /images/118-20.webp
+- /images/119-20.webp
+- /images/120-20.webp
+- /images/121-18.webp
+- /images/122-22.webp
+- /images/123-42.webp
+- /images/124-20.webp
+- /images/125-22.webp
+- /images/126-16.webp
+- /images/127-17.webp
+- /images/128-14.webp
+- /images/129-11.webp
+- /images/130-5.webp
+- /images/131-5.webp
+- /images/132-9.webp
+- /images/133-9.webp
+- /images/134-9.webp
+- /images/135-7.webp
+- /images/136-8.webp
+- /images/137-8-f06bb9.webp
+- /images/138-8.webp
+- /images/139-5.webp
+- /images/140-6-02c868.webp
+- /images/141-6.webp
+- /images/142-7.webp
+- /images/143-6.webp
+- /images/144-7.webp
+- /images/145-6.webp
+- /images/146-6.webp
+- /images/147-7.webp
+- /images/148-7.webp
+- /images/149-4.webp
+- /images/150-4.webp
+- /images/151-4.webp
+- /images/152-3.webp
+- /images/153-3.webp
+- /images/154-4.webp
+- /images/155-3.webp
+- /images/156-3.webp
+- /images/157-3.webp
+- /images/158-3.webp
+- /images/159-3.webp
+- /images/160-4.webp
+- /images/161-4.webp
+- /images/162-4.webp
+- /images/163-5.webp
+- /images/164-5.webp
+- /images/165-5.webp
+- /images/166-5.webp
+- /images/167-5.webp
+- /images/168-5.webp
+- /images/169-5.webp
+- /images/170-5.webp
+- /images/171-5.webp
+- /images/172-5.webp
+- /images/173-5.webp
+- /images/174-5.webp
+- /images/175-5.webp
+- /images/176-5.webp
+- /images/177-4.webp
+- /images/178-4.webp
+- /images/179-5.webp
+- /images/180-5.webp
+- /images/181-5.webp
+- /images/182-5.webp
+- /images/183-5.webp
+- /images/184-5.webp
+- /images/185-4.webp
+- /images/186-4.webp
+- /images/187-4.webp
+- /images/188-4.webp
+- /images/189-4.webp
+- /images/190-4.webp
+- /images/191-4.webp
+- /images/192-6.webp
+- /images/193-4.webp
+- /images/194-4.webp
+- /images/195-4.webp
+- /images/196-4.webp
+- /images/197-5.webp
+- /images/198-4.webp
+- /images/199-3.webp
+- /images/1100-2.webp
+- /images/1101-2.webp
+- /images/1102-2.webp
+- /images/1103-2.webp
+- /images/1104-2.webp
+- /images/1105-2.webp
+- /images/1106-2.webp
+- /images/1107-2.webp
+- /images/1108-2.webp
+- /images/1109-2.webp
+- /images/1110-2.webp
+- /images/1111-2.webp
+- /images/1112-2.webp
+- /images/1113-2.webp
+- /images/1114-2.webp
+- /images/1115-2.webp
+- /images/1116-2.webp
+- /images/1117-2.webp
+- /images/1118-2.webp
+- /images/1119-2.webp
+- /images/1120-2.webp
+- /images/1121-2.webp
+- /images/1122-2.webp
+- /images/1123-2.webp
+- /images/1124-2.webp
+- /images/1125-2.webp
+- /images/1126-2.webp
+- /images/1127-2.webp
+- /images/1128-2.webp
+- /images/1129-2.webp
+- /images/1130-2.webp
+- /images/1131-3-2e7db7.webp
+- /images/1132-3.webp
+- /images/1133-3.webp
+- /images/1134-3.webp
+- /images/1135-3.webp
+- /images/1136-3.webp
+- /images/1137-3.webp
+- /images/1138-3.webp
+- /images/1139-3.webp
+- /images/1140-3.webp
+- /images/1141-3.webp
+- /images/1142-3.webp
+- /images/1143-3.webp
+- /images/1144-3.webp
+- /images/1145-3.webp
+- /images/1146-3.webp
+- /images/1147-3.webp
+- /images/1148-3.webp
+- /images/1149-3.webp
+- /images/1150-3-4b20c4.webp
+- /images/1151-3.webp
+- /images/1152-3.webp
+- /images/1153-3.webp
+- /images/1154-3.webp
+- /images/1155-3.webp
+- /images/1156-3.webp
+- /images/1157-3.webp
+- /images/1158-3.webp
+- /images/1159-3.webp
+- /images/1160-3.webp
+- /images/1161-3.webp
+- /images/1162-3.webp
+- /images/1163-3.webp
+- /images/1164-3.webp
+- /images/1165-3.webp
+- /images/1166-4.webp
+- /images/1167-4.webp
+- /images/1168-4.webp
+- /images/1169-4.webp
+- /images/1170-4.webp
+- /images/1171-4.webp
+- /images/1172-4.webp
+- /images/1173-4.webp
+- /images/1174-4.webp
+- /images/1175-4.webp
+- /images/1176-4.webp
+- /images/1177-3.webp
+- /images/1178-3.webp
+- /images/1179-3.webp
+- /images/1180-3.webp
+- /images/1181-3.webp
+- /images/1182-3.webp
+- /images/1183-3.webp
+- /images/1184-3.webp
+- /images/1185-3.webp
+- /images/1186-3.webp
+:::
+
+<div class="jb-code-container">
 <div id="trainergallery"></div>
 </div>
 
@@ -39,5 +228,40 @@ Below are images for all cards we’ve seen that became part of our ninth Sword 
 
 The set description for *Brilliant Stars* mentions that it contains “a special Trainer Gallery subset of 30 cards with artwork featuring fan-favorite Trainers and Pokémon.” With this and the very high count of Full Art rarity and higher cards from the Japanese set *VMAX Climax* in mind, <strong>not all of the special cards from VMAX Climax will appear in *Brilliant Stars*</strong>. The cards that did not make it into Brilliant Stars’ Trainer Gallery will likely appear in future sets as part of their Trainer Gallery. To see cards that may be included in future Trainer Galleries, see the [Trainer Galleries article](/visual/tg).
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/image.webp"><img src="/images/image.webp" alt="image.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041020-p-shixyawazu.webp"><img src="/images/041020-p-shixyawazu.webp" alt="041020_P_SHIXYAWAZU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041022-p-okutan.webp"><img src="/images/041022-p-okutan.webp" alt="041022_P_OKUTAN.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041024-p-sandasu.webp"><img src="/images/041024-p-sandasu.webp" alt="041024_P_SANDASU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041026-p-zekuromu.webp"><img src="/images/041026-p-zekuromu.webp" alt="041026_P_ZEKUROMU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041029-p-yonowaru.webp"><img src="/images/041029-p-yonowaru.webp" alt="041029_P_YONOWARU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041031-p-dedenne.webp"><img src="/images/041031-p-dedenne.webp" alt="041031_P_DEDENNE.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041032-p-mahoippu.webp"><img src="/images/041032-p-mahoippu.webp" alt="041032_P_MAHOIPPU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041036-p-ariadosu.webp"><img src="/images/041036-p-ariadosu.webp" alt="041036_P_ARIADOSU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041037-p-heruga.webp"><img src="/images/041037-p-heruga.webp" alt="041037_P_HERUGA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041041-p-ibui.webp"><img src="/images/041041-p-ibui.webp" alt="041041_P_IBUI.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041043-p-yareyutan.webp"><img src="/images/041043-p-yareyutan.webp" alt="041043_P_YAREYUTAN.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041056-p-parusuwanv.webp"><img src="/images/041056-p-parusuwanv.webp" alt="041056_P_PARUSUWANV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041059-p-ninfuiav.webp"><img src="/images/041059-p-ninfuiav.webp" alt="041059_P_NINFUIAV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041060-p-ninfuiavmax.webp"><img src="/images/041060-p-ninfuiavmax.webp" alt="041060_P_NINFUIAVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041061-p-mimikkixyuv.webp"><img src="/images/041061-p-mimikkixyuv.webp" alt="041061_P_MIMIKKIXYUV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041062-p-mimikkixyuvmax.webp"><img src="/images/041062-p-mimikkixyuvmax.webp" alt="041062_P_MIMIKKIXYUVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041066-p-ichigekiuraosuv.webp"><img src="/images/041066-p-ichigekiuraosuv.webp" alt="041066_P_ICHIGEKIURAOSUV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041067-p-ichigekiuraosuvmax.webp"><img src="/images/041067-p-ichigekiuraosuvmax.webp" alt="041067_P_ICHIGEKIURAOSUVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041068-p-rengekiuraosuv.webp"><img src="/images/041068-p-rengekiuraosuv.webp" alt="041068_P_RENGEKIURAOSUV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041069-p-rengekiuraosuvmax.webp"><img src="/images/041069-p-rengekiuraosuvmax.webp" alt="041069_P_RENGEKIURAOSUVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041072-p-burakkiv.webp"><img src="/images/041072-p-burakkiv.webp" alt="041072_P_BURAKKIV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041073-p-burakkivmax.webp"><img src="/images/041073-p-burakkivmax.webp" alt="041073_P_BURAKKIVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041083-t-aseroranoyokan.webp"><img src="/images/041083-t-aseroranoyokan.webp" alt="041083_T_ASERORANOYOKAN.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041099-t-masuta.webp"><img src="/images/041099-t-masuta.webp" alt="041099_T_MASUTA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041104-t-yuuri.webp"><img src="/images/041104-t-yuuri.webp" alt="041104_T_YUURI.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041101-t-masutadorengekinokata.webp"><img src="/images/041101-t-masutadorengekinokata.webp" alt="041101_T_MASUTADORENGEKINOKATA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041100-t-masutadoichigekinokata.webp"><img src="/images/041100-t-masutadoichigekinokata.webp" alt="041100_T_MASUTADOICHIGEKINOKATA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gold-ss-urshifu-vmax.webp"><img src="/images/gold-ss-urshifu-vmax.webp" alt="GOLD SS Urshifu VMAX.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gold-rs-urshifu-vmax.webp"><img src="/images/gold-rs-urshifu-vmax.webp" alt="GOLD RS Urshifu VMAX.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/image.webp
+- /images/041020-p-shixyawazu.webp
+- /images/041022-p-okutan.webp
+- /images/041024-p-sandasu.webp
+- /images/041026-p-zekuromu.webp
+- /images/041029-p-yonowaru.webp
+- /images/041031-p-dedenne.webp
+- /images/041032-p-mahoippu.webp
+- /images/041036-p-ariadosu.webp
+- /images/041037-p-heruga.webp
+- /images/041041-p-ibui.webp
+- /images/041043-p-yareyutan.webp
+- /images/041056-p-parusuwanv.webp
+- /images/041059-p-ninfuiav.webp
+- /images/041060-p-ninfuiavmax.webp
+- /images/041061-p-mimikkixyuv.webp
+- /images/041062-p-mimikkixyuvmax.webp
+- /images/041066-p-ichigekiuraosuv.webp
+- /images/041067-p-ichigekiuraosuvmax.webp
+- /images/041068-p-rengekiuraosuv.webp
+- /images/041069-p-rengekiuraosuvmax.webp
+- /images/041072-p-burakkiv.webp
+- /images/041073-p-burakkivmax.webp
+- /images/041083-t-aseroranoyokan.webp
+- /images/041099-t-masuta.webp
+- /images/041104-t-yuuri.webp
+- /images/041101-t-masutadorengekinokata.webp
+- /images/041100-t-masutadoichigekinokata.webp
+- /images/gold-ss-urshifu-vmax.webp
+- /images/gold-rs-urshifu-vmax.webp
+:::
+
+
 

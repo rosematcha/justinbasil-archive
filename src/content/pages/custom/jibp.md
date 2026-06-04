@@ -18,7 +18,28 @@ Click on a card to zoom in.
 
 ### Gallery View
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/lillie.webp"><img src="/images/lillie.webp" alt="Lillie.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/n.webp"><img src="/images/n.webp" alt="N.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/grass-energy-jib.webp"><img src="/images/grass-energy-jib.webp" alt="Grass Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/fire-energy-jib.webp"><img src="/images/fire-energy-jib.webp" alt="Fire Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/water-energy-jib.webp"><img src="/images/water-energy-jib.webp" alt="Water Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lightning-energy-jib.webp"><img src="/images/lightning-energy-jib.webp" alt="Lightning Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/psychic-energy-jib.webp"><img src="/images/psychic-energy-jib.webp" alt="Psychic Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/fighting-energy-jib.webp"><img src="/images/fighting-energy-jib.webp" alt="Fighting Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/darkness-energy-jib.webp"><img src="/images/darkness-energy-jib.webp" alt="Darkness Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/metal-energy-jib.webp"><img src="/images/metal-energy-jib.webp" alt="Metal Energy JIB.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lorelei-a9266d.webp"><img src="/images/lorelei-a9266d.webp" alt="Lorelei.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/shadow-energy.webp"><img src="/images/shadow-energy.webp" alt="Shadow Energy.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/miasmic-swamp.webp"><img src="/images/miasmic-swamp.webp" alt="Miasmic Swamp.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/giratina-90dc6c.webp"><img src="/images/giratina-90dc6c.webp" alt="Giratina.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/zeraora-5813b4.webp"><img src="/images/zeraora-5813b4.webp" alt="Zeraora.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mewtwo-f5ef4d.webp"><img src="/images/mewtwo-f5ef4d.webp" alt="Mewtwo.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/lillie.webp
+- /images/n.webp
+- /images/grass-energy-jib.webp
+- /images/fire-energy-jib.webp
+- /images/water-energy-jib.webp
+- /images/lightning-energy-jib.webp
+- /images/psychic-energy-jib.webp
+- /images/fighting-energy-jib.webp
+- /images/darkness-energy-jib.webp
+- /images/metal-energy-jib.webp
+- /images/lorelei-a9266d.webp
+- /images/shadow-energy.webp
+- /images/miasmic-swamp.webp
+- /images/giratina-90dc6c.webp
+- /images/zeraora-5813b4.webp
+- /images/mewtwo-f5ef4d.webp
+:::
+
+
 
 ### Text View
 

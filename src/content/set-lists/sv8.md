@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2024-10-26
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-surging-sparks-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-white-center-margin5">Prospective Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-surging-sparks-logo.webp" title="Prospective Set List"}
+
+<p class="jb-decklist-center">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv8">Prospective Set List</a>  |
@@ -21,9 +19,10 @@ publishDate: 2024-10-26
           <a class="blink" href="/proxies/sv8">Selected Proxies</a> |
           <a class="blink" href="/new-decks/sv8">New Decks</a> 
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 191 cards (before Secret Rares)</h3>
 

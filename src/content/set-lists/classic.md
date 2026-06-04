@@ -56,7 +56,22 @@ The Pokémon Trading Card Game Classic is a self-contained game in a box featuri
 
 <h2 class="jb-center">Visual Card Breakdown</h2>
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/deck-card-1-9.webp"><img src="/images/deck-card-1-9.webp" alt="deck-card-1-9.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-1-10.webp"><img src="/images/deck-card-1-10.webp" alt="deck-card-1-10.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-venusaur-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-venusaur-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_Venusaur_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-1-6.webp"><img src="/images/deck-card-1-6.webp" alt="deck-card-1-6.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-1-3.webp"><img src="/images/deck-card-1-3.webp" alt="deck-card-1-3.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-17-lugia-ex-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-17-lugia-ex-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_17_Lugia_ex_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-1-7.webp"><img src="/images/deck-card-1-7.webp" alt="deck-card-1-7.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-professor-oak-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-professor-oak-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_Professor_Oak_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-27-sun-seed-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-27-sun-seed-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_27_Sun_Seed_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-1-8.webp"><img src="/images/deck-card-1-8.webp" alt="deck-card-1-8.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/deck-card-1-9.webp
+- /images/deck-card-1-10.webp
+- /images/pokemon-trading-card-game-classic-venusaur-png-jpgcopy.webp
+- /images/deck-card-1-6.webp
+- /images/deck-card-1-3.webp
+- /images/pokemon-trading-card-game-classic-17-lugia-ex-png-jpgcopy.webp
+- /images/deck-card-1-7.webp
+- /images/pokemon-trading-card-game-classic-professor-oak-png-jpgcopy.webp
+- /images/pokemon-trading-card-game-classic-27-sun-seed-png-jpgcopy.webp
+- /images/deck-card-1-8.webp
+:::
+
+
 
 ---
 
@@ -169,7 +184,22 @@ The attacks by the Venusaur this card is attached to do 100 more damage to your 
 
 <h2 class="jb-center">Visual Card Breakdown</h2>
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/deck-card-2-9.webp"><img src="/images/deck-card-2-9.webp" alt="deck-card-2-9.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-2-10.webp"><img src="/images/deck-card-2-10.webp" alt="deck-card-2-10.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-charizard-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-charizard-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_Charizard_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-7-ho-oh-ex-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-7-ho-oh-ex-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_7_Ho-Oh_ex_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-2-3.webp"><img src="/images/deck-card-2-3.webp" alt="deck-card-2-3.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-2-6.webp"><img src="/images/deck-card-2-6.webp" alt="deck-card-2-6.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-2-4.webp"><img src="/images/deck-card-2-4.webp" alt="deck-card-2-4.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-26-scorching-charcoal-png.webp"><img src="/images/pokemon-trading-card-game-classic-26-scorching-charcoal-png.webp" alt="Pokemon_Trading_Card_Game_Classic_26_Scorching_Charcoal_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-2-7.webp"><img src="/images/deck-card-2-7.webp" alt="deck-card-2-7.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-2-8.webp"><img src="/images/deck-card-2-8.webp" alt="deck-card-2-8.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/deck-card-2-9.webp
+- /images/deck-card-2-10.webp
+- /images/pokemon-trading-card-game-classic-charizard-png-jpgcopy.webp
+- /images/pokemon-trading-card-game-classic-7-ho-oh-ex-png-jpgcopy.webp
+- /images/deck-card-2-3.webp
+- /images/deck-card-2-6.webp
+- /images/deck-card-2-4.webp
+- /images/pokemon-trading-card-game-classic-26-scorching-charcoal-png.webp
+- /images/deck-card-2-7.webp
+- /images/deck-card-2-8.webp
+:::
+
+
 
 ---
 
@@ -282,7 +312,22 @@ The attacks used by the Charizard this card is attached to do 100 more damage to
 
 <h2 class="jb-center">Visual Card Breakdown</h2>
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/deck-card-3-9.webp"><img src="/images/deck-card-3-9.webp" alt="deck-card-3-9.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-3-10.webp"><img src="/images/deck-card-3-10.webp" alt="deck-card-3-10.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-blastoise-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-blastoise-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_Blastoise_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-10-suicune-ex-png-jpgcopy.webp"><img src="/images/pokemon-trading-card-game-classic-10-suicune-ex-png-jpgcopy.webp" alt="Pokemon_Trading_Card_Game_Classic_10_Suicune_ex_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-3-3.webp"><img src="/images/deck-card-3-3.webp" alt="deck-card-3-3.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-3-6.webp"><img src="/images/deck-card-3-6.webp" alt="deck-card-3-6.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-3-7.webp"><img src="/images/deck-card-3-7.webp" alt="deck-card-3-7.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-trading-card-game-classic-21-drops-in-the-ocean-png.webp"><img src="/images/pokemon-trading-card-game-classic-21-drops-in-the-ocean-png.webp" alt="Pokemon_Trading_Card_Game_Classic_21_Drops_in_the_Ocean_png_jpgcopy.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-3-5.webp"><img src="/images/deck-card-3-5.webp" alt="deck-card-3-5.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/deck-card-3-8.webp"><img src="/images/deck-card-3-8.webp" alt="deck-card-3-8.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/deck-card-3-9.webp
+- /images/deck-card-3-10.webp
+- /images/pokemon-trading-card-game-classic-blastoise-png-jpgcopy.webp
+- /images/pokemon-trading-card-game-classic-10-suicune-ex-png-jpgcopy.webp
+- /images/deck-card-3-3.webp
+- /images/deck-card-3-6.webp
+- /images/deck-card-3-7.webp
+- /images/pokemon-trading-card-game-classic-21-drops-in-the-ocean-png.webp
+- /images/deck-card-3-5.webp
+- /images/deck-card-3-8.webp
+:::
+
+
 
 ---
 

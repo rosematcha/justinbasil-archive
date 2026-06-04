@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2022-06-19
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center" />
-    <h1 class="jb-cta-title">New Archetypes from Brilliant Stars</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
+
+
+:::setcard{bg="/images/brilliant-stars.webp" logo="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" identifier="/s/ss9.png" idalt="Brilliant Stars Set Symbol" title="New Archetypes from Brilliant Stars"}
+
+<p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/ss9">Set List</a> | 
@@ -21,9 +18,10 @@ publishDate: 2022-06-19
           <a class="blink" href="/highlights/ss9">Set Highlights</a> |
           <a href="/new-decks/ss9">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 With the arrival of Brilliant Stars in February of 2022, we’ll have a handful of new deck archetypes joining the fray. Additionally, with the return of Ultra Ball, a handful of decks will see new life breathed into them. As always, some deck archetypes are better than others—some are meme tier and some are merely playable, fun decks without much competitive promise. Lists below are very rough drafts and are intended as a starting place for testing, not as tournament-ready deck lists. Consider [creating and using proxies to test cards you don’t already own](/guide/proxies) prior to making any purchases.
 
@@ -60,20 +58,9 @@ With the arrival of Brilliant Stars in February of 2022, we’ll have a handful 
 
 ---
 
-<div class="jb-code-container">
-    <div id="torterra" class="deck_box">
-    <h2>Torterra</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/torterra.webp)
-
-*Illus. Oswaldo KATO*
 
 
+::::deck{id="torterra" name="Torterra" image="/images/torterra.webp" illus="Oswaldo KATO" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -92,34 +79,44 @@ Bench Turtwig and evolve at least one of them into Grotle. Use Grotle’s Sun-Dr
 - [Empoleon BRS 37](https://www.serebii.net/card/starbirth/027.shtml) as an out to an additional evolution Pokémon.
 - [Choice Belt](/highlights/ss9#block-yui_3_17_2_1_1641535179606_249206) as a damage-boosting tool to help Torterra take down high-HP Pokémon VMAX.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 22** 4 Turtwig BRS 6 4 Grotle BRS 7 4 Torterra BRS 8 3 Bidoof BRS 120 3 Bibarel BRS 121 2 Leafeon V EVS 7 1 Leafeon VSTAR PR-SW 195 1 Manaphy BRS 41
-
-**Trainer Cards - 29** 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Cynthia's Ambition BRS 138 1 Bird Keeper DAA 159 1 Professor's Research CEL 23 3 Exp. Share BST 126 3 Quick Ball FST 237 3 Rare Candy SSH 180 3 Ultra Ball BRS 150 2 Evolution Incense SSH 163 2 Level Ball BST 129 2 Ordinary Rod SSH 171 2 Training Court RCL 169
-
-**Energy - 9** 5 Grass Energy SWSHEnergy 1 4 Capture Energy RCL 171
+```decklist
+Pokémon - 22
+4 Turtwig BRS 6
+4 Grotle BRS 7
+4 Torterra BRS 8
+3 Bidoof BRS 120
+3 Bibarel BRS 121
+2 Leafeon V EVS 7
+1 Leafeon VSTAR PR-SW 195
+1 Manaphy BRS 41
+Trainer Cards - 29
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Cynthia's Ambition BRS 138
+1 Bird Keeper DAA 159
+1 Professor's Research CEL 23
+3 Exp. Share BST 126
+3 Quick Ball FST 237
+3 Rare Candy SSH 180
+3 Ultra Ball BRS 150
+2 Evolution Incense SSH 163
+2 Level Ball BST 129
+2 Ordinary Rod SSH 171
+2 Training Court RCL 169
+Energy - 9
+5 Grass Energy SWSHEnergy 1
+4 Capture Energy RCL 171
+```
 
 ### ALTERNATE LISTS
 
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=IauZzUOAlZw)
 
-</div></div><div class="jb-code-container">
-    <div id="burmy" class="deck_box">
-    <h2>Burmy Box</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/burmy-box.webp)
-
-*Illus. Miki Tanaka*
+::::
 
 
+
+::::deck{id="burmy" name="Burmy Box" image="/images/burmy-box.webp" illus="Miki Tanaka" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -134,30 +131,42 @@ Evolve Burmy into the most advantageous typing of Wormadam, to hit for Weakness 
 
 - [Cynthia’s Ambition](/highlights/ss9#block-yui_3_17_2_1_1639155583652_736045) or [Bruno](https://limitlesstcg.com/cards/BST/121) as a means of drawing a high quantity of cards after one of your Pokémon is knocked out.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 27
+4 Burmy BRS 9
+2 Wormadam BRS 77
+1 Wormadam BRS 10
+1 Wormadam BRS 98
+4 Zorua EVS 102
+4 Zoroark EVS 103
+3 Minccino BRS 124
+3 Cinccino SSH 147
+1 Appletun EVS 121
+1 Flapple EVS 120
+1 Golisopod DAA 18
+1 Manaphy BRS 41
+1 Yveltal CEL 19
+Trainer Cards - 27
+4 Professor's Research CEL 23
+3 Allister VIV 146
+2 Boss's Orders RCL 154
+1 Roseanne's Backup BRS 148
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Choice Belt BRS 135
+2 Ordinary Rod SSH 171
+Energy - 6
+4 Twin Energy RCL 174
+2 Double Turbo Energy BRS 151
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 27** 4 Burmy BRS 9 2 Wormadam BRS 77 1 Wormadam BRS 10 1 Wormadam BRS 98 4 Zorua EVS 102 4 Zoroark EVS 103 3 Minccino BRS 124 3 Cinccino SSH 147 1 Appletun EVS 121 1 Flapple EVS 120 1 Golisopod DAA 18 1 Manaphy BRS 41 1 Yveltal CEL 19
-
-**Trainer Cards - 27** 4 Professor's Research CEL 23 3 Allister VIV 146 2 Boss's Orders RCL 154 1 Roseanne's Backup BRS 148 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Choice Belt BRS 135 2 Ordinary Rod SSH 171
-
-**Energy - 6** 4 Twin Energy RCL 174 2 Double Turbo Energy BRS 151
-
-</div></div><div class="jb-code-container">
-    <div id="leafeonvmax" class="deck_box">
-    <h2>Leafeon VMAX with Shaymin VSTAR</h2>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/shaymin-vstar.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="leafeonvmax" name="Leafeon VMAX with Shaymin VSTAR" image="/images/shaymin-vstar.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -174,30 +183,40 @@ Bench Leafeon V and use its Greening Cells ability early to attach a Grass Energ
 
 - [Snow Leaf Badge](https://limitlesstcg.com/cards/EVS/159) as an option to ensure that Leafeon V, VMAX, and VSTAR are able to retreat even when Galar Mine is in play.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Leafeon V EVS 7
+3 Leafeon VMAX EVS 8
+1 Leafeon VSTAR PR-SW 195
+3 Bidoof BRS 120
+3 Bibarel BRS 121
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Shaymin V BRS 13
+1 Shaymin VSTAR BRS 14
+Trainer Cards - 33
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+3 Professor's Research CEL 23
+2 Raihan EVS 152
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Evolution Incense SSH 163
+3 Switch SSH 183
+2 Tool Jammer BST 136
+1 Choice Belt BRS 135
+1 Fan of Waves BST 127
+4 Galar Mine RCL 160
+Energy - 9
+5 Grass Energy SWSHEnergy 1
+4 Capture Energy RCL 171
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Leafeon V EVS 7 3 Leafeon VMAX EVS 8 1 Leafeon VSTAR PR-SW 195 3 Bidoof BRS 120 3 Bibarel BRS 121 1 Lumineon V BRS 40 1 Manaphy BRS 41 1 Shaymin V BRS 13 1 Shaymin VSTAR BRS 14
-
-**Trainer Cards - 33** 3 Boss's Orders RCL 154 3 Marnie CPA 56 3 Professor's Research CEL 23 2 Raihan EVS 152 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Evolution Incense SSH 163 3 Switch SSH 183 2 Tool Jammer BST 136 1 Choice Belt BRS 135 1 Fan of Waves BST 127 4 Galar Mine RCL 160
-
-**Energy - 9** 5 Grass Energy SWSHEnergy 1 4 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="durant" class="deck_box">
-    <h2>Durant</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/durant.webp)
-
-*Illus. kodama*
+::::
 
 
+
+::::deck{id="durant" name="Durant" image="/images/durant.webp" illus="kodama" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -213,35 +232,45 @@ Use the deck’s various searching options, get as many Durant in play as possib
 - [Crushing Hammer](https://limitlesstcg.com/cards/ssh/159), [Fan of Waves](https://limitlesstcg.com/cards/BST/127), [Flannery](https://limitlesstcg.com/cards/cre/139), [Team Yell Grunt](https://limitlesstcg.com/cards/SSH/184), and [Yveltal CEL 19](https://limitlesstcg.com/cards/CEL/19) as energy disruption options
 - [Cinccino SSH 147](https://limitlesstcg.com/cards/SSH/147) or [Bibarel BRS 121](https://limitlesstcg.com/cards/jp/S9/82?translate=en) as an alternative draw engine
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 9** 4 Durant BST 10 2 Mew CEL 11 2 Snorlax VIV 131 1 Manaphy BRS 41
-
-**Trainer Cards - 45** 3 Bird Keeper DAA 159 3 Cynthia’s Ambition BRS 138 2 Boss's Orders RCL 154 2 Bruno BST 121 1 Peonia CRE 149 1 Roseanne's Backup BRS 148 4 Cursed Shovel RCL 157 4 Level Ball BST 129 4 Quick Ball FST 237 4 Yell Horn DAA 173 4 Pokémon Catcher SSH 175 3 Rescue Carrier EVS 154 3 Scoop Up Net RCL 165 2 Ultra Ball BRS 150 1 Pal Pad SSH 172 1 Tool Scrapper RCL 168 3 Galar Mine RCL 160
-
-**Energy - 6** 4 Twin Energy BRS 151 2 Double Turbo Energy RCL 174
+```decklist
+Pokémon - 9
+4 Durant BST 10
+2 Mew CEL 11
+2 Snorlax VIV 131
+1 Manaphy BRS 41
+Trainer Cards - 45
+3 Bird Keeper DAA 159
+3 Cynthia’s Ambition BRS 138
+2 Boss's Orders RCL 154
+2 Bruno BST 121
+1 Peonia CRE 149
+1 Roseanne's Backup BRS 148
+4 Cursed Shovel RCL 157
+4 Level Ball BST 129
+4 Quick Ball FST 237
+4 Yell Horn DAA 173
+4 Pokémon Catcher SSH 175
+3 Rescue Carrier EVS 154
+3 Scoop Up Net RCL 165
+2 Ultra Ball BRS 150
+1 Pal Pad SSH 172
+1 Tool Scrapper RCL 168
+3 Galar Mine RCL 160
+Energy - 6
+4 Twin Energy BRS 151
+2 Double Turbo Energy RCL 174
+```
 
 ### ALTERNATE LISTS
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=OCKohSIqtp0)
 - [HotChocPTCG’s version of this archetype](https://www.youtube.com/watch?v=VeWQY5RAyBs)
 
-</div></div><div class="jb-code-container">
-    <div id="charizardvstar" class="deck_box">
-    <h2>Charizard VSTAR</h2>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/charizard-vstar.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="charizardvstar" name="Charizard VSTAR" image="/images/charizard-vstar.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -259,15 +288,30 @@ Evolve Minccino into Cinccino and Charizard V into Charizard VSTAR. Power up you
 - [Ninetales V RCL 26](https://limitlesstcg.com/cards/RCL/26) to give yourself access to each of your opponent’s Pokémon’s attacks in addition to those offered by Charizard V, Charizard VSTAR, Talonflame V, or Moltres.
 - [Choice Belt](https://limitlesstcg.com/cards/jp/S9/90?translate=en) to boost the damage of your Pokémon’s attacks.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Charizard V BRS 17 3 Charizard VSTAR BRS 18 3 Minccino BRS 124 3 Cinccino SSH 147 1 Crobat V DAA 104 1 Moltres BRS 21 1 Talonflame V VIV 29
-
-**Trainer Cards - 31** 4 Professor's Research CEL 23 3 Boss's Orders RCL 154 3 Marnie CPA 56 2 Raihan EVS 152 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Switch SSH 183 4 Magma Basin BRS 144
-
-**Energy - 13** 11 Fire Energy SWSHEnergy 2 2 Capture Energy RCL 171
+```decklist
+Pokémon - 16
+4 Charizard V BRS 17
+3 Charizard VSTAR BRS 18
+3 Minccino BRS 124
+3 Cinccino SSH 147
+1 Crobat V DAA 104
+1 Moltres BRS 21
+1 Talonflame V VIV 29
+Trainer Cards - 31
+4 Professor's Research CEL 23
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+2 Raihan EVS 152
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Switch SSH 183
+4 Magma Basin BRS 144
+Energy - 13
+11 Fire Energy SWSHEnergy 2
+2 Capture Energy RCL 171
+```
 
 ### ALTERNATE LISTS
 
@@ -275,20 +319,11 @@ Evolve Minccino into Cinccino and Charizard V into Charizard VSTAR. Power up you
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=71ApaHoU5Rk)
 - [Ninecard TCG’s version of this archetype](https://www.youtube.com/watch?v=5AeDANKBaeo)
 
-</div></div><div class="jb-code-container">
-    <div id="enteiv" class="deck_box">
-    <h2>Entei V</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/entei.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="enteiv" name="Entei V" image="/images/entei.webp" illus="PLANETA Mochizuki" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -304,34 +339,42 @@ Attack with Entei V’s Burning Rondo attack, which does 20 damage plus 20 more 
 
 - [Ninetales V RCL 26](https://limitlesstcg.com/cards/RCL/26) to give yourself access to each of your opponent’s Pokémon’s attacks in addition to those offered by Entei V, Talonflame V, or Moltres.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 15** 4 Entei V BRS 22 4 Minccino BRS 124 3 Cinccino SSH 147 1 Crobat V DAA 104 1 Manaphy BRS 41 1 Moltres BRS 21 1 Talonflame V VIV 29
-
-**Trainer Cards - 35** 3 Boss's Orders RCL 154 3 Marnie CPA 56 3 Professor's Research CEL 23 2 Raihan EVS 152 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Choice Belt BRS 136 3 Level Ball BST 129 3 Switch SSH 183 2 Air Balloon SSH 156 1 Escape Rope BST 125 4 Magma Basin BRS 144
-
-**Energy - 10** 7 Fire Energy SWSHEnergy 2 3 Heat Fire Energy DAA 174
+```decklist
+Pokémon - 15
+4 Entei V BRS 22
+4 Minccino BRS 124
+3 Cinccino SSH 147
+1 Crobat V DAA 104
+1 Manaphy BRS 41
+1 Moltres BRS 21
+1 Talonflame V VIV 29
+Trainer Cards - 35
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+3 Professor's Research CEL 23
+2 Raihan EVS 152
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Choice Belt BRS 136
+3 Level Ball BST 129
+3 Switch SSH 183
+2 Air Balloon SSH 156
+1 Escape Rope BST 125
+4 Magma Basin BRS 144
+Energy - 10
+7 Fire Energy SWSHEnergy 2
+3 Heat Fire Energy DAA 174
+```
 
 ### ALTERNATE LISTS
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=1hieDSsBf9k)
 
-</div></div><div class="jb-code-container">
-    <div id="magmortar" class="deck_box">
-  <h2>Magmortar</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/magmortar-992108.webp)
-
-*Illus. AKIRA EGAWA*
+::::
 
 
+
+::::deck{id="magmortar" name="Magmortar" image="/images/magmortar-992108.webp" illus="AKIRA EGAWA" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -348,30 +391,36 @@ Evolve Magmar into Magmortar, Minccino into Cinccino, and Electabuzz into Electi
 - [Raihan](https://limitlesstcg.com/cards/en/evs/152) as an additional means of getting Energy into play to power up Magmortar’s attack.
 - [Choice Belt](https://limitlesstcg.com/cards/jp/S9/90?translate=en) to boost the damage output of Magmortar’s attack from 240 to 270.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+4 Magmar BRS 19
+4 Magmortar BRS 20
+3 Minccino BRS 124
+3 Cinccino SSH 147
+2 Electabuzz BRS 46
+2 Electivire BRS 47
+1 Manaphy BRS 41
+1 Moltres BRS 21
+Trainer Cards - 30
+4 Professor's Research CEL 23
+3 Cynthia's Ambition BRS 138
+2 Boss's Orders RCL 154
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Exp. Share BST 126
+2 Air Balloon SSH 156
+2 Ordinary Rod SSH 171
+2 Switch SSH 183
+4 Magma Basin BRS 144
+Energy - 10
+10 Fire Energy SWSHEnergy 2
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 20** 4 Magmar BRS 19 4 Magmortar BRS 20 3 Minccino BRS 124 3 Cinccino SSH 147 2 Electabuzz BRS 46 2 Electivire BRS 47 1 Manaphy BRS 41 1 Moltres BRS 21
-
-**Trainer Cards - 30** 4 Professor's Research CEL 23 3 Cynthia's Ambition BRS 138 2 Boss's Orders RCL 154 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Exp. Share BST 126 2 Air Balloon SSH 156 2 Ordinary Rod SSH 171 2 Switch SSH 183 4 Magma Basin BRS 144
-
-**Energy - 10** 10 Fire Energy SWSHEnergy 2
-
-</div></div><div class="jb-code-container">
-    <div id="kinglervmax" class="deck_box">
-  <h2>Kingler VMAX</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/kingler-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="kinglervmax" name="Kingler VMAX" image="/images/kingler-vmax.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -386,30 +435,34 @@ Use Kingler V’s Falling Bubbles attack, with the help of Glimwood Tangle to re
 
 - [Hyper Potion](https://limitlesstcg.com/cards/ssh/166) to heal damage from damaged Wailord V.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Kingler V BRS 28
+1 Kingler VMAX BRS 29
+4 Wailord V CPA 13
+3 Minccino BRS 124
+3 Cinccino SSH 147
+1 Crobat V DAA 104
+Trainer Cards - 34
+4 Melony CRE 146
+4 Professor's Research CEL 23
+2 Boss's Orders RCL 154
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Capacious Bucket RCL 156
+3 Cape of Toughness DAA 160
+3 Evolution Incense SSH 163
+3 Switch SSH 183
+4 Glimwood Tangle DAA 162
+Energy - 10
+10 Water Energy SWSHEnergy 3
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Kingler V BRS 28 1 Kingler VMAX BRS 29 4 Wailord V CPA 13 3 Minccino BRS 124 3 Cinccino SSH 147 1 Crobat V DAA 104
-
-**Trainer Cards - 34** 4 Melony CRE 146 4 Professor's Research CEL 23 2 Boss's Orders RCL 154 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Capacious Bucket RCL 156 3 Cape of Toughness DAA 160 3 Evolution Incense SSH 163 3 Switch SSH 183 4 Glimwood Tangle DAA 162
-
-**Energy - 10** 10 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="raichuv" class="deck_box">
-  <h2>Raichu V</h2>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/raichu-v.webp)
-
-*Illus. MUGENUP*
+::::
 
 
+
+::::deck{id="raichuv" name="Raichu V" image="/images/raichu-v.webp" illus="MUGENUP" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -425,35 +478,43 @@ Get Raichu V and Mareep into play as early as possible, evolving into Flaaffy as
 
 - [Boltund V RCL 67](https://limitlesstcg.com/cards/rcl/67/) as an alternate attacker and additional means of energy acceleration.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 17** 4 Mareep CRE 47 4 Flaaffy EVS 55 3 Raichu V BRS 45 2 Raikou V BRS 48 1 Crobat V DAA 104 1 Lumineon V BRS 40 1 Manaphy BRS 41 1 Vikavolt V DAA 60
-
-**Trainer Cards - 31** 4 Marnie CPA 56 4 Professor's Research CEL 23 3 Boss's Orders RCL 154 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Air Balloon SSH 156 2 Choice Belt BRS 135 2 Level Ball BST 129 2 Switch SSH 183 1 Ordinary Rod SSH 171 2 Stormy Mountains EVS 161
-
-**Energy - 12** 8 Lightning Energy SWSHEnergy 4 4 Speed Lightning Energy RCL 173
+```decklist
+Pokémon - 17
+4 Mareep CRE 47
+4 Flaaffy EVS 55
+3 Raichu V BRS 45
+2 Raikou V BRS 48
+1 Crobat V DAA 104
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Vikavolt V DAA 60
+Trainer Cards - 31
+4 Marnie CPA 56
+4 Professor's Research CEL 23
+3 Boss's Orders RCL 154
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Air Balloon SSH 156
+2 Choice Belt BRS 135
+2 Level Ball BST 129
+2 Switch SSH 183
+1 Ordinary Rod SSH 171
+2 Stormy Mountains EVS 161
+Energy - 12
+8 Lightning Energy SWSHEnergy 4
+4 Speed Lightning Energy RCL 173
+```
 
 ### ALTERNATE LISTS
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=zm8XfjJRYA0)
 - [NinecardTCG’s version of this archetype](https://www.youtube.com/watch?v=5Tzh178lonU)
 
-</div></div><div class="jb-code-container">
-    <div id="flaaffy" class="deck_box">
-  <h2>Flaaffy</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/flaaffy.webp)
-
-*Illus. OKACHEKE*
+::::
 
 
+
+::::deck{id="flaaffy" name="Flaaffy" image="/images/flaaffy.webp" illus="OKACHEKE" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -465,30 +526,38 @@ Evolve Mareep into Flaaffy, and bench Reshiram and Zekrom, using Tapu Koko as a 
 - [Zekrom CEL 10](https://limitlesstcg.com/cards/CEL/10)
 - [Reshiram CEL 2](https://limitlesstcg.com/cards/CEL/2)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Mareep CRE 47
+4 Flaaffy EVS 55
+4 Zekrom CEL 10
+2 Reshiram CEL 2
+2 Tapu Koko DAA 61
+1 Manaphy BRS 41
+1 Zapdos VIV 48
+Trainer Cards - 31
+4 Professor's Research CEL 23
+2 Boss's Orders RCL 154
+2 Cynthia's Ambition BRS 138
+2 Marnie CPA 56
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Choice Belt BRS 135
+2 Level Ball BST 129
+2 Ordinary Rod SSH 171
+2 Stormy Mountains EVS 161
+Energy - 11
+7 Lightning Energy SWSHEnergy 4
+4 Speed Lightning Energy RCL 173
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Mareep CRE 47 4 Flaaffy EVS 55 4 Zekrom CEL 10 2 Reshiram CEL 2 2 Tapu Koko DAA 61 1 Manaphy BRS 41 1 Zapdos VIV 48
-
-**Trainer Cards - 31** 4 Professor's Research CEL 23 2 Boss's Orders RCL 154 2 Cynthia's Ambition BRS 138 2 Marnie CPA 56 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Switch SSH 183 2 Air Balloon SSH 156 2 Choice Belt BRS 135 2 Level Ball BST 129 2 Ordinary Rod SSH 171 2 Stormy Mountains EVS 161
-
-**Energy - 11** 7 Lightning Energy SWSHEnergy 4 4 Speed Lightning Energy RCL 173
-
-</div></div><div class="jb-code-container">
-    <div id="pachirisu" class="deck_box">
-  <h2>Pachirisu</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/pachirisu-3bb4e0.webp)
-
-*Illus. HYOGONOSUKE*
+::::
 
 
+
+::::deck{id="pachirisu" name="Pachirisu" image="/images/pachirisu-3bb4e0.webp" illus="HYOGONOSUKE" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -504,35 +573,44 @@ Attach Energy to Pachirisu to prepare for its Windup Thunder attack, which does 
 - [Spirit Mask](https://limitlesstcg.com/cards/EVS/160) to add a small element of disruption against your opponent’s hand.
 - [Cynthia’s Ambition](https://limitlesstcg.com/cards/jp/S9/93?translate=en) for some potent draw after one of your Pachirisu or Bibarel is knocked out.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 15** 4 Pachirisu BRS 52 3 Bidoof BRS 120 3 Bibarel BRS 121 3 Honchkrow V BRS 88 1 Crobat V DAA 104 1 Manaphy BRS 41
-
-**Trainer Cards - 37** 4 Marnie CPA 56 2 Boss's Orders RCL 154 2 Raihan EVS 152 1 Roseanne's Backup BRS 148 4 Choice Belt BRS 135 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Air Balloon SSH 156 3 Cape of Toughness DAA 160 3 Exp. Share BST 126 3 Lucky Egg SSH 167 1 Ordinary Rod SSH 171 1 Rescue Carrier EVS 154 2 Shopping Center EVS 157
-
-**Energy - 8** 6 Lightning Energy SWSHEnergy 4 2 Speed Lightning Energy RCL 173
+```decklist
+Pokémon - 15
+4 Pachirisu BRS 52
+3 Bidoof BRS 120
+3 Bibarel BRS 121
+3 Honchkrow V BRS 88
+1 Crobat V DAA 104
+1 Manaphy BRS 41
+Trainer Cards - 37
+4 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Raihan EVS 152
+1 Roseanne's Backup BRS 148
+4 Choice Belt BRS 135
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Air Balloon SSH 156
+3 Cape of Toughness DAA 160
+3 Exp. Share BST 126
+3 Lucky Egg SSH 167
+1 Ordinary Rod SSH 171
+1 Rescue Carrier EVS 154
+2 Shopping Center EVS 157
+Energy - 8
+6 Lightning Energy SWSHEnergy 4
+2 Speed Lightning Energy RCL 173
+```
 
 ### ALTERNATE LISTS
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=UEyiz3cl4OY)
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=HcYAXCIU0fM)
 
-</div></div><div class="jb-code-container">
-    <div id="malamar" class="deck_box">
-  <h2>Malamar</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/malamar-d79061.webp)
-
-*Illus. Kagemaru Himeno*
+::::
 
 
+
+::::deck{id="malamar" name="Malamar" image="/images/malamar-d79061.webp" illus="Kagemaru Himeno" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -547,30 +625,37 @@ Set up by benching Inkay, Minccino, and Remoraid, and evolve them as the opportu
 
 - [Bruno](https://limitlesstcg.com/cards/bst/121) as a shuffle-draw option.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 21
+4 Inkay CRE 69
+4 Malamar CRE 70
+3 Minccino BRS 124
+3 Cinccino SSH 147
+3 Remoraid BST 36
+3 Octillery BST 37
+1 Manaphy BRS 41
+Trainer Cards - 33
+4 Korrina's Focus BST 128
+3 Cynthia's Ambition BRS 138
+2 Professor's Research CEL 23
+4 Evolution Incense SSH 163
+4 Fog Crystal CRE 140
+4 Great Ball CPA 52
+4 Level Ball BST 129
+2 Ordinary Rod SSH 171
+2 Rescue Carrier EVS 154
+2 Scoop Up Net RCL 165
+2 Tower of Waters BST 138
+Energy - 6
+4 Spiral Energy CRE 159
+2 Psychic Energy SWSHEnergy 5
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 21** 4 Inkay CRE 69 4 Malamar CRE 70 3 Minccino BRS 124 3 Cinccino SSH 147 3 Remoraid BST 36 3 Octillery BST 37 1 Manaphy BRS 41
-
-**Trainer Cards - 33** 4 Korrina's Focus BST 128 3 Cynthia's Ambition BRS 138 2 Professor's Research CEL 23 4 Evolution Incense SSH 163 4 Fog Crystal CRE 140 4 Great Ball CPA 52 4 Level Ball BST 129 2 Ordinary Rod SSH 171 2 Rescue Carrier EVS 154 2 Scoop Up Net RCL 165 2 Tower of Waters BST 138
-
-**Energy - 6** 4 Spiral Energy CRE 159 2 Psychic Energy SWSHEnergy 5
-
-</div></div><div class="jb-code-container">
-    <div id="mimikyuvmax" class="deck_box">
-  <h2>Mimikyu VMAX</h2>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/mimikyu-vmax.webp)
-
-*Illus. Studio Bora Inc.*
+::::
 
 
+
+::::deck{id="mimikyuvmax" name="Mimikyu VMAX" image="/images/mimikyu-vmax.webp" illus="Studio Bora Inc." comp="low"}
 
 ### BASIC STRATEGY
 
@@ -589,30 +674,39 @@ Using Arceus V’s Trinity Charge to power up a benched Arceus V or VSTAR and Mi
 - [Crushing Hammer](https://limitlesstcg.com/cards/SSH/159), [Fan of Waves](https://limitlesstcg.com/cards/bst/127), [Team Yell Grunt](https://limitlesstcg.com/cards/CPA/67), and/or [Flannery](https://limitlesstcg.com/cards/CRE/139) as Energy disruption options or [Spirit Mask](https://limitlesstcg.com/cards/EVS/160) or [Sidney](https://limitlesstcg.com/cards/FST/241) as additional hand disruption options in a more control-heavy disruption build.
 - [Path to the Peak](https://limitlesstcg.com/cards/CRE/148) to slow down your opponent’s setup and recovery.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Arceus V BRS 122
+3 Arceus VSTAR BRS 123
+2 Crobat V DAA 104
+2 Galarian Articuno EVS 63
+2 Lumineon V BRS 40
+2 Mimikyu V BST 62
+2 Mimikyu VMAX BRS 69
+Trainer Cards - 30
+3 Professor's Research CEL 23
+2 Acerola’s Premonition BRS 129
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 Raihan EVS 152
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+2 Choice Belt BRS 135
+2 Evolution Incense SSH 163
+2 Switch SSH 183
+1 Escape Rope BST 125
+1 Pal Pad SSH 172
+3 Training Court RCL 169
+Energy - 13
+9 Psychic Energy SWSHEnergy 5
+4 Double Turbo Energy BRS 151
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 17** 4 Arceus V BRS 122 3 Arceus VSTAR BRS 123 2 Crobat V DAA 104 2 Galarian Articuno EVS 63 2 Lumineon V BRS 40 2 Mimikyu V BST 62 2 Mimikyu VMAX BRS 69
-
-**Trainer Cards - 30** 3 Professor's Research CEL 23 2 Acerola’s Premonition BRS 129 2 Boss's Orders RCL 154 2 Marnie CPA 56 2 Raihan EVS 152 4 Quick Ball FST 237 4 Ultra Ball BRS 150 2 Choice Belt BRS 135 2 Evolution Incense SSH 163 2 Switch SSH 183 1 Escape Rope BST 125 1 Pal Pad SSH 172 3 Training Court RCL 169
-
-**Energy - 13** 9 Psychic Energy SWSHEnergy 5 4 Double Turbo Energy BRS 151
-
-</div></div><div class="jb-code-container">
-    <div id="alcremie" class="deck_box">
-  <h2>Alcremie</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/alcremie.webp)
-
-*Illus. sowsow*
+::::
 
 
+
+::::deck{id="alcremie" name="Alcremie" image="/images/alcremie.webp" illus="sowsow" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -630,34 +724,49 @@ Evolve Milcery into Alcremie, Bidoof into Bibarel, and Swablu into Altaria. Usin
 - [Raihan](https://limitlesstcg.com/cards/EVS/152) as an out both to increase the Energy attached to your Pokémon in play, but also as an alternate means of powering up an Alcremie (with a manual attachment combined with Raihan).
 - [Training Court](https://limitlesstcg.com/cards/RCL/169) to retrieve Energy from the discard pile to make it readily available to attach when needed to boost Alcremie’s damage.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Milcery RCL 86 4 Alcremie BRS 71 3 Bidoof BRS 120 2 Bibarel BRS 121 2 Swablu CPA 48 2 Altaria EVS 106 1 Manaphy BRS 41
-
-**Trainer Cards - 29** 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Bruno BST 121 2 Café Master BRS 133 2 Professor's Research CEL 23 4 Level Ball BST 129 4 Ultra Ball BRS 150 3 Switch SSH 183 2 Air Balloon SSH 156 2 Choice Belt BRS 135 2 Ordinary Rod SSH 171 1 Pal Pad SSH 172
-
-**Energy - 13** 4 Twin Energy RCL 174 2 Psychic Energy SWSHEnergy 1 1 Darkness Energy SWSHEnergy 8 1 Fighting Energy SWSHEnergy 4 1 Fire Energy SWSHEnergy 7 1 Grass Energy SWSHEnergy 5 1 Lightning Energy SWSHEnergy 2 1 Metal Energy SWSHEnergy 3 1 Water Energy SWSHEnergy 6
+```decklist
+Pokémon - 18
+4 Milcery RCL 86
+4 Alcremie BRS 71
+3 Bidoof BRS 120
+2 Bibarel BRS 121
+2 Swablu CPA 48
+2 Altaria EVS 106
+1 Manaphy BRS 41
+Trainer Cards - 29
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Bruno BST 121
+2 Café Master BRS 133
+2 Professor's Research CEL 23
+4 Level Ball BST 129
+4 Ultra Ball BRS 150
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Choice Belt BRS 135
+2 Ordinary Rod SSH 171
+1 Pal Pad SSH 172
+Energy - 13
+4 Twin Energy RCL 174
+2 Psychic Energy SWSHEnergy 1
+1 Darkness Energy SWSHEnergy 8
+1 Fighting Energy SWSHEnergy 4
+1 Fire Energy SWSHEnergy 7
+1 Grass Energy SWSHEnergy 5
+1 Lightning Energy SWSHEnergy 2
+1 Metal Energy SWSHEnergy 3
+1 Water Energy SWSHEnergy 6
+```
 
 ### ALTERNATE LISTS
 
 - [TaloniteX’s version of this archetype](https://www.youtube.com/watch?v=Tbk2Slxbizk)
 
-</div></div><div class="jb-code-container">
-    <div id="srcalyrexvmax" class="deck_box">
-  <h2>Shadow Rider Calyrex VMAX with Whimsicott VSTAR</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/whimsicott-vstar.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="srcalyrexvmax" name="Shadow Rider Calyrex VMAX with Whimsicott VSTAR" image="/images/whimsicott-vstar.webp" illus="5ban Graphics" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -674,35 +783,41 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
 - [Choice Belt](https://limitlesstcg.com/cards/jp/S9/90?translate=en) as an alternate means of boosting the damage of Shadow Rider Calyrex VMAX’s attack (and the attacks of other attackers in the deck).
 - [Lumineon V BRS 40](https://limitlesstcg.com/cards/jp/S9/30?translate=en) as a means of searching out Adventurer’s Discovery or other crucial Supporter cards when they are needed
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 17** 4 Shadow Rider Calyrex V CRE 74 4 Shadow Rider Calyrex VMAX CRE 75 2 Galarian Articuno EVS 63 2 Whimsicott V BRS 64 2 Whimsicott VSTAR BRS 65 1 Crobat V DAA 104 1 Pumpkaboo EVS 76 1 Zacian V CEL 16
-
-**Trainer Cards - 30** 4 Professor's Research CEL 23 3 Boss's Orders RCL 154 3 Marnie CPA 56 2 Adventurer's Discovery FST 224 4 Fog Crystal CRE 140 4 Quick Ball FST 237 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Switch SSH 183 3 Training Court RCL 169
-
-**Energy - 13** 13 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 17
+4 Shadow Rider Calyrex V CRE 74
+4 Shadow Rider Calyrex VMAX CRE 75
+2 Galarian Articuno EVS 63
+2 Whimsicott V BRS 64
+2 Whimsicott VSTAR BRS 65
+1 Crobat V DAA 104
+1 Pumpkaboo EVS 76
+1 Zacian V CEL 16
+Trainer Cards - 30
+4 Professor's Research CEL 23
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+2 Adventurer's Discovery FST 224
+4 Fog Crystal CRE 140
+4 Quick Ball FST 237
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Switch SSH 183
+3 Training Court RCL 169
+Energy - 13
+13 Psychic Energy SWSHEnergy 5
+```
 
 ### ALTERNATE LISTS
 
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=RwiWsm9KEN0)
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=K4ktr9ncFrQ)
 
-</div></div><div class="jb-code-container">
-    <div id="lucario" class="deck_box">
-  <h2>Lucario</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/lucario-11c9e8.webp)
-
-*Illus. GIDORA*
+::::
 
 
+
+::::deck{id="lucario" name="Lucario" image="/images/lucario-11c9e8.webp" illus="GIDORA" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -718,30 +833,38 @@ Evolve Riolu into Lucario and use its Roaring Resolve ability to attach a Fighti
 - [Battle VIP Pass](https://limitlesstcg.com/cards/FST/225) or [Gloria](https://limitlesstcg.com/cards/jp/S8b/163?translate=en) as additional outs to setting up Riolu, Bidoof, and Manaphy.
 - [Pokégear 3.0](https://limitlesstcg.com/cards/SSH/174) to increase your chances at finding specific Supporter cards, like Raihan, when needed.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Riolu VIV 90
+4 Lucario BRS 79
+3 Bidoof BRS 120
+3 Bibarel BRS 121
+1 Galarian Zapdos V CRE 80
+1 Manaphy BRS 41
+Trainer Cards - 34
+3 Marnie CPA 56
+3 Raihan EVS 152
+2 Boss's Orders RCL 154
+2 Cynthia's Ambition BRS 138
+1 Bird Keeper DAA 159
+1 Professor's Research CEL 23
+4 Level Ball BST 129
+4 Ultra Ball BRS 150
+3 Ordinary Rod SSH 171
+2 Air Balloon SSH 156
+2 Choice Belt BRS 135
+2 Energy Switch SSH 162
+2 Evolution Incense SSH 163
+3 Training Court RCL 169
+Energy - 10
+10 Fighting Energy SWSHEnergy 6
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Riolu VIV 90 4 Lucario BRS 79 3 Bidoof BRS 120 3 Bibarel BRS 121 1 Galarian Zapdos V CRE 80 1 Manaphy BRS 41
-
-**Trainer Cards - 34** 3 Marnie CPA 56 3 Raihan EVS 152 2 Boss's Orders RCL 154 2 Cynthia's Ambition BRS 138 1 Bird Keeper DAA 159 1 Professor's Research CEL 23 4 Level Ball BST 129 4 Ultra Ball BRS 150 3 Ordinary Rod SSH 171 2 Air Balloon SSH 156 2 Choice Belt BRS 135 2 Energy Switch SSH 162 2 Evolution Incense SSH 163 3 Training Court RCL 169
-
-**Energy - 10** 10 Fighting Energy SWSHEnergy 6
-
-</div></div><div class="jb-code-container">
-    <div id="rayquazavmax" class="deck_box">
-  <h2>Rayquaza VMAX</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/rayquaza-vmax-79e201.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="rayquazavmax" name="Rayquaza VMAX" image="/images/rayquaza-vmax-79e201.webp" illus="PLANETA Mochizuki" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -759,34 +882,41 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 - [Boltund V RCL 67](https://limitlesstcg.com/cards/rcl/67/) as an alternate attacker and additional means of energy acceleration.
 - [Vikavolt V DAA 60](https://limitlesstcg.com/cards/daa/60/) as an alternate attacker that can also be used to cripple your opponent’s setup or recovery.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Mareep CRE 47 4 Flaaffy EVS 55 4 Rayquaza V EVS 110 3 Rayquaza VMAX EVS 111 1 Kricketune V BST 6 1 Manaphy BRS 41 1 Raichu V BRS 45
-
-**Trainer Cards - 30** 4 Professor's Research CEL 23 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Rose DAA 168 4 Quick Ball FST 237 3 Level Ball BST 129 3 Switch SSH 183 3 Ultra Ball BRS 150 2 Air Balloon SSH 156 1 Ordinary Rod SSH 171 3 Tower of Waters BST 138
-
-**Energy - 12** 8 Lightning Energy SWSHEnergy 4 4 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 18
+4 Mareep CRE 47
+4 Flaaffy EVS 55
+4 Rayquaza V EVS 110
+3 Rayquaza VMAX EVS 111
+1 Kricketune V BST 6
+1 Manaphy BRS 41
+1 Raichu V BRS 45
+Trainer Cards - 30
+4 Professor's Research CEL 23
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Rose DAA 168
+4 Quick Ball FST 237
+3 Level Ball BST 129
+3 Switch SSH 183
+3 Ultra Ball BRS 150
+2 Air Balloon SSH 156
+1 Ordinary Rod SSH 171
+3 Tower of Waters BST 138
+Energy - 12
+8 Lightning Energy SWSHEnergy 4
+4 Fire Energy SWSHEnergy 2
+```
 
 ### ALTERNATE LISTS
 
 - Coming soon
 
-</div></div><div class="jb-code-container">
-    <div id="garchomp" class="deck_box">
-    <h2>Garchomp</h2>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/garchomp.webp)
-
-*Illus. Nurikabe*
+::::
 
 
+
+::::deck{id="garchomp" name="Garchomp" image="/images/garchomp.webp" illus="Nurikabe" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -800,17 +930,38 @@ Evolve Gible into Garchomp using Rare Candy (or by manually evolving it from Gab
 
 - [Path to the Peak](https://limitlesstcg.com/cards/CRE/148) to slow your opponent down, potentially giving Garchomp additional time to set up or to recover.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Gible BRS 107
+2 Gabite BRS 108
+4 Garchomp BRS 109
+3 Bidoof BRS 120
+3 Bibarel BRS 121
+1 Manaphy BRS 41
+Trainer Cards - 33
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Cynthia's Ambition BRS 138
+1 Bird Keeper DAA 159
+1 Professor's Research CEL 23
+1 Raihan EVS 152
+4 Rare Candy SSH 180
+4 Ultra Ball BRS 150
+3 Exp. Share BST 126
+3 Level Ball BST 129
+2 Energy Search SSH 161
+2 Evolution Incense SSH 163
+2 Ordinary Rod SSH 171
+2 Quick Ball FST 237
+1 Choice Belt BRS 135
+Energy - 10
+5 Fighting Energy SWSHEnergy 6
+5 Water Energy SWSHEnergy 3
+```
 
-### EXAMPLE DECK LIST
+::::
 
-**Pokémon - 17** 4 Gible BRS 107 2 Gabite BRS 108 4 Garchomp BRS 109 3 Bidoof BRS 120 3 Bibarel BRS 121 1 Manaphy BRS 41
-
-**Trainer Cards - 33** 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Cynthia's Ambition BRS 138 1 Bird Keeper DAA 159 1 Professor's Research CEL 23 1 Raihan EVS 152 4 Rare Candy SSH 180 4 Ultra Ball BRS 150 3 Exp. Share BST 126 3 Level Ball BST 129 2 Energy Search SSH 161 2 Evolution Incense SSH 163 2 Ordinary Rod SSH 171 2 Quick Ball FST 237 1 Choice Belt BRS 135
-
-**Energy - 10** 5 Fighting Energy SWSHEnergy 6 5 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="arceusvstar" class="deck_box">
     <h2>Arceus VSTAR</h2>
     <div class="comp3">
@@ -1062,20 +1213,9 @@ Use Arceus V’s Trinity Charge attack to power up the deck’s partner of choic
 - [[Rainbow Arceus VSTAR] Rare Candy](https://www.youtube.com/watch?v=Q6sKg6r7lRc)
 - [[Various] HotChocPTCG](https://www.youtube.com/watch?v=UMvo-gVvdA4)
 
-</div></div><div class="jb-code-container">
-    <div id="madparty" class="deck_box">
-  <h2>Mad Party</h2>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![](/images/mad-party.webp)
-
-*Illus. Tomokazu Komiya*
-
-
+::::deck{id="madparty" name="Mad Party" image="/images/mad-party.webp" illus="Tomokazu Komiya" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -1092,19 +1232,39 @@ Bench Bunnelby and, using the deck’s means various of discarding Pokémon with
 
 - [Zamazenta V BRS 105](https://limitlesstcg.com/cards/jp/SI/313?translate=en)
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 23** 4 Bunnelby DAA 150 4 Dedenne DAA 78 4 Galarian Mr. Rime DAA 36 2 Crobat V DAA 104 2 Sinistea DAA 82 4 Polteageist DAA 83 1 Galarian Articuno V CRE 58 1 Manaphy BRS 41 1 Oranguru SSH 148
-
-**Trainer Cards - 31** 4 Professor's Research CEL 23 3 Allister VIV 146 2 Boss's Orders RCL 154 4 Level Ball BST 129 4 Quick Ball FST 237 4 Ultra Ball BRS 150 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Choice Belt BRS 135 2 Rescue Carrier EVS 154 1 Escape Rope BST 125
-
-**Energy - 6** 4 Twin Energy RCL 174 2 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 23
+4 Bunnelby DAA 150
+4 Dedenne DAA 78
+4 Galarian Mr. Rime DAA 36
+2 Crobat V DAA 104
+2 Sinistea DAA 82
+4 Polteageist DAA 83
+1 Galarian Articuno V CRE 58
+1 Manaphy BRS 41
+1 Oranguru SSH 148
+Trainer Cards - 31
+4 Professor's Research CEL 23
+3 Allister VIV 146
+2 Boss's Orders RCL 154
+4 Level Ball BST 129
+4 Quick Ball FST 237
+4 Ultra Ball BRS 150
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Choice Belt BRS 135
+2 Rescue Carrier EVS 154
+1 Escape Rope BST 125
+Energy - 6
+4 Twin Energy RCL 174
+2 Double Turbo Energy BRS 151
+```
 
 ### ALTERNATE LISTS
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=sHnSoeTFoJ8)
 
-</div></div>
+::::
+
+
 

@@ -19,5 +19,13 @@ The following cards, and any alternate printings they may have, are now banned i
     <li><a href="https://limitlesstcg.com/cards/twm/96/">Fezandipiti TWM 96</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/dusclops-68ed88.webp"><img src="/images/dusclops-68ed88.webp" alt="Dusclops.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/duskull-8b90d1.webp"><img src="/images/duskull-8b90d1.webp" alt="Duskull.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/twm-096-r-en-38c960.webp"><img src="/images/twm-096-r-en-38c960.webp" alt="TWM_096_R_EN.png" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/dusclops-68ed88.webp
+- /images/duskull-8b90d1.webp
+- /images/twm-096-r-en-38c960.webp
+:::
+
+
 

@@ -106,18 +106,9 @@ Below is a list of archetypes that may be reasonably playable after this year’
     <li><a href="#madparty" class="jlink">Mad Party</a></li>
   </ol>
 </div>
-</div><div class="jb-code-container">
-    <div id="leafeonvmax" class="deck_box">
-  <h2>Leafeon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
 </div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![Illus. PLANETA Tsuji](/images/leafeon.webp)
-
-*Illus. PLANETA Tsuji*
-
-
+::::deck{id="leafeonvmax" name="Leafeon VMAX" image="/images/leafeon.webp" illus="PLANETA Tsuji" sublabel="Competitive Potential: Moderate"}
 
 ### Basic Strategy
 
@@ -134,33 +125,43 @@ Bench Leafeon V and use its Greening Cells ability early to attach a Grass Energ
 
 - The [Cinccino](https://limitlesstcg.com/cards/SSH/147/) engine in place of the Inteleon engine.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 18** 4 Leafeon V EVS 7 3 Leafeon VMAX EVS 8 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 2 Crobat V DAA 104
-
-**Trainer Cards - 33** 4 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 1 Bird Keeper DAA 159 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Level Ball BST 129 3 Switch SSH 183 2 Snow Leaf Badge EVS 159 2 Tool Jammer BST 136 1 Energy Search SSH 161 4 Galar Mine RCL 160
-
-**Energy - 9** 6 Grass Energy SWSHEnergy 1 3 Capture Energy RCL 171
+```decklist
+Pokémon - 18
+4 Leafeon V EVS 7
+3 Leafeon VMAX EVS 8
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+2 Crobat V DAA 104
+Trainer Cards - 33
+4 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+1 Bird Keeper DAA 159
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+3 Switch SSH 183
+2 Snow Leaf Badge EVS 159
+2 Tool Jammer BST 136
+1 Energy Search SSH 161
+4 Galar Mine RCL 160
+Energy - 9
+6 Grass Energy SWSHEnergy 1
+3 Capture Energy RCL 171
+```
 
 ### Alternate Lists
 
 - [Celio’s Network’s version of this archetype](https://youtu.be/hO1LZ-kq2XE?t=653)
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=VJs8y3FA75M)
 
-</div></div><div class="jb-code-container">
-    <div id="maractus" class="deck_box">
-  <h2>Maractus</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Atsuko Nishida](/images/maractus.webp)
-
-*Illus. Atsuko Nishida*
+::::
 
 
+
+::::deck{id="maractus" name="Maractus" image="/images/maractus.webp" illus="Atsuko Nishida" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -179,28 +180,38 @@ Pile energy onto Maractus using Cherrim's *Spring Bloom* ability, then fire away
 - [Shaymin VIV 15](https://limitlesstcg.com/cards/viv/15/) as a stalling option, taking advantage of Shaymin’s Flower Bearing attack to slow down your opponent’s setup.
 - [Celebi SHF 3](https://limitlesstcg.com/cards/SHF/3/) as a alternate pivot and means of fishing out Twin Energy to up the number of flips on Maractus’ Powerful Needles attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 14
+4 Maractus SSH 7
+3 Cherubi BST 7
+3 Cherrim BST 8
+2 Jirachi VIV 119
+1 Crobat V DAA 104
+1 Oranguru SSH 148
+Trainer Cards - 32
+4 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+1 Skyla RCL 166
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Energy Retrieval SSH 160
+2 Evolution Incense SSH 163
+2 Ordinary Rod SSH 171
+1 Energy Recycler GRI 123
+3 Glimwood Tangle DAA 162
+Energy - 14
+10 Grass Energy SWSHEnergy 1
+4 Twin Energy RCL 174
+```
 
-### Example Deck List
-
-**Pokémon - 14** 4 Maractus SSH 7 3 Cherubi BST 7 3 Cherrim BST 8 2 Jirachi VIV 119 1 Crobat V DAA 104 1 Oranguru SSH 148
-
-**Trainer Cards - 32** 4 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 1 Skyla RCL 166 4 Quick Ball SSH 179 3 Level Ball BST 129 3 Switch SSH 183 2 Air Balloon SSH 156 2 Energy Retrieval SSH 160 2 Evolution Incense SSH 163 2 Ordinary Rod SSH 171 1 Energy Recycler GRI 123 3 Glimwood Tangle DAA 162
-
-**Energy - 14** 10 Grass Energy SWSHEnergy 1 4 Twin Energy RCL 174
-
-</div></div><div class="jb-code-container">
-    <div id="decidueye" class="deck_box">
-  <h2>Decidueye</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryota Murayama](/images/decidueye.webp)
-
-*Illus. Ryota Murayama*
+::::
 
 
+
+::::deck{id="decidueye" name="Decidueye" image="/images/decidueye.webp" illus="Ryota Murayama" sublabel="Competitive Potential: Moderate"}
 
 ### Basic Strategy
 
@@ -218,32 +229,45 @@ Setup a Decidueye against an opposing deck focused around Pokémon V or Pokémon
 - [AzulGG](https://www.youtube.com/watch?v=2kjUg-Zkvg0)
 - [Tricky Gym](https://www.youtube.com/watch?v=S5a_i7eEODw)
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 19** 4 Rowlet DAA 11 4 Decidueye DAA 13 4 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 1 Snorlax VIV 131
-
-**Trainer Cards - 32** 3 Marnie CPA 56 2 Bird Keeper DAA 159 2 Boss's Orders RCL 154 2 Professor's Research CPA 62 1 Raihan EVS 152 1 Zinnia's Resolve EVS 164 4 Evolution Incense SSH 163 4 Level Ball BST 129 4 Rare Candy SSH 180 2 Big Parasol DAA 157 2 Quick Ball SSH 179 2 Scoop Up Net RCL 165 1 Energy Search SSH 161 1 Ordinary Rod SSH 171 1 Tool Jammer BST 136
-
-**Energy - 9** 5 Grass Energy SWSHEnergy 1 4 Capture Energy RCL 171
+```decklist
+Pokémon - 19
+4 Rowlet DAA 11
+4 Decidueye DAA 13
+4 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+1 Snorlax VIV 131
+Trainer Cards - 32
+3 Marnie CPA 56
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+2 Professor's Research CPA 62
+1 Raihan EVS 152
+1 Zinnia's Resolve EVS 164
+4 Evolution Incense SSH 163
+4 Level Ball BST 129
+4 Rare Candy SSH 180
+2 Big Parasol DAA 157
+2 Quick Ball SSH 179
+2 Scoop Up Net RCL 165
+1 Energy Search SSH 161
+1 Ordinary Rod SSH 171
+1 Tool Jammer BST 136
+Energy - 9
+5 Grass Energy SWSHEnergy 1
+4 Capture Energy RCL 171
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=JoGoDfn_EaM)
 
-</div></div><div class="jb-code-container">
-    <div id="dhelmisevmax" class="deck_box">
-  <h2>Dhelmise VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Planeta Mochizuki](/images/dhelmise-vmax.webp)
-
-*Illus. Planeta Mochizuki*
+::::
 
 
+
+::::deck{id="dhelmisevmax" name="Dhelmise VMAX" image="/images/dhelmise-vmax.webp" illus="Planeta Mochizuki" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -259,28 +283,36 @@ Evolve Dhelmise V into Dhelmise VMAX and Grookey into Rillaboom via Rare Candy. 
 
 - [Zarude V VIV 22](https://limitlesstcg.com/cards/viv/22/) as an alternate means of acceleration with the ability to heal with its Jungle Rising attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Dhelmise V SSH 9
+3 Dhelmise VMAX SHF 10
+3 Grookey SSH 11
+1 Thwackey SHF 12
+3 Rillaboom SSH 14
+2 Crobat V DAA 104
+1 Dubwool V RCL 153
+Trainer Cards - 31
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+4 Switch SSH 183
+3 Great Ball CPA 52
+2 Vitality Band SSH 185
+1 Ordinary Rod SSH 171
+3 Turffield Stadium CPA 68
+Energy - 12
+10 Grass Energy SWSHEnergy 1
+2 Capture Energy RCL 171
+```
 
-### Example Deck List
-
-**Pokémon - 17** 4 Dhelmise V SSH 9 3 Dhelmise VMAX SHF 10 3 Grookey SSH 11 1 Thwackey SHF 12 3 Rillaboom SSH 14 2 Crobat V DAA 104 1 Dubwool V RCL 153
-
-**Trainer Cards - 31** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Quick Ball SSH 179 4 Rare Candy SSH 180 4 Switch SSH 183 3 Great Ball CPA 52 2 Vitality Band SSH 185 1 Ordinary Rod SSH 171 3 Turffield Stadium CPA 68
-
-**Energy - 12** 10 Grass Energy SWSHEnergy 1 2 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="orbeetlevmax" class="deck_box">
-  <h2>Orbeetle VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/orbeetle-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="orbeetlevmax" name="Orbeetle VMAX" image="/images/orbeetle-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -296,32 +328,43 @@ Bench Orbeetle V and Galarian Moltres V, evolving Orbeetle V to Orbeetle VMAX as
 
 - Giving up on Orbeetle VMAX entirely and switching to a Flapple-focused damage spreading engine like the one featured in the [Sableye V](#sableyev) deck list on this page.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 17** 3 Orbeetle V VIV 20 3 Orbeetle VMAX VIV 21 3 Sableye V SSH 120 2 Galarian Moltres V CRE 97 2 Crobat V DAA 104 2 Galarian Zigzagoon SSH 117 1 Galarian Zapdos V CRE 80 1 Ditto V SHF 50
-
-**Trainer Cards - 33** 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Bird Keeper DAA 159 2 Boss's Orders RCL 154 4 Energy Switch SSH 162 4 Quick Ball SSH 179 4 Switch SSH 183 3 Great Ball CPA 52 2 Air Balloon SSH 156 2 Exp. Share BST 126 1 Escape Rope BST 125 3 Turffield Stadium CPA 68
-
-**Energy - 10** 8 Darkness Energy SWSHEnergy 7 2 Aurora Energy SSH 186
+```decklist
+Pokémon - 17
+3 Orbeetle V VIV 20
+3 Orbeetle VMAX VIV 21
+3 Sableye V SSH 120
+2 Galarian Moltres V CRE 97
+2 Crobat V DAA 104
+2 Galarian Zigzagoon SSH 117
+1 Galarian Zapdos V CRE 80
+1 Ditto V SHF 50
+Trainer Cards - 33
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+4 Energy Switch SSH 162
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Great Ball CPA 52
+2 Air Balloon SSH 156
+2 Exp. Share BST 126
+1 Escape Rope BST 125
+3 Turffield Stadium CPA 68
+Energy - 10
+8 Darkness Energy SWSHEnergy 7
+2 Aurora Energy SSH 186
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of post-rotation Orbeetle VMAX, featuring Jolteon VMAX](https://www.youtube.com/watch?v=5ExoprRjM_c)
 
-</div></div><div class="jb-code-container">
-    <div id="charizard" class="deck_box">
-  <h2>Charizard</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryuta Fuse](/images/charizard.webp)
-
-*Illus. Ryuta Fuse*
+::::
 
 
+
+::::deck{id="charizard" name="Charizard" image="/images/charizard.webp" illus="Ryuta Fuse" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -341,32 +384,39 @@ Use Level Ball and Quick Ball to get Charmander and Minccino set up as quickly a
 - A thin 1-1 or 2-2 line of [Altaria EVS 106](https://www.serebii.net/card/skyscrapingperfect/040.shtml) to seek out Leon as discard fodder or other supporters to use, as needed.
 - [Exp. Share](https://limitlesstcg.com/cards/BST/126/) to preserve energy attachments on Charizard.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 16** 4 Charmander VIV 23 1 Charmeleon VIV 24 4 Charizard VIV 25 3 Minccino SSH 145 3 Cinccino SSH 147 1 Oranguru SSH 148
-
-**Trainer Cards - 34** 4 Leon VIV 154 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Raihan EVS 152 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Level Ball BST 129 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Ordinary Rod SSH 171
-
-**Energy - 10** 10 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 16
+4 Charmander VIV 23
+1 Charmeleon VIV 24
+4 Charizard VIV 25
+3 Minccino SSH 145
+3 Cinccino SSH 147
+1 Oranguru SSH 148
+Trainer Cards - 34
+4 Leon VIV 154
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Raihan EVS 152
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Level Ball BST 129
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Ordinary Rod SSH 171
+Energy - 10
+10 Fire Energy SWSHEnergy 2
+```
 
 ### Alternate Lists
 
 - [The Sableyes’ version of this archetype](https://youtu.be/w4CSMGa4JQM?t=157)
 
-</div></div><div class="jb-code-container">
-    <div id="flareonvmax" class="deck_box">
-  <h2>Flareon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/flareon.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="flareonvmax" name="Flareon VMAX" image="/images/flareon.webp" illus="5ban Graphics" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -383,17 +433,32 @@ Evolve Flareon V into Flareon VMAX and attach requisite energy to it, lowering t
 - [Energy Recycler](https://limitlesstcg.com/cards/BST/124/) to recycle discarded Fire energy.
 - [Volcarona V](https://limitlesstcg.com/cards/jp/S7R/15/) as a potent late-game attacker that also recycles the deck’s basic Energy cards for reuse.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 10
+4 Flareon V EVS 169
+3 Flareon VMAX EVS 18
+2 Galarian Moltres V CRE 97
+1 Kricketune V BST 6
+Trainer Cards - 21
+4 Peony CRE 150
+1 Rose DAA 168
+4 Pokégear 3.0 SSH 174
+3 Elemental Badge EVS 147
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Quick Ball SSH 179
+2 Rose Tower DAA 169
+Energy - 29
+11 Fire Energy SWSHEnergy 2
+6 Darkness Energy SWSHEnergy 7
+4 Aurora Energy SSH 186
+4 Capture Energy RCL 171
+4 Treasure Energy EVS 165
+```
 
-### Example Deck List
+::::
 
-**Pokémon - 10** 4 Flareon V EVS 169 3 Flareon VMAX EVS 18 2 Galarian Moltres V CRE 97 1 Kricketune V BST 6
-
-**Trainer Cards - 21** 4 Peony CRE 150 1 Rose DAA 168 4 Pokégear 3.0 SSH 174 3 Elemental Badge EVS 147 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Quick Ball SSH 179 2 Rose Tower DAA 169
-
-**Energy - 29** 11 Fire Energy SWSHEnergy 2 6 Darkness Energy SWSHEnergy 7 4 Aurora Energy SSH 186 4 Capture Energy RCL 171 4 Treasure Energy EVS 165
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="victinivmax" class="deck_box">
   <h2>Victini VMAX</h2>
   <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
@@ -436,18 +501,9 @@ Based on a list by [Peter Kica](https://twitter.com/PeterJoltik/status/139118646
 
 - [ZapdosTCG’s version of this archetype, featuring the Inteleon engine](https://www.youtube.com/watch?v=Ftl0SYya3Hc)
 
-</div></div><div class="jb-code-container">
-    <div id="cinderace" class="deck_box">
-  <h2>Cinderace</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![Illus. Kouki Saitou](/images/cinderace-6d241f.webp)
-
-*Illus. Kouki Saitou*
-
-
+::::deck{id="cinderace" name="Cinderace" image="/images/cinderace-6d241f.webp" illus="Kouki Saitou" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -464,28 +520,35 @@ Get Scorbunny and Minccino down as quickly as possible to prepare them to evolve
 - [Scorbunny SSH 31](https://limitlesstcg.com/cards/SSH/31/) in place of some or all of the [Scorbunny SSH 30](https://limitlesstcg.com/cards/SSH/30/).
 - [Raihan](https://limitlesstcg.com/cards/jp/S7D/63/) to make it easier to recover when one of the deck’s Pokémon is knocked out.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Scorbunny SSH 30
+2 Raboot SSH 32
+4 Cinderace SSH 34
+3 Minccino SSH 145
+3 Cinccino SSH 147
+2 Snorlax VIV 131
+Trainer Cards - 31
+4 Bird Keeper DAA 159
+4 Marnie CPA 56
+2 Boss's Orders RCL 154
+4 Air Balloon SSH 156
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+2 Evolution Incense SSH 163
+2 Ordinary Rod SSH 171
+1 Fan of Waves BST 127
+Energy - 11
+7 Fire Energy SWSHEnergy 2
+4 Capture Energy RCL 171
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Scorbunny SSH 30 2 Raboot SSH 32 4 Cinderace SSH 34 3 Minccino SSH 145 3 Cinccino SSH 147 2 Snorlax VIV 131
-
-**Trainer Cards - 31** 4 Bird Keeper DAA 159 4 Marnie CPA 56 2 Boss's Orders RCL 154 4 Air Balloon SSH 156 4 Level Ball BST 129 4 Quick Ball SSH 179 4 Rare Candy SSH 180 2 Evolution Incense SSH 163 2 Ordinary Rod SSH 171 1 Fan of Waves BST 127
-
-**Energy - 11** 7 Fire Energy SWSHEnergy 2 4 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="blastoisevmax" class="deck_box">
-  <h2>Blastoise VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/blastoise-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="blastoisevmax" name="Blastoise VMAX" image="/images/blastoise-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -503,28 +566,37 @@ Use Snorlax’s Gormandize ability on early turns to draw additional cards. Mean
 - [Froslass CRE 36](https://limitlesstcg.com/cards/CRE/36/) as an additional means of accelerating energy onto Blastoise VMAX.
 - [Energy Retrieval](https://limitlesstcg.com/cards/SSH/160/), [Nessa](https://limitlesstcg.com/cards/viv/157/), and/or [Training Court](https://limitlesstcg.com/cards/RCL/169/) as an alternative option to Nessa to recovery Energy cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+4 Blastoise V SWSH101
+3 Blastoise VMAX SWSH103
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+2 Snorlax VIV 131
+Trainer Cards - 30
+4 Melony CRE 146
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+2 Capacious Bucket RCL 156
+2 Level Ball BST 129
+2 Scoop Up Net RCL 165
+2 Switch SSH 183
+2 Telescopic Sight VIV 160
+1 Air Balloon SSH 156
+2 Path to the Peak CRE 148
+Energy - 10
+10 Water Energy SWSHEnergy 3
+```
 
-### Example Deck List
-
-**Pokémon - 20** 4 Blastoise V SWSH101 3 Blastoise VMAX SWSH103 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 2 Snorlax VIV 131
-
-**Trainer Cards - 30** 4 Melony CRE 146 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 2 Capacious Bucket RCL 156 2 Level Ball BST 129 2 Scoop Up Net RCL 165 2 Switch SSH 183 2 Telescopic Sight VIV 160 1 Air Balloon SSH 156 2 Path to the Peak CRE 148
-
-**Energy - 10** 10 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="laprasvmax" class="deck_box">
-  <h2>Lapras VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/lapras-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="laprasvmax" name="Lapras VMAX" image="/images/lapras-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -542,28 +614,39 @@ Play down Lapras V and Snom as early as possible so that they can evolve into La
 - [Suicune V EVS 31](https://limitlesstcg.com/cards/jp/S7D/1/) as an alternate attacker and consistency booster.
 - [Energy Retrieval](https://limitlesstcg.com/cards/SSH/160/) and/or [Training Court](https://limitlesstcg.com/cards/RCL/169/) as an alternative option to Nessa to recovery Energy cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 21
+3 Lapras V SSH 49
+3 Lapras VMAX SSH 50
+3 Snom SHF 29
+2 Frosmoth SSH 64
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+1 Crobat V DAA 104
+Trainer Cards - 29
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Melony CRE 146
+1 Nessa VIV 157
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Capacious Bucket RCL 156
+2 Switch SSH 183
+1 Escape Rope BST 125
+Energy - 10
+10 Water Energy SWSHEnergy 3
+```
 
-### Example Deck List
-
-**Pokémon - 21** 3 Lapras V SSH 49 3 Lapras VMAX SSH 50 3 Snom SHF 29 2 Frosmoth SSH 64 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 1 Crobat V DAA 104
-
-**Trainer Cards - 29** 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Melony CRE 146 1 Nessa VIV 157 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Capacious Bucket RCL 156 2 Switch SSH 183 1 Escape Rope BST 125
-
-**Energy - 10** 10 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="kingdra" class="deck_box">
-  <h2>Kingdra</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. kawayoo](/images/kingdra.webp)
-
-*Illus. kawayoo*
+::::
 
 
+
+::::deck{id="kingdra" name="Kingdra" image="/images/kingdra.webp" illus="kawayoo" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -581,28 +664,37 @@ Bench and evolve Horsea, using Rare Candy to evolve them into Kingdra as soon as
 - [Training Court](https://limitlesstcg.com/cards/RCL/169/) or [Ordinary Rod](https://limitlesstcg.com/cards/ssh/171/) as additional recovery options, especially for energy.
 - [Tool Scrapper](https://limitlesstcg.com/cards/RCL/168/) to remove especially problematic tools, like those that boost the HP of your opponent’s Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Horsea BST 31
+1 Seadra BST 32
+4 Kingdra BST 33
+3 Snom SHF 29
+3 Frosmoth SSH 64
+2 Crobat V DAA 104
+1 Suicune DAA 37
+Trainer Cards - 31
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Nessa VIV 157
+1 Raihan EVS 152
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Capacious Bucket RCL 156
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Evolution Incense SSH 163
+2 Switch SSH 183
+Energy - 11
+11 Water Energy SWSHEnergy 3
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Horsea BST 31 1 Seadra BST 32 4 Kingdra BST 33 3 Snom SHF 29 3 Frosmoth SSH 64 2 Crobat V DAA 104 1 Suicune DAA 37
-
-**Trainer Cards - 31** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Nessa VIV 157 1 Raihan EVS 152 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Capacious Bucket RCL 156 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Evolution Incense SSH 163 2 Switch SSH 183
-
-**Energy - 11** 11 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="wailordv" class="deck_box">
-  <h2>Wailord V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Mochizuki](/images/wailord-v.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="wailordv" name="Wailord V" image="/images/wailord-v.webp" illus="PLANETA Mochizuki" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -618,28 +710,36 @@ Play down Wailord V, Snom, and Minccino, evolving Snom into Frosmoth and Minccin
 
 - [Melony](https://limitlesstcg.com/cards/CRE/146/) as an additional means of getting enough energy onto Wailord V so that it can use its Ocean Waves attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Wailord V CPA 13
+3 Snom SHF 29
+2 Frosmoth SSH 64
+3 Minccino SSH 145
+3 Cinccino SSH 147
+1 Crobat V DAA 104
+Trainer Cards - 34
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Bird Keeper DAA 159
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Capacious Bucket RCL 156
+3 Cape of Toughness DAA 160
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Energy Retrieval SSH 160
+3 Glimwood Tangle DAA 162
+Energy - 10
+10 Water Energy SWSHEnergy 3
+```
 
-### Example Deck List
-
-**Pokémon - 16** 4 Wailord V CPA 13 3 Snom SHF 29 2 Frosmoth SSH 64 3 Minccino SSH 145 3 Cinccino SSH 147 1 Crobat V DAA 104
-
-**Trainer Cards - 34** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Bird Keeper DAA 159 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Capacious Bucket RCL 156 3 Cape of Toughness DAA 160 3 Switch SSH 183 2 Air Balloon SSH 156 2 Energy Retrieval SSH 160 3 Glimwood Tangle DAA 162
-
-**Energy - 10** 10 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="glaceonvmax" class="deck_box">
-  <h2>Glaceon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Tsuji](/images/glaceon-vmax.webp)
-
-*Illus. PLANETA Tsuji*
+::::
 
 
+
+::::deck{id="glaceonvmax" name="Glaceon VMAX" image="/images/glaceon-vmax.webp" illus="PLANETA Tsuji" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -656,32 +756,41 @@ Going second, start with Glaceon V in the Active Spot and use its Ice Ascension 
 - [Leon](https://limitlesstcg.com/cards/viv/154/) to give a quick boost to Glaceon VMAX’s damage when necessary.
 - [Suicune V](https://limitlesstcg.com/cards/jp/S7D/1/) as an option to help counter the Pokémon V that will be used against Glaceon to get around its Crystal Veil ability.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 19** 4 Glaceon V EVS 40 3 Glaceon VMAX EVS 41 3 Minccino SSH 145 3 Cinccino SSH 147 2 Snorunt CRE 35 2 Froslass CRE 36 1 Crobat V DAA 104 1 Pumpkaboo EVS 76
-
-**Trainer Cards - 32** 4 Melony CRE 146 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Evolution Incense SSH 163 4 Level Ball BST 129 4 Quick Ball SSH 179 2 Capacious Bucket RCL 156 2 Scoop Up Net RCL 165 2 Snow Leaf Badge EVS 159 1 Air Balloon SSH 156 3 Dyna Tree Hill CRE 135
-
-**Energy - 9** 9 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 19
+4 Glaceon V EVS 40
+3 Glaceon VMAX EVS 41
+3 Minccino SSH 145
+3 Cinccino SSH 147
+2 Snorunt CRE 35
+2 Froslass CRE 36
+1 Crobat V DAA 104
+1 Pumpkaboo EVS 76
+Trainer Cards - 32
+4 Melony CRE 146
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Evolution Incense SSH 163
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+2 Capacious Bucket RCL 156
+2 Scoop Up Net RCL 165
+2 Snow Leaf Badge EVS 159
+1 Air Balloon SSH 156
+3 Dyna Tree Hill CRE 135
+Energy - 9
+9 Water Energy SWSHEnergy 3
+```
 
 ### Alternate Lists
 
 - [OmniPoke’s version of this archetype](https://www.youtube.com/watch?v=nXUaPEHjVgw)
 
-</div></div><div class="jb-code-container">
-    <div id="keldeov" class="deck_box">
-  <h2>Keldeo V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Igarashi](/images/keldeo-v.webp)
-
-*Illus. PLANETA Igarashi*
+::::
 
 
+
+::::deck{id="keldeov" name="Keldeo V" image="/images/keldeo-v.webp" illus="PLANETA Igarashi" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -699,28 +808,39 @@ Play Keldeo V and play down Snom as early as possible so that they can evolve in
 - [Suicune V EVS 31](https://limitlesstcg.com/cards/jp/S7D/1/) as an alternate attacker and consistency booster.
 - [Energy Retrieval](https://limitlesstcg.com/cards/SSH/160/) and/or [Training Court](https://limitlesstcg.com/cards/RCL/169/) as an alternative option to Nessa to recovery Energy cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Keldeo V SSH 53
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+3 Snom SHF 29
+2 Frosmoth SSH 64
+1 Crobat V DAA 104
+Trainer Cards - 30
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Melony CRE 146
+1 Nessa VIV 157
+4 Quick Ball SSH 179
+3 Great Ball CPA 52
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Capacious Bucket RCL 156
+2 Evolution Incense SSH 163
+2 Switch SSH 183
+1 Escape Rope BST 125
+Energy - 11
+11 Water Energy SWSHEnergy 3
+```
 
-### Example Deck List
-
-**Pokémon - 19** 4 Keldeo V SSH 53 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 3 Snom SHF 29 2 Frosmoth SSH 64 1 Crobat V DAA 104
-
-**Trainer Cards - 30** 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Melony CRE 146 1 Nessa VIV 157 4 Quick Ball SSH 179 3 Great Ball CPA 52 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Capacious Bucket RCL 156 2 Evolution Incense SSH 163 2 Switch SSH 183 1 Escape Rope BST 125
-
-**Energy - 11** 11 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="wishiwashi" class="deck_box">
-  <h2>Wishiwashi</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Teeziro](/images/wishiwashi.webp)
-
-*Illus. Teeziro*
+::::
 
 
+
+::::deck{id="wishiwashi" name="Wishiwashi" image="/images/wishiwashi.webp" illus="Teeziro" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -736,32 +856,38 @@ Use a Frosmoth’s Ice Dance ability to help get three or more energy on each Wi
 
 - [Rescue Carrier](https://limitlesstcg.com/cards/jp/S7D/59/) to be able to quickly reuse both Wishiwashi and the Frosmoth line.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 16** 4 Wishiwashi EVS 46 3 Minccino SSH 145 3 Cinccino SSH 147 3 Snom SHF 29 3 Frosmoth SSH 64
-
-**Trainer Cards - 32** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Nessa VIV 157 4 Capacious Bucket RCL 156 4 Energy Retrieval SSH 160 4 Level Ball BST 129 4 Quick Ball SSH 179 2 Air Balloon SSH 156 2 Cape of Toughness DAA 160 2 Switch SSH 183
-
-**Energy - 12** 12 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 16
+4 Wishiwashi EVS 46
+3 Minccino SSH 145
+3 Cinccino SSH 147
+3 Snom SHF 29
+3 Frosmoth SSH 64
+Trainer Cards - 32
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Nessa VIV 157
+4 Capacious Bucket RCL 156
+4 Energy Retrieval SSH 160
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+2 Air Balloon SSH 156
+2 Cape of Toughness DAA 160
+2 Switch SSH 183
+Energy - 12
+12 Water Energy SWSHEnergy 3
+```
 
 ### Alternate Lists
 
 - [JaxuTCG’s version of this archetype](https://twitter.com/JaxuTcg/status/1417039373929955328/photo/1)
 
-</div></div><div class="jb-code-container">
-    <div id="inteleonvmax" class="deck_box">
-  <h2>Inteleon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Highly Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/inteleon.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="inteleonvmax" name="Inteleon VMAX" image="/images/inteleon.webp" illus="5ban Graphics" sublabel="Competitive Potential: Highly Competitive"}
 
 ### Basic Strategy
 
@@ -780,32 +906,42 @@ Bench and evolve Inteleon V into Inteleon VMAX and bench Sobble in preparation f
 - [Rugged Helmet](https://limitlesstcg.com/cards/cre/152/) to lean further into the energy disruption aspect of the archetype, making it more difficult for some opposing archetypes to chain attacks against Inteleon VMAX.
 - [Exp. Share](https://limitlesstcg.com/cards/BST/126/) to make it easier to get back to attacking with Max Bullet after one of your Inteleon has been knocked out.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 20** 4 Inteleon V RCL 49 3 Inteleon VMAX RCL 50 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon SSH 58 2 Inteleon CRE 43 1 Crobat V DAA 104
-
-**Trainer Cards - 30** 4 Melony CRE 146 2 Boss's Orders RCL 154 2 Marnie CPA 56 2 Professor's Research CPA 62 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Level Ball BST 129 2 Capacious Bucket RCL 156 2 Scoop Up Net RCL 165 2 Switch SSH 183 1 Air Balloon SSH 156 3 Path to the Peak CRE 148
-
-**Energy - 10** 8 Water Energy SWSHEnergy 3 2 Capture Energy RCL 171
+```decklist
+Pokémon - 20
+4 Inteleon V RCL 49
+3 Inteleon VMAX RCL 50
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon SSH 58
+2 Inteleon CRE 43
+1 Crobat V DAA 104
+Trainer Cards - 30
+4 Melony CRE 146
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 Professor's Research CPA 62
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Capacious Bucket RCL 156
+2 Scoop Up Net RCL 165
+2 Switch SSH 183
+1 Air Balloon SSH 156
+3 Path to the Peak CRE 148
+Energy - 10
+8 Water Energy SWSHEnergy 3
+2 Capture Energy RCL 171
+```
 
 ### Alternate Lists
 
 - [Celio’s Network’s version of this archetype](https://www.youtube.com/watch?v=FwYokxH9B4U)
 
-</div></div><div class="jb-code-container">
-    <div id="rsurshifu" class="deck_box">
-  <h2>Rapid Strike Urshifu</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Naoki Saito](/images/rs-urshifu-3aa19b.webp)
-
-*Illus. Naoki Saito*
+::::
 
 
+
+::::deck{id="rsurshifu" name="Rapid Strike Urshifu" image="/images/rs-urshifu-3aa19b.webp" illus="Naoki Saito" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -823,28 +959,39 @@ Fill your bench and evolve Kubfu as quickly as you can so that each of your Pok�
 - [Brawly](https://limitlesstcg.com/cards/jp/S5a/69/) to quickly bench multiple Rapid Strike Pokémon at once.
 - Basic Water Energy as a Ordinary Rod-recoverable means of powering up Rapid Strike Urshifu’s attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 23
+4 Kubfu CRE 93
+4 Rapid Strike Urshifu CRE 44
+4 Sobble CRE 55
+3 Drizzile SSH 56
+3 Inteleon CRE 43
+2 Remoraid BST 36
+2 Octillery BST 37
+1 Falinks BST 83
+Trainer Cards - 28
+3 Bruno BST 121
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+1 Korrina's Focus BST 128
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Rare Candy SSH 180
+1 Ordinary Rod SSH 171
+2 Tower of Waters BST 138
+Energy - 9
+4 Rapid Strike Energy BST 140
+4 Spiral Energy CRE 159
+1 Capture Energy RCL 171
+```
 
-### Example Deck List
-
-**Pokémon - 23** 4 Kubfu CRE 93 4 Rapid Strike Urshifu CRE 44 4 Sobble CRE 55 3 Drizzile SSH 56 3 Inteleon CRE 43 2 Remoraid BST 36 2 Octillery BST 37 1 Falinks BST 83
-
-**Trainer Cards - 28** 3 Bruno BST 121 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Marnie CPA 56 1 Korrina's Focus BST 128 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Rare Candy SSH 180 1 Ordinary Rod SSH 171 2 Tower of Waters BST 138
-
-**Energy - 9** 4 Rapid Strike Energy BST 140 4 Spiral Energy CRE 159 1 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="ircalyrexvmax" class="deck_box">
-  <h2>Ice Rider Calyrex VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Highly Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/ice-rider.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="ircalyrexvmax" name="Ice Rider Calyrex VMAX" image="/images/ice-rider.webp" illus="5ban Graphics" sublabel="Competitive Potential: Highly Competitive"}
 
 ### Basic Strategy
 
@@ -861,21 +1008,37 @@ Bench and evolve Ice Rider Calyrex V into Ice Rider Calyrex VMAX, and bench Sobb
 - [Leon](https://limitlesstcg.com/cards/viv/154/) to give a quick boost to Ice Rider Calyrex VMAX’s damage on key turns.
 - [Suicune V](https://limitlesstcg.com/cards/jp/S7D/1/) as an basic attacker and as an early-game option when Ice Rider Calyrex VMAX isn’t out fast enough.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 21** 4 Ice Rider Calyrex V CRE 45 3 Ice Rider Calyrex VMAX CRE 46 4 Sobble CRE 41 4 Drizzile SSH 56 3 Inteleon CRE 43 1 Inteleon SSH 58 2 Crobat V DAA 104
-
-**Trainer Cards - 31** 4 Melony CRE 146 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Capacious Bucket RCL 156 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Switch SSH 183 3 Path to the Peak CRE 148
-
-**Energy - 8** 8 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 21
+4 Ice Rider Calyrex V CRE 45
+3 Ice Rider Calyrex VMAX CRE 46
+4 Sobble CRE 41
+4 Drizzile SSH 56
+3 Inteleon CRE 43
+1 Inteleon SSH 58
+2 Crobat V DAA 104
+Trainer Cards - 31
+4 Melony CRE 146
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Capacious Bucket RCL 156
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Switch SSH 183
+3 Path to the Peak CRE 148
+Energy - 8
+8 Water Energy SWSHEnergy 3
+```
 
 ### Alternate Lists
 
 - [@AngelJMiranda’s version of this archetype](https://twitter.com/AngelJMiranda/status/1414002861537628168)
 
-</div></div><div class="jb-code-container">
+::::
+
+<div class="jb-code-container">
     <div id="pikachuvmax" class="deck_box">
   <h2>Pikachu VMAX</h2>
   <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
@@ -913,18 +1076,9 @@ Bench and evolve Mareep into Flaaffy and use Pikachu V’s Electrify attack and 
 
 **Energy - 10** 10 Lightning Energy SWSHEnergy 4
 
-</div></div><div class="jb-code-container">
-    <div id="jolteonvmax" class="deck_box">
-  <h2>Jolteon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![Illus. 5ban Graphics](/images/jolteon-vmax.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="jolteonvmax" name="Jolteon VMAX" image="/images/jolteon-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -941,33 +1095,44 @@ Evolve Jolteon V into Jolteon VMAX and power it up with a combination of manuall
 
 - Some combination of [Glaceon VMAX](https://limitlesstcg.com/cards/jp/S6a/25/), [Snow Leaf Badge](https://limitlesstcg.com/cards/jp/S6a/63/), and [Escape Rope](https://limitlesstcg.com/cards/BST/125/) to use as a pivot and wall against Pokémon VMAX,
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 19** 4 Jolteon V EVS 177 3 Jolteon VMAX EVS 51 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 2 Galarian Zigzagoon SSH 117 1 Crobat V DAA 104
-
-**Trainer Cards - 31** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Cheryl BST 123 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Elemental Badge EVS 147 3 Level Ball BST 129 3 Scoop Up Net RCL 165 2 Air Balloon SSH 156 2 Path to the Peak CRE 148
-
-**Energy - 10** 4 Lightning Energy SWSHEnergy 4 4 Speed Lightning Energy RCL 173 2 Capture Energy RCL 171
+```decklist
+Pokémon - 19
+4 Jolteon V EVS 177
+3 Jolteon VMAX EVS 51
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+2 Galarian Zigzagoon SSH 117
+1 Crobat V DAA 104
+Trainer Cards - 31
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Cheryl BST 123
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Elemental Badge EVS 147
+3 Level Ball BST 129
+3 Scoop Up Net RCL 165
+2 Air Balloon SSH 156
+2 Path to the Peak CRE 148
+Energy - 10
+4 Lightning Energy SWSHEnergy 4
+4 Speed Lightning Energy RCL 173
+2 Capture Energy RCL 171
+```
 
 ### Alternate Lists
 
 - [Tablemon’s version of this archetype](https://www.youtube.com/watch?v=Cgeg4pUArRI)
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=5ExoprRjM_c)
 
-</div></div><div class="jb-code-container">
-    <div id="flaaffy" class="deck_box">
-  <h2>Flaaffy</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. OKACHEKE](/images/flaaffy.webp)
-
-*Illus. OKACHEKE*
+::::
 
 
+
+::::deck{id="flaaffy" name="Flaaffy" image="/images/flaaffy.webp" illus="OKACHEKE" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -984,32 +1149,41 @@ Bench and evolve Mareep into Flaaffy and use Flaaffy’s Dynamotor ability to po
 
 - [Jirachi VIV 119](https://limitlesstcg.com/cards/viv/48/) as a more constant pivot and draw option, in place of or in addition to Snorlax.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 18** 4 Mareep DAA 55 4 Flaaffy EVS 55 4 Zekrom VIV 57 2 Snorlax VIV 131 2 Zapdos VIV 48 1 Regieleki EVS 60 1 Galarian Zigzagoon SSH 117
-
-**Trainer Cards - 32** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Raihan EVS 152 4 Level Ball BST 129 3 Quick Ball SSH 179 3 Scoop Up Net RCL 165 3 Switch SSH 183 2 Air Balloon SSH 156 2 Telescopic Sight VIV 160 1 Ordinary Rod SSH 171 3 Stormy Mountains EVS 161
-
-**Energy - 10** 10 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 18
+4 Mareep DAA 55
+4 Flaaffy EVS 55
+4 Zekrom VIV 57
+2 Snorlax VIV 131
+2 Zapdos VIV 48
+1 Regieleki EVS 60
+1 Galarian Zigzagoon SSH 117
+Trainer Cards - 32
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Raihan EVS 152
+4 Level Ball BST 129
+3 Quick Ball SSH 179
+3 Scoop Up Net RCL 165
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Telescopic Sight VIV 160
+1 Ordinary Rod SSH 171
+3 Stormy Mountains EVS 161
+Energy - 10
+10 Lightning Energy SWSHEnergy 4
+```
 
 ### Alternate Lists
 
 - [TaloniteX’s version of this archetype](https://www.youtube.com/watch?v=UeHaGtONyOE)
 
-</div></div><div class="jb-code-container">
-    <div id="vikavoltv" class="deck_box">
-  <h2>Vikavolt V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ayaka Yoshida](/images/vikavolt.webp)
-
-*Illus. Ayaka Yoshida*
+::::
 
 
+
+::::deck{id="vikavoltv" name="Vikavolt V" image="/images/vikavolt.webp" illus="Ayaka Yoshida" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -1026,28 +1200,38 @@ Play down Vikavolt V and Sobble, evolving the Sobble into Drizzile as needed to 
 - [Cape of Toughness](https://limitlesstcg.com/cards/DAA/160/) to make Vikavolt V a bit more resilient against attacks.
 - [Team Yell Grunt](https://limitlesstcg.com/cards/ssh/184/) as an additional Energy disruption option.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+4 Vikavolt V DAA 60
+Trainer Cards - 34
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Bird Keeper DAA 159
+4 Crushing Hammer SSH 159
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Scoop Up Net RCL 165
+1 Energy Search SSH 161
+1 Fan of Waves BST 127
+3 Path to the Peak CRE 148
+Energy - 11
+4 Lightning Energy SWSHEnergy 4
+4 Speed Lightning Energy RCL 173
+3 Capture Energy RCL 171
+```
 
-### Example Deck List
-
-**Pokémon - 15** 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 4 Vikavolt V DAA 60
-
-**Trainer Cards - 34** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Bird Keeper DAA 159 4 Crushing Hammer SSH 159 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Scoop Up Net RCL 165 1 Energy Search SSH 161 1 Fan of Waves BST 127 3 Path to the Peak CRE 148
-
-**Energy - 11** 4 Lightning Energy SWSHEnergy 4 4 Speed Lightning Energy RCL 173 3 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="zeraorav" class="deck_box">
-  <h2>Blaziken VMAX / Zeraora V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. chibi](/images/zeraora.webp)
-
-*Illus. chibi*
+::::
 
 
+
+::::deck{id="zeraorav" name="Blaziken VMAX / Zeraora V" image="/images/zeraora.webp" illus="chibi" sublabel="Competitive Potential: Non-Competitive"}
 
 ### Basic Strategy
 
@@ -1064,28 +1248,38 @@ Bench Blaziken V and Sylveon V and evolve them into Blaziken VMAX and Sylveon VM
 
 - [Rapid Strike Urshifu VMAX BST 88](https://limitlesstcg.com/cards/cre/152/). Alternatively, just play the [Rapid Strike Urshifu VMAX](#rsurshifuvmax) archetype instead of this one.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 22
+3 Blaziken V CRE 20
+3 Blaziken VMAX CRE 21
+3 Remoraid BST 36
+3 Octillery BST 37
+2 Crobat V DAA 104
+2 Passimian CRE 88
+2 Sylveon V EVS 74
+2 Sylveon VMAX EVS 75
+2 Zeraora V CRE 53
+Trainer Cards - 28
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+4 Great Ball CPA 52
+4 Quick Ball SSH 179
+3 Escape Rope BST 125
+2 Telescopic Sight VIV 160
+1 Echoing Horn CRE 136
+3 Tower of Waters BST 138
+Energy - 10
+4 Rapid Strike Energy BST 140
+4 Spiral Energy CRE 159
+2 Capture Energy RCL 171
+```
 
-### Example Deck List
-
-**Pokémon - 22** 3 Blaziken V CRE 20 3 Blaziken VMAX CRE 21 3 Remoraid BST 36 3 Octillery BST 37 2 Crobat V DAA 104 2 Passimian CRE 88 2 Sylveon V EVS 74 2 Sylveon VMAX EVS 75 2 Zeraora V CRE 53
-
-**Trainer Cards - 28** 4 Marnie CPA 56 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 4 Great Ball CPA 52 4 Quick Ball SSH 179 3 Escape Rope BST 125 2 Telescopic Sight VIV 160 1 Echoing Horn CRE 136 3 Tower of Waters BST 138
-
-**Energy - 10** 4 Rapid Strike Energy BST 140 4 Spiral Energy CRE 159 2 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="boltundv" class="deck_box">
-  <h2>Boltund V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. aky CG Works](/images/boltund-v.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="boltundv" name="Boltund V" image="/images/boltund-v.webp" illus="aky CG Works" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -1102,17 +1296,33 @@ Bench and evolve Mareep into Flaaffy and use Boltund V’s Electrify attack and 
 - [Tapu Koko VMAX BST 51](https://limitlesstcg.com/cards/bst/51/) as a potential option against acceleration-heavy decks, like Shadow Rider Calyrex VMAX
 - [Zapdos VIV 48](https://limitlesstcg.com/cards/viv/48/) as a finisher to KO benched Pokémon V (including Pokémon VMAX) after your opponent attempts to save them on the bench by retreating them or switching them out of the Active Spot.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Boltund V RCL 67
+4 Mareep DAA 55
+4 Flaaffy EVS 55
+2 Crobat V DAA 104
+1 Tapu Koko V SSH 72
+Trainer Cards - 33
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+2 Zinnia's Resolve EVS 164
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+4 Switch SSH 183
+2 Air Balloon SSH 156
+2 Energy Switch SSH 162
+2 Ordinary Rod SSH 171
+3 Stormy Mountains EVS 161
+Energy - 12
+10 Lightning Energy SWSHEnergy 4
+2 Speed Lightning Energy RCL 173
+```
 
-### Example Deck List
+::::
 
-**Pokémon - 15** 4 Boltund V RCL 67 4 Mareep DAA 55 4 Flaaffy EVS 55 2 Crobat V DAA 104 1 Tapu Koko V SSH 72
-
-**Trainer Cards - 33** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 3 Marnie CPA 56 2 Zinnia's Resolve EVS 164 4 Level Ball BST 129 4 Quick Ball SSH 179 4 Switch SSH 183 2 Air Balloon SSH 156 2 Energy Switch SSH 162 2 Ordinary Rod SSH 171 3 Stormy Mountains EVS 161
-
-**Energy - 12** 10 Lightning Energy SWSHEnergy 4 2 Speed Lightning Energy RCL 173
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="gardevoirvmax" class="deck_box">
   <h2>Gardevoir VMAX</h2>
   <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
@@ -1152,18 +1362,9 @@ Based on a pre-rotation [deck list by jonnybrah](https://play.limitlesstcg.com/t
 
 **Energy - 12** 12 Psychic Energy SWSHEnergy 5
 
-</div></div><div class="jb-code-container">
-    <div id="malamar" class="deck_box">
-  <h2>Malamar</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![Illus. Kagemaru Himeno](/images/malamar-d79061.webp)
-
-*Illus. Kagemaru Himeno*
-
-
+::::deck{id="malamar" name="Malamar" image="/images/malamar-d79061.webp" illus="Kagemaru Himeno" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -1179,32 +1380,39 @@ Bench and evolve Inkay, Remoraid, and Minccino early on so that they can evolve 
 
 - A single copy of [Inkay CPA 44](https://limitlesstcg.com/cards/CPA/44/) in place of one of the Inkay CRE 69 so that, with its extra 10 HP, it can survive Shadow Rider Calyrex V’s Astral Barrage attack.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 21** 4 Inkay CRE 69 4 Malamar CRE 70 4 Remoraid BST 36 3 Octillery BST 37 3 Minccino SSH 145 3 Cinccino SSH 147
-
-**Trainer Cards - 32** 4 Korrina's Focus BST 128 4 Professor's Research CPA 62 2 Bruno BST 121 4 Evolution Incense SSH 163 4 Fog Crystal CRE 140 4 Great Ball CPA 52 4 Level Ball BST 129 2 Ordinary Rod SSH 171 2 Scoop Up Net RCL 165 2 Tower of Waters BST 138
-
-**Energy - 7** 4 Spiral Energy CRE 159 3 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 21
+4 Inkay CRE 69
+4 Malamar CRE 70
+4 Remoraid BST 36
+3 Octillery BST 37
+3 Minccino SSH 145
+3 Cinccino SSH 147
+Trainer Cards - 32
+4 Korrina's Focus BST 128
+4 Professor's Research CPA 62
+2 Bruno BST 121
+4 Evolution Incense SSH 163
+4 Fog Crystal CRE 140
+4 Great Ball CPA 52
+4 Level Ball BST 129
+2 Ordinary Rod SSH 171
+2 Scoop Up Net RCL 165
+2 Tower of Waters BST 138
+Energy - 7
+4 Spiral Energy CRE 159
+3 Psychic Energy SWSHEnergy 5
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=MJ0u_3Tnyp8)
 
-</div></div><div class="jb-code-container">
-    <div id="sylveonvmax" class="deck_box">
-  <h2>Sylveon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryota Murayama](/images/sylveon-vmax.webp)
-
-*Illus. Ryota Murayama*
+::::
 
 
+
+::::deck{id="sylveonvmax" name="Sylveon VMAX" image="/images/sylveon-vmax.webp" illus="Ryota Murayama" sublabel="Competitive Potential: Minimal"}
 
 ### BASIC STRATEGY
 
@@ -1220,33 +1428,46 @@ Play down the deck’s rainbow of Pokémon, powering up Sylveon VMAX in preparat
 - [Rapid Strike Urshifu VMAX BST 88](https://limitlesstcg.com/cards/BST/88/) as an alternative attacker, sniper, and alternate Fighting-type representative to increase the damage of Sylveon VMAX’s Max Harmony attack.
 - [Tool Scrapper](https://limitlesstcg.com/cards/RCL/168/) to remove problematic tools, like [Cape of Toughness](https://limitlesstcg.com/cards/daa/160/).
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 20** 3 Blaziken V CRE 20 2 Blaziken VMAX CRE 21 3 Sylveon V EVS 74 3 Sylveon VMAX EVS 75 2 Crobat V DAA 104 2 Remoraid BST 36 2 Octillery BST 37 1 Eldegoss V RCL 19 1 Oranguru SSH 148 1 Zeraora V CRE 53
-
-**Trainer Cards - 28** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Korrina's Focus BST 128 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 2 Air Balloon SSH 156 2 Ribbon Badge EVS 155 2 Switch SSH 183 1 Escape Rope BST 125 3 Tower of Waters BST 138
-
-**Energy - 12** 4 Capture Energy RCL 171 4 Rapid Strike Energy BST 140 4 Spiral Energy CRE 159
+```decklist
+Pokémon - 20
+3 Blaziken V CRE 20
+2 Blaziken VMAX CRE 21
+3 Sylveon V EVS 74
+3 Sylveon VMAX EVS 75
+2 Crobat V DAA 104
+2 Remoraid BST 36
+2 Octillery BST 37
+1 Eldegoss V RCL 19
+1 Oranguru SSH 148
+1 Zeraora V CRE 53
+Trainer Cards - 28
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Korrina's Focus BST 128
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+2 Air Balloon SSH 156
+2 Ribbon Badge EVS 155
+2 Switch SSH 183
+1 Escape Rope BST 125
+3 Tower of Waters BST 138
+Energy - 12
+4 Capture Energy RCL 171
+4 Rapid Strike Energy BST 140
+4 Spiral Energy CRE 159
+```
 
 ### Alternate Lists
 
 - [Tricky Gym’s version of this archetype](https://www.youtube.com/watch?v=pK5IXDPbihE)
 - [Tablemon’s version of this archetype](https://www.youtube.com/watch?v=_4p1yEjLf8g)
 
-</div></div><div class="jb-code-container">
-    <div id="dragapult" class="deck_box">
-  <h2>Dragapult</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Shin Nagasawa](/images/dragapult.webp)
-
-*Illus. Shin Nagasawa*
+::::
 
 
+
+::::deck{id="dragapult" name="Dragapult" image="/images/dragapult.webp" illus="Shin Nagasawa" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1262,28 +1483,36 @@ Bench Dreepy in the early game, working to get each of them evolved to a Dragapu
 
 - [Snorlax VIV 131](https://limitlesstcg.com/cards/VIV/131/) as an early-game option to draw additional cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 11
+4 Dreepy RCL 89
+2 Drakloak RCL 90
+4 Dragapult RCL 91
+1 Oranguru SSH 148
+Trainer Cards - 40
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Raihan EVS 152
+4 Fog Crystal CRE 140
+4 Great Ball CPA 52
+4 Rare Candy SSH 180
+3 Crushing Hammer SSH 159
+3 Evolution Incense SSH 163
+3 Scoop Up Net RCL 165
+3 Switch SSH 183
+2 Ordinary Rod SSH 171
+3 Path to the Peak CRE 148
+Energy - 9
+5 Psychic Energy SWSHEnergy 5
+4 Horror Psychic Energy RCL 172
+```
 
-### Example Deck List
-
-**Pokémon - 11** 4 Dreepy RCL 89 2 Drakloak RCL 90 4 Dragapult RCL 91 1 Oranguru SSH 148
-
-**Trainer Cards - 40** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Raihan EVS 152 4 Fog Crystal CRE 140 4 Great Ball CPA 52 4 Rare Candy SSH 180 3 Crushing Hammer SSH 159 3 Evolution Incense SSH 163 3 Scoop Up Net RCL 165 3 Switch SSH 183 2 Ordinary Rod SSH 171 3 Path to the Peak CRE 148
-
-**Energy - 9** 5 Psychic Energy SWSHEnergy 5 4 Horror Psychic Energy RCL 172
-
-</div></div><div class="jb-code-container">
-    <div id="dragapultvmax" class="deck_box">
-  <h2>Dragapult VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. aky CG Works](/images/dragapult-vmax.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="dragapultvmax" name="Dragapult VMAX" image="/images/dragapult-vmax.webp" illus="aky CG Works" sublabel="Competitive Potential: Minimal"}
 
 ### BASIC STRATEGY
 
@@ -1300,17 +1529,34 @@ Spread damage using Dragapult VMAX’s Max Phantom attack and use Inteleon’s Q
 - [Path to the Peak](https://limitlesstcg.com/cards/CRE/148/) both to slow your opponent’s setup and to make it more difficult for them to recover from the energy disruption of Crushing Hammer and Fan of Waves
 - [Galarian Articuno EVS 63](https://limitlesstcg.com/cards/jp/S7D/12/) in combination with a higher count of basic Psychic Energy and [Energy Switch](https://limitlesstcg.com/cards/SSH/162/) to make it easier to power up Dragapult VMAX sooner, especially after one is knocked out.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Dragapult V RCL 92
+3 Dragapult VMAX RCL 93
+3 Sobble CRE 41
+3 Drizzile SSH 56
+3 Inteleon CRE 43
+1 Crobat V DAA 104
+Trainer Cards - 33
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Crushing Hammer SSH 159
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Fog Crystal CRE 140
+1 Fan of Waves BST 127
+3 Old Cemetery CRE 147
+Energy - 10
+7 Psychic Energy SWSHEnergy 5
+3 Horror Psychic Energy RCL 172
+```
 
-### Example Deck List
+::::
 
-**Pokémon - 17** 4 Dragapult V RCL 92 3 Dragapult VMAX RCL 93 3 Sobble CRE 41 3 Drizzile SSH 56 3 Inteleon CRE 43 1 Crobat V DAA 104
-
-**Trainer Cards - 33** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Crushing Hammer SSH 159 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Fog Crystal CRE 140 1 Fan of Waves BST 127 3 Old Cemetery CRE 147
-
-**Energy - 10** 7 Psychic Energy SWSHEnergy 5 3 Horror Psychic Energy RCL 172
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="srcalyrexvmax" class="deck_box">
   <h2>Shadow Rider Calyrex VMAX</h2>
   <p class="jb-deckbox-sublabel">Competitive Potential: Highly Competitive</p>
@@ -1392,18 +1638,9 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
   <h3>Tokyo</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
-</div></div></div><div class="jb-code-container">
-    <div id="coalossalvmax" class="deck_box">
-  <h2>Coalossal VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div></div>
 
-![Illus. 5ban Graphics](/images/coalossal-vmax.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="coalossalvmax" name="Coalossal VMAX" image="/images/coalossal-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1418,28 +1655,38 @@ Setup Coalossal V and Oranguru early, then evolve into Coalossal VMAX as soon as
 
 - [Galarian Sirfetch’d V SWSH043](https://limitlesstcg.com/cards/SSP/43/) to take advantage of its Resolute Spear ability and its Meteor Smash attack to finish off damaged opposing Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+3 Coalossal V VIV 98
+3 Coalossal VMAX VIV 99
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon SSH 58
+2 Oranguru SSH 148
+1 Crobat V DAA 104
+Trainer Cards - 31
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Cheryl BST 123
+4 Quick Ball SSH 179
+4 Rotom Phone CPA 64
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Scoop Up Net RCL 165
+1 Energy Search SSH 161
+1 Pal Pad SSH 172
+Energy - 12
+8 Fighting Energy SWSHEnergy 6
+4 Stone Fighting Energy VIV 164
+```
 
-### Example Deck List
-
-**Pokémon - 17** 3 Coalossal V VIV 98 3 Coalossal VMAX VIV 99 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon SSH 58 2 Oranguru SSH 148 1 Crobat V DAA 104
-
-**Trainer Cards - 31** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Cheryl BST 123 4 Quick Ball SSH 179 4 Rotom Phone CPA 64 3 Evolution Incense SSH 163 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Scoop Up Net RCL 165 1 Energy Search SSH 161 1 Pal Pad SSH 172
-
-**Energy - 12** 8 Fighting Energy SWSHEnergy 6 4 Stone Fighting Energy VIV 164
-
-</div></div><div class="jb-code-container">
-    <div id="sandaconda" class="deck_box">
-  <h2>Sandaconda</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. hatachu](/images/sandaconda.webp)
-
-*Illus. hatachu*
+::::
 
 
+
+::::deck{id="sandaconda" name="Sandaconda" image="/images/sandaconda.webp" illus="hatachu" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1454,28 +1701,29 @@ Use Level Ball and Gossifleur’s Call for Family attack to fish out Silicobra f
 
 - [Klara](https://limitlesstcg.com/cards/CRE/145/), in place of Energy Recycler, Ordinary Rod, or both, as a means of recovering both Pokémon and Energy cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 12
+4 Silicobra SSH 107
+4 Sandaconda BST 82
+3 Gossifleur SSH 20
+1 Kricketune V BST 6
+Trainer Cards - 22
+4 Peony CRE 150
+4 Evolution Incense SSH 163
+4 Level Ball BST 129
+4 Pokégear 3.0 SSH 174
+2 Air Balloon SSH 156
+2 Energy Recycler GRI 123
+2 Ordinary Rod SSH 171
+Energy - 26
+26 Fighting Energy SWSHEnergy 6
+```
 
-### Example Deck List
-
-**Pokémon - 12** 4 Silicobra SSH 107 4 Sandaconda BST 82 3 Gossifleur SSH 20 1 Kricketune V BST 6
-
-**Trainer Cards - 22** 4 Peony CRE 150 4 Evolution Incense SSH 163 4 Level Ball BST 129 4 Pokégear 3.0 SSH 174 2 Air Balloon SSH 156 2 Energy Recycler GRI 123 2 Ordinary Rod SSH 171
-
-**Energy - 26** 26 Fighting Energy SWSHEnergy 6
-
-</div></div><div class="jb-code-container">
-    <div id="sandacondavmax" class="deck_box">
-  <h2>Sandaconda VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. aky CG Works](/images/sandaconda-vmax.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="sandacondavmax" name="Sandaconda VMAX" image="/images/sandaconda-vmax.webp" illus="aky CG Works" sublabel="Competitive Potential: None"}
 
 ### BASIC STRATEGY
 
@@ -1490,28 +1738,40 @@ Bench Sandaconda V and Sobble on your first turn, attacking using Sandaconda V�
 
 - [Path to the Peak](https://limitlesstcg.com/cards/CRE/148/) both to slow your opponent’s setup and to hinder their recovery after knockouts.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+3 Sandaconda V RCL 108
+1 Sandaconda V CRE 89
+3 Sandaconda VMAX CRE 90
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+Trainer Cards - 33
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Cheryl BST 123
+1 Bird Keeper DAA 159
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+3 Switch SSH 183
+3 Telescopic Sight VIV 160
+2 Scoop Up Net RCL 165
+1 Energy Search SSH 161
+1 Escape Rope BST 125
+1 Pal Pad SSH 172
+Energy - 9
+5 Fighting Energy SWSHEnergy 6
+4 Stone Fighting Energy VIV 164
+```
 
-### Example Deck List
-
-**Pokémon - 18** 3 Sandaconda V RCL 108 1 Sandaconda V CRE 89 3 Sandaconda VMAX CRE 90 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58
-
-**Trainer Cards - 33** 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Cheryl BST 123 1 Bird Keeper DAA 159 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Level Ball BST 129 3 Switch SSH 183 3 Telescopic Sight VIV 160 2 Scoop Up Net RCL 165 1 Energy Search SSH 161 1 Escape Rope BST 125 1 Pal Pad SSH 172
-
-**Energy - 9** 5 Fighting Energy SWSHEnergy 6 4 Stone Fighting Energy VIV 164
-
-</div></div><div class="jb-code-container">
-    <div id="gsirfetchdrcl" class="deck_box">
-  <h2>Galarian Sirfetch'd RCL</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. You Iribi](/images/sirfetched.webp)
-
-*Illus. You Iribi*
+::::
 
 
+
+::::deck{id="gsirfetchdrcl" name="Galarian Sirfetch'd RCL" image="/images/sirfetched.webp" illus="You Iribi" sublabel="Competitive Potential: None"}
 
 ### BASIC STRATEGY
 
@@ -1527,28 +1787,39 @@ Set up by benching both Sobble and Galarian Farfetch’d, preparing to evolve in
 - [Path to the Peak](https://limitlesstcg.com/cards/CRE/148/) both to slow your opponent’s setup and to hinder their recovery after knockouts.
 - [Galarian Sirfetch’d V SWSH043](https://limitlesstcg.com/cards/SSP/43/) to take advantage of its Resolute Spear ability and its Meteor Smash attack to finish off damaged opposing Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Galarian Farfetch'd RCL 94
+4 Galarian Sirfetch'd RCL 95
+3 Sobble CRE 41
+3 Drizzile SSH 56
+1 Inteleon SSH 58
+1 Crobat V DAA 104
+Trainer Cards - 33
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+1 Piers CPA 58
+1 Raihan EVS 152
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Ordinary Rod SSH 171
+2 Scoop Up Net RCL 165
+1 Energy Search SSH 161
+Energy - 11
+7 Fighting Energy SWSHEnergy 6
+4 Twin Energy RCL 174
+```
 
-### Example Deck List
-
-**Pokémon - 16** 4 Galarian Farfetch'd RCL 94 4 Galarian Sirfetch'd RCL 95 3 Sobble CRE 41 3 Drizzile SSH 56 1 Inteleon SSH 58 1 Crobat V DAA 104
-
-**Trainer Cards - 33** 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Bird Keeper DAA 159 2 Boss's Orders RCL 154 1 Piers CPA 58 1 Raihan EVS 152 4 Quick Ball SSH 179 4 Switch SSH 183 3 Evolution Incense SSH 163 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Ordinary Rod SSH 171 2 Scoop Up Net RCL 165 1 Energy Search SSH 161
-
-**Energy - 11** 7 Fighting Energy SWSHEnergy 6 4 Twin Energy RCL 174
-
-</div></div><div class="jb-code-container">
-    <div id="gsirfetchdcre" class="deck_box">
-  <h2>Galarian Sirfetch'd CRE</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Uta](/images/sirfetchd.webp)
-
-*Illus. Uta*
+::::
 
 
+
+::::deck{id="gsirfetchdcre" name="Galarian Sirfetch'd CRE" image="/images/sirfetchd.webp" illus="Uta" sublabel="Competitive Potential: None"}
 
 ### BASIC STRATEGY
 
@@ -1564,28 +1835,38 @@ Bench and evolve Houndour and Galarian Farfetch’d into Houndoom and Galarian S
 
 - Basic Fighting Energy and [Raihan](https://limitlesstcg.com/cards/jp/S7D/63/), as a means both to quickly accelerate the required Fighting Energy and as a means of searching out Twin Energy from the deck.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Galarian Farfetch'd CRE 78
+4 Galarian Sirfetch'd CRE 79
+4 Houndour BST 95
+3 Houndoom BST 96
+2 Crobat V DAA 104
+1 Seviper CRE 102
+Trainer Cards - 33
+4 Professor's Research CPA 62
+3 Bruno BST 121
+2 Boss's Orders RCL 154
+1 Karen's Conviction CRE 144
+4 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+3 Air Balloon SSH 156
+2 Level Ball BST 129
+2 Lucky Egg SSH 167
+2 Ordinary Rod SSH 171
+2 Urn of Vitality BST 139
+2 Vitality Band SSH 185
+2 Welcoming Lantern CRE 156
+Energy - 8
+4 Single Strike Energy BST 141
+4 Twin Energy RCL 174
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Galarian Farfetch'd CRE 78 4 Galarian Sirfetch'd CRE 79 4 Houndour BST 95 3 Houndoom BST 96 2 Crobat V DAA 104 1 Seviper CRE 102
-
-**Trainer Cards - 33** 4 Professor's Research CPA 62 3 Bruno BST 121 2 Boss's Orders RCL 154 1 Karen's Conviction CRE 144 4 Evolution Incense SSH 163 4 Quick Ball SSH 179 3 Air Balloon SSH 156 2 Level Ball BST 129 2 Lucky Egg SSH 167 2 Ordinary Rod SSH 171 2 Urn of Vitality BST 139 2 Vitality Band SSH 185 2 Welcoming Lantern CRE 156
-
-**Energy - 8** 4 Single Strike Energy BST 141 4 Twin Energy RCL 174
-
-</div></div><div class="jb-code-container">
-    <div id="stonjournervmax" class="deck_box">
-  <h2>Stonjourner VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/stonjourner-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="stonjournervmax" name="Stonjourner VMAX" image="/images/stonjourner-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: None"}
 
 ### BASIC STRATEGY
 
@@ -1599,17 +1880,36 @@ Evolve Stonjourner V into Stonjourner VMAX, healing it with its Stone Gift attac
 
 - [Hyper Potion](https://limitlesstcg.com/cards/SSH/166/) as another means of healing off damage.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Stonjourner V SSH 115
+3 Stonjourner VMAX SSH 116
+3 Snorlax VIV 131
+2 Galarian Zapdos EVS 82
+2 Crobat V DAA 104
+1 Eldegoss V RCL 19
+1 Galarian Sirfetch'd V SWSH043
+Trainer Cards - 32
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+1 Cheryl BST 123
+4 Energy Switch SSH 162
+4 Quick Ball SSH 179
+3 Scoop Up Net RCL 165
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Big Charm SSH 158
+2 Evolution Incense SSH 163
+Energy - 12
+9 Fighting Energy SWSHEnergy 6
+3 Stone Fighting Energy VIV 164
+```
 
-### Example Deck List
+::::
 
-**Pokémon - 16** 4 Stonjourner V SSH 115 3 Stonjourner VMAX SSH 116 3 Snorlax VIV 131 2 Galarian Zapdos EVS 82 2 Crobat V DAA 104 1 Eldegoss V RCL 19 1 Galarian Sirfetch'd V SWSH043
-
-**Trainer Cards - 32** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Bird Keeper DAA 159 2 Boss's Orders RCL 154 1 Cheryl BST 123 4 Energy Switch SSH 162 4 Quick Ball SSH 179 3 Scoop Up Net RCL 165 3 Switch SSH 183 2 Air Balloon SSH 156 2 Big Charm SSH 158 2 Evolution Incense SSH 163
-
-**Energy - 12** 9 Fighting Energy SWSHEnergy 6 3 Stone Fighting Energy VIV 164
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="rsurshifuvmax" class="deck_box">
   <h2>Rapid Strike Urshifu VMAX</h2>
   <p class="jb-deckbox-sublabel">Competitive Potential: Highly Competitive</p>
@@ -1776,18 +2076,9 @@ Source: [Anthony Alvarez (via Joey G)](https://twitter.com/JoeyREDSs/status/1382
 
 - [Rahul Reddy’s version of this archetype](https://www.youtube.com/watch?v=RKG5VvurS6U)
 
-</div></div><div class="jb-code-container">
-    <div id="sableyev" class="deck_box">
-  <h2>Sableye V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![Illus. Eske Yoshinob](/images/sableye-v.webp)
-
-*Illus. Eske Yoshinob*
-
-
+::::deck{id="sableyev" name="Sableye V" image="/images/sableye-v.webp" illus="Eske Yoshinob" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1804,28 +2095,36 @@ Pile on damage using Galarian Zigzagoon’s Headbutt Tantrum ability and Flapple
 
 - [Raihan](https://limitlesstcg.com/cards/jp/S7D/63/) as an additional means of powering up a Sableye V and as a universal search option after one of your Pokémon has been knocked out.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Applin RCL 21
+4 Flapple RCL 22
+4 Sableye V SSH 120
+2 Crobat V DAA 104
+2 Galarian Moltres V CRE 97
+2 Galarian Zigzagoon SSH 117
+Trainer Cards - 32
+4 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Energy Switch SSH 162
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Exp. Share BST 126
+2 Great Ball CPA 52
+2 Switch SSH 183
+1 Ordinary Rod SSH 171
+3 Turffield Stadium CPA 68
+Energy - 10
+8 Darkness Energy SWSHEnergy 7
+2 Hiding Darkness Energy DAA 175
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Applin RCL 21 4 Flapple RCL 22 4 Sableye V SSH 120 2 Crobat V DAA 104 2 Galarian Moltres V CRE 97 2 Galarian Zigzagoon SSH 117
-
-**Trainer Cards - 32** 4 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Energy Switch SSH 162 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Exp. Share BST 126 2 Great Ball CPA 52 2 Switch SSH 183 1 Ordinary Rod SSH 171 3 Turffield Stadium CPA 68
-
-**Energy - 10** 8 Darkness Energy SWSHEnergy 7 2 Hiding Darkness Energy DAA 175
-
-</div></div><div class="jb-code-container">
-    <div id="malamarvmax" class="deck_box">
-  <h2>Malamar VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/malamar-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="malamarvmax" name="Malamar VMAX" image="/images/malamar-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1841,28 +2140,36 @@ Bench Malamar V and evolve it into Malamar VMAX when possible. Meanwhile, bench 
 
 - [Spirit Mask](https://limitlesstcg.com/cards/jp/S7R/61/) as a bit of additional hand disruption.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+3 Galarian Moltres V CRE 97
+3 Malamar V RCL 121
+3 Malamar VMAX RCL 122
+3 Nickit SSH 125
+3 Thievul EVS 105
+2 Galarian Moltres EVS 93
+2 Crobat V DAA 104
+1 Eldegoss V RCL 19
+Trainer Cards - 29
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+4 Crushing Hammer SSH 159
+4 Energy Switch SSH 162
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Scoop Up Net RCL 165
+2 Air Balloon SSH 156
+Energy - 11
+8 Fighting Energy SWSHEnergy 6
+3 Hiding Darkness Energy DAA 175
+```
 
-### Example Deck List
-
-**Pokémon - 20** 3 Galarian Moltres V CRE 97 3 Malamar V RCL 121 3 Malamar VMAX RCL 122 3 Nickit SSH 125 3 Thievul EVS 105 2 Galarian Moltres EVS 93 2 Crobat V DAA 104 1 Eldegoss V RCL 19
-
-**Trainer Cards - 29** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 4 Crushing Hammer SSH 159 4 Energy Switch SSH 162 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Scoop Up Net RCL 165 2 Air Balloon SSH 156
-
-**Energy - 11** 8 Fighting Energy SWSHEnergy 6 3 Hiding Darkness Energy DAA 175
-
-</div></div><div class="jb-code-container">
-    <div id="eternatusvmax" class="deck_box">
-  <h2>Eternatus VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/eternatus-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="eternatusvmax" name="Eternatus VMAX" image="/images/eternatus-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Moderate"}
 
 ### BASIC STRATEGY
 
@@ -1880,33 +2187,40 @@ Play down available Pokémon to fill the bench by the end of your second turn, u
 - [Liepard CRE 104](https://limitlesstcg.com/cards/CRE/104/) as a tool-countering option, especially to get rid of pesky HP-boosting or damage reducing tools like [Big Charm](https://limitlesstcg.com/cards/SSH/158/) and [Cape of Toughness](https://limitlesstcg.com/cards/daa/160/).
 - [Phoebe](https://limitlesstcg.com/cards/bst/130/) to cut through walling Pokémon, like [Decidueye DAA 13](https://limitlesstcg.com/cards/DAA/13/).
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 20** 4 Crobat V DAA 104 4 Eternatus V DAA 116 4 Eternatus VMAX DAA 117 3 Umbreon V EVS 94 2 Umbreon VMAX EVS 95 2 Galarian Moltres V CRE 97 1 Hoopa DAA 111
-
-**Trainer Cards - 30** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 3 Marnie CPA 56 4 Energy Switch SSH 162 4 Great Ball CPA 52 4 Quick Ball SSH 179 4 Switch SSH 183 3 Evolution Incense SSH 163 1 Escape Rope BST 125
-
-**Energy - 10** 8 Darkness Energy SWSHEnergy 7 2 Hiding Darkness Energy DAA 175
+```decklist
+Pokémon - 20
+4 Crobat V DAA 104
+4 Eternatus V DAA 116
+4 Eternatus VMAX DAA 117
+3 Umbreon V EVS 94
+2 Umbreon VMAX EVS 95
+2 Galarian Moltres V CRE 97
+1 Hoopa DAA 111
+Trainer Cards - 30
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+4 Energy Switch SSH 162
+4 Great Ball CPA 52
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Evolution Incense SSH 163
+1 Escape Rope BST 125
+Energy - 10
+8 Darkness Energy SWSHEnergy 7
+2 Hiding Darkness Energy DAA 175
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=xpnuqs0lJm0)
 - [TrainerChip’s version of this archetype](https://www.youtube.com/watch?v=3l6-hOd7Zc8)
 
-</div></div><div class="jb-code-container">
-    <div id="ssurshifu" class="deck_box">
-  <h2>Single Strike Urshifu</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Mitsuhiro Arita](/images/ss-urshifu-07f47a.webp)
-
-*Illus. Mitsuhiro Arita*
+::::
 
 
+
+::::deck{id="ssurshifu" name="Single Strike Urshifu" image="/images/ss-urshifu-07f47a.webp" illus="Mitsuhiro Arita" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1922,28 +2236,37 @@ Bench and evolve Houndour and Kubfu into Houndoom and Single Strike Urshifu, res
 
 - [Dialga EVS 112](https://www.serebii.net/card/skyscrapingperfect/041.shtml) as a stalling option against Pokémon V, including Pokémon VMAX.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Houndour BST 95
+4 Houndoom BST 96
+4 Kubfu CRE 93
+4 Single Strike Urshifu CRE 108
+1 Crobat V DAA 104
+1 Stonjourner BST 84
+Trainer Cards - 32
+4 Bruno BST 121
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Zinnia's Resolve EVS 164
+4 Quick Ball SSH 179
+4 Urn of Vitality BST 139
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Level Ball BST 129
+2 Ordinary Rod SSH 171
+4 Tower of Darkness BST 137
+Energy - 10
+4 Single Strike Energy BST 141
+4 Capture Energy RCL 171
+2 Darkness Energy SWSHEnergy 7
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Houndour BST 95 4 Houndoom BST 96 4 Kubfu CRE 93 4 Single Strike Urshifu CRE 108 1 Crobat V DAA 104 1 Stonjourner BST 84
-
-**Trainer Cards - 32** 4 Bruno BST 121 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Zinnia's Resolve EVS 164 4 Quick Ball SSH 179 4 Urn of Vitality BST 139 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Level Ball BST 129 2 Ordinary Rod SSH 171 4 Tower of Darkness BST 137
-
-**Energy - 10** 4 Single Strike Energy BST 141 4 Capture Energy RCL 171 2 Darkness Energy SWSHEnergy 7
-
-</div></div><div class="jb-code-container">
-    <div id="corviknightvmax" class="deck_box">
-  <h2>Corviknight VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Mochizuki](/images/corviknight.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="corviknightvmax" name="Corviknight VMAX" image="/images/corviknight.webp" illus="PLANETA Mochizuki" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -1961,28 +2284,33 @@ Bench Bronzor and Corviknight V and evolve them as early as possible. Attach ene
 - [Aegislash V VIV 126](https://limitlesstcg.com/cards/VIV/126/) to cut through walling Pokémon, like [Decidueye DAA 13](https://limitlesstcg.com/cards/DAA/13/).
 - [Zamazenta V SSH 139](https://limitlesstcg.com/cards/DAA/13/) as a wall against Pokémon VMAX, to slow them down as necessary.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Bronzor BST 101
+3 Bronzong BST 102
+4 Corviknight V BST 109
+3 Corviknight VMAX BST 110
+4 Zacian V SSH 138
+Trainer Cards - 29
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+3 Cheryl BST 123
+3 Marnie CPA 56
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Evolution Incense SSH 163
+1 Air Balloon SSH 156
+Energy - 13
+10 Metal Energy SWSHEnergy 8
+3 Coating Metal Energy VIV 163
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Bronzor BST 101 3 Bronzong BST 102 4 Corviknight V BST 109 3 Corviknight VMAX BST 110 4 Zacian V SSH 138
-
-**Trainer Cards - 29** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 3 Cheryl BST 123 3 Marnie CPA 56 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 4 Switch SSH 183 3 Evolution Incense SSH 163 1 Air Balloon SSH 156
-
-**Energy - 13** 10 Metal Energy SWSHEnergy 8 3 Coating Metal Energy VIV 163
-
-</div></div><div class="jb-code-container">
-    <div id="copperajah" class="deck_box">
-  <h2>Copperajah</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Hitoshi Ariga](/images/copperajah.webp)
-
-*Illus. Hitoshi Ariga*
+::::
 
 
+
+::::deck{id="copperajah" name="Copperajah" image="/images/copperajah.webp" illus="Hitoshi Ariga" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -2001,28 +2329,34 @@ Bench Bronzor and Cufant and evolve them as early as possible. Attach energy wit
 - [Big Charm](https://limitlesstcg.com/cards/ssh/158/) to make it more difficult for decks that float around the 170-190 damage output range to take knockouts against Copperajah.
 - [Cheryl](https://limitlesstcg.com/cards/bst/123/) to heal off damage from your Copperajah, punishing your opponent when they fail to take a knockout.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Cufant SSH 136
+3 Copperajah SSH 137
+3 Bronzor BST 101
+3 Bronzong BST 102
+3 Zacian V SSH 138
+Trainer Cards - 31
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+4 Scoop Up Net RCL 165
+4 Switch SSH 183
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+1 Escape Rope BST 125
+Energy - 13
+10 Metal Energy SWSHEnergy 8
+3 Coating Metal Energy VIV 163
+```
 
-### Example Deck List
-
-**Pokémon - 16** 4 Cufant SSH 136 3 Copperajah SSH 137 3 Bronzor BST 101 3 Bronzong BST 102 3 Zacian V SSH 138
-
-**Trainer Cards - 31** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 4 Scoop Up Net RCL 165 4 Switch SSH 183 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 1 Escape Rope BST 125
-
-**Energy - 13** 10 Metal Energy SWSHEnergy 8 3 Coating Metal Energy VIV 163
-
-</div></div><div class="jb-code-container">
-    <div id="copperajahvmax" class="deck_box">
-  <h2>Copperajah VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/copperajah-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="copperajahvmax" name="Copperajah VMAX" image="/images/copperajah-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -2040,28 +2374,36 @@ Bench Bronzor and Copperajah V and evolve them as early as possible. Attach ener
 - [Aegislash V VIV 126](https://limitlesstcg.com/cards/VIV/126/) to cut through walling Pokémon, like [Decidueye DAA 13](https://limitlesstcg.com/cards/DAA/13/).
 - [Zamazenta V SSH 139](https://limitlesstcg.com/cards/DAA/13/) as a wall against Pokémon VMAX, to slow them down as necessary.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Zacian V SSH 138
+3 Bronzor BST 101
+3 Bronzong BST 102
+3 Copperajah V RCL 136
+3 Copperajah VMAX RCL 137
+Trainer Cards - 31
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Cheryl BST 123
+1 Bird Keeper DAA 159
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Big Charm SSH 158
+2 Evolution Incense SSH 163
+1 Escape Rope BST 125
+Energy - 13
+10 Metal Energy SWSHEnergy 8
+3 Coating Metal Energy VIV 163
+```
 
-### Example Deck List
-
-**Pokémon - 16** 4 Zacian V SSH 138 3 Bronzor BST 101 3 Bronzong BST 102 3 Copperajah V RCL 136 3 Copperajah VMAX RCL 137
-
-**Trainer Cards - 31** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Cheryl BST 123 1 Bird Keeper DAA 159 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 3 Switch SSH 183 2 Air Balloon SSH 156 2 Big Charm SSH 158 2 Evolution Incense SSH 163 1 Escape Rope BST 125
-
-**Energy - 13** 10 Metal Energy SWSHEnergy 8 3 Coating Metal Energy VIV 163
-
-</div></div><div class="jb-code-container">
-    <div id="zacianv" class="deck_box">
-  <h2>Zacian V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Highly Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/zacian-v.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="zacianv" name="Zacian V" image="/images/zacian-v.webp" illus="5ban Graphics" sublabel="Competitive Potential: Highly Competitive"}
 
 ### BASIC STRATEGY
 
@@ -2078,22 +2420,40 @@ Play down Sobble and Zacian V and attach energy to Zacian V via manual attachmen
 - [Leon](https://limitlesstcg.com/cards/viv/154/) and/or [Rusted Sword](https://limitlesstcg.com/cards/SHF/62/) as an additional means of boosting the damage of Zacian V’s Brave Blade attack when necessary.
 - [Crystal Cave](https://limitlesstcg.com/cards/jp/S7D/66/) in place of [Circhester Bath](https://limitlesstcg.com/cards/VIV/150/) to heal off damage from each of your Zacian V.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 14** 4 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 4 Zacian V SSH 138
-
-**Trainer Cards - 35** 3 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Bird Keeper DAA 159 4 Level Ball BST 129 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 4 Switch SSH 183 2 Air Balloon SSH 156 2 Cape of Toughness DAA 160 2 Evolution Incense SSH 163 1 Energy Search SSH 161 1 Escape Rope BST 125 2 Circhester Bath VIV 150
-
-**Energy - 11** 11 Metal Energy SWSHEnergy 8
+```decklist
+Pokémon - 14
+4 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+4 Zacian V SSH 138
+Trainer Cards - 35
+3 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Bird Keeper DAA 159
+4 Level Ball BST 129
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+4 Switch SSH 183
+2 Air Balloon SSH 156
+2 Cape of Toughness DAA 160
+2 Evolution Incense SSH 163
+1 Energy Search SSH 161
+1 Escape Rope BST 125
+2 Circhester Bath VIV 150
+Energy - 11
+11 Metal Energy SWSHEnergy 8
+```
 
 ### Alternate Lists
 
 - [Tricky Gym’s version of this archetype](https://www.youtube.com/watch?v=6qpcegTL8jM)
 - [Peter Kica’s version of this archetype](https://twitter.com/PeterJoltik/status/1424160280884523011/photo/1)
 
-</div></div><div class="jb-code-container">
+::::
+
+<div class="jb-code-container">
     <div id="zamazentav" class="deck_box">
   <h2>Zamazenta V</h2>
   <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
@@ -2132,18 +2492,9 @@ Source: [Brandon Macleod](https://twitter.com/Brand0Macleod/status/1428515663581
 
 **Energy - 11** 9 Metal Energy SWSHEnergy 8 2 Capture Energy RCL 171
 
-</div></div><div class="jb-code-container">
-    <div id="dragonitev" class="deck_box">
-  <h2>Dragonite V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![Illus. Saki Hayashiro](/images/dragonite-v.webp)
-
-*Illus. Saki Hayashiro*
-
-
+::::deck{id="dragonitev" name="Dragonite V" image="/images/dragonite-v.webp" illus="Saki Hayashiro" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -2160,28 +2511,39 @@ Play down Dragonite V and Snorunt, and over the course of the game, play down an
 - [Flapple EVS 120](https://limitlesstcg.com/cards/jp/S7R/50/) or [Appletun EVS 121](https://limitlesstcg.com/cards/jp/S7R/51/) as alternate attackers that deal 50 damage for each Pokémon with an ability and 70 damage for each Special Energy attached to your opponent’s Pokémon, respectively.
 - [Raihan](https://limitlesstcg.com/cards/jp/S7D/63/) as a means of Energy recovery and as a universal search option after one of your Pokémon is knocked out.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Dragonite V EVS 191
+3 Sobble CRE 41
+3 Drizzile SSH 56
+1 Inteleon SSH 58
+2 Snorunt CRE 35
+2 Froslass CRE 36
+1 Suicune V EVS 31
+Trainer Cards - 32
+4 Melony CRE 146
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+4 Quick Ball SSH 179
+3 Scoop Up Net RCL 165
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Capacious Bucket RCL 156
+2 Energy Search SSH 161
+2 Switch SSH 183
+1 Air Balloon SSH 156
+1 Ordinary Rod SSH 171
+Energy - 12
+8 Water Energy SWSHEnergy 3
+4 Lightning Energy SWSHEnergy 4
+```
 
-### Example Deck List
-
-**Pokémon - 16** 4 Dragonite V EVS 191 3 Sobble CRE 41 3 Drizzile SSH 56 1 Inteleon SSH 58 2 Snorunt CRE 35 2 Froslass CRE 36 1 Suicune V EVS 31
-
-**Trainer Cards - 32** 4 Melony CRE 146 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Marnie CPA 56 4 Quick Ball SSH 179 3 Scoop Up Net RCL 165 3 Evolution Incense SSH 163 3 Level Ball BST 129 2 Capacious Bucket RCL 156 2 Energy Search SSH 161 2 Switch SSH 183 1 Air Balloon SSH 156 1 Ordinary Rod SSH 171
-
-**Energy - 12** 8 Water Energy SWSHEnergy 3 4 Lightning Energy SWSHEnergy 4
-
-</div></div><div class="jb-code-container">
-    <div id="rayquazavmax" class="deck_box">
-  <h2>Rayquaza VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Mochizuki](/images/rayquaza-vmax-79e201.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="rayquazavmax" name="Rayquaza VMAX" image="/images/rayquaza-vmax-79e201.webp" illus="PLANETA Mochizuki" sublabel="Competitive Potential: Moderate"}
 
 ### Basic Strategy
 
@@ -2201,15 +2563,32 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 - [Tower of Waters](https://limitlesstcg.com/cards/bst/138/) as an additional retreating option and counter to the hostile stadium, [Path to the Peak](https://limitlesstcg.com/cards/cre/148/).
 - [Pokémon Breeder’s Nurturing](https://limitlesstcg.com/cards/DAA/166/) as an additional out to evolving Mareep into Flaaffy and Rayquaza V into Rayquaza VMAX.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 17** 4 Mareep DAA 55 3 Flaaffy EVS 55 3 Rayquaza V EVS 110 3 Rayquaza VMAX EVS 111 2 Snorlax VIV 131 1 Crobat V DAA 104 1 Zeraora V CRE 53
-
-**Trainer Cards - 31** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Rose DAA 168 3 Air Balloon SSH 156 3 Evolution Incense SSH 163 3 Quick Ball SSH 179 3 Switch SSH 183 2 Level Ball BST 129 2 Ordinary Rod SSH 171 1 Energy Search SSH 161 3 Stormy Mountains EVS 161
-
-**Energy - 12** 8 Lightning Energy SWSHEnergy 4 4 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 17
+4 Mareep DAA 55
+3 Flaaffy EVS 55
+3 Rayquaza V EVS 110
+3 Rayquaza VMAX EVS 111
+2 Snorlax VIV 131
+1 Crobat V DAA 104
+1 Zeraora V CRE 53
+Trainer Cards - 31
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Rose DAA 168
+3 Air Balloon SSH 156
+3 Evolution Incense SSH 163
+3 Quick Ball SSH 179
+3 Switch SSH 183
+2 Level Ball BST 129
+2 Ordinary Rod SSH 171
+1 Energy Search SSH 161
+3 Stormy Mountains EVS 161
+Energy - 12
+8 Lightning Energy SWSHEnergy 4
+4 Fire Energy SWSHEnergy 2
+```
 
 ### Alternate Lists
 
@@ -2217,18 +2596,11 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=4VrAVpuykow)
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=NbmXb6bK6jg)
 
-</div></div><div class="jb-code-container">
-    <div id="duraludonvmax" class="deck_box">
-  <h2>Duraludon VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. PLANETA Mochizuki](/images/duraludon-vmax.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="duraludonvmax" name="Duraludon VMAX" image="/images/duraludon-vmax.webp" illus="PLANETA Mochizuki" sublabel="Competitive Potential: Minimal"}
 
 ### BASIC STRATEGY
 
@@ -2246,32 +2618,38 @@ Bench Bronzor and Duraludon V and evolve them as early as possible. Attach energ
 - [Aegislash V VIV 126](https://limitlesstcg.com/cards/VIV/126/) to cut through walling Pokémon, like [Decidueye DAA 13](https://limitlesstcg.com/cards/DAA/13/).
 - [Zamazenta V SSH 139](https://limitlesstcg.com/cards/DAA/13/) as a wall against Pokémon VMAX, to slow them down as necessary.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 19** 4 Duraludon V CPA 47 3 Duraludon VMAX EVS 123 4 Zacian V SSH 138 3 Bronzor RCL 129 2 Bronzong BST 102 2 Crobat V DAA 104 1 Galarian Zapdos V CRE 80
-
-**Trainer Cards - 28** 4 Marnie CPA 56 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 2 Cheryl BST 123 4 Evolution Incense SSH 163 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 3 Switch SSH 183
-
-**Energy - 13** 9 Metal Energy SWSHEnergy 8 4 Aurora Energy SSH 186
+```decklist
+Pokémon - 19
+4 Duraludon V CPA 47
+3 Duraludon VMAX EVS 123
+4 Zacian V SSH 138
+3 Bronzor RCL 129
+2 Bronzong BST 102
+2 Crobat V DAA 104
+1 Galarian Zapdos V CRE 80
+Trainer Cards - 28
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+2 Cheryl BST 123
+4 Evolution Incense SSH 163
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+3 Switch SSH 183
+Energy - 13
+9 Metal Energy SWSHEnergy 8
+4 Aurora Energy SSH 186
+```
 
 ### Alternate Lists
 
 - [Tablemon’s version of this archetype](https://www.youtube.com/watch?v=WZi-QnzSsz8)
 
-</div></div><div class="jb-code-container">
-    <div id="regidrago" class="deck_box">
-  <h2>Regidrago</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Kouki Saitou](/images/regidrago.webp)
-
-*Illus. Kouki Saitou*
+::::
 
 
+
+::::deck{id="regidrago" name="Regidrago" image="/images/regidrago.webp" illus="Kouki Saitou" sublabel="Competitive Potential: Moderate"}
 
 ### BASIC STRATEGY
 
@@ -2292,32 +2670,40 @@ Bench Regidrago and Cherubi, and evolve Cherubi into Cherrim as early as possibl
 - [Raihan](https://limitlesstcg.com/cards/jp/S7D/63/) as a means of Energy recovery and as a universal search option after one of your Pokémon is knocked out.
 - [Scoop Up Net](https://limitlesstcg.com/cards/RCL/165/) as both a pseudo-switch and pseudo-healing card for Regidrago, especially, to clear off any damage that may be hampering its Dragon Energy attack’s damage output.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 13** 4 Regidrago EVS 124 3 Cherubi BST 7 3 Cherrim BST 8 2 Jirachi VIV 119 1 Crobat V DAA 104
-
-**Trainer Cards - 34** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Exp. Share BST 126 3 Switch SSH 183 2 Air Balloon SSH 156 2 Energy Retrieval SSH 160 2 Energy Search SSH 161 2 Ordinary Rod SSH 171 3 Stormy Mountains EVS 161
-
-**Energy - 13** 9 Grass Energy SWSHEnergy 1 4 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 13
+4 Regidrago EVS 124
+3 Cherubi BST 7
+3 Cherrim BST 8
+2 Jirachi VIV 119
+1 Crobat V DAA 104
+Trainer Cards - 34
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Exp. Share BST 126
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Energy Retrieval SSH 160
+2 Energy Search SSH 161
+2 Ordinary Rod SSH 171
+3 Stormy Mountains EVS 161
+Energy - 13
+9 Grass Energy SWSHEnergy 1
+4 Fire Energy SWSHEnergy 2
+```
 
 ### Alternate Lists
 
 - [Rare Candy’s version of this archetype](https://www.youtube.com/watch?v=B5oy3o3QKF4)
 
-</div></div><div class="jb-code-container">
-    <div id="smeargle" class="deck_box">
-  <h2>Smeargle</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Kouki Saitou](/images/smeargle.webp)
-
-*Illus. Kouki Saitou*
+::::
 
 
+
+::::deck{id="smeargle" name="Smeargle" image="/images/smeargle.webp" illus="Kouki Saitou" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -2337,28 +2723,44 @@ Build up your board by playing down Gossifleur and using its Call for Family att
 - [Energy Recycler](https://limitlesstcg.com/cards/bst/124/) to recover discarded Energy cards in the mid to late game.
 - [Energy Search](https://limitlesstcg.com/cards/SSH/161/) to help find the necessary Energy cards necessary to take knockouts against your opponent’s Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Smeargle EVS 128
+4 Gossifleur SSH 20
+3 Eldegoss EVS 16
+2 Crobat V DAA 104
+2 Jirachi VIV 119
+Trainer Cards - 33
+4 Bruno BST 121
+4 Raihan EVS 152
+2 Boss's Orders RCL 154
+2 Zinnia's Resolve EVS 164
+1 Klara CRE 145
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+3 Pokégear 3.0 SSH 174
+2 Air Balloon SSH 156
+2 Lucky Egg SSH 167
+2 Ordinary Rod SSH 171
+1 Energy Retrieval SSH 160
+2 Turffield Stadium CPA 68
+Energy - 12
+4 Twin Energy RCL 174
+1 Grass Energy SWSHEnergy 1
+1 Fire Energy SWSHEnergy 2
+1 Water Energy SWSHEnergy 3
+1 Lightning Energy SWSHEnergy 4
+1 Psychic Energy SWSHEnergy 5
+1 Fighting Energy SWSHEnergy 6
+1 Darkness Energy SWSHEnergy 7
+1 Metal Energy SWSHEnergy 8
+```
 
-### Example Deck List
-
-**Pokémon - 15** 4 Smeargle EVS 128 4 Gossifleur SSH 20 3 Eldegoss EVS 16 2 Crobat V DAA 104 2 Jirachi VIV 119
-
-**Trainer Cards - 33** 4 Bruno BST 121 4 Raihan EVS 152 2 Boss's Orders RCL 154 2 Zinnia's Resolve EVS 164 1 Klara CRE 145 4 Level Ball BST 129 4 Quick Ball SSH 179 3 Pokégear 3.0 SSH 174 2 Air Balloon SSH 156 2 Lucky Egg SSH 167 2 Ordinary Rod SSH 171 1 Energy Retrieval SSH 160 2 Turffield Stadium CPA 68
-
-**Energy - 12** 4 Twin Energy RCL 174 1 Grass Energy SWSHEnergy 1 1 Fire Energy SWSHEnergy 2 1 Water Energy SWSHEnergy 3 1 Lightning Energy SWSHEnergy 4 1 Psychic Energy SWSHEnergy 5 1 Fighting Energy SWSHEnergy 6 1 Darkness Energy SWSHEnergy 7 1 Metal Energy SWSHEnergy 8
-
-</div></div><div class="jb-code-container">
-    <div id="togekissvmax" class="deck_box">
-  <h2>Togekiss VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/togekiss-vmax.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="togekissvmax" name="Togekiss VMAX" image="/images/togekiss-vmax.webp" illus="5ban Graphics" sublabel="Competitive Potential: Minimal"}
 
 ### BASIC STRATEGY
 
@@ -2375,28 +2777,38 @@ Bench Bronzor and Togekiss V and evolve them as early as possible. Attach energy
 
 - [Aegislash V VIV 126](https://limitlesstcg.com/cards/VIV/126/) to cut through walling Pokémon, like [Decidueye DAA 13](https://limitlesstcg.com/cards/DAA/13/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Togekiss V VIV 140
+3 Togekiss VMAX VIV 141
+1 Crobat V DAA 104
+3 Bronzor RCL 129
+2 Bronzong BST 102
+3 Zacian V SSH 138
+1 Zamazenta V SSH 139
+1 Ditto V SHF 50
+Trainer Cards - 29
+4 Marnie CPA 56
+3 Cheryl BST 123
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+2 Big Charm SSH 158
+2 Evolution Incense SSH 163
+2 Escape Rope BST 125
+2 Switch SSH 183
+1 Pal Pad SSH 172
+Energy - 13
+9 Metal Energy SWSHEnergy 8
+4 Capture Energy RCL 171
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Togekiss V VIV 140 3 Togekiss VMAX VIV 141 1 Crobat V DAA 104 3 Bronzor RCL 129 2 Bronzong BST 102 3 Zacian V SSH 138 1 Zamazenta V SSH 139 1 Ditto V SHF 50
-
-**Trainer Cards - 29** 4 Marnie CPA 56 3 Cheryl BST 123 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 2 Big Charm SSH 158 2 Evolution Incense SSH 163 2 Escape Rope BST 125 2 Switch SSH 183 1 Pal Pad SSH 172
-
-**Energy - 13** 9 Metal Energy SWSHEnergy 8 4 Capture Energy RCL 171
-
-</div></div><div class="jb-code-container">
-    <div id="madparty" class="deck_box">
-  <h2>Mad Party</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Non-Competitive</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Tomokazu Komiya](/images/mad-party.webp)
-
-*Illus. Tomokazu Komiya*
+::::
 
 
+
+::::deck{id="madparty" name="Mad Party" image="/images/mad-party.webp" illus="Tomokazu Komiya" sublabel="Competitive Potential: Non-Competitive"}
 
 ### BASIC STRATEGY
 
@@ -2414,15 +2826,32 @@ Set up by benching Sinistea on early turns, discarding other Pokémon with the M
 
 - A fourth copy of [Raihan](https://limitlesstcg.com/cards/jp/S7D/63/) to ensure it is available as needed.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 24
+4 Bunnelby DAA 150
+4 Dedenne DAA 78
+4 Galarian Mr. Rime DAA 36
+4 Polteageist DAA 83
+3 Minccino SSH 145
+3 Cinccino SSH 147
+2 Sinistea DAA 82
+Trainer Cards - 27
+4 Professor's Research CPA 62
+3 Raihan EVS 152
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+1 Zinnia's Resolve EVS 164
+4 Evolution Incense SSH 163
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+2 Air Balloon SSH 156
+1 Rescue Carrier EVS 154
+Energy - 9
+5 Psychic Energy SWSHEnergy 5
+4 Twin Energy RCL 174
+```
 
-### Example Deck List
+::::
 
-**Pokémon - 24** 4 Bunnelby DAA 150 4 Dedenne DAA 78 4 Galarian Mr. Rime DAA 36 4 Polteageist DAA 83 3 Minccino SSH 145 3 Cinccino SSH 147 2 Sinistea DAA 82
 
-**Trainer Cards - 27** 4 Professor's Research CPA 62 3 Raihan EVS 152 2 Boss's Orders RCL 154 2 Marnie CPA 56 1 Zinnia's Resolve EVS 164 4 Evolution Incense SSH 163 4 Level Ball BST 129 4 Quick Ball SSH 179 2 Air Balloon SSH 156 1 Rescue Carrier EVS 154
-
-**Energy - 9** 5 Psychic Energy SWSHEnergy 5 4 Twin Energy RCL 174
-
-</div></div>
 

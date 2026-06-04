@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2023-08-10
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Selected Proxies</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-obsidian-flames-logo.webp" title="Selected Proxies"}
+
+<p class="jb-decklist-center">Learn more about Obsidian Flames by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv3">Set List</a> | 
@@ -22,9 +20,10 @@ publishDate: 2023-08-10
           <a class="blink" href="/new-decks/sv3">New Archetypes</a> | 
           <a href="/proxies/sv3">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below are proxies designed for testing new cards from Obsidian Flames for the upcoming Standard format. Not all cards in the set will appear in the selected proxies below. More proxies will be added as they are needed for archetype testing in the live streams on the [JustInBasil YouTube channel](https://www.youtube.com/channel/UCtgOKNZRDs8Atbj7j8VVKGw).
 
@@ -35,5 +34,58 @@ Use the PowerPoint method described in [the article on proxies](/guide/proxies) 
   <h2>Update</h2>
   <p class="jb-deckbox-body">Official English-language images are now available for Obsidian Flames. Click here to view those instead.</p>
 </div></a>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/oddish-fbd2f7.webp"><img src="/images/oddish-fbd2f7.webp" alt="Oddish.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gloom-db30bf.webp"><img src="/images/gloom-db30bf.webp" alt="Gloom.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bellossom-29c4d1.webp"><img src="/images/bellossom-29c4d1.webp" alt="Bellossom.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/scyther.webp"><img src="/images/scyther.webp" alt="Scyther.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/combee.webp"><img src="/images/combee.webp" alt="Combee.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/phantump.webp"><img src="/images/phantump.webp" alt="Phantump.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/trevenant.webp"><img src="/images/trevenant.webp" alt="Trevenant.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/toedscruel-ex.webp"><img src="/images/toedscruel-ex.webp" alt="Toedscruel ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charmander.webp"><img src="/images/charmander.webp" alt="Charmander.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charmeleon.webp"><img src="/images/charmeleon.webp" alt="Charmeleon.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/eiscue-ex-c9987b.webp"><img src="/images/eiscue-ex-c9987b.webp" alt="Eiscue ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/cryogonal.webp"><img src="/images/cryogonal.webp" alt="Cryogonal.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/finizen.webp"><img src="/images/finizen.webp" alt="Finizen.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/finizen-30.webp"><img src="/images/finizen-30.webp" alt="Finizen 30.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/palafin.webp"><img src="/images/palafin.webp" alt="Palafin.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tyranitar-ex-61f0a9.webp"><img src="/images/tyranitar-ex-61f0a9.webp" alt="Tyranitar ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pawmot-ex.webp"><img src="/images/pawmot-ex.webp" alt="Pawmot ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/lunatone.webp"><img src="/images/lunatone.webp" alt="Lunatone.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/baltoy.webp"><img src="/images/baltoy.webp" alt="Baltoy.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/claydol.webp"><img src="/images/claydol.webp" alt="Claydol.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/vespiquen-ex.webp"><img src="/images/vespiquen-ex.webp" alt="Vespiquen ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/houndstone-ex.webp"><img src="/images/houndstone-ex.webp" alt="Houndstone ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/larvitar.webp"><img src="/images/larvitar.webp" alt="Larvitar.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pupitar.webp"><img src="/images/pupitar.webp" alt="Pupitar.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/barboach.webp"><img src="/images/barboach.webp" alt="Barboach.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/whiscash.webp"><img src="/images/whiscash.webp" alt="Whiscash.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/charizard-ex-ad72f8.webp"><img src="/images/charizard-ex-ad72f8.webp" alt="Charizard ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/absol-ex-a5bb1d.webp"><img src="/images/absol-ex-a5bb1d.webp" alt="Absol ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv03-en-141.webp"><img src="/images/sv03-en-141.webp" alt="SV03_EN_141.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sv03-en-143.webp"><img src="/images/sv03-en-143.webp" alt="SV03_EN_143.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pawniard.webp"><img src="/images/pawniard.webp" alt="Pawniard.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/bisharp.webp"><img src="/images/bisharp.webp" alt="Bisharp.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/kingambit.webp"><img src="/images/kingambit.webp" alt="Kingambit.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/varoom-8db771.webp"><img src="/images/varoom-8db771.webp" alt="Varoom.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/revavroom-ex.webp"><img src="/images/revavroom-ex.webp" alt="Revavroom ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pidgey.webp"><img src="/images/pidgey.webp" alt="Pidgey.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pidgeotto.webp"><img src="/images/pidgeotto.webp" alt="Pidgeotto.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pidgeotto-ex.webp"><img src="/images/pidgeotto-ex.webp" alt="Pidgeotto ex.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/brassius.webp"><img src="/images/brassius.webp" alt="Brassius.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/geeta.webp"><img src="/images/geeta.webp" alt="Geeta.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/letter-of-encouragement-33ef13.webp"><img src="/images/letter-of-encouragement-33ef13.webp" alt="Letter of Encouragement.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/ortega.webp"><img src="/images/ortega.webp" alt="Ortega.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/patrol-cap.webp"><img src="/images/patrol-cap.webp" alt="Patrol Cap.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/poppy-e461f9.webp"><img src="/images/poppy-e461f9.webp" alt="Poppy.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/ryme.webp"><img src="/images/ryme.webp" alt="Ryme.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/town-department-store.webp"><img src="/images/town-department-store.webp" alt="Town Department Store.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pokemon-league-hq.webp"><img src="/images/pokemon-league-hq.webp" alt="Pokemon League HQ.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/revenge-punch.webp"><img src="/images/revenge-punch.webp" alt="Revenge Punch.png" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/oddish-fbd2f7.webp
+- /images/gloom-db30bf.webp
+- /images/bellossom-29c4d1.webp
+- /images/scyther.webp
+- /images/combee.webp
+- /images/phantump.webp
+- /images/trevenant.webp
+- /images/toedscruel-ex.webp
+- /images/charmander.webp
+- /images/charmeleon.webp
+- /images/eiscue-ex-c9987b.webp
+- /images/cryogonal.webp
+- /images/finizen.webp
+- /images/finizen-30.webp
+- /images/palafin.webp
+- /images/tyranitar-ex-61f0a9.webp
+- /images/pawmot-ex.webp
+- /images/lunatone.webp
+- /images/baltoy.webp
+- /images/claydol.webp
+- /images/vespiquen-ex.webp
+- /images/houndstone-ex.webp
+- /images/larvitar.webp
+- /images/pupitar.webp
+- /images/barboach.webp
+- /images/whiscash.webp
+- /images/charizard-ex-ad72f8.webp
+- /images/absol-ex-a5bb1d.webp
+- /images/sv03-en-141.webp
+- /images/sv03-en-143.webp
+- /images/pawniard.webp
+- /images/bisharp.webp
+- /images/kingambit.webp
+- /images/varoom-8db771.webp
+- /images/revavroom-ex.webp
+- /images/pidgey.webp
+- /images/pidgeotto.webp
+- /images/pidgeotto-ex.webp
+- /images/brassius.webp
+- /images/geeta.webp
+- /images/letter-of-encouragement-33ef13.webp
+- /images/ortega.webp
+- /images/patrol-cap.webp
+- /images/poppy-e461f9.webp
+- /images/ryme.webp
+- /images/town-department-store.webp
+- /images/pokemon-league-hq.webp
+- /images/revenge-punch.webp
+:::
+
+
 

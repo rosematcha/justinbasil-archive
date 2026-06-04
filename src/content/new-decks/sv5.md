@@ -7,14 +7,11 @@ showHeading: false
 publishDate: 2024-04-20
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-white-center-margin5">New Decks from Temporal Forces</h1>
-    <h3 class="jb-smallcaps-center">And Other Decks Worth Considering After Rotation</h3>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our first Scarlet &amp; Violet main set of 2024 set by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-temporal-forces-logo.webp" title="New Decks from Temporal Forces" subtitle="And Other Decks Worth Considering After Rotation"}
+
+<p class="jb-decklist-center">Learn more about our first Scarlet &amp; Violet main set of 2024 set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv5">Set List</a>  | 
@@ -23,9 +20,10 @@ publishDate: 2024-04-20
           <a class="blink" href="/proxies/sv5">Selected Proxies</a> | 
           <a href="/new-decks/sv5">New Decks</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 With the arrival of Temporal Forces in March, we’ll have a handful of new deck joining the fray—and with rotation, the meta will be shaken up quite thoroughly. As always, some decks are better than others—some are meme tier and some are merely playable, fun decks without much competitive promise. Lists below are very rough drafts and are intended as a starting place for testing, not as tournament-ready deck lists. Consider [creating and using proxies to test cards you don’t already own](/guide/proxies) prior to making any purchases.
 
@@ -93,20 +91,9 @@ Below is a list of archetypes that may be reasonably playable after this year’
     <li class="c"><a href="#lugiavstar">Lugia VSTAR</a></li>
   </ol>
 </div>
-</div><div class="jb-code-container">
-    <div id="torterraex" class="deck_box">
-    <h1>Torterra ex</h1>
-    <div class="compm">
-     <span></span>
-    </div>
 </div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/torterra-ex-f8d829.webp)
-
-*Illus. PLANETA Tsuji*
-
-
+::::deck{id="torterraex" name="Torterra ex" image="/images/torterra-ex-f8d829.webp" illus="PLANETA Tsuji" comp="meme"}
 
 ### BASIC STRATEGY
 
@@ -122,13 +109,37 @@ Using every search option available to you, fill your board with Grass-type Pok�
 
 - Forgoing Torterra ex to play straight Torterra from Brilliant Stars. Or, better yet, picking up literally any other deck.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Grotle BRS 7</li> <li>4 Turtwig TEF 10</li> <li>2 Beautifly LOR 8</li> <li>2 Torterra BRS 8</li> <li>2 Torterra ex TEF 12</li> <li>2 Wurmple LOR 6</li> <li>1 Rabsca TEF 24</li> <li>1 Rellor TEF 23</li> <li>1 Shaymin TEF 13</li> <li>1 Shaymin V BRS 13</li> </ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>4 Arven OBF 186</li> <li>4 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>1 Morty's Conviction TEF 155</li> <li>4 Nest Ball PAF 84</li> <li>4 Ultra Ball PAF 91</li> <li>3 Rare Candy PAF 89</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>2 Technical Machine: Evolution PAR 178</li> <li>1 Forest Seal Stone SIT 156</li> <li>2 Artazon PAF 76</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>8 Basic Grass Energy SVE 1</li> <li>1 Reversal Energy PAL 192</li>
-</ul></div>
+```decklist
+Pokémon - 20
+4 Grotle BRS 7
+4 Turtwig TEF 10
+2 Beautifly LOR 8
+2 Torterra BRS 8
+2 Torterra ex TEF 12
+2 Wurmple LOR 6
+1 Rabsca TEF 24
+1 Rellor TEF 23
+1 Shaymin TEF 13
+1 Shaymin V BRS 13
+Trainer Cards - 31
+4 Arven OBF 186
+4 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Morty's Conviction TEF 155
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+3 Rare Candy PAF 89
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Switch SVI 194
+2 Technical Machine: Evolution PAR 178
+1 Forest Seal Stone SIT 156
+2 Artazon PAF 76
+1 Prime Catcher TEF 157
+Energy - 9
+8 Basic Grass Energy SVE 1
+1 Reversal Energy PAL 192
+```
 
 ### Testing Streams
 
@@ -137,25 +148,17 @@ Using every search option available to you, fill your board with Grass-type Pok�
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ILH6nIDyAF0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 5: Torterra ex vs. Future Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/DG9EAoX22Wo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 3: Raging Bolt ex vs. Torterra ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="meowscaradaex" class="deck_box">
-    <h1>Meowscarada ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/meowscarada-ex.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="meowscaradaex" name="Meowscarada ex" image="/images/meowscarada-ex.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -170,26 +173,41 @@ Play down and evolve Sprigatito into Meowscarada with the help of Rare Candy. Us
 
 - Additional copies of energy retrieving cards, like [Superior Energy Retrieval](https://limitlesstcg.com/cards/PAL/189) and [Energy Retrieval](https://limitlesstcg.com/cards/SVI/171).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Sprigatito SVI 13
+3 Meowscarada ex PAL 15
+2 Pidgeot ex OBF 164
+2 Pidgey MEW 16
+1 Floragato PAL 14
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+1 Rotom V CRZ 45
+Trainer Cards - 34
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+1 Professor's Research PAF 88
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Great Ball PAL 183
+2 Super Rod PAL 188
+2 Superior Energy Retrieval PAL 189
+1 Prime Catcher TEF 157
+1 Forest Seal Stone SIT 156
+2 Artazon PAF 76
+Energy - 10
+6 Basic Grass Energy SVE 1
+4 Double Turbo Energy BRS 151
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Sprigatito SVI 13</li> <li>3 Meowscarada ex PAL 15</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey MEW 16</li> <li>1 Floragato PAL 14</li> <li>1 Lumineon V BRS 40</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Alakazam SIT 59</li> <li>1 Rotom V CRZ 45</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Arven OBF 186</li> <li>3 Boss's Orders PAL 172</li> <li>3 Iono PAF 80</li> <li>1 Professor's Research PAF 88</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Great Ball PAL 183</li> <li>2 Super Rod PAL 188</li> <li>2 Superior Energy Retrieval PAL 189</li> <li>1 Prime Catcher TEF 157</li> <li>1 Forest Seal Stone SIT 156</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>6 Basic Grass Energy SVE 1</li> <li>4 Double Turbo Energy BRS 151</li> </ul>
-</div></div></div><div class="jb-code-container">
-    <div id="espathraex" class="deck_box">
-    <h1>Espathra ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/espathra-ex-0d5082.webp)
-
-*Illus. takuyoa*
+::::
 
 
+
+::::deck{id="espathraex" name="Espathra ex" image="/images/espathra-ex-0d5082.webp" illus="takuyoa" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -204,26 +222,42 @@ Play down and evolve Natu into Xatu, using Xatu’s Clairvoyant Sense Ability to
 
 - Copies of [Crushing Hammer](https://limitlesstcg.com/cards/SVI/168) and other disruption cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Flittle SVI 100
+3 Espathra ex PAF 6
+3 Natu PAF 25
+3 Xatu PAF 26
+1 Espathra PAR 81
+1 Flutter Mane TEF 78
+1 Manaphy BRS 41
+1 Mew ex MEW 151
+1 Mimikyu PAF 37
+Trainer Cards - 31
+4 Iono PAF 80
+3 Professor's Research PAF 88
+2 Boss's Orders PAL 172
+2 Tulip PAR 181
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+2 Earthen Vessel PAR 163
+2 Nest Ball PAF 84
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Hero's Cape TEF 152
+2 Pokémon League Headquarters OBF 192
+Energy - 11
+11 Basic Psychic Energy SVE 5
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Flittle SVI 100</li> <li>3 Espathra ex PAF 6</li> <li>3 Natu PAF 25</li> <li>3 Xatu PAF 26</li> <li>1 Espathra PAR 81</li> <li>1 Flutter Mane TEF 78</li> <li>1 Manaphy BRS 41</li> <li>1 Mew ex MEW 151</li> <li>1 Mimikyu PAF 37</li> </ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>4 Iono PAF 80</li> <li>3 Professor's Research PAF 88</li> <li>2 Boss's Orders PAL 172</li> <li>2 Tulip PAR 181</li> <li>1 Eri TEF 146</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>2 Earthen Vessel PAR 163</li> <li>2 Nest Ball PAF 84</li> <li>1 Counter Catcher PAR 160</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Hero's Cape TEF 152</li> <li>2 Pokémon League Headquarters OBF 192</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>11 Basic Psychic Energy SVE 5</li> </ul>
-</div></div></div><div class="jb-code-container">
-    <div id="incineroarex" class="deck_box">
-    <h1>Incineroar ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/incineroar-ex-b892b0.webp)
-
-*Illus. N-DESIGN Inc.*
+::::
 
 
+
+::::deck{id="incineroarex" name="Incineroar ex" image="/images/incineroar-ex-b892b0.webp" illus="N-DESIGN Inc." comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -239,13 +273,40 @@ Build your board up by getting a Bidoof or two into play alongside as many Litte
 
 - Switch instead to the [Pidgeot ex OBF 164](https://limitlesstcg.com/cards/OBF/164)/[Rotom V LOR 58](https://limitlesstcg.com/cards/LOR/58) engine.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Litten SIT 30</li> <li>3 Incineroar ex TEF 34</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Entei V BRS 22</li> <li>1 Lumineon V BRS 40</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Charizard CRZ 20</li> <li>1 Relicanth TEF 84</li> <li>1 Torracat SIT 31</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Iono PAF 80</li> <li>3 Arven OBF 186</li> <li>2 Boss's Orders PAL 172</li> <li>1 Mela PAR 167</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>3 Rare Candy PAF 89</li> <li>2 Nest Ball PAF 84</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>1 Defiance Band SVI 169</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Technical Machine: Crisis Punch PAF 90</li> <li>3 Magma Basin BRS 144</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>8 Basic Fire Energy SVE 2</li>
-</ul></div>
+```decklist
+Pokémon - 17
+4 Litten SIT 30
+3 Incineroar ex TEF 34
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Entei V BRS 22
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Radiant Charizard CRZ 20
+1 Relicanth TEF 84
+1 Torracat SIT 31
+Trainer Cards - 35
+4 Iono PAF 80
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Mela PAR 167
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+3 Rare Candy PAF 89
+2 Nest Ball PAF 84
+1 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Defiance Band SVI 169
+1 Forest Seal Stone SIT 156
+1 Technical Machine: Crisis Punch PAF 90
+3 Magma Basin BRS 144
+1 Prime Catcher TEF 157
+Energy - 8
+8 Basic Fire Energy SVE 2
+```
 
 ### Testing Streams
 
@@ -254,25 +315,17 @@ Build your board up by getting a Bidoof or two into play alongside as many Litte
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/3_M1M9yTgTQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 7: Incineroar ex vs. Banette ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/0W__LfKjP8U?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 6: Great Tusk Mill vs. Incineroar ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="gougingfireex" class="deck_box">
-    <h1>Gouging Fire ex</h1>
-    <div class="compm">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/gouging-fire-ex-c8a191.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="gougingfireex" name="Gouging Fire ex" image="/images/gouging-fire-ex-c8a191.webp" illus="5ban Graphics" comp="meme"}
 
 ### BASIC STRATEGY
 
@@ -288,13 +341,36 @@ Using Magma Basin and manual attachments, power up and take knockouts with eithe
 - Skip out on the [Skeledirge ex PAR 137](https://limitlesstcg.com/cards/PAR/137) option for damage boosting and instead use either [Iron Valiant ex PAR 89](https://limitlesstcg.com/cards/PAR/89) with switching cards or [Moltres from Pokémon GO](https://limitlesstcg.com/cards/PGO/12).
 - [Mela](https://limitlesstcg.com/cards/PAR/167) for an additional Energy-acceleration option.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>3 Gouging Fire ex TEF 38</li> <li>2 Entei V BRS 22</li> <li>2 Fuecoco PAR 23</li> <li>2 Skeledirge ex PAR 137</li> <li>1 Mew ex MEW 151</li> <li>1 Moltres BRS 21</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 38</p><ul> <li>4 Professor Sada's Vitality PAR 170</li> <li>1 Boss's Orders PAL 172</li> <li>1 Iono PAF 80</li> <li>4 Nest Ball PAF 84</li> <li>4 Trekking Shoes CRZ 145</li> <li>4 Ultra Ball PAF 91</li> <li>3 Earthen Vessel PAR 163</li> <li>3 Switch SVI 194</li> <li>2 Pokégear 3.0 SVI 186</li> <li>2 Rare Candy PAF 89</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Pal Pad SVI 182</li> <li>2 Bravery Charm PAL 173</li> <li>1 Forest Seal Stone SIT 156</li> <li>4 Magma Basin BRS 144</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>8 Basic Fire Energy SVE 2</li> <li>2 Jet Energy PAL 190</li>
-</ul></div>
+```decklist
+Pokémon - 12
+3 Gouging Fire ex TEF 38
+2 Entei V BRS 22
+2 Fuecoco PAR 23
+2 Skeledirge ex PAR 137
+1 Mew ex MEW 151
+1 Moltres BRS 21
+1 Radiant Greninja ASR 46
+Trainer Cards - 38
+4 Professor Sada's Vitality PAR 170
+1 Boss's Orders PAL 172
+1 Iono PAF 80
+4 Nest Ball PAF 84
+4 Trekking Shoes CRZ 145
+4 Ultra Ball PAF 91
+3 Earthen Vessel PAR 163
+3 Switch SVI 194
+2 Pokégear 3.0 SVI 186
+2 Rare Candy PAF 89
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+2 Bravery Charm PAL 173
+1 Forest Seal Stone SIT 156
+4 Magma Basin BRS 144
+1 Prime Catcher TEF 157
+Energy - 10
+8 Basic Fire Energy SVE 2
+2 Jet Energy PAL 190
+```
 
 ### Testing Streams
 
@@ -303,20 +379,12 @@ Using Magma Basin and manual attachments, power up and take knockouts with eithe
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RnGWpY4qq34?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 4: Gouging Fire ex vs. Roaring Bolt ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="feraligatr" class="deck_box">
-    <h1>Feraligatr</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/feraligatr-e25cdb.webp)
+::::
 
-*Illus. GOSSAN*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="feraligatr" name="Feraligatr" image="/images/feraligatr-e25cdb.webp" illus="GOSSAN" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -333,13 +401,34 @@ Build your board up by getting a Pidgey or two into play alongside as many Totod
 
 - Using the [Bibarel engine](https://limitlesstcg.com/cards/BRS/121) in combination with [Ciphermaniac’s Codebreaking](/translations/sv5#block-yui_3_17_2_1_1703403805967_448391) instead of the Pidgeot ex engine.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 13</p><ul> <li>4 Totodile TEF 39</li> <li>3 Feraligatr TEF 41</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey MEW 16</li> <li>1 Croconaw TEF 40</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 37</p><ul> <li>4 Irida ASR 147</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Nest Ball PAF 84</li> <li>2 Earthen Vessel PAR 163</li> <li>2 Super Rod PAL 188</li> <li>1 Counter Catcher PAR 160</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Switch SVI 194</li> <li>3 Exp. Share SVI 174</li> <li>2 Artazon PAF 76</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>8 Basic Water Energy SVE 3</li> <li>2 Reversal Energy PAL 192</li>
-</ul></div>
+```decklist
+Pokémon - 13
+4 Totodile TEF 39
+3 Feraligatr TEF 41
+2 Pidgeot ex OBF 164
+2 Pidgey MEW 16
+1 Croconaw TEF 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 37
+4 Irida ASR 147
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Nest Ball PAF 84
+2 Earthen Vessel PAR 163
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Switch SVI 194
+3 Exp. Share SVI 174
+2 Artazon PAF 76
+1 Prime Catcher TEF 157
+Energy - 10
+8 Basic Water Energy SVE 3
+2 Reversal Energy PAL 192
+```
 
 ### Testing Streams
 
@@ -348,25 +437,17 @@ Build your board up by getting a Pidgey or two into play alongside as many Totod
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/VQOLaF57kPk?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 9: Feraligatr vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/aBhDrfkvE28?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 9: Feraligatr vs. Ancient Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="chienpaoex" class="deck_box">
-    <h1>Chien-Pao ex</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/chien-pao-ex-d1996f.webp)
-
-*Illus. aky CG Works*
-
-
+::::deck{id="chienpaoex" name="Chien-Pao ex" image="/images/chien-pao-ex-d1996f.webp" illus="aky CG Works" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -383,13 +464,39 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
 - [Iron Bundle PAR 56](https://limitlesstcg.com/cards/PAR/56) to make use of its Hyper Blower Ability, which forces your opponent to switch their Active Pokémon.
 - [Kyogre CRZ 36](https://limitlesstcg.com/cards/CRZ/36) as an additional sniping option with higher damage output—to make use of its Dynamic Wave attack that does 180 damage to 1 of your opponent’s Pokémon.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>3 Chien-Pao ex PAL 61</li> <li>2 Baxcalibur PAL 60</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Frigibax PAL 57</li> <li>1 Frigibax PAF 17</li> <li>1 Iron Hands ex PAR 70</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Irida ASR 147</li> <li>1 Boss's Orders PAL 172</li> <li>1 Ciphermaniac's Codebreaking TEF 145</li> <li>1 Iono PAF 80</li> <li>4 Nest Ball PAF 84</li> <li>4 Superior Energy Retrieval PAL 189</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Rare Candy PAF 89</li> <li>3 Ultra Ball PAF 91</li> <li>2 Earthen Vessel PAR 163</li> <li>2 Super Rod PAL 188</li> <li>1 Canceling Cologne ASR 136</li> <li>1 Counter Catcher PAR 160</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>3 PokéStop PGO 68</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>8 Basic Water Energy SVE 3</li> <li>1 Basic Lightning Energy SVE 4</li>
-</ul></div>
+```decklist
+Pokémon - 15
+3 Chien-Pao ex PAL 61
+2 Baxcalibur PAL 60
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Frigibax PAL 57
+1 Frigibax PAF 17
+1 Iron Hands ex PAR 70
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+Trainer Cards - 36
+4 Irida ASR 147
+1 Boss's Orders PAL 172
+1 Ciphermaniac's Codebreaking TEF 145
+1 Iono PAF 80
+4 Nest Ball PAF 84
+4 Superior Energy Retrieval PAL 189
+3 Buddy-Buddy Poffin TEF 144
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+2 Earthen Vessel PAR 163
+2 Super Rod PAL 188
+1 Canceling Cologne ASR 136
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+3 PokéStop PGO 68
+1 Prime Catcher TEF 157
+Energy - 9
+8 Basic Water Energy SVE 3
+1 Basic Lightning Energy SVE 4
+```
 
 ### Testing Streams
 
@@ -398,25 +505,17 @@ Play down and evolve Frigibax into Baxcalibur to make use of Baxcalibur’s Supe
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/8eZhaDrpWJE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 2: Gardevoir ex vs. Chien Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cwYDzji6peM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 2: Chien-Pao ex vs. Miraidon ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="garchompex" class="deck_box">
-    <h1>Garchomp ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/garchomp-ex-d942ea.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="garchompex" name="Garchomp ex" image="/images/garchomp-ex-d942ea.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -433,13 +532,36 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
 - Pairing Garchomp ex with [Lucario BRS 79](https://limitlesstcg.com/cards/BRS/79) to make use of its Fighting Typing and Aura Sphere Volley attack, which does 10 damage plus 60 more damage for each Fighting Energy attached to Lucario.
 - [Jirachi PAR 126](/translations/sv4#block-yui_3_17_2_1_1694253976756_91411) to shield your Benched Pokémon from damage counters placed by the effects of attacks done by your opponent’s Basic Pokémon.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>4 Gible PAR 94</li> <li>3 Garchomp ex PAR 38</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Groudon PAR 93</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Terrakion SIT 97</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Irida ASR 147</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>1 Professor Turo's Scenario PAR 171</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Earthen Vessel PAR 163</li> <li>2 Nest Ball PAF 84</li> <li>2 Switch SVI 194</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Super Rod PAL 188</li> <li>1 Vitality Band SVI 197</li> <li>2 Artazon PAF 76</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>9 Basic Fighting Energy SVE 6</li>
-</ul></div>
+```decklist
+Pokémon - 15
+4 Gible PAR 94
+3 Garchomp ex PAR 38
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Groudon PAR 93
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Terrakion SIT 97
+Trainer Cards - 36
+4 Irida ASR 147
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Earthen Vessel PAR 163
+2 Nest Ball PAF 84
+2 Switch SVI 194
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Super Rod PAL 188
+1 Vitality Band SVI 197
+2 Artazon PAF 76
+1 Prime Catcher TEF 157
+Energy - 9
+9 Basic Fighting Energy SVE 6
+```
 
 ### Testing Streams
 
@@ -448,25 +570,17 @@ Evolve Gible into Garchomp ex via Rare Candy and attack using Garchomp ex’s Hy
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/daU1ktvTZ04?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 3: Miraidon ex vs. Garchomp ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Xp1AaWZA-yE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 3: Garchomp ex vs. Roaring Moon ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="ofpalkiavstar" class="deck_box">
-    <h1>Origin Forme Palkia VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/origin-forme-palkia-vstar.webp)
-
-*Illus. aky CG Works*
-
-
+::::deck{id="ofpalkiavstar" name="Origin Forme Palkia VSTAR" image="/images/origin-forme-palkia-vstar.webp" illus="aky CG Works" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -481,26 +595,41 @@ Using the deck’s various search cards and draw options, seek out and bench as 
 
 - [Chien-Pao ex PAL 61](https://limitlesstcg.com/cards/PAL/61) as a big “nuke” attacker option, making use of its Hail Blade attack to do 60 damage for each Water Energy discarded from your Pokémon in play.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+3 Origin Forme Palkia V ASR 39
+3 Origin Forme Palkia VSTAR ASR 40
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Pidgeot ex OBF 164
+2 Pidgey MEW 16
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 34
+4 Irida ASR 147
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+3 Buddy-Buddy Poffin TEF 144
+3 Earthen Vessel PAR 163
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Super Rod PAL 188
+1 Switch SVI 194
+3 Exp. Share SVI 174
+1 Artazon PAF 76
+Energy - 10
+10 Basic Water Energy SVE 3
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>3 Origin Forme Palkia V ASR 39</li> <li>3 Origin Forme Palkia VSTAR ASR 40</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey MEW 16</li> <li>1 Lumineon V BRS 40</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Irida ASR 147</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Nest Ball PAF 84</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Earthen Vessel PAR 163</li> <li>3 Rare Candy PAF 89</li> <li>3 Ultra Ball PAF 91</li> <li>1 Counter Catcher PAR 160</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>3 Exp. Share SVI 174</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Water Energy SVE 3</li>
-</ul></div></div></div><div class="jb-code-container">
-    <div id="vikavolt" class="deck_box">
-    <h1>Vikavolt</h1>
-    <div class="compm">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/vikavolt-07f3f9.webp)
-
-*Illus. Hitoshi Ariga*
+::::
 
 
+
+::::deck{id="vikavolt" name="Vikavolt" image="/images/vikavolt-07f3f9.webp" illus="Hitoshi Ariga" comp="meme"}
 
 ### BASIC STRATEGY
 
@@ -515,13 +644,38 @@ Using Rare Candy to evolve up Grubbin into a Vikavolt, manually evolve other Gru
 
 - [Jacq](https://limitlesstcg.com/cards/SVI/175) to help find Grubbin and Vikavolt in a pinch.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Charjabug TEF 55</li> <li>4 Grubbin TEF 18</li> <li>3 Vikavolt TEF 56</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Raikou V BRS 48</li> <li>1 Luxray PAL 71</li> <li>1 Manaphy BRS 41</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Iono PAF 80</li> <li>2 Cynthia's Ambition BRS 138</li> <li>1 Cyllene ASR 138</li> <li>1 Morty's Conviction TEF 155</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>3 Rare Candy PAF 89</li> <li>3 Super Rod PAL 188</li> <li>3 Ultra Ball PAF 91</li> <li>2 Counter Catcher PAR 160</li> <li>2 Great Ball PAL 183</li> <li>2 Nest Ball PAF 84</li> <li>1 Energy Loto ASR 140</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Rescue Board TEF 159</li> <li>1 Forest Seal Stone SIT 156</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>4 Reversal Energy PAL 192</li> <li>3 Basic Lightning Energy SVE 4</li> <li>1 Neo Upper Energy TEF 162</li>
-</ul></div>
+```decklist
+Pokémon - 19
+4 Charjabug TEF 55
+4 Grubbin TEF 18
+3 Vikavolt TEF 56
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Raikou V BRS 48
+1 Luxray PAL 71
+1 Manaphy BRS 41
+Trainer Cards - 33
+4 Iono PAF 80
+2 Cynthia's Ambition BRS 138
+1 Cyllene ASR 138
+1 Morty's Conviction TEF 155
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy PAF 89
+3 Super Rod PAL 188
+3 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+2 Great Ball PAL 183
+2 Nest Ball PAF 84
+1 Energy Loto ASR 140
+1 Hisuian Heavy Ball ASR 146
+1 Rescue Board TEF 159
+1 Forest Seal Stone SIT 156
+2 Artazon PAF 76
+Energy - 8
+4 Reversal Energy PAL 192
+3 Basic Lightning Energy SVE 4
+1 Neo Upper Energy TEF 162
+```
 
 ### Testing Streams
 
@@ -530,25 +684,17 @@ Using Rare Candy to evolve up Grubbin into a Vikavolt, manually evolve other Gru
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YGyiPX7om-Q?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 8: Vikavolt vs. Scizor ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/1nINe_HUceI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 7: Banette ex vs. Vikavolt&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="miraidonex" class="deck_box">
-    <h1>Miraidon ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/miraidon-ex-dfac2e.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="miraidonex" name="Miraidon ex" image="/images/miraidon-ex-dfac2e.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -566,13 +712,36 @@ Using Electric Generator and Energy Sticker, power up Miraidon ex and the deck�
 
 - Coming soon.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>3 Miraidon ex SVI 81</li> <li>2 Mew ex MEW 151</li> <li>2 Raikou V BRS 48</li> <li>1 Iron Hands ex PAR 70</li> <li>1 Lumineon V BRS 40</li> <li>1 Raichu V BRS 45</li> <li>1 Squawkabilly ex PAL 169</li> <li>1 Zapdos PGO 29</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Professor's Research PAF 88</li> <li>2 Boss's Orders PAL 172</li> <li>2 Iono PAF 80</li> <li>1 Arven OBF 186</li> <li>4 Electric Generator PAF 79</li> <li>4 Energy Sticker MEW 159</li> <li>4 Ultra Ball PAF 91</li> <li>3 Nest Ball PAF 84</li> <li>2 Switch Cart ASR 154</li> <li>1 Super Rod PAL 188</li> <li>2 Bravery Charm PAL 173</li> <li>1 Forest Seal Stone SIT 156</li> <li>2 Beach Court SVI 167</li> <li>1 Collapsed Stadium BRS 137</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 14</p><ul> <li>13 Basic Lightning Energy SVE 4</li> <li>1 Double Turbo Energy BRS 151</li>
-</ul></div>
+```decklist
+Pokémon - 12
+3 Miraidon ex SVI 81
+2 Mew ex MEW 151
+2 Raikou V BRS 48
+1 Iron Hands ex PAR 70
+1 Lumineon V BRS 40
+1 Raichu V BRS 45
+1 Squawkabilly ex PAL 169
+1 Zapdos PGO 29
+Trainer Cards - 34
+4 Professor's Research PAF 88
+2 Boss's Orders PAL 172
+2 Iono PAF 80
+1 Arven OBF 186
+4 Electric Generator PAF 79
+4 Energy Sticker MEW 159
+4 Ultra Ball PAF 91
+3 Nest Ball PAF 84
+2 Switch Cart ASR 154
+1 Super Rod PAL 188
+2 Bravery Charm PAL 173
+1 Forest Seal Stone SIT 156
+2 Beach Court SVI 167
+1 Collapsed Stadium BRS 137
+1 Prime Catcher TEF 157
+Energy - 14
+13 Basic Lightning Energy SVE 4
+1 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -581,25 +750,17 @@ Using Electric Generator and Energy Sticker, power up Miraidon ex and the deck�
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/daU1ktvTZ04?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 3: Miraidon ex vs. Garchomp ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cwYDzji6peM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 2: Chien-Pao ex vs. Miraidon ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="gardevoirex" class="deck_box">
-    <h1>Gardevoir ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/gardevoir-ex-e98608.webp)
-
-*Illus. N-DESIGN Inc.*
-
-
+::::deck{id="gardevoirex" name="Gardevoir ex" image="/images/gardevoir-ex-e98608.webp" illus="N-DESIGN Inc." comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -613,13 +774,41 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
 
 - [Flutter Mane TEF 78](/translations/sv5#block-yui_3_17_2_1_1703403805967_145766) to make use of its Midnight Fluttering Ability, which shuts off the Abilities of Pokémon in your opponent’s Active Spot.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Kirlia SIT 68</li> <li>4 Ralts ASR 60</li> <li>2 Drifloon SVI 89</li> <li>2 Gardevoir ex PAF 29</li> <li>1 Flutter Mane TEF 78</li> <li>1 Jirachi PAR 126</li> <li>1 Manaphy BRS 41</li> <li>1 Mimikyu PAF 37</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Scream Tail PAR 86</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>1 Boss's Orders PAL 172</li> <li>1 Professor Turo's Scenario PAR 171</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>3 Ultra Ball PAF 91</li> <li>2 Counter Catcher PAR 160</li> <li>2 Earthen Vessel PAR 163</li> <li>2 Great Ball PAL 183</li> <li>2 Nest Ball PAF 84</li> <li>2 Super Rod PAL 188</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Pal Pad SVI 182</li> <li>1 Rare Candy PAF 89</li> <li>1 Bravery Charm PAL 173</li> <li>1 Hero's Cape TEF 152</li> <li>1 Luxurious Cape PAR 166</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>8 Basic Psychic Energy SVE 5</li> </ul>
-</div>
+```decklist
+Pokémon - 18
+4 Kirlia SIT 68
+4 Ralts ASR 60
+2 Drifloon SVI 89
+2 Gardevoir ex PAF 29
+1 Flutter Mane TEF 78
+1 Jirachi PAR 126
+1 Manaphy BRS 41
+1 Mimikyu PAF 37
+1 Radiant Greninja ASR 46
+1 Scream Tail PAR 86
+Trainer Cards - 34
+4 Arven OBF 186
+3 Iono PAF 80
+1 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+2 Earthen Vessel PAR 163
+2 Great Ball PAL 183
+2 Nest Ball PAF 84
+2 Super Rod PAL 188
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+1 Rare Candy PAF 89
+1 Bravery Charm PAL 173
+1 Hero's Cape TEF 152
+1 Luxurious Cape PAR 166
+1 Technical Machine: Evolution PAR 178
+1 Artazon PAF 76
+Energy - 8
+8 Basic Psychic Energy SVE 5
+```
 
 ### Testing Streams
 
@@ -628,25 +817,17 @@ Play down and evolve Ralts into Kirlia, or with Rare Candy, into Gardevoir ex. U
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/8eZhaDrpWJE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 2: Gardevoir ex vs. Chien Pao ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/73HSbkh5O5M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 1: Charizard ex vs. Gardevoir ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="banetteex" class="deck_box">
-    <h1>Banette ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/banette-ex-4c9c93.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="banetteex" name="Banette ex" image="/images/banette-ex-4c9c93.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -661,13 +842,39 @@ Use Banette ex’s Eternal Darkness attack to slow down your opponent’s setup,
 
 - [Gallade ASR 62](https://limitlesstcg.com/cards/ASR/62) to make use of its Buddy Catch Ability, which lets you search your deck each turn for a Supporter card.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Shuppet SVI 87</li> <li>3 Banette ex SVI 88</li> <li>3 Kirlia SIT 68</li> <li>3 Ralts ASR 60</li> <li>2 Gardevoir ex SVI 86</li> <li>1 Banette LOR 73</li> <li>1 Lumineon V BRS 40</li> <li>1 Mawile LOR 71</li> <li>1 Mew ex MEW 151</li> <li>1 Radiant Alakazam SIT 59</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>4 Iono PAF 80</li> <li>2 Professor Turo's Scenario PAR 171</li> <li>2 Professor's Research PAF 88</li> <li>2 Boss's Orders PAL 172</li> <li>1 Salvatore TEF 160</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>3 Trekking Shoes CRZ 145</li> <li>4 Ultra Ball PAF 91</li> <li>2 Nest Ball PAF 84</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Calamitous Wasteland PAL 175</li> <li>1 Pokémon League Headquarters OBF 192</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>8 Basic Psychic Energy SVE 5</li>
-</ul></div>
+```decklist
+Pokémon - 20
+4 Shuppet SVI 87
+3 Banette ex SVI 88
+3 Kirlia SIT 68
+3 Ralts ASR 60
+2 Gardevoir ex SVI 86
+1 Banette LOR 73
+1 Lumineon V BRS 40
+1 Mawile LOR 71
+1 Mew ex MEW 151
+1 Radiant Alakazam SIT 59
+Trainer Cards - 32
+4 Iono PAF 80
+2 Professor Turo's Scenario PAR 171
+2 Professor's Research PAF 88
+2 Boss's Orders PAL 172
+1 Salvatore TEF 160
+4 Buddy-Buddy Poffin TEF 144
+3 Trekking Shoes CRZ 145
+4 Ultra Ball PAF 91
+2 Nest Ball PAF 84
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Super Rod PAL 188
+1 Forest Seal Stone SIT 156
+1 Calamitous Wasteland PAL 175
+1 Pokémon League Headquarters OBF 192
+Energy - 8
+8 Basic Psychic Energy SVE 5
+```
 
 ### Testing Streams
 
@@ -676,25 +883,17 @@ Use Banette ex’s Eternal Darkness attack to slow down your opponent’s setup,
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/3_M1M9yTgTQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 7: Incineroar ex vs. Banette ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/1nINe_HUceI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 7: Banette ex vs. Vikavolt&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="lostbox" class="deck_box">
-    <h1>Lost Box</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/cramorant.webp)
-
-*Illus. Midori Harada*
-
-
+::::deck{id="lostbox" name="Lost Box" image="/images/cramorant.webp" illus="Midori Harada" comp="high" source="Kento Imao - 5th Place Champions League Fukuoka"}
 
 ### BASIC STRATEGY
 
@@ -711,15 +910,39 @@ Using the components of the Comfey engine, get first to four and then ten cards 
 
 - [Iron Bundle PAR 56](https://limitlesstcg.com/cards/PAR/56) to make use of its Hyper Blower Ability, which forces your opponent to switch their Active Pokémon.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-Source: Kento Imao - 5th Place Champions League Fukuoka
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 11</p><ul> <li>4 Comfey LOR 79</li> <li>1 Cramorant LOR 50</li> <li>1 Iron Bundle PAR 56</li> <li>1 Iron Hands ex PAR 70</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Raikou V BRS 48</li> <li>1 Roaring Moon ex PAR 124</li> <li>1 Sableye LOR 70</li> </ul><p class="jb-decklist-section">Trainer Cards - 39</p><ul> <li>4 Colress's Experiment LOR 155</li> <li>1 Boss's Orders PAL 172</li> <li>1 Roxanne ASR 150</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Mirage Gate LOR 163</li> <li>4 Nest Ball PAF 84</li> <li>4 Super Rod PAL 188</li> <li>4 Switch Cart ASR 154</li> <li>3 Switch SVI 194</li> <li>2 Lost Vacuum CRZ 135</li> <li>1 Counter Catcher PAR 160</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Prime Catcher TEF 157</li> <li>2 Rescue Board TEF 159</li> <li>1 Forest Seal Stone SIT 156</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>3 Basic Darkness Energy SVE 7</li> <li>3 Basic Lightning Energy SVE 4</li> <li>2 Basic Psychic Energy SVE 5</li> <li>2 Basic Water Energy SVE 3</li>
-</ul></div>
+```decklist
+Pokémon - 11
+4 Comfey LOR 79
+1 Cramorant LOR 50
+1 Iron Bundle PAR 56
+1 Iron Hands ex PAR 70
+1 Radiant Greninja ASR 46
+1 Raikou V BRS 48
+1 Roaring Moon ex PAR 124
+1 Sableye LOR 70
+Trainer Cards - 39
+4 Colress's Experiment LOR 155
+1 Boss's Orders PAL 172
+1 Roxanne ASR 150
+4 Buddy-Buddy Poffin TEF 144
+4 Mirage Gate LOR 163
+4 Nest Ball PAF 84
+4 Super Rod PAL 188
+4 Switch Cart ASR 154
+3 Switch SVI 194
+2 Lost Vacuum CRZ 135
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Prime Catcher TEF 157
+2 Rescue Board TEF 159
+1 Forest Seal Stone SIT 156
+2 Artazon PAF 76
+Energy - 10
+3 Basic Darkness Energy SVE 7
+3 Basic Lightning Energy SVE 4
+2 Basic Psychic Energy SVE 5
+2 Basic Water Energy SVE 3
+```
 
 ### Testing Streams
 
@@ -728,20 +951,12 @@ Source: Kento Imao - 5th Place Champions League Fukuoka
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Q8XImw_Kdsc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 10: Raging Bolt ex vs. the World&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="ironvaliantex" class="deck_box">
-    <h1>Iron Valiant ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/iron-valiant-ex-cede70.webp)
+::::
 
-*Illus. aky CG Works*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="ironvaliantex" name="Iron Valiant ex" image="/images/iron-valiant-ex-cede70.webp" illus="aky CG Works" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -757,26 +972,45 @@ Spread damage and even take Knock Outs using Iron Valiant ex’s Tachyon Bits Ab
 
 - [Delphox V LOR 27](https://limitlesstcg.com/cards/LOR/27) for its sniping option, Magical Fire, which does 120 damage to your opponent’s Active Pokémon in addition to doing 120 damage to 1 of your opponent’s Benched Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 10
+3 Iron Valiant ex PAR 89
+2 Entei V BRS 22
+1 Bibarel BRS 121
+1 Bidoof CRZ 111
+1 Moltres BRS 21
+1 Radiant Charizard CRZ 20
+1 Squawkabilly ex PAF 75
+Trainer Cards - 41
+4 Professor's Research PAF 88
+2 Iono PAF 80
+1 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Serena SIT 164
+4 Nest Ball PAF 84
+4 Switch SVI 194
+4 Switch Cart ASR 154
+3 Ultra Ball PAF 91
+2 Techno Radar PAR 180
+1 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Super Rod PAL 188
+2 Forest Seal Stone SIT 156
+2 Future Booster Energy Capsule TEF 149
+2 Technical Machine: Devolution PAR 177
+4 Magma Basin BRS 144
+Energy - 9
+6 Basic Fire Energy SVE 2
+3 Jet Energy PAL 190
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 10</p><ul> <li>3 Iron Valiant ex PAR 89</li> <li>2 Entei V BRS 22</li> <li>1 Bibarel BRS 121</li> <li>1 Bidoof CRZ 111</li> <li>1 Moltres BRS 21</li> <li>1 Radiant Charizard CRZ 20</li> <li>1 Squawkabilly ex PAF 75</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>4 Professor's Research PAF 88</li> <li>2 Iono PAF 80</li> <li>1 Arven OBF 186</li> <li>1 Boss's Orders PAL 172</li> <li>1 Serena SIT 164</li> <li>4 Nest Ball PAF 84</li> <li>4 Switch SVI 194</li> <li>4 Switch Cart ASR 154</li> <li>3 Ultra Ball PAF 91</li> <li>2 Techno Radar PAR 180</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>2 Forest Seal Stone SIT 156</li> <li>2 Future Booster Energy Capsule TEF 149</li> <li>2 Technical Machine: Devolution PAR 177</li> <li>4 Magma Basin BRS 144</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>6 Basic Fire Energy SVE 2</li> <li>3 Jet Energy PAL 190</li>
-</ul></div></div></div><div class="jb-code-container">
-    <div id="futurebox" class="deck_box">
-    <h1>Future Box</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/iron-crown-ex-1fdbda.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="futurebox" name="Future Box" image="/images/iron-crown-ex-1fdbda.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -791,13 +1025,36 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
 
 - Additional copies of [Iron Valiant ex PAR 89](https://limitlesstcg.com/cards/PAR/89) to serve as another means of fixing math where knockouts are concerned.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>3 Iron Crown ex TEF 81</li> <li>3 Miraidon TEF 121</li> <li>2 Iron Leaves ex TEF 25</li> <li>1 Iron Hands ex PAR 70</li> <li>1 Iron Valiant ex PAR 89</li> <li>1 Mew ex MEW 151</li> <li>1 Miraidon ex TEF 122</li> </ul><p class="jb-decklist-section">Trainer Cards - 37</p><ul> <li>4 Iono PAF 80</li> <li>3 Boss's Orders PAL 172</li> <li>3 Professor's Research PAF 88</li> <li>2 Arven OBF 186</li> <li>4 Nest Ball PAF 84</li> <li>4 Techno Radar PAR 180</li> <li>3 Switch Cart ASR 154</li> <li>2 Pokégear 3.0 SVI 186</li> <li>1 Counter Catcher PAR 160</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Super Rod PAL 188</li> <li>4 Future Booster Energy Capsule TEF 149</li> <li>2 Exp. Share SVI 174</li> <li>2 Town Store OBF 196</li> <li>1 Reboot Pod TEF 158</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>4 Basic Lightning Energy SVE 4</li> <li>4 Basic Psychic Energy SVE 5</li> <li>3 Basic Grass Energy SVE 1</li>
-</ul></div>
+```decklist
+Pokémon - 12
+3 Iron Crown ex TEF 81
+3 Miraidon TEF 121
+2 Iron Leaves ex TEF 25
+1 Iron Hands ex PAR 70
+1 Iron Valiant ex PAR 89
+1 Mew ex MEW 151
+1 Miraidon ex TEF 122
+Trainer Cards - 37
+4 Iono PAF 80
+3 Boss's Orders PAL 172
+3 Professor's Research PAF 88
+2 Arven OBF 186
+4 Nest Ball PAF 84
+4 Techno Radar PAR 180
+3 Switch Cart ASR 154
+2 Pokégear 3.0 SVI 186
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+4 Future Booster Energy Capsule TEF 149
+2 Exp. Share SVI 174
+2 Town Store OBF 196
+1 Reboot Pod TEF 158
+Energy - 11
+4 Basic Lightning Energy SVE 4
+4 Basic Psychic Energy SVE 5
+3 Basic Grass Energy SVE 1
+```
 
 ### Testing Streams
 
@@ -806,25 +1063,17 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ILH6nIDyAF0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 5: Torterra ex vs. Future Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ileKxI8x6qE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 5: Future Box vs. Ancient Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="greattusk" class="deck_box">
-    <h1>Great Tusk</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/great-tusk-mill.webp)
-
-*Illus. GIDORA*
-
-
+::::deck{id="greattusk" name="Great Tusk" image="/images/great-tusk-mill.webp" illus="GIDORA" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -839,13 +1088,32 @@ Using either Double Turbo Energy or Professor Sada’s Vitality and a manual att
 
 - [Crushing Hammer](https://limitlesstcg.com/cards/SVI/168) and/or [Giacomo](https://limitlesstcg.com/cards/PAL/182) to remove opponent’s Energy from their Pokémon to make it difficult to power up their Pokémon to take knockouts.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 7</p><ul> <li>4 Great Tusk TEF 97</li> <li>1 Mimikyu PAF 37</li> <li>1 Pidgeot V LOR 137</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 43</p><ul> <li>4 Explorer's Guidance TEF 147</li> <li>4 Professor Sada's Vitality PAR 170</li> <li>4 Counter Catcher PAR 160</li> <li>4 Earthen Vessel PAR 163</li> <li>4 Nest Ball PAF 84</li> <li>4 Pokégear 3.0 SVI 186</li> <li>3 Super Rod PAL 188</li> <li>2 Hand Trimmer TEF 150</li> <li>2 Hisuian Heavy Ball ASR 146</li> <li>2 Pal Pad SVI 182</li> <li>4 Ancient Booster Energy Capsule TEF 140</li> <li>1 Rescue Board TEF 159</li> <li>1 Forest Seal Stone SIT 156</li> <li>3 Artazon PAF 76</li> <li>1 Hero's Cape TEF 152</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>6 Basic Fighting Energy SVE 6</li> <li>4 Double Turbo Energy BRS 151</li>
-</ul></div>
+```decklist
+Pokémon - 7
+4 Great Tusk TEF 97
+1 Mimikyu PAF 37
+1 Pidgeot V LOR 137
+1 Radiant Greninja ASR 46
+Trainer Cards - 43
+4 Explorer's Guidance TEF 147
+4 Professor Sada's Vitality PAR 170
+4 Counter Catcher PAR 160
+4 Earthen Vessel PAR 163
+4 Nest Ball PAF 84
+4 Pokégear 3.0 SVI 186
+3 Super Rod PAL 188
+2 Hand Trimmer TEF 150
+2 Hisuian Heavy Ball ASR 146
+2 Pal Pad SVI 182
+4 Ancient Booster Energy Capsule TEF 140
+1 Rescue Board TEF 159
+1 Forest Seal Stone SIT 156
+3 Artazon PAF 76
+1 Hero's Cape TEF 152
+Energy - 10
+6 Basic Fighting Energy SVE 6
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -854,25 +1122,17 @@ Using either Double Turbo Energy or Professor Sada’s Vitality and a manual att
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/AxEHKk5z4aE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 6: Ancient Box vs. Great Tusk Mill&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/0W__LfKjP8U?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 6: Great Tusk Mill vs. Incineroar ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="ancientbox" class="deck_box">
-    <h1>Ancient Box</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/roaring-moon-d17764.webp)
-
-*Illus. hncl*
-
-
+::::deck{id="ancientbox" name="Ancient Box" image="/images/roaring-moon-d17764.webp" illus="hncl" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -888,13 +1148,35 @@ Early on, attack with Koraidon’s Primordial Beatdown attack which does 30 dama
 
 - [Dark Patch](https://limitlesstcg.com/cards/ASR/139) to aid in getting Roaring Moon powered up.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 12</p><ul> <li>4 Roaring Moon TEF 109</li> <li>3 Koraidon TEF 119</li> <li>2 Flutter Mane TEF 78</li> <li>1 Great Tusk TEF 97</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Slither Wing PAR 107</li> </ul><p class="jb-decklist-section">Trainer Cards - 39</p><ul> <li>4 Explorer's Guidance TEF 147</li> <li>4 Professor Sada's Vitality PAR 170</li> <li>1 Boss's Orders PAL 172</li> <li>4 Earthen Vessel PAR 163</li> <li>4 Nest Ball PAF 84</li> <li>3 Pokégear 3.0 SVI 186</li> <li>3 Ultra Ball PAF 91</li> <li>2 Counter Catcher PAR 160</li> <li>2 Dark Patch ASR 139</li> <li>2 Switch Cart ASR 154</li> <li>1 Awakening Drum TEF 141</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>3 Ancient Booster Energy Capsule TEF 140</li> <li>3 PokéStop PGO 68</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>6 Basic Darkness Energy SVE 7</li> <li>3 Basic Fighting Energy SVE 6</li> </ul>
-</div>
+```decklist
+Pokémon - 12
+4 Roaring Moon TEF 109
+3 Koraidon TEF 119
+2 Flutter Mane TEF 78
+1 Great Tusk TEF 97
+1 Radiant Greninja ASR 46
+1 Slither Wing PAR 107
+Trainer Cards - 39
+4 Explorer's Guidance TEF 147
+4 Professor Sada's Vitality PAR 170
+1 Boss's Orders PAL 172
+4 Earthen Vessel PAR 163
+4 Nest Ball PAF 84
+3 Pokégear 3.0 SVI 186
+3 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+2 Dark Patch ASR 139
+2 Switch Cart ASR 154
+1 Awakening Drum TEF 141
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+3 Ancient Booster Energy Capsule TEF 140
+3 PokéStop PGO 68
+Energy - 9
+6 Basic Darkness Energy SVE 7
+3 Basic Fighting Energy SVE 6
+```
 
 ### Testing Streams
 
@@ -903,7 +1185,10 @@ Early on, attack with Koraidon’s Primordial Beatdown attack which does 30 dama
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/AxEHKk5z4aE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 6: Ancient Box vs. Great Tusk Mill&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ileKxI8x6qE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 5: Future Box vs. Ancient Box&quot;></iframe>">
       </div>
@@ -913,20 +1198,9 @@ Early on, attack with Koraidon’s Primordial Beatdown attack which does 30 dama
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/aBhDrfkvE28?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 9: Feraligatr vs. Ancient Box&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="charizardexbibarel" class="deck_box">
-    <h1>Charizard ex / Bibarel</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div><div class="jb-col-3"></div></div></div></div>
 
-![](/images/paf-charizard-ex.webp)
-
-*Illus. AKIRA EGAWA*
-
-
+::::deck{id="charizardexbibarel" name="Charizard ex / Bibarel" image="/images/paf-charizard-ex.webp" illus="AKIRA EGAWA" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -941,26 +1215,48 @@ Build your board up by getting a Bidoof or two into play alongside as many Charm
 
 - [Maximum Belt](/translations/sv5#block-yui_3_17_2_1_1705200470806_165223) in place of Prime Catcher to help Charizard ex take knockouts earlier on, especially against Basic Pokémon ex.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+3 Charizard ex OBF 125
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Charmander MEW 4
+1 Charmander OBF 26
+1 Charmander PR-SV 47
+1 Charmeleon PAF 8
+1 Charmeleon MEW 5
+1 Entei V BRS 22
+1 Jirachi PAR 126
+1 Lumineon V BRS 40
+1 Radiant Charizard CRZ 20
+1 Skwovet SVI 151
+Trainer Cards - 35
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+1 Ciphermaniac's Codebreaking TEF 145
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+3 Nest Ball PAF 84
+3 Rare Candy PAF 89
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Switch SVI 194
+1 Defiance Band SVI 169
+1 Forest Seal Stone SIT 156
+1 Technical Machine: Evolution PAR 178
+1 Collapsed Stadium BRS 137
+Energy - 7
+7 Basic Fire Energy SVE 2
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>3 Charizard ex OBF 125</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Charmander MEW 4</li> <li>1 Charmander OBF 26</li> <li>1 Charmander PR-SV 47</li> <li>1 Charmeleon PAF 8</li> <li>1 Charmeleon MEW 5</li> <li>1 Entei V BRS 22</li> <li>1 Jirachi PAR 126</li> <li>1 Lumineon V BRS 40</li> <li>1 Radiant Charizard CRZ 20</li> <li>1 Skwovet SVI 151</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Arven OBF 186</li> <li>3 Boss's Orders PAL 172</li> <li>3 Iono PAF 80</li> <li>1 Ciphermaniac's Codebreaking TEF 145</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>3 Nest Ball PAF 84</li> <li>3 Rare Candy PAF 89</li> <li>2 Super Rod PAL 188</li> <li>1 Counter Catcher PAR 160</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Switch SVI 194</li> <li>1 Defiance Band SVI 169</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Collapsed Stadium BRS 137</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>7 Basic Fire Energy SVE 2</li>
-</ul></div></div></div><div class="jb-code-container">
-    <div id="charizardex" class="deck_box">
-    <h1>Charizard ex / Pidgeot ex</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/charizard-ex-obf.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="charizardex" name="Charizard ex / Pidgeot ex" image="/images/charizard-ex-obf.webp" illus="5ban Graphics" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -975,13 +1271,41 @@ Build your board up by getting a Pidgey or two into play alongside as many Charm
 
 - [Prime Catcher](/translations/sv5#block-yui_3_17_2_1_1703324131882_13343) instead of Maximum Belt as an additional gusting and switching option.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>3 Charizard ex PAF 54</li> <li>2 Charmander MEW 4</li> <li>2 Pidgeot ex OBF 164</li> <li>2 Pidgey MEW 16</li> <li>1 Charmander OBF 26</li> <li>1 Charmander PR-SV 47</li> <li>1 Charmeleon PAF 8</li> <li>1 Jirachi PAR 126</li> <li>1 Lumineon V BRS 40</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Charizard CRZ 20</li> <li>1 Rotom V CRZ 45<p></p> </li></ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>3 Arven OBF 186</li> <li>3 Boss's Orders PAL 172</li> <li>3 Iono PAF 80</li> <li>1 Roxanne ASR 150</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Nest Ball PAF 84</li> <li>2 Counter Catcher PAR 160</li> <li>2 Super Rod PAL 188</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Switch SVI 194</li> <li>1 Choice Belt PAL 176</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Maximum Belt TEF 154</li> <li>1 Collapsed Stadium BRS 137</li> </ul><p class="jb-decklist-section">Energy - 8</p><ul> <li>7 Basic Fire Energy SVE 2</li> <li>1 Mist Energy TEF 161</li> </ul>
-</div>
+```decklist
+Pokémon - 17
+3 Charizard ex PAF 54
+2 Charmander MEW 4
+2 Pidgeot ex OBF 164
+2 Pidgey MEW 16
+1 Charmander OBF 26
+1 Charmander PR-SV 47
+1 Charmeleon PAF 8
+1 Jirachi PAR 126
+1 Lumineon V BRS 40
+1 Manaphy BRS 41
+1 Radiant Charizard CRZ 20
+1 Rotom V CRZ 45
+Trainer Cards - 35
+3 Arven OBF 186
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+1 Roxanne ASR 150
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Nest Ball PAF 84
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+1 Switch SVI 194
+1 Choice Belt PAL 176
+1 Forest Seal Stone SIT 156
+1 Maximum Belt TEF 154
+1 Collapsed Stadium BRS 137
+Energy - 8
+7 Basic Fire Energy SVE 2
+1 Mist Energy TEF 161
+```
 
 ### Testing Streams
 
@@ -990,25 +1314,17 @@ Build your board up by getting a Pidgey or two into play alongside as many Charm
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/4Twl0xEhjow?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 1: Roaring Moon ex vs. Charizard ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/73HSbkh5O5M?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 1: Charizard ex vs. Gardevoir ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="roaringmoonex" class="deck_box">
-    <h1>Roaring Moon ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/roaring-moon-ex-par.webp)
-
-*Illus. takuyoa*
-
-
+::::deck{id="roaringmoonex" name="Roaring Moon ex" image="/images/roaring-moon-ex-par.webp" illus="takuyoa" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1025,13 +1341,36 @@ Using a combination of Earthen Vessel, Dark Patch, and Professor Sada’s Vitali
 
 - [Roaring Moon TEF 109](/translations/sv5#block-yui_3_17_2_1_1705074422198_2493795) as a single-prize attacking option.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 10</p><ul> <li>4 Roaring Moon ex PAR 124</li> <li>1 Darkrai V ASR 98</li> <li>1 Darkrai VSTAR ASR 99</li> <li>1 Lumineon V BRS 40</li> <li>1 Morpeko PAR 121</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Squawkabilly ex PAL 169</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>4 Professor Sada's Vitality PAR 170</li> <li>2 Iono PAF 80</li> <li>1 Boss's Orders PAL 172</li> <li>4 Dark Patch ASR 139</li> <li>4 Nest Ball PAF 84</li> <li>4 Trekking Shoes CRZ 145</li> <li>4 Ultra Ball PAF 91</li> <li>3 Earthen Vessel PAR 163</li> <li>2 Pal Pad SVI 182</li> <li>2 Super Rod PAL 188</li> <li>2 Switch Cart ASR 154</li> <li>1 Counter Catcher PAR 160</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Switch SVI 194</li> <li>4 PokéStop PGO 68</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>9 Basic Darkness Energy SVE 7</li>
-</ul></div>
+```decklist
+Pokémon - 10
+4 Roaring Moon ex PAR 124
+1 Darkrai V ASR 98
+1 Darkrai VSTAR ASR 99
+1 Lumineon V BRS 40
+1 Morpeko PAR 121
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+Trainer Cards - 41
+4 Professor Sada's Vitality PAR 170
+2 Iono PAF 80
+1 Boss's Orders PAL 172
+4 Dark Patch ASR 139
+4 Nest Ball PAF 84
+4 Trekking Shoes CRZ 145
+4 Ultra Ball PAF 91
+3 Earthen Vessel PAR 163
+2 Pal Pad SVI 182
+2 Super Rod PAL 188
+2 Switch Cart ASR 154
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Switch SVI 194
+4 PokéStop PGO 68
+1 Prime Catcher TEF 157
+Energy - 9
+9 Basic Darkness Energy SVE 7
+```
 
 ### Testing Streams
 
@@ -1040,25 +1379,17 @@ Using a combination of Earthen Vessel, Dark Patch, and Professor Sada’s Vitali
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/4Twl0xEhjow?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 1: Roaring Moon ex vs. Charizard ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Xp1AaWZA-yE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 3: Garchomp ex vs. Roaring Moon ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="scizorex" class="deck_box">
-    <h1>Scizor ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/scizor-ex-020205.webp)
-
-*Illus. toriyufu*
-
-
+::::deck{id="scizorex" name="Scizor ex" image="/images/scizor-ex-020205.webp" illus="toriyufu" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1075,13 +1406,36 @@ Bench Beldum evolve them into Metang. Bench Scyther and, depending on the matchu
 
 - [Hero’s Cape](/translations/sv5#block-yui_3_17_2_1_1704900708580_51138) in place of Prime Catcher, giving Scizor ex an additional 100 HP to make it harder to knock out.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Scyther MEW 123</li> <li>3 Scizor ex TEF 111</li> <li>2 Beldum TEF 113</li> <li>2 Metang TEF 114</li> <li>2 Scizor OBF 141</li> <li>1 Kleavor ASR 85</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Zamazenta CRZ 97</li> </ul><p class="jb-decklist-section">Trainer Cards - 31</p><ul> <li>4 Iono PAF 80</li> <li>2 Arven OBF 186</li> <li>2 Boss's Orders PAL 172</li> <li>2 Professor's Research PAF 88</li> <li>1 Morty's Conviction TEF 155</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>2 Nest Ball PAF 84</li> <li>2 Super Rod PAL 188</li> <li>1 Counter Catcher PAR 160</li> <li>1 Prime Catcher TEF 157</li> <li>1 Switch SVI 194</li> <li>2 Rigid Band MEW 165</li> <li>1 Defiance Band SVI 169</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>12 Basic Metal Energy SVE 8</li>
-</ul></div>
+```decklist
+Pokémon - 17
+4 Scyther MEW 123
+3 Scizor ex TEF 111
+2 Beldum TEF 113
+2 Metang TEF 114
+2 Scizor OBF 141
+1 Kleavor ASR 85
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Zamazenta CRZ 97
+Trainer Cards - 31
+4 Iono PAF 80
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Professor's Research PAF 88
+1 Morty's Conviction TEF 155
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+2 Nest Ball PAF 84
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+1 Switch SVI 194
+2 Rigid Band MEW 165
+1 Defiance Band SVI 169
+2 Artazon PAF 76
+Energy - 12
+12 Basic Metal Energy SVE 8
+```
 
 ### Testing Streams
 
@@ -1090,25 +1444,17 @@ Bench Beldum evolve them into Metang. Bench Scyther and, depending on the matchu
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YGyiPX7om-Q?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 8: Vikavolt vs. Scizor ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/V6qbXSCeO1U?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 8: Scizor ex vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="ofdialgavstar" class="deck_box">
-    <h1>Origin Forme Dialga VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/origin-forme-dialga-vstar.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="ofdialgavstar" name="Origin Forme Dialga VSTAR" image="/images/origin-forme-dialga-vstar.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1123,26 +1469,39 @@ Using Buddy-Buddy Poffin get out Beldum to evolve them into Metang to take advan
 
 - Defiance Band to boost the damage of your Pokémon’s attacks against higher HP Pokémon, like Pokémon VSTAR and Stage 2 Pokémon ex.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Beldum TEF 113
+4 Metang TEF 114
+3 Origin Forme Dialga V ASR 113
+2 Origin Forme Dialga VSTAR ASR 114
+1 Lumineon V BRS 40
+1 Mew ex MEW 151
+1 Radiant Greninja ASR 46
+1 Zamazenta CRZ 97
+Trainer Cards - 26
+4 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Professor's Research PAF 88
+4 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin TEF 144
+3 Nest Ball PAF 84
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Prime Catcher TEF 157
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Vitality Band SVI 197
+Energy - 17
+17 Basic Metal Energy SVE 8
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Beldum TEF 113</li> <li>4 Metang TEF 114</li> <li>3 Origin Forme Dialga V ASR 113</li> <li>2 Origin Forme Dialga VSTAR ASR 114</li> <li>1 Lumineon V BRS 40</li> <li>1 Mew ex MEW 151</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Zamazenta CRZ 97</li> </ul><p class="jb-decklist-section">Trainer Cards - 26</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>1 Professor's Research PAF 88</li> <li>4 Ultra Ball PAF 91</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Nest Ball PAF 84</li> <li>1 Counter Catcher PAR 160</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Vitality Band SVI 197</li> </ul><p class="jb-decklist-section">Energy - 17</p><ul> <li>17 Basic Metal Energy SVE 8</li> </ul>
-</div></div></div><div class="jb-code-container">
-    <div id="gholdengoex" class="deck_box">
-    <h1>Gholdengo ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/gholdengo-ex-0bd195.webp)
-
-*Illus. takuyoa*
+::::
 
 
+
+::::deck{id="gholdengoex" name="Gholdengo ex" image="/images/gholdengo-ex-0bd195.webp" illus="takuyoa" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1159,13 +1518,39 @@ Evolve Gimmighoul up into Gholdengo and Origin Forme Palkia V into Origin Forme 
 
 - [Iron Leaves ex TEF 25](/translations/sv5#block-yui_3_17_2_1_1703403805967_16297) paired with some Basic Grass Energy to use it as a counter to Charizard ex decks.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 14</p><ul> <li>4 Gholdengo ex PAR 139</li> <li>3 Gimmighoul PAR 87</li> <li>2 Origin Forme Palkia V ASR 39</li> <li>2 Origin Forme Palkia VSTAR ASR 40</li> <li>1 Gimmighoul PAR 88</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>2 Boss's Orders PAL 172</li> <li>2 Ciphermaniac's Codebreaking TEF 145</li> <li>2 Irida ASR 147</li> <li>1 Iono PAF 80</li> <li>1 Roxanne ASR 150</li> <li>4 Superior Energy Retrieval PAL 189</li> <li>4 Ultra Ball PAF 91</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Earthen Vessel PAR 163</li> <li>2 Nest Ball PAF 84</li> <li>1 Canceling Cologne ASR 136</li> <li>1 Energy Retrieval SVI 171</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>3 PokéStop PGO 68</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>6 Basic Water Energy SVE 3</li> <li>5 Basic Metal Energy SVE 8</li>
-</ul></div>
+```decklist
+Pokémon - 14
+4 Gholdengo ex PAR 139
+3 Gimmighoul PAR 87
+2 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Gimmighoul PAR 88
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+Trainer Cards - 35
+2 Boss's Orders PAL 172
+2 Ciphermaniac's Codebreaking TEF 145
+2 Irida ASR 147
+1 Iono PAF 80
+1 Roxanne ASR 150
+4 Superior Energy Retrieval PAL 189
+4 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin TEF 144
+3 Earthen Vessel PAR 163
+2 Nest Ball PAF 84
+1 Canceling Cologne ASR 136
+1 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Switch SVI 194
+3 PokéStop PGO 68
+1 Prime Catcher TEF 157
+Energy - 11
+6 Basic Water Energy SVE 3
+5 Basic Metal Energy SVE 8
+```
 
 ### Testing Streams
 
@@ -1174,25 +1559,17 @@ Evolve Gimmighoul up into Gholdengo and Origin Forme Palkia V into Origin Forme 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/VQOLaF57kPk?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 9: Feraligatr vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/V6qbXSCeO1U?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 8: Scizor ex vs. Gholdengo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="giratinavstar" class="deck_box">
-    <h1>Giratina VSTAR</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/giratina-vstar.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="giratinavstar" name="Giratina VSTAR" image="/images/giratina-vstar.webp" illus="5ban Graphics" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -1207,13 +1584,36 @@ Use Arceus V’s Trinity Charge and Arceus VSTAR’s Trinity Nova to power up Gi
 
 - [Lost City](https://limitlesstcg.com/cards/LOR/161) to permanently remove problematic Pokémon from your opponent’s field.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Arceus V BRS 122</li> <li>4 Arceus VSTAR BRS 123</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Giratina V LOR 130</li> <li>2 Giratina VSTAR LOR 131</li> <li>1 Iron Leaves ex TEF 25</li> <li>1 Skwovet SVI 151</li> </ul><p class="jb-decklist-section">Trainer Cards - 27</p><ul> <li>4 Iono PAF 80</li> <li>3 Boss's Orders PAL 172</li> <li>3 Judge SVI 176</li> <li>1 Eri TEF 146</li> <li>1 Professor Turo's Scenario PAR 171</li> <li>4 Nest Ball PAF 84</li> <li>4 Ultra Ball PAF 91</li> <li>1 Capturing Aroma SIT 153</li> <li>1 Counter Catcher PAR 160</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Switch SVI 194</li> <li>1 Maximum Belt TEF 154</li> <li>2 Pokémon League Headquarters OBF 192</li> </ul><p class="jb-decklist-section">Energy - 15</p><ul> <li>6 Basic Grass Energy SVE 1</li> <li>4 Double Turbo Energy BRS 151</li> <li>3 Basic Psychic Energy SVE 5</li> <li>2 Jet Energy PAL 190</li>
-</ul></div>
+```decklist
+Pokémon - 18
+4 Arceus V BRS 122
+4 Arceus VSTAR BRS 123
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Giratina V LOR 130
+2 Giratina VSTAR LOR 131
+1 Iron Leaves ex TEF 25
+1 Skwovet SVI 151
+Trainer Cards - 27
+4 Iono PAF 80
+3 Boss's Orders PAL 172
+3 Judge SVI 176
+1 Eri TEF 146
+1 Professor Turo's Scenario PAR 171
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+1 Capturing Aroma SIT 153
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Switch SVI 194
+1 Maximum Belt TEF 154
+2 Pokémon League Headquarters OBF 192
+Energy - 15
+6 Basic Grass Energy SVE 1
+4 Double Turbo Energy BRS 151
+3 Basic Psychic Energy SVE 5
+2 Jet Energy PAL 190
+```
 
 ### Testing Streams
 
@@ -1222,20 +1622,12 @@ Use Arceus V’s Trinity Charge and Arceus VSTAR’s Trinity Nova to power up Gi
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Q8XImw_Kdsc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 10: Raging Bolt ex vs. the World&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="hgoodravstar" class="deck_box">
-    <h1>Hisuian Goodra VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/h-goodra-vstar.webp)
+::::
 
-*Illus. 5ban Graphics*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="hgoodravstar" name="Hisuian Goodra VSTAR" image="/images/h-goodra-vstar.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1251,26 +1643,44 @@ Using the components of the Comfey engine, get first to seven and then later ten
 - [Hero’s Cape](/translations/sv5#block-yui_3_17_2_1_1704900708580_51138) in place of Prime Catcher, giving Hisuian Goodra VSTAR an additional 100 HP to make it harder to knock out.
 - [Eri](/translations/sv5#block-yui_3_17_2_1_1705068070357_1714534) to disrupt your opponent’s hand by removing two of their Item cards, including their switching options.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Comfey LOR 79
+3 Hisuian Goodra V LOR 135
+3 Hisuian Goodra VSTAR LOR 136
+2 Sableye LOR 70
+1 Cramorant LOR 50
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Zamazenta CRZ 97
+Trainer Cards - 32
+4 Colress's Experiment LOR 155
+2 Boss's Orders PAL 172
+2 Roxanne ASR 150
+1 Iono PAF 80
+4 Nest Ball PAF 84
+4 Switch Cart ASR 154
+3 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+2 Mirage Gate LOR 163
+2 Pokégear 3.0 SVI 186
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Switch SVI 194
+1 Ultra Ball PAF 91
+2 Artazon PAF 76
+Energy - 12
+4 Basic Metal Energy SVE 8
+3 Basic Water Energy SVE 3
+3 Jet Energy PAL 190
+2 Basic Psychic Energy SVE 5
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Comfey LOR 79</li> <li>3 Hisuian Goodra V LOR 135</li> <li>3 Hisuian Goodra VSTAR LOR 136</li> <li>2 Sableye LOR 70</li> <li>1 Cramorant LOR 50</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Zamazenta CRZ 97</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>4 Colress's Experiment LOR 155</li> <li>2 Boss's Orders PAL 172</li> <li>2 Roxanne ASR 150</li> <li>1 Iono PAF 80</li> <li>4 Nest Ball PAF 84</li> <li>4 Switch Cart ASR 154</li> <li>3 Super Rod PAL 188</li> <li>2 Buddy-Buddy Poffin TEF 144</li> <li>2 Mirage Gate LOR 163</li> <li>2 Pokégear 3.0 SVI 186</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Switch SVI 194</li> <li>1 Ultra Ball PAF 91</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>4 Basic Metal Energy SVE 8</li> <li>3 Basic Water Energy SVE 3</li> <li>3 Jet Energy PAL 190</li> <li>2 Basic Psychic Energy SVE 5</li> </ul>
-</div></div></div><div class="jb-code-container">
-    <div id="ragingboltex" class="deck_box">
-    <h1>Raging Bolt ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/raging-bolt-ex-57a46e.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="ragingboltex" name="Raging Bolt ex" image="/images/raging-bolt-ex-57a46e.webp" illus="aky CG Works" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1286,13 +1696,33 @@ Using a combination of Professor Sada’s Vitality and Energy Sticker, power up 
 
 - Use an alternate means of rapidly getting energy into play, like [Gardevoir ex SVI 86](https://limitlesstcg.com/cards/SVI/86)’s Psychic Embrace or [Origin Forme Palkia VSTAR](https://limitlesstcg.com/cards/ASR/40)’s VSTAR Power, Star Portal.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 11</p><ul> <li>4 Raging Bolt ex TEF 123</li> <li>3 Sandy Shocks ex PAR 108</li> <li>1 Mew ex MEW 151</li> <li>1 Radiant Greninja ASR 46</li> <li>1 Slither Wing PAR 107</li> <li>1 Squawkabilly ex PAL 169</li> </ul><p class="jb-decklist-section">Trainer Cards - 39</p><ul> <li>4 Professor Sada's Vitality PAR 170</li> <li>1 Boss's Orders PAL 172</li> <li>1 Iono PAF 80</li> <li>4 Earthen Vessel PAR 163</li> <li>4 Energy Sticker MEW 159</li> <li>4 Nest Ball PAF 84</li> <li>4 Switch Cart ASR 154</li> <li>4 Trekking Shoes CRZ 145</li> <li>4 Ultra Ball PAF 91</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>2 Ancient Booster Energy Capsule TEF 140</li> <li>4 PokéStop PGO 68</li> <li>1 Prime Catcher TEF 157</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>7 Basic Fighting Energy SVE 6</li> <li>3 Basic Lightning Energy SVE 4</li>
-</ul></div>
+```decklist
+Pokémon - 11
+4 Raging Bolt ex TEF 123
+3 Sandy Shocks ex PAR 108
+1 Mew ex MEW 151
+1 Radiant Greninja ASR 46
+1 Slither Wing PAR 107
+1 Squawkabilly ex PAL 169
+Trainer Cards - 39
+4 Professor Sada's Vitality PAR 170
+1 Boss's Orders PAL 172
+1 Iono PAF 80
+4 Earthen Vessel PAR 163
+4 Energy Sticker MEW 159
+4 Nest Ball PAF 84
+4 Switch Cart ASR 154
+4 Trekking Shoes CRZ 145
+4 Ultra Ball PAF 91
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+2 Ancient Booster Energy Capsule TEF 140
+4 PokéStop PGO 68
+1 Prime Catcher TEF 157
+Energy - 10
+7 Basic Fighting Energy SVE 6
+3 Basic Lightning Energy SVE 4
+```
 
 ### Testing Streams
 
@@ -1301,7 +1731,10 @@ Using a combination of Professor Sada’s Vitality and Energy Sticker, power up 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/DG9EAoX22Wo?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Bonus 3: Raging Bolt ex vs. Torterra ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RnGWpY4qq34?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 4: Gouging Fire ex vs. Roaring Bolt ex&quot;></iframe>">
       </div>
@@ -1311,20 +1744,9 @@ Using a combination of Professor Sada’s Vitality and Energy Sticker, power up 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Q8XImw_Kdsc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Temporal Forces Early Testing, Part 10: Raging Bolt ex vs. the World&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="wigglytuffex" class="deck_box">
-    <h1>Wigglytuff ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div><div class="jb-col-3"></div></div></div></div>
 
-![](/images/wigglytuff-ex-mew.webp)
-
-*Illus. Saki Hayashiro*
-
-
+::::deck{id="wigglytuffex" name="Wigglytuff ex" image="/images/wigglytuff-ex-mew.webp" illus="Saki Hayashiro" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1339,26 +1761,41 @@ Bench Jigglypuff and evolve it into Wigglytuff and Wigglytuff ex. Use Wigglytuff
 
 - [Prime Catcher](/translations/sv5#block-yui_3_17_2_1_1703324131882_13343) in place of Hero’s Cape to help gust stall or to target down weakened Benched Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Jigglypuff MEW 39
+3 Wigglytuff ex MEW 40
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Wigglytuff PAL 84
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+Trainer Cards - 35
+4 Iono PAF 80
+4 Professor's Research PAF 88
+2 Boss's Orders PAL 172
+2 Cheren's Care BRS 134
+4 Buddy-Buddy Poffin TEF 144
+4 Trekking Shoes CRZ 145
+4 Ultra Ball PAF 91
+2 Nest Ball PAF 84
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Switch SVI 194
+3 Rigid Band MEW 165
+1 Hero's Cape TEF 152
+2 Artazon PAF 76
+Energy - 10
+4 Double Turbo Energy BRS 151
+3 Mist Energy TEF 161
+3 Therapeutic Energy PAL 193
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>4 Jigglypuff MEW 39</li> <li>3 Wigglytuff ex MEW 40</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Wigglytuff PAL 84</li> <li>1 Manaphy BRS 41</li> <li>1 Skwovet SVI 151</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Iono PAF 80</li> <li>4 Professor's Research PAF 88</li> <li>2 Boss's Orders PAL 172</li> <li>2 Cheren's Care BRS 134</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Trekking Shoes CRZ 145</li> <li>4 Ultra Ball PAF 91</li> <li>2 Nest Ball PAF 84</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>3 Rigid Band MEW 165</li> <li>1 Hero's Cape TEF 152</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>4 Double Turbo Energy BRS 151</li> <li>3 Mist Energy TEF 161</li> <li>3 Therapeutic Energy PAL 193</li> </ul>
-</div></div></div><div class="jb-code-container">
-    <div id="snorlaxstall" class="deck_box">
-    <h1>Snorlax Stall</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/snorlax-pgo-05b307.webp)
-
-*Illus. N-DESIGN Inc.*
+::::
 
 
+
+::::deck{id="snorlaxstall" name="Snorlax Stall" image="/images/snorlax-pgo-05b307.webp" illus="N-DESIGN Inc." comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -1376,26 +1813,47 @@ Run your opponent out of resources by using the deck’s combination of resource
 
 - [Crushing Hammer](https://limitlesstcg.com/cards/SVI/168) and/or [Giacomo](https://limitlesstcg.com/cards/PAL/182) to remove opponent’s Energy from their Pokémon.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 10
+4 Snorlax PGO 55
+2 Mimikyu PAF 37
+1 Chi-Yu ex PAL 40
+1 Mantine ASR 34
+1 Pidgeot V LOR 137
+1 Rotom V CRZ 45
+Trainer Cards - 48
+4 Arven OBF 186
+3 Miss Fortune Sisters LOR 164
+3 Penny SVI 183
+2 Boss's Orders PAL 172
+2 Eri TEF 146
+2 Erika's Invitation MEW 160
+2 Iono PAF 80
+1 Cyllene ASR 138
+1 Team Yell's Cheer BRS 149
+4 Counter Catcher PAR 160
+4 Nest Ball PAF 84
+4 Pokégear 3.0 SVI 186
+2 Pal Pad SVI 182
+2 Switch Cart ASR 154
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+3 Bravery Charm PAL 173
+1 Defiance Vest PAR 162
+1 Forest Seal Stone SIT 156
+1 Luxurious Cape PAR 166
+2 Artazon PAF 76
+1 Pokémon League Headquarters OBF 192
+1 Hero's Cape TEF 152
+Energy - 2
+2 Basic Fire Energy SVE 2
+```
 
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 10</p><ul> <li>4 Snorlax PGO 55</li> <li>2 Mimikyu PAF 37</li> <li>1 Chi-Yu ex PAL 40</li> <li>1 Mantine ASR 34</li> <li>1 Pidgeot V LOR 137</li> <li>1 Rotom V CRZ 45</li> </ul><p class="jb-decklist-section">Trainer Cards - 48</p><ul> <li>4 Arven OBF 186</li> <li>3 Miss Fortune Sisters LOR 164</li> <li>3 Penny SVI 183</li> <li>2 Boss's Orders PAL 172</li> <li>2 Eri TEF 146</li> <li>2 Erika's Invitation MEW 160</li> <li>2 Iono PAF 80</li> <li>1 Cyllene ASR 138</li> <li>1 Team Yell's Cheer BRS 149</li> <li>4 Counter Catcher PAR 160</li> <li>4 Nest Ball PAF 84</li> <li>4 Pokégear 3.0 SVI 186</li> <li>2 Pal Pad SVI 182</li> <li>2 Switch Cart ASR 154</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Super Rod PAL 188</li> <li>3 Bravery Charm PAL 173</li> <li>1 Defiance Vest PAR 162</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Luxurious Cape PAR 166</li> <li>2 Artazon PAF 76</li> <li>1 Pokémon League Headquarters OBF 192</li> <li>1 Hero's Cape TEF 152</li> </ul><p class="jb-decklist-section">Energy - 2</p><ul> <li>2 Basic Fire Energy SVE 2</li>
-</ul></div></div></div><div class="jb-code-container">
-    <div id="lugiavstar" class="deck_box">
-    <h1>Lugia VSTAR</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/lugia-vstar-fr.webp)
-
-*Illus. PLANETA Mochizuki*
+::::
 
 
+
+::::deck{id="lugiavstar" name="Lugia VSTAR" image="/images/lugia-vstar-fr.webp" illus="PLANETA Mochizuki" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -1412,17 +1870,40 @@ Get two Archeops into the discard pile while benching and eventually evolving Lu
 - [PokéStop](https://limitlesstcg.com/cards/PGO/68) combined with [Ciphermaniac’s Codebreaking](/translations/sv5#block-yui_3_17_2_1_1703403805967_448391) to manipulate the top of your deck with Archeops that would then be discarded by PokéStop.
 - [Serena](https://limitlesstcg.com/cards/SIT/164) for an additional discarding option that also serves as a gusting option.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 20</p><ul> <li>4 Archeops SIT 147</li> <li>4 Lugia V SIT 138</li> <li>3 Cinccino TEF 137</li> <li>3 Lugia VSTAR SIT 139</li> <li>3 Minccino BRS 124</li> <li>2 Snorlax LOR 143</li> <li>1 Lumineon V BRS 40</li> </ul><p class="jb-decklist-section">Trainer Cards - 23</p><ul> <li>3 Boss's Orders PAL 172</li> <li>3 Iono PAF 80</li> <li>2 Professor's Research PAF 88</li> <li>2 Serena SIT 164</li> <li>1 Jacq SVI 175</li> <li>4 Capturing Aroma SIT 153</li> <li>4 Ultra Ball PAF 91</li> <li>2 Great Ball PAL 183</li> <li>1 Master Ball TEF 153</li> <li>1 Collapsed Stadium BRS 137</li> </ul><p class="jb-decklist-section">Energy - 17</p><ul> <li>4 Double Turbo Energy BRS 151</li> <li>4 Gift Energy LOR 171</li> <li>4 Jet Energy PAL 190</li> <li>3 Mist Energy TEF 161</li> <li>1 Therapeutic Energy PAL 193</li> <li>1 V Guard Energy SIT 169</li> </ul>
-</div>
+```decklist
+Pokémon - 20
+4 Archeops SIT 147
+4 Lugia V SIT 138
+3 Cinccino TEF 137
+3 Lugia VSTAR SIT 139
+3 Minccino BRS 124
+2 Snorlax LOR 143
+1 Lumineon V BRS 40
+Trainer Cards - 23
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+2 Professor's Research PAF 88
+2 Serena SIT 164
+1 Jacq SVI 175
+4 Capturing Aroma SIT 153
+4 Ultra Ball PAF 91
+2 Great Ball PAL 183
+1 Master Ball TEF 153
+1 Collapsed Stadium BRS 137
+Energy - 17
+4 Double Turbo Energy BRS 151
+4 Gift Energy LOR 171
+4 Jet Energy PAL 190
+3 Mist Energy TEF 161
+1 Therapeutic Energy PAL 193
+1 V Guard Energy SIT 169
+```
 
 ### Testing Streams
 
 Coming soon.
 
-</div></div>
+::::
+
+
 

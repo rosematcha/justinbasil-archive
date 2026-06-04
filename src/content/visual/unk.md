@@ -39,17 +39,41 @@ publishDate: 2025-01-17
 </p>
 </div><div class="jb-code-container">
     <span id="G" class="symb">G</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-5.webp"><img src="/images/005136-5.webp" alt="005136_5.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/005136-5.webp
+:::
+
+<div class="jb-code-container">
     <span id="R" class="symb">R</span>
 </div><div class="jb-code-container">
     <span id="W" class="symb">W</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-2.webp"><img src="/images/005136-2.webp" alt="005136_2.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/005136-2.webp
+:::
+
+<div class="jb-code-container">
     <span id="L" class="symb">L</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/004799-2.webp"><img src="/images/004799-2.webp" alt="004799_2.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/004799-2.webp
+:::
+
+<div class="jb-code-container">
     <span id="P" class="symb">P</span>
 </div><div class="jb-code-container">
     <span id="F" class="symb">F</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-6.webp"><img src="/images/005136-6.webp" alt="005136_6.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/005136-6.webp
+:::
+
+<div class="jb-code-container">
     <span id="D" class="symb">D</span>
 </div><div class="jb-code-container">
     <span id="M" class="symb">M</span>
@@ -57,7 +81,21 @@ publishDate: 2025-01-17
     <span id="N" class="symb">N</span>
 </div><div class="jb-code-container">
     <span id="C" class="symb">C</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/team-rocket-s-kangaskhan-ex.webp"><img src="/images/team-rocket-s-kangaskhan-ex.webp" alt="Team Rocket's Kangaskhan ex.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/team-rocket-s-kangaskhan-ex.webp
+:::
+
+<div class="jb-code-container">
     <span id="Trainers" class="jb-bold">Trainers</span>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/005136-3.webp"><img src="/images/005136-3.webp" alt="005136_3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/004799-3.webp"><img src="/images/004799-3.webp" alt="004799_3.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/team-rocket-s-hypnosis-device.webp"><img src="/images/team-rocket-s-hypnosis-device.webp" alt="Team Rocket's Hypnosis Device.jpg" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/005136-3.webp
+- /images/004799-3.webp
+- /images/team-rocket-s-hypnosis-device.webp
+:::
+
+
 

@@ -7,15 +7,11 @@ showHeading: false
 publishDate: 2023-04-30
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
-  <div> 
-    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">New Archetypes from Scarlet &amp; Violet</h1>
-    <h3 class="jb-smallcaps-center">And Other Archetypes Worth Considering After Rotation</h3>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
+
+
+:::setcard{bg="/images/scarlet-violet.webp" logo="/images/pokemon-tcg-scarlet-violet-logo.webp" identifier="/images/svi.webp" idalt="SV1 Set Identifier" title="New Archetypes from Scarlet & Violet" subtitle="And Other Archetypes Worth Considering After Rotation"}
+
+<p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv1">Set List</a> | 
@@ -24,9 +20,10 @@ publishDate: 2023-04-30
           <a href="/new-decks/sv1">New Archetypes</a>
       | <a class="blink" href="/proxies/sv1">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 With the arrival of Scarlet & Violet in March, we’ll have a handful of new deck archetypes joining the fray—and with rotation, the meta will be shaken up quite thoroughly. As always, some deck archetypes are better than others—some are meme tier and some are merely playable, fun decks without much competitive promise. Lists below are very rough drafts and are intended as a starting place for testing, not as tournament-ready deck lists. Consider [creating and using proxies to test cards you don’t already own](/guide/proxies) prior to making any purchases.
 
@@ -104,20 +101,9 @@ Below is a list of archetypes that may be reasonably playable after this year’
 
 ---
 
-<div class="jb-code-container">
-    <div id="serperiorvstar" class="deck_box">
-    <h1>Serperior VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/serperior-vstar-2709d8.webp)
-
-*Illus. PLANETA Mochizuki*
 
 
+::::deck{id="serperiorvstar" name="Serperior VSTAR" image="/images/serperior-vstar-2709d8.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -135,30 +121,41 @@ Evolve Serperior V into Serperior VSTAR to prepare it to attack and Kricketot in
 - [V Guard Energy](https://limitlesstcg.com/cards/SIT/169) as yet another means of reducing the damage dealt to your Serperior VSTAR.
 - [Roxanne](https://limitlesstcg.com/cards/ASR/150) as a means of disrupting your opponent in the mid to late game.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Serperior V SIT 7
+4 Swablu SIT 142
+3 Serperior VSTAR SIT 8
+2 Altaria EVS 106
+2 Altaria SIT 143
+1 Kricketot ASR 9
+1 Kricketune ASR 10
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+Trainer Cards - 30
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Judge SVI 176
+1 Cheryl BST 123
+1 Klara CRE 145
+4 Nest Ball SVI 181
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+1 Escape Rope BST 125
+1 Pal Pad SVI 182
+1 Switch SVI 194
+2 Full Face Guard EVS 148
+3 Path to the Peak CRE 148
+Energy - 11
+7 Grass Energy SWSHEnergy 1
+4 Double Turbo Energy BRS 151
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Serperior V SIT 7 4 Swablu SIT 142 3 Serperior VSTAR SIT 8 2 Altaria EVS 106 2 Altaria SIT 143 1 Kricketot ASR 9 1 Kricketune ASR 10 1 Manaphy BRS 41 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 30** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Judge SVI 176 1 Cheryl BST 123 1 Klara CRE 145 4 Nest Ball SVI 181 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 1 Escape Rope BST 125 1 Pal Pad SVI 182 1 Switch SVI 194 2 Full Face Guard EVS 148 3 Path to the Peak CRE 148
-
-**Energy - 11** 7 Grass Energy SWSHEnergy 1 4 Double Turbo Energy BRS 151
-
-</div></div><div class="jb-code-container">
-    <div id="spidopsex" class="deck_box">
-    <h1>Spidops ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/spidpos-ex.webp)
-
-*Illus. takuyoa*
+::::
 
 
+
+::::deck{id="spidopsex" name="Spidops ex" image="/images/spidpos-ex.webp" illus="takuyoa" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -174,15 +171,32 @@ Using Nest Ball, Ultra Ball, and Mesagoza, set up Leafeon V to evolve into Leafe
 
 - [Leafeon VSTAR CRZ 14](https://limitlesstcg.com/cards/CRZ/14) as an additional gusting option and alternate two-prize attacker.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Spidops ex SVI 19 4 Tarountula SVI 16 3 Leafeon V EVS 7 3 Leafeon VMAX EVS 8 2 Zoroark EVS 103 2 Zorua EVS 102 1 Mightyena ASR 96
-
-**Trainer Cards - 32** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Raihan CRZ 140 2 Serena SIT 164 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Pokégear 3.0 SVI 186 3 Trekking Shoes CRZ 145 2 Switch SVI 194 1 Escape Rope BST 125 1 Choice Belt BRS 135 1 Forest Seal Stone SIT 156 3 Mesagoza SVI 178
-
-**Energy - 9** 9 Grass Energy SWSHEnergy 1
+```decklist
+Pokémon - 19
+4 Spidops ex SVI 19
+4 Tarountula SVI 16
+3 Leafeon V EVS 7
+3 Leafeon VMAX EVS 8
+2 Zoroark EVS 103
+2 Zorua EVS 102
+1 Mightyena ASR 96
+Trainer Cards - 32
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Raihan CRZ 140
+2 Serena SIT 164
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Pokégear 3.0 SVI 186
+3 Trekking Shoes CRZ 145
+2 Switch SVI 194
+1 Escape Rope BST 125
+1 Choice Belt BRS 135
+1 Forest Seal Stone SIT 156
+3 Mesagoza SVI 178
+Energy - 9
+9 Grass Energy SWSHEnergy 1
+```
 
 ### Testing Streams
 
@@ -191,25 +205,17 @@ Using Nest Ball, Ultra Ball, and Mesagoza, set up Leafeon V to evolve into Leafe
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/eR3SdbE16NU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 8: Spidops ex vs. Banette ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/80anYxjSYcE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #4: Spidops ex vs. Rapid Strike Urshifu VMAX&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="arcanineex" class="deck_box">
-    <h1>Arcanine ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/arcanine-ex-bff172.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="arcanineex" name="Arcanine ex" image="/images/arcanine-ex-bff172.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -226,15 +232,33 @@ Using a combination of Magma Basin and manual attachments, power up Entei V’s 
 
 - [Rapidash SIT 22](https://limitlesstcg.com/cards/SIT/22) to take advantage of its Heat Boost Ability, which for the discard of a [R] Energy, boosts the damage your [R] Pokémon’s attacks do to your opponent’s Active Pokémon.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 20** 4 Growlithe FST 32 3 Arcanine ex SVI 32 2 Armarouge SVI 41 2 Bibarel BRS 121 2 Bidoof BRS 120 2 Charcadet SVI 40 2 Entei V BRS 22 1 Delphox V LOR 27 1 Lumineon V BRS 40 1 Radiant Charizard PGO 11
-
-**Trainer Cards - 29** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Raihan CRZ 140 2 Serena SIT 164 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Switch SVI 194 2 Exp. Share SVI 174 1 Choice Belt BRS 135 1 Forest Seal Stone SIT 156 4 Magma Basin BRS 144
-
-**Energy - 11** 11 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 20
+4 Growlithe FST 32
+3 Arcanine ex SVI 32
+2 Armarouge SVI 41
+2 Bibarel BRS 121
+2 Bidoof BRS 120
+2 Charcadet SVI 40
+2 Entei V BRS 22
+1 Delphox V LOR 27
+1 Lumineon V BRS 40
+1 Radiant Charizard PGO 11
+Trainer Cards - 29
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Raihan CRZ 140
+2 Serena SIT 164
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+2 Exp. Share SVI 174
+1 Choice Belt BRS 135
+1 Forest Seal Stone SIT 156
+4 Magma Basin BRS 144
+Energy - 11
+11 Fire Energy SWSHEnergy 2
+```
 
 ### ALTERNATE LISTS
 
@@ -247,7 +271,10 @@ Using a combination of Magma Basin and manual attachments, power up Entei V’s 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/EotY_Pvv6BI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 6: Arcanine ex vs. Miraidon ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/p0tnltD-c50?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;(Full) Post-Rotation Testing, Part 7: Banette ex vs. Arcanine ex&quot;></iframe>">
       </div>
@@ -257,20 +284,9 @@ Using a combination of Magma Basin and manual attachments, power up Entei V’s 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/ipfDwc0tbzs?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #3: Arcanine ex vs. Maushold&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="gyaradosex" class="deck_box">
-    <h1>Gyarados ex</h1>
-    <div class="compm">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/gyarados-ex-21b097.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="gyaradosex" name="Gyarados ex" image="/images/gyarados-ex-21b097.webp" illus="5ban Graphics" comp="meme"}
 
 ### BASIC STRATEGY
 
@@ -286,15 +302,35 @@ Play down Magikarp and Origin Forme Palkia V and evolve them into Gyarados ex an
 
 - Building Gyarados ex with [Cryogonal EVS 43](https://limitlesstcg.com/cards/EVS/43) instead of Origin Forme Palkia VSTAR to use its Elemental Chain attack to power up Gyarados ex’s pricy attack costs.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 13** 3 Magikarp PGO 21 3 Origin Forme Palkia V ASR 39 2 Gyarados ex SVI 45 2 Origin Forme Palkia VSTAR ASR 40 1 Hawlucha SVI 119 1 Lumineon V BRS 40 1 Radiant Alakazam SIT 59
-
-**Trainer Cards - 34** 4 Professor's Research SVI 190 3 Irida ASR 147 2 Boss's Orders BRS 132 2 Raihan CRZ 140 1 Serena SIT 164 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 2 Escape Rope BST 125 2 Exp. Share SVI 174 2 Level Ball BST 129 1 Energy Search SVI 172 1 Hisuian Heavy Ball ASR 146 1 Pal Pad SVI 182 2 Lake Acuity LOR 160
-
-**Energy - 13** 11 Water Energy SWSHEnergy 3 2 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 13
+3 Magikarp PGO 21
+3 Origin Forme Palkia V ASR 39
+2 Gyarados ex SVI 45
+2 Origin Forme Palkia VSTAR ASR 40
+1 Hawlucha SVI 119
+1 Lumineon V BRS 40
+1 Radiant Alakazam SIT 59
+Trainer Cards - 34
+4 Professor's Research SVI 190
+3 Irida ASR 147
+2 Boss's Orders BRS 132
+2 Raihan CRZ 140
+1 Serena SIT 164
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+2 Escape Rope BST 125
+2 Exp. Share SVI 174
+2 Level Ball BST 129
+1 Energy Search SVI 172
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+2 Lake Acuity LOR 160
+Energy - 13
+11 Water Energy SWSHEnergy 3
+2 Double Turbo Energy BRS 151
+```
 
 ### ALTERNATE LISTS
 
@@ -307,20 +343,12 @@ Play down Magikarp and Origin Forme Palkia V and evolve them into Gyarados ex an
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/7WZ8UNj9z9E?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #5: Banette ex vs. Gyarados ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="ofpalkiavstar" class="deck_box">
-    <h1>Origin Forme Palkia VSTAR</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/origin-forme-palkia-vstar.webp)
+::::
 
-*Illus. aky CG Works*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="ofpalkiavstar" name="Origin Forme Palkia VSTAR" image="/images/origin-forme-palkia-vstar.webp" illus="aky CG Works" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -337,15 +365,35 @@ Using the deck’s various search cards and draw options, seek out and bench as 
 - Building the deck with either the [Bibarel](https://limitlesstcg.com/cards/BRS/121) or [Revaroom](https://limitlesstcg.com/cards/jp/SV1S/61?translate=en) engines in place of the Kirlia engine.
 - Pairing Palkia with [Ice Rider Calyrex VMAX CRE 46](https://limitlesstcg.com/cards/CRE/46).
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 17** 4 Kirlia SIT 68 4 Ralts ASR 60 3 Origin Forme Palkia V ASR 39 3 Origin Forme Palkia VSTAR ASR 40 1 Gallade ASR 62 1 Lumineon V BRS 40 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 35** 3 Melony CRE 146 2 Boss's Orders BRS 132 2 Irida ASR 147 2 Judge SVI 176 2 Professor's Research SVI 190 2 Serena SIT 164 4 Battle VIP Pass FST 225 4 Energy Search SVI 172 4 Ultra Ball SVI 196 2 Level Ball BST 129 2 Nest Ball SVI 181 2 Switch SVI 194 1 Energy Retrieval SVI 171 1 Choice Belt BRS 135 1 Path to the Peak CRE 148 1 Temple of Sinnoh ASR 155
-
-**Energy - 8** 8 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 17
+4 Kirlia SIT 68
+4 Ralts ASR 60
+3 Origin Forme Palkia V ASR 39
+3 Origin Forme Palkia VSTAR ASR 40
+1 Gallade ASR 62
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 35
+3 Melony CRE 146
+2 Boss's Orders BRS 132
+2 Irida ASR 147
+2 Judge SVI 176
+2 Professor's Research SVI 190
+2 Serena SIT 164
+4 Battle VIP Pass FST 225
+4 Energy Search SVI 172
+4 Ultra Ball SVI 196
+2 Level Ball BST 129
+2 Nest Ball SVI 181
+2 Switch SVI 194
+1 Energy Retrieval SVI 171
+1 Choice Belt BRS 135
+1 Path to the Peak CRE 148
+1 Temple of Sinnoh ASR 155
+Energy - 8
+8 Water Energy SWSHEnergy 3
+```
 
 ### Testing Streams
 
@@ -354,25 +402,17 @@ Using the deck’s various search cards and draw options, seek out and bench as 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RNFmsl7LyLw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 2: Origin Forme Palkia VSTAR vs. Mew VMAX&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/6ttG13UsoF0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 3: Duraludon VMAX vs. Origin Forme Palkia VSTAR&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="kyuremvmax" class="deck_box">
-    <h1>Kyurem VMAX</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/kyurem-vmax.webp)
-
-*Illus. N-DESIGN Inc.*
-
-
+::::deck{id="kyuremvmax" name="Kyurem VMAX" image="/images/kyurem-vmax.webp" illus="N-DESIGN Inc." comp="low"}
 
 ### BASIC STRATEGY
 
@@ -391,17 +431,38 @@ Bench and evolve Kyurem V and Origin Forme Palkia V into Kyurem VMAX and Origin 
 
 - [Expedition Uniform](https://limitlesstcg.com/cards/CRE/137) as an alternative means of manipulating the top card of your deck.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+3 Kyurem V LOR 48
+3 Kyurem VMAX LOR 49
+2 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Drapion V LOR 118
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 36
+3 Irida ASR 147
+3 Melony CRE 146
+2 Boss's Orders BRS 132
+2 Professor's Research SVI 190
+4 Nest Ball SVI 181
+4 Switching Cups EVS 162
+4 Ultra Ball SVI 196
+3 Energy Search SVI 172
+3 Trekking Shoes CRZ 145
+2 Escape Rope BST 125
+1 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Choice Belt BRS 135
+2 Primordial Altar SIT 161
+Energy - 11
+11 Water Energy SWSHEnergy 3
+```
 
-### EXAMPLE DECK LIST
+::::
 
-**Pokémon - 13** 3 Kyurem V LOR 48 3 Kyurem VMAX LOR 49 2 Origin Forme Palkia V ASR 39 2 Origin Forme Palkia VSTAR ASR 40 1 Drapion V LOR 118 1 Lumineon V BRS 40 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 36** 3 Irida ASR 147 3 Melony CRE 146 2 Boss's Orders BRS 132 2 Professor's Research SVI 190 4 Nest Ball SVI 181 4 Switching Cups EVS 162 4 Ultra Ball SVI 196 3 Energy Search SVI 172 3 Trekking Shoes CRZ 145 2 Escape Rope BST 125 1 Energy Retrieval SVI 171 1 Hisuian Heavy Ball ASR 146 1 Lost Vacuum CRZ 135 1 Choice Belt BRS 135 2 Primordial Altar SIT 161
-
-**Energy - 11** 11 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="lostbox" class="deck_box">
     <h1>Lost Box</h1>
     <div class="comp3">
@@ -506,20 +567,9 @@ Source: Champion's League Aichi, 1st Place
 
 - [Tablemon’s version of this archetype](https://www.youtube.com/watch?v=6Xj_QXJh5o8)
 
-</div></div><div class="jb-code-container">
-    <div id="ircalyrexvmax" class="deck_box">
-    <h1>Ice Rider Calyrex VMAX</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![](/images/ice-rider.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="ircalyrexvmax" name="Ice Rider Calyrex VMAX" image="/images/ice-rider.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -537,30 +587,41 @@ Bench and evolve Ice Rider Calyrex V into Ice Rider Calyrex VMAX, and bench Bido
 - [Drapion V LOR 118](https://limitlesstcg.com/cards/LOR/118) as a counter to Mew VMAX.
 - [Empoleon V BST 40](https://limitlesstcg.com/cards/BST/40) to take advantage of its Emperor’s Eyes Ability to slow down your opponent’s setup with the Abilities of Pokémon like Comfey and its Flower Selecting Ability.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Ice Rider Calyrex V CRE 45
+3 Ice Rider Calyrex VMAX CRE 46
+2 Bidoof BRS 120
+2 Bibarel BRS 121
+1 Lumineon V BRS 40
+1 Origin Forme Palkia V ASR 39
+1 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 36
+4 Irida ASR 147
+3 Melony CRE 146
+2 Boss's Orders BRS 132
+2 Judge SVI 176
+1 Serena SIT 164
+4 Energy Search SVI 172
+4 Nest Ball SVI 181
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+1 Battle VIP Pass FST 225
+1 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Pal Pad SVI 182
+3 Path to the Peak CRE 148
+Energy - 9
+9 Water Energy SWSHEnergy 3
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 15** 4 Ice Rider Calyrex V CRE 45 3 Ice Rider Calyrex VMAX CRE 46 2 Bidoof BRS 120 2 Bibarel BRS 121 1 Lumineon V BRS 40 1 Origin Forme Palkia V ASR 39 1 Origin Forme Palkia VSTAR ASR 40 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 36** 4 Irida ASR 147 3 Melony CRE 146 2 Boss's Orders BRS 132 2 Judge SVI 176 1 Serena SIT 164 4 Energy Search SVI 172 4 Nest Ball SVI 181 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 1 Battle VIP Pass FST 225 1 Escape Rope BST 125 1 Hisuian Heavy Ball ASR 146 1 Lost Vacuum CRZ 135 1 Pal Pad SVI 182 3 Path to the Peak CRE 148
-
-**Energy - 9** 9 Water Energy SWSHEnergy 3
-
-</div></div><div class="jb-code-container">
-    <div id="wugtrio" class="deck_box">
-    <h1>Wugtrio</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/wugtrio-8cc946.webp)
-
-*Illus. KIYOTAKA OSHIYAMA*
+::::
 
 
+
+::::deck{id="wugtrio" name="Wugtrio" image="/images/wugtrio-8cc946.webp" illus="KIYOTAKA OSHIYAMA" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -576,15 +637,29 @@ Evolve Wiglett into Wugtrio and Cherubi into Cherrim. Power up Wugtrio with Cher
 
 - [Zoroark EVS 103](https://limitlesstcg.com/cards/EVS/103) as an alternate way of streaming Wugtrio to ensure you’re attacking with it each turn.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 15** 4 Wiglett SVI 55 4 Wugtrio SVI 57 3 Cherrim BST 8 3 Cherubi BRS 12 1 Manaphy BRS 41
-
-**Trainer Cards - 34** 4 Bruno BST 121 3 Professor's Research SVI 190 4 Energy Retrieval SVI 171 4 Level Ball BST 129 4 Nest Ball SVI 181 4 Rescue Carrier CRZ 142 3 Welcoming Lantern CRE 156 2 Energy Loto ASR 140 2 Energy Recycler BST 124 1 Hisuian Heavy Ball ASR 146 3 PokéStop PGO 68
-
-**Energy - 11** 7 Grass Energy SWSHEnergy 1 4 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 15
+4 Wiglett SVI 55
+4 Wugtrio SVI 57
+3 Cherrim BST 8
+3 Cherubi BRS 12
+1 Manaphy BRS 41
+Trainer Cards - 34
+4 Bruno BST 121
+3 Professor's Research SVI 190
+4 Energy Retrieval SVI 171
+4 Level Ball BST 129
+4 Nest Ball SVI 181
+4 Rescue Carrier CRZ 142
+3 Welcoming Lantern CRE 156
+2 Energy Loto ASR 140
+2 Energy Recycler BST 124
+1 Hisuian Heavy Ball ASR 146
+3 PokéStop PGO 68
+Energy - 11
+7 Grass Energy SWSHEnergy 1
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -593,20 +668,12 @@ Evolve Wiglett into Wugtrio and Cherubi into Cherrim. Power up Wugtrio with Cher
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/s5d0IUkAeH0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #2: Miraidon ex vs. Wugtrio&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="dondozo" class="deck_box">
-    <h1>Dondozo</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/dondozo-2fc679.webp)
+::::
 
-*Illus. Souichirou Gunjima*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="dondozo" name="Dondozo" image="/images/dondozo-2fc679.webp" illus="Souichirou Gunjima" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -621,15 +688,33 @@ Using Level Ball, fish each of your Tatsugiri out of the deck. Discard the Tatsu
 
 - [Ditto CRZ 107](https://limitlesstcg.com/cards/CRZ/107) to use its Sudden Transformation Ability to copy a discarded Dondozo’s Vent Wrath attack.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Dondozo SVI 61 4 Kirlia SIT 68 4 Ralts ASR 60 4 Tatsugiri SVI 62 1 Gallade ASR 62 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 32** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Judge SVI 176 2 Klara CRE 145 2 Raihan CRZ 140 1 Serena SIT 164 4 Level Ball BST 129 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 2 Hisuian Heavy Ball ASR 146 2 Switch SVI 194 1 Pal Pad SVI 182 2 Choice Belt BRS 135 1 Mesagoza SVI 178
-
-**Energy - 10** 6 Water Energy SWSHEnergy 3 4 Double Turbo Energy BRS 151
+```decklist
+Pokémon - 18
+4 Dondozo SVI 61
+4 Kirlia SIT 68
+4 Ralts ASR 60
+4 Tatsugiri SVI 62
+1 Gallade ASR 62
+1 Radiant Greninja ASR 46
+Trainer Cards - 32
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Judge SVI 176
+2 Klara CRE 145
+2 Raihan CRZ 140
+1 Serena SIT 164
+4 Level Ball BST 129
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+2 Hisuian Heavy Ball ASR 146
+2 Switch SVI 194
+1 Pal Pad SVI 182
+2 Choice Belt BRS 135
+1 Mesagoza SVI 178
+Energy - 10
+6 Water Energy SWSHEnergy 3
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -638,20 +723,12 @@ Using Level Ball, fish each of your Tatsugiri out of the deck. Discard the Tatsu
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/CAlNAv7NkWY?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #1: Gardevoir ex vs. Dondozo&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="magnezoneex" class="deck_box">
-    <h1>Magnezone ex</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/magnezone-ex.webp)
+::::
 
-*Illus. hncl*
+<div class="jb-col-3"></div></div></div></div>
 
-
+::::deck{id="magnezoneex" name="Magnezone ex" image="/images/magnezone-ex.webp" illus="hncl" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -668,17 +745,36 @@ Use Miraidon ex to seek Magnemite in the early game so that they can be evolved 
 - [Electric Generator](https://limitlesstcg.com/cards/jp/SV1V/69?translate=en) to make it easier to power up the attacks of Miraidon ex, and to a lesser extent, Magnezone ex.
 - A copy of [Lumineon V BRS 40](https://limitlesstcg.com/cards/BRS/40) to make it easier to find Arven, which can help you find Rare Candy.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 12
+4 Magnemite SVI 63
+4 Magnezone ex SVI 65
+2 Miraidon ex SVI 81
+1 Drapion V LOR 118
+1 Radiant Greninja ASR 46
+Trainer Cards - 37
+4 Professor's Research SVI 190
+2 Arven SVI 166
+2 Boss's Orders BRS 132
+2 Cheryl BST 123
+2 Raihan CRZ 140
+1 Serena SIT 164
+4 Nest Ball SVI 181
+4 Rare Candy SVI 191
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Hisuian Heavy Ball ASR 146
+2 Choice Belt BRS 135
+2 Beach Court SVI 167
+1 Stormy Mountains EVS 161
+Energy - 11
+11 Lightning Energy SWSHEnergy 4
+```
 
-### EXAMPLE DECK LIST
+::::
 
-**Pokémon - 12** 4 Magnemite SVI 63 4 Magnezone ex SVI 65 2 Miraidon ex SVI 81 1 Drapion V LOR 118 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 37** 4 Professor's Research SVI 190 2 Arven SVI 166 2 Boss's Orders BRS 132 2 Cheryl BST 123 2 Raihan CRZ 140 1 Serena SIT 164 4 Nest Ball SVI 181 4 Rare Candy SVI 191 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 2 Switch SVI 194 1 Hisuian Heavy Ball ASR 146 2 Choice Belt BRS 135 2 Beach Court SVI 167 1 Stormy Mountains EVS 161
-
-**Energy - 11** 11 Lightning Energy SWSHEnergy 4
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="magnezonevstar" class="deck_box">
     <h1>Magnezone VSTAR</h1>
     <div class="comp1">
@@ -708,13 +804,14 @@ Power up Magnezone VSTAR’s Magnet Grip attack, which does 180 damage and lets 
 - [Raikou V BRS 48](https://limitlesstcg.com/cards/BRS/48) as an alternate attacking option that’s fast to setup that Magnezone VSTAR.
 - [Exp. Share](https://limitlesstcg.com/cards/BST/126) as a means of preserving some accelerated energy.
 
-</div><div class="jb-col-6"><div class="jb-code-container">
-    <div class="note_box">
-  <h3>Card Availability Note</h3>
-  <p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
+</div><div class="jb-col-6">
+
+:::note{title="Card Availability Note"}
+<p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
   <p>Suggested temporary stand-in: Raikou V BRS 48</p>
-</div>
-</div>
+:::
+
+
 
 ### EXAMPLE DECK LIST
 
@@ -756,12 +853,13 @@ Get Mareep into play as early as possible with the assistance of Miraidon ex’s
 - [Miriam](https://limitlesstcg.com/cards/jp/SV1V/77?translate=en) as an alternate Pokémon recovery option.
 - [Drapion V LOR 118](https://limitlesstcg.com/cards/LOR/118) as an additional means of combating opposing Mew VMAX and Gardevoir ex decks.
 
-</div><div class="jb-col-6"><div class="jb-code-container">
-    <div class="note_box">
-  <h3>Card Availability Note</h3>
-  <p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
-</div>
-</div>
+</div><div class="jb-col-6">
+
+:::note{title="Card Availability Note"}
+<p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
+:::
+
+
 
 ### EXAMPLE DECK LIST
 
@@ -1004,20 +1102,9 @@ Bench Meloetta, Mew V, and Genesect V, filling your bench with Genesect V and a 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RNFmsl7LyLw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 2: Origin Forme Palkia VSTAR vs. Mew VMAX&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="gardevoirex" class="deck_box">
-    <h1>Gardevoir ex</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/gardevoir-ex-afeede.webp)
-
-*Illus. N-DESIGN Inc.*
-
-
+::::deck{id="gardevoirex" name="Gardevoir ex" image="/images/gardevoir-ex-afeede.webp" illus="N-DESIGN Inc." comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -1036,15 +1123,36 @@ While using Klefki’s Mischievous Lock Ability to slow down your opponent’s s
 - [Galarian Articuno EVS 63](https://limitlesstcg.com/cards/EVS/63) as a snipe option with its Psylaser attack.
 - [Gallade CRE 81](https://limitlesstcg.com/cards/CRE/81) as an alternate attacker, making use of its Dynablade attack which does 60 damage for each of your opponent’s Pokémon V in play.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 17** 4 Kirlia SIT 68 3 Ralts ASR 60 2 Gardevoir ex SVI 86 2 Klefki SVI 96 1 Gallade ASR 62 1 Gardevoir CRE 61 1 Radiant Greninja ASR 46 1 Ralts SIT 67 1 Wyrdeer V ASR 134 1 Zacian V CEL 16
-
-**Trainer Cards - 32** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Judge SVI 176 1 Arven SVI 166 1 Cheryl BST 123 1 Miriam SVI 179 4 Fog Crystal CRE 140 4 Level Ball BST 129 3 Nest Ball SVI 181 3 Ultra Ball SVI 196 2 Rare Candy SVI 191 2 Switch SVI 194 1 Sky Seal Stone CRZ 143 2 Primordial Altar SIT 161
-
-**Energy - 11** 11 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 17
+4 Kirlia SIT 68
+3 Ralts ASR 60
+2 Gardevoir ex SVI 86
+2 Klefki SVI 96
+1 Gallade ASR 62
+1 Gardevoir CRE 61
+1 Radiant Greninja ASR 46
+1 Ralts SIT 67
+1 Wyrdeer V ASR 134
+1 Zacian V CEL 16
+Trainer Cards - 32
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Judge SVI 176
+1 Arven SVI 166
+1 Cheryl BST 123
+1 Miriam SVI 179
+4 Fog Crystal CRE 140
+4 Level Ball BST 129
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+2 Switch SVI 194
+1 Sky Seal Stone CRZ 143
+2 Primordial Altar SIT 161
+Energy - 11
+11 Psychic Energy SWSHEnergy 5
+```
 
 ### ALTERNATE LISTS
 
@@ -1058,7 +1166,10 @@ While using Klefki’s Mischievous Lock Ability to slow down your opponent’s s
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YVI86MzYJ8g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 4: Gardevoir ex vs. Duraludon VMAX&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/CAlNAv7NkWY?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #1: Gardevoir ex vs. Dondozo&quot;></iframe>">
       </div>
@@ -1068,20 +1179,9 @@ While using Klefki’s Mischievous Lock Ability to slow down your opponent’s s
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/WBM-ox67aoE?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 5: Miraidon ex vs. Gardevoir ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="banetteex" class="deck_box">
-    <h1>Banette ex</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div><div class="jb-col-3"></div></div></div></div>
 
-![](/images/banette-ex-4c9c93.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="banetteex" name="Banette ex" image="/images/banette-ex-4c9c93.webp" illus="PLANETA Mochizuki" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -1100,15 +1200,35 @@ While using Klefki’s Mischievous Lock Ability and Banette ex’s Eternal Darkn
 - [Zacian V CEL 16](https://limitlesstcg.com/cards/CEL/16) to use as an alternate attacker that’s a hard-hitting Basic Pokémon.
 - [Gallade CRE 81](https://limitlesstcg.com/cards/CRE/81) as an alternate attacker, making use of its Dynablade attack which does 60 damage for each of your opponent’s Pokémon V in play.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 23** 3 Klefki SVI 96 3 Ralts ASR 60 1 Ralts SIT 67 4 Kirlia SIT 68 2 Gardevoir ex SVI 86 1 Gallade ASR 62 2 Shuppet SVI 87 2 Banette ex SVI 88 1 Mewtwo V-UNION PR-SW 159 1 Mewtwo V-UNION PR-SW 160 1 Mewtwo V-UNION PR-SW 161 1 Mewtwo V-UNION PR-SW 162 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 29** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Judge SVI 176 1 Cheryl BST 123 1 Peonia CRE 149 4 Fog Crystal CRE 140 4 Level Ball BST 129 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Beach Court SVI 167
-
-**Energy - 8** 8 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 23
+3 Klefki SVI 96
+3 Ralts ASR 60
+1 Ralts SIT 67
+4 Kirlia SIT 68
+2 Gardevoir ex SVI 86
+1 Gallade ASR 62
+2 Shuppet SVI 87
+2 Banette ex SVI 88
+1 Mewtwo V-UNION PR-SW 159
+1 Mewtwo V-UNION PR-SW 160
+1 Mewtwo V-UNION PR-SW 161
+1 Mewtwo V-UNION PR-SW 162
+1 Radiant Greninja ASR 46
+Trainer Cards - 29
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Judge SVI 176
+1 Cheryl BST 123
+1 Peonia CRE 149
+4 Fog Crystal CRE 140
+4 Level Ball BST 129
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Beach Court SVI 167
+Energy - 8
+8 Psychic Energy SWSHEnergy 5
+```
 
 ### Testing Streams
 
@@ -1117,7 +1237,10 @@ While using Klefki’s Mischievous Lock Ability and Banette ex’s Eternal Darkn
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/p0tnltD-c50?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;(Full) Post-Rotation Testing, Part 7: Banette ex vs. Arcanine ex&quot;></iframe>">
       </div>
     </div>
-  </div></div><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/7WZ8UNj9z9E?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Bonus #5: Banette ex vs. Gyarados ex&quot;></iframe>">
       </div>
@@ -1127,20 +1250,9 @@ While using Klefki’s Mischievous Lock Ability and Banette ex’s Eternal Darkn
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/eR3SdbE16NU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 8: Spidops ex vs. Banette ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="srcalyrexvmax" class="deck_box">
-    <h1>Shadow Rider Calyrex VMAX</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/shadow-rider.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="srcalyrexvmax" name="Shadow Rider Calyrex VMAX" image="/images/shadow-rider.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -1156,30 +1268,38 @@ Bench and evolve Shadow Rider Calyrex V into Shadow Rider Calyrex VMAX to make f
 
 - Building Shadow Rider Calyrex VMAX as part of a Gardevoir ex archetype, using the Kirlia Engine ([Kirlia SIT 68](https://limitlesstcg.com/cards/SIT/68), [Gardevoir CRE 61](https://limitlesstcg.com/cards/CRE/61), [Gallade ASR 62](https://limitlesstcg.com/cards/ASR/62), [Gardevoir ex SVI 86](https://limitlesstcg.com/cards/jp/SV1S/28?translate=en)) to assist with consistency and energy acceleration.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+4 Shadow Rider Calyrex V CRE 74
+4 Shadow Rider Calyrex VMAX CRE 75
+2 Klefki SVI 96
+1 Galarian Articuno EVS 63
+1 Radiant Greninja ASR 46
+1 Zacian V CEL 16
+Trainer Cards - 34
+4 Professor's Research SVI 190
+3 Judge SVI 176
+2 Serena SIT 164
+1 Boss's Orders BRS 132
+1 Klara CRE 145
+4 Fog Crystal CRE 140
+4 Switch SVI 194
+4 Ultra Ball SVI 196
+3 Battle VIP Pass FST 225
+2 Energy Retrieval SVI 171
+1 Energy Recycler BST 124
+1 Escape Rope BST 125
+1 Forest Seal Stone SIT 156
+3 Old Cemetery CRE 147
+Energy - 13
+13 Psychic Energy SWSHEnergy 5
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 13** 4 Shadow Rider Calyrex V CRE 74 4 Shadow Rider Calyrex VMAX CRE 75 2 Klefki SVI 96 1 Galarian Articuno EVS 63 1 Radiant Greninja ASR 46 1 Zacian V CEL 16
-
-**Trainer Cards - 34** 4 Professor's Research SVI 190 3 Judge SVI 176 2 Serena SIT 164 1 Boss's Orders BRS 132 1 Klara CRE 145 4 Fog Crystal CRE 140 4 Switch SVI 194 4 Ultra Ball SVI 196 3 Battle VIP Pass FST 225 2 Energy Retrieval SVI 171 1 Energy Recycler BST 124 1 Escape Rope BST 125 1 Forest Seal Stone SIT 156 3 Old Cemetery CRE 147
-
-**Energy - 13** 13 Psychic Energy SWSHEnergy 5
-
-</div></div><div class="jb-code-container">
-    <div id="ssurshifuvmax" class="deck_box">
-    <h1>Single Strike Urshifu VMAX</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/ss-urshifu.webp)
-
-*Illus. PLANETA Tsuji*
+::::
 
 
+
+::::deck{id="ssurshifuvmax" name="Single Strike Urshifu VMAX" image="/images/ss-urshifu.webp" illus="PLANETA Tsuji" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1195,30 +1315,39 @@ Get out Houndour and Single Strike Urshifu V on early turns so that they can evo
 
 - [Roxanne](https://limitlesstcg.com/cards/ASR/150) as a means of disrupting your opponent in the mid to late game.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Houndour BST 95
+3 Houndoom BST 96
+3 Umbreon V EVS 94
+2 Umbreon VMAX EVS 95
+2 Single Strike Urshifu V BST 85
+2 Single Strike Urshifu VMAX BST 86
+1 Lumineon V BRS 40
+1 Morpeko FST 179
+1 Stonjourner BST 84
+Trainer Cards - 31
+4 Professor's Research SVI 190
+3 Shauna FST 240
+2 Boss's Orders BRS 132
+4 Ultra Ball SVI 196
+3 Battle VIP Pass FST 225
+3 Nest Ball SVI 181
+3 Switch SVI 194
+3 Urn of Vitality BST 139
+2 Forest Seal Stone SIT 156
+4 Tower of Darkness BST 137
+Energy - 10
+4 Impact Energy CRE 157
+4 Single Strike Energy BST 141
+2 Fighting Energy SWSHEnergy 6
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Houndour BST 95 3 Houndoom BST 96 3 Umbreon V EVS 94 2 Umbreon VMAX EVS 95 2 Single Strike Urshifu V BST 85 2 Single Strike Urshifu VMAX BST 86 1 Lumineon V BRS 40 1 Morpeko FST 179 1 Stonjourner BST 84
-
-**Trainer Cards - 31** 4 Professor's Research SVI 190 3 Shauna FST 240 2 Boss's Orders BRS 132 4 Ultra Ball SVI 196 3 Battle VIP Pass FST 225 3 Nest Ball SVI 181 3 Switch SVI 194 3 Urn of Vitality BST 139 2 Forest Seal Stone SIT 156 4 Tower of Darkness BST 137
-
-**Energy - 10** 4 Impact Energy CRE 157 4 Single Strike Energy BST 141 2 Fighting Energy SWSHEnergy 6
-
-</div></div><div class="jb-code-container">
-    <div id="rsurshifuvmax" class="deck_box">
-    <h1>Rapid Strike Urshifu VMAX</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/rs-urshifu.webp)
-
-*Illus. PLANETA Tsuji*
+::::
 
 
+
+::::deck{id="rsurshifuvmax" name="Rapid Strike Urshifu VMAX" image="/images/rs-urshifu.webp" illus="PLANETA Tsuji" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -1234,30 +1363,43 @@ Evolve Rapid Strike Urshifu V into Rapid Strike Urshifu VMAX and use the deck’
 - Building the deck as a part of a [Rapid Strike Lugia VSTAR deck](#lugiavstar).
 - Leaning heavier into the Rapid Strike toolbox with options like [Medicham V EVS 83](https://limitlesstcg.com/cards/EVS/83), [Inteleon VMAX FST 79](https://limitlesstcg.com/cards/FST/79), [Zeraora V CRE 53](https://limitlesstcg.com/cards/CRE/53), [Sylveon VMAX EVS 75](https://limitlesstcg.com/cards/EVS/75), and [Blaziken VMAX CRE 21](https://limitlesstcg.com/cards/CRE/21).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Rapid Strike Urshifu V BST 87
+3 Rapid Strike Urshifu VMAX BST 88
+2 Empoleon V BST 40
+2 Octillery BST 37
+2 Remoraid BST 36
+1 Basculin FST 70
+1 Drapion V LOR 118
+1 Lumineon V BRS 40
+1 Passimian CRE 88
+1 Radiant Greninja ASR 46
+Trainer Cards - 32
+3 Irida ASR 147
+3 Melony CRE 146
+2 Boss's Orders BRS 132
+1 Cheryl BST 123
+1 Korrina's Focus BST 128
+1 Raihan CRZ 140
+4 Cross Switcher FST 230
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+2 Energy Search SVI 172
+2 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+2 Forest Seal Stone SIT 156
+2 Tower of Waters BST 138
+Energy - 10
+6 Water Energy SWSHEnergy 3
+4 Rapid Strike Energy BST 140
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Rapid Strike Urshifu V BST 87 3 Rapid Strike Urshifu VMAX BST 88 2 Empoleon V BST 40 2 Octillery BST 37 2 Remoraid BST 36 1 Basculin FST 70 1 Drapion V LOR 118 1 Lumineon V BRS 40 1 Passimian CRE 88 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 32** 3 Irida ASR 147 3 Melony CRE 146 2 Boss's Orders BRS 132 1 Cheryl BST 123 1 Korrina's Focus BST 128 1 Raihan CRZ 140 4 Cross Switcher FST 230 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 2 Energy Search SVI 172 2 Escape Rope BST 125 1 Hisuian Heavy Ball ASR 146 2 Forest Seal Stone SIT 156 2 Tower of Waters BST 138
-
-**Energy - 10** 6 Water Energy SWSHEnergy 3 4 Rapid Strike Energy BST 140
-
-</div></div><div class="jb-code-container">
-    <div id="darkraivstar" class="deck_box">
-    <h1>Darkrai VSTAR</h1>
-    <div class="comp2">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/darkrai-vstar.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="darkraivstar" name="Darkrai VSTAR" image="/images/darkrai-vstar.webp" illus="5ban Graphics" comp="moderate"}
 
 ### BASIC STRATEGY
 
@@ -1277,30 +1419,36 @@ Evolve Darkrai V into Darkrai VSTAR and use its Dark Pulse attack, which does 30
 - [Judge](https://limitlesstcg.com/cards/FST/235) or [Roxanne](https://limitlesstcg.com/cards/ASR/150) as a means of disrupting your opponent’s hand, especially in the mid to late game.
 - [Hisuian Heavy Ball](https://limitlesstcg.com/cards/ASR/146) to fish Prized copies of Darkrai V or Radiant Greninja out of your Prize cards.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+3 Darkrai V ASR 98
+3 Darkrai VSTAR ASR 99
+2 Galarian Moltres V CRE 97
+2 Revavroom SVI 142
+2 Varoom SVI 141
+1 Radiant Greninja ASR 46
+Trainer Cards - 32
+4 Professor's Research SVI 190
+1 Boss's Orders BRS 132
+1 Klara CRE 145
+1 Serena SIT 164
+4 Dark Patch ASR 139
+4 Nest Ball SVI 181
+4 Switch SVI 194
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+1 Pal Pad SVI 182
+2 Choice Belt BRS 135
+2 PokéStop PGO 68
+Energy - 15
+15 Darkness Energy SWSHEnergy 7
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 13** 3 Darkrai V ASR 98 3 Darkrai VSTAR ASR 99 2 Galarian Moltres V CRE 97 2 Revavroom SVI 142 2 Varoom SVI 141 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 32** 4 Professor's Research SVI 190 1 Boss's Orders BRS 132 1 Klara CRE 145 1 Serena SIT 164 4 Dark Patch ASR 139 4 Nest Ball SVI 181 4 Switch SVI 194 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 1 Pal Pad SVI 182 2 Choice Belt BRS 135 2 PokéStop PGO 68
-
-**Energy - 15** 15 Darkness Energy SWSHEnergy 7
-
-</div></div><div class="jb-code-container">
-    <div id="ofdialgavstar" class="deck_box">
-    <h1>Origin Forme Dialga VSTAR</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/origin-forme-dialga-vstar.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="ofdialgavstar" name="Origin Forme Dialga VSTAR" image="/images/origin-forme-dialga-vstar.webp" illus="5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -1316,17 +1464,33 @@ Using Magnezone’s Giga Magnet Ability and manual attachments, prepare to take 
 - [Miraidon ex SVI 81](https://limitlesstcg.com/cards/ASR/107) to help search out your Magnemite so that they can more quickly evolve into Magnezone.
 - Building the deck around the Lost Engine instead of Magnezone.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 13
+3 Magnemite SVI 63
+3 Magnezone ASR 107
+3 Origin Forme Dialga V ASR 113
+3 Origin Forme Dialga VSTAR ASR 114
+1 Radiant Greninja ASR 46
+Trainer Cards - 29
+4 Adaman ASR 135
+2 Boss's Orders BRS 132
+1 Avery CRE 130
+1 Serena SIT 164
+4 Nest Ball SVI 181
+4 Pokégear 3.0 SVI 186
+3 Rare Candy SVI 191
+3 Ultra Ball SVI 196
+2 Battle VIP Pass FST 225
+2 Energy Recycler BST 124
+1 Hisuian Heavy Ball ASR 146
+2 Mesagoza SVI 178
+Energy - 18
+18 Metal Energy SWSHEnergy 8
+```
 
-### EXAMPLE DECK LIST
+::::
 
-**Pokémon - 13** 3 Magnemite SVI 63 3 Magnezone ASR 107 3 Origin Forme Dialga V ASR 113 3 Origin Forme Dialga VSTAR ASR 114 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 29** 4 Adaman ASR 135 2 Boss's Orders BRS 132 1 Avery CRE 130 1 Serena SIT 164 4 Nest Ball SVI 181 4 Pokégear 3.0 SVI 186 3 Rare Candy SVI 191 3 Ultra Ball SVI 196 2 Battle VIP Pass FST 225 2 Energy Recycler BST 124 1 Hisuian Heavy Ball ASR 146 2 Mesagoza SVI 178
-
-**Energy - 18** 18 Metal Energy SWSHEnergy 8
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="rayquazavmax" class="deck_box">
     <h1>Rayquaza VMAX</h1>
     <div class="comp1">
@@ -1358,13 +1522,14 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 - [Radiant Charizard PGO 11](https://limitlesstcg.com/cards/PGO/11) as a mid to late game single prize attacker.
 - A Fire-heavy build instead of a Lightning-heavy build, using [Magma Basin](https://limitlesstcg.com/cards/BRS/144) and [Armarouge](https://limitlesstcg.com/cards/jp/SV1S/12?translate=en) to get Rayquaza VMAX powered up.
 
-</div><div class="jb-col-6"><div class="jb-code-container">
-    <div class="note_box">
-  <h3>Card Availability Note</h3>
-  <p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
+</div><div class="jb-col-6">
+
+:::note{title="Card Availability Note"}
+<p>Ampharos ex SVP 16 was cut from Scarlet &amp; Violet base set and won't be available until the Ampharos ex Battle Deck releases on 5 May 2023. As a result, Ampharos ex won't be tournament legal until 19 May 2023.</p>
   <p>Suggested temporary stand-in: Raichu V BRS 45</p>
-</div>
-</div>
+:::
+
+
 
 ### EXAMPLE DECK LIST
 
@@ -1374,20 +1539,9 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 
 **Energy - 12** 8 Lightning Energy SWSHEnergy 4 4 Fire Energy SWSHEnergy 2
 
-</div></div><div class="jb-code-container">
-    <div id="giratinavstar" class="deck_box">
-    <h1>Giratina VSTAR</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div>
 
-![](/images/giratina-vstar.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="giratinavstar" name="Giratina VSTAR" image="/images/giratina-vstar.webp" illus="5ban Graphics" comp="high"}
 
 ### BASIC STRATEGY
 
@@ -1406,15 +1560,37 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
 - [Raihan](https://limitlesstcg.com/cards/EVS/152) as an additional means of recovering and accelerating basic Energy, with the benefit of being able to search your deck for any card.
 - [Roxanne](https://limitlesstcg.com/cards/ASR/150) as an additional means of disrupting your opponent in the mid to late game.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 16** 4 Comfey LOR 79 3 Giratina VSTAR LOR 131 2 Cramorant LOR 50 2 Giratina V LOR 130 1 Drapion V LOR 118 1 Lumineon V BRS 40 1 Radiant Greninja ASR 46 1 Sableye LOR 70 1 Snorlax LOR 143
-
-**Trainer Cards - 33** 4 Colress's Experiment LOR 155 2 Boss's Orders BRS 132 1 Klara CRE 145 1 Thorton LOR 167 4 Battle VIP Pass FST 225 4 Mirage Gate LOR 163 4 Switch SVI 194 3 Switch Cart ASR 154 2 Energy Recycler BST 124 2 Escape Rope BST 125 2 Nest Ball SVI 181 1 Lost Vacuum CRZ 135 1 Ultra Ball SVI 196 2 Beach Court SVI 167
-
-**Energy - 11** 4 Grass Energy SWSHEnergy 1 4 Psychic Energy SWSHEnergy 5 3 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 16
+4 Comfey LOR 79
+3 Giratina VSTAR LOR 131
+2 Cramorant LOR 50
+2 Giratina V LOR 130
+1 Drapion V LOR 118
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+1 Sableye LOR 70
+1 Snorlax LOR 143
+Trainer Cards - 33
+4 Colress's Experiment LOR 155
+2 Boss's Orders BRS 132
+1 Klara CRE 145
+1 Thorton LOR 167
+4 Battle VIP Pass FST 225
+4 Mirage Gate LOR 163
+4 Switch SVI 194
+3 Switch Cart ASR 154
+2 Energy Recycler BST 124
+2 Escape Rope BST 125
+2 Nest Ball SVI 181
+1 Lost Vacuum CRZ 135
+1 Ultra Ball SVI 196
+2 Beach Court SVI 167
+Energy - 11
+4 Grass Energy SWSHEnergy 1
+4 Psychic Energy SWSHEnergy 5
+3 Water Energy SWSHEnergy 3
+```
 
 ### Alternate Lists
 
@@ -1427,7 +1603,10 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/cAssAXzmAQI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 1: Mew VMAX vs. Giratina VSTAR&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
+
+::::
+
+<div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
     <div id="hgoodravstar" class="deck_box">
     <h1>Hisuian Goodra VSTAR</h1>
     <div class="comp1">
@@ -1522,20 +1701,9 @@ Using the components of the Comfey engine, get first to four, then seven, and fi
 4 Metal Energy SWSHEnergy 8<br />
 1 V Guard Energy SIT 169</p>
 </div>
-</div></div></div><div class="jb-code-container">
-    <div id="duraludonvmax" class="deck_box">
-    <h1>Duraludon VMAX</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div></div>
 
-![](/images/duraludon-vmax.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="duraludonvmax" name="Duraludon VMAX" image="/images/duraludon-vmax.webp" illus="PLANETA Mochizuki" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -1550,15 +1718,31 @@ Play down Arceus V and Duraludon V, using Arceus V’s Trinity Charge attack to 
 
 - [Sweet Honey](https://limitlesstcg.com/cards/ASR/153) as an additional healing option.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 12** 4 Arceus V BRS 122 3 Duraludon V EVS 122 3 Duraludon VMAX EVS 123 2 Arceus VSTAR BRS 123
-
-**Trainer Cards - 35** 3 Judge SVI 176 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Colress's Experiment LOR 155 2 Serena SIT 164 1 Raihan CRZ 140 4 Lucky Ice Pop EVS 150 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Trekking Shoes CRZ 145 2 Switch SVI 194 1 Escape Rope BST 125 4 Crystal Cave EVS 144
-
-**Energy - 13** 6 Metal Energy SWSHEnergy 8 4 Double Turbo Energy BRS 151 3 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 12
+4 Arceus V BRS 122
+3 Duraludon V EVS 122
+3 Duraludon VMAX EVS 123
+2 Arceus VSTAR BRS 123
+Trainer Cards - 35
+3 Judge SVI 176
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Colress's Experiment LOR 155
+2 Serena SIT 164
+1 Raihan CRZ 140
+4 Lucky Ice Pop EVS 150
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Trekking Shoes CRZ 145
+2 Switch SVI 194
+1 Escape Rope BST 125
+4 Crystal Cave EVS 144
+Energy - 13
+6 Metal Energy SWSHEnergy 8
+4 Double Turbo Energy BRS 151
+3 Fighting Energy SWSHEnergy 6
+```
 
 ### Testing Streams
 
@@ -1567,25 +1751,17 @@ Play down Arceus V and Duraludon V, using Arceus V’s Trinity Charge attack to 
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/6ttG13UsoF0?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 3: Duraludon VMAX vs. Origin Forme Palkia VSTAR&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/YVI86MzYJ8g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen title=&quot;Post-Rotation Testing, Part 4: Gardevoir ex vs. Duraludon VMAX&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="regidragovstar" class="deck_box">
-    <h1>Regidrago VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/regidrago-vstar.webp)
-
-*Illus. PLANETA Yamashita*
-
-
+::::deck{id="regidragovstar" name="Regidrago VSTAR" image="/images/regidrago-vstar.webp" illus="PLANETA Yamashita" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1602,34 +1778,48 @@ Using Ultra Ball and Professor’s Research, Discard your Dragon-type attackers 
 - [Garchomp V ASR 117](https://limitlesstcg.com/cards/ASR/117) to copy its Sonic Strike attack, which does 220 damage to 1 of your opponent’s Pokémon.
 - [Flygon V BRS 106](https://limitlesstcg.com/cards/BRS/106) to copy its Draconic Impulse attack, which does 160 damage plus 160 damage if your opponent’s Active Pokémon is a Pokémon VMAX.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 20** 4 Arceus V BRS 122 2 Arceus VSTAR BRS 123 2 Bibarel BRS 121 2 Bidoof BRS 120 2 Regidrago V SIT 135 2 Regidrago VSTAR SIT 136 1 Drapion V LOR 118 1 Duraludon VMAX EVS 123 1 Giratina VSTAR LOR 131 1 Hisuian Goodra VSTAR LOR 136 1 Lumineon V BRS 40 1 Radiant Charizard CRZ 20
-
-**Trainer Cards - 27** 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Judge SVI 176 2 Serena SIT 164 1 Raihan CRZ 140 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 2 Great Ball CRZ 132 2 Switch SVI 194 2 Choice Belt BRS 135 2 Mesagoza SVI 178 2 Path to the Peak CRE 148
-
-**Energy - 13** 6 Grass Energy SWSHEnergy 1 4 Double Turbo Energy BRS 151 3 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 20
+4 Arceus V BRS 122
+2 Arceus VSTAR BRS 123
+2 Bibarel BRS 121
+2 Bidoof BRS 120
+2 Regidrago V SIT 135
+2 Regidrago VSTAR SIT 136
+1 Drapion V LOR 118
+1 Duraludon VMAX EVS 123
+1 Giratina VSTAR LOR 131
+1 Hisuian Goodra VSTAR LOR 136
+1 Lumineon V BRS 40
+1 Radiant Charizard CRZ 20
+Trainer Cards - 27
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Judge SVI 176
+2 Serena SIT 164
+1 Raihan CRZ 140
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+2 Great Ball CRZ 132
+2 Switch SVI 194
+2 Choice Belt BRS 135
+2 Mesagoza SVI 178
+2 Path to the Peak CRE 148
+Energy - 13
+6 Grass Energy SWSHEnergy 1
+4 Double Turbo Energy BRS 151
+3 Fire Energy SWSHEnergy 2
+```
 
 ### ALTERNATE LISTS
 
 - [LittleDarkFury’s version of this archetype](https://www.youtube.com/watch?v=MmevlFC4yNk)
 
-</div></div><div class="jb-code-container">
-    <div id="blisseyv" class="deck_box">
-    <h1>Blissey V</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/blissey-v.webp)
-
-*Illus. Saki Hayashiro*
+::::
 
 
+
+::::deck{id="blisseyv" name="Blissey V" image="/images/blissey-v.webp" illus="Saki Hayashiro" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1645,17 +1835,35 @@ Bench Blissey V and attach an energy to it to prepare its Blissful Blast attack,
 - [Sweet Honey](https://limitlesstcg.com/cards/ASR/153) as an additional healing option.
 - Water Energy and [Lake Acuity](https://limitlesstcg.com/cards/LOR/160), to provide an additional bit of damage reduction for Blissey V.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 10
+4 Blissey V CRE 119
+3 Yveltal CEL 19
+2 Miltank ASR 126
+1 Radiant Greninja ASR 46
+Trainer Cards - 35
+4 Judge SVI 176
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Cheren's Care BRS 134
+2 Serena SIT 164
+4 Lucky Ice Pop EVS 150
+4 Nest Ball SVI 181
+4 Trekking Shoes CRZ 145
+2 Echoing Horn CRE 136
+2 Escape Rope BST 125
+2 Choice Belt BRS 135
+4 Path to the Peak CRE 148
+Energy - 15
+4 Double Turbo Energy BRS 151
+4 Lucky Energy CRE 158
+4 V Guard Energy SIT 169
+3 Gift Energy LOR 171
+```
 
-### EXAMPLE DECK LIST
+::::
 
-**Pokémon - 10** 4 Blissey V CRE 119 3 Yveltal CEL 19 2 Miltank ASR 126 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 35** 4 Judge SVI 176 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Cheren's Care BRS 134 2 Serena SIT 164 4 Lucky Ice Pop EVS 150 4 Nest Ball SVI 181 4 Trekking Shoes CRZ 145 2 Echoing Horn CRE 136 2 Escape Rope BST 125 2 Choice Belt BRS 135 4 Path to the Peak CRE 148
-
-**Energy - 15** 4 Double Turbo Energy BRS 151 4 Lucky Energy CRE 158 4 V Guard Energy SIT 169 3 Gift Energy LOR 171
-
-</div></div><div class="jb-code-container">
+<div class="jb-code-container">
     <div id="lugiavstar" class="deck_box">
     <h1>Lugia VSTAR</h1>
     <div class="comp3">
@@ -1810,20 +2018,9 @@ Get two Archeops into the discard pile while benching and eventually evolving Lu
 2 Gift Energy LOR 171<br />
 2 V Guard Energy SIT 169</p>
 </div>
-</div></div></div><div class="jb-code-container">
-    <div id="regigigasvstar" class="deck_box">
-    <h1>Regigigas VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+</div></div></div>
 
-![](/images/regigigas-vstar-0179e8.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="regigigasvstar" name="Regigigas VSTAR" image="/images/regigigas-vstar-0179e8.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1841,30 +2038,40 @@ Play down Regigigas V and Ralts, then evolve Ralts into Kirlia to take advantage
 - [Leafy Camo Poncho](https://limitlesstcg.com/cards/SIT/160) to preserve benched Regigigas VSTAR.
 - Building with [Arceus VSTAR BRS 123](https://limitlesstcg.com/cards/BRS/123) to take advantage of its Starbirth VSTAR Power and the energy acceleration it provides with Trinity Nova.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Ralts ASR 60
+4 Kirlia SIT 68
+1 Gallade ASR 62
+4 Regigigas V CRZ 113
+3 Regigigas VSTAR CRZ 114
+1 Lumineon V BRS 40
+1 Radiant Gardevoir LOR 69
+Trainer Cards - 30
+4 Judge SVI 176
+3 Melony CRE 146
+2 Serena SIT 164
+1 Cheren's Care BRS 134
+4 Nest Ball SVI 181
+3 Energy Search SVI 172
+3 Level Ball BST 129
+3 Ultra Ball SVI 196
+1 Escape Rope BST 125
+1 Pal Pad SVI 182
+1 Switch SVI 194
+1 Forest Seal Stone SIT 156
+3 Path to the Peak CRE 148
+Energy - 12
+6 Water Energy SWSHEnergy 3
+4 Double Turbo Energy BRS 151
+2 V Guard Energy SIT 169
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Ralts ASR 60 4 Kirlia SIT 68 1 Gallade ASR 62 4 Regigigas V CRZ 113 3 Regigigas VSTAR CRZ 114 1 Lumineon V BRS 40 1 Radiant Gardevoir LOR 69
-
-**Trainer Cards - 30** 4 Judge SVI 176 3 Melony CRE 146 2 Serena SIT 164 1 Cheren's Care BRS 134 4 Nest Ball SVI 181 3 Energy Search SVI 172 3 Level Ball BST 129 3 Ultra Ball SVI 196 1 Escape Rope BST 125 1 Pal Pad SVI 182 1 Switch SVI 194 1 Forest Seal Stone SIT 156 3 Path to the Peak CRE 148
-
-**Energy - 12** 6 Water Energy SWSHEnergy 3 4 Double Turbo Energy BRS 151 2 V Guard Energy SIT 169
-
-</div></div><div class="jb-code-container">
-    <div id="arceusvstar" class="deck_box">
-    <h1>Arceus VSTAR</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/arceus-vstar-deffc1.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="arceusvstar" name="Arceus VSTAR" image="/images/arceus-vstar-deffc1.webp" illus="5ban Graphics" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -1880,30 +2087,41 @@ Use Arceus V’s Trinity Charge attack to power up another Arceus V or VSTAR. Ev
 
 - Building around the [Bibarel](https://limitlesstcg.com/cards/BRS/121) engine instead of the Kirlia engine.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Arceus V BRS 122
+3 Arceus VSTAR BRS 123
+3 Ralts ASR 60
+1 Ralts SIT 67
+4 Kirlia SIT 68
+2 Gallade ASR 62
+1 Gallade CRE 81
+1 Radiant Gardevoir LOR 69
+Trainer Cards - 31
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Cheren's Care BRS 134
+2 Judge SVI 176
+1 Avery CRE 130
+1 Raihan CRZ 140
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Level Ball BST 129
+3 Trekking Shoes CRZ 145
+2 Switch SVI 194
+1 Pal Pad SVI 182
+2 Path to the Peak CRE 148
+1 Collapsed Stadium BRS 137
+Energy - 10
+6 Psychic Energy SWSHEnergy 5
+4 Double Turbo Energy BRS 151
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 19** 4 Arceus V BRS 122 3 Arceus VSTAR BRS 123 3 Ralts ASR 60 1 Ralts SIT 67 4 Kirlia SIT 68 2 Gallade ASR 62 1 Gallade CRE 81 1 Radiant Gardevoir LOR 69
-
-**Trainer Cards - 31** 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Cheren's Care BRS 134 2 Judge SVI 176 1 Avery CRE 130 1 Raihan CRZ 140 4 Nest Ball SVI 181 4 Ultra Ball SVI 196 3 Level Ball BST 129 3 Trekking Shoes CRZ 145 2 Switch SVI 194 1 Pal Pad SVI 182 2 Path to the Peak CRE 148 1 Collapsed Stadium BRS 137
-
-**Energy - 10** 6 Psychic Energy SWSHEnergy 5 4 Double Turbo Energy BRS 151
-
-</div></div><div class="jb-code-container">
-    <div id="hzoroarkvstar" class="deck_box">
-    <h1>Hisuian Zoroark VSTAR</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/h-zoroark-vstar.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="hzoroarkvstar" name="Hisuian Zoroark VSTAR" image="/images/h-zoroark-vstar.webp" illus="aky CG Works" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -1921,30 +2139,39 @@ Build up your bench, with Gapejaw Bog in play if possible (and/or with the help 
 - Building the deck with the [Kirlia](https://limitlesstcg.com/cards/SIT/68) and [Gardevoir ex](https://limitlesstcg.com/cards/jp/SV1S/28?translate=en) engine, so that you can abuse Gardevoir ex’s ability to place damage counters on them or on Gengar to boost Hisuian Zoroark VSTAR’s damage.
 - [Radiant Charjabug CRZ 51](https://limitlesstcg.com/cards/CRZ/51) as an alternative means of putting damage counters on Hisuian Zoroark VSTAR.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Hisuian Zoroark V LOR 146
+4 Hisuian Zoroark VSTAR LOR 147
+2 Bidoof BRS 120
+2 Bibarel BRS 121
+2 Empoleon V BST 40
+2 Gengar LOR 66
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 32
+3 Melony CRE 146
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+1 Avery CRE 130
+4 Damage Pump LOR 156
+4 Great Ball CRZ 132
+4 Ultra Ball SVI 196
+2 Capturing Aroma SIT 153
+2 Switch SVI 194
+1 Escape Rope BST 125
+2 Choice Belt BRS 135
+4 Gapejaw Bog ASR 142
+Energy - 10
+6 Water Energy SWSHEnergy 3
+4 Double Turbo Energy BRS 151
+```
 
-### EXAMPLE DECK LIST
-
-**Pokémon - 18** 4 Hisuian Zoroark V LOR 146 4 Hisuian Zoroark VSTAR LOR 147 2 Bidoof BRS 120 2 Bibarel BRS 121 2 Empoleon V BST 40 2 Gengar LOR 66 1 Lumineon V BRS 40 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 32** 3 Melony CRE 146 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 1 Avery CRE 130 4 Damage Pump LOR 156 4 Great Ball CRZ 132 4 Ultra Ball SVI 196 2 Capturing Aroma SIT 153 2 Switch SVI 194 1 Escape Rope BST 125 2 Choice Belt BRS 135 4 Gapejaw Bog ASR 142
-
-**Energy - 10** 6 Water Energy SWSHEnergy 3 4 Double Turbo Energy BRS 151
-
-</div></div><div class="jb-code-container">
-    <div id="oinkologneex" class="deck_box">
-    <h1>Oinkologne ex</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/oinkologne-ex-2db5f7.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="oinkologneex" name="Oinkologne ex" image="/images/oinkologne-ex-2db5f7.webp" illus="aky CG Works" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -1961,34 +2188,45 @@ Evolve Lechonk into Oinkologne ex and attack using its Fragrance Fury attack, wh
 - [Roxanne](https://limitlesstcg.com/cards/ASR/150) as an additional means of disrupting your opponent in the mid to late game.
 - [Drapion V LOR 118](https://limitlesstcg.com/cards/LOR/118) as an additional means of combating opposing Mew VMAX and Gardevoir ex decks.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-**Pokémon - 15** 4 Lechonk SVI 154 3 Oinkologne ex SVI 156 2 Bibarel BRS 121 2 Bidoof BRS 120 1 Dunsparce FST 207 1 Manaphy BRS 41 1 Radiant Gardevoir LOR 69 1 Skwovet SVI 151
-
-**Trainer Cards - 35** 3 Judge SVI 176 3 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Cheren's Care BRS 134 2 Cheryl BST 123 1 Serena SIT 164 4 Nest Ball SVI 181 4 Pokégear 3.0 SVI 186 4 Ultra Ball SVI 196 3 Switch SVI 194 1 Pal Pad SVI 182 3 Full Face Guard EVS 148 3 Path to the Peak CRE 148
-
-**Energy - 10** 4 V Guard Energy SIT 169 3 Double Turbo Energy BRS 151 3 Lucky Energy CRE 158
+```decklist
+Pokémon - 15
+4 Lechonk SVI 154
+3 Oinkologne ex SVI 156
+2 Bibarel BRS 121
+2 Bidoof BRS 120
+1 Dunsparce FST 207
+1 Manaphy BRS 41
+1 Radiant Gardevoir LOR 69
+1 Skwovet SVI 151
+Trainer Cards - 35
+3 Judge SVI 176
+3 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Cheren's Care BRS 134
+2 Cheryl BST 123
+1 Serena SIT 164
+4 Nest Ball SVI 181
+4 Pokégear 3.0 SVI 186
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+1 Pal Pad SVI 182
+3 Full Face Guard EVS 148
+3 Path to the Peak CRE 148
+Energy - 10
+4 V Guard Energy SIT 169
+3 Double Turbo Energy BRS 151
+3 Lucky Energy CRE 158
+```
 
 ### Alternate Lists
 
 - [Andrew Mahone’s version of the archetype](https://www.youtube.com/watch?v=ucDAcJ3wz1Y)
 
-</div></div><div class="jb-code-container">
-    <div id="maushold" class="deck_box">
-    <h1>Maushold</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![](/images/maushold-485d40.webp)
-
-*Illus. KIYOTAKA OSHIYAMA*
+::::
 
 
+
+::::deck{id="maushold" name="Maushold" image="/images/maushold-485d40.webp" illus="KIYOTAKA OSHIYAMA" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -2006,15 +2244,34 @@ Swarm the board with 4 Tandemaus and a Zorua or two, evolving Tandemaus up into 
 - [Boss’s Orders](https://limitlesstcg.com/cards/BRS/132) as a more universal gusting option.
 - [Flaaffy EVS 55](https://limitlesstcg.com/cards/EVS/55) in place of Magma Basin and Armarouge, opening up options like Mesagoza to help search for Pokémon, with the tradeoff being losing the option to make use of Radiant Charizard.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 22
+4 Tandemaus SVI 160
+4 Maushold SVI 161
+4 Zoroark EVS 103
+4 Zorua EVS 102
+1 Armarouge SVI 41
+1 Bibarel BRS 121
+1 Manaphy BRS 41
+1 Mightyena ASR 96
+1 Radiant Charizard CRZ 20
+1 Slowbro PGO 20
+Trainer Cards - 30
+4 Professor's Research SVI 190
+3 Klara CRE 145
+3 Serena SIT 164
+1 Peonia CRE 149
+4 Level Ball BST 129
+4 Nest Ball SVI 181
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+3 Magma Basin BRS 144
+Energy - 8
+4 Double Turbo Energy BRS 151
+4 Fire Energy SWSHEnergy 2
+```
 
-### EXAMPLE DECK LIST
+::::
 
-**Pokémon - 22** 4 Tandemaus SVI 160 4 Maushold SVI 161 4 Zoroark EVS 103 4 Zorua EVS 102 1 Armarouge SVI 41 1 Bibarel BRS 121 1 Manaphy BRS 41 1 Mightyena ASR 96 1 Radiant Charizard CRZ 20 1 Slowbro PGO 20
 
-**Trainer Cards - 30** 4 Professor's Research SVI 190 3 Klara CRE 145 3 Serena SIT 164 1 Peonia CRE 149 4 Level Ball BST 129 4 Nest Ball SVI 181 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 3 Magma Basin BRS 144
-
-**Energy - 8** 4 Double Turbo Energy BRS 151 4 Fire Energy SWSHEnergy 2
-
-</div></div>
 

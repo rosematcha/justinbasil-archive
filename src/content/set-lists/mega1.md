@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2025-07-25
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-mega-evolution-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-white-center-margin5">Prospective Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our third main set of 2025 by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-mega-evolution-logo.webp" title="Prospective Set List"}
+
+<p class="jb-decklist-center">Learn more about our third main set of 2025 by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/mega1">Prospective Set List</a>  |
@@ -20,9 +18,10 @@ publishDate: 2025-07-25
           <a class="blink" href="/visual/mega1">Visual Set List</a>  |
           <a class="blink" href="/proxies/mega1">Selected Proxies</a>  
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">Estimated Set size: 132 cards (before Secret Rares)</h3>
 

@@ -35,7 +35,14 @@ The feel of a fake Pokémon card is often the first thing that gives it away as 
 
 ## Colors, Print Quality, and The Back of the Card
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/color-print-quality.webp"><img src="/images/color-print-quality.webp" alt="Color Print Quality.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/card-back-color.webp"><img src="/images/card-back-color.webp" alt="Card Back Color.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/color-print-quality.webp
+- /images/card-back-color.webp
+:::
+
+
 
 In addition to how the card feels is how it *looks*. Fake cards are often poorly produced and tend to have a much lower print quality than a real card. Colors often come through as overly dark, blues will often become muted or even purplish, the print of the card itself may even look like it has an almost fabric-like pattern in it. Text and pictures may be somewhat blurry. Fake chase cards like full art trainers and EX, GX, and V/VMAX cards will often have a slightly reflective back in addition to their reflective fronts.
 
@@ -51,7 +58,14 @@ The Decidueye-GX (credit: Redditor /u/grenlem), on the other hand, has an odd cl
 
 ## Pattern and Texture of Special Cards
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/accent-and-sr-texture.webp"><img src="/images/accent-and-sr-texture.webp" alt="Accent and SR Texture.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/texture-2.webp"><img src="/images/texture-2.webp" alt="Texture_2.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/accent-and-sr-texture.webp
+- /images/texture-2.webp
+:::
+
+
 
 In addition to poor color reproduction and otherwise bad print jobs, fake cards also tend to do a very poor job of mimicking the special holo and texture of the chase cards from the various sets in the Pokémon Trading Card Game. The worst fakes will print the texture that the card *should* have instead of reproducing it in the card-making process. And although it sounds odd to hear, fake Pokémon cards—especially chase cards from relatively recent sets—XY onward—tend to have a very simple almost *flat* holo to them. In short, they just don’t *shine* correctly. Sometimes, these fake chase cards will also have a brownish, yellowish, or orangish hue to them.
 
@@ -91,7 +105,14 @@ In addition to misspelling words on the card, another common sign of a fake card
 
 ## Kerning and Font
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/kerning-2.webp"><img src="/images/kerning-2.webp" alt="Kerning_2.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/real-igglybuff.webp"><img src="/images/real-igglybuff.webp" alt="Real Igglybuff.jpg" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/kerning-2.webp
+- /images/real-igglybuff.webp
+:::
+
+
 
 Another telltale sign you’ve got a fake card is the kerning of the text on the card. Kerning is the spacing between each letter in the text of the card. You’ll often find that the kerning on fake Pokémon cards is abnormally large and is usually inconsistent. There will be segments of text that appear almost normal—and segments of text with abnormally large gaps between the letters.
 
@@ -145,7 +166,14 @@ Like The Pokémon Company, many producers of fake Pokémon cards understand the 
 
 It’s true that power creep can make the game feel like the HP of Pokémon is getting just too high in general, and you may suspect that the high HP on the Pokémon on the card you’re concerned about is just a result of power creep. You can always check the HP of your card against the real card—like the fake and real Arcanine on the right. A pair of helpful databases that can be used for this purpose are the official [Pokémon Trading Card Game Card Database](https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/) and [PkmnCards.com](https://pkmncards.com/).
 
-</div><div class="jb-col-6"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/crazy-hp.webp"><img src="/images/crazy-hp.webp" alt="A fake Arcanine" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/real-arcanine.webp"><img src="/images/real-arcanine.webp" alt="Real ARcanine.jpg" loading="lazy" /></a></figure></div>
+</div><div class="jb-col-6">
+
+:::gallery
+- /images/crazy-hp.webp
+- /images/real-arcanine.webp
+:::
+
+
 
 <p class="jb-center">Credit: reddit user /u/ParkCityFIFA</p>
 
@@ -183,7 +211,15 @@ In the examples below, a picture of Wooper has been slapped on Voltorb’s Base 
 
 On the fake Rapidash card, Rapidash is misspelled as *Rapidsh*, but also somehow inexplicably evolves from a Helix Ponyta that looks a rather lot like a Charmander. Weezing, on the other hand, has the wrong name entirely—Nidoking.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/wooper.webp"><img src="/images/wooper.webp" alt="Credit: /u/holomondo" loading="lazy" /></a><figcaption>Credit: /u/holomondo</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/laziness-wrong-evolution.webp"><img src="/images/laziness-wrong-evolution.webp" alt="Credit: /u/Dr_Guppy" loading="lazy" /></a><figcaption>Credit: /u/Dr_Guppy</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/laziness-wrong-name.webp"><img src="/images/laziness-wrong-name.webp" alt="Credit: /u/S41L0R" loading="lazy" /></a><figcaption>Credit: /u/S41L0R</figcaption></figure></div>
+
+
+:::gallery
+- /images/wooper.webp "Credit: /u/holomondo"
+- /images/laziness-wrong-evolution.webp "Credit: /u/Dr_Guppy"
+- /images/laziness-wrong-name.webp "Credit: /u/S41L0R"
+:::
+
+
 
 ---
 
@@ -217,7 +253,14 @@ Some fake Pokémon cards aren’t cards at all, but stickers! These are usually 
 
 Don’t confuse these stickers with reverse holofoil cards from the Legendary Collection set, however. Cards in the Legendary Collection, like the Charizard on the right, have a very lively—almost noisy—holo pattern, too! These cards will all have the same set symbol as Charizard, as the Legendary Collection was the first set to contain reverse holofoils and the last to include a reverse holofoil pattern like it.
 
-</div><div class="jb-col-4"><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sticker-1.webp"><img src="/images/sticker-1.webp" alt="Credit: /u/michaelgreen92" loading="lazy" /></a><figcaption>Credit: /u/michaelgreen92</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/charizard-lc-reverse.webp"><img src="/images/charizard-lc-reverse.webp" alt="Charizard LC Reverse.jpg" loading="lazy" /></a></figure></div></div></div>
+</div><div class="jb-col-4">
+
+:::gallery
+- /images/sticker-1.webp "Credit: /u/michaelgreen92"
+- /images/charizard-lc-reverse.webp
+:::
+
+</div></div>
 
 ---
 

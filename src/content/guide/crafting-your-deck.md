@@ -6,12 +6,14 @@ showHeading: false
 publishDate: 2024-04-07
 ---
 
-<div class="jb-code-container">
-    <div class="note_box">
-  <h2>Notice</h2>
+
+
+:::note
+<h2>Notice</h2>
   <p class="jb-deckbox-body jb-deckbox-body-justify">This page has yet to be updated for the rotation effective 5 April 2024. Some of the information contained below may be out of date for the F Regulation Mark onward Standard format.</p>
-</div>
-</div>
+:::
+
+
 
 <h1 class="jb-center">&nbsp;Crafting Your Deck</h1>
 

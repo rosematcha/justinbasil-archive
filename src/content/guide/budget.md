@@ -6,12 +6,14 @@ showHeading: false
 publishDate: 2025-04-19
 ---
 
-<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745075592916" id="page-5f2d5e5d2f5fde752f555509"><div class="jb-code-container">
-    <div class="note_box">
-  <h2>Notice</h2>
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745075592916" id="page-5f2d5e5d2f5fde752f555509">
+
+:::note
+<h2>Notice</h2>
   <p class="jb-deckbox-body jb-deckbox-body-justify">This page has yet to be updated for the rotation effective 11 April 2025. Deck lists below may contain cards that are no longer legal in the current Standard format. Planned update: In Progres.</p>
-</div>
-</div>
+:::
+
+
 
 <h1 class="jb-center">What to Play - Budget Decks</h1>
 
@@ -37,7 +39,7 @@ Decks with a star (☆) are the most competitively viable options—or can be up
   </ul>
 </div>
 </div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745002203907" id="page-64a8fba85ca69155b005b1e5"><div class="jb-code-container">
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745002203907" id="page-64a8fba85ca69155b005b1e5"><div class="jb-code-container">
     <div id="wings" class="deck_box">
   <p class="jb-deckbox-title">$30</p>
   <h1>United Wings</h1>
@@ -71,7 +73,7 @@ Using every discarding resource in the deck, put all or most of your “United W
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 22</p><ul> <li>4 Dartrix SFA 4</li> <li>4 Flamigo PAL 170</li> <li>4 Murkrow PAL 131</li> <li>4 Wattrel PAL 80</li> <li>2 Squawkabilly ex PAL 169</li> <li>2 Tatsugiri TWM 131</li> <li>1 Kilowattrel PAF 22</li> <li>1 Rowlet SFA 3</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>4 Carmine PRE 103</li> <li>4 Professor's Research JTG 155</li> <li>2 Boss's Orders PAL 172</li> <li>1 Penny SVI 183</li> <li>4 Night Stretcher SFA 61</li> <li>4 Ultra Ball PAF 91</li> <li>2 Counter Catcher PAR 160</li> <li>2 Great Ball PAL 183</li> <li>2 Nest Ball PAF 84</li> <li>1 Brilliant Blender SSP 164</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Defiance Band SVI 169</li> <li>1 Exp. Share SVI 174</li> <li>1 Rescue Board PRE 126</li> <li>1 Beach Court SVI 167</li> </ul><p class="jb-decklist-section">Energy - 6</p><ul> <li>6 Basic Darkness Energy SVE 7</li> </ul>
 </div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1744998365428" id="page-6668cdfc3773475a368cfe36"><div class="jb-code-container">
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1744998365428" id="page-6668cdfc3773475a368cfe36"><div class="jb-code-container">
     <div id="festivalgrounds" class="deck_box">
   <p class="jb-deckbox-title">$30</p>
   <h1>Festival Grounds</h1>
@@ -105,7 +107,7 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 21</p><ul> <li>4 Applin TWM 17</li> <li>4 Dipplin TWM 18</li> <li>4 Grookey TWM 14</li> <li>4 Thwackey TWM 15</li> <li>2 Goldeen TWM 44</li> <li>1 Rabsca TEF 24</li> <li>1 Rellor TEF 23</li> <li>1 Seaking PRE 21</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>1 Kieran PRE 113</li> <li>1 Lana's Aid TWM 155</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>4 Bug Catching Set PRE 102</li> <li>2 Ultra Ball PAF 91</li> <li>1 Counter Catcher PAR 160</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>1 Defiance Band SVI 169</li> <li>1 Maximum Belt PRE 117</li> <li>1 Rescue Board PRE 126</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Vitality Band SVI 197</li> <li>4 Festival Grounds PRE 108</li> </ul><p class="jb-decklist-section">Energy - 6</p><ul> <li>6 Basic Grass Energy SVE 1</li>
 </ul></div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745033035243" id="page-6668b25ce0f2a7580af3d267"><div class="jb-code-container">
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745033035243" id="page-6668b25ce0f2a7580af3d267"><div class="jb-code-container">
     <div id="lbdgardevoirex" class="deck_box">
   <p class="jb-deckbox-title">$30</p>
   <h1>Gardevoir ex League Battle Deck</h1>
@@ -146,7 +148,7 @@ The list below reflects the cards contained in the sealed product.
 - [Munkidori TWM 95](https://limitlesstcg.com/cards/TWM/95) paired with two copies of Basic Darkness Energy
 
 </div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1710206186293" id="page-65565ebcd8935e0581f25266"><div class="jb-code-container">
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1710206186293" id="page-65565ebcd8935e0581f25266"><div class="jb-code-container">
     <div id="lbdmiraidonex" class="deck_box">
   <p class="jb-deckbox-title">$30</p>
   <h1>Miraidon ex League Battle Deck</h1>
@@ -187,7 +189,7 @@ The list below reflects the cards contained in the sealed product.
 - Additional copies of Miraidon ex and 1-2 copies of [Raikou V BRS 48](https://limitlesstcg.com/cards/BRS/48).
 
 </div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745075604988" id="page-6258cabc0362a90eb91bf790"><div class="jb-code-container">
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745075604988" id="page-6258cabc0362a90eb91bf790"><div class="jb-code-container">
     <div id="lycanroc" class="deck_box">
   <p class="jb-deckbox-title">$35</p>
   <h1>Lycanroc</h1>
@@ -220,7 +222,7 @@ Evolve Doduo into Dodrio. Draw cards using Dodrio’s Zooming Draw Ability, whic
 <div class="jb-code-container">
     <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Lycanroc JTG 85</li> <li>4 Rockruff JTG 84</li> <li>3 Dodrio MEW 85</li> <li>3 Doduo MEW 84</li> <li>2 Munkidori TWM 95</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Iono PAF 80</li> <li>3 Arven OBF 186</li> <li>3 Professor's Research JTG 155</li> <li>2 Boss's Orders PAL 172</li> <li>4 Buddy-Buddy Poffin PRE 101</li> <li>3 Ultra Ball PAF 91</li> <li>2 Nest Ball PAF 84</li> <li>2 Night Stretcher SFA 61</li> <li>1 Brilliant Blender SSP 164</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PRE 106</li> <li>1 Super Rod PAL 188</li> <li>2 Rescue Board PRE 126</li> <li>1 Counter Gain SSP 169</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>5 Basic Darkness Energy SVE 7</li> <li>4 Spiky Energy JTG 159</li> <li>2 Jet Energy PAL 190</li> </ul>
 </div></div></div></div>
-          <div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745033784771" id="page-6668c36fdded327ac2832dd4"><div class="jb-code-container">
+<div class="jb-layout jb-grid-12 jb-columns-12" data-type="page" data-updated-on="1745033784771" id="page-6668c36fdded327ac2832dd4"><div class="jb-code-container">
     <div id="blisseyex" class="deck_box">
   <p class="jb-deckbox-title">$50</p>
   <h1>Blissey ex</h1>

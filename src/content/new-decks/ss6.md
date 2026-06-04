@@ -52,18 +52,9 @@ With the arrival of Chilling Reign this June, we’ve had a handful of new deck 
 
 ---
 
-<div class="jb-code-container">
-    <div id="rillaboom" class="deck_box">
-  <h2>Rillaboom</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Hitoshi Ariga](/images/rillaboom.webp)
-
-*Illus. Hitoshi Ariga*
 
 
+::::deck{id="rillaboom" name="Rillaboom" image="/images/rillaboom.webp" illus="Hitoshi Ariga" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -80,28 +71,39 @@ Play down and evolve both Cherubi and Grookey into Cherrim and Rillaboom, respec
 - [Rosa](https://limitlesstcg.com/cards/cec/204/), in addition to Bruno, as an option to rebound after one of your Pokémon is knocked out.
 - [Snorlax VIV 131](https://limitlesstcg.com/cards/VIV/131/) or [Cinccino SSH 147](https://limitlesstcg.com/cards/SSH/147/) as alternate draw engines for the deck, in place of or in addition to [Jirachi VIV 119](https://limitlesstcg.com/cards/viv/119/), [Dedenne-GX UNB 57](https://limitlesstcg.com/cards/UNB/57/), [Crobat V DAA 104](https://limitlesstcg.com/cards/DAA/104/), and [Oricorio-GX CEC 95](https://limitlesstcg.com/cards/CEC/95/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 21
+4 Grookey SSH 11
+1 Thwackey SHF 12
+3 Rillaboom CRE 18
+3 Cherubi BST 7
+3 Cherrim BST 8
+2 Jirachi VIV 119
+1 Dedenne-GX UNB 57
+1 Mew UNB 76
+1 Oricorio-GX CEC 95
+1 Shaymin {*} TEU 10
+1 Tapu Bulu BST 16
+Trainer Cards - 28
+4 Marnie CPA 56
+3 Bruno BST 121
+2 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Pokémon Communication TEU 152
+2 Air Balloon SSH 156
+2 Ordinary Rod SSH 171
+1 Energy Recycler GRI 123
+3 Turffield Stadium CPA 68
+Energy - 11
+11 Grass Energy SWSHEnergy 1
+```
 
-### Example Deck List
-
-**Pokémon - 21** 4 Grookey SSH 11 1 Thwackey SHF 12 3 Rillaboom CRE 18 3 Cherubi BST 7 3 Cherrim BST 8 2 Jirachi VIV 119 1 Dedenne-GX UNB 57 1 Mew UNB 76 1 Oricorio-GX CEC 95 1 Shaymin {\*} TEU 10 1 Tapu Bulu BST 16
-
-**Trainer Cards - 28** 4 Marnie CPA 56 3 Bruno BST 121 2 Boss's Orders RCL 154 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Pokémon Communication TEU 152 2 Air Balloon SSH 156 2 Ordinary Rod SSH 171 1 Energy Recycler GRI 123 3 Turffield Stadium CPA 68
-
-**Energy - 11** 11 Grass Energy SWSHEnergy 1
-
-</div></div><div class="jb-code-container">
-    <div id="castform" class="deck_box">
-  <h2>Castform</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Yuka Morii](/images/castform.webp)
-
-*Illus. Yuka Morii*
+::::
 
 
+
+::::deck{id="castform" name="Castform" image="/images/castform.webp" illus="Yuka Morii" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -119,28 +121,39 @@ From turn 1, draw for and search out Stadium cards with Stadium Nav and discard 
 - Using [Peony](https://www.serebii.net/card/silverlance/067.shtml) in place of or in addition to Hapu.
 - [Oricorio-GX](https://limitlesstcg.com/cards/CEC/95/) to draw additional cards when one of your Pokémon is knocked out.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+3 Minccino SSH 145
+3 Cinccino SSH 147
+3 Castform Snowy Form CRE 34
+3 Castform Sunny Form CRE 22
+1 Castform Rainy Form CRE 33
+1 Dedenne-GX UNB 57
+1 Galarian Zapdos V CRE 80
+1 Marshadow UNB 81
+1 Mew UNB 76
+Trainer Cards - 40
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+3 Hapu UNM 200
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+4 Stadium Nav UNM 208
+2 Ordinary Rod SSH 171
+1 U-Turn Board UNM 211
+4 Martial Arts Dojo UNB 179
+4 Old Cemetery CRE 147
+4 Path to the Peak CRE 148
+3 Power Plant UNB 183
+Energy - 3
+3 Fighting Energy SWSHEnergy 6
+```
 
-### Example Deck List
-
-**Pokémon - 17** 3 Minccino SSH 145 3 Cinccino SSH 147 3 Castform Snowy Form CRE 34 3 Castform Sunny Form CRE 22 1 Castform Rainy Form CRE 33 1 Dedenne-GX UNB 57 1 Galarian Zapdos V CRE 80 1 Marshadow UNB 81 1 Mew UNB 76
-
-**Trainer Cards - 40** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 3 Hapu UNM 200 4 Level Ball BST 129 4 Quick Ball SSH 179 4 Stadium Nav UNM 208 2 Ordinary Rod SSH 171 1 U-Turn Board UNM 211 4 Martial Arts Dojo UNB 179 4 Old Cemetery CRE 147 4 Path to the Peak CRE 148 3 Power Plant UNB 183
-
-**Energy - 3** 3 Fighting Energy SWSHEnergy 6
-
-</div></div><div class="jb-code-container">
-    <div id="volcarona" class="deck_box">
-  <h2>Volcarona</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Mika Pikazo](/images/volcarona.webp)
-
-*Illus. Mika Pikazo*
+::::
 
 
+
+::::deck{id="volcarona" name="Volcarona" image="/images/volcarona.webp" illus="Mika Pikazo" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -157,28 +170,38 @@ Going second, play down Volcanion as your Active Pokémon and play down Larvesta
 
 - [Victini V SSH 25](https://limitlesstcg.com/cards/SSH/25/) as an additional secondary attack and as a means of powering up benched Volcarona toward the end of the game.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 14
+4 Larvesta CRE 23
+4 Volcarona CRE 24
+2 Volcanion UNB 25
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Mew UNB 76
+1 Reshiram & Charizard-GX UNB 20
+Trainer Cards - 35
+4 Welder UNB 189
+3 Boss's Orders RCL 154
+4 Pokégear 3.0 SSH 174
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Pokémon Communication TEU 152
+2 Escape Rope BST 125
+2 Fire Crystal UNB 173
+2 Ordinary Rod SSH 171
+2 Reset Stamp UNM 206
+1 Evolution Incense SSH 163
+1 Pal Pad SSH 172
+3 Giant Hearth UNM 197
+Energy - 11
+11 Fire Energy SWSHEnergy 2
+```
 
-### Example Deck List
-
-**Pokémon - 14** 4 Larvesta CRE 23 4 Volcarona CRE 24 2 Volcanion UNB 25 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Mew UNB 76 1 Reshiram & Charizard-GX UNB 20
-
-**Trainer Cards - 35** 4 Welder UNB 189 3 Boss's Orders RCL 154 4 Pokégear 3.0 SSH 174 4 Quick Ball SSH 179 4 Switch SSH 183 3 Pokémon Communication TEU 152 2 Escape Rope BST 125 2 Fire Crystal UNB 173 2 Ordinary Rod SSH 171 2 Reset Stamp UNM 206 1 Evolution Incense SSH 163 1 Pal Pad SSH 172 3 Giant Hearth UNM 197
-
-**Energy - 11** 11 Fire Energy SWSHEnergy 2
-
-</div></div><div class="jb-code-container">
-    <div id="cinderace" class="deck_box">
-  <h2>Cinderace</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryuta Fuse](/images/cinderace.webp)
-
-*Illus. Ryuta Fuse*
+::::
 
 
+
+::::deck{id="cinderace" name="Cinderace" image="/images/cinderace.webp" illus="Ryuta Fuse" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -193,28 +216,41 @@ Play down Scorbunny and evolve it into Cinderace SSH using Rare Candy to get it 
 
 - [Snorlax VIV 131](https://limitlesstcg.com/cards/VIV/131/) or [Cinccino SSH 147](https://limitlesstcg.com/cards/SSH/147/) as alternate draw engines for the deck, in place of or in addition to [Jirachi VIV 119](https://limitlesstcg.com/cards/viv/119/), [Dedenne-GX UNB 57](https://limitlesstcg.com/cards/UNB/57/), [Crobat V DAA 104](https://limitlesstcg.com/cards/DAA/104/), and [Oricorio-GX CEC 95](https://limitlesstcg.com/cards/CEC/95/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 16
+4 Scorbunny SSH 30
+2 Raboot SSH 32
+3 Cinderace SSH 34
+1 Cinderace CRE 28
+2 Jirachi VIV 119
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Mew UNB 76
+1 Oricorio-GX CEC 95
+Trainer Cards - 37
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Rosa CEC 204
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Level Ball BST 129
+3 Switch SSH 183
+2 Evolution Incense SSH 163
+2 Ordinary Rod SSH 171
+2 Pokémon Communication TEU 152
+2 U-Turn Board UNM 211
+3 Giant Hearth UNM 197
+Energy - 7
+4 Fire Energy SWSHEnergy 2
+3 Recycle Energy UNM 212
+```
 
-### Example Deck List
-
-**Pokémon - 16** 4 Scorbunny SSH 30 2 Raboot SSH 32 3 Cinderace SSH 34 1 Cinderace CRE 28 2 Jirachi VIV 119 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Mew UNB 76 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 37** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Rosa CEC 204 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Level Ball BST 129 3 Switch SSH 183 2 Evolution Incense SSH 163 2 Ordinary Rod SSH 171 2 Pokémon Communication TEU 152 2 U-Turn Board UNM 211 3 Giant Hearth UNM 197
-
-**Energy - 7** 4 Fire Energy SWSHEnergy 2 3 Recycle Energy UNM 212
-
-</div></div><div class="jb-code-container">
-    <div id="rsurshifu" class="deck_box">
-  <h2>Rapid Strike Urshifu</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Naoki Saito](/images/rs-urshifu-3aa19b.webp)
-
-*Illus. Naoki Saito*
+::::
 
 
+
+::::deck{id="rsurshifu" name="Rapid Strike Urshifu" image="/images/rs-urshifu-3aa19b.webp" illus="Naoki Saito" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -232,28 +268,39 @@ Fill your bench and evolve Kubfu as quickly as you can so that each of your Pok�
 - [Brawly](https://limitlesstcg.com/cards/jp/S5a/69/) to quickly bench multiple Rapid Strike Pokémon at once.
 - Basic Water Energy as a Ordinary Rod-recoverable means of powering up Rapid Strike Urshifu’s attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 23
+4 Kubfu CRE 93
+4 Rapid Strike Urshifu CRE 44
+4 Sobble CRE 55
+3 Drizzile SSH 56
+3 Inteleon CRE 43
+2 Remoraid BST 36
+2 Octillery BST 37
+1 Falinks BST 83
+Trainer Cards - 29
+3 Bruno BST 121
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Korrina's Focus BST 128
+2 Marnie CPA 56
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+3 Rare Candy SSH 180
+1 Ordinary Rod SSH 171
+1 Reset Stamp UNM 206
+2 Tower of Waters BST 138
+Energy - 8
+4 Rapid Strike Energy BST 140
+4 Spiral Energy 159
+```
 
-### Example Deck List
-
-**Pokémon - 23** 4 Kubfu CRE 93 4 Rapid Strike Urshifu CRE 44 4 Sobble CRE 55 3 Drizzile SSH 56 3 Inteleon CRE 43 2 Remoraid BST 36 2 Octillery BST 37 1 Falinks BST 83
-
-**Trainer Cards - 29** 3 Bruno BST 121 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Korrina's Focus BST 128 2 Marnie CPA 56 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Level Ball BST 129 3 Rare Candy SSH 180 1 Ordinary Rod SSH 171 1 Reset Stamp UNM 206 2 Tower of Waters BST 138
-
-**Energy - 8** 4 Rapid Strike Energy BST 140 4 Spiral Energy 159
-
-</div></div><div class="jb-code-container">
-    <div id="ircalyrex" class="deck_box">
-  <h2>Ice Rider Calyrex VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: High</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/ice-rider.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="ircalyrex" name="Ice Rider Calyrex VMAX" image="/images/ice-rider.webp" illus="5ban Graphics" sublabel="Competitive Potential: High"}
 
 ### Basic Strategy
 
@@ -272,32 +319,42 @@ Going second, start Cryogonal and play down Path to the Peak. Lock out your oppo
 
 - [Cheryl](https://limitlesstcg.com/cards/BST/123/) to heal off damage from Ice Rider Calyrex VMAX that aren’t knocked out immediately after using its Max Lance attack.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 20** 4 Ice Rider Calyrex V CRE 45 3 Ice Rider Calyrex VMAX CRE 46 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 2 Cryogonal UNM 46 1 Crobat V DAA 104 1 Mew UNB 76
-
-**Trainer Cards - 30** 4 Melony CRE 146 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 1 Mallow & Lana CEC 198 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Capacious Bucket RCL 156 2 Pokémon Communication TEU 152 3 Path to the Peak CRE 148
-
-**Energy - 10** 10 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 20
+4 Ice Rider Calyrex V CRE 45
+3 Ice Rider Calyrex VMAX CRE 46
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+2 Cryogonal UNM 46
+1 Crobat V DAA 104
+1 Mew UNB 76
+Trainer Cards - 30
+4 Melony CRE 146
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+1 Mallow & Lana CEC 198
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Capacious Bucket RCL 156
+2 Pokémon Communication TEU 152
+3 Path to the Peak CRE 148
+Energy - 10
+10 Water Energy SWSHEnergy 3
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=dOVb0hCWqVU)
 
-</div></div><div class="jb-code-container">
-    <div id="zeraora" class="deck_box">
-  <h2>Zeraora V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Chibi](/images/zeraora.webp)
-
-*Illus. Chibi*
+::::
 
 
+
+::::deck{id="zeraora" name="Zeraora V" image="/images/zeraora.webp" illus="Chibi" sublabel="Competitive Potential: Moderate"}
 
 ### Basic Strategy
 
@@ -315,32 +372,44 @@ Bench and evolve Blaziken V into Blaziken VMAX, and bench two Zeraora V. In doin
 - [Guzma & Hala](https://limitlesstcg.com/cards/CEC/193/) to search out specific Special Energy cards, as necessary.
 - [Phione CEC 57](https://limitlesstcg.com/cards/cec/57/) to force your opponent to switch their Active Pokémon so that Zeraora V’s attack can knock out something on the bench *and* deal damage to the new Active Pokémon.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 19** 4 Jirachi TEU 99 3 Blaziken V CRE 20 2 Blaziken VMAX CRE 21 2 Dedenne-GX UNB 57 2 Passimian CRE 88 2 Zeraora V CRE 53 1 Crobat V SHF 44 1 Galarian Zigzagoon SSH 117 1 Marshadow UNB 81 1 Mewtwo UNB 75
-
-**Trainer Cards - 31** 4 Professor's Research SHF 60 3 Boss's Orders SHF 58 3 Marnie CPA 56 2 Mallow & Lana CEC 198 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 4 Scoop Up Net RCL 165 4 Switch SSH 183 2 Air Balloon SSH 156 1 Escape Rope BST 125
-
-**Energy - 10** 4 Rapid Strike Energy BST 140 4 Spiral Energy CRE 159 2 Capture Energy RCL 171
+```decklist
+Pokémon - 19
+4 Jirachi TEU 99
+3 Blaziken V CRE 20
+2 Blaziken VMAX CRE 21
+2 Dedenne-GX UNB 57
+2 Passimian CRE 88
+2 Zeraora V CRE 53
+1 Crobat V SHF 44
+1 Galarian Zigzagoon SSH 117
+1 Marshadow UNB 81
+1 Mewtwo UNB 75
+Trainer Cards - 31
+4 Professor's Research SHF 60
+3 Boss's Orders SHF 58
+3 Marnie CPA 56
+2 Mallow & Lana CEC 198
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+4 Scoop Up Net RCL 165
+4 Switch SSH 183
+2 Air Balloon SSH 156
+1 Escape Rope BST 125
+Energy - 10
+4 Rapid Strike Energy BST 140
+4 Spiral Energy CRE 159
+2 Capture Energy RCL 171
+```
 
 ### Alternate Lists
 
 - [TaloniteX’s version of this archetype](https://www.youtube.com/watch?v=M_RrIaLWzMI)
 
-</div></div><div class="jb-code-container">
-    <div id="banette" class="deck_box">
-  <h2>Banette</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Megumi Higuchi](/images/banette.webp)
-
-*Illus. Megumi Higuchi*
+::::
 
 
+
+::::deck{id="banette" name="Banette" image="/images/banette.webp" illus="Megumi Higuchi" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -355,28 +424,40 @@ Bench Shuppet and Spiritomb, using Building Spite to build damage on benched Spi
 
 - [Jirachi VIV 119](https://limitlesstcg.com/cards/viv/119/) and [U-Turn Board](https://limitlesstcg.com/cards/UNM/211/) as additional draw support and as a pivot.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Shuppet VIV 67
+3 Banette CRE 63
+1 Banette VIV 68
+4 Spiritomb UNB 112
+1 Jynx UNM 76
+1 Oricorio-GX CEC 95
+1 Dedenne-GX UNB 57
+1 Crobat V DAA 104
+1 Mew UNB 76
+Trainer Cards - 34
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+3 Bruno BST 121
+2 Karen's Conviction CRE 144
+4 Level Ball BST 129
+4 Quick Ball SSH 179
+4 Scoop Up Net RCL 165
+4 Switch SSH 183
+2 Ordinary Rod SSH 171
+1 Great Catcher CEC 192
+3 Welcoming Lantern CRE 156
+Energy - 9
+4 Aurora Energy SSH 186
+4 Horror Psychic Energy RCL 172
+1 Psychic Energy SWSHEnergy 5
+```
 
-### Example Deck List
-
-**Pokémon - 17** 4 Shuppet VIV 67 3 Banette CRE 63 1 Banette VIV 68 4 Spiritomb UNB 112 1 Jynx UNM 76 1 Oricorio-GX CEC 95 1 Dedenne-GX UNB 57 1 Crobat V DAA 104 1 Mew UNB 76
-
-**Trainer Cards - 34** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 3 Bruno BST 121 2 Karen's Conviction CRE 144 4 Level Ball BST 129 4 Quick Ball SSH 179 4 Scoop Up Net RCL 165 4 Switch SSH 183 2 Ordinary Rod SSH 171 1 Great Catcher CEC 192 3 Welcoming Lantern CRE 156
-
-**Energy - 9** 4 Aurora Energy SSH 186 4 Horror Psychic Energy RCL 172 1 Psychic Energy SWSHEnergy 5
-
-</div></div><div class="jb-code-container">
-    <div id="malamar" class="deck_box">
-  <h2>Malamar</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Moderate</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Kagemaru Himeno](/images/malamar-d79061.webp)
-
-*Illus. Kagemaru Himeno*
+::::
 
 
+
+::::deck{id="malamar" name="Malamar" image="/images/malamar-d79061.webp" illus="Kagemaru Himeno" sublabel="Competitive Potential: Moderate"}
 
 ### Basic Strategy
 
@@ -393,32 +474,45 @@ Set up by benching Inkay, Sobble, and Remoraid, and evolve them as the opportuni
 
 - [Fan of Waves](https://limitlesstcg.com/cards/BST/127/) to slow down opposing decks that are reliant on Special Energy for their attacks.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 23** 4 Inkay CRE 69 4 Malamar CRE 70 4 Sobble CRE 41 3 Drizzile SSH 56 1 Inteleon SSH 58 1 Inteleon CRE 43 2 Remoraid BST 36 2 Octillery BST 37 1 Mew UNB 76 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 30** 4 Korrina's Focus BST 128 3 Erika's Hospitality HIF 56 2 Brawly CRE 131 2 Cynthia & Caitlin CEC 189 1 Boss's Orders RCL 154 4 Evolution Incense SSH 163 4 Fog Crystal CRE 140 3 Level Ball BST 129 2 Lucky Egg SSH 167 2 Scoop Up Net RCL 165 1 Ordinary Rod SSH 171 2 Tower of Waters BST 138
-
-**Energy - 7** 4 Spiral Energy CRE 159 3 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 23
+4 Inkay CRE 69
+4 Malamar CRE 70
+4 Sobble CRE 41
+3 Drizzile SSH 56
+1 Inteleon SSH 58
+1 Inteleon CRE 43
+2 Remoraid BST 36
+2 Octillery BST 37
+1 Mew UNB 76
+1 Oricorio-GX CEC 95
+Trainer Cards - 30
+4 Korrina's Focus BST 128
+3 Erika's Hospitality HIF 56
+2 Brawly CRE 131
+2 Cynthia & Caitlin CEC 189
+1 Boss's Orders RCL 154
+4 Evolution Incense SSH 163
+4 Fog Crystal CRE 140
+3 Level Ball BST 129
+2 Lucky Egg SSH 167
+2 Scoop Up Net RCL 165
+1 Ordinary Rod SSH 171
+2 Tower of Waters BST 138
+Energy - 7
+4 Spiral Energy CRE 159
+3 Psychic Energy SWSHEnergy 5
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=bYjLL9KmoaE)
 
-</div></div><div class="jb-code-container">
-    <div id="srcalyrex" class="deck_box">
-  <h2>Shadow Rider Calyrex VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: High</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/shadow-rider.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="srcalyrex" name="Shadow Rider Calyrex VMAX" image="/images/shadow-rider.webp" illus="5ban Graphics" sublabel="Competitive Potential: High"}
 
 ### Basic Strategy
 
@@ -439,15 +533,32 @@ Given the opportunity, use Gengar & Mimikyu-GX’s Horror House-GX attack to buy
 - [Mewtwo & Mew-GX UNM 71](https://limitlesstcg.com/cards/UNM/71/) as a higher-HP, different-Weakness means of copying Gengar & Mimikyu-GX and Trevenant & Dusknoir-GX’s attacks.
 - [Cresselia CRE 64](https://www.serebii.net/card/jetblackpoltergeist/029.shtml) to use like a Psychic-type Volcanion in that it can accelerate Psychic Energy with its Crescent Glow attack and act as a single prize attack with its Photon Laser attack.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 17** 4 Shadow Rider Calyrex V CRE 74 4 Shadow Rider Calyrex VMAX CRE 75 2 Dedenne-GX UNB 57 2 Marshadow UNB 81 2 Trevenant & Dusknoir-GX PR-SM 217 1 Crobat V DAA 104 1 Solgaleo & Lunala-GX CEC 75 1 Gengar & Mimikyu-GX TEU 53
-
-**Trainer Cards - 30** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 3 Marnie CPA 56 4 Quick Ball SSH 179 3 Switch SSH 183 2 Air Balloon SSH 156 2 Pokémon Communication TEU 152 1 Escape Rope BST 125 1 Ordinary Rod SSH 171 1 Reset Stamp UNM 206 4 Fog Crystal CRE 140 2 Path to the Peak CRE 148
-
-**Energy - 13** 13 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 17
+4 Shadow Rider Calyrex V CRE 74
+4 Shadow Rider Calyrex VMAX CRE 75
+2 Dedenne-GX UNB 57
+2 Marshadow UNB 81
+2 Trevenant & Dusknoir-GX PR-SM 217
+1 Crobat V DAA 104
+1 Solgaleo & Lunala-GX CEC 75
+1 Gengar & Mimikyu-GX TEU 53
+Trainer Cards - 30
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+4 Quick Ball SSH 179
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Pokémon Communication TEU 152
+1 Escape Rope BST 125
+1 Ordinary Rod SSH 171
+1 Reset Stamp UNM 206
+4 Fog Crystal CRE 140
+2 Path to the Peak CRE 148
+Energy - 13
+13 Psychic Energy SWSHEnergy 5
+```
 
 ### Alternate Lists
 
@@ -455,18 +566,11 @@ Given the opportunity, use Gengar & Mimikyu-GX’s Horror House-GX attack to buy
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=gP1x5ZtD-JA)
 - [Rahul Reddy’s version of this archetype](https://www.youtube.com/watch?v=vjVEjEGzE08)
 
-</div></div><div class="jb-code-container">
-    <div id="lycanroc" class="deck_box">
-  <h2>Lycanroc</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Teeziro](/images/lycanroc-48cac8.webp)
-
-*Illus. Teeziro*
+::::
 
 
+
+::::deck{id="lycanroc" name="Lycanroc" image="/images/lycanroc-48cac8.webp" illus="Teeziro" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -483,32 +587,39 @@ Bench and evolve Houndour and Rockruff into Houndoom and Lycanroc, respectively.
 - [Peony](https://www.serebii.net/card/silverlance/067.shtml), [Hapu](https://limitlesstcg.com/cards/unm/200/), or [Clay](https://limitlesstcg.com/cards/CEC/188/) to rapidly burn through your deck to force as many Pokémon into the discard pile as you can.
 - [Oricorio-GX CEC 95](https://limitlesstcg.com/cards/CEC/95/) to provide additional draw power when one of your Pokémon is knocked out.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 22** 4 Houndour BST 95 4 Houndoom BST 96 4 Rockruff CRE 86 4 Lycanroc CRE 87 4 Stonjourner BST 84 2 Dedenne-GX UNB 57
-
-**Trainer Cards - 29** 4 Bruno BST 121 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 3 Urn of Vitality BST 139 2 Air Balloon SSH 156 2 Karate Belt UNM 201 1 Ordinary Rod SSH 171 4 Tower of Darkness BST 137
-
-**Energy - 9** 5 Fighting Energy SWSHEnergy 6 4 Single Strike Energy BST 141
+```decklist
+Pokémon - 22
+4 Houndour BST 95
+4 Houndoom BST 96
+4 Rockruff CRE 86
+4 Lycanroc CRE 87
+4 Stonjourner BST 84
+2 Dedenne-GX UNB 57
+Trainer Cards - 29
+4 Bruno BST 121
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+3 Urn of Vitality BST 139
+2 Air Balloon SSH 156
+2 Karate Belt UNM 201
+1 Ordinary Rod SSH 171
+4 Tower of Darkness BST 137
+Energy - 9
+5 Fighting Energy SWSHEnergy 6
+4 Single Strike Energy BST 141
+```
 
 ### Alternate Lists
 
 - [TaloniteX’s version of this archetype](https://www.youtube.com/watch?v=1wz7-1s4tr8)
 
-</div></div><div class="jb-code-container">
-    <div id="sandaconda" class="deck_box">
-  <h2>Sandaconda VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. aky CG Works](/images/sandaconda-vmax.webp)
-
-*Illus. aky CG Works*
+::::
 
 
+
+::::deck{id="sandaconda" name="Sandaconda VMAX" image="/images/sandaconda-vmax.webp" illus="aky CG Works" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -525,33 +636,45 @@ Bench Sandaconda V and Sobble on your first turn, attacking using Sandaconda V�
 - [Cheryl](https://limitlesstcg.com/cards/BST/123/) to heal off damage from a damaged Sandaconda VMAX after it has moved its Energy onto another Pokémon using its G-Max Cyclone attack.
 - A [Green’s Exploration](https://limitlesstcg.com/cards/UNB/175/)/[Pokégear 3.0](https://limitlesstcg.com/cards/SSH/174/) engine in place of the Inteleon/Drizzile engine.
 
-</div><div class="jb-col-6">
-
-### Example Deck List
-
-**Pokémon - 18** 4 Sandaconda V RCL 108 3 Sandaconda VMAX CRE 90 3 Sobble CRE 41 3 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 1 Crobat V DAA 104 1 Mew UNB 76
-
-**Trainer Cards - 32** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 2 Mallow & Lana CEC 198 4 Quick Ball SSH 179 3 Level Ball BST 129 3 Scoop Up Net RCL 165 2 Evolution Incense SSH 163 2 Pokémon Communication TEU 152 2 Switch SSH 183 2 Telescopic Sight VIV 160 1 Energy Spinner UNB 170 2 Path to the Peak CRE 148
-
-**Energy - 10** 6 Fighting Energy SWSHEnergy 6 4 Stone Fighting Energy VIV 164
+```decklist
+Pokémon - 18
+4 Sandaconda V RCL 108
+3 Sandaconda VMAX CRE 90
+3 Sobble CRE 41
+3 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+1 Crobat V DAA 104
+1 Mew UNB 76
+Trainer Cards - 32
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+2 Mallow & Lana CEC 198
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+3 Scoop Up Net RCL 165
+2 Evolution Incense SSH 163
+2 Pokémon Communication TEU 152
+2 Switch SSH 183
+2 Telescopic Sight VIV 160
+1 Energy Spinner UNB 170
+2 Path to the Peak CRE 148
+Energy - 10
+6 Fighting Energy SWSHEnergy 6
+4 Stone Fighting Energy VIV 164
+```
 
 ### Alternate Lists
 
 - [ZapdosTCG’s version of this archetype](https://www.youtube.com/watch?v=mhw3HVHBIEA)
 - [TaloniteX’s version of this archetype](https://www.youtube.com/watch?v=wotkXqWTNFg)
 
-</div></div><div class="jb-code-container">
-    <div id="gsirfetchd" class="deck_box">
-  <h2>Galarian Sirfetch'd</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Uta](/images/sirfetchd.webp)
-
-*Illus. Uta*
+::::
 
 
+
+::::deck{id="gsirfetchd" name="Galarian Sirfetch'd" image="/images/sirfetchd.webp" illus="Uta" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -569,28 +692,40 @@ Bench and evolve Houndour and Galarian Farfetch’d into Houndoom and Galarian S
 - [Guzma & Hala](https://limitlesstcg.com/cards/CEC/193/) to make it possible to search for Twin Energy directly—or to find Chaotic Swell when it’s needed.
 - Fighting Energy and [Martial Arts Dojo](https://limitlesstcg.com/cards/UNB/179/) to boost Galarian Sirfetch’d’s damage when you’re behind on prizes.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Galarian Farfetch'd CRE 78
+4 Galarian Sirfetch'd CRE 79
+3 Houndour BST 95
+3 Houndoom BST 96
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Oricorio-GX CEC 95
+1 Seviper CRE 102
+Trainer Cards - 34
+4 Bruno BST 121
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Karen's Conviction CRE 144
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+3 Air Balloon SSH 156
+3 Urn of Vitality BST 139
+3 Welcoming Lantern CRE 156
+2 Vitality Band SSH 185
+1 Ordinary Rod SSH 171
+1 Reset Stamp UNM 206
+1 Chaotic Swell CEC 187
+Energy - 8
+4 Single Strike Energy BST 141
+4 Twin Energy RCL 174
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Galarian Farfetch'd CRE 78 4 Galarian Sirfetch'd CRE 79 3 Houndour BST 95 3 Houndoom BST 96 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Oricorio-GX CEC 95 1 Seviper CRE 102
-
-**Trainer Cards - 34** 4 Bruno BST 121 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Karen's Conviction CRE 144 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 3 Air Balloon SSH 156 3 Urn of Vitality BST 139 3 Welcoming Lantern CRE 156 2 Vitality Band SSH 185 1 Ordinary Rod SSH 171 1 Reset Stamp UNM 206 1 Chaotic Swell CEC 187
-
-**Energy - 8** 4 Single Strike Energy BST 141 4 Twin Energy RCL 174
-
-</div></div><div class="jb-code-container">
-    <div id="weezing" class="deck_box">
-  <h2>Weezing</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryuta Fuse](/images/weezing.webp)
-
-*Illus. Ryuta Fuse*
+::::
 
 
+
+::::deck{id="weezing" name="Weezing" image="/images/weezing.webp" illus="Ryuta Fuse" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -606,28 +741,37 @@ Build up your bench with Koffing and use them to evolve into both Galarian Weezi
 
 - [Exp. Share](https://limitlesstcg.com/cards/BST/126/) to retain attached Energy in play.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Koffing SHF 41
+3 Weezing CRE 95
+3 Galarian Weezing CRE 96
+1 Galarian Weezing RCL 113
+2 Dedenne-GX UNB 57
+2 Galarian Moltres V CRE 97
+1 Mewtwo UNB 75
+1 Oricorio-GX CEC 95
+Trainer Cards - 30
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+1 Klara CRE 145
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+4 Turbo Patch DAA 172
+3 Switch SSH 183
+2 Energy Switch SSH 162
+2 Ordinary Rod SSH 171
+Energy - 13
+11 Darkness Energy SWSHEnergy 7
+2 Hiding Darkness Energy DAA 175
+```
 
-### Example Deck List
-
-**Pokémon - 17** 4 Koffing SHF 41 3 Weezing CRE 95 3 Galarian Weezing CRE 96 1 Galarian Weezing RCL 113 2 Dedenne-GX UNB 57 2 Galarian Moltres V CRE 97 1 Mewtwo UNB 75 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 30** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 1 Klara CRE 145 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 4 Turbo Patch DAA 172 3 Switch SSH 183 2 Energy Switch SSH 162 2 Ordinary Rod SSH 171
-
-**Energy - 13** 11 Darkness Energy SWSHEnergy 7 2 Hiding Darkness Energy DAA 175
-
-</div></div><div class="jb-code-container">
-    <div id="gweezing" class="deck_box">
-  <h2>Galarian Weezing</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Miki Tanaka](/images/g-weezing.webp)
-
-*Illus. Miki Tanaka*
+::::
 
 
+
+::::deck{id="gweezing" name="Galarian Weezing" image="/images/g-weezing.webp" illus="Miki Tanaka" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -645,28 +789,36 @@ Build up your bench by placing Greninja & Zoroark-GX and Koffing, preparing the 
 - [Sableye V SSH 120](https://limitlesstcg.com/cards/SSH/120/)
 - [Evolution Incense SSH 163](https://limitlesstcg.com/cards/SSH/163/)
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+4 Koffing SHF 41
+3 Galarian Weezing CRE 96
+1 Galarian Weezing RCL 113
+2 Dedenne-GX UNB 57
+2 Galarian Moltres V CRE 97
+2 Greninja & Zoroark-GX UNB 107
+2 Mewtwo & Mew-GX UNM 71
+2 Sneasel CRE 30
+2 Weavile-GX UNM 132
+Trainer Cards - 28
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+4 Turbo Patch DAA 172
+3 Switch SSH 183
+2 Chaotic Swell CEC 187
+Energy - 12
+10 Darkness Energy SWSHEnergy 7
+2 Hiding Darkness Energy DAA 175
+```
 
-### Example Deck List
-
-**Pokémon - 20** 4 Koffing SHF 41 3 Galarian Weezing CRE 96 1 Galarian Weezing RCL 113 2 Dedenne-GX UNB 57 2 Galarian Moltres V CRE 97 2 Greninja & Zoroark-GX UNB 107 2 Mewtwo & Mew-GX UNM 71 2 Sneasel CRE 30 2 Weavile-GX UNM 132
-
-**Trainer Cards - 28** 4 Marnie CPA 56 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 4 Turbo Patch DAA 172 3 Switch SSH 183 2 Chaotic Swell CEC 187
-
-**Energy - 12** 10 Darkness Energy SWSHEnergy 7 2 Hiding Darkness Energy DAA 175
-
-</div></div><div class="jb-code-container">
-    <div id="gslowking" class="deck_box">
-  <h2>Galarian Slowking VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. 5ban Graphics](/images/slowking.webp)
-
-*Illus. 5ban Graphics*
+::::
 
 
+
+::::deck{id="gslowking" name="Galarian Slowking VMAX" image="/images/slowking.webp" illus="5ban Graphics" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -683,28 +835,39 @@ Using Green’s Exploration, get 1-2 Galarian Slowking V in play to evolve into 
 
 - An alternative approach using [Dust Island](https://limitlesstcg.com/cards/UNB/168/) and [Toxicroak SSH 124](https://limitlesstcg.com/cards/SSH/124/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 9
+4 Galarian Slowking V CRE 99
+3 Galarian Slowking VMAX CRE 100
+2 Omastar TEU 76
+Trainer Cards - 43
+4 Green's Exploration UNB 175
+4 Professor's Research CPA 62
+3 Team Yell Grunt CPA 67
+2 Boss's Orders RCL 154
+1 Marnie CPA 56
+4 Pokégear 3.0 SSH 174
+3 Crushing Hammer SSH 159
+3 Rare Candy SSH 180
+3 Unidentified Fossil CEC 207
+2 Energy Spinner UNB 170
+2 Evolution Incense SSH 163
+2 Galarian Breastplate CRE 141
+2 Pokémon Catcher SSH 175
+2 Quick Ball SSH 179
+2 Switch SSH 183
+1 Tool Jammer BST 136
+3 Galar Mine RCL 160
+Energy - 8
+4 Darkness Energy SWSHEnergy 7
+4 Hiding Darkness Energy DAA 175
+```
 
-### Example Deck List
-
-**Pokémon - 9** 4 Galarian Slowking V CRE 99 3 Galarian Slowking VMAX CRE 100 2 Omastar TEU 76
-
-**Trainer Cards - 43** 4 Green's Exploration UNB 175 4 Professor's Research CPA 62 3 Team Yell Grunt CPA 67 2 Boss's Orders RCL 154 1 Marnie CPA 56 4 Pokégear 3.0 SSH 174 3 Crushing Hammer SSH 159 3 Rare Candy SSH 180 3 Unidentified Fossil CEC 207 2 Energy Spinner UNB 170 2 Evolution Incense SSH 163 2 Galarian Breastplate CRE 141 2 Pokémon Catcher SSH 175 2 Quick Ball SSH 179 2 Switch SSH 183 1 Tool Jammer BST 136 3 Galar Mine RCL 160
-
-**Energy - 8** 4 Darkness Energy SWSHEnergy 7 4 Hiding Darkness Energy DAA 175
-
-</div></div><div class="jb-code-container">
-    <div id="scolipede" class="deck_box">
-  <h2>Scolipede</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Megumi Higuchi](/images/scolipede.webp)
-
-*Illus. Megumi Higuchi*
+::::
 
 
+
+::::deck{id="scolipede" name="Scolipede" image="/images/scolipede.webp" illus="Megumi Higuchi" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -719,28 +882,38 @@ Play down Trubbish, Venipede, and Spiritomb, using Spiritomb’s Building Spite 
 
 - [Snorlax VIV 131](https://limitlesstcg.com/cards/VIV/131/) or [Cinccino SSH 147](https://limitlesstcg.com/cards/SSH/147/) as alternate draw engines for the deck, in place of or in addition to [Jirachi VIV 119](https://limitlesstcg.com/cards/viv/119/), [Crobat V DAA 104](https://limitlesstcg.com/cards/DAA/104/), and [Oricorio-GX CEC 95](https://limitlesstcg.com/cards/CEC/95/).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Venipede CRE 105
+3 Scolipede CRE 107
+3 Trubbish VIV 110
+2 Garbodor RCL 118
+2 Jirachi VIV 119
+2 Spiritomb UNB 112
+1 Crobat V DAA 104
+1 Oricorio-GX CEC 95
+Trainer Cards - 33
+4 Bruno BST 121
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+4 Switch SSH 183
+3 Pokémon Communication TEU 152
+2 Air Balloon SSH 156
+2 Exp. Share BST 126
+2 Ordinary Rod SSH 171
+3 Old Cemetery CRE 147
+Energy - 9
+5 Darkness Energy SWSHEnergy 7
+4 Twin Energy RCL 174
+```
 
-### Example Deck List
-
-**Pokémon - 18** 4 Venipede CRE 105 3 Scolipede CRE 107 3 Trubbish VIV 110 2 Garbodor RCL 118 2 Jirachi VIV 119 2 Spiritomb UNB 112 1 Crobat V DAA 104 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 33** 4 Bruno BST 121 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Quick Ball SSH 179 4 Rare Candy SSH 180 4 Switch SSH 183 3 Pokémon Communication TEU 152 2 Air Balloon SSH 156 2 Exp. Share BST 126 2 Ordinary Rod SSH 171 3 Old Cemetery CRE 147
-
-**Energy - 9** 5 Darkness Energy SWSHEnergy 7 4 Twin Energy RCL 174
-
-</div></div><div class="jb-code-container">
-    <div id="ssurshifu" class="deck_box">
-  <h2>Single Strike Urshifu</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Mitsuhiro Arita](/images/ss-urshifu-07f47a.webp)
-
-*Illus. Mitsuhiro Arita*
+::::
 
 
+
+::::deck{id="ssurshifu" name="Single Strike Urshifu" image="/images/ss-urshifu-07f47a.webp" illus="Mitsuhiro Arita" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -756,28 +929,37 @@ Bench and evolve Houndour and Kubfu into Houndoom and Single Strike Urshifu, res
 
 - [Spiritomb UNB 112](https://limitlesstcg.com/cards/UNB/112/), [Jynx UNM 76](https://limitlesstcg.com/cards/UNM/76/), and either [Cape of Toughness](https://limitlesstcg.com/cards/DAA/160/) or [Big Charm](https://limitlesstcg.com/cards/SSH/158/) to use Spiritomb as an alternate attacker that’s a bit easier to setup.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 20
+4 Kubfu CRE 93
+4 Single Strike Urshifu CRE 108
+4 Houndour BST 95
+4 Houndoom BST 96
+2 Dedenne-GX UNB 57
+1 Crobat V DAA 104
+1 Mew UNB 76
+Trainer Cards - 30
+4 Bruno BST 121
+3 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+2 Karen's Conviction CRE 144
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+3 Urn of Vitality BST 139
+2 Air Balloon SSH 156
+1 Ordinary Rod SSH 171
+4 Tower of Darkness BST 137
+Energy - 10
+4 Single Strike Energy BST 141
+4 Hiding Darkness Energy DAA 175
+2 Darkness Energy
+```
 
-### Example Deck List
-
-**Pokémon - 20** 4 Kubfu CRE 93 4 Single Strike Urshifu CRE 108 4 Houndour BST 95 4 Houndoom BST 96 2 Dedenne-GX UNB 57 1 Crobat V DAA 104 1 Mew UNB 76
-
-**Trainer Cards - 30** 4 Bruno BST 121 3 Professor's Research CPA 62 3 Boss's Orders RCL 154 2 Karen's Conviction CRE 144 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 3 Urn of Vitality BST 139 2 Air Balloon SSH 156 1 Ordinary Rod SSH 171 4 Tower of Darkness BST 137
-
-**Energy - 10** 4 Single Strike Energy BST 141 4 Hiding Darkness Energy DAA 175 2 Darkness Energy
-
-</div></div><div class="jb-code-container">
-    <div id="metagross" class="deck_box">
-  <h2>Metagross VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Ryota Murayama](/images/metagross-vmax.webp)
-
-*Illus. Ryota Murayama*
+::::
 
 
+
+::::deck{id="metagross" name="Metagross VMAX" image="/images/metagross-vmax.webp" illus="Ryota Murayama" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -794,28 +976,39 @@ Place down Metagross V and evolve it into a Metagross VMAX as necessary. Use Gre
 
 - [Team Yell Grunt](https://limitlesstcg.com/cards/SSH/184/) as an additional disruption option.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 8
+4 Metagross V CRE 112
+4 Metagross VMAX CRE 113
+Trainer Cards - 40
+4 Green's Exploration UNB 175
+3 Cheryl BST 123
+2 Boss's Orders RCL 154
+2 Cynthia & Caitlin CEC 189
+2 Mallow & Lana CEC 198
+1 Flannery CRE 139
+1 Marnie CPA 56
+4 Crushing Hammer SSH 159
+4 Metal Saucer SSH 170
+4 Pokégear 3.0 SSH 174
+2 Evolution Incense SSH 163
+2 Fan of Waves BST 127
+2 Quick Ball SSH 179
+1 Energy Spinner UNB 170
+1 Hero's Medal VIV 152
+1 Pal Pad SSH 172
+1 Tool Scrapper RCL 168
+3 Path to the Peak CRE 148
+Energy - 12
+9 Metal Energy SWSHEnergy 8
+3 Coating Metal Energy VIV 163
+```
 
-### Example Deck List
-
-**Pokémon - 8** 4 Metagross V CRE 112 4 Metagross VMAX CRE 113
-
-**Trainer Cards - 40** 4 Green's Exploration UNB 175 3 Cheryl BST 123 2 Boss's Orders RCL 154 2 Cynthia & Caitlin CEC 189 2 Mallow & Lana CEC 198 1 Flannery CRE 139 1 Marnie CPA 56 4 Crushing Hammer SSH 159 4 Metal Saucer SSH 170 4 Pokégear 3.0 SSH 174 2 Evolution Incense SSH 163 2 Fan of Waves BST 127 2 Quick Ball SSH 179 1 Energy Spinner UNB 170 1 Hero's Medal VIV 152 1 Pal Pad SSH 172 1 Tool Scrapper RCL 168 3 Path to the Peak CRE 148
-
-**Energy - 12** 9 Metal Energy SWSHEnergy 8 3 Coating Metal Energy VIV 163
-
-</div></div><div class="jb-code-container">
-    <div id="tauros" class="deck_box">
-  <h2>Tauros</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. nagimiso](/images/tauros.webp)
-
-*Illus. nagimiso*
+::::
 
 
+
+::::deck{id="tauros" name="Tauros" image="/images/tauros.webp" illus="nagimiso" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -831,28 +1024,39 @@ Bench Tauros and Houndour and evolve Houndour into Houndoom as soon as possible.
 
 - [Galarian Rapidash SSH 82](https://limitlesstcg.com/cards/SSH/82/) to prevent Raging Bull from confusing Tauros or [Full Heal](https://limitlesstcg.com/cards/CPA/51/) to recover from confusion, in the rare event that Tauros survives a turn after it attacks.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 17
+4 Houndour BST 95
+3 Houndoom BST 96
+4 Tauros CRE 115
+2 Jirachi VIV 119
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Mew UNB 76
+1 Oricorio-GX CEC 95
+Trainer Cards - 31
+4 Bruno BST 121
+3 Boss's Orders RCL 154
+3 Professor's Research CPA 62
+4 Quick Ball SSH 179
+3 Pokémon Communication TEU 152
+3 Switch SSH 183
+3 Urn of Vitality BST 139
+2 Air Balloon SSH 156
+2 Ordinary Rod SSH 171
+1 Reset Stamp UNM 206
+3 Old Cemetery CRE 147
+Energy - 12
+4 Capture Energy RCL 171
+4 Powerful Colorless Energy DAA 176
+4 Single Strike Energy BST 141
+```
 
-### Example Deck List
-
-**Pokémon - 17** 4 Houndour BST 95 3 Houndoom BST 96 4 Tauros CRE 115 2 Jirachi VIV 119 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Mew UNB 76 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 31** 4 Bruno BST 121 3 Boss's Orders RCL 154 3 Professor's Research CPA 62 4 Quick Ball SSH 179 3 Pokémon Communication TEU 152 3 Switch SSH 183 3 Urn of Vitality BST 139 2 Air Balloon SSH 156 2 Ordinary Rod SSH 171 1 Reset Stamp UNM 206 3 Old Cemetery CRE 147
-
-**Energy - 12** 4 Capture Energy RCL 171 4 Powerful Colorless Energy DAA 176 4 Single Strike Energy BST 141
-
-</div></div><div class="jb-code-container">
-    <div id="blissey" class="deck_box">
-  <h2>Blissey V</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: Minimal</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Saki Hayashiro](/images/blissey-v.webp)
-
-*Illus. Saki Hayashiro*
+::::
 
 
+
+::::deck{id="blissey" name="Blissey V" image="/images/blissey-v.webp" illus="Saki Hayashiro" sublabel="Competitive Potential: Minimal"}
 
 ### Basic Strategy
 
@@ -869,28 +1073,37 @@ Bench Blissey V and Porygon, evolving Porygon into Porygon-Z as early as possibl
 - [Dubwool V](https://limitlesstcg.com/cards/rcl/153/) as an easier-to-power alternate attacker to take revenge knockouts when necessary.
 - [Peony](https://www.serebii.net/card/silverlance/067.shtml) to search for Rare Candy and Evolution Incense to ensure that Porygon-Z is available early in the game.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 15
+4 Blissey V CRE 119
+4 Porygon UNB 154
+4 Porygon-Z UNB 157
+2 Zacian V SSH 138
+1 Crobat V DAA 104
+Trainer Cards - 27
+4 Hapu UNM 200
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Erika's Hospitality HIF 56
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Cape of Toughness DAA 160
+2 Evolution Incense SSH 163
+2 Switch SSH 183
+Energy - 18
+4 Powerful Colorless Energy DAA 176
+4 Recycle Energy UNM 212
+4 Draw Energy CEC 209
+2 Capture Energy RCL 171
+2 Lucky Energy 158
+2 Weakness Guard Energy UNM 213
+```
 
-### Example Deck List
-
-**Pokémon - 15** 4 Blissey V CRE 119 4 Porygon UNB 154 4 Porygon-Z UNB 157 2 Zacian V SSH 138 1 Crobat V DAA 104
-
-**Trainer Cards - 27** 4 Hapu UNM 200 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Erika's Hospitality HIF 56 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Cape of Toughness DAA 160 2 Evolution Incense SSH 163 2 Switch SSH 183
-
-**Energy - 18** 4 Powerful Colorless Energy DAA 176 4 Recycle Energy UNM 212 4 Draw Energy CEC 209 2 Capture Energy RCL 171 2 Lucky Energy 158 2 Weakness Guard Energy UNM 213
-
-</div></div><div class="jb-code-container">
-    <div id="tornadusvmax" class="deck_box">
-  <h2>Tornadus VMAX</h2>
-  <p class="jb-deckbox-sublabel">Competitive Potential: None</p>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
-
-![Illus. Mitsuhiro Arita](/images/tornadus-vmax.webp)
-
-*Illus. Mitsuhiro Arita*
+::::
 
 
+
+::::deck{id="tornadusvmax" name="Tornadus VMAX" image="/images/tornadus-vmax.webp" illus="Mitsuhiro Arita" sublabel="Competitive Potential: None"}
 
 ### Basic Strategy
 
@@ -908,15 +1121,36 @@ Bench and evolve Houndour and Torndus V into Houndoom and Tornadus VMAX, respect
 - [Bruno](https://limitlesstcg.com/cards/BST/121/) as an alternative draw supporter that can also be discarded by Tower of Darkness to draw more cards, even on turns when another Supporter has been used.
 - [Tyranitar V BST 97](https://limitlesstcg.com/cards/BST/97/) to take advantage of the 240 damage of its Single Strike Crush attack.
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 18
+4 Houndour BST 95
+3 Houndoom BST 96
+4 Tornadus V CRE 124
+3 Tornadus VMAX CRE 125
+1 Dedenne-GX UNB 57
+1 Crobat V DAA 104
+1 Mew UNB 76
+1 Single Strike Urshifu V BST 85
+Trainer Cards - 31
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+3 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+3 Pokémon Communication TEU 152
+3 Urn of Vitality BST 139
+2 Evolution Incense SSH 163
+2 Switch SSH 183
+2 Air Balloon SSH 156
+1 Single Strike Scroll of Scorn BST 133
+4 Tower of Darkness BST 137
+Energy - 11
+4 Single Strike Energy BST 141
+3 Powerful Colorless Energy DAA 176
+2 Capture Energy RCL 171
+2 Triple Acceleration Energy UNB 190
+```
 
-### Example Deck List
+::::
 
-**Pokémon - 18** 4 Houndour BST 95 3 Houndoom BST 96 4 Tornadus V CRE 124 3 Tornadus VMAX CRE 125 1 Dedenne-GX UNB 57 1 Crobat V DAA 104 1 Mew UNB 76 1 Single Strike Urshifu V BST 85
 
-**Trainer Cards - 31** 4 Professor's Research CPA 62 3 Marnie CPA 56 3 Boss's Orders RCL 154 4 Quick Ball SSH 179 3 Pokémon Communication TEU 152 3 Urn of Vitality BST 139 2 Evolution Incense SSH 163 2 Switch SSH 183 2 Air Balloon SSH 156 1 Single Strike Scroll of Scorn BST 133 4 Tower of Darkness BST 137
-
-**Energy - 11** 4 Single Strike Energy BST 141 3 Powerful Colorless Energy DAA 176 2 Capture Energy RCL 171 2 Triple Acceleration Energy UNB 190
-
-</div></div>
 

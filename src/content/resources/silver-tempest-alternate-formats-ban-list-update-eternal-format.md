@@ -19,5 +19,13 @@ Effective immediately, the following cards are banned in the Eternal format:
 - Earthen Seal Stone SIT 154
 - Tickling Machine G1 119
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/139-68122c.webp"><img src="/images/139-68122c.webp" alt="139.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/154-b96f4a.webp"><img src="/images/154-b96f4a.webp" alt="154.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tickling-machine-gym-heroes-119.webp"><img src="/images/tickling-machine-gym-heroes-119.webp" alt="tickling-machine-gym-heroes-119.jpg" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/139-68122c.webp
+- /images/154-b96f4a.webp
+- /images/tickling-machine-gym-heroes-119.webp
+:::
+
+
 

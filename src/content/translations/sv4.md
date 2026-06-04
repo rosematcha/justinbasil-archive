@@ -7,13 +7,11 @@ sourceUrl: "https://www.justinbasil.com/translations/sv4"
 showHeading: false
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Card Translations</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-paradox-rift-logo.webp" title="Card Translations"}
+
+<p class="jb-decklist-center">Learn more about Paradox Rift by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
     </p><p class="jb-decklist-center">
@@ -23,9 +21,10 @@ showHeading: false
           <a class="blink" href="/proxies/sv4">Selected Proxies</a> | 
           <a class="blink" href="/new-decks/sv4">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below is a running summary of translations for all base-rarity cards currently believed to be part of our Paradox Rift set. To view secret rare cards, visit the set’s [Visual Set List](/visual/sv4).
 

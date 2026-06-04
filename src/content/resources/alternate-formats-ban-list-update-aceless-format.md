@@ -15,5 +15,11 @@ showHeading: false
 
 Effective immediately, Ambipom PGO 57 is banned in the Aceless format.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pgo-057-r-en.webp"><img src="/images/pgo-057-r-en.webp" alt="PGO_057_R_EN.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/pgo-057-r-en.webp
+:::
+
+
 

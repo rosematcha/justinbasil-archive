@@ -7,13 +7,11 @@ sourceUrl: "https://www.justinbasil.com/translations/sv8"
 showHeading: false
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/pokemon-tcg-scarlet-violet-surging-sparks-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-white-center-margin5">Card Translations</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/pokemon-tcg-scarlet-violet-surging-sparks-logo.webp" title="Card Translations"}
+
+<p class="jb-decklist-center">Learn more about our eighth Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv8">Prospective Set List</a>  |
@@ -22,9 +20,10 @@ showHeading: false
           <a class="blink" href="/proxies/sv8">Selected Proxies</a> |
           <a class="blink" href="/new-decks/sv8">New Decks</a> 
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 Below is a running summary of translations for all base-rarity cards currently believed to be part of our Surging Sparks set. To view secret rare cards, visit the set’s [Visual Set List](/visual/sv8).
 

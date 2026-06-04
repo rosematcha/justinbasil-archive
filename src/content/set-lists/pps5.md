@@ -20,7 +20,98 @@ Below is a visual set list for cards contained in Prize Pack Series 5. In the [t
 
 Prize Pack Series 5 officially releases on Wednesday, August 14th and cards first printed with the Play! Pokémon stamp in either holo or non-holo form are not tournament legal until that date. You can also download an official checklist for Prize Pack Series 5 [here](https://www.pokemon.com/static-assets/content-assets/cms2/pdf/trading-card-game/checklist/prize_pack_series_5_web_cardlist_en.pdf).
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pal-060-r-en-lg.webp"><img src="/images/pal-060-r-en-lg.webp" alt="PAL_060_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-021-r-en.webp"><img src="/images/tef-021-r-en.webp" alt="TEF_021_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-123-r-en.webp"><img src="/images/par-123-r-en.webp" alt="PAR_123_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/obf-125-r-en-lg-de1c40.webp"><img src="/images/obf-125-r-en-lg-de1c40.webp" alt="OBF_125_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-061-r-en-lg.webp"><img src="/images/pal-061-r-en-lg.webp" alt="PAL_061_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mew-085-r-en.webp"><img src="/images/mew-085-r-en.webp" alt="MEW_085_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-108-r-en.webp"><img src="/images/tef-108-r-en.webp" alt="TEF_108_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-041-r-en.webp"><img src="/images/tef-041-r-en.webp" alt="TEF_041_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-078-r-en.webp"><img src="/images/tef-078-r-en.webp" alt="TEF_078_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-005-r-en-lg-b78e36.webp"><img src="/images/pal-005-r-en-lg-b78e36.webp" alt="PAL_005_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-038-r-en.webp"><img src="/images/par-038-r-en.webp" alt="PAR_038_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-086-r-en-lg-ce9ffc.webp"><img src="/images/svi-086-r-en-lg-ce9ffc.webp" alt="SVI_086_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-104-r-en.webp"><img src="/images/par-104-r-en.webp" alt="PAR_104_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-139-r-en.webp"><img src="/images/par-139-r-en.webp" alt="PAR_139_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-093-r-en.webp"><img src="/images/par-093-r-en.webp" alt="PAR_093_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-081-r-en.webp"><img src="/images/tef-081-r-en.webp" alt="TEF_081_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-070-r-en.webp"><img src="/images/par-070-r-en.webp" alt="PAR_070_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-089-r-en.webp"><img src="/images/par-089-r-en.webp" alt="PAR_089_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-126-r-en.webp"><img src="/images/par-126-r-en.webp" alt="PAR_126_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-119-r-en.webp"><img src="/images/tef-119-r-en.webp" alt="TEF_119_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mew-151-r-en.webp"><img src="/images/mew-151-r-en.webp" alt="MEW_151_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-058-r-en.webp"><img src="/images/par-058-r-en.webp" alt="PAR_058_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-121-r-en.webp"><img src="/images/tef-121-r-en.webp" alt="TEF_121_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-081-r-en-lg.webp"><img src="/images/svi-081-r-en-lg.webp" alt="SVI_081_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-121-r-en.webp"><img src="/images/par-121-r-en.webp" alt="PAR_121_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/obf-164-r-en-lg.webp"><img src="/images/obf-164-r-en-lg.webp" alt="OBF_164_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-024-r-en.webp"><img src="/images/tef-024-r-en.webp" alt="TEF_024_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-123-r-en.webp"><img src="/images/tef-123-r-en.webp" alt="TEF_123_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-109-r-en.webp"><img src="/images/tef-109-r-en.webp" alt="TEF_109_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-124-r-en.webp"><img src="/images/par-124-r-en.webp" alt="PAR_124_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-108-r-en.webp"><img src="/images/par-108-r-en.webp" alt="PAR_108_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-137-r-en.webp"><img src="/images/par-137-r-en.webp" alt="PAR_137_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-169-r-en-lg-760f4f.webp"><img src="/images/pal-169-r-en-lg-760f4f.webp" alt="PAL_169_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-012-r-en.webp"><img src="/images/tef-012-r-en.webp" alt="TEF_012_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-072-r-en.webp"><img src="/images/par-072-r-en.webp" alt="PAR_072_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-159-r-en.webp"><img src="/images/par-159-r-en.webp" alt="PAR_159_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-166-r-en-lg.webp"><img src="/images/svi-166-r-en-lg.webp" alt="SVI_166_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/paf-077-r-en.webp"><img src="/images/paf-077-r-en.webp" alt="PAF_077_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-141-r-en.webp"><img src="/images/tef-141-r-en.webp" alt="TEF_141_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-172-r-en-lg.webp"><img src="/images/pal-172-r-en-lg.webp" alt="PAL_172_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-144-r-en.webp"><img src="/images/tef-144-r-en.webp" alt="TEF_144_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-145-r-en.webp"><img src="/images/tef-145-r-en.webp" alt="TEF_145_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-160-r-en.webp"><img src="/images/par-160-r-en.webp" alt="PAR_160_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-163-r-en.webp"><img src="/images/par-163-r-en.webp" alt="PAR_163_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-147-r-en.webp"><img src="/images/tef-147-r-en.webp" alt="TEF_147_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-148-r-en.webp"><img src="/images/tef-148-r-en.webp" alt="TEF_148_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-164-r-en.webp"><img src="/images/par-164-r-en.webp" alt="PAR_164_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-151-r-en.webp"><img src="/images/tef-151-r-en.webp" alt="TEF_151_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-152-r-en.webp"><img src="/images/tef-152-r-en.webp" alt="TEF_152_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/paf-080-r-en.webp"><img src="/images/paf-080-r-en.webp" alt="PAF_080_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-176-r-en-lg.webp"><img src="/images/svi-176-r-en-lg.webp" alt="SVI_176_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-166-r-en.webp"><img src="/images/par-166-r-en.webp" alt="PAR_166_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-154-r-en.webp"><img src="/images/tef-154-r-en.webp" alt="TEF_154_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-167-r-en.webp"><img src="/images/par-167-r-en.webp" alt="PAR_167_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/paf-081-r-en.webp"><img src="/images/paf-081-r-en.webp" alt="PAF_081_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-155-r-en.webp"><img src="/images/tef-155-r-en.webp" alt="TEF_155_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-181-r-en-lg-c468f0.webp"><img src="/images/svi-181-r-en-lg-c468f0.webp" alt="SVI_181_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-156-r-en.webp"><img src="/images/tef-156-r-en.webp" alt="TEF_156_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-157-r-en.webp"><img src="/images/tef-157-r-en.webp" alt="TEF_157_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-170-r-en.webp"><img src="/images/par-170-r-en.webp" alt="PAR_170_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-171-r-en.webp"><img src="/images/par-171-r-en.webp" alt="PAR_171_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-189-r-en-lg-f39dd5.webp"><img src="/images/svi-189-r-en-lg-f39dd5.webp" alt="SVI_189_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-190-r-en-lg-2628c4.webp"><img src="/images/svi-190-r-en-lg-2628c4.webp" alt="SVI_190_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-191-r-en-lg-bc2e32.webp"><img src="/images/svi-191-r-en-lg-bc2e32.webp" alt="SVI_191_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-158-r-en.webp"><img src="/images/tef-158-r-en.webp" alt="TEF_158_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-159-r-en.webp"><img src="/images/tef-159-r-en.webp" alt="TEF_159_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-160-r-en.webp"><img src="/images/tef-160-r-en.webp" alt="TEF_160_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-188-r-en-lg.webp"><img src="/images/pal-188-r-en-lg.webp" alt="PAL_188_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-194-r-en-lg.webp"><img src="/images/svi-194-r-en-lg.webp" alt="SVI_194_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-177-r-en.webp"><img src="/images/par-177-r-en.webp" alt="PAR_177_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-178-r-en.webp"><img src="/images/par-178-r-en.webp" alt="PAR_178_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-180-r-en.webp"><img src="/images/par-180-r-en.webp" alt="PAR_180_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/par-181-r-en.webp"><img src="/images/par-181-r-en.webp" alt="PAR_181_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/svi-196-r-en-lg-0692ea.webp"><img src="/images/svi-196-r-en-lg-0692ea.webp" alt="SVI_196_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-190-r-en-lg.webp"><img src="/images/pal-190-r-en-lg.webp" alt="PAL_190_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-161-r-en.webp"><img src="/images/tef-161-r-en.webp" alt="TEF_161_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/tef-162-r-en.webp"><img src="/images/tef-162-r-en.webp" alt="TEF_162_R_EN.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/pal-192-r-en-lg.webp"><img src="/images/pal-192-r-en-lg.webp" alt="PAL_192_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-001-r-en-lg.webp"><img src="/images/sve-001-r-en-lg.webp" alt="SVE_001_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-002-r-en-lg.webp"><img src="/images/sve-002-r-en-lg.webp" alt="SVE_002_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-003-r-en-lg.webp"><img src="/images/sve-003-r-en-lg.webp" alt="SVE_003_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-004-r-en-lg.webp"><img src="/images/sve-004-r-en-lg.webp" alt="SVE_004_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-005-r-en-lg.webp"><img src="/images/sve-005-r-en-lg.webp" alt="SVE_005_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-006-r-en-lg.webp"><img src="/images/sve-006-r-en-lg.webp" alt="SVE_006_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-007-r-en-lg.webp"><img src="/images/sve-007-r-en-lg.webp" alt="SVE_007_R_EN_LG.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/sve-008-r-en-lg.webp"><img src="/images/sve-008-r-en-lg.webp" alt="SVE_008_R_EN_LG.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/pal-060-r-en-lg.webp
+- /images/tef-021-r-en.webp
+- /images/par-123-r-en.webp
+- /images/obf-125-r-en-lg-de1c40.webp
+- /images/pal-061-r-en-lg.webp
+- /images/mew-085-r-en.webp
+- /images/tef-108-r-en.webp
+- /images/tef-041-r-en.webp
+- /images/tef-078-r-en.webp
+- /images/pal-005-r-en-lg-b78e36.webp
+- /images/par-038-r-en.webp
+- /images/svi-086-r-en-lg-ce9ffc.webp
+- /images/par-104-r-en.webp
+- /images/par-139-r-en.webp
+- /images/par-093-r-en.webp
+- /images/tef-081-r-en.webp
+- /images/par-070-r-en.webp
+- /images/par-089-r-en.webp
+- /images/par-126-r-en.webp
+- /images/tef-119-r-en.webp
+- /images/mew-151-r-en.webp
+- /images/par-058-r-en.webp
+- /images/tef-121-r-en.webp
+- /images/svi-081-r-en-lg.webp
+- /images/par-121-r-en.webp
+- /images/obf-164-r-en-lg.webp
+- /images/tef-024-r-en.webp
+- /images/tef-123-r-en.webp
+- /images/tef-109-r-en.webp
+- /images/par-124-r-en.webp
+- /images/par-108-r-en.webp
+- /images/par-137-r-en.webp
+- /images/pal-169-r-en-lg-760f4f.webp
+- /images/tef-012-r-en.webp
+- /images/par-072-r-en.webp
+- /images/par-159-r-en.webp
+- /images/svi-166-r-en-lg.webp
+- /images/paf-077-r-en.webp
+- /images/tef-141-r-en.webp
+- /images/pal-172-r-en-lg.webp
+- /images/tef-144-r-en.webp
+- /images/tef-145-r-en.webp
+- /images/par-160-r-en.webp
+- /images/par-163-r-en.webp
+- /images/tef-147-r-en.webp
+- /images/tef-148-r-en.webp
+- /images/par-164-r-en.webp
+- /images/tef-151-r-en.webp
+- /images/tef-152-r-en.webp
+- /images/paf-080-r-en.webp
+- /images/svi-176-r-en-lg.webp
+- /images/par-166-r-en.webp
+- /images/tef-154-r-en.webp
+- /images/par-167-r-en.webp
+- /images/paf-081-r-en.webp
+- /images/tef-155-r-en.webp
+- /images/svi-181-r-en-lg-c468f0.webp
+- /images/tef-156-r-en.webp
+- /images/tef-157-r-en.webp
+- /images/par-170-r-en.webp
+- /images/par-171-r-en.webp
+- /images/svi-189-r-en-lg-f39dd5.webp
+- /images/svi-190-r-en-lg-2628c4.webp
+- /images/svi-191-r-en-lg-bc2e32.webp
+- /images/tef-158-r-en.webp
+- /images/tef-159-r-en.webp
+- /images/tef-160-r-en.webp
+- /images/pal-188-r-en-lg.webp
+- /images/svi-194-r-en-lg.webp
+- /images/par-177-r-en.webp
+- /images/par-178-r-en.webp
+- /images/par-180-r-en.webp
+- /images/par-181-r-en.webp
+- /images/svi-196-r-en-lg-0692ea.webp
+- /images/pal-190-r-en-lg.webp
+- /images/tef-161-r-en.webp
+- /images/tef-162-r-en.webp
+- /images/pal-192-r-en-lg.webp
+- /images/sve-001-r-en-lg.webp
+- /images/sve-002-r-en-lg.webp
+- /images/sve-003-r-en-lg.webp
+- /images/sve-004-r-en-lg.webp
+- /images/sve-005-r-en-lg.webp
+- /images/sve-006-r-en-lg.webp
+- /images/sve-007-r-en-lg.webp
+- /images/sve-008-r-en-lg.webp
+:::
+
+<div class="jb-code-container">
     <span id="textlist"></span>
 </div>
 

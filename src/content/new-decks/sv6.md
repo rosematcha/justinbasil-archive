@@ -7,13 +7,11 @@ showHeading: false
 publishDate: 2024-05-24
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">New Decks from Twilight Masquerade</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/twilightmasquerade.webp" title="New Decks from Twilight Masquerade"}
+
+<p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/sv6">Set List</a>  |
@@ -22,9 +20,10 @@ publishDate: 2024-05-24
           <a class="blink" href="/proxies/sv6">Selected Proxies</a> | 
           <a href="/new-decks/sv6">New Decks</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 With the arrival of Twilight Masquerade in May, we’ll have a handful of new deck joining the fray. As always, some decks are better than others—some are meme tier and some are merely playable, fun decks without much competitive promise. Lists below are very rough drafts and are intended as a starting place for testing, not as tournament-ready deck lists. Consider [creating and using proxies to test cards you don’t already own](/guide/proxies) prior to making any purchases.
 
@@ -50,20 +49,9 @@ With the arrival of Twilight Masquerade in May, we’ll have a handful of new de
     <li class="c"><a href="#bloodmoonursalunaex">Bloodmoon Ursaluna ex</a></li>
   </ul>
 </div>
-</div><div class="jb-code-container">
-    <div id="sinistcha" class="deck_box">
-    <h1>Sinistcha</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
 </div>
-</div><div class="jb-row"><div class="jb-col-6">
 
-![](/images/sinistcha-11e470.webp)
-
-*Illus. Kouki Saitou*
-
-
+::::deck{id="sinistcha" name="Sinistcha" image="/images/sinistcha-11e470.webp" illus="Kouki Saitou" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -81,13 +69,37 @@ Set up your board by getting Poltchageist in play alongside several Teal Mask Og
 - [Salvatore](https://limitlesstcg.com/cards/TEF/160) to increase the odds of a turn one knockout with Sinistcha’s Spill the Tea.
 - Additional copies of [Earthen Vessel](https://limitlesstcg.com/cards/PAR/163) to further ease the difficulty of having energy in hand for Teal Mask Ogerpon ex’s Teal Dance Ability.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 18</p><ul> <li>4 Poltchageist TWM 20</li> <li>4 Sinistcha TWM 22</li> <li>3 Teal Mask Ogerpon ex TWM 25</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Jirachi PAR 126</li> <li>1 Lumineon V BRS 40</li> <li>1 Radiant Greninja ASR 46</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>3 Iono PAF 80</li> <li>3 Professor's Research PAF 88</li> <li>2 Boss's Orders PAL 172</li> <li>1 Arven OBF 186</li> <li>1 Ciphermaniac's Codebreaking TEF 145</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Bug Catching Set TWM 143</li> <li>3 Nest Ball PAF 84</li> <li>2 Counter Catcher PAR 160</li> <li>2 Super Rod PAL 188</li> <li>2 Ultra Ball PAF 91</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Defiance Band SVI 169</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 9</p><ul> <li>9 Basic Grass Energy SVE 1</li>
-</ul></div>
+```decklist
+Pokémon - 18
+4 Poltchageist TWM 20
+4 Sinistcha TWM 22
+3 Teal Mask Ogerpon ex TWM 25
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Jirachi PAR 126
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+Trainer Cards - 33
+3 Iono PAF 80
+3 Professor's Research PAF 88
+2 Boss's Orders PAL 172
+1 Arven OBF 186
+1 Ciphermaniac's Codebreaking TEF 145
+4 Buddy-Buddy Poffin TEF 144
+4 Bug Catching Set TWM 143
+3 Nest Ball PAF 84
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+2 Ultra Ball PAF 91
+1 Earthen Vessel PAR 163
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Defiance Band SVI 169
+1 Forest Seal Stone SIT 156
+1 Artazon PAF 76
+Energy - 9
+9 Basic Grass Energy SVE 1
+```
 
 ### Testing Streams
 
@@ -96,25 +108,17 @@ Set up your board by getting Poltchageist in play alongside several Teal Mask Og
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-R8zKvL6-e8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 1: Infernape vs. Sinistcha&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/SdCYnqjG5Kw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 1: Sinistcha vs. Magcargo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="festivalgrounds" class="deck_box">
-    <h1>Festival Grounds</h1>    
-  <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/festival-grounds-dbb013.webp)
-
-*Illus. MARINA Chikazawa*
-
-
+::::deck{id="festivalgrounds" name="Festival Grounds" image="/images/festival-grounds-dbb013.webp" illus="MARINA Chikazawa" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -130,13 +134,36 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
 
 - [Goldeen TWM 44](/translations/sv6#block-yui_3_17_2_1_1712304012093_535872) and/or [Swirlix TWM 89](/translations/sv6#block-yui_3_17_2_1_1712304012093_957228) to be present as Basic Pokémon with the Festival Lead Ability, making it easier to take advantage of Thwackey’s Boom Boom Groove Ability.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 17</p><ul> <li>4 Applin TWM 17</li> <li>4 Dipplin TWM 18</li> <li>3 Grookey TWM 14</li> <li>3 Thwackey TWM 15</li> <li>2 Tatsugiri TWM 131</li> <li>1 Manaphy BRS 41</li> </ul><p class="jb-decklist-section">Trainer Cards - 37</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>1 Arezu LOR 153</li> <li>1 Kieran TWM 154</li> <li>1 Lana's Aid TWM 155</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Bug Catching Set TWM 143</li> <li>2 Counter Catcher PAR 160</li> <li>2 Super Rod PAL 188</li> <li>2 Ultra Ball PAF 91</li> <li>1 Switch SVI 194</li> <li>2 Rescue Board TEF 159</li> <li>1 Defiance Band SVI 169</li> <li>1 Maximum Belt TEF 154</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Vitality Band SVI 197</li> <li>4 Festival Grounds TWM 149</li> </ul><p class="jb-decklist-section">Energy - 6</p><ul> <li>6 Basic Grass Energy SVE 1</li> </ul>
-</div>
+```decklist
+Pokémon - 17
+4 Applin TWM 17
+4 Dipplin TWM 18
+3 Grookey TWM 14
+3 Thwackey TWM 15
+2 Tatsugiri TWM 131
+1 Manaphy BRS 41
+Trainer Cards - 37
+4 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Arezu LOR 153
+1 Kieran TWM 154
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+4 Bug Catching Set TWM 143
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+2 Ultra Ball PAF 91
+1 Switch SVI 194
+2 Rescue Board TEF 159
+1 Defiance Band SVI 169
+1 Maximum Belt TEF 154
+1 Technical Machine: Evolution PAR 178
+1 Vitality Band SVI 197
+4 Festival Grounds TWM 149
+Energy - 6
+6 Basic Grass Energy SVE 1
+```
 
 ### Testing Streams
 
@@ -145,25 +172,17 @@ Play down and evolve Grookey and Applin into Thwackey and Dipplin, respectively.
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/K_xBgWkmGzg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 6: Festival Grounds vs. Luxray ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/XxrXB87EXhQ?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 6: Froslass vs. Festival Grounds&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="magcargoex" class="deck_box">
-    <h1>Magcargo ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/magcargo-ex-b1c3eb.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="magcargoex" name="Magcargo ex" image="/images/magcargo-ex-b1c3eb.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -178,13 +197,37 @@ Evolve Slugma into Magcargo and, with the aid of cards like Ciphermaniac’s Cod
 
 - Pairing Magcargo ex with the Lost Engine and [Magcargo LOR 22](https://limitlesstcg.com/cards/LOR/22), which, as a single Prize Pokémon, does 220 damage for three Energy with its Lost Volcano attack.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Slugma LOR 21</li> <li>3 Magcargo ex TWM 29</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>2 Entei V BRS 22</li> <li>1 Manaphy BRS 41</li> <li>1 Morpeko TWM 72</li> <li>1 Radiant Charizard CRZ 20</li> </ul><p class="jb-decklist-section">Trainer Cards - 32</p><ul> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>2 Ciphermaniac's Codebreaking TEF 145</li> <li>2 Team Star Grunt OBF 195</li> <li>1 Mela PAR 167</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>2 Nest Ball PAF 84</li> <li>2 Switch SVI 194</li> <li>1 Counter Catcher PAR 160</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Maximum Belt TEF 154</li> <li>1 Rescue Board TEF 159</li> <li>3 Magma Basin BRS 144</li> </ul><p class="jb-decklist-section">Energy - 12</p><ul> <li>12 Basic Fire Energy SVE 2</li>
-</ul></div>
+```decklist
+Pokémon - 16
+4 Slugma LOR 21
+3 Magcargo ex TWM 29
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Entei V BRS 22
+1 Manaphy BRS 41
+1 Morpeko TWM 72
+1 Radiant Charizard CRZ 20
+Trainer Cards - 32
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+2 Ciphermaniac's Codebreaking TEF 145
+2 Team Star Grunt OBF 195
+1 Mela PAR 167
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+2 Nest Ball PAF 84
+2 Switch SVI 194
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Forest Seal Stone SIT 156
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+3 Magma Basin BRS 144
+Energy - 12
+12 Basic Fire Energy SVE 2
+```
 
 ### Testing Streams
 
@@ -193,25 +236,17 @@ Evolve Slugma into Magcargo and, with the aid of cards like Ciphermaniac’s Cod
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/SdCYnqjG5Kw?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 1: Sinistcha vs. Magcargo ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hdkS8yNxC7g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 2: Magcargo ex vs. Bloodmoon Ursaluna ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="infernape" class="deck_box">
-    <h1>Infernape</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/infernape-861f6b.webp)
-
-*Illus. Takumi Wada*
-
-
+::::deck{id="infernape" name="Infernape" image="/images/infernape-861f6b.webp" illus="Takumi Wada" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -228,13 +263,34 @@ Evolve Chimchar into Infernape with Rare Candy. With Infernape’s Pyro Dance Ab
 
 - Running [Bloodmoon Ursaluna ex](/translations/sv6#block-yui_3_17_2_1_1708239534927_356980) in place of Radiant Charizard, opening up the deck’s Radiant spot so that it can run [Radiant Greninja](https://limitlesstcg.com/cards/ASR/46) in its stead.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Chimchar BRS 24</li> <li>3 Infernape TWM 33</li> <li>3 Koraidon ex TEF 120</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Entei V BRS 22</li> <li>1 Radiant Charizard CRZ 20</li> </ul><p class="jb-decklist-section">Trainer Cards - 33</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Nest Ball PAF 84</li> <li>2 Earthen Vessel PAR 163</li> <li>2 Super Rod PAL 188</li> <li>1 Prime Catcher TEF 157</li> <li>1 Switch SVI 194</li> <li>2 Ancient Booster Energy Capsule TEF 140</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Rescue Board TEF 159</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>6 Basic Fighting Energy SVE 6</li> <li>5 Basic Fire Energy SVE 2</li>
-</ul></div>
+```decklist
+Pokémon - 16
+4 Chimchar BRS 24
+3 Infernape TWM 33
+3 Koraidon ex TEF 120
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Entei V BRS 22
+1 Radiant Charizard CRZ 20
+Trainer Cards - 33
+4 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin TEF 144
+3 Nest Ball PAF 84
+2 Earthen Vessel PAR 163
+2 Super Rod PAL 188
+1 Prime Catcher TEF 157
+1 Switch SVI 194
+2 Ancient Booster Energy Capsule TEF 140
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+Energy - 11
+6 Basic Fighting Energy SVE 6
+5 Basic Fire Energy SVE 2
+```
 
 ### Testing Streams
 
@@ -243,25 +299,17 @@ Evolve Chimchar into Infernape with Rare Candy. With Infernape’s Pyro Dance Ab
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/-R8zKvL6-e8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 1: Infernape vs. Sinistcha&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/G6ypk4sBczc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 3: Iron Thorns ex vs. Infernape&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="froslass" class="deck_box">
-    <h1>Froslass / Brute Bonnet</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/froslass-9ce829.webp)
-
-*Illus. Makura Tami*
-
-
+::::deck{id="froslass" name="Froslass / Brute Bonnet" image="/images/froslass-9ce829.webp" illus="Makura Tami" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -279,13 +327,32 @@ On early turns, use Absol and its Swirling Disaster attack to spread damage on y
 
 - Run Froslass as a partner for Greninja ex.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 15</p><ul> <li>4 Brute Bonnet TWM 118</li> <li>4 Froslass TWM 53</li> <li>4 Snorunt SIT 41</li> <li>2 Absol ASR 97</li> <li>1 Cleffa OBF 80</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Professor Sada's Vitality PAR 170</li> <li>1 Boss's Orders PAL 172</li> <li>1 Iono PAF 80</li> <li>4 Dark Patch ASR 139</li> <li>4 Ultra Ball PAF 91</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Earthen Vessel PAR 163</li> <li>3 Nest Ball PAF 84</li> <li>3 Pokégear 3.0 SVI 186</li> <li>2 Counter Catcher PAR 160</li> <li>2 Super Rod PAL 188</li> <li>2 Switch SVI 194</li> <li>1 Pal Pad SVI 182</li> <li>1 Unfair Stamp TWM 165</li> <li>1 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Darkness Energy SVE 7</li> </ul>
-</div>
+```decklist
+Pokémon - 15
+4 Brute Bonnet TWM 118
+4 Froslass TWM 53
+4 Snorunt SIT 41
+2 Absol ASR 97
+1 Cleffa OBF 80
+Trainer Cards - 35
+4 Professor Sada's Vitality PAR 170
+1 Boss's Orders PAL 172
+1 Iono PAF 80
+4 Dark Patch ASR 139
+4 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin TEF 144
+3 Earthen Vessel PAR 163
+3 Nest Ball PAF 84
+3 Pokégear 3.0 SVI 186
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+2 Switch SVI 194
+1 Pal Pad SVI 182
+1 Unfair Stamp TWM 165
+1 Artazon PAF 76
+Energy - 10
+10 Basic Darkness Energy SVE 7
+```
 
 ### Testing Streams
 
@@ -294,25 +361,17 @@ On early turns, use Absol and its Swirling Disaster attack to spread damage on y
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hcrfUpN7EXM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 5: Palafin ex vs. Brute Bonnet / Froslass&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/25QQ3QuJIWg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Dragapult ex vs. Palafin ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="palafinex" class="deck_box">
-    <h1>Palafin ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/palafin-ex-9a3748.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="palafinex" name="Palafin ex" image="/images/palafin-ex-9a3748.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -328,13 +387,37 @@ Evolve Finizen up into the Palafin into the Palafin from Twilight Masquerade. Us
 
 - Finding Palafin ex a nice, cozy home somewhere in your collection binder.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 16</p><ul> <li>4 Finizen OBF 60</li> <li>3 Palafin TWM 60</li> <li>3 Palafin ex TWM 61</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Palafin OBF 62</li> <li>1 Skwovet SVI 151</li> </ul><p class="jb-decklist-section">Trainer Cards - 37</p><ul> <li>4 Iono PAF 80</li> <li>3 Irida ASR 147</li> <li>2 Boss's Orders PAL 172</li> <li>2 Kieran TWM 154</li> <li>1 Arven OBF 186</li> <li>1 Professor Turo's Scenario PAR 171</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>4 Ultra Ball PAF 91</li> <li>3 Nest Ball PAF 84</li> <li>2 Super Rod PAL 188</li> <li>2 Switch SVI 194</li> <li>1 Counter Catcher PAR 160</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>2 Rescue Board TEF 159</li> <li>1 Choice Belt PAL 176</li> <li>1 Maximum Belt TEF 154</li> <li>2 Artazon PAF 76</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>7 Basic Water Energy SVE 3</li> </ul>
-</div>
+```decklist
+Pokémon - 16
+4 Finizen OBF 60
+3 Palafin TWM 60
+3 Palafin ex TWM 61
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Palafin OBF 62
+1 Skwovet SVI 151
+Trainer Cards - 37
+4 Iono PAF 80
+3 Irida ASR 147
+2 Boss's Orders PAL 172
+2 Kieran TWM 154
+1 Arven OBF 186
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+3 Nest Ball PAF 84
+2 Super Rod PAL 188
+2 Switch SVI 194
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146
+2 Rescue Board TEF 159
+1 Choice Belt PAL 176
+1 Maximum Belt TEF 154
+2 Artazon PAF 76
+Energy - 7
+7 Basic Water Energy SVE 3
+```
 
 ### Testing Streams
 
@@ -343,25 +426,17 @@ Evolve Finizen up into the Palafin into the Palafin from Twilight Masquerade. Us
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/25QQ3QuJIWg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Dragapult ex vs. Palafin ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hcrfUpN7EXM?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 5: Palafin ex vs. Brute Bonnet / Froslass&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="luxrayex" class="deck_box">
-    <h1>Luxray ex</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/luxray-ex-ceec98.webp)
-
-*Illus. PLANETA Yamashita*
-
-
+::::deck{id="luxrayex" name="Luxray ex" image="/images/luxray-ex-ceec98.webp" illus="PLANETA Yamashita" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -379,13 +454,37 @@ Using Miraidon ex’s Tandem Unit, get Shinx into play and then use Rare Candy t
 - [Heavy Baton](https://limitlesstcg.com/cards/TEF/151) to more easily preserve Energy attached to Iron Hands ex when it is Knocked Out.
 - [Rescue Board](https://limitlesstcg.com/cards/TEF/159) as a pivot option.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 14</p><ul> <li>3 Luxray ex TWM 68</li> <li>3 Shinx PAL 69</li> <li>2 Miraidon ex SVI 81</li> <li>1 Iron Hands ex PAR 70</li> <li>1 Iron Thorns ex TWM 77</li> <li>1 Luxio CRZ 42</li> <li>1 Raikou V BRS 48</li> <li>1 Rotom V CRZ 45</li> <li>1 Shinx BRS 49</li> </ul><p class="jb-decklist-section">Trainer Cards - 30</p><ul> <li>4 Arven OBF 186</li> <li>2 Boss's Orders PAL 172</li> <li>2 Professor's Research PAF 88</li> <li>1 Iono PAF 80</li> <li>4 Electric Generator PAF 79</li> <li>4 Nest Ball PAF 84</li> <li>4 Rare Candy PAF 89</li> <li>2 Ultra Ball PAF 91</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>1 Bravery Charm PAL 173</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Rescue Board TEF 159</li> </ul><p class="jb-decklist-section">Energy - 16</p><ul> <li>14 Basic Lightning Energy SVE 4</li> <li>2 Double Turbo Energy BRS 151</li> </ul>
-</div>
+```decklist
+Pokémon - 14
+3 Luxray ex TWM 68
+3 Shinx PAL 69
+2 Miraidon ex SVI 81
+1 Iron Hands ex PAR 70
+1 Iron Thorns ex TWM 77
+1 Luxio CRZ 42
+1 Raikou V BRS 48
+1 Rotom V CRZ 45
+1 Shinx BRS 49
+Trainer Cards - 30
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Professor's Research PAF 88
+1 Iono PAF 80
+4 Electric Generator PAF 79
+4 Nest Ball PAF 84
+4 Rare Candy PAF 89
+2 Ultra Ball PAF 91
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Bravery Charm PAL 173
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+Energy - 16
+14 Basic Lightning Energy SVE 4
+2 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -394,25 +493,17 @@ Using Miraidon ex’s Tandem Unit, get Shinx into play and then use Rare Candy t
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/K_xBgWkmGzg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 6: Festival Grounds vs. Luxray ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/LPbNZE8Yxt8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 7:  Luxray ex vs. Greninja ex/Froslass&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="ironthornsexfuture" class="deck_box">
-    <h1>Iron Thorns ex (Future Box)</h1>
-    <div class="comp1">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/future-iron-crown-ex.webp)
-
-*Illus. PLANETA Mochizuki & 5ban Graphics*
-
-
+::::deck{id="ironthornsexfuture" name="Iron Thorns ex (Future Box)" image="/images/future-iron-crown-ex.webp" illus="PLANETA Mochizuki & 5ban Graphics" comp="low"}
 
 ### BASIC STRATEGY
 
@@ -430,13 +521,33 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
 
 - [Town Store](https://limitlesstcg.com/cards/OBF/196) as an out to Future Booster Energy Capsule.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 10</p><ul> <li>3 Iron Crown ex TEF 81</li> <li>3 Iron Thorns ex TWM 77</li> <li>2 Iron Hands ex PAR 70</li> <li>2 Miraidon TEF 121</li> </ul><p class="jb-decklist-section">Trainer Cards - 35</p><ul> <li>4 Arven OBF 186</li> <li>3 Professor's Research PAF 88</li> <li>2 Iono PAF 80</li> <li>1 Boss's Orders PAL 172</li> <li>1 Ciphermaniac's Codebreaking TEF 145</li> <li>1 Eri TEF 146</li> <li>4 Crushing Hammer SVI 168</li> <li>4 Electric Generator PAF 79</li> <li>4 Techno Radar PAR 180</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>1 Super Rod PAL 188</li> <li>4 Future Booster Energy Capsule TEF 149</li> <li>2 Heavy Baton TEF 151</li> <li>1 Lost City LOR 161</li> </ul><p class="jb-decklist-section">Energy - 15</p><ul> <li>14 Basic Lightning Energy SVE 4</li> <li>1 Double Turbo Energy BRS 151</li> </ul>
-</div>
+```decklist
+Pokémon - 10
+3 Iron Crown ex TEF 81
+3 Iron Thorns ex TWM 77
+2 Iron Hands ex PAR 70
+2 Miraidon TEF 121
+Trainer Cards - 35
+4 Arven OBF 186
+3 Professor's Research PAF 88
+2 Iono PAF 80
+1 Boss's Orders PAL 172
+1 Ciphermaniac's Codebreaking TEF 145
+1 Eri TEF 146
+4 Crushing Hammer SVI 168
+4 Electric Generator PAF 79
+4 Techno Radar PAR 180
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+1 Super Rod PAL 188
+4 Future Booster Energy Capsule TEF 149
+2 Heavy Baton TEF 151
+1 Lost City LOR 161
+Energy - 15
+14 Basic Lightning Energy SVE 4
+1 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -445,25 +556,17 @@ Going second, power up your Pokémon with Miraidon’s Peak Acceleration attack,
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Vw0K7-wJeMg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 4: Iron Thorns ex (Future Box) vs. Dragapult ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Xp2DO5iaUiI?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Mightyena vs. Future Box Iron Thorns ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="ironthornsex" class="deck_box">
-    <h1>Iron Thorns ex (Quad)</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/iron-thorns-ex-4bc577.webp)
-
-*Illus. PLANETA Mochizuki*
-
-
+::::deck{id="ironthornsex" name="Iron Thorns ex (Quad)" image="/images/iron-thorns-ex-4bc577.webp" illus="PLANETA Mochizuki" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -477,13 +580,32 @@ Slam down Iron Thorns ex and use its Initialization Ability to cripple your oppo
 
 - Building this deck as [the Future Box version](#ironthornsexfuture) instead.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 4</p><ul> <li>4 Iron Thorns ex TWM 77</li> </ul><p class="jb-decklist-section">Trainer Cards - 45</p><ul> <li>4 Arven OBF 186</li> <li>4 Boss's Orders PAL 172</li> <li>4 Colress's Experiment LOR 155</li> <li>3 Eri TEF 146</li> <li>3 Penny SVI 183</li> <li>2 Iono PAF 80</li> <li>2 Judge SVI 176</li> <li>4 Crushing Hammer SVI 168</li> <li>4 Energy Loto ASR 140</li> <li>4 Pokégear 3.0 SVI 186</li> <li>2 Canceling Cologne ASR 136</li> <li>2 Techno Radar PAR 180</li> <li>1 Earthen Vessel PAR 163</li> <li>1 Lost Vacuum CRZ 135</li> <li>1 Prime Catcher TEF 157</li> <li>2 Future Booster Energy Capsule TEF 149</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>1 Technical Machine: Turbo Energize PAR 179</li> </ul><p class="jb-decklist-section">Energy - 11</p><ul> <li>7 Basic Lightning Energy SVE 4</li> <li>4 Double Turbo Energy BRS 151</li>
-</ul></div>
+```decklist
+Pokémon - 4
+4 Iron Thorns ex TWM 77
+Trainer Cards - 45
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+4 Colress's Experiment LOR 155
+3 Eri TEF 146
+3 Penny SVI 183
+2 Iono PAF 80
+2 Judge SVI 176
+4 Crushing Hammer SVI 168
+4 Energy Loto ASR 140
+4 Pokégear 3.0 SVI 186
+2 Canceling Cologne ASR 136
+2 Techno Radar PAR 180
+1 Earthen Vessel PAR 163
+1 Lost Vacuum CRZ 135
+1 Prime Catcher TEF 157
+2 Future Booster Energy Capsule TEF 149
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Turbo Energize PAR 179
+Energy - 11
+7 Basic Lightning Energy SVE 4
+4 Double Turbo Energy BRS 151
+```
 
 ### Testing Streams
 
@@ -492,25 +614,17 @@ Slam down Iron Thorns ex and use its Initialization Ability to cripple your oppo
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/G6ypk4sBczc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 3: Iron Thorns ex vs. Infernape&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/vSHzLuZsoCc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 3: Greninja ex vs. Iron Thorns ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="conkeldurr" class="deck_box">
-    <h1>Conkeldurr</h1>
-    <div class="comp0">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/conkeldurr.webp)
-
-*Illus. Takeshi Nakamura*
-
-
+::::deck{id="conkeldurr" name="Conkeldurr" image="/images/conkeldurr.webp" illus="Takeshi Nakamura" comp="casual"}
 
 ### BASIC STRATEGY
 
@@ -526,13 +640,41 @@ Evolve Timburr into Conkeldurr with Rare Candy. Use Brute Bonnet’s Toxic Powde
 
 - Building literally other deck on this list or on [the Standard format meta page](/guide/meta).
 
-</div><div class="jb-col-6">
+```decklist
+Pokémon - 19
+4 Conkeldurr TWM 105
+4 Timburr TWM 103
+3 Brute Bonnet PAR 123
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Gurdurr TWM 104
+1 Manaphy BRS 41
+1 Radiant Hisuian Sneasler LOR 123
+1 Rotom V CRZ 45
+Trainer Cards - 41
+4 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+3 Switch SVI 194
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+4 Ancient Booster Energy Capsule TEF 140
+1 Forest Seal Stone SIT 156
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+3 Artazon PAF 76
+1 Collapsed Stadium BRS 137
+Energy - 0
+```
 
-### EXAMPLE DECK LIST
+::::
 
 <div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Conkeldurr TWM 105</li> <li>4 Timburr TWM 103</li> <li>3 Brute Bonnet PAR 123</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Gurdurr TWM 104</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Hisuian Sneasler LOR 123</li> <li>1 Rotom V CRZ 45</li> </ul><p class="jb-decklist-section">Trainer Cards - 41</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Nest Ball PAF 84</li> <li>4 Rare Candy PAF 89</li> <li>4 Ultra Ball PAF 91</li> <li>3 Switch SVI 194</li> <li>2 Counter Catcher PAR 160</li> <li>2 Super Rod PAL 188</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Pal Pad SVI 182</li> <li>4 Ancient Booster Energy Capsule TEF 140</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Maximum Belt TEF 154</li> <li>1 Rescue Board TEF 159</li> <li>3 Artazon PAF 76</li> <li>1 Collapsed Stadium BRS 137</li> </ul><p class="jb-decklist-section">Energy - 0</p><ul> </ul>
-</div></div></div><div class="jb-code-container">
     <div id="greninjaex" class="deck_box">
     <h1>Greninja ex</h1>
     <div class="comp1">
@@ -593,20 +735,9 @@ Evolve Pidgey into Pidgeotto and Froakie into Greninja ex with Rare Candy. Attac
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/vSHzLuZsoCc?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 3: Greninja ex vs. Iron Thorns ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div></div></div></div><div class="jb-code-container">
-    <div id="dragapultex" class="deck_box">
-    <h1>Dragapult ex</h1>
-    <div class="comp3">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div></div></div></div>
 
-![](/images/dragapult-ex-998553.webp)
-
-*Illus. 5ban Graphics*
-
-
+::::deck{id="dragapultex" name="Dragapult ex" image="/images/dragapult-ex-998553.webp" illus="5ban Graphics" comp="high" source="Kengo Ishida - 3rd Place, Sapporo Championship League"}
 
 ### BASIC STRATEGY
 
@@ -622,15 +753,40 @@ Evolve Dreepy up into Drakloak to take advantage of its Recon Directive Ability 
 - [Dragapult SIT 89](https://limitlesstcg.com/cards/SIT/89) as a potential single Prize option.
 - [Dreepy SIT 87](https://limitlesstcg.com/cards/SIT/87) to get a bit of damage in when needed via its lost Energy cost Reckless Charge attack.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-Source: Kengo Ishida - 3rd Place, Sapporo Championship League
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 19</p><ul> <li>4 Drakloak TWM 129</li> <li>4 Dreepy TWM 128</li> <li>3 Dragapult ex TWM 130</li> <li>2 Natu PAF 25</li> <li>2 Rotom V CRZ 45</li> <li>2 Xatu PAF 26</li> <li>1 Manaphy BRS 41</li> <li>1 Radiant Alakazam SIT 59</li> </ul><p class="jb-decklist-section">Trainer Cards - 34</p><ul> <li>4 Arven OBF 186</li> <li>3 Iono PAF 80</li> <li>2 Boss's Orders PAL 172</li> <li>4 Buddy-Buddy Poffin TEF 144</li> <li>3 Earthen Vessel PAR 163</li> <li>3 Nest Ball PAF 84</li> <li>2 Rare Candy PAF 89</li> <li>2 Ultra Ball PAF 91</li> <li>1 Counter Catcher PAR 160</li> <li>1 Enhanced Hammer TWM 148</li> <li>1 Hisuian Heavy Ball ASR 146</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>1 Unfair Stamp TWM 165</li> <li>1 Forest Seal Stone SIT 156</li> <li>1 Rescue Board TEF 159</li> <li>1 Technical Machine: Devolution PAR 177</li> <li>1 Technical Machine: Evolution PAR 178</li> <li>1 Collapsed Stadium BRS 137</li> </ul><p class="jb-decklist-section">Energy - 7</p><ul> <li>4 Basic Psychic Energy SVE 5</li> <li>3 Basic Fire Energy SVE 2</li> </ul>
-</div>
+```decklist
+Pokémon - 19
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+3 Dragapult ex TWM 130
+2 Natu PAF 25
+2 Rotom V CRZ 45
+2 Xatu PAF 26
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+Trainer Cards - 34
+4 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+3 Earthen Vessel PAR 163
+3 Nest Ball PAF 84
+2 Rare Candy PAF 89
+2 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Enhanced Hammer TWM 148
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Unfair Stamp TWM 165
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Collapsed Stadium BRS 137
+Energy - 7
+4 Basic Psychic Energy SVE 5
+3 Basic Fire Energy SVE 2
+```
 
 ### Testing Streams
 
@@ -639,7 +795,10 @@ Source: Kengo Ishida - 3rd Place, Sapporo Championship League
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/25QQ3QuJIWg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 4: Dragapult ex vs. Palafin ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/Vw0K7-wJeMg?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 4: Iron Thorns ex (Future Box) vs. Dragapult ex&quot;></iframe>">
       </div>
@@ -649,20 +808,9 @@ Source: Kengo Ishida - 3rd Place, Sapporo Championship League
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;150&quot; src=&quot;https://www.youtube.com/embed/e5mSCODPFC8?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 7: Dragapult ex vs. The World&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
-    <div id="bloodmoonursalunaex" class="deck_box">
-    <h1>Bloodmoon Ursaluna ex</h1>
-    <div class="compm">
-     <span></span>
-    </div>
-</div>
-</div><div class="jb-row"><div class="jb-col-6">
+  </div></div></div><div class="jb-col-3"></div></div></div></div>
 
-![](/images/bloodmoon-ursaluna-ex-f11165.webp)
-
-*Illus. aky CG Works*
-
-
+::::deck{id="bloodmoonursalunaex" name="Bloodmoon Ursaluna ex" image="/images/bloodmoon-ursaluna-ex-f11165.webp" illus="aky CG Works" comp="meme"}
 
 ### BASIC STRATEGY
 
@@ -677,13 +825,33 @@ Evolve Pineco up into Forretress ex to use its Exploding Energy Ability which, i
 
 - Running Bloodmoon Ursaluna ex in another deck as the deck tech it was meant to be, giving up the idea that it can reasonably be its own deck and the idea that Forretress ex will ever see any reasonable degree of competitive play.
 
-</div><div class="jb-col-6">
-
-### EXAMPLE DECK LIST
-
-<div class="jb-code-container">
-    <p class="jb-decklist-section">Pokémon - 14</p><ul> <li>3 Bloodmoon Ursaluna ex TWM 141</li> <li>3 Forretress ex PAF 2</li> <li>3 Pineco PAF 1</li> <li>2 Bibarel BRS 121</li> <li>2 Bidoof CRZ 111</li> <li>1 Shaymin TEF 13</li> </ul><p class="jb-decklist-section">Trainer Cards - 36</p><ul> <li>4 Iono PAF 80</li> <li>3 Arven OBF 186</li> <li>3 Penny SVI 183</li> <li>1 Boss's Orders PAL 172</li> <li>4 Nest Ball PAF 84</li> <li>4 Ultra Ball PAF 91</li> <li>3 Buddy-Buddy Poffin TEF 144</li> <li>3 Counter Catcher PAR 160</li> <li>3 Pokégear 3.0 SVI 186</li> <li>1 Pal Pad SVI 182</li> <li>1 Super Rod PAL 188</li> <li>1 Switch SVI 194</li> <li>3 Bravery Charm PAL 173</li> <li>1 Hero's Cape TEF 152</li> <li>1 Town Store OBF 196</li> </ul><p class="jb-decklist-section">Energy - 10</p><ul> <li>10 Basic Grass Energy SVE 1</li>
-</ul></div>
+```decklist
+Pokémon - 14
+3 Bloodmoon Ursaluna ex TWM 141
+3 Forretress ex PAF 2
+3 Pineco PAF 1
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+1 Shaymin TEF 13
+Trainer Cards - 36
+4 Iono PAF 80
+3 Arven OBF 186
+3 Penny SVI 183
+1 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+3 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+1 Switch SVI 194
+3 Bravery Charm PAL 173
+1 Hero's Cape TEF 152
+1 Town Store OBF 196
+Energy - 10
+10 Basic Grass Energy SVE 1
+```
 
 ### Testing Streams
 
@@ -692,7 +860,10 @@ Evolve Pineco up into Forretress ex to use its Exploding Energy Ability which, i
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/hdkS8yNxC7g?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Part 2: Magcargo ex vs. Bloodmoon Ursaluna ex&quot;></iframe>">
       </div>
     </div>
-  </div></div></div><div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
+
+::::
+
+<div class="jb-col-3"><div class="jb-block jb-component-block jb-block-component jb-block-video jb-video-block"><div class="intrinsic">
     <div class="embed-block-wrapper">
       <div class="jb-video-wrapper" data-provider-name="YouTube" data-html="<iframe width=&quot;200&quot; height=&quot;113&quot; src=&quot;https://www.youtube.com/embed/RjeYSUP8tIU?feature=oembed&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen title=&quot;Twilight Masquerade Early Testing, Bonus 2: Bloodmoon Ursaluna ex vs. Greninja ex&quot;></iframe>">
       </div>

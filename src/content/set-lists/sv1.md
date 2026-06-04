@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2023-11-06
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/scarlet-violet.webp)">
-  <div> 
-    <img src="/images/pokemon-tcg-scarlet-violet-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="SV1 Set Identifier" src="/images/svi.webp" loading="lazy" class="jb-icon-center-mt15" />
-    <h1 class="jb-white-center-margin5">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
+
+
+:::setcard{bg="/images/scarlet-violet.webp" logo="/images/pokemon-tcg-scarlet-violet-logo.webp" identifier="/images/svi.webp" idalt="SV1 Set Identifier" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about our Scarlet &amp; Violet base set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv1">Set List</a> | 
@@ -22,9 +19,10 @@ publishDate: 2023-11-06
           <a class="blink" href="/new-decks/sv1">New Archetypes</a>
       | <a class="blink" href="/proxies/sv1">Selected Proxies</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 198 cards (before Secret Rares)</h3>
 

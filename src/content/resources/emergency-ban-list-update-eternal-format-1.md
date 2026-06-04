@@ -20,7 +20,14 @@ The following cards and any alternate printings they may have are banned in the 
 - [Houndoom UF 7](https://pkmncards.com/card/houndoom-unseen-forces-uf-7/)
 - [Technical Machine TS-1 LA 136](https://pkmncards.com/card/technical-machine-ts-1-legends-awakened-la-136/)
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/houndoom-uf.webp"><img src="/images/houndoom-uf.webp" alt="Houndoom UF.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/technical-machine-ts-1.webp"><img src="/images/technical-machine-ts-1.webp" alt="Technical Machine TS-1.png" loading="lazy" /></a></figure></div>
+
+
+:::gallery
+- /images/houndoom-uf.webp
+- /images/technical-machine-ts-1.webp
+:::
+
+
 
 These cards, in combination with other cards available in the format, have been found to create an environment where there is insufficient counterplay.
 

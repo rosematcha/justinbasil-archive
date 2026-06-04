@@ -6,14 +6,11 @@ showHeading: false
 publishDate: 2022-06-19
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card" style="background-image:url(/images/brilliant-stars.webp)">
-  <div>
-    <img src="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" loading="lazy" class="jb-deck-thumb" />
-    <img alt="Brilliant Stars Set Symbol" src="/s/ss9.png" loading="lazy" class="jb-icon-center" />
-    <h1 class="jb-cta-title">Set Highlights</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
+
+
+:::setcard{bg="/images/brilliant-stars.webp" logo="/images/pokemon-tcg-sword-shield-brilliant-stars-logo.webp" identifier="/s/ss9.png" idalt="Brilliant Stars Set Symbol" title="Set Highlights"}
+
+<p class="jb-decklist-center">Learn more about Brilliant Stars by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a class="blink" href="/set-lists/ss9">Set List</a> | 
@@ -21,9 +18,10 @@ publishDate: 2022-06-19
           <a href="/highlights/ss9">Set Highlights</a> |
           <a class="blink" href="/new-decks/ss9">New Archetypes</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 To review this set’s card list, visit the article [Brilliant Stars—What We Know So Far](/set-lists/ss9/).
 
@@ -69,7 +67,42 @@ The following are likely to be the most sought after cards from the set by colle
 
 The set description for *Brilliant Stars* mentions that it contains “a special Trainer Gallery subset of 30 cards with artwork featuring fan-favorite Trainers and Pokémon.” With this and the very high count of Full Art rarity and higher cards from the Japanese set *VMAX Climax* in mind, <strong>not all of the special cards from VMAX Climax will appear in *Brilliant Stars*</strong>. The cards that did not make it into Brilliant Stars’ Trainer Gallery will likely appear in future sets as part of their Trainer Gallery. To see cards that may be included in future Trainer Galleries, see the [Trainer Galleries article](/visual/tg).
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/image.webp"><img src="/images/image.webp" alt="image.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041020-p-shixyawazu.webp"><img src="/images/041020-p-shixyawazu.webp" alt="041020_P_SHIXYAWAZU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041022-p-okutan.webp"><img src="/images/041022-p-okutan.webp" alt="041022_P_OKUTAN.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041024-p-sandasu.webp"><img src="/images/041024-p-sandasu.webp" alt="041024_P_SANDASU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041026-p-zekuromu.webp"><img src="/images/041026-p-zekuromu.webp" alt="041026_P_ZEKUROMU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041029-p-yonowaru.webp"><img src="/images/041029-p-yonowaru.webp" alt="041029_P_YONOWARU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041031-p-dedenne.webp"><img src="/images/041031-p-dedenne.webp" alt="041031_P_DEDENNE.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041032-p-mahoippu.webp"><img src="/images/041032-p-mahoippu.webp" alt="041032_P_MAHOIPPU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041036-p-ariadosu.webp"><img src="/images/041036-p-ariadosu.webp" alt="041036_P_ARIADOSU.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041037-p-heruga.webp"><img src="/images/041037-p-heruga.webp" alt="041037_P_HERUGA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041041-p-ibui.webp"><img src="/images/041041-p-ibui.webp" alt="041041_P_IBUI.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041043-p-yareyutan.webp"><img src="/images/041043-p-yareyutan.webp" alt="041043_P_YAREYUTAN.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041056-p-parusuwanv.webp"><img src="/images/041056-p-parusuwanv.webp" alt="041056_P_PARUSUWANV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041059-p-ninfuiav.webp"><img src="/images/041059-p-ninfuiav.webp" alt="041059_P_NINFUIAV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041060-p-ninfuiavmax.webp"><img src="/images/041060-p-ninfuiavmax.webp" alt="041060_P_NINFUIAVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041061-p-mimikkixyuv.webp"><img src="/images/041061-p-mimikkixyuv.webp" alt="041061_P_MIMIKKIXYUV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041062-p-mimikkixyuvmax.webp"><img src="/images/041062-p-mimikkixyuvmax.webp" alt="041062_P_MIMIKKIXYUVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041066-p-ichigekiuraosuv.webp"><img src="/images/041066-p-ichigekiuraosuv.webp" alt="041066_P_ICHIGEKIURAOSUV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041067-p-ichigekiuraosuvmax.webp"><img src="/images/041067-p-ichigekiuraosuvmax.webp" alt="041067_P_ICHIGEKIURAOSUVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041068-p-rengekiuraosuv.webp"><img src="/images/041068-p-rengekiuraosuv.webp" alt="041068_P_RENGEKIURAOSUV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041069-p-rengekiuraosuvmax.webp"><img src="/images/041069-p-rengekiuraosuvmax.webp" alt="041069_P_RENGEKIURAOSUVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041072-p-burakkiv.webp"><img src="/images/041072-p-burakkiv.webp" alt="041072_P_BURAKKIV.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041073-p-burakkivmax.webp"><img src="/images/041073-p-burakkivmax.webp" alt="041073_P_BURAKKIVMAX.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041083-t-aseroranoyokan.webp"><img src="/images/041083-t-aseroranoyokan.webp" alt="041083_T_ASERORANOYOKAN.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041099-t-masuta.webp"><img src="/images/041099-t-masuta.webp" alt="041099_T_MASUTA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041104-t-yuuri.webp"><img src="/images/041104-t-yuuri.webp" alt="041104_T_YUURI.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041101-t-masutadorengekinokata.webp"><img src="/images/041101-t-masutadorengekinokata.webp" alt="041101_T_MASUTADORENGEKINOKATA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/041100-t-masutadoichigekinokata.webp"><img src="/images/041100-t-masutadoichigekinokata.webp" alt="041100_T_MASUTADOICHIGEKINOKATA.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gold-ss-urshifu-vmax.webp"><img src="/images/gold-ss-urshifu-vmax.webp" alt="GOLD SS Urshifu VMAX.png" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/gold-rs-urshifu-vmax.webp"><img src="/images/gold-rs-urshifu-vmax.webp" alt="GOLD RS Urshifu VMAX.png" loading="lazy" /></a></figure></div><div class="jb-code-container">
+
+
+:::gallery
+- /images/image.webp
+- /images/041020-p-shixyawazu.webp
+- /images/041022-p-okutan.webp
+- /images/041024-p-sandasu.webp
+- /images/041026-p-zekuromu.webp
+- /images/041029-p-yonowaru.webp
+- /images/041031-p-dedenne.webp
+- /images/041032-p-mahoippu.webp
+- /images/041036-p-ariadosu.webp
+- /images/041037-p-heruga.webp
+- /images/041041-p-ibui.webp
+- /images/041043-p-yareyutan.webp
+- /images/041056-p-parusuwanv.webp
+- /images/041059-p-ninfuiav.webp
+- /images/041060-p-ninfuiavmax.webp
+- /images/041061-p-mimikkixyuv.webp
+- /images/041062-p-mimikkixyuvmax.webp
+- /images/041066-p-ichigekiuraosuv.webp
+- /images/041067-p-ichigekiuraosuvmax.webp
+- /images/041068-p-rengekiuraosuv.webp
+- /images/041069-p-rengekiuraosuvmax.webp
+- /images/041072-p-burakkiv.webp
+- /images/041073-p-burakkivmax.webp
+- /images/041083-t-aseroranoyokan.webp
+- /images/041099-t-masuta.webp
+- /images/041104-t-yuuri.webp
+- /images/041101-t-masutadorengekinokata.webp
+- /images/041100-t-masutadoichigekinokata.webp
+- /images/gold-ss-urshifu-vmax.webp
+- /images/gold-rs-urshifu-vmax.webp
+:::
+
+<div class="jb-code-container">
     <div id="altartpkmn">
 </div>
 </div>

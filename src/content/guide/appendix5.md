@@ -75,11 +75,30 @@ These are other cards that are included in the Evolution Pack that simply don’
 
 ## Primary Pokémon Type
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/ethan-s-cyndaquil.webp"><img src="/images/ethan-s-cyndaquil.webp" alt="4 Ethan's Cyndaquil DRI 32" loading="lazy" /></a><figcaption>4 Ethan's Cyndaquil DRI 32</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-quilava.webp"><img src="/images/ethan-s-quilava.webp" alt="2 Quilava DRI 33" loading="lazy" /></a><figcaption>2 Quilava DRI 33</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv10-en-34.webp"><img src="/images/sv10-en-34.webp" alt="1 Ethan's Typhlosion (Cosmos)" loading="lazy" /></a><figcaption>1 Ethan's Typhlosion (Cosmos)</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/ethan-s-typhlosion-0c7ae9.webp"><img src="/images/ethan-s-typhlosion-0c7ae9.webp" alt="2 Ethan's Typhlosion DRI 34" loading="lazy" /></a><figcaption>2 Ethan's Typhlosion DRI 34</figcaption></figure></div>
+
+
+:::gallery
+- /images/ethan-s-cyndaquil.webp "4 Ethan's Cyndaquil DRI 32"
+- /images/ethan-s-quilava.webp "2 Quilava DRI 33"
+- /images/sv10-en-34.webp "1 Ethan's Typhlosion (Cosmos)"
+- /images/ethan-s-typhlosion-0c7ae9.webp "2 Ethan's Typhlosion DRI 34"
+:::
+
+
 
 ## Secondary Type
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/misty-s-staryu-8814af.webp"><img src="/images/misty-s-staryu-8814af.webp" alt="3 Misty's Staryu DRI 46" loading="lazy" /></a><figcaption>3 Misty's Staryu DRI 46</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-starmie-6269ff.webp"><img src="/images/misty-s-starmie-6269ff.webp" alt="2 Misty's Starmie DRI 47" loading="lazy" /></a><figcaption>2 Misty's Starmie DRI 47</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-magikarp.webp"><img src="/images/misty-s-magikarp.webp" alt="1 Misty's Magikarp DRI 48" loading="lazy" /></a><figcaption>1 Misty's Magikarp DRI 48</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-gyarados.webp"><img src="/images/misty-s-gyarados.webp" alt="1 Misty's Gyarados DRI 49" loading="lazy" /></a><figcaption>1 Misty's Gyarados DRI 49</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/misty-s-lapras.webp"><img src="/images/misty-s-lapras.webp" alt="1 Misty's Lapras DRI 50" loading="lazy" /></a><figcaption>1 Misty's Lapras DRI 50</figcaption></figure></div>
+
+
+:::gallery
+- /images/misty-s-staryu-8814af.webp "3 Misty's Staryu DRI 46"
+- /images/misty-s-starmie-6269ff.webp "2 Misty's Starmie DRI 47"
+- /images/misty-s-magikarp.webp "1 Misty's Magikarp DRI 48"
+- /images/misty-s-gyarados.webp "1 Misty's Gyarados DRI 49"
+- /images/misty-s-lapras.webp "1 Misty's Lapras DRI 50"
+:::
+
+
 
 ## Other Pokémon
 
@@ -91,15 +110,36 @@ No cards from this category are included in this Build & Battle deck.
 
 ## Draw Cards
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sv09-en-155-2x.webp"><img src="/images/sv09-en-155-2x.webp" alt="1 Professor's Research" loading="lazy" /></a><figcaption>1 Professor's Research</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sv08-en-187-2x.webp"><img src="/images/sv08-en-187-2x.webp" alt="1 Surfer" loading="lazy" /></a><figcaption>1 Surfer</figcaption></figure></div>
+
+
+:::gallery
+- /images/sv09-en-155-2x.webp "1 Professor's Research"
+- /images/sv08-en-187-2x.webp "1 Surfer"
+:::
+
+
 
 ## Energy
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/sve-010-r-en-lg.webp"><img src="/images/sve-010-r-en-lg.webp" alt="6 Basic Fire Energy" loading="lazy" /></a><figcaption>6 Basic Fire Energy</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/sve-011-r-en-lg.webp"><img src="/images/sve-011-r-en-lg.webp" alt="7 Basic Water Energy" loading="lazy" /></a><figcaption>7 Basic Water Energy</figcaption></figure></div>
+
+
+:::gallery
+- /images/sve-010-r-en-lg.webp "6 Basic Fire Energy"
+- /images/sve-011-r-en-lg.webp "7 Basic Water Energy"
+:::
+
+
 
 ## Misc.
 
-<div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/pal-188-r-en-587684.webp"><img src="/images/pal-188-r-en-587684.webp" alt="1 Super Rod" loading="lazy" /></a><figcaption>1 Super Rod</figcaption></figure><figure class="jb-gallery-slide"><a href="/images/svi-191-r-en-lg-bc2e32.webp"><img src="/images/svi-191-r-en-lg-bc2e32.webp" alt="1 Rare Candy " loading="lazy" /></a><figcaption>1 Rare Candy</figcaption></figure></div>
+
+
+:::gallery
+- /images/pal-188-r-en-587684.webp "1 Super Rod"
+- /images/svi-191-r-en-lg-bc2e32.webp "1 Rare Candy"
+:::
+
+
 
 As you open the four booster packs that are included in your Build & Battle Box, continue to use these same categories to sort the cards, sorting each Pokémon type into its own pile. From there, you’ll have four options for how to continue with the construction of your deck.
 

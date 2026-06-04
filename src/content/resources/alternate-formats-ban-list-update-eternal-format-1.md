@@ -33,7 +33,22 @@ This brings the total number of cards banned in the format to 126.
       <li><a href="https://pkmncards.com/card/walrein-ex-power-keepers-pk-99/">Walrein ex PK 99</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-sm8-019-celebi.webp"><img src="/images/en-us-sm8-019-celebi.webp" alt="en_US-SM8-019-celebi.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/electrode-base-set-bs-21.webp"><img src="/images/electrode-base-set-bs-21.webp" alt="electrode-base-set-bs-21.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-ex06-107-electrode-ex.webp"><img src="/images/en-us-ex06-107-electrode-ex.webp" alt="en_US-EX06-107-electrode_ex.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm7-048-electrode-gx.webp"><img src="/images/en-us-sm7-048-electrode-gx.webp" alt="en_US-SM7-048-electrode_gx.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm7-097-jirachi.webp"><img src="/images/en-us-sm7-097-jirachi.webp" alt="en_US-SM7-097-jirachi.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/mr-mime-jungle-ju-6.webp"><img src="/images/mr-mime-jungle-ju-6.webp" alt="mr.-mime-jungle-ju-6.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/psyduck-platinum-pl-87.webp"><img src="/images/psyduck-platinum-pl-87.webp" alt="psyduck-platinum-pl-87.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/en-us-sm9-026-psyduck.webp"><img src="/images/en-us-sm9-026-psyduck.webp" alt="en_US-SM9-026-psyduck.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/psyduck-team-rocket-returns-rr-70.webp"><img src="/images/psyduck-team-rocket-returns-rr-70.webp" alt="psyduck-team-rocket-returns-rr-70.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/walrein-ex-power-keepers-pk-99.webp"><img src="/images/walrein-ex-power-keepers-pk-99.webp" alt="walrein-ex-power-keepers-pk-99.jpg" loading="lazy" /></a></figure></div><div class="jb-code-container">
+</div>
+
+:::gallery
+- /images/en-us-sm8-019-celebi.webp
+- /images/electrode-base-set-bs-21.webp
+- /images/en-us-ex06-107-electrode-ex.webp
+- /images/en-us-sm7-048-electrode-gx.webp
+- /images/en-us-sm7-097-jirachi.webp
+- /images/mr-mime-jungle-ju-6.webp
+- /images/psyduck-platinum-pl-87.webp
+- /images/en-us-sm9-026-psyduck.webp
+- /images/psyduck-team-rocket-returns-rr-70.webp
+- /images/walrein-ex-power-keepers-pk-99.webp
+:::
+
+<div class="jb-code-container">
     <b>Removed from Ban List</b>
 <div class="mobile-collapse links jb-mt-10">
   <ul>
@@ -41,5 +56,12 @@ This brings the total number of cards banned in the format to 126.
       <li><a href="https://pkmncards.com/card/vileplume-ex-hidden-legends-hl-100/">Vileplume ex HL 100</a></li>
   </ul>
 </div>
-</div><div class="jb-gallery"><figure class="jb-gallery-slide"><a href="/images/en-us-bw4-072-shiftry-9899b1.webp"><img src="/images/en-us-bw4-072-shiftry-9899b1.webp" alt="en_US-BW4-072-shiftry.jpg" loading="lazy" /></a></figure><figure class="jb-gallery-slide"><a href="/images/vileplume-ex-hidden-legends-hl-100.webp"><img src="/images/vileplume-ex-hidden-legends-hl-100.webp" alt="vileplume-ex-hidden-legends-hl-100.jpg" loading="lazy" /></a></figure></div>
+</div>
+
+:::gallery
+- /images/en-us-bw4-072-shiftry-9899b1.webp
+- /images/vileplume-ex-hidden-legends-hl-100.webp
+:::
+
+
 

@@ -6,13 +6,11 @@ showHeading: false
 publishDate: 2024-05-01
 ---
 
-<div class="jb-code-container">
-    <div class="jb-set-card">
-  <div>
-    <img src="/images/twilightmasquerade.webp" loading="lazy" class="jb-deck-thumb" />
-    <h1 class="jb-cta-title">Set List</h1>
-    <hr />
-    <p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
+
+
+:::setcard{logo="/images/twilightmasquerade.webp" title="Set List"}
+
+<p class="jb-decklist-center">Learn more about our sixth Scarlet &amp; Violet set by visiting the articles below.
     <br />
     </p><p class="jb-decklist-center">
           <a href="/set-lists/sv6">Set List</a>  |
@@ -21,9 +19,10 @@ publishDate: 2024-05-01
           <a class="blink" href="/proxies/sv6">Selected Proxies</a> | 
           <a class="blink" href="/new-decks/sv6">New Decks</a>
     </p>
-  </div>
-</div>
-</div>
+
+:::
+
+
 
 <h3 class="jb-center">set size: 167 cards (before Secret Rares)</h3>
 
