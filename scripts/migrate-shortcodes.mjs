@@ -98,6 +98,27 @@ function decklistFromHtml(html) {
   );
 }
 
+// Leftover run-on decklists (the "**Pokémon - 11** 4 White Kyurem LOT 63 …" format
+// that the conversion flattened) → a ```decklist fence so they render as a proper
+// line-broken list. Catches decklists in blocks that didn't become deck shortcodes
+// (raw deck boxes, standalone set/budget lists). Gated: only commits if the rendered
+// text round-trips, so card content can never change.
+function migrateRunonDecklists(body, report) {
+  const RE =
+    /^[ \t]*\*\*Pok[ée]mon\b[^\n]*(?:\n+[ \t]*\*\*(?:Trainer|Trainers|Energy|Pok[ée]mon)\b[^\n]*)*/gm;
+  return body.replace(RE, (full) => {
+    const lines = decklistFromRunon(full);
+    if (!lines || lines.length < 2) return full;
+    const repl = '```decklist\n' + lines.join('\n') + '\n```';
+    if (!verifyBlock(full, repl)) {
+      report.flag++;
+      return full;
+    }
+    report.decklist++;
+    return repl;
+  });
+}
+
 // ---- block transforms ----------------------------------------------------
 
 function migrateGalleries(body, report) {
@@ -385,13 +406,13 @@ function splitFrontmatter(raw) {
 }
 
 const files = walk(CONTENT).filter((f) => !ONLY || f.includes(ONLY));
-const totals = { files: 0, changed: 0, deck: 0, deckSkipped: 0, gallery: 0, note: 0, box: 0, results: 0, resultsSkipped: 0, setcard: 0, flag: 0, bug: 0 };
+const totals = { files: 0, changed: 0, deck: 0, deckSkipped: 0, gallery: 0, note: 0, box: 0, results: 0, resultsSkipped: 0, setcard: 0, decklist: 0, flag: 0, bug: 0 };
 const flagged = [];
 
 for (const file of files) {
   const raw = fs.readFileSync(file, 'utf8');
   const { fm, body } = splitFrontmatter(raw);
-  const report = { deck: 0, deckSkipped: 0, gallery: 0, note: 0, box: 0, results: 0, resultsSkipped: 0, setcard: 0, flag: 0 };
+  const report = { deck: 0, deckSkipped: 0, gallery: 0, note: 0, box: 0, results: 0, resultsSkipped: 0, setcard: 0, decklist: 0, flag: 0 };
 
   // Each transform self-verifies per block (verifyBlock) — committed blocks are
   // guaranteed render-equivalent; non-equivalent blocks are left as raw HTML.
@@ -402,18 +423,19 @@ for (const file of files) {
   out = migrateSetcards(out, report);
   out = migrateResults(out, report);
   out = migrateDecks(out, report);
+  out = migrateRunonDecklists(out, report);
   // Leftover Squarespace page-section wrappers are often indented; once a preceding
   // block becomes a shortcode (introducing a blank line), that indent would turn the
   // `<div>` into a markdown code block. Dedent them so they stay HTML at column 0.
   out = out.replace(/^[ \t]+(?=<div class="jb-layout)/gm, '');
 
-  const migrated = report.deck + report.gallery + report.note + report.box + report.results + report.setcard;
+  const migrated = report.deck + report.gallery + report.note + report.box + report.results + report.setcard + report.decklist;
   const left = report.deckSkipped + report.resultsSkipped + report.flag;
   if (migrated === 0 && left === 0) continue;
   totals.files++;
   const rel = path.relative(ROOT, file);
 
-  for (const k of ['deck', 'gallery', 'note', 'box', 'results', 'setcard', 'flag']) totals[k] += report[k];
+  for (const k of ['deck', 'gallery', 'note', 'box', 'results', 'setcard', 'decklist', 'flag']) totals[k] += report[k];
   totals.deckSkipped += report.deckSkipped;
   totals.resultsSkipped += report.resultsSkipped;
   if (left) flagged.push({ file: rel, deckSkipped: report.deckSkipped, flag: report.flag + report.resultsSkipped });
@@ -432,7 +454,7 @@ for (const file of files) {
   totals.changed++;
   console.log(
     `${DRY ? 'would write' : 'WROTE'}  ${rel}  ` +
-      `(deck:${report.deck} gallery:${report.gallery} note:${report.note} box:${report.box} results:${report.results} setcard:${report.setcard}` +
+      `(deck:${report.deck} gallery:${report.gallery} note:${report.note} box:${report.box} results:${report.results} setcard:${report.setcard} decklist:${report.decklist}` +
       `${left ? ` · left-raw:${left}` : ''})`,
   );
   if (!DRY) fs.writeFileSync(file, fm + out);
@@ -440,7 +462,7 @@ for (const file of files) {
 
 console.log('\n--- summary ---');
 console.log(`files with blocks: ${totals.files}   files ${DRY ? 'to change' : 'changed'}: ${totals.changed}`);
-console.log(`blocks migrated → deck:${totals.deck} gallery:${totals.gallery} note:${totals.note} box:${totals.box} results:${totals.results} setcard:${totals.setcard}`);
+console.log(`blocks migrated → deck:${totals.deck} gallery:${totals.gallery} note:${totals.note} box:${totals.box} results:${totals.results} setcard:${totals.setcard} decklist:${totals.decklist}`);
 console.log(`blocks left as raw HTML (didn't round-trip): deck:${totals.deckSkipped} results:${totals.resultsSkipped} other:${totals.flag}`);
 if (totals.bug) console.log(`!! file-level mismatches (investigate): ${totals.bug}`);
 if (flagged.length) {

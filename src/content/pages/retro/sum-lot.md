@@ -166,11 +166,31 @@ With Pheramosa, White Kyurem, and either Blitzle or Zebstrika in play, use manua
 
 Example Deck List: Bolly Olufon, 9th Place 2018 Harrogate Regional Championships
 
-**Pokémon - 11** 4 White Kyurem LOT 63 2 Blitzle LOT 81 1 Zebstrika LOT 82 2 Pheromosa FLI 11 1 Arceus {\*} FLI 96 1 Marshadow SLG 45
-
-**Trainer Cards - 38** 4 Cynthia UPR 119 4 Guzma BUS 115 4 Lillie UPR 125 1 Cyrus {\*} UPR 120 4 Aqua Patch GRI 119 4 Nest Ball SUM 123 4 Ultra Ball BRS 150 4 Wishful Baton BUS 128 2 Choice Band GRI 121 2 Rescue Stretcher GRI 130 1 Energy Recycle System CES 128 4 Shrine of Punishment CES 143
-
-**Energy - 11** 7 Water Energy SWSHEnergy 3 4 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 11
+4 White Kyurem LOT 63
+2 Blitzle LOT 81
+1 Zebstrika LOT 82
+2 Pheromosa FLI 11
+1 Arceus {*} FLI 96
+1 Marshadow SLG 45
+Trainer Cards - 38
+4 Cynthia UPR 119
+4 Guzma BUS 115
+4 Lillie UPR 125
+1 Cyrus {*} UPR 120
+4 Aqua Patch GRI 119
+4 Nest Ball SUM 123
+4 Ultra Ball BRS 150
+4 Wishful Baton BUS 128
+2 Choice Band GRI 121
+2 Rescue Stretcher GRI 130
+1 Energy Recycle System CES 128
+4 Shrine of Punishment CES 143
+Energy - 11
+7 Water Energy SWSHEnergy 3
+4 Fire Energy SWSHEnergy 2
+```
 
 </div></div></div></div>
 

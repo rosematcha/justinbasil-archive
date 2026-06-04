@@ -10,7 +10,16 @@ publishDate: 2024-06-13
 
 <h1 class="jb-center">&nbsp;Pokémon Search</h1>
 
-**Pokémon Search** cards—especially those often referred to as **Ball Cards** or **Ball Search** because they are often based on some variety of Poké Ball from the video games—are a crucial element in any deck and a core part of a deck’s **Setup Engine**—the collection of cards included in a deck to bring out the Pokémon and other resources crucial to its strategy.
+```decklist
+Pokémon Search
+cards—especially those often referred to as
+Ball Cards
+or
+Ball Search
+because they are often based on some variety of Poké Ball from the video games—are a crucial element in any deck and a core part of a deck’s
+Setup Engine
+—the collection of cards included in a deck to bring out the Pokémon and other resources crucial to its strategy.
+```
 
 
 

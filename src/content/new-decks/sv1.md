@@ -815,11 +815,32 @@ Power up Magnezone VSTAR’s Magnet Grip attack, which does 180 damage and lets 
 
 ### EXAMPLE DECK LIST
 
-**Pokémon - 18** 4 Mareep EVS 54 3 Flaaffy EVS 55 3 Miraidon ex SVI 81 2 Magnezone V LOR 56 2 Magnezone VSTAR LOR 57 2 Raichu V BRS 45 1 Ampharos ex SVP 16 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 29** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 1 Raihan CRZ 140 1 Serena SIT 164 4 Electric Generator SVI 170 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 2 Level Ball BST 129 1 Switch SVI 194 1 Sky Seal Stone CRZ 143 2 Beach Court SVI 167
-
-**Energy - 13** 13 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 18
+4 Mareep EVS 54
+3 Flaaffy EVS 55
+3 Miraidon ex SVI 81
+2 Magnezone V LOR 56
+2 Magnezone VSTAR LOR 57
+2 Raichu V BRS 45
+1 Ampharos ex SVP 16
+1 Radiant Greninja ASR 46
+Trainer Cards - 29
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+1 Raihan CRZ 140
+1 Serena SIT 164
+4 Electric Generator SVI 170
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+2 Level Ball BST 129
+1 Switch SVI 194
+1 Sky Seal Stone CRZ 143
+2 Beach Court SVI 167
+Energy - 13
+13 Lightning Energy SWSHEnergy 4
+```
 
 </div></div><div class="jb-code-container">
     <div id="ampharosex" class="deck_box">
@@ -863,11 +884,31 @@ Get Mareep into play as early as possible with the assistance of Miraidon ex’s
 
 ### EXAMPLE DECK LIST
 
-**Pokémon - 17** 4 Mareep EVS 54 4 Flaaffy EVS 55 3 Ampharos ex SVP 16 3 Miraidon ex SVI 81 1 Manaphy BRS 41 1 Radiant Greninja ASR 46 1 Regieleki EVS 60
-
-**Trainer Cards - 32** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Raihan CRZ 140 2 Serena SIT 164 1 Klara CRE 145 4 Trekking Shoes CRZ 145 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 3 Switch SVI 194 2 Level Ball BST 129 2 Rare Candy SVI 191 3 Stormy Mountains EVS 161
-
-**Energy - 11** 11 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 17
+4 Mareep EVS 54
+4 Flaaffy EVS 55
+3 Ampharos ex SVP 16
+3 Miraidon ex SVI 81
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Regieleki EVS 60
+Trainer Cards - 32
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Raihan CRZ 140
+2 Serena SIT 164
+1 Klara CRE 145
+4 Trekking Shoes CRZ 145
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+3 Switch SVI 194
+2 Level Ball BST 129
+2 Rare Candy SVI 191
+3 Stormy Mountains EVS 161
+Energy - 11
+11 Lightning Energy SWSHEnergy 4
+```
 
 </div></div><div class="jb-code-container">
     <div id="miraidonex" class="deck_box">
@@ -1533,11 +1574,33 @@ Get Rayquaza V and Mareep into play as early as possible, evolving into Rayquaza
 
 ### EXAMPLE DECK LIST
 
-**Pokémon - 18** 4 Flaaffy EVS 55 4 Mareep CRE 47 3 Rayquaza V EVS 110 3 Rayquaza VMAX EVS 111 2 Miraidon ex SVI 81 1 Ampharos ex SVP 16 1 Radiant Greninja ASR 46
-
-**Trainer Cards - 30** 4 Professor's Research SVI 190 2 Boss's Orders BRS 132 2 Serena SIT 164 1 Raihan CRZ 140 4 Level Ball BST 129 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 2 Escape Rope BST 125 2 Switch SVI 194 2 Trekking Shoes CRZ 145 2 Forest Seal Stone SIT 156 1 Beach Court SVI 167 1 Stormy Mountains EVS 161
-
-**Energy - 12** 8 Lightning Energy SWSHEnergy 4 4 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 18
+4 Flaaffy EVS 55
+4 Mareep CRE 47
+3 Rayquaza V EVS 110
+3 Rayquaza VMAX EVS 111
+2 Miraidon ex SVI 81
+1 Ampharos ex SVP 16
+1 Radiant Greninja ASR 46
+Trainer Cards - 30
+4 Professor's Research SVI 190
+2 Boss's Orders BRS 132
+2 Serena SIT 164
+1 Raihan CRZ 140
+4 Level Ball BST 129
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+2 Escape Rope BST 125
+2 Switch SVI 194
+2 Trekking Shoes CRZ 145
+2 Forest Seal Stone SIT 156
+1 Beach Court SVI 167
+1 Stormy Mountains EVS 161
+Energy - 12
+8 Lightning Energy SWSHEnergy 4
+4 Fire Energy SWSHEnergy 2
+```
 
 </div></div>
 

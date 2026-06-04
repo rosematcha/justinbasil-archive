@@ -42,11 +42,43 @@ The Pokémon Trading Card Game Classic is a self-contained game in a box featuri
 
 ## Deck List
 
-**Pokémon - 19** 2 Bulbasaur BS 44 2 Ivysaur BS 30 1 Venusaur BS 15 1 Chansey BS 3 1 Doduo BKT 116 1 Dodrio UD 11 1 Hitmonchan SSH 95 1 Hitmonlee SSH 94 1 Lugia ex CLV 17 1 Onix LOT 109 1 Paras RG 72 1 Parasect SV 38 1 Pinsir SUM 6 1 Sandshrew UNB 83 1 Sandslash UNB 84 1 Scyther JU 10 1 Snorlax RCL 141
-
-**Trainer Cards - 25** 4 Bill HS 89 4 Professor Oak CLF 26 2 Rocket's Admin. TRR 86 1 Boss's Orders RCL 154 1 Pokémon Fan Club UPR 133 1 Pokémon Nurse EX 145 2 Poké Ball SUM 125 2 Switch SVI 194 2 Ultra Ball BRS 150 1 Rare Candy SUM 129 1 Super Rod BKT 149 1 VS Seeker PHF 109 1 Sun Seed CLV 27 2 Computer Search BS 71
-
-**Energy - 16** 8 Basic Grass Energy CLF GRA 6 Basic Fighting Energy CLF FIG 2 Double Colorless Energy BS 96
+```decklist
+Pokémon - 19
+2 Bulbasaur BS 44
+2 Ivysaur BS 30
+1 Venusaur BS 15
+1 Chansey BS 3
+1 Doduo BKT 116
+1 Dodrio UD 11
+1 Hitmonchan SSH 95
+1 Hitmonlee SSH 94
+1 Lugia ex CLV 17
+1 Onix LOT 109
+1 Paras RG 72
+1 Parasect SV 38
+1 Pinsir SUM 6
+1 Sandshrew UNB 83
+1 Sandslash UNB 84
+1 Scyther JU 10
+1 Snorlax RCL 141
+Trainer Cards - 25
+4 Bill HS 89
+4 Professor Oak CLF 26
+2 Rocket's Admin. TRR 86
+1 Boss's Orders RCL 154
+1 Pokémon Fan Club UPR 133
+1 Pokémon Nurse EX 145
+2 Poké Ball SUM 125
+2 Switch SVI 194
+2 Ultra Ball BRS 150
+1 Rare Candy SUM 129
+1 Super Rod BKT 149
+1 VS Seeker PHF 109
+1 Sun Seed CLV 27
+2 Computer Search BS 71
+Energy - 16
+8 Basic Grass Energy CLF GRA 6 Basic Fighting Energy CLF FIG 2 Double Colorless Energy BS 96
+```
 
 </div></div>
 
@@ -170,11 +202,43 @@ The attacks by the Venusaur this card is attached to do 100 more damage to your 
 
 ### Deck List
 
-**Pokémon - 19** 2 Charmander BS 46 2 Charmeleon BS 24 1 Charizard BS 4 1 Clefairy BS 5 1 Clefable JU 1 1 Dunsparce SS 60 1 Ho-Oh ex CLC 7 1 Magmar FO 39 1 Miltank SW 55 1 Pikachu BS 58 1 Raichu SSH 66 1 Ponyta ASR 21 1 Rapidash ASR 22 1 Stantler SW 113 1 Voltorb BS 67 1 Electrode BS 21 1 Zapdos PR-SM 145
-
-**Trainer Cards - 25** 4 Bill HS 89 4 Professor Oak CLF 26 2 Rocket's Admin. TRR 86 1 Boss's Orders RCL 154 1 Pokémon Fan Club UPR 133 2 Poké Ball SUM 125 2 Switch SVI 194 2 Ultra Ball BRS 150 1 Rare Candy SUM 129 1 Super Rod BKT 149 1 Super Scoop Up BUS 124 1 VS Seeker PHF 109 1 Scorching Charcoal CLC 26 2 Computer Search BS 71
-
-**Energy - 16** 7 Basic Fire Energy CLL FIR 7 Basic Lightning Energy CLL LIG 2 Double Colorless Energy BS 96
+```decklist
+Pokémon - 19
+2 Charmander BS 46
+2 Charmeleon BS 24
+1 Charizard BS 4
+1 Clefairy BS 5
+1 Clefable JU 1
+1 Dunsparce SS 60
+1 Ho-Oh ex CLC 7
+1 Magmar FO 39
+1 Miltank SW 55
+1 Pikachu BS 58
+1 Raichu SSH 66
+1 Ponyta ASR 21
+1 Rapidash ASR 22
+1 Stantler SW 113
+1 Voltorb BS 67
+1 Electrode BS 21
+1 Zapdos PR-SM 145
+Trainer Cards - 25
+4 Bill HS 89
+4 Professor Oak CLF 26
+2 Rocket's Admin. TRR 86
+1 Boss's Orders RCL 154
+1 Pokémon Fan Club UPR 133
+2 Poké Ball SUM 125
+2 Switch SVI 194
+2 Ultra Ball BRS 150
+1 Rare Candy SUM 129
+1 Super Rod BKT 149
+1 Super Scoop Up BUS 124
+1 VS Seeker PHF 109
+1 Scorching Charcoal CLC 26
+2 Computer Search BS 71
+Energy - 16
+7 Basic Fire Energy CLL FIR 7 Basic Lightning Energy CLL LIG 2 Double Colorless Energy BS 96
+```
 
 </div></div>
 
@@ -298,11 +362,45 @@ The attacks used by the Charizard this card is attached to do 100 more damage to
 
 ### Deck List
 
-**Pokémon - 19** 2 Squirtle BS 63 2 Wartortle BS 42 1 Blastoise BS 2 1 Articuno FO 2 1 Drowzee SUM 59 1 Hypno SUM 60 1 Kangaskhan PLB 71 1 Lapras HS 24 1 Lt. Surge's Rattata G1 82 1 Lt. Surge's Raticate G1 51 1 Magikarp HS 72 1 Gyarados HS 4 1 Mewtwo EVO 51 1 Mr. Mime VEN 1 1 Staryu NXD 23 1 Starmie NXD 24 1 Suicune ex CLB 10
-
-**Trainer Cards - 25** 4 Bill HS 89 4 Professor Oak CLF 26 2 Rocket's Admin. TRR 86 1 Boss's Orders RCL 154 1 Fisherman BKT 136 1 Pokémon Fan Club UPR 133 2 Poké Ball SUM 125 2 Switch SVI 194 2 Ultra Ball BRS 150 1 Rare Candy SUM 129 1 Super Rod BKT 149 1 VS Seeker PHF 109 1 Drops in the Ocean CLB 21 2 Computer Search BS 71
-
-**Energy - 16** 8 Basic Water Energy CLK WAT 6 Basic Psychic Energy CLK PSY 2 Double Colorless Energy BS 96
+```decklist
+Pokémon - 19
+2 Squirtle BS 63
+2 Wartortle BS 42
+1 Blastoise BS 2
+1 Articuno FO 2
+1 Drowzee SUM 59
+1 Hypno SUM 60
+1 Kangaskhan PLB 71
+1 Lapras HS 24
+1 Lt. Surge's Rattata G1
+82
+1 Lt. Surge's Raticate G1
+51
+1 Magikarp HS 72
+1 Gyarados HS 4
+1 Mewtwo EVO 51
+1 Mr. Mime VEN 1
+1 Staryu NXD 23
+1 Starmie NXD 24
+1 Suicune ex CLB 10
+Trainer Cards - 25
+4 Bill HS 89
+4 Professor Oak CLF 26
+2 Rocket's Admin. TRR 86
+1 Boss's Orders RCL 154
+1 Fisherman BKT 136
+1 Pokémon Fan Club UPR 133
+2 Poké Ball SUM 125
+2 Switch SVI 194
+2 Ultra Ball BRS 150
+1 Rare Candy SUM 129
+1 Super Rod BKT 149
+1 VS Seeker PHF 109
+1 Drops in the Ocean CLB 21
+2 Computer Search BS 71
+Energy - 16
+8 Basic Water Energy CLK WAT 6 Basic Psychic Energy CLK PSY 2 Double Colorless Energy BS 96
+```
 
 </div></div>
 

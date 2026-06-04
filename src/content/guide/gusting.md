@@ -96,7 +96,10 @@ Nearly every deck runs 1-4 copies of Boss’s Orders.
 
 </div><div class="jb-col-10"><div class="jb-row"><div class="jb-col-4">
 
-**Pokémon Catcher** is largely inadequate as a gusting card. Although like Boss’s Orders it offers a means of gusting any target Pokémon from the opponent’s bench, it does so only if you flip heads. Instead of a having a guaranteed gust, you have a 50% chance to successfully gust. This means that a tails can literally end up being the difference between winning and losing a game.
+```decklist
+Pokémon Catcher
+is largely inadequate as a gusting card. Although like Boss’s Orders it offers a means of gusting any target Pokémon from the opponent’s bench, it does so only if you flip heads. Instead of a having a guaranteed gust, you have a 50% chance to successfully gust. This means that a tails can literally end up being the difference between winning and losing a game.
+```
 
 Pokémon Catcher should basically only be considered as a budget alternative to Boss’s Orders or as an additional gusting option in addition to 4 copies of Boss’s Orders.
 

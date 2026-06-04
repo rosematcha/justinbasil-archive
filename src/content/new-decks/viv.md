@@ -76,11 +76,32 @@ Setup early by playing down Koffing and Orbeetle V, evolving them into Weezing a
 
 ### Example Deck List
 
-**Pokémon - 18** 4 Koffing CEC 76 4 Weezing UNB 74 4 Orbeetle V VIV 20 3 Orbeetle VMAX VIV 21 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Zangoose CEC 173
-
-**Trainer Cards - 31** 3 Boss's Orders RCL 154 3 Marnie CPA 56 3 Roxie CEC 205 2 Bird Keeper DAA 159 4 Quick Ball SSH 179 4 Switch SSH 183 3 Pokémon Communication TEU 152 2 Evolution Incense SSH 163 2 Ordinary Rod SSH 171 2 U-Turn Board UNM 211 3 Turffield Stadium CPA 68
-
-**Energy - 11** 4 Triple Acceleration Energy UNB 190 4 Twin Energy RCL 174 3 Grass Energy SWSHEnergy 1
+```decklist
+Pokémon - 18
+4 Koffing CEC 76
+4 Weezing UNB 74
+4 Orbeetle V VIV 20
+3 Orbeetle VMAX VIV 21
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Zangoose CEC 173
+Trainer Cards - 31
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+3 Roxie CEC 205
+2 Bird Keeper DAA 159
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Pokémon Communication TEU 152
+2 Evolution Incense SSH 163
+2 Ordinary Rod SSH 171
+2 U-Turn Board UNM 211
+3 Turffield Stadium CPA 68
+Energy - 11
+4 Triple Acceleration Energy UNB 190
+4 Twin Energy RCL 174
+3 Grass Energy SWSHEnergy 1
+```
 
 ### Other considerations
 
@@ -137,11 +158,32 @@ Set up Rillaboom and Rillaboom VMAX by benching Grookey and Rillaboom V on your 
 
 Source: Based on [this winning Japanese deck list](https://twitter.com/ds_nipponbashi2/status/1282655665941446656/photo/1)
 
-**Pokémon - 15** 4 Rillaboom V RCL 17 2 Rillaboom VMAX RCL 18 3 Grookey SSH 10 1 Thwackey SSH 12 2 Rillaboom SSH 14 2 Zarude V VIV 22 1 Genesect VIV 16
-
-**Trainer Cards - 33** 4 Green's Exploration UNB 175 3 Bird Keeper DAA 159 2 Boss's Orders RCL 154 2 Erika's Hospitality HIF 56 4 Pokégear 3.0 SSH 174 4 Quick Ball SSH 179 3 Rare Candy SSH 180 2 Evolution Incense SSH 163 2 Ordinary Rod SSH 171 2 Reset Stamp UNM 206 2 Switch SSH 183 1 Energy Retrieval SSH 160 2 Turffield Stadium RCL 170
-
-**Energy - 12** 12 Grass Energy SWSHEnergy 1
+```decklist
+Pokémon - 15
+4 Rillaboom V RCL 17
+2 Rillaboom VMAX RCL 18
+3 Grookey SSH 10
+1 Thwackey SSH 12
+2 Rillaboom SSH 14
+2 Zarude V VIV 22
+1 Genesect VIV 16
+Trainer Cards - 33
+4 Green's Exploration UNB 175
+3 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+2 Erika's Hospitality HIF 56
+4 Pokégear 3.0 SSH 174
+4 Quick Ball SSH 179
+3 Rare Candy SSH 180
+2 Evolution Incense SSH 163
+2 Ordinary Rod SSH 171
+2 Reset Stamp UNM 206
+2 Switch SSH 183
+1 Energy Retrieval SSH 160
+2 Turffield Stadium RCL 170
+Energy - 12
+12 Grass Energy SWSHEnergy 1
+```
 
 ### Other considerations
 
@@ -194,11 +236,32 @@ Use Dedenne-GX’s Dedechange ability, Charizard’s Battle Sense ability, Quick
 
 ### Example Deck List
 
-**Pokémon - 15** 4 Charmander VIV 23 1 Charmeleon HIF 8 4 Charizard VIV 25 4 Volcanion UNB 25 1 Dedenne-GX UNB 57 1 Oranguru SSH 148
-
-**Trainer Cards - 35** 4 Leon VIV 154 3 Professor's Research SSH 178 3 Welder UNB 189 2 Boss’s Orders RCL 154 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Great Ball SSH 164 3 Switch SSH 183 2 Evolution Incense SSH 163 2 Pokémon Communication TEU 152 1 Air Balloon SSH 156 1 Fire Crystal UNB 173 1 Ordinary Rod SSH 171 2 Giant Hearth UNM 197
-
-**Energy - 10** 10 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 15
+4 Charmander VIV 23
+1 Charmeleon HIF 8
+4 Charizard VIV 25
+4 Volcanion UNB 25
+1 Dedenne-GX UNB 57
+1 Oranguru SSH 148
+Trainer Cards - 35
+4 Leon VIV 154
+3 Professor's Research SSH 178
+3 Welder UNB 189
+2 Boss’s Orders RCL 154
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Great Ball SSH 164
+3 Switch SSH 183
+2 Evolution Incense SSH 163
+2 Pokémon Communication TEU 152
+1 Air Balloon SSH 156
+1 Fire Crystal UNB 173
+1 Ordinary Rod SSH 171
+2 Giant Hearth UNM 197
+Energy - 10
+10 Fire Energy SWSHEnergy 2
+```
 
 ### Other considerations
 
@@ -252,11 +315,31 @@ Play down Snom and Wailmer, evolving them into Frosmoth and Wailord as quickly a
 
 ### Example Deck List
 
-**Pokémon - 17** 4 Wailmer VIV 31 4 Wailord VIV 32 3 Frosmoth SSH 64 3 Snom SSH 63 1 Dedenne-GX UNB 57 1 Oranguru SSH 148 1 Suicune DAA 37
-
-**Trainer Cards - 32** 3 Marnie SSH 169 3 Professor's Research SSH 178 2 Bird Keeper DAA 159 2 Boss's Orders RCL 154 1 Nessa VIV 154 4 Capacious Bucket RCL 156 4 Quick Ball SSH 179 4 Switch SSH 183 3 Evolution Incense SSH 163 2 Buff Padding TEU 136 2 Pokémon Communication TEU 152 2 Training Court RCL 169
-
-**Energy - 11** 11 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 17
+4 Wailmer VIV 31
+4 Wailord VIV 32
+3 Frosmoth SSH 64
+3 Snom SSH 63
+1 Dedenne-GX UNB 57
+1 Oranguru SSH 148
+1 Suicune DAA 37
+Trainer Cards - 32
+3 Marnie SSH 169
+3 Professor's Research SSH 178
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 154
+1 Nessa VIV 154
+4 Capacious Bucket RCL 156
+4 Quick Ball SSH 179
+4 Switch SSH 183
+3 Evolution Incense SSH 163
+2 Buff Padding TEU 136
+2 Pokémon Communication TEU 152
+2 Training Court RCL 169
+Energy - 11
+11 Water Energy SWSHEnergy 3
+```
 
 ### Other considerations
 
@@ -307,11 +390,32 @@ Play down and evolve Galarian Darmanitan V into Galarian Darmanitan VMAX and Sno
 
 Source: Based on [this winning Japanese list](https://twitter.com/kdpl2/status/1310529478540451840/photo/1)
 
-**Pokémon - 19** 3 Galarian Darmanitan V VIV 36 3 Galarian Darmanitan VMAX VIV 37 3 Snom SSH 63 3 Frosmoth SSH 64 2 Alolan Sandshrew CEC 137 2 Alolan Sandslash-GX SM236 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Suicune DAA 37
-
-**Trainer Cards - 29** 4 Professor's Research CPA 62 3 Marnie CPA 56 2 Boss's Orders RCL 154 1 Nessa VIV 157 4 Quick Ball SSH 179 3 Capacious Bucket RCL 156 3 Evolution Incense SSH 163 3 Switch SSH 183 2 Telescopic Sight VIV 160 2 Pokémon Communication TEU 152 2 Training Court RCL 169
-
-**Energy - 12** 12 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 19
+3 Galarian Darmanitan V VIV 36
+3 Galarian Darmanitan VMAX VIV 37
+3 Snom SSH 63
+3 Frosmoth SSH 64
+2 Alolan Sandshrew CEC 137
+2 Alolan Sandslash-GX SM236
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Suicune DAA 37
+Trainer Cards - 29
+4 Professor's Research CPA 62
+3 Marnie CPA 56
+2 Boss's Orders RCL 154
+1 Nessa VIV 157
+4 Quick Ball SSH 179
+3 Capacious Bucket RCL 156
+3 Evolution Incense SSH 163
+3 Switch SSH 183
+2 Telescopic Sight VIV 160
+2 Pokémon Communication TEU 152
+2 Training Court RCL 169
+Energy - 12
+12 Water Energy SWSHEnergy 3
+```
 
 ### Other considerations
 
@@ -359,11 +463,35 @@ Quickly search out and play down as many Arrokuda as you can, preparing a Cramor
 
 ### Example Deck List
 
-**Pokémon - 14** 4 Cramorant VIV 40 4 Arrokuda VIV 41 2 Barraskewda VIV 42 1 Galarian Zigzagoon SSH 117 1 Mewtwo UNB 75 1 Oranguru SSH 148 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 34** 3 Marnie SSH 169 3 Nessa VIV 157 2 Boss's Orders RCL 154 2 Erika's Hospitality HIF 56 2 Professor's Research SSH 178 4 Great Ball SSH 164 4 Quick Ball SSH 179 4 Scoop Up Net RCL 165 3 Switch SSH 183 2 U-Turn Board UNM 211 2 Island Challenge Amulet CEC 194 1 Ordinary Rod SSH 171 1 Pal Pad UPR 132 1 Tool Scrapper RCL 168
-
-**Energy - 12** 4 Twin Energy RCL 174 4 Capture Energy RCL 171 4 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 14
+4 Cramorant VIV 40
+4 Arrokuda VIV 41
+2 Barraskewda VIV 42
+1 Galarian Zigzagoon SSH 117
+1 Mewtwo UNB 75
+1 Oranguru SSH 148
+1 Oricorio-GX CEC 95
+Trainer Cards - 34
+3 Marnie SSH 169
+3 Nessa VIV 157
+2 Boss's Orders RCL 154
+2 Erika's Hospitality HIF 56
+2 Professor's Research SSH 178
+4 Great Ball SSH 164
+4 Quick Ball SSH 179
+4 Scoop Up Net RCL 165
+3 Switch SSH 183
+2 U-Turn Board UNM 211
+2 Island Challenge Amulet CEC 194
+1 Ordinary Rod SSH 171
+1 Pal Pad UPR 132
+1 Tool Scrapper RCL 168
+Energy - 12
+4 Twin Energy RCL 174
+4 Capture Energy RCL 171
+4 Water Energy SWSHEnergy 3
+```
 
 ### Other considerations
 
@@ -414,11 +542,34 @@ Use a combination of Electrode’s Buzzap Generator ability, Tapu Koko {\*}’s 
 
 ### Example Deck List
 
-**Pokémon - 18** 4 Pikachu V VIV 43 3 Pikachu VMAX VIV 44 2 Dedenne-GX UNB 57 2 Voltorb VIV 45 2 Electrode VIV 46 1 Crobat V DAA 104 1 Eldegoss V RCL 19 1 Tapu Koko {\*} TEU 51 1 Vikavolt V DAA 60 1 Zapdos VIV 48
-
-**Trainer Cards - 30** 4 Professor's Research SSH 178 3 Marnie SSH 169 2 Boss's Orders RCL 154 2 Rose DAA 168 4 Quick Ball SSH 179 4 Turbo Patch DAA 172 3 Energy Switch SSH 162 3 Switch SSH 183 2 Pokémon Communication TEU 152 2 Air Balloon SSH 156 1 Reset Stamp UNM 206
-
-**Energy - 12** 9 Lightning Energy SWSHEnergy 4 3 Speed Lightning Energy RCL 173
+```decklist
+Pokémon - 18
+4 Pikachu V VIV 43
+3 Pikachu VMAX VIV 44
+2 Dedenne-GX UNB 57
+2 Voltorb VIV 45
+2 Electrode VIV 46
+1 Crobat V DAA 104
+1 Eldegoss V RCL 19
+1 Tapu Koko {*} TEU 51
+1 Vikavolt V DAA 60
+1 Zapdos VIV 48
+Trainer Cards - 30
+4 Professor's Research SSH 178
+3 Marnie SSH 169
+2 Boss's Orders RCL 154
+2 Rose DAA 168
+4 Quick Ball SSH 179
+4 Turbo Patch DAA 172
+3 Energy Switch SSH 162
+3 Switch SSH 183
+2 Pokémon Communication TEU 152
+2 Air Balloon SSH 156
+1 Reset Stamp UNM 206
+Energy - 12
+9 Lightning Energy SWSHEnergy 4
+3 Speed Lightning Energy RCL 173
+```
 
 ### Other considerations
 
@@ -470,11 +621,32 @@ Search for Pokémon Research Lab with Green’s Exploration, attach an energy to
 
 ### Example Deck List
 
-**Pokémon - 10** 4 Alakazam V VIV 172 3 Omanyte TEU 75 2 Omastar TEU 76 1 Gengar & Mimikyu-GX TEU 53
-
-**Trainer Cards - 41** 4 Green's Exploration UNB 175 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 2 Team Yell Grunt CPA 67 4 Pokégear 3.0 SSH 174 4 Surprise Box UNB 187 3 Quick Ball SSH 179 3 Reset Stamp UNM 206 2 Air Balloon SSH 156 2 Energy Spinner UNB 170 2 Evolution Incense SSH 163 2 Pokémon Communication TEU 152 1 Switch SSH 183 4 Pokémon Research Lab UNM 205
-
-**Energy - 9** 5 Psychic Energy SWSHEnergy 5 4 Horror Psychic Energy RCL 172
+```decklist
+Pokémon - 10
+4 Alakazam V VIV 172
+3 Omanyte TEU 75
+2 Omastar TEU 76
+1 Gengar & Mimikyu-GX TEU 53
+Trainer Cards - 41
+4 Green's Exploration UNB 175
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+2 Team Yell Grunt CPA 67
+4 Pokégear 3.0 SSH 174
+4 Surprise Box UNB 187
+3 Quick Ball SSH 179
+3 Reset Stamp UNM 206
+2 Air Balloon SSH 156
+2 Energy Spinner UNB 170
+2 Evolution Incense SSH 163
+2 Pokémon Communication TEU 152
+1 Switch SSH 183
+4 Pokémon Research Lab UNM 205
+Energy - 9
+5 Psychic Energy SWSHEnergy 5
+4 Horror Psychic Energy RCL 172
+```
 
 ### Other considerations
 
@@ -525,11 +697,31 @@ Evolve Nincada into Ninjask to bring Shedinja into play with Ninjask’s Shell S
 
 ### Example Deck List
 
-**Pokémon - 16** 3 Nincada VIV 13 3 Ninjask VIV 14 4 Shedinja VIV 66 2 Trubbish RCL 117 2 Garbodor RCL 118 1 Galarian Zigzagoon SSH 117 1 Oranguru SSH 148
-
-**Trainer Cards - 31** 4 Welder UNB 189 2 Boss's Orders RCL 154 2 Koga's Trap HIF 59 2 Marnie SSH 169 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 4 Scoop Up Net RCL 165 2 Air Balloon SSH 156 2 Fire Crystal UNB 173 2 Ordinary Rod SSH 171 3 Giant Hearth UNM 197
-
-**Energy - 13** 9 Fire Energy SWSHEnergy 2 4 Twin Energy RCL 174
+```decklist
+Pokémon - 16
+3 Nincada VIV 13
+3 Ninjask VIV 14
+4 Shedinja VIV 66
+2 Trubbish RCL 117
+2 Garbodor RCL 118
+1 Galarian Zigzagoon SSH 117
+1 Oranguru SSH 148
+Trainer Cards - 31
+4 Welder UNB 189
+2 Boss's Orders RCL 154
+2 Koga's Trap HIF 59
+2 Marnie SSH 169
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+4 Scoop Up Net RCL 165
+2 Air Balloon SSH 156
+2 Fire Crystal UNB 173
+2 Ordinary Rod SSH 171
+3 Giant Hearth UNM 197
+Energy - 13
+9 Fire Energy SWSHEnergy 2
+4 Twin Energy RCL 174
+```
 
 ### Other considerations
 
@@ -577,11 +769,33 @@ Bench Skwovet and Cottonee, evolving them into Greedent and Whimsicott as soon a
 
 ### Example Deck List
 
-**Pokémon - 19** 4 Cottonee UNM 143 4 Whimsicott VIV 76 3 Jirachi VIV 119 2 Skwovet RCL 151 2 Greedent RCL 152 1 Dedenne-GX UNB 57 1 Heracross UNM 107 1 Mew UNB 76 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 35** 4 Marnie CPA 56 4 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Lucky Egg SSH 167 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 4 U-Turn Board UNM 211 3 Great Ball SSH 164 2 Air Balloon SSH 156 2 Island Challenge Amulet CEC 194 2 Ordinary Rod SSH 171
-
-**Energy - 6** 4 Horror Psychic Energy RCL 172 2 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 19
+4 Cottonee UNM 143
+4 Whimsicott VIV 76
+3 Jirachi VIV 119
+2 Skwovet RCL 151
+2 Greedent RCL 152
+1 Dedenne-GX UNB 57
+1 Heracross UNM 107
+1 Mew UNB 76
+1 Oricorio-GX CEC 95
+Trainer Cards - 35
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Lucky Egg SSH 167
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+4 U-Turn Board UNM 211
+3 Great Ball SSH 164
+2 Air Balloon SSH 156
+2 Island Challenge Amulet CEC 194
+2 Ordinary Rod SSH 171
+Energy - 6
+4 Horror Psychic Energy RCL 172
+2 Psychic Energy SWSHEnergy 5
+```
 
 ### Other considerations
 
@@ -638,11 +852,32 @@ In the early game, setup and evolve Drilbur, working toward attacking with Excad
 
 ### Example Deck List
 
-**Pokémon - 23** 4 Drilbur CEC 114 4 Excadrill CEC 115 3 Machop CPA 24 3 Machoke CPA 25 3 Machamp CPA 26 2 Dedenne-GX UNB 57 2 Heracross UNM 107 1 Galarian Sirfetch'd V SWSH043 1 Phione CEC 57
-
-**Trainer Cards - 30** 4 Professor's Research CPA 62 3 Roxie CEC 205 2 Boss's Orders RCL 154 2 Hapu UNM 200 4 Pokémon Communication TEU 152 4 Quick Ball SSH 179 3 Karate Belt UNM 201  2 Air Balloon SSH 156 2 Ordinary Rod SSH 171 2 Pal Pad SSH 172 2 Martial Arts Dojo UNB 179
-
-**Energy - 7** 7 Fighting Energy Energy 6
+```decklist
+Pokémon - 23
+4 Drilbur CEC 114
+4 Excadrill CEC 115
+3 Machop CPA 24
+3 Machoke CPA 25
+3 Machamp CPA 26
+2 Dedenne-GX UNB 57
+2 Heracross UNM 107
+1 Galarian Sirfetch'd V SWSH043
+1 Phione CEC 57
+Trainer Cards - 30
+4 Professor's Research CPA 62
+3 Roxie CEC 205
+2 Boss's Orders RCL 154
+2 Hapu UNM 200
+4 Pokémon Communication TEU 152
+4 Quick Ball SSH 179
+3 Karate Belt UNM 201
+2 Air Balloon SSH 156
+2 Ordinary Rod SSH 171
+2 Pal Pad SSH 172
+2 Martial Arts Dojo UNB 179
+Energy - 7
+7 Fighting Energy Energy 6
+```
 
 ### Other considerations
 
@@ -692,11 +927,32 @@ Use Spiritomb’s Building Spite ability, Jynx’s Ominous Posture ability, and 
 
 Source: Based on [this winning Japanese deck list](https://twitter.com/t_chigasaki/status/1309696656955199488/photo/1)
 
-**Pokémon - 15** 4 Spiritomb UNB 112 3 Phanpy VIV 86 3 Donphan VIV 87 3 Jirachi TEU 99 1 Jynx UNM 76 1 Mew UNB 76
-
-**Trainer Cards - 36** 4 Marnie CPA 56 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 4 Quick Ball SSH 179 4 Scoop Up Net RCL 165 4 Switch SSH 183 3 Cape of Toughness DAA 160 3 Evolution Incense SSH 163 2 Pokémon Communication TEU 152 2 U-Turn Board UNM 211 1 Ordinary Rod SSH 171 2 Martial Arts Dojo UNB 179
-
-**Energy - 9** 3 Aurora Energy SSH 186 3 Darkness Energy SWSHEnergy 7 3 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 15
+4 Spiritomb UNB 112
+3 Phanpy VIV 86
+3 Donphan VIV 87
+3 Jirachi TEU 99
+1 Jynx UNM 76
+1 Mew UNB 76
+Trainer Cards - 36
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Scoop Up Net RCL 165
+4 Switch SSH 183
+3 Cape of Toughness DAA 160
+3 Evolution Incense SSH 163
+2 Pokémon Communication TEU 152
+2 U-Turn Board UNM 211
+1 Ordinary Rod SSH 171
+2 Martial Arts Dojo UNB 179
+Energy - 9
+3 Aurora Energy SSH 186
+3 Darkness Energy SWSHEnergy 7
+3 Fighting Energy SWSHEnergy 6
+```
 
 ### Other considerations
 
@@ -749,11 +1005,34 @@ Setup Coalossal V and Oranguru early, then evolve into Coalossal VMAX as soon as
 
 ### Example Deck List
 
-**Pokémon - 15** 4 Coalossal V VIV 98 3 Coalossal VMAX VIV 99 3 Oranguru SSH 148 1 Crobat V DAA 104 1 Dedenne-GX UNB 57 1 Eldegoss V RCL 19 1 Galarian Sirfetch'd V VIV 174 1 Giratina UNM 86
-
-**Trainer Cards - 35** 3 Boss's Orders RCL 154 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Cynthia & Caitlin CEC 189 2 Mallow & Lana CEC 198 4 Quick Ball SSH 179 4 Rotom Phone CPA 64 3 Switch SSH 183 2 Air Balloon SSH 156 2 Buff Padding TEU 136 2 Evolution Incense SSH 163 2 Pokémon Communication TEU 152 2 Martial Arts Dojo UNB 179
-
-**Energy - 11** 7 Fighting Energy SWSHEnergy 6 4 Stone Fighting Energy VIV 164
+```decklist
+Pokémon - 15
+4 Coalossal V VIV 98
+3 Coalossal VMAX VIV 99
+3 Oranguru SSH 148
+1 Crobat V DAA 104
+1 Dedenne-GX UNB 57
+1 Eldegoss V RCL 19
+1 Galarian Sirfetch'd V VIV 174
+1 Giratina UNM 86
+Trainer Cards - 35
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Cynthia & Caitlin CEC 189
+2 Mallow & Lana CEC 198
+4 Quick Ball SSH 179
+4 Rotom Phone CPA 64
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Buff Padding TEU 136
+2 Evolution Incense SSH 163
+2 Pokémon Communication TEU 152
+2 Martial Arts Dojo UNB 179
+Energy - 11
+7 Fighting Energy SWSHEnergy 6
+4 Stone Fighting Energy VIV 164
+```
 
 ### Other considerations
 
@@ -814,11 +1093,30 @@ Use Quick Ball, Poké Ball, Great Ball, Capture Energy, the deck’s own general
 
 ### Example Deck List
 
-**Pokémon - 8** 4 Falinks RCL 109 4 Falinks V RCL 110
-
-**Trainer Cards - 39** 4 Marnie SSH 169 4 Professor's Research SSH 178 2 Boss's Orders RCL 154 2 Guzma & Hala CEC 193 4 Great Ball SSH 164 4 Pokégear 3.0 SSH 174 4 Quick Ball SSH 179 3 Cape of Toughness DAA 160 3 Poké Ball RCL 164 3 Switch SSH 183 2 Ordinary Rod SSH 171 2 Circhester Bath VIV 150 2 Martial Arts Dojo UNB 179
-
-**Energy - 13** 5 Fighting Energy SWSHEnergy 6 4 Twin Energy RCL 174 2 Stone Fighting Energy VIV 164 2 Capture Energy RCL 171
+```decklist
+Pokémon - 8
+4 Falinks RCL 109
+4 Falinks V RCL 110
+Trainer Cards - 39
+4 Marnie SSH 169
+4 Professor's Research SSH 178
+2 Boss's Orders RCL 154
+2 Guzma & Hala CEC 193
+4 Great Ball SSH 164
+4 Pokégear 3.0 SSH 174
+4 Quick Ball SSH 179
+3 Cape of Toughness DAA 160
+3 Poké Ball RCL 164
+3 Switch SSH 183
+2 Ordinary Rod SSH 171
+2 Circhester Bath VIV 150
+2 Martial Arts Dojo UNB 179
+Energy - 13
+5 Fighting Energy SWSHEnergy 6
+4 Twin Energy RCL 174
+2 Stone Fighting Energy VIV 164
+2 Capture Energy RCL 171
+```
 
 ### Other considerations
 
@@ -865,11 +1163,33 @@ Play down Trubbish and use Quick Ball and the attachement of Capture Energy to b
 
 ### Example Deck List
 
-**Pokémon - 18** 4 Trubbish VIV 110 4 Garbodor VIV 111 4 Minccino SSH 145 4 Cinccino SSH 147 1 Dedenne-GX UNB 57 1 Phione CEC 57
-
-**Trainer Cards - 35** 3 Hapu UNM 200 3 Professor's Research CPA 62 2 Boss's Orders RCL 154 4 Lucky Egg SSH 167 4 Quick Ball SSH 179 4 Air Balloon SSH 156 3 Pokémon Communication TEU 152 2 Giant Bomb UNM 196 2 Ordinary Rod SSH 171 2 Rocky Helmet VIV 159 2 U-Turn Board UNM 211 2 Vitality Band SSH 185 1 Big Parasol DAA 157 1 Tool Scrapper RCL 168
-
-**Energy - 7** 4 Twin Energy RCL 174 3 Capture Energy RCL 171
+```decklist
+Pokémon - 18
+4 Trubbish VIV 110
+4 Garbodor VIV 111
+4 Minccino SSH 145
+4 Cinccino SSH 147
+1 Dedenne-GX UNB 57
+1 Phione CEC 57
+Trainer Cards - 35
+3 Hapu UNM 200
+3 Professor's Research CPA 62
+2 Boss's Orders RCL 154
+4 Lucky Egg SSH 167
+4 Quick Ball SSH 179
+4 Air Balloon SSH 156
+3 Pokémon Communication TEU 152
+2 Giant Bomb UNM 196
+2 Ordinary Rod SSH 171
+2 Rocky Helmet VIV 159
+2 U-Turn Board UNM 211
+2 Vitality Band SSH 185
+1 Big Parasol DAA 157
+1 Tool Scrapper RCL 168
+Energy - 7
+4 Twin Energy RCL 174
+3 Capture Energy RCL 171
+```
 
 ### Other considerations
 
@@ -922,11 +1242,36 @@ Place down Togekiss V and evolve it into a Togekiss VMAX as necessary. Use Talon
 
 ### Example Deck List
 
-**Pokémon - 9** 4 Togekiss V VIV 140 4 Togekiss VMAX VIV 141 1 Talonflame V VIV 29
-
-**Trainer Cards - 40** 4 Green's Exploration UNB 175 3 Team Yell Grunt CPA 67 2 Boss's Orders RCL 154 2 Cynthia & Caitlin CEC 189 2 Marnie CPA 56 1 Lt. Surge's Strategy HIF 60 1 Mallow & Lana CEC 198 1 Oleana RCL 163 4 Crushing Hammer SSH 159 4 Pokémon Catcher SSH 175 4 Quick Ball SSH 179 3 Evolution Incense SSH 163 2 Giant Bomb UNM 196 2 Reset Stamp UNM 206 1 Great Catcher CEC 192 1 Pal Pad UPR 132 1 Tool Scrapper RCL 168 2 Power Plant UNB 183
-
-**Energy - 11** 4 Powerful Colorless Energy DAA 176 4 Draw Energy CEC 209 2 Fire Energy SWSHEnergy 2 1 Weakness Guard Energy UNM 213
+```decklist
+Pokémon - 9
+4 Togekiss V VIV 140
+4 Togekiss VMAX VIV 141
+1 Talonflame V VIV 29
+Trainer Cards - 40
+4 Green's Exploration UNB 175
+3 Team Yell Grunt CPA 67
+2 Boss's Orders RCL 154
+2 Cynthia & Caitlin CEC 189
+2 Marnie CPA 56
+1 Lt. Surge's Strategy HIF 60
+1 Mallow & Lana CEC 198
+1 Oleana RCL 163
+4 Crushing Hammer SSH 159
+4 Pokémon Catcher SSH 175
+4 Quick Ball SSH 179
+3 Evolution Incense SSH 163
+2 Giant Bomb UNM 196
+2 Reset Stamp UNM 206
+1 Great Catcher CEC 192
+1 Pal Pad UPR 132
+1 Tool Scrapper RCL 168
+2 Power Plant UNB 183
+Energy - 11
+4 Powerful Colorless Energy DAA 176
+4 Draw Energy CEC 209
+2 Fire Energy SWSHEnergy 2
+1 Weakness Guard Energy UNM 213
+```
 
 ### Other considerations
 

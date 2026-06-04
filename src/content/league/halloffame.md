@@ -1242,41 +1242,128 @@ Energy - 8
 
 <p class="jb-center"><strong>1st Place</strong><br />Kaleidophoenix - Chien-Pao ex / Frosmoth</p>
 
-**Pokémon - 18** 4 Chien-Pao ex PAL 61 3 Alolan Vulpix GRI 21 3 Snom SHF 29 2 Frosmoth SHF 30 2 Octillery BKT 33 2 Remoraid BKT 31 1 Cetitan PAL 55 1 Cetoddle PAL 53
-
-**Trainer Cards - 30** 4 Iono PAL 185 3 Professor's Research SVI 190 2 Boss's Orders PAL 172 2 Skyla RCL 166 4 Level Ball BST 129 3 Superior Energy Retrieval PAL 189 2 Aqua Patch GRI 119 2 Professor's Letter BKT 146 2 Super Rod PAL 188 2 Float Stone BKT 137 4 Brooklet Hill GRI 120
-
-**Energy - 12** 10 Basic Water Energy SVE 3 1 Jet Energy PAL 190 1 Reversal Energy PAL 192
+```decklist
+Pokémon - 18
+4 Chien-Pao ex PAL 61
+3 Alolan Vulpix GRI 21
+3 Snom SHF 29
+2 Frosmoth SHF 30
+2 Octillery BKT 33
+2 Remoraid BKT 31
+1 Cetitan PAL 55
+1 Cetoddle PAL 53
+Trainer Cards - 30
+4 Iono PAL 185
+3 Professor's Research SVI 190
+2 Boss's Orders PAL 172
+2 Skyla RCL 166
+4 Level Ball BST 129
+3 Superior Energy Retrieval PAL 189
+2 Aqua Patch GRI 119
+2 Professor's Letter BKT 146
+2 Super Rod PAL 188
+2 Float Stone BKT 137
+4 Brooklet Hill GRI 120
+Energy - 12
+10 Basic Water Energy SVE 3
+1 Jet Energy PAL 190
+1 Reversal Energy PAL 192
+```
 
 </div><div class="jb-col-9"><div class="jb-row"><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place</strong><br />Guil - Galarian Weezing</p>
 
-**Pokémon - 14** 4 Koffing SHF 41 3 Galarian Weezing SHF 42 2 Noibat BKT 132 2 Noivern ex PAL 153 1 Octillery BKT 33 1 Remoraid BKT 31 1 Squawkabilly ex PAL 169
-
-**Trainer Cards - 32** 4 Grusha PAL 184 4 Iono PAL 185 4 Professor's Research SVI 190 1 Brigette BKT 134 4 Great Ball PAL 183 3 Level Ball BST 129 3 Professor's Letter BKT 146 2 Enhanced Hammer GRI 124 2 Rescue Stretcher GRI 130 3 Float Stone BKT 137 2 Parallel City BKT 145
-
-**Energy - 14** 5 Basic Darkness Energy SVE 7 4 Luminous Energy PAL 191 3 Double Colorless Energy SLG 69 2 Basic Psychic Energy SVE 5
+```decklist
+Pokémon - 14
+4 Koffing SHF 41
+3 Galarian Weezing SHF 42
+2 Noibat BKT 132
+2 Noivern ex PAL 153
+1 Octillery BKT 33
+1 Remoraid BKT 31
+1 Squawkabilly ex PAL 169
+Trainer Cards - 32
+4 Grusha PAL 184
+4 Iono PAL 185
+4 Professor's Research SVI 190
+1 Brigette BKT 134
+4 Great Ball PAL 183
+3 Level Ball BST 129
+3 Professor's Letter BKT 146
+2 Enhanced Hammer GRI 124
+2 Rescue Stretcher GRI 130
+3 Float Stone BKT 137
+2 Parallel City BKT 145
+Energy - 14
+5 Basic Darkness Energy SVE 7
+4 Luminous Energy PAL 191
+3 Double Colorless Energy SLG 69
+2 Basic Psychic Energy SVE 5
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place</strong><br />Tech - Wishiwashi-GX / Frosmoth</p>
 
-**Pokémon - 14** 3 Frosmoth SHF 30 3 Snom SHF 29 3 Wishiwashi-GX GRI 38 2 Octillery BKT 33 2 Remoraid BKT 31 1 Mr. Mime GEN 52
-
-**Trainer Cards - 34** 4 Professor Juniper PLB 84 3 Boss's Orders PAL 172 3 Iono PAL 185 4 Great Ball PAL 183 4 Level Ball BST 129 4 Superior Energy Retrieval PAL 189 3 Professor's Letter BKT 146 2 Heavy Ball BKT 140 1 Super Rod PAL 188 2 Bravery Charm PAL 173 2 Float Stone BKT 137 2 Brooklet Hill GRI 120
-
-**Energy - 12** 8 Basic Water Energy SVE 3 4 Double Colorless Energy SLG 69
+```decklist
+Pokémon - 14
+3 Frosmoth SHF 30
+3 Snom SHF 29
+3 Wishiwashi-GX GRI 38
+2 Octillery BKT 33
+2 Remoraid BKT 31
+1 Mr. Mime GEN 52
+Trainer Cards - 34
+4 Professor Juniper PLB 84
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Great Ball PAL 183
+4 Level Ball BST 129
+4 Superior Energy Retrieval PAL 189
+3 Professor's Letter BKT 146
+2 Heavy Ball BKT 140
+1 Super Rod PAL 188
+2 Bravery Charm PAL 173
+2 Float Stone BKT 137
+2 Brooklet Hill GRI 120
+Energy - 12
+8 Basic Water Energy SVE 3
+4 Double Colorless Energy SLG 69
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>4th Place</strong><br />ThatUnlimitedProfessor - Chien-Pao ex</p>
 
-**Pokémon - 16** 4 Chien-Pao ex PAL 61 2 Octillery BKT 33 2 Remoraid BKT 31 2 Zoroark BKT 91 2 Zorua BKT 89 1 Luxray SHF 33 1 Mr. Mime GEN 52 1 Oricorio GRI 55 1 Rotom SHF 34
-
-**Trainer Cards - 31** 3 Boss's Orders PAL 172 3 Iono PAL 185 3 Professor's Research SVI 190 1 Brigette BKT 134 3 Aqua Patch GRI 119 3 Level Ball BST 129 2 Energy Recycler BST 124 2 Super Rod PAL 188 4 Float Stone BKT 137 3 Bravery Charm PAL 173 3 Brooklet Hill GRI 120 1 Artazon PAL 171
-
-**Energy - 13** 11 Basic Water Energy SVE 3 2 Double Colorless Energy SLG 69
+```decklist
+Pokémon - 16
+4 Chien-Pao ex PAL 61
+2 Octillery BKT 33
+2 Remoraid BKT 31
+2 Zoroark BKT 91
+2 Zorua BKT 89
+1 Luxray SHF 33
+1 Mr. Mime GEN 52
+1 Oricorio GRI 55
+1 Rotom SHF 34
+Trainer Cards - 31
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+3 Professor's Research SVI 190
+1 Brigette BKT 134
+3 Aqua Patch GRI 119
+3 Level Ball BST 129
+2 Energy Recycler BST 124
+2 Super Rod PAL 188
+4 Float Stone BKT 137
+3 Bravery Charm PAL 173
+3 Brooklet Hill GRI 120
+1 Artazon PAL 171
+Energy - 13
+11 Basic Water Energy SVE 3
+2 Double Colorless Energy SLG 69
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="oct23" class="deck_box">
@@ -1287,29 +1374,114 @@ Energy - 8
 
 <p class="jb-center"><strong>1st Place</strong><br />Guil - Banette ex / Omastar</p>
 
-**Pokémon - 13** 4 Shuppet SVI 87 3 Banette ex SVI 88 2 Banette ROS 32 2 Omanyte FO 52 2 Omastar TEU 76
-
-**Trainer Cards - 38** 4 Green's Exploration UNB 175 2 Guzma BUS 115 2 Professor's Research SVI 190 1 Faba LOT 173 1 Klara CRE 145 1 N FCO 105 4 Level Ball BST 129 4 VS Seeker PHF 109 3 Evolution Incense SSH 163 3 Pokégear 3.0 SVI 186 3 Surprise! Time Machine TRR 91 2 Professor's Letter BKT 146 1 Echoing Horn CRE 136 1 Luxury Ball SF 86 1 Windstorm CG 85 2 Muscle Band XY 121 2 Strange Cave LM 77 1 Computer Search BCR 137
-
-**Energy - 9** 4 Basic Psychic Energy SVE 5 4 Horror Psychic Energy RCL 172 1 Warp Point MD 88
+```decklist
+Pokémon - 13
+4 Shuppet SVI 87
+3 Banette ex SVI 88
+2 Banette ROS 32
+2 Omanyte FO 52
+2 Omastar TEU 76
+Trainer Cards - 38
+4 Green's Exploration UNB 175
+2 Guzma BUS 115
+2 Professor's Research SVI 190
+1 Faba LOT 173
+1 Klara CRE 145
+1 N FCO 105
+4 Level Ball BST 129
+4 VS Seeker PHF 109
+3 Evolution Incense SSH 163
+3 Pokégear 3.0 SVI 186
+3 Surprise! Time Machine TRR 91
+2 Professor's Letter BKT 146
+1 Echoing Horn CRE 136
+1 Luxury Ball SF 86
+1 Windstorm CG 85
+2 Muscle Band XY 121
+2 Strange Cave LM 77
+1 Computer Search BCR 137
+Energy - 9
+4 Basic Psychic Energy SVE 5
+4 Horror Psychic Energy RCL 172
+1 Warp Point MD 88
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place</strong><br />ThatUnlimitedProfessor - Weezing DX</p>
 
-**Pokémon - 20** 4 Koffing TRR 61 4 Pichu HS 28 4 Weezing DX 51 2 Ariados AOR 6 2 Skuntank G PL 94 1 Clefable JU 1 1 Clefairy BS 5 1 Ditto {\*} LOT 154 1 Spinarak AOR 5
-
-**Trainer Cards - 32** 3 Cynthia UPR 119 1 Colress PLS 118 1 Cyrus's Initiative SV 137 1 Guzma BUS 115 1 Iono PAL 185 1 N FCO 105 1 Steven's Advice PK 83 4 Level Ball BST 129 4 VS Seeker PHF 109 2 Professor Elm N1 96 1 Battle Compressor PHF 92 1 Eco Arm AOR 71 1 Luxury Ball SF 86 1 Rescue Stretcher GRI 130 4 Protection Cube FLF 95 3 Skyarrow Bridge NXD 91 1 Artazon PAL 171 1 Life Dew PLF 107
-
-**Energy - 8** 4 Recycle Energy UNM 212 4 Rescue Energy TM 90
+```decklist
+Pokémon - 20
+4 Koffing TRR 61
+4 Pichu HS 28
+4 Weezing DX 51
+2 Ariados AOR 6
+2 Skuntank G PL 94
+1 Clefable JU 1
+1 Clefairy BS 5
+1 Ditto {*} LOT 154
+1 Spinarak AOR 5
+Trainer Cards - 32
+3 Cynthia UPR 119
+1 Colress PLS 118
+1 Cyrus's Initiative SV 137
+1 Guzma BUS 115
+1 Iono PAL 185
+1 N FCO 105
+1 Steven's Advice PK 83
+4 Level Ball BST 129
+4 VS Seeker PHF 109
+2 Professor Elm N1
+96
+1 Battle Compressor PHF 92
+1 Eco Arm AOR 71
+1 Luxury Ball SF 86
+1 Rescue Stretcher GRI 130
+4 Protection Cube FLF 95
+3 Skyarrow Bridge NXD 91
+1 Artazon PAL 171
+1 Life Dew PLF 107
+Energy - 8
+4 Recycle Energy UNM 212
+4 Rescue Energy TM 90
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place</strong><br />Kaleidophoenix<strong><em> </em></strong>- Machamp</p>
 
-**Pokémon - 20** 4 Machoke GRI 64 4 Machop LOR 86 2 Baltoy SSH 101 2 Lunala CEL 15 2 Machamp LOR 88 2 Machamp SF 20 1 Azelf LA 19 1 Hisuian Decidueye V ASR 83 1 Hisuian Decidueye VSTAR ASR 84 1 Lapras LM 8
-
-**Trainer Cards - 32** 4 Korrina FFI 95 2 Guzma BUS 115 2 N FCO 105 1 Cheryl BST 123 1 Faba LOT 173 4 Level Ball BST 129 2 Rare Candy SVI 191 2 Ultra Ball SVI 196 2 VS Seeker PHF 109 1 Battle VIP Pass FST 225 1 Evolution Incense SSH 163 1 Quick Ball FST 237 1 Special Charge STS 105 1 Super Rod PAL 188 2 Float Stone BKT 137 1 Rock Chestplate SVI 192 3 Parallel City BKT 145 1 Computer Search BCR 137
+```decklist
+Pokémon - 20
+4 Machoke GRI 64
+4 Machop LOR 86
+2 Baltoy SSH 101
+2 Lunala CEL 15
+2 Machamp LOR 88
+2 Machamp SF 20
+1 Azelf LA 19
+1 Hisuian Decidueye V ASR 83
+1 Hisuian Decidueye VSTAR ASR 84
+1 Lapras LM 8
+Trainer Cards - 32
+4 Korrina FFI 95
+2 Guzma BUS 115
+2 N FCO 105
+1 Cheryl BST 123
+1 Faba LOT 173
+4 Level Ball BST 129
+2 Rare Candy SVI 191
+2 Ultra Ball SVI 196
+2 VS Seeker PHF 109
+1 Battle VIP Pass FST 225
+1 Evolution Incense SSH 163
+1 Quick Ball FST 237
+1 Special Charge STS 105
+1 Super Rod PAL 188
+2 Float Stone BKT 137
+1 Rock Chestplate SVI 192
+3 Parallel City BKT 145
+1 Computer Search BCR 137
+```
 
 Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
@@ -1317,11 +1489,44 @@ Energy - 8 4 Double Rainbow Energy CG 88 4 Strong Energy FCO 115
 
 <p class="jb-center"><strong>4th Place</strong><br />MysteriousPlayer - Charizard ex</p>
 
-**Pokémon - 19** 4 Charmander TEU 11 3 Charizard ex OBF 125 2 Baltoy SIT 93 2 Claydol GE 15 1 Azelf LA 19 1 Charmeleon GEN RC4 1 Ditto {\*} LOT 154 1 Jirachi RR 7 1 Lapras LM 8 1 Machoke GRI 64 1 Mew UNB 76 1 Shining Celebi PR-SM 79
-
-**Trainer Cards - 33** 1 AZ PHF 91 1 Colress PLS 118 1 Faba LOT 173 1 Guzma BUS 115 1 Iono PAL 185 1 Klara CRE 145 1 Marnie CPA 56 1 N FCO 105 1 Pokémon Collector HS 97 1 Professor Juniper PLB 84 1 Twins TM 89 4 Level Ball BST 129 4 Rare Candy SVI 191 4 Ultra Ball SVI 196 4 VS Seeker PHF 109 2 Evolution Incense SSH 163 1 Field Blower GRI 125 1 Luxury Ball SF 86 1 Ordinary Rod SSH 171 1 Computer Search BCR 137
-
-**Energy - 8** 8 Basic Fire Energy SVE 2
+```decklist
+Pokémon - 19
+4 Charmander TEU 11
+3 Charizard ex OBF 125
+2 Baltoy SIT 93
+2 Claydol GE 15
+1 Azelf LA 19
+1 Charmeleon GEN RC4
+1 Ditto {*} LOT 154
+1 Jirachi RR 7
+1 Lapras LM 8
+1 Machoke GRI 64
+1 Mew UNB 76
+1 Shining Celebi PR-SM 79
+Trainer Cards - 33
+1 AZ PHF 91
+1 Colress PLS 118
+1 Faba LOT 173
+1 Guzma BUS 115
+1 Iono PAL 185
+1 Klara CRE 145
+1 Marnie CPA 56
+1 N FCO 105
+1 Pokémon Collector HS 97
+1 Professor Juniper PLB 84
+1 Twins TM 89
+4 Level Ball BST 129
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+4 VS Seeker PHF 109
+2 Evolution Incense SSH 163
+1 Field Blower GRI 125
+1 Luxury Ball SF 86
+1 Ordinary Rod SSH 171
+1 Computer Search BCR 137
+Energy - 8
+8 Basic Fire Energy SVE 2
+```
 
 </div></div>
 
@@ -1836,31 +2041,92 @@ Energy - 8
 
 <p class="jb-center"><strong>1st Place</strong><br />JustInBasil - Thundurus / Flaaffy</p>
 
-**Pokémon - 17** 4 Flaaffy EVS 55 4 Mareep LOT 75 4 Thundurus UNM 68 3 Audino UNM 177 1 Mr. Mime GEN 52 1 Tornadus UNM 178
-
-**Trainer Cards - 34** 4 Professor Sycamore BKP 107 3 Bird Keeper DAA 159 2 Guzma BUS 115 4 Nest Ball SVI 181 4 Switch SVI 194 4 Ultra Ball SVI 196 3 Acro Bike CES 123 1 Ordinary Rod SSH 171 1 Rescue Stretcher GRI 130 3 Muscle Band XY 121 2 U-Turn Board UNM 211 3 Viridian Forest TEU 156
-
-**Energy - 9** 8 Lightning Energy SVE 4 1 Speed Lightning Energy RCL 173
+```decklist
+Pokémon - 17
+4 Flaaffy EVS 55
+4 Mareep LOT 75
+4 Thundurus UNM 68
+3 Audino UNM 177
+1 Mr. Mime GEN 52
+1 Tornadus UNM 178
+Trainer Cards - 34
+4 Professor Sycamore BKP 107
+3 Bird Keeper DAA 159
+2 Guzma BUS 115
+4 Nest Ball SVI 181
+4 Switch SVI 194
+4 Ultra Ball SVI 196
+3 Acro Bike CES 123
+1 Ordinary Rod SSH 171
+1 Rescue Stretcher GRI 130
+3 Muscle Band XY 121
+2 U-Turn Board UNM 211
+3 Viridian Forest TEU 156
+Energy - 9
+8 Lightning Energy SVE 4
+1 Speed Lightning Energy RCL 173
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place</strong><br />UNTOLDULTIMATUM - Poison Control</p>
 
-**Pokémon - 15** 3 Gastly UNB 68 3 Haunter GEN 34 3 Hisuian Overqwil ASR 90 3 Hisuian Qwilfish ASR 89 3 Spiritomb SLG 47
-
-**Trainer Cards - 35** 4 Bird Keeper DAA 159 3 Koga's Trap HIF 59 3 N FCO 105 2 Guzma BUS 115 4 Hypnotoxic Laser PLS 123 4 Switch SVI 194 3 Evolution Incense SSH 163 3 Nest Ball SVI 181 3 Rescue Stretcher GRI 130 2 VS Seeker PHF 109 2 Poison Barb SUM 124 2 Galar Mine RCL 160
-
-**Energy - 10** 4 Blend Energy GRPD DRX 117 4 Hiding Darkness Energy DAA 175 2 Horror Psychic Energy RCL 172
+```decklist
+Pokémon - 15
+3 Gastly UNB 68
+3 Haunter GEN 34
+3 Hisuian Overqwil ASR 90
+3 Hisuian Qwilfish ASR 89
+3 Spiritomb SLG 47
+Trainer Cards - 35
+4 Bird Keeper DAA 159
+3 Koga's Trap HIF 59
+3 N FCO 105
+2 Guzma BUS 115
+4 Hypnotoxic Laser PLS 123
+4 Switch SVI 194
+3 Evolution Incense SSH 163
+3 Nest Ball SVI 181
+3 Rescue Stretcher GRI 130
+2 VS Seeker PHF 109
+2 Poison Barb SUM 124
+2 Galar Mine RCL 160
+Energy - 10
+4 Blend Energy GRPD DRX 117
+4 Hiding Darkness Energy DAA 175
+2 Horror Psychic Energy RCL 172
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place</strong><br />Techster011 - Spread†</p>
 
-**Pokémon - 18** 4 Drizzile SSH 56 4 Koffing CEC 76 4 Sobble CRE 41 2 Mareep LOT 75 1 Mr. Mime GEN 52 1 Rotom SVI 70 1 Skwovet SVI 151 1 Tyrogue UNB 100
-
-**Trainer Cards - 37** 4 Roxie CEC 205 4 Hypnotoxic Laser PLS 123 4 Level Ball BST 129 4 Quick Ball FST 237 4 Rescue Carrier CRZ 142 4 Scoop Up Net RCL 165 4 VS Seeker PHF 109 2 Evolution Incense SSH 163 1 Hisuian Heavy Ball ASR 146 2 Float Stone BKT 137 4 Slumbering Forest UNM 207
-
-**Energy - 5** 4 Psychic Energy SVE 5 1 Recycle Energy UNM 212
+```decklist
+Pokémon - 18
+4 Drizzile SSH 56
+4 Koffing CEC 76
+4 Sobble CRE 41
+2 Mareep LOT 75
+1 Mr. Mime GEN 52
+1 Rotom SVI 70
+1 Skwovet SVI 151
+1 Tyrogue UNB 100
+Trainer Cards - 37
+4 Roxie CEC 205
+4 Hypnotoxic Laser PLS 123
+4 Level Ball BST 129
+4 Quick Ball FST 237
+4 Rescue Carrier CRZ 142
+4 Scoop Up Net RCL 165
+4 VS Seeker PHF 109
+2 Evolution Incense SSH 163
+1 Hisuian Heavy Ball ASR 146
+2 Float Stone BKT 137
+4 Slumbering Forest UNM 207
+Energy - 5
+4 Psychic Energy SVE 5
+1 Recycle Energy UNM 212
+```
 
 †This list represents the final list played after a game loss penalty was issued for an illegal deck list. The illegal list played 4 copies of Weezing CEC 77, a Rare card that has no Common or Uncommon print. Those cards were replaced with 4 copies of Basic Psychic Energy, as outlined in the [Illegal Deck Process](/formats/reporting) article.
 
@@ -1868,11 +2134,26 @@ Energy - 8
 
 <p class="jb-center"><strong>4th Place</strong><br />TandemTCG - Alolan Dugtrio</p>
 
-**Pokémon - 15** 4 Alolan Diglett SUM 86 4 Alolan Dugtrio UPR 79 3 Cutiefly BUS 95 3 Ribombee BUS 96 1 Mr. Mime GEN 52
-
-**Trainer Cards - 33** 4 Cynthia UPR 119 4 Professor Sycamore BKP 107 2 Professor Elm's Lecture LOT 188 4 Battle VIP Pass FST 225 4 Level Ball BST 129 4 Rescue Carrier CRZ 142 4 Superior Energy Retrieval PLF 103 3 Ultra Ball SVI 196 4 Mt. Coronet UPR 130
-
-**Energy - 12** 12 Metal Energy SVE 8
+```decklist
+Pokémon - 15
+4 Alolan Diglett SUM 86
+4 Alolan Dugtrio UPR 79
+3 Cutiefly BUS 95
+3 Ribombee BUS 96
+1 Mr. Mime GEN 52
+Trainer Cards - 33
+4 Cynthia UPR 119
+4 Professor Sycamore BKP 107
+2 Professor Elm's Lecture LOT 188
+4 Battle VIP Pass FST 225
+4 Level Ball BST 129
+4 Rescue Carrier CRZ 142
+4 Superior Energy Retrieval PLF 103
+3 Ultra Ball SVI 196
+4 Mt. Coronet UPR 130
+Energy - 12
+12 Metal Energy SVE 8
+```
 
 </div></div>
 
@@ -2773,31 +3054,92 @@ Energy - 0
 
 <p class="jb-center"><strong>1st Place</strong><br />Bunnybird - Togekiss VMAX</p>
 
-**Pokémon - 15** 4 Togekiss V VIV 140 4 Togekiss VMAX VIV 141 3 Snorlax VIV 131 1 Altaria ROS 74 1 Manaphy SLG 25 1 Shaymin-EX ROS 77 1 Swablu ROS 73
-
-**Trainer Cards - 36** 4 Cynthia UPR 119 4 Winona ROS 96 1 Cyrus {\*} UPR 120 1 Hugh BCR 130 1 Lillie UPR 125 4 Crushing Hammer SSH 159 4 Missing Clover UPR 129 4 Switch SSH 183 4 Trainers' Mail ROS 92 3 Moomoo Cheese VIV 156 2 Pokémon Catcher SSH 175 2 Ultra Ball BRS 150 1 Town Map BKT 150 1 Aspertia City Gym BCR 127
-
-**Energy - 9** 5 Water Energy SWSHEnergy 3 4 Double Colorless Energy SLG 69
+```decklist
+Pokémon - 15
+4 Togekiss V VIV 140
+4 Togekiss VMAX VIV 141
+3 Snorlax VIV 131
+1 Altaria ROS 74
+1 Manaphy SLG 25
+1 Shaymin-EX ROS 77
+1 Swablu ROS 73
+Trainer Cards - 36
+4 Cynthia UPR 119
+4 Winona ROS 96
+1 Cyrus {*} UPR 120
+1 Hugh BCR 130
+1 Lillie UPR 125
+4 Crushing Hammer SSH 159
+4 Missing Clover UPR 129
+4 Switch SSH 183
+4 Trainers' Mail ROS 92
+3 Moomoo Cheese VIV 156
+2 Pokémon Catcher SSH 175
+2 Ultra Ball BRS 150
+1 Town Map BKT 150
+1 Aspertia City Gym BCR 127
+Energy - 9
+5 Water Energy SWSHEnergy 3
+4 Double Colorless Energy SLG 69
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place</strong><br />Twitchy - Galarian Darmanitan VMAX</p>
 
-**Pokémon - 18** 4 Galarian Darmanitan V VIV 36 4 Squirtle BCR 29 3 Blastoise BCR 31 3 Galarian Darmanitan VMAX VIV 37 3 Wartortle BCR 30 1 Shaymin-EX ROS 77
-
-**Trainer Cards - 32** 4 Cynthia UPR 119 3 Nessa VIV 157 2 Allister VIV 146 2 Wally GEN RC27 1 Cyrus {\*} UPR 120 1 Skyla RCL 166 4 Great Ball CPA 52 4 Ultra Ball BRS 150 3 Pokémon Catcher SSH 175 3 Switch SSH 183 3 VS Seeker PHF 109 1 Poké Ball CPA 59 1 Wyndon Stadium VIV 161
-
-**Energy - 10** 10 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 18
+4 Galarian Darmanitan V VIV 36
+4 Squirtle BCR 29
+3 Blastoise BCR 31
+3 Galarian Darmanitan VMAX VIV 37
+3 Wartortle BCR 30
+1 Shaymin-EX ROS 77
+Trainer Cards - 32
+4 Cynthia UPR 119
+3 Nessa VIV 157
+2 Allister VIV 146
+2 Wally GEN RC27
+1 Cyrus {*} UPR 120
+1 Skyla RCL 166
+4 Great Ball CPA 52
+4 Ultra Ball BRS 150
+3 Pokémon Catcher SSH 175
+3 Switch SSH 183
+3 VS Seeker PHF 109
+1 Poké Ball CPA 59
+1 Wyndon Stadium VIV 161
+Energy - 10
+10 Water Energy SWSHEnergy 3
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place</strong><br />JustInBasil - Zoroark-GX / Garchomp</p>
 
-**Pokémon - 23** 4 Gabite UPR 98 4 Garchomp UPR 99 4 Gible UPR 96 4 Zorua SLG 52 3 Zoroark-GX SLG 53 2 Lucario UPR 67 2 Riolu UPR 66
-
-**Trainer Cards - 25** 4 Cynthia UPR 119 2 Lillie UPR 125 2 Wally ROS 94 4 Great Ball CPA 52 4 Switch SSH 183 4 Ultra Ball BRS 150 4 VS Seeker PHF 109 1 Computer Search BCR 137
-
-**Energy - 12** 4 Double Colorless Energy SLG 69 4 Double Dragon Energy ROS 97 4 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 23
+4 Gabite UPR 98
+4 Garchomp UPR 99
+4 Gible UPR 96
+4 Zorua SLG 52
+3 Zoroark-GX SLG 53
+2 Lucario UPR 67
+2 Riolu UPR 66
+Trainer Cards - 25
+4 Cynthia UPR 119
+2 Lillie UPR 125
+2 Wally ROS 94
+4 Great Ball CPA 52
+4 Switch SSH 183
+4 Ultra Ball BRS 150
+4 VS Seeker PHF 109
+1 Computer Search BCR 137
+Energy - 12
+4 Double Colorless Energy SLG 69
+4 Double Dragon Energy ROS 97
+4 Fighting Energy SWSHEnergy 6
+```
 
 </div><div class="jb-col-3"></div></div></div></div><div class="jb-code-container">
     <div id="aug22" class="deck_box">
@@ -2809,41 +3151,160 @@ Energy - 0
 
 <p class="jb-center"><strong>1st Place</strong><br />Guil - Rapid Strike Urshifu VMAX</p>
 
-**Pokémon - 12** 2 Baltoy AOR 32 2 Claydol GE 15 3 Rapid Strike Urshifu V BST 87 2 Rapid Strike Urshifu VMAX BST 88 1 Azelf LA 19 1 Darkrai-GX BUS 88 1 Lapras LM 8
-
-**Trainer Cards - 48** 4 Green's Exploration UNB 175 1 Faba LOT 173 1 Guzma BUS 115 1 Mr. Briney's Compassion DR 87 1 Raihan EVS 152 4 Poké Drawer + SF 89 4 VS Seeker PHF 109 3 Level Ball BST 129 2 Float Stone BKT 137 2 Supereffective Glasses ASR 152 2 Ultra Ball BRS 150 2 Warp Point G2 126 1 Battle VIP Pass FST 225 1 Hypnotoxic Laser PLS 123 1 Luxury Ball SF 86 1 Ordinary Rod SSH 171 1 Professor's Letter BKT 146 1 Quick Ball FST 237 1 Windstorm CG 85 3 Silent Lab PRC 140 1 Computer Search BCR 137
-
-**Energy - 10** 4 Darkness Energy SWSHEnergy 7 4 Rapid Strike Energy BST 140 2 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 12
+2 Baltoy AOR 32
+2 Claydol GE 15
+3 Rapid Strike Urshifu V BST 87
+2 Rapid Strike Urshifu VMAX BST 88
+1 Azelf LA 19
+1 Darkrai-GX BUS 88
+1 Lapras LM 8
+Trainer Cards - 48
+4 Green's Exploration UNB 175
+1 Faba LOT 173
+1 Guzma BUS 115
+1 Mr. Briney's Compassion DR 87
+1 Raihan EVS 152
+4 Poké Drawer + SF 89
+4 VS Seeker PHF 109
+3 Level Ball BST 129
+2 Float Stone BKT 137
+2 Supereffective Glasses ASR 152
+2 Ultra Ball BRS 150
+2 Warp Point G2
+126
+1 Battle VIP Pass FST 225
+1 Hypnotoxic Laser PLS 123
+1 Luxury Ball SF 86
+1 Ordinary Rod SSH 171
+1 Professor's Letter BKT 146
+1 Quick Ball FST 237
+1 Windstorm CG 85
+3 Silent Lab PRC 140
+1 Computer Search BCR 137
+Energy - 10
+4 Darkness Energy SWSHEnergy 7
+4 Rapid Strike Energy BST 140
+2 Fighting Energy SWSHEnergy 6
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place</strong><br />Sleight - Arceus VSTAR Control</p>
 
-**Pokémon - 23** 4 Arceus V BRS 122 3 Arceus VSTAR BRS 123 2 Baltoy AOR 32 2 Claydol GE 15 2 Oddish UNB 5 2 Vileplume AOR 3 1 Azelf LA 19 1 Blacephalon-GX LOT 52 1 Crobat V DAA 104 1 Duskull CEC 83 1 Dusclops VIV 70 1 Dusknoir VIV 71 1 Lapras LM 8 1 Unown Q MD 49
-
-**Trainer Cards - 26** 4 Pokémon Collector HS 97 3 Guzma BUS 115 3 Trevor PR-XY 33 2 Cynthia & Caitlin CEC 189 2 Mr. Briney's Compassion DR 87 1 N FCO 105 1 Welder UNB 189 4 Pokémon Communication TEU 152 2 Rare Candy SSH 180 1 Luxury Ball SF 86 2 Chaotic Swell CEC 187 1 Computer Search BCR 137
-
-**Energy - 11** 7 Fire Energy SWSHEnergy 2 2 Capture Energy RCL 171 2 Double Colorless Energy SLG 69
+```decklist
+Pokémon - 23
+4 Arceus V BRS 122
+3 Arceus VSTAR BRS 123
+2 Baltoy AOR 32
+2 Claydol GE 15
+2 Oddish UNB 5
+2 Vileplume AOR 3
+1 Azelf LA 19
+1 Blacephalon-GX LOT 52
+1 Crobat V DAA 104
+1 Duskull CEC 83
+1 Dusclops VIV 70
+1 Dusknoir VIV 71
+1 Lapras LM 8
+1 Unown Q MD 49
+Trainer Cards - 26
+4 Pokémon Collector HS 97
+3 Guzma BUS 115
+3 Trevor PR-XY 33
+2 Cynthia & Caitlin CEC 189
+2 Mr. Briney's Compassion DR 87
+1 N FCO 105
+1 Welder UNB 189
+4 Pokémon Communication TEU 152
+2 Rare Candy SSH 180
+1 Luxury Ball SF 86
+2 Chaotic Swell CEC 187
+1 Computer Search BCR 137
+Energy - 11
+7 Fire Energy SWSHEnergy 2
+2 Capture Energy RCL 171
+2 Double Colorless Energy SLG 69
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place</strong><br />David Hochmann - Shock Lock</p>
 
-**Pokémon - 29** 4 Spheal LM 65 3 Sealeo LM 43 2 Baltoy AOR 32 2 Claydol GE 15 2 Holon's Voltorb DS 71 2 Mew TM 97 2 Raichu BUS 41 2 Pikachu PR-SM 4 2 Walrein ex PK 99 1 Azelf LA 19 1 Celebi {\*} LOT 19 1 Ditto {\*} LOT 154 1 Feebas EM 49 1 Lapras LM 8 1 Milotic PRC 44 1 Pichu HS 28 1 Unown Q MD 49
-
-**Trainer Cards - 30** 4 Cynthia UPR 119 3 Pokémon Collector HS 97 2 Twins TM 89 1 Green's Exploration UNB 175 1 Mr. Briney's Compassion DR 87 1 Ninja Boy STS 103 1 Peonia CRE 149 1 Team Rocket's Handiwork FCO 112 4 Level Ball BST 129 2 Field Blower GRI 125 2 Ultra Ball BRS 150 2 VS Seeker PHF 109 1 Evolution Incense SSH 163 1 Rescue Carrier EVS 154 1 Rescue Stretcher GRI 130 1 Luxury Ball SF 86 1 Dimension Valley PHF 93 1 Computer Search BCR 137
-
-**Energy - 1** 1 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 29
+4 Spheal LM 65
+3 Sealeo LM 43
+2 Baltoy AOR 32
+2 Claydol GE 15
+2 Holon's Voltorb DS 71
+2 Mew TM 97
+2 Raichu BUS 41
+2 Pikachu PR-SM 4
+2 Walrein ex PK 99
+1 Azelf LA 19
+1 Celebi {*} LOT 19
+1 Ditto {*} LOT 154
+1 Feebas EM 49
+1 Lapras LM 8
+1 Milotic PRC 44
+1 Pichu HS 28
+1 Unown Q MD 49
+Trainer Cards - 30
+4 Cynthia UPR 119
+3 Pokémon Collector HS 97
+2 Twins TM 89
+1 Green's Exploration UNB 175
+1 Mr. Briney's Compassion DR 87
+1 Ninja Boy STS 103
+1 Peonia CRE 149
+1 Team Rocket's Handiwork FCO 112
+4 Level Ball BST 129
+2 Field Blower GRI 125
+2 Ultra Ball BRS 150
+2 VS Seeker PHF 109
+1 Evolution Incense SSH 163
+1 Rescue Carrier EVS 154
+1 Rescue Stretcher GRI 130
+1 Luxury Ball SF 86
+1 Dimension Valley PHF 93
+1 Computer Search BCR 137
+Energy - 1
+1 Lightning Energy SWSHEnergy 4
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>4th Place</strong><br />CursolaTCG - Celebi Mill</p>
 
-**Pokémon - 4** 4 Celebi PR-XY 93
-
-**Trainer Cards - 49** 4 N FCO 105 4 Team Rocket's Handiwork FCO 112 4 Cram-o-Matic FST 229 4 Crushing Hammer SSH 159 4 Rescue Carrier EVS 154 3 Battle VIP Pass FST 225 3 Cursed Shovel RCL 157 3 Lillie's Poké Doll CEC 197 3 VS Seeker PHF 109 2 Eco Arm AOR 71 2 Enhanced Hammer GRI 124 2 Hisuian Heavy Ball ASR 146 2 Hypnotoxic Laser PLS 123 2 Nest Ball SUM 123 2 Pokégear 3.0 SSH 174 2 Yell Horn DAA 173 1 Galar Mine RCL 160 1 Wondrous Labyrinth {\*} TEU 158 1 Life Dew PLF 107
-
-**Energy - 7** 4 Capture Energy RCL 171 3 Aromatic Grass Energy VIV 162
+```decklist
+Pokémon - 4
+4 Celebi PR-XY 93
+Trainer Cards - 49
+4 N FCO 105
+4 Team Rocket's Handiwork FCO 112
+4 Cram-o-Matic FST 229
+4 Crushing Hammer SSH 159
+4 Rescue Carrier EVS 154
+3 Battle VIP Pass FST 225
+3 Cursed Shovel RCL 157
+3 Lillie's Poké Doll CEC 197
+3 VS Seeker PHF 109
+2 Eco Arm AOR 71
+2 Enhanced Hammer GRI 124
+2 Hisuian Heavy Ball ASR 146
+2 Hypnotoxic Laser PLS 123
+2 Nest Ball SUM 123
+2 Pokégear 3.0 SSH 174
+2 Yell Horn DAA 173
+1 Galar Mine RCL 160
+1 Wondrous Labyrinth {*} TEU 158
+1 Life Dew PLF 107
+Energy - 7
+4 Capture Energy RCL 171
+3 Aromatic Grass Energy VIV 162
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="jul22" class="deck_box">
@@ -2855,27 +3316,111 @@ Energy - 0
 
 <p class="jb-center"><strong>1st Place<br /></strong>Mysterious Player - Ultra Necrozma</p>
 
-**Pokémon - 16** 4 Ultra Necrozma CEC 164 2 Baltoy AOR 32 2 Claydol GE 15 2 Trubbish PLS 63 2 Garbodor DRX 54 1 Azelf LA 19 1 Tapu Lele-GX GRI 60 1 Unown G GE 57 1 Unown Q MD 49
-
-**Trainer Cards - 40** 2 Guzma BUS 115 2 Guzma & Hala CEC 193 2 Professor Juniper PLB 84 2 Professor Oak's New Theory HS 101 1 Marnie CPA 56 1 N FCO 105 1 Pokémon Collector HS 97 1 Steven's Advice HL 92 4 Mysterious Treasure FLI 113 4 Ultra Ball BRS 150 2 Field Blower GRI 125 2 Float Stone BKT 137 2 Quick Ball FST 237 2 Rescue Stretcher GRI 130 2 Special Charge STS 105 2 VS Seeker PHF 109 1 Level Ball BST 129 1 Luxury Ball SF 86 4 Silent Lab PRC 140 1 Space Center DX 91 1 Computer Search BCR 137
-
-**Energy - 4** 4 Double Dragon Energy ROS 97
+```decklist
+Pokémon - 16
+4 Ultra Necrozma CEC 164
+2 Baltoy AOR 32
+2 Claydol GE 15
+2 Trubbish PLS 63
+2 Garbodor DRX 54
+1 Azelf LA 19
+1 Tapu Lele-GX GRI 60
+1 Unown G GE 57
+1 Unown Q MD 49
+Trainer Cards - 40
+2 Guzma BUS 115
+2 Guzma & Hala CEC 193
+2 Professor Juniper PLB 84
+2 Professor Oak's New Theory HS 101
+1 Marnie CPA 56
+1 N FCO 105
+1 Pokémon Collector HS 97
+1 Steven's Advice HL 92
+4 Mysterious Treasure FLI 113
+4 Ultra Ball BRS 150
+2 Field Blower GRI 125
+2 Float Stone BKT 137
+2 Quick Ball FST 237
+2 Rescue Stretcher GRI 130
+2 Special Charge STS 105
+2 VS Seeker PHF 109
+1 Level Ball BST 129
+1 Luxury Ball SF 86
+4 Silent Lab PRC 140
+1 Space Center DX 91
+1 Computer Search BCR 137
+Energy - 4
+4 Double Dragon Energy ROS 97
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place<br /></strong>Sleight - Sylveon VMAX</p>
 
-**Pokémon - 18** 3 Sylveon V EVS 74 2 Sylveon VMAX EVS 75 2 Kecleon RR 67 1 Azelf LA 19 1 Baltoy AOR 32 1 Claydol GE 15 1 Crobat V DAA 104 1 Dusknoir VIV 71 1 Oricorio GRI 55 1 Phione CEC 57 1 Shadow Rider Calyrex V CRE 74 1 Spiritomb AR 32 1 Tapu Lele-GX GRI 60 1 Unown Q MD 49
-
-**Trainer Cards - 35** 4 Pokémon Collector HS 97 2 Guzma BUS 115 1 Colress PLS 118 1 Guzma & Hala CEC 193 1 Klara CRE 145 1 Mr. Briney's Compassion DR 87 1 N FCO 105 1 Pokémon Breeder's Nurturing DAA 166 1 Professor's Research BRS 147 1 Rose DAA 168 4 Mysterious Treasure FLI 113 4 Rocket's Sneak Attack TR 16 2 Field Blower GRI 125 2 VS Seeker PHF 109 1 Dream Ball EVS 146 1 Luxury Ball SF 86 1 Muscle Band XY 121 1 Ribbon Badge EVS 155 4 Moonlight Stadium GE 100 1 Computer Search BCR 137
-
-**Energy - 7** 4 Triple Acceleration Energy UNB 190 3 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 18
+3 Sylveon V EVS 74
+2 Sylveon VMAX EVS 75
+2 Kecleon RR 67
+1 Azelf LA 19
+1 Baltoy AOR 32
+1 Claydol GE 15
+1 Crobat V DAA 104
+1 Dusknoir VIV 71
+1 Oricorio GRI 55
+1 Phione CEC 57
+1 Shadow Rider Calyrex V CRE 74
+1 Spiritomb AR 32
+1 Tapu Lele-GX GRI 60
+1 Unown Q MD 49
+Trainer Cards - 35
+4 Pokémon Collector HS 97
+2 Guzma BUS 115
+1 Colress PLS 118
+1 Guzma & Hala CEC 193
+1 Klara CRE 145
+1 Mr. Briney's Compassion DR 87
+1 N FCO 105
+1 Pokémon Breeder's Nurturing DAA 166
+1 Professor's Research BRS 147
+1 Rose DAA 168
+4 Mysterious Treasure FLI 113
+4 Rocket's Sneak Attack TR 16
+2 Field Blower GRI 125
+2 VS Seeker PHF 109
+1 Dream Ball EVS 146
+1 Luxury Ball SF 86
+1 Muscle Band XY 121
+1 Ribbon Badge EVS 155
+4 Moonlight Stadium GE 100
+1 Computer Search BCR 137
+Energy - 7
+4 Triple Acceleration Energy UNB 190
+3 Psychic Energy SWSHEnergy 5
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place<br /></strong>Willyazaa - Sylveon VMAX</p>
 
-**Pokémon - 22** 3 Sylveon V EVS 74 3 Sylveon VMAX EVS 75 2 Baltoy AOR 32 2 Claydol GE 15 2 Kecleon RR 67 1 Azelf LA 19 1 Jirachi {\*} CES 97 1 Mr. Mime PLF 47 1 Spiritomb AR 32 1 Tapu Lele-GX GRI 60 1 Trubbish NVI 48 1 Garbodor BKP 57 1 Unown Q MD 49 1 Unown G GE 57 1 Wobbuffet PHF 36
+```decklist
+Pokémon - 22
+3 Sylveon V EVS 74
+3 Sylveon VMAX EVS 75
+2 Baltoy AOR 32
+2 Claydol GE 15
+2 Kecleon RR 67
+1 Azelf LA 19
+1 Jirachi {*} CES 97
+1 Mr. Mime PLF 47
+1 Spiritomb AR 32
+1 Tapu Lele-GX GRI 60
+1 Trubbish NVI 48
+1 Garbodor BKP 57
+1 Unown Q MD 49
+1 Unown G GE 57
+1 Wobbuffet PHF 36
+```
 
 <strong>Trainer Cards -</strong> **31** 4 Pokémon Collector HS 97 3 Bebe's Search MT 109 3 N FCO 105 2 Guzma BUS 115 2 Guzma & Hala CEC 193 1 Mr. Briney's Compassion DR 87 1 Peonia CRE 149 1 Professor's Research BRS 147 3 Mysterious Treasure FLI 113 2 Field Blower GRI 125 1 Float Stone BKT 137 1 Level Ball BST 129 1 Luxury Ball SF 86 1 Rescue Stretcher GRI 130 1 VS Seeker PHF 109 3 Moonlight Stadium GE 100 1 Computer Search BCR 137
 
@@ -2885,11 +3430,36 @@ Energy - 0
 
 <p class="jb-center"><strong>4th Place<br /></strong>Jake Gearhart - Holon Circle Lock</p>
 
-**Pokémon - 21** 4 Spiritomb AR 32 3 Baltoy AOR 32 2 Claydol GE 15 3 Psyduck SW 100 3 Golduck HP 43 2 Dawn Wings Necrozma-GX UPR 63 1 Regirock PR-XY 49 1 Skuntank G PL 94 1 Unown G GE 57 1 Unown Q MD 49
-
-**Trainer Cards - 33** 4 N NVI 92 4 Professor Oak's New Theory HS 101 3 Lusamine CIN 96 3 Pokémon Collector HS 97 2 Scott EM 84 4 Level Ball BST 129 3 Float Stone PLF 99 2 Quick Ball FST 237 1 Hisuian Heavy Ball ASR 146 1 Luxury Ball SF 86 1 Rescue Stretcher GRI 130 4 Holon Circle CG 79 1 Computer Search BCR 137
-
-**Energy - 6** 4 Call Energy MD 92 2 Recycle Energy UNM 212
+```decklist
+Pokémon - 21
+4 Spiritomb AR 32
+3 Baltoy AOR 32
+2 Claydol GE 15
+3 Psyduck SW 100
+3 Golduck HP 43
+2 Dawn Wings Necrozma-GX UPR 63
+1 Regirock PR-XY 49
+1 Skuntank G PL 94
+1 Unown G GE 57
+1 Unown Q MD 49
+Trainer Cards - 33
+4 N NVI 92
+4 Professor Oak's New Theory HS 101
+3 Lusamine CIN 96
+3 Pokémon Collector HS 97
+2 Scott EM 84
+4 Level Ball BST 129
+3 Float Stone PLF 99
+2 Quick Ball FST 237
+1 Hisuian Heavy Ball ASR 146
+1 Luxury Ball SF 86
+1 Rescue Stretcher GRI 130
+4 Holon Circle CG 79
+1 Computer Search BCR 137
+Energy - 6
+4 Call Energy MD 92
+2 Recycle Energy UNM 212
+```
 
 </div></div><div class="jb-code-container">
     <div id="jun22" class="deck_box">
@@ -2902,11 +3472,31 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12 - Zeraora/Eelektrik</p>
 
-**Pokémon - 16** 4 Eelektrik NVI 40 4 Tynamo NVI 39 4 Zeraora UNB 60 2 Audino UNM 177 2 Lugia DAA 140
-
-**Trainer Cards - 35** 4 Professor Sycamore BKP 107 2 Bird Keeper DAA 159 2 Cynthia UPR 119 2 Guzma BUS 115 4 Level Ball BST 129 4 Nest Ball SUM 123 3 Muscle Band XY 121 3 Ultra Ball BRS 150 2 Acro Bike CES 123 2 Switch SSH 183 2 U-Turn Board UNM 211 1 Ordinary Rod SSH 171 1 Rescue Stretcher GRI 130 3 Viridian Forest TEU 156
-
-**Energy - 9** 9 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 16
+4 Eelektrik NVI 40
+4 Tynamo NVI 39
+4 Zeraora UNB 60
+2 Audino UNM 177
+2 Lugia DAA 140
+Trainer Cards - 35
+4 Professor Sycamore BKP 107
+2 Bird Keeper DAA 159
+2 Cynthia UPR 119
+2 Guzma BUS 115
+4 Level Ball BST 129
+4 Nest Ball SUM 123
+3 Muscle Band XY 121
+3 Ultra Ball BRS 150
+2 Acro Bike CES 123
+2 Switch SSH 183
+2 U-Turn Board UNM 211
+1 Ordinary Rod SSH 171
+1 Rescue Stretcher GRI 130
+3 Viridian Forest TEU 156
+Energy - 9
+9 Lightning Energy SWSHEnergy 4
+```
 
 </div><div class="jb-col-3">
 
@@ -2914,11 +3504,29 @@ Energy - 0
 
 <p class="jb-center">CursolaTCG - Empoleon CEC</p>
 
-**Pokémon - 17** 4 Piplup CEC 54 4 Prinplup CEC 55 4 Empoleon CEC 56 2 Abomasnow UPR 38 2 Snover UPR 37 1 Phione CEC 57
-
-**Trainer Cards - 30** 4 N FCO 105 4 Wally ROS 94 4 Aqua Patch GRI 119 4 Evolution Incense SSH 163 4 Level Ball BST 129 3 Switch SSH 183 2 Capacious Bucket RCL 156 2 Ordinary Rod SSH 171 1 Pal Pad SSH 172 2 Brooklet Hill GRI 120
-
-**Energy - 13** 9 Water Energy SWSHEnergy 3 4 Draw Energy CEC 209
+```decklist
+Pokémon - 17
+4 Piplup CEC 54
+4 Prinplup CEC 55
+4 Empoleon CEC 56
+2 Abomasnow UPR 38
+2 Snover UPR 37
+1 Phione CEC 57
+Trainer Cards - 30
+4 N FCO 105
+4 Wally ROS 94
+4 Aqua Patch GRI 119
+4 Evolution Incense SSH 163
+4 Level Ball BST 129
+3 Switch SSH 183
+2 Capacious Bucket RCL 156
+2 Ordinary Rod SSH 171
+1 Pal Pad SSH 172
+2 Brooklet Hill GRI 120
+Energy - 13
+9 Water Energy SWSHEnergy 3
+4 Draw Energy CEC 209
+```
 
 </div><div class="jb-col-3">
 
@@ -2926,11 +3534,30 @@ Energy - 0
 
 <p class="jb-center">TandemTCG - Turtonator</p>
 
-**Pokémon - 8** 4 Turtonator DRM 50 2 Naganadel LOT 108 2 Poipole LOT 107
-
-**Trainer Cards - 39** 4 Welder UNB 189 4 Acro Bike CES 123 4 Energy Retrieval SSH 160 4 Fiery Torch FLF 89 4 Pokégear 3.0 SSH 174 4 Professor's Letter BKT 146 4 Trainers' Mail ROS 92 2 Exp. Share BST 126 2 Muscle Band XY 121 1 Heavy Ball BKT 140 1 Nest Ball SUM 123 1 Ordinary Rod SSH 171 1 Pal Pad SSH 172 1 Ultra Ball BRS 150 2 Scorched Earth FCO 110
-
-**Energy - 13** 13 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 8
+4 Turtonator DRM 50
+2 Naganadel LOT 108
+2 Poipole LOT 107
+Trainer Cards - 39
+4 Welder UNB 189
+4 Acro Bike CES 123
+4 Energy Retrieval SSH 160
+4 Fiery Torch FLF 89
+4 Pokégear 3.0 SSH 174
+4 Professor's Letter BKT 146
+4 Trainers' Mail ROS 92
+2 Exp. Share BST 126
+2 Muscle Band XY 121
+1 Heavy Ball BKT 140
+1 Nest Ball SUM 123
+1 Ordinary Rod SSH 171
+1 Pal Pad SSH 172
+1 Ultra Ball BRS 150
+2 Scorched Earth FCO 110
+Energy - 13
+13 Fire Energy SWSHEnergy 2
+```
 
 </div><div class="jb-col-3">
 
@@ -2938,11 +3565,29 @@ Energy - 0
 
 <p class="jb-center">Twitchy - Duraludon</p>
 
-**Pokémon - 12** 4 Duraludon RCL 138 3 Dhelmise GRI 59 3 Minccino SSH 146 2 Cinccino SSH 147
-
-**Trainer Cards - 37** 3 N FCO 105 3 Professor's Research BRS 147 2 Boss's Orders BRS 132 2 Guzma BUS 115 2 Professor Kukui SUM 128 4 Max Elixir BKP 102 4 Metal Saucer SSH 170 4 Nest Ball SUM 123 4 Switch SSH 183 3 Muscle Band XY 121 3 Trainers' Mail ROS 92 2 Ultra Ball BRS 150 1 Super Rod BKT 149
-
-**Energy - 11** 11 Metal Energy SWSHEnergy 8
+```decklist
+Pokémon - 12
+4 Duraludon RCL 138
+3 Dhelmise GRI 59
+3 Minccino SSH 146
+2 Cinccino SSH 147
+Trainer Cards - 37
+3 N FCO 105
+3 Professor's Research BRS 147
+2 Boss's Orders BRS 132
+2 Guzma BUS 115
+2 Professor Kukui SUM 128
+4 Max Elixir BKP 102
+4 Metal Saucer SSH 170
+4 Nest Ball SUM 123
+4 Switch SSH 183
+3 Muscle Band XY 121
+3 Trainers' Mail ROS 92
+2 Ultra Ball BRS 150
+1 Super Rod BKT 149
+Energy - 11
+11 Metal Energy SWSHEnergy 8
+```
 
 </div></div><div class="jb-code-container">
     <div id="may22" class="deck_box">
@@ -2955,11 +3600,49 @@ Energy - 0
 
 <p class="jb-center">Twitchy - Zoroark/Malamar</p>
 
-**Pokémon - 16** 4 Inkay JIB1 96 4 Malamar JIB1 97 3 Zorua JIB1 94 3 Zoroark JIB1 95 2 Alolan Sandshrew JIB1 99
-
-**Trainer Cards - 35** 4 Champion's Triumph JIB1 128 3 Boss's Orders JIB1 127 2 Plumeria JIB1 137 2 Roseanne's Research JIB1 145 2 Teammates JIB1 152 4 Super Scoop Up JIB1 149 3 Level Ball JIB1 133 3 Ultra Ball JIB1 154 2 Escape Rope JIB1 131 2 Field Blower JIB1 132 2 Ordinary Rod JIB1 136 2 Pow! Hand Extension JIB1 139 2 Rescue Stretcher JIB1 144 2 Trainers' Mail JIB1 153
-
-**Energy - 9** 5 Darkness Energy JIBP 9 4 Twin Energy JIB1 160
+```decklist
+Pokémon - 16
+4 Inkay JIB1
+96
+4 Malamar JIB1
+97
+3 Zorua JIB1
+94
+3 Zoroark JIB1
+95
+2 Alolan Sandshrew JIB1 99
+Trainer Cards - 35
+4 Champion's Triumph JIB1
+128
+3 Boss's Orders JIB1
+127
+2 Plumeria JIB1
+137
+2 Roseanne's Research JIB1
+145
+2 Teammates JIB1
+152
+4 Super Scoop Up JIB1
+149
+3 Level Ball JIB1
+133
+3 Ultra Ball JIB1
+154
+2 Escape Rope JIB1
+131
+2 Field Blower JIB1
+132
+2 Ordinary Rod JIB1
+136
+2 Pow! Hand Extension JIB1
+139
+2 Rescue Stretcher JIB1
+144
+2 Trainers' Mail JIB1 153
+Energy - 9
+5 Darkness Energy JIBP 9
+4 Twin Energy JIB1 160
+```
 
 </div><div class="jb-col-3">
 
@@ -2967,11 +3650,48 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12 - Zoroark/Gyarados</p>
 
-**Pokémon - 27** 4 Cryogonal JIB1 41 4 Emolga JIB1 56 4 Magikarp JIB1 31 4 Gyarados JIB1 32 4 Zorua JIB1 94 4 Zoroark JIB1 95 2 Absol JIB1 92 1 Sableye JIB1 91
-
-**Trainer Cards - 25** 3 N JIBP 2 3 Roseanne's Research JIB1 145 1 Boss's Orders JIB1 127 1 Champion's Triumph JIB1 128 1 Lorelei JIBP 11 4 Level Ball JIB1 133 4 Ultra Ball JIB1 154 2 Rescue Stretcher JIB1 144 2 VS Seeker JIB1 156 1 Silver Bangle JIB1 147 3 Safari Zone JIB1 146
-
-**Energy - 8** 4 Counter Energy JIB1 159 4 Twin Energy JIB1 160
+```decklist
+Pokémon - 27
+4 Cryogonal JIB1
+41
+4 Emolga JIB1
+56
+4 Magikarp JIB1
+31
+4 Gyarados JIB1
+32
+4 Zorua JIB1
+94
+4 Zoroark JIB1
+95
+2 Absol JIB1
+92
+1 Sableye JIB1 91
+Trainer Cards - 25
+3 N JIBP 2
+3 Roseanne's Research JIB1
+145
+1 Boss's Orders JIB1
+127
+1 Champion's Triumph JIB1
+128
+1 Lorelei JIBP 11
+4 Level Ball JIB1
+133
+4 Ultra Ball JIB1
+154
+2 Rescue Stretcher JIB1
+144
+2 VS Seeker JIB1
+156
+1 Silver Bangle JIB1
+147
+3 Safari Zone JIB1 146
+Energy - 8
+4 Counter Energy JIB1
+159
+4 Twin Energy JIB1 160
+```
 
 </div><div class="jb-col-3">
 
@@ -2979,11 +3699,45 @@ Energy - 0
 
 <p class="jb-center">TandemTCG - Zoroark/Scizor</p>
 
-**Pokémon - 22** 4 Gastly JIB1 60 4 Haunter JIB1 61 4 Scyther JIB1 7 4 Scizor JIB1 104 3 Zorua JIB1 94 3 Zoroark JIB1 95
-
-**Trainer Cards - 29** 4 Lillie JIBP 1 4 Lorelei JIBP 11 2 Boss's Orders JIB1 127 1 Plumeria JIB1 137 4 Level Ball JIB1 133 4 Ultra Ball JIB1 154 3 Pow! Hand Extension JIB1 139 2 Silver Bangle JIB1 147 2 Switch JIB1 150 1 Ordinary Rod JIB1 136 2 Viridian Forest JIB1 155
-
-**Energy - 9** 4 Metal Energy JIBP 10 4 Twin Energy JIB1 160 1 Aurora Energy JIB1 158
+```decklist
+Pokémon - 22
+4 Gastly JIB1
+60
+4 Haunter JIB1
+61
+4 Scyther JIB1
+7
+4 Scizor JIB1
+104
+3 Zorua JIB1
+94
+3 Zoroark JIB1 95
+Trainer Cards - 29
+4 Lillie JIBP 1
+4 Lorelei JIBP 11
+2 Boss's Orders JIB1
+127
+1 Plumeria JIB1
+137
+4 Level Ball JIB1
+133
+4 Ultra Ball JIB1
+154
+3 Pow! Hand Extension JIB1
+139
+2 Silver Bangle JIB1
+147
+2 Switch JIB1
+150
+1 Ordinary Rod JIB1
+136
+2 Viridian Forest JIB1 155
+Energy - 9
+4 Metal Energy JIBP 10
+4 Twin Energy JIB1
+160
+1 Aurora Energy JIB1 158
+```
 
 </div><div class="jb-col-3">
 
@@ -2991,11 +3745,45 @@ Energy - 0
 
 <p class="jb-center">CursolaTCG - Zoroark/Gyarados</p>
 
-**Pokémon - 24** 4 Cryogonal JIB1 41 4 Gyarados JIB1 32 4 Magikarp JIB1 31 3 Gastly JIB1 60 3 Zoroark JIB1 95 3 Zorua JIB1 94 2 Skarmory JIB1 105 1 Falinks JIB1 84
-
-**Trainer Cards - 27** 4 Champion's Triumph JIB1 128 3 Boss's Orders JIB1 127 4 Switch JIB1 150 4 Ultra Ball JIB1 154 3 Ordinary Rod JIB1 136 3 Trainers' Mail JIB1 153 2 Level Ball JIB1 133 2 Rescue Stretcher JIB1 144 2 Viridian Forest JIB1 155
-
-**Energy - 9** 5 Water Energy JIBP 5 4 Twin Energy JIB1 160
+```decklist
+Pokémon - 24
+4 Cryogonal JIB1
+41
+4 Gyarados JIB1
+32
+4 Magikarp JIB1
+31
+3 Gastly JIB1
+60
+3 Zoroark JIB1
+95
+3 Zorua JIB1
+94
+2 Skarmory JIB1
+105
+1 Falinks JIB1 84
+Trainer Cards - 27
+4 Champion's Triumph JIB1
+128
+3 Boss's Orders JIB1
+127
+4 Switch JIB1
+150
+4 Ultra Ball JIB1
+154
+3 Ordinary Rod JIB1
+136
+3 Trainers' Mail JIB1
+153
+2 Level Ball JIB1
+133
+2 Rescue Stretcher JIB1
+144
+2 Viridian Forest JIB1 155
+Energy - 9
+5 Water Energy JIBP 5
+4 Twin Energy JIB1 160
+```
 
 </div></div><div class="jb-code-container">
     <div id="apr22" class="deck_box">
@@ -3009,11 +3797,28 @@ Energy - 0
 
 <p class="jb-center">Willschoeff - Zacian V / Copperajah</p>
 
-**Pokémon - 16** 4 Zacian V SSH 138 3 Cinccino SSH 147 3 Minccino SSH 145 2 Copperajah SSH 137 2 Cufant SSH 136 2 Tapu Lele-GX GRi 60
-
-**Trainer Cards - 32** 4 Marnie CPA 56 4 Professor's Research CEL 23 3 Lysandre AOR 78 2 Hex Maniac AOR 75 4 Evolution Incense SSH 163 4 Metal Saucer SSH 170 4 Quick Ball FST 237 3 Air Balloon SSH 156 2 Switch SSH 183 2 Altar of the Sunne GRI 118
-
-**Energy - 12** 12 Metal Energy SWSHEnergy 8
+```decklist
+Pokémon - 16
+4 Zacian V SSH 138
+3 Cinccino SSH 147
+3 Minccino SSH 145
+2 Copperajah SSH 137
+2 Cufant SSH 136
+2 Tapu Lele-GX GRi 60
+Trainer Cards - 32
+4 Marnie CPA 56
+4 Professor's Research CEL 23
+3 Lysandre AOR 78
+2 Hex Maniac AOR 75
+4 Evolution Incense SSH 163
+4 Metal Saucer SSH 170
+4 Quick Ball FST 237
+3 Air Balloon SSH 156
+2 Switch SSH 183
+2 Altar of the Sunne GRI 118
+Energy - 12
+12 Metal Energy SWSHEnergy 8
+```
 
 </div><div class="jb-col-3">
 
@@ -3021,11 +3826,35 @@ Energy - 0
 
 <p class="jb-center">Sarbear2890 - Boltund Counterbox</p>
 
-**Pokémon - 21** 4 Eevee AOR 63 4 Unown AOR 30 4 Yamper SSH 73 3 Boltund SSH 75 2 Flareon AOR 13 2 Vaporeon AOR 22 1 Boltund SSH 76 1 Oranguru SSH 148
-
-**Trainer Cards - 29** 3 Professor's Research CEL 23 1 Lysandre AOR 78 1 Marnie CPA 56 1 Pokémon Fan Club UPR 133 4 Evolution Incense SSH 163 4 Quick Ball FST 237 3 Vitality Band SSH 185 2 Air Balloon SSH 156 2 Great Ball CPA 52 2 Level Ball BST 129 2 Ordinary Rod SSH 171 2 Pal Pad SSH 172 1 Pokémon Catcher SSH 175 1 Switch SSH 183
-
-**Energy - 10** 6 Lightning Energy SWSHEnergy 4 4 Double Colorless Energy SLG 69
+```decklist
+Pokémon - 21
+4 Eevee AOR 63
+4 Unown AOR 30
+4 Yamper SSH 73
+3 Boltund SSH 75
+2 Flareon AOR 13
+2 Vaporeon AOR 22
+1 Boltund SSH 76
+1 Oranguru SSH 148
+Trainer Cards - 29
+3 Professor's Research CEL 23
+1 Lysandre AOR 78
+1 Marnie CPA 56
+1 Pokémon Fan Club UPR 133
+4 Evolution Incense SSH 163
+4 Quick Ball FST 237
+3 Vitality Band SSH 185
+2 Air Balloon SSH 156
+2 Great Ball CPA 52
+2 Level Ball BST 129
+2 Ordinary Rod SSH 171
+2 Pal Pad SSH 172
+1 Pokémon Catcher SSH 175
+1 Switch SSH 183
+Energy - 10
+6 Lightning Energy SWSHEnergy 4
+4 Double Colorless Energy SLG 69
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
@@ -3033,11 +3862,31 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12 - Giant Plants Dhelmise V</p>
 
-**Pokémon - 17** 4 Dhelmise V SSH 9 3 Grookey SSH 11 3 Thwackey SSH 12 2 Rillaboom SSH 14 2 Silvally-GX UPR 116 2 Type: Null UPR 115 1 Tapu Lele-GX GRI 60
-
-**Trainer Cards - 32** 4 Professor's Research CEL 23 3 Cynthia UPR 119 2 Lysandre AOR 78 2 Marnie CPA 56 1 Lillie UPR 125 4 Evolution Incense SSH 163 4 Great Ball CPA 52 3 Quick Ball FST 237 2 Fire Memory UPR 123 2 Switch SSH 183 1 Ordinary Rod SSH 171 4 Forest of Giant Plants AOR 74
-
-**Energy - 11** 11 Grass Energy SWSHEnergy 1
+```decklist
+Pokémon - 17
+4 Dhelmise V SSH 9
+3 Grookey SSH 11
+3 Thwackey SSH 12
+2 Rillaboom SSH 14
+2 Silvally-GX UPR 116
+2 Type: Null UPR 115
+1 Tapu Lele-GX GRI 60
+Trainer Cards - 32
+4 Professor's Research CEL 23
+3 Cynthia UPR 119
+2 Lysandre AOR 78
+2 Marnie CPA 56
+1 Lillie UPR 125
+4 Evolution Incense SSH 163
+4 Great Ball CPA 52
+3 Quick Ball FST 237
+2 Fire Memory UPR 123
+2 Switch SSH 183
+1 Ordinary Rod SSH 171
+4 Forest of Giant Plants AOR 74
+Energy - 11
+11 Grass Energy SWSHEnergy 1
+```
 
 </div><div class="jb-col-3">
 
@@ -3045,11 +3894,29 @@ Energy - 0
 
 <p class="jb-center">CursolaTCG - Lapras VMAX</p>
 
-**Pokémon - 16** 3 Drizzile SSH 56 3 Lapras V SSH 49 3 Lapras VMAX SSH 50 3 Sobble SSH 55 2 Frosmoth SHF 30 2 Snom SSH 63
-
-**Trainer Cards - 30** 4 Cynthia UPR 119 2 Lysandre AOR 78 4 Aqua Patch GRI 119 4 Evolution Incense SSH 163 4 Quick Ball FST 237 3 Air Balloon SSH 156 3 Switch SSH 183 2 Energy Switch SSH 162 1 Ordinary Rod SSH 171 1 Rescue Stretcher GRI 130 2 Brooklet Hill GRI 120
-
-**Energy - 14** 14 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 16
+3 Drizzile SSH 56
+3 Lapras V SSH 49
+3 Lapras VMAX SSH 50
+3 Sobble SSH 55
+2 Frosmoth SHF 30
+2 Snom SSH 63
+Trainer Cards - 30
+4 Cynthia UPR 119
+2 Lysandre AOR 78
+4 Aqua Patch GRI 119
+4 Evolution Incense SSH 163
+4 Quick Ball FST 237
+3 Air Balloon SSH 156
+3 Switch SSH 183
+2 Energy Switch SSH 162
+1 Ordinary Rod SSH 171
+1 Rescue Stretcher GRI 130
+2 Brooklet Hill GRI 120
+Energy - 14
+14 Water Energy SWSHEnergy 3
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="mar22" class="deck_box">
@@ -3062,11 +3929,38 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12 - Hitmonsquad</p>
 
-**Pokémon - 10** 4 Hitmonchan TEU 74 3 Hitmonlee TEU 73 2 Hitmontop UNB 101 1 Mr. Mime GEN 52
-
-**Trainer Cards - 42** 4 Green's Exploration UNB 175 2 Cynthia UPR 119 2 Guzma BUS 115 2 N FCO 105 1 Bird Keeper DAA 159 1 Bruno BST 121 1 Professor Sycamore BKP 107 4 Lillie's Poké Doll CEC 197 4 Nest Ball SUM 123 3 Level Ball BST 129 3 VS Seeker PHF 109 2 Fighting Fury Belt BKP 99 2 Switch SSH 183 2 U-Turn Board UNM 211 1 Field Blower GRI 125 1 Muscle Band XY 121 1 Ordinary Rod SSH 171 1 Professor's Letter BKT 146 1 Rescue Stretcher GRI 130 3 Silent Lab PRC 140 1 Martial Arts Dojo UNB 179
-
-**Energy - 8** 4 Fighting Energy SWSHEnergy 6 4 Strong Energy FCO 115
+```decklist
+Pokémon - 10
+4 Hitmonchan TEU 74
+3 Hitmonlee TEU 73
+2 Hitmontop UNB 101
+1 Mr. Mime GEN 52
+Trainer Cards - 42
+4 Green's Exploration UNB 175
+2 Cynthia UPR 119
+2 Guzma BUS 115
+2 N FCO 105
+1 Bird Keeper DAA 159
+1 Bruno BST 121
+1 Professor Sycamore BKP 107
+4 Lillie's Poké Doll CEC 197
+4 Nest Ball SUM 123
+3 Level Ball BST 129
+3 VS Seeker PHF 109
+2 Fighting Fury Belt BKP 99
+2 Switch SSH 183
+2 U-Turn Board UNM 211
+1 Field Blower GRI 125
+1 Muscle Band XY 121
+1 Ordinary Rod SSH 171
+1 Professor's Letter BKT 146
+1 Rescue Stretcher GRI 130
+3 Silent Lab PRC 140
+1 Martial Arts Dojo UNB 179
+Energy - 8
+4 Fighting Energy SWSHEnergy 6
+4 Strong Energy FCO 115
+```
 
 </div><div class="jb-col-3">
 
@@ -3074,11 +3968,35 @@ Energy - 0
 
 <p class="jb-center">Mew7926 - Castform</p>
 
-**Pokémon - 11** 4 Castform Snowy Form CRE 34 4 Castform Sunny Form CRE 22 1 Castform CRE 121 1 Castform Rainy Form CRE 33 1 Galarian Meowth RCL 126
-
-**Trainer Cards - 49** 3 Professor Juniper PLB 84 2 Allister VIV 146 1 Guzma BUS 115 1 N FCO 105 4 Acro Bike CES 123 4 Muscle Band XY 121 4 Quick Ball FST 237 2 Float Stone BKT 137 2 Rescue Stretcher GRI 130 4 Old Cemetery CRE 147 4 Rose Tower DAA 169 3 Chaotic Swell CEC 187 3 Circhester Bath VIV 150 3 Giant Hearth UNM 197 3 Po Town BUS 121 2 Brooklet Hill GRI 120 2 Sky Pillar CES 144 1 Aspertia City Gym BCR 127 1 Mountain Ring FFI 97
-
-**Energy - 0**
+```decklist
+Pokémon - 11
+4 Castform Snowy Form CRE 34
+4 Castform Sunny Form CRE 22
+1 Castform CRE 121
+1 Castform Rainy Form CRE 33
+1 Galarian Meowth RCL 126
+Trainer Cards - 49
+3 Professor Juniper PLB 84
+2 Allister VIV 146
+1 Guzma BUS 115
+1 N FCO 105
+4 Acro Bike CES 123
+4 Muscle Band XY 121
+4 Quick Ball FST 237
+2 Float Stone BKT 137
+2 Rescue Stretcher GRI 130
+4 Old Cemetery CRE 147
+4 Rose Tower DAA 169
+3 Chaotic Swell CEC 187
+3 Circhester Bath VIV 150
+3 Giant Hearth UNM 197
+3 Po Town BUS 121
+2 Brooklet Hill GRI 120
+2 Sky Pillar CES 144
+1 Aspertia City Gym BCR 127
+1 Mountain Ring FFI 97
+Energy - 0
+```
 
 </div><div class="jb-col-3">
 
@@ -3086,11 +4004,34 @@ Energy - 0
 
 <p class="jb-center">Microscope12 - Tauros / Bats</p>
 
-**Pokémon - 12** 4 Zubat UNB 64 3 Tauros UNM 164 2 Golbat GEN 31 2 Golbat BST 90 1 Galarian Zigzagoon SSH 117
-
-**Trainer Cards - 40** 3 Brigette BKT 134 3 N FCO 105 3 Professor Juniper PLB 84 2 Bruno BST 121 2 Cynthia UPR 119 2 Guzma BUS 115 1 Teammates PRC 141 4 Muscle Band XY 121 4 Scoop Up Net RCL 165 4 Ultra Ball BRS 150 3 Pokégear 3.0 SSH 174 2 Hypnotoxic Laser PLS 123 2 VS Seeker PHF 109 1 Nest Ball SUM 123 1 Rescue Stretcher GRI 130 3 Blizzard Town UNM 187
-
-**Energy - 8** 4 Double Colorless Energy SLG 69 4 Twin Energy RCL 174
+```decklist
+Pokémon - 12
+4 Zubat UNB 64
+3 Tauros UNM 164
+2 Golbat GEN 31
+2 Golbat BST 90
+1 Galarian Zigzagoon SSH 117
+Trainer Cards - 40
+3 Brigette BKT 134
+3 N FCO 105
+3 Professor Juniper PLB 84
+2 Bruno BST 121
+2 Cynthia UPR 119
+2 Guzma BUS 115
+1 Teammates PRC 141
+4 Muscle Band XY 121
+4 Scoop Up Net RCL 165
+4 Ultra Ball BRS 150
+3 Pokégear 3.0 SSH 174
+2 Hypnotoxic Laser PLS 123
+2 VS Seeker PHF 109
+1 Nest Ball SUM 123
+1 Rescue Stretcher GRI 130
+3 Blizzard Town UNM 187
+Energy - 8
+4 Double Colorless Energy SLG 69
+4 Twin Energy RCL 174
+```
 
 </div><div class="jb-col-3">
 
@@ -3098,11 +4039,32 @@ Energy - 0
 
 <p class="jb-center">Twitchy - Morpeko / Bats</p>
 
-**Pokémon - 12** 4 Morpeko FST 179 4 Zubat BST 89 3 Golbat BST 90 1 Mr. Mime GEN 52
-
-**Trainer Cards - 41** 2 Guzma BUS 115 2 Guzma & Hala CEC 193 2 Professor Sycamore BKP 107 1 Cynthia & Caitlin CEC 189 4 Hustle Belt CES 134 4 Level Ball BST 129 4 Quick Ball FST 237 4 Scoop Up Net RCL 165 4 Tag Call CEC 206 3 Rescue Carrier EVS 154 3 VS Seeker PHF 109 2 Stadium Nav UNM 208 1 Lana's Fishing Rod CEC 195 1 Lillie's Poké Doll CEC 197 4 Frozen City PLF 100
-
-**Energy - 7** 4 Single Strike Energy BST 141 3 Darkness Energy SWSHEnergy 7
+```decklist
+Pokémon - 12
+4 Morpeko FST 179
+4 Zubat BST 89
+3 Golbat BST 90
+1 Mr. Mime GEN 52
+Trainer Cards - 41
+2 Guzma BUS 115
+2 Guzma & Hala CEC 193
+2 Professor Sycamore BKP 107
+1 Cynthia & Caitlin CEC 189
+4 Hustle Belt CES 134
+4 Level Ball BST 129
+4 Quick Ball FST 237
+4 Scoop Up Net RCL 165
+4 Tag Call CEC 206
+3 Rescue Carrier EVS 154
+3 VS Seeker PHF 109
+2 Stadium Nav UNM 208
+1 Lana's Fishing Rod CEC 195
+1 Lillie's Poké Doll CEC 197
+4 Frozen City PLF 100
+Energy - 7
+4 Single Strike Energy BST 141
+3 Darkness Energy SWSHEnergy 7
+```
 
 </div></div><div class="jb-code-container">
     <div id="feb22" class="deck_box">
@@ -3115,11 +4077,35 @@ Energy - 0
 
 <p class="jb-center">Microscope12 - Inteleon VMAX</p>
 
-**Pokémon - 21** 4 Sobble CRE 41 4 Drizzile SSH 56 1 Inteleon CRE 43 1 Inteleon SSH 58 3 Inteleon V FST 78 3 Inteleon VMAX FST 79 3 Remoraid BST 36 2 Octillery BST 37
-
-**Trainer Cards - 35** 3 Professor's Research CEL 23 2 Boss's Orders RCL 154 2 N FCO 105 1 Bird Keeper DAA 159 1 Cheryl BST 123 1 Marnie CPA 56 4 Dive Ball PRC 125 4 Level Ball BST 129 4 Ultra Ball BRS 150 3 Float Stone BKT 137 3 Max Potion GRI 128 2 VS Seeker PHF 109 1 Big Charm SSH 158 1 Escape Rope BST 125 3 Path to the Peak CRE 148
-
-**Energy - 4** 4 Rapid Strike Energy BST 140
+```decklist
+Pokémon - 21
+4 Sobble CRE 41
+4 Drizzile SSH 56
+1 Inteleon CRE 43
+1 Inteleon SSH 58
+3 Inteleon V FST 78
+3 Inteleon VMAX FST 79
+3 Remoraid BST 36
+2 Octillery BST 37
+Trainer Cards - 35
+3 Professor's Research CEL 23
+2 Boss's Orders RCL 154
+2 N FCO 105
+1 Bird Keeper DAA 159
+1 Cheryl BST 123
+1 Marnie CPA 56
+4 Dive Ball PRC 125
+4 Level Ball BST 129
+4 Ultra Ball BRS 150
+3 Float Stone BKT 137
+3 Max Potion GRI 128
+2 VS Seeker PHF 109
+1 Big Charm SSH 158
+1 Escape Rope BST 125
+3 Path to the Peak CRE 148
+Energy - 4
+4 Rapid Strike Energy BST 140
+```
 
 </div><div class="jb-col-3">
 
@@ -3127,11 +4113,33 @@ Energy - 0
 
 <p class="jb-center">Sarbear2890 - Togekiss VMAX</p>
 
-**Pokémon - 18** 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 3 Togekiss V VIV 140 3 Togekiss VMAX VIV 141 1 Suicune V EVS 31
-
-**Trainer Cards - 33** 4 Melony CRE 146 2 Boss's Orders RCL 154 2 Guzma BUS 115 2 Marnie CPA 56 2 N FCO 105 2 Professor's Research CEL 23 4 Dive Ball PRC 125 4 Evolution Incense SSH 163 3 Nest Ball SUM 123 3 Switch SSH 183 2 Level Ball BST 129 2 Professor's Letter BKT 146 1 Rough Seas PRC 137
-
-**Energy - 9** 7 Water Energy SWSHEnergy 3 2 Capture Energy RCL 171
+```decklist
+Pokémon - 18
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+3 Togekiss V VIV 140
+3 Togekiss VMAX VIV 141
+1 Suicune V EVS 31
+Trainer Cards - 33
+4 Melony CRE 146
+2 Boss's Orders RCL 154
+2 Guzma BUS 115
+2 Marnie CPA 56
+2 N FCO 105
+2 Professor's Research CEL 23
+4 Dive Ball PRC 125
+4 Evolution Incense SSH 163
+3 Nest Ball SUM 123
+3 Switch SSH 183
+2 Level Ball BST 129
+2 Professor's Letter BKT 146
+1 Rough Seas PRC 137
+Energy - 9
+7 Water Energy SWSHEnergy 3
+2 Capture Energy RCL 171
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
@@ -3139,11 +4147,32 @@ Energy - 0
 
 <p class="jb-center">Mew7926 - Suicune V</p>
 
-**Pokémon - 15** 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 4 Suicune V EVS 31
-
-**Trainer Cards - 35** 4 Melony CRE 146 2 Boss's Orders RCL 154 2 Guzma BUS 115 2 Marnie CPA 56 2 N FCO 105 2 Professor's Research CEL 23 1 Acerola BUS 112 4 Cape of Toughness DAA 160 4 Dive Ball PRC 125 4 Evolution Incense SSH 163 3 Level Ball BST 129 2 Professor's Letter BKT 146 1 Switch SSH 183 2 Brooklet Hill GRI 120
-
-**Energy - 10** 7 Water Energy SWSHEnergy 3 3 Capture Energy RCL 171
+```decklist
+Pokémon - 15
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+4 Suicune V EVS 31
+Trainer Cards - 35
+4 Melony CRE 146
+2 Boss's Orders RCL 154
+2 Guzma BUS 115
+2 Marnie CPA 56
+2 N FCO 105
+2 Professor's Research CEL 23
+1 Acerola BUS 112
+4 Cape of Toughness DAA 160
+4 Dive Ball PRC 125
+4 Evolution Incense SSH 163
+3 Level Ball BST 129
+2 Professor's Letter BKT 146
+1 Switch SSH 183
+2 Brooklet Hill GRI 120
+Energy - 10
+7 Water Energy SWSHEnergy 3
+3 Capture Energy RCL 171
+```
 
 </div><div class="jb-col-3">
 
@@ -3151,11 +4180,28 @@ Energy - 0
 
 <p class="jb-center">JustInBasil - Wailord V Stall</p>
 
-**Pokémon - 4** 4 Wailord V CPA 13
-
-**Trainer Cards - 56** 4 Acerola BUS 112 4 AZ PHF 91 4 Cassius XY 115 4 Green's Exploration UNB 175 4 N FCO 105 4 Sonia CPA 65 4 Team Flare Grunt GEN 73 2 Hugh BCR 130 4 Cape of Toughness DAA 160 4 Crushing Hammer SSH 159 4 Max Potion GRI 128 4 VS Seeker PHF 109 3 Enhanced Hammer GRI 124 2 Trick Shovel FLF 98 4 Rough Seas PRC 137 1 Life Dew PLF 107
-
-**Energy - 0**
+```decklist
+Pokémon - 4
+4 Wailord V CPA 13
+Trainer Cards - 56
+4 Acerola BUS 112
+4 AZ PHF 91
+4 Cassius XY 115
+4 Green's Exploration UNB 175
+4 N FCO 105
+4 Sonia CPA 65
+4 Team Flare Grunt GEN 73
+2 Hugh BCR 130
+4 Cape of Toughness DAA 160
+4 Crushing Hammer SSH 159
+4 Max Potion GRI 128
+4 VS Seeker PHF 109
+3 Enhanced Hammer GRI 124
+2 Trick Shovel FLF 98
+4 Rough Seas PRC 137
+1 Life Dew PLF 107
+Energy - 0
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="jan22" class="deck_box">
@@ -3168,11 +4214,34 @@ Energy - 0
 
 <p class="jb-center">Mew7926 - Fossil Box</p>
 
-**Pokémon - 17** 2 Swablu CPA 48 2 Altaria CPA 49 4 Talonflame STS 96 1 Aerodactyl-GX UNM 106 4 Archen UNM 120 4 Archeops UNM 121
-
-**Trainer Cards - 33** 4 Professor's Research CEL 23 2 Boss's Orders RCL 154 2 Marnie CPA 56 2 N FCO 105 4 Crushing Hammer SSH 159 4 Switch SSH 183 3 Great Ball CPA 52 2 Evolution Incense SSH 163 2 Ultra Ball SUM 135 1 Float Stone BKT 137 1 Ordinary Rod SSH 171 1 Unidentified Fossil CEC 207 3 Pokémon Research Lab UNM 205 1 Martial Arts Dojo UNB 179 1 Martial Arts Dojo UNB 179
-
-**Energy - 10** 8 Fighting Energy EVO 96 2 Capture Energy RCL 171
+```decklist
+Pokémon - 17
+2 Swablu CPA 48
+2 Altaria CPA 49
+4 Talonflame STS 96
+1 Aerodactyl-GX UNM 106
+4 Archen UNM 120
+4 Archeops UNM 121
+Trainer Cards - 33
+4 Professor's Research CEL 23
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 N FCO 105
+4 Crushing Hammer SSH 159
+4 Switch SSH 183
+3 Great Ball CPA 52
+2 Evolution Incense SSH 163
+2 Ultra Ball SUM 135
+1 Float Stone BKT 137
+1 Ordinary Rod SSH 171
+1 Unidentified Fossil CEC 207
+3 Pokémon Research Lab UNM 205
+1 Martial Arts Dojo UNB 179
+1 Martial Arts Dojo UNB 179
+Energy - 10
+8 Fighting Energy EVO 96
+2 Capture Energy RCL 171
+```
 
 </div><div class="jb-col-3">
 
@@ -3180,11 +4249,34 @@ Energy - 0
 
 <p class="jb-center">Twitchy - Coalossal VMAX</p>
 
-**Pokémon - 10** 4 Coalossal V VIV 98 3 Coalossal VMAX VIV 99 2 Oranguru SSH 148 1 Diancie {\*} FLI 74
-
-**Trainer Cards - 39** 4 Marnie CPA 56 3 Boss's Orders RCL 154 3 Professor's Research CEL 23 2 Acerola BUS 112 4 Nest Ball SUM 123 4 Rotom Phone CPA 64 3 Max Potion GRI 128 2 Evolution Incense SSH 163 2 Field Blower GRI 125 2 Heavy Ball BKT 140 2 Switch SSH 183 1 Enhanced Hammer GRI 124 1 Professor's Letter BKT 146 1 VS Seeker PHF 109 4 Path to the Peak CRE 148 1 Computer Search BCR 137
-
-**Energy - 11** 4 Fighting Energy SWSHEnergy 6 4 Stone Fighting Energy VIV 164 3 Strong Energy FCO 115
+```decklist
+Pokémon - 10
+4 Coalossal V VIV 98
+3 Coalossal VMAX VIV 99
+2 Oranguru SSH 148
+1 Diancie {*} FLI 74
+Trainer Cards - 39
+4 Marnie CPA 56
+3 Boss's Orders RCL 154
+3 Professor's Research CEL 23
+2 Acerola BUS 112
+4 Nest Ball SUM 123
+4 Rotom Phone CPA 64
+3 Max Potion GRI 128
+2 Evolution Incense SSH 163
+2 Field Blower GRI 125
+2 Heavy Ball BKT 140
+2 Switch SSH 183
+1 Enhanced Hammer GRI 124
+1 Professor's Letter BKT 146
+1 VS Seeker PHF 109
+4 Path to the Peak CRE 148
+1 Computer Search BCR 137
+Energy - 11
+4 Fighting Energy SWSHEnergy 6
+4 Stone Fighting Energy VIV 164
+3 Strong Energy FCO 115
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
@@ -3192,11 +4284,31 @@ Energy - 0
 
 <p class="jb-center">Willschoeff - Coalossal VMAX</p>
 
-**Pokémon - 11** 4 Coalossal V VIV 98 4 Coalossal VMAX VIV 99 3 Oranguru SSH 148
-
-**Trainer Cards - 39** 3 Boss's Orders RCL 154 3 Professor's Research CEL 23 2 Sonia CPA 65 1 Skyla RCL 166 4 Crushing Hammer SSH 159 4 Hyper Potion CPA 54 4 Pokégear 3.0 SSH 174 4 Pokémon Communication TEU 152 4 Yell Horn DAA 173 3 Float Stone BKT 137 3 VS Seeker PHF 109 2 Energy Retrieval SSH 160 1 Energy Recycler BST 124 1 Viridian Forest TEU 156
-
-**Energy - 10** 4 Fighting Energy SWSHEnergy 6 4 Stone Fighting Energy VIV 164 2 Recycle Energy UNM 212
+```decklist
+Pokémon - 11
+4 Coalossal V VIV 98
+4 Coalossal VMAX VIV 99
+3 Oranguru SSH 148
+Trainer Cards - 39
+3 Boss's Orders RCL 154
+3 Professor's Research CEL 23
+2 Sonia CPA 65
+1 Skyla RCL 166
+4 Crushing Hammer SSH 159
+4 Hyper Potion CPA 54
+4 Pokégear 3.0 SSH 174
+4 Pokémon Communication TEU 152
+4 Yell Horn DAA 173
+3 Float Stone BKT 137
+3 VS Seeker PHF 109
+2 Energy Retrieval SSH 160
+1 Energy Recycler BST 124
+1 Viridian Forest TEU 156
+Energy - 10
+4 Fighting Energy SWSHEnergy 6
+4 Stone Fighting Energy VIV 164
+2 Recycle Energy UNM 212
+```
 
 </div><div class="jb-col-3">
 
@@ -3204,11 +4316,33 @@ Energy - 0
 
 <p class="jb-center">sarbear2890 - Togekiss VMAX / Primeape BST</p>
 
-**Pokémon - 16** 4 Mankey BST 66 4 Primeape BST 67 3 Togekiss V VIV 140 3 Togekiss VMAX VIV 141 1 Galarian Zapdos EVS 82 1 Regirock V SSH 104
-
-**Trainer Cards - 32** 2 Boss's Orders RCL 154 2 Marnie CPA 56 2 N FCO 105 2 Professor Sycamore BKP 107 2 Raihan EVS 152 1 Cheryl BST 123 4 Evolution Incense SSH 163 3 Big Charm SSH 158 2 Float Stone BKT 137 2 Nest Ball SUM 123 2 Professor's Letter BKT 146 2 Switch SSH 183 2 Ultra Ball SUM 135 4 Old Cemetery CRE 147
-
-**Energy - 12** 10 Fighting Energy SWSHEnergy 6 2 Stone Fighting Energy VIV 164
+```decklist
+Pokémon - 16
+4 Mankey BST 66
+4 Primeape BST 67
+3 Togekiss V VIV 140
+3 Togekiss VMAX VIV 141
+1 Galarian Zapdos EVS 82
+1 Regirock V SSH 104
+Trainer Cards - 32
+2 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 N FCO 105
+2 Professor Sycamore BKP 107
+2 Raihan EVS 152
+1 Cheryl BST 123
+4 Evolution Incense SSH 163
+3 Big Charm SSH 158
+2 Float Stone BKT 137
+2 Nest Ball SUM 123
+2 Professor's Letter BKT 146
+2 Switch SSH 183
+2 Ultra Ball SUM 135
+4 Old Cemetery CRE 147
+Energy - 12
+10 Fighting Energy SWSHEnergy 6
+2 Stone Fighting Energy VIV 164
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="dec21" class="deck_box">
@@ -3221,11 +4355,31 @@ Energy - 0
 
 <p class="jb-center">JustInBasil, Lugia/Malamar</p>
 
-**Pokémon - 16** 4 Inkay FLI 50 4 Malamar FLI 51 4 Lugia DAA 140 3 Audino UNM 177 1 Necrozma UNM 101
-
-**Trainer Cards - 35** 4 Professor's Research CEL 24 3 Bird Keeper SHF 66 2 Guzma BUS 115 4 Mysterious Treasure FLI 113 4 Switch SUM 132 3 Muscle Band XY 121 3 Nest Ball SUM 123 3 Ultra Ball SUM 135 2 Acro Bike CES 123 2 U-Turn Board UNM 211 1 Ordinary Rod SSH 171 1 Rescue Stretcher GRI 130 3 Viridian Forest TEU 156
-
-**Energy - 9** 8 Psychic Energy SWSHEnergy 5 1 Draw Energy CEC 209
+```decklist
+Pokémon - 16
+4 Inkay FLI 50
+4 Malamar FLI 51
+4 Lugia DAA 140
+3 Audino UNM 177
+1 Necrozma UNM 101
+Trainer Cards - 35
+4 Professor's Research CEL 24
+3 Bird Keeper SHF 66
+2 Guzma BUS 115
+4 Mysterious Treasure FLI 113
+4 Switch SUM 132
+3 Muscle Band XY 121
+3 Nest Ball SUM 123
+3 Ultra Ball SUM 135
+2 Acro Bike CES 123
+2 U-Turn Board UNM 211
+1 Ordinary Rod SSH 171
+1 Rescue Stretcher GRI 130
+3 Viridian Forest TEU 156
+Energy - 9
+8 Psychic Energy SWSHEnergy 5
+1 Draw Energy CEC 209
+```
 
 </div><div class="jb-col-3">
 
@@ -3233,11 +4387,31 @@ Energy - 0
 
 <p class="jb-center">Sarbear2890, Charizard Theme Deck</p>
 
-**Pokémon - 21** 3 Charmander VIV 23 3 Charmeleon VIV 24 2 Charizard VIV 25 3 Slugma VIV 27 2 Magcargo VIV 28 3 Yanma VIV 6 2 Yanmega VIV 7 2 Sudowoodo SSH 100 1 Lugia DAA 140
-
-**Trainer Cards - 21** 4 Hop SSH 165 2 Bede SSH 157 2 Dan RCL 158 2 Leon VIV 154 2 Professor's Research SSH 178 2 Sonia RCL 167 2 Great Ball SSH 164 2 Ordinary Rod SSH 171 2 Switch SSH 183 1 Evolution Incense SSH 163
-
-**Energy - 18** 18 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 21
+3 Charmander VIV 23
+3 Charmeleon VIV 24
+2 Charizard VIV 25
+3 Slugma VIV 27
+2 Magcargo VIV 28
+3 Yanma VIV 6
+2 Yanmega VIV 7
+2 Sudowoodo SSH 100
+1 Lugia DAA 140
+Trainer Cards - 21
+4 Hop SSH 165
+2 Bede SSH 157
+2 Dan RCL 158
+2 Leon VIV 154
+2 Professor's Research SSH 178
+2 Sonia RCL 167
+2 Great Ball SSH 164
+2 Ordinary Rod SSH 171
+2 Switch SSH 183
+1 Evolution Incense SSH 163
+Energy - 18
+18 Fire Energy SWSHEnergy 2
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
@@ -3245,11 +4419,28 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Zeraora/Eelektrik</p>
 
-**Pokémon - 13** 4 Tynamo NVI 38 4 Eelektrik NVI 40 4 Zeraora UNB 60 1 Oranguru SUM 113
-
-**Trainer Cards - 35** 4 Professor's Research SSH 201 3 Cynthia UPR 119 2 Sophocles BUS 123 1 N FCO 105 4 Trainers' Mail ROS 92 4 Level Ball AOR 76 4 Nest Ball SUM 123 4 Ultra Ball SUM 135 4 U-Turn Board UNM 211 2 Rescue Stretcher GRI 130 1 Escape Rope PRC 127 2 Viridian Forest TEU 156
-
-**Energy - 12** 12 Lightning Energy SMEnergy 13
+```decklist
+Pokémon - 13
+4 Tynamo NVI 38
+4 Eelektrik NVI 40
+4 Zeraora UNB 60
+1 Oranguru SUM 113
+Trainer Cards - 35
+4 Professor's Research SSH 201
+3 Cynthia UPR 119
+2 Sophocles BUS 123
+1 N FCO 105
+4 Trainers' Mail ROS 92
+4 Level Ball AOR 76
+4 Nest Ball SUM 123
+4 Ultra Ball SUM 135
+4 U-Turn Board UNM 211
+2 Rescue Stretcher GRI 130
+1 Escape Rope PRC 127
+2 Viridian Forest TEU 156
+Energy - 12
+12 Lightning Energy SMEnergy 13
+```
 
 </div><div class="jb-col-3">
 
@@ -3257,11 +4448,31 @@ Energy - 0
 
 <p class="jb-center">Mew7926 - Charizard Theme Deck</p>
 
-**Pokémon - 21** 3 Charmander VIV 23 3 Charmeleon VIV 24 2 Charizard VIV 25 3 Slugma VIV 27 2 Magcargo VIV 28 3 Yanma VIV 6 2 Yanmega VIV 7 2 Sudowoodo SSH 100 1 Lugia DAA 140
-
-**Trainer Cards - 21** 4 Hop SSH 165 2 Bede SSH 157 2 Dan RCL 158 2 Leon VIV 154 2 Professor's Research SSH 178 2 Sonia RCL 167 2 Great Ball SSH 164 2 Ordinary Rod SSH 171 2 Switch SSH 183 1 Evolution Incense SSH 163
-
-**Energy - 18** 18 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 21
+3 Charmander VIV 23
+3 Charmeleon VIV 24
+2 Charizard VIV 25
+3 Slugma VIV 27
+2 Magcargo VIV 28
+3 Yanma VIV 6
+2 Yanmega VIV 7
+2 Sudowoodo SSH 100
+1 Lugia DAA 140
+Trainer Cards - 21
+4 Hop SSH 165
+2 Bede SSH 157
+2 Dan RCL 158
+2 Leon VIV 154
+2 Professor's Research SSH 178
+2 Sonia RCL 167
+2 Great Ball SSH 164
+2 Ordinary Rod SSH 171
+2 Switch SSH 183
+1 Evolution Incense SSH 163
+Energy - 18
+18 Fire Energy SWSHEnergy 2
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="nov21" class="deck_box">
@@ -3275,9 +4486,33 @@ Energy - 0
 
 <p class="jb-center">Twitchy, Rapid Strike Urshifu VMAX</p>
 
-**Pokémon - 19** 4 Rapid Strike Urshifu V BST 87 3 Rapid Strike Urshifu VMAX BST 88 4 Remoraid BST 36 4 Octillery BST 37 2 Empoleon V BST 40 1 Marshadow UNB 81 1 Pyukumuku UNB 53 **Trainer Cards - 32** 4 Bird Keeper SHF 66 3 Boss's Orders SHF 58 3 Cynthia & Caitlin CEC 189 3 Mallow & Lana CEC 198 2 Bruno BST 121 2 Judge FLI 108 1 Korrina's Focus BST 160 4 Level Ball BST 129 3 Escape Rope BST 125 1 Lana's Fishing Rod CEC 195 1 Rapid Strike Scroll of Swirls BST 131 4 Tower of Waters BST 138 1 Power Plant UNB 183
-
-**Energy - 9** 5 Fighting Energy BLWEnergy 3 4 Rapid Strike Energy BST 140
+```decklist
+Pokémon - 19
+4 Rapid Strike Urshifu V BST 87
+3 Rapid Strike Urshifu VMAX BST 88
+4 Remoraid BST 36
+4 Octillery BST 37
+2 Empoleon V BST 40
+1 Marshadow UNB 81
+1 Pyukumuku UNB 53
+Trainer Cards - 32
+4 Bird Keeper SHF 66
+3 Boss's Orders SHF 58
+3 Cynthia & Caitlin CEC 189
+3 Mallow & Lana CEC 198
+2 Bruno BST 121
+2 Judge FLI 108
+1 Korrina's Focus BST 160
+4 Level Ball BST 129
+3 Escape Rope BST 125
+1 Lana's Fishing Rod CEC 195
+1 Rapid Strike Scroll of Swirls BST 131
+4 Tower of Waters BST 138
+1 Power Plant UNB 183
+Energy - 9
+5 Fighting Energy BLWEnergy 3
+4 Rapid Strike Energy BST 140
+```
 
 </div><div class="jb-col-3">
 
@@ -3285,11 +4520,30 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Lost March</p>
 
-**Pokémon - 27** 4 Hoppip LOT 12 4 Skiploom LOT 13 4 Jumpluff LOT 14 4 Manaphy SHF 24 4 Trumbeak LOT 165 3 Natu LOT 87 2 Cottonee CEC 147 1 Kricketune V BST 6 1 Mew PR-SM 215
-
-**Trainer Cards - 27** 4 Professor Elm's Lecture LOT 188 3 Bird Keeper DAA 159 3 Bruno BST 121 2 Professor's Research SHF 60 1 Boss's Orders SHF 58 4 Level Ball BST 129 4 Lost Blender LOT 181 4 Net Ball LOT 187 2 Exp. Share DRV 18
-
-**Energy - 6** 6 Grass Energy XYEnergy 5
+```decklist
+Pokémon - 27
+4 Hoppip LOT 12
+4 Skiploom LOT 13
+4 Jumpluff LOT 14
+4 Manaphy SHF 24
+4 Trumbeak LOT 165
+3 Natu LOT 87
+2 Cottonee CEC 147
+1 Kricketune V BST 6
+1 Mew PR-SM 215
+Trainer Cards - 27
+4 Professor Elm's Lecture LOT 188
+3 Bird Keeper DAA 159
+3 Bruno BST 121
+2 Professor's Research SHF 60
+1 Boss's Orders SHF 58
+4 Level Ball BST 129
+4 Lost Blender LOT 181
+4 Net Ball LOT 187
+2 Exp. Share DRV 18
+Energy - 6
+6 Grass Energy XYEnergy 5
+```
 
 </div><div class="jb-col-3">
 
@@ -3297,11 +4551,34 @@ Energy - 0
 
 <p class="jb-center">JAMR, Gardevoir &amp; Sylveon-GX</p>
 
-**Pokémon - 13** 3 Cottonee CEC 147 2 Whimsicott-GX UNB 140 3 Type: Null CEC 183 2 Silvally-GX CEC 184 2 Gardevoir & Sylveon-GX UNB 204 1 Dedenne-GX UNB 57
-
-**Trainer Cards - 32** 4 Welder UNB 189 3 Boss's Orders SHF 58 2 Green's Exploration UNB 175 2 Janine UNB 176 2 Mina LOT 211 2 Professor's Research SHF 60 2 Red & Blue CEC 202 1 Cynthia & Caitlin CEC 189 4 Exp. Share BST 126 2 Energy Spinner UNB 170 2 Escape Rope BST 125 2 Fan of Waves BST 127 2 Fire Crystal UNB 173 2 Chaotic Swell CEC 187
-
-**Energy - 15** 9 Fire Energy SMEnergy 2 4 Fairy Energy SWSHEnergy 9 2 Draw Energy CEC 209
+```decklist
+Pokémon - 13
+3 Cottonee CEC 147
+2 Whimsicott-GX UNB 140
+3 Type: Null CEC 183
+2 Silvally-GX CEC 184
+2 Gardevoir & Sylveon-GX UNB 204
+1 Dedenne-GX UNB 57
+Trainer Cards - 32
+4 Welder UNB 189
+3 Boss's Orders SHF 58
+2 Green's Exploration UNB 175
+2 Janine UNB 176
+2 Mina LOT 211
+2 Professor's Research SHF 60
+2 Red & Blue CEC 202
+1 Cynthia & Caitlin CEC 189
+4 Exp. Share BST 126
+2 Energy Spinner UNB 170
+2 Escape Rope BST 125
+2 Fan of Waves BST 127
+2 Fire Crystal UNB 173
+2 Chaotic Swell CEC 187
+Energy - 15
+9 Fire Energy SMEnergy 2
+4 Fairy Energy SWSHEnergy 9
+2 Draw Energy CEC 209
+```
 
 </div><div class="jb-col-3">
 
@@ -3309,11 +4586,28 @@ Energy - 0
 
 <p class="jb-center">JustInBasil, Reshiram &amp; Zekrom-GX</p>
 
-**Pokémon - 5** 3 Reshiram & Zekrom-GX CEC 222 2 Reshiram & Charizard-GX UNB 20
-
-**Trainer Cards - 39** 4 Green's Exploration UNB 175 4 Welder UNB 189 3 Cynthia & Caitlin CEC 189 2 N's Resolve CEC 200 1 Bird Keeper SHF 66 4 Custom Catcher LOT 171 4 Escape Rope BST 125 4 Pokégear 3.0 UNB 182 4 Tag Call CEC 206 3 Fire Crystal UNB 173 2 Energy Spinner UNB 170 3 Power Plant UNB 183 1 Heat Factory {\*} LOT 178
-
-**Energy - 16** 10 Fire Energy SWSHEnergy 2 6 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 5
+3 Reshiram & Zekrom-GX CEC 222
+2 Reshiram & Charizard-GX UNB 20
+Trainer Cards - 39
+4 Green's Exploration UNB 175
+4 Welder UNB 189
+3 Cynthia & Caitlin CEC 189
+2 N's Resolve CEC 200
+1 Bird Keeper SHF 66
+4 Custom Catcher LOT 171
+4 Escape Rope BST 125
+4 Pokégear 3.0 UNB 182
+4 Tag Call CEC 206
+3 Fire Crystal UNB 173
+2 Energy Spinner UNB 170
+3 Power Plant UNB 183
+1 Heat Factory {*} LOT 178
+Energy - 16
+10 Fire Energy SWSHEnergy 2
+6 Lightning Energy SWSHEnergy 4
+```
 
 </div></div><div class="jb-code-container">
     <div id="oct21" class="deck_box">
@@ -3336,11 +4630,32 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Blacephalon</p>
 
-**Pokémon - 13** 4 Blacephalon UNB 32 4 Jirachi TEU 99 1 Blacephalon-GX LOT 52 1 Crobat V DAA 182 1 Mewtwo UNB 75 1 Tapu Lele-GX GRI 60 1 Victini {\*} DRM 7
-
-**Trainer Cards - 34** 4 Welder UNB 189 1 Boss's Orders RCL 189 4 Fiery Flint DRM 60 4 Fire Crystal UNB 173 4 Scoop Up Net RCL 165 4 Switch SSH 183 3 Nest Ball SUM 123 3 Quick Ball SSH 179 2 Energy Retrieval SUM 116 2 Escape Board UPR 167 1 Ordinary Rod SSH 215 1 Giant Hearth UNM 197 1 Heat Factory {\*} LOT 178
-
-**Energy - 13** 13 Fire Energy SMEnergy 11
+```decklist
+Pokémon - 13
+4 Blacephalon UNB 32
+4 Jirachi TEU 99
+1 Blacephalon-GX LOT 52
+1 Crobat V DAA 182
+1 Mewtwo UNB 75
+1 Tapu Lele-GX GRI 60
+1 Victini {*} DRM 7
+Trainer Cards - 34
+4 Welder UNB 189
+1 Boss's Orders RCL 189
+4 Fiery Flint DRM 60
+4 Fire Crystal UNB 173
+4 Scoop Up Net RCL 165
+4 Switch SSH 183
+3 Nest Ball SUM 123
+3 Quick Ball SSH 179
+2 Energy Retrieval SUM 116
+2 Escape Board UPR 167
+1 Ordinary Rod SSH 215
+1 Giant Hearth UNM 197
+1 Heat Factory {*} LOT 178
+Energy - 13
+13 Fire Energy SMEnergy 11
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
@@ -3348,11 +4663,32 @@ Energy - 0
 
 <p class="jb-center">KingK4RP, Falinks / Weavile</p>
 
-**Pokémon - 12** 4 Falinks RCL 109 4 Falinks V RCL 110 2 Sneasel UPR 73 2 Weavile BUS 86
-
-**Trainer Cards - 37** 4 Cynthia UPR 119 4 Professor's Research SSH 201 4 Guzma BUS 115 2 Judge FLI 108 4 Level Ball BST 129 4 Nest Ball SUM 123 3 Quick Ball SSH 179 2 Adventure Bag LOT 167 2 Air Balloon SSH 156 2 Cape of Toughness DAA 160 2 Choice Band GRI 121 1 Field Blower GRI 125 1 Rescue Stretcher GRI 130 2 Brooklet Hill GRI 120
-
-**Energy - 11** 4 Double Colorless Energy HS 103 4 Fighting Energy SWSHEnergy 6 3 Twin Energy RCL 174
+```decklist
+Pokémon - 12
+4 Falinks RCL 109
+4 Falinks V RCL 110
+2 Sneasel UPR 73
+2 Weavile BUS 86
+Trainer Cards - 37
+4 Cynthia UPR 119
+4 Professor's Research SSH 201
+4 Guzma BUS 115
+2 Judge FLI 108
+4 Level Ball BST 129
+4 Nest Ball SUM 123
+3 Quick Ball SSH 179
+2 Adventure Bag LOT 167
+2 Air Balloon SSH 156
+2 Cape of Toughness DAA 160
+2 Choice Band GRI 121
+1 Field Blower GRI 125
+1 Rescue Stretcher GRI 130
+2 Brooklet Hill GRI 120
+Energy - 11
+4 Double Colorless Energy HS 103
+4 Fighting Energy SWSHEnergy 6
+3 Twin Energy RCL 174
+```
 
 </div><div class="jb-col-3">
 
@@ -3360,11 +4696,37 @@ Energy - 0
 
 <p class="jb-center">WackyMatty, Whimsicott</p>
 
-**Pokémon - 17** 3 Cottonee UNM 143 3 Whimsicott VIV 76 2 Minccino SSH 146 2 Cinccino SSH 147 2 Trubbish VIV 110 2 Garbodor VIV 111 1 Crobat V DAA 182 1 Mew UNB 76 1 Oricorio-GX CEC 95
-
-**Trainer Cards - 33** 4 Professor's Research SHF 60 3 Boss's Orders RCL 154 2 Judge BKT 143 4 Ear-Ringing Bell UNM 194 4 Lucky Egg SSH 167 4 U-Turn Board UNM 211 3 Pokémon Communication TEU 152 2 Island Challenge Amulet CEC 194 2 Level Ball BST 129 2 Ordinary Rod SSH 171 1 Quick Ball SSH 179 1 Rugged Helmet CRE 152 1 Chaotic Swell CEC 187
-
-**Energy - 10** 4 Twin Energy RCL 174 3 Psychic Energy SWSHEnergy 5 2 Horror Psychic Energy RCL 172 1 Hiding {D} Energy DAA 175
+```decklist
+Pokémon - 17
+3 Cottonee UNM 143
+3 Whimsicott VIV 76
+2 Minccino SSH 146
+2 Cinccino SSH 147
+2 Trubbish VIV 110
+2 Garbodor VIV 111
+1 Crobat V DAA 182
+1 Mew UNB 76
+1 Oricorio-GX CEC 95
+Trainer Cards - 33
+4 Professor's Research SHF 60
+3 Boss's Orders RCL 154
+2 Judge BKT 143
+4 Ear-Ringing Bell UNM 194
+4 Lucky Egg SSH 167
+4 U-Turn Board UNM 211
+3 Pokémon Communication TEU 152
+2 Island Challenge Amulet CEC 194
+2 Level Ball BST 129
+2 Ordinary Rod SSH 171
+1 Quick Ball SSH 179
+1 Rugged Helmet CRE 152
+1 Chaotic Swell CEC 187
+Energy - 10
+4 Twin Energy RCL 174
+3 Psychic Energy SWSHEnergy 5
+2 Horror Psychic Energy RCL 172
+1 Hiding {D} Energy DAA 175
+```
 
 </div></div></div><div class="jb-col-3">
 
@@ -3372,11 +4734,32 @@ Energy - 0
 
 <p class="jb-center">Twitchy, Zeraora V / Zebstrika</p>
 
-**Pokémon - 16** 3 Remoraid BST 36 3 Octillery BST 37 2 Blitzle CRE 50 2 Zebstrika CRE 51 2 Zeraora V CRE 53 1 Crobat V DAA 182 1 Mew UNB 76 1 Mimikyu CEC 97 1 Tapu Koko {\*} TEU 51
-
-**Trainer Cards - 33** 4 Korrina's Focus BST 128 4 Guzma BUS 115 2 Brawly CRE 131 4 Quick Ball SSH 179 4 Rapid Strike Scroll of Swirls BST 131 4 Switch PRC 163 4 Ultra Ball SUM 135 2 Ordinary Rod SSH 215 4 Tower of Waters BST 138 1 Thunder Mountain {\*} LOT 191
-
-**Energy - 11** 7 Lightning Energy Energy 4 4 Rapid Strike Energy BST 140
+```decklist
+Pokémon - 16
+3 Remoraid BST 36
+3 Octillery BST 37
+2 Blitzle CRE 50
+2 Zebstrika CRE 51
+2 Zeraora V CRE 53
+1 Crobat V DAA 182
+1 Mew UNB 76
+1 Mimikyu CEC 97
+1 Tapu Koko {*} TEU 51
+Trainer Cards - 33
+4 Korrina's Focus BST 128
+4 Guzma BUS 115
+2 Brawly CRE 131
+4 Quick Ball SSH 179
+4 Rapid Strike Scroll of Swirls BST 131
+4 Switch PRC 163
+4 Ultra Ball SUM 135
+2 Ordinary Rod SSH 215
+4 Tower of Waters BST 138
+1 Thunder Mountain {*} LOT 191
+Energy - 11
+7 Lightning Energy Energy 4
+4 Rapid Strike Energy BST 140
+```
 
 </div></div><div class="jb-code-container">
     <div id="aug21" class="deck_box">
@@ -3390,11 +4773,33 @@ Energy - 0
 
 <p class="jb-center">KingK4RP, Rapid Strike Urshifu VMAX</p>
 
-**Pokémon - 16** 4 Rapid Strike Urshifu V BST 87 3 Rapid Strike Urshifu VMAX BST 88 2 Crobat V DAA 104 2 Galarian Moltres V CRE 97 2 Oranguru SSH 148 1 Ditto V SHF 50 1 Galarian Articuno V CRE 58 1 Passimian CRE 88
-
-**Trainer Cards - 35** 4 Marnie SSH 200 4 Professor's Research SSH 201 4 Great Ball SSH 164 4 Rotom Phone CPA 64 4 Quick Ball SSH 179 3 Boss's Orders SHF 58 3 Energy Switch SSH 162 2 Air Balloon SSH 156 2 Energy Search SSH 161 2 Switch SSH 183 3 Tower of Waters BST 138
-
-**Energy - 9** 4 Darkness Energy SWSHEnergy 7 4 Rapid Strike Energy BST 140 1 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 16
+4 Rapid Strike Urshifu V BST 87
+3 Rapid Strike Urshifu VMAX BST 88
+2 Crobat V DAA 104
+2 Galarian Moltres V CRE 97
+2 Oranguru SSH 148
+1 Ditto V SHF 50
+1 Galarian Articuno V CRE 58
+1 Passimian CRE 88
+Trainer Cards - 35
+4 Marnie SSH 200
+4 Professor's Research SSH 201
+4 Great Ball SSH 164
+4 Rotom Phone CPA 64
+4 Quick Ball SSH 179
+3 Boss's Orders SHF 58
+3 Energy Switch SSH 162
+2 Air Balloon SSH 156
+2 Energy Search SSH 161
+2 Switch SSH 183
+3 Tower of Waters BST 138
+Energy - 9
+4 Darkness Energy SWSHEnergy 7
+4 Rapid Strike Energy BST 140
+1 Fighting Energy SWSHEnergy 6
+```
 
 </div><div class="jb-col-9"><div class="jb-row"><div class="jb-col-3">
 
@@ -3402,11 +4807,30 @@ Energy - 0
 
 <p class="jb-center">Paveway42, Zacian V / Inteleon</p>
 
-**Pokémon - 16** 4 Sobble CRE 41 4 Drizzile SSH 56 3 Inteleon SSH 58 4 Zacian V PR-SW 18 1 Aegislash V VIV 126
-
-**Trainer Cards - 34** 4 Marnie SSH 200 2 Bird Keeper DAA 159 2 Boss's Orders RCL 189 1 Professor's Research SSH 201 4 Evolution Incense SSH 163 4 Level Ball BST 181 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 2 Air Balloon SSH 156 2 Cape of Toughness DAA 160 2 Energy Search SSH 161 2 Switch SSH 183 1 Path to the Peak CRE 148
-
-**Energy - 10** 10 Metal Energy EVO 98
+```decklist
+Pokémon - 16
+4 Sobble CRE 41
+4 Drizzile SSH 56
+3 Inteleon SSH 58
+4 Zacian V PR-SW 18
+1 Aegislash V VIV 126
+Trainer Cards - 34
+4 Marnie SSH 200
+2 Bird Keeper DAA 159
+2 Boss's Orders RCL 189
+1 Professor's Research SSH 201
+4 Evolution Incense SSH 163
+4 Level Ball BST 181
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+2 Air Balloon SSH 156
+2 Cape of Toughness DAA 160
+2 Energy Search SSH 161
+2 Switch SSH 183
+1 Path to the Peak CRE 148
+Energy - 10
+10 Metal Energy EVO 98
+```
 
 </div><div class="jb-col-3">
 
@@ -3414,11 +4838,30 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Ice Rider Calyrex VMAX</p>
 
-**Pokémon - 19** 4 Ice Rider Calyrex V CRE 163 3 Ice Rider Calyrex VMAX CRE 46 4 Sobble CRE 41 4 Drizzile SHF 99 3 Inteleon CRE 43 1 Inteleon SSH 58
-
-**Trainer Cards - 33** 4 Marnie CPA 56 4 Melony CRE 195 2 Boss's Orders RCL 154 2 Professor's Research SSH 201 4 Evolution Incense SSH 163 4 Level Ball AOR 76 4 Quick Ball SSH 179 2 Capacious Bucket RCL 156 2 Switch CES 147 1 Air Balloon SSH 156 1 Vitality Band SSH 185 3 Path to the Peak CRE 148
-
-**Energy - 8** 8 Water Energy GEN 77
+```decklist
+Pokémon - 19
+4 Ice Rider Calyrex V CRE 163
+3 Ice Rider Calyrex VMAX CRE 46
+4 Sobble CRE 41
+4 Drizzile SHF 99
+3 Inteleon CRE 43
+1 Inteleon SSH 58
+Trainer Cards - 33
+4 Marnie CPA 56
+4 Melony CRE 195
+2 Boss's Orders RCL 154
+2 Professor's Research SSH 201
+4 Evolution Incense SSH 163
+4 Level Ball AOR 76
+4 Quick Ball SSH 179
+2 Capacious Bucket RCL 156
+2 Switch CES 147
+1 Air Balloon SSH 156
+1 Vitality Band SSH 185
+3 Path to the Peak CRE 148
+Energy - 8
+8 Water Energy GEN 77
+```
 
 </div><div class="jb-col-3">
 
@@ -3426,11 +4869,35 @@ Energy - 0
 
 <p class="jb-center">JAMR, Weezing</p>
 
-**Pokémon - 18** 2 Crobat V DAA 104 2 Deino DAA 108 2 Hydreigon DAA 110 2 Galarian Moltres V CRE 97 2 Galarian Zigzagoon SSH 117 2 Koffing RCL 112 2 Koffing SHF 41 2 Galarian Weezing CRE 96 2 Weezing CRE 95
-
-**Trainer Cards - 28** 2 Boss's Orders RCL 154 2 Marnie SSH 169 2 Professor's Research SHF 60 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Crushing Hammer SSH 159 2 Energy Search SSH 161 2 Exp. Share BST 126 2 Fan of Waves BST 127 2 Ordinary Rod SSH 171 2 Quick Ball SSH 179 2 Rare Candy SSH 180 2 Switch SUM 132 1 Energy Retrieval SSH 160
-
-**Energy - 14** 14 Darkness Energy SWSHEnergy 7
+```decklist
+Pokémon - 18
+2 Crobat V DAA 104
+2 Deino DAA 108
+2 Hydreigon DAA 110
+2 Galarian Moltres V CRE 97
+2 Galarian Zigzagoon SSH 117
+2 Koffing RCL 112
+2 Koffing SHF 41
+2 Galarian Weezing CRE 96
+2 Weezing CRE 95
+Trainer Cards - 28
+2 Boss's Orders RCL 154
+2 Marnie SSH 169
+2 Professor's Research SHF 60
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Crushing Hammer SSH 159
+2 Energy Search SSH 161
+2 Exp. Share BST 126
+2 Fan of Waves BST 127
+2 Ordinary Rod SSH 171
+2 Quick Ball SSH 179
+2 Rare Candy SSH 180
+2 Switch SUM 132
+1 Energy Retrieval SSH 160
+Energy - 14
+14 Darkness Energy SWSHEnergy 7
+```
 
 </div></div></div></div><div class="jb-code-container">
     <div id="july21" class="deck_box">
@@ -3443,11 +4910,32 @@ Energy - 0
 
 <p class="jb-center">JustInBasil, Zacian V Metal Box</p>
 
-**Pokémon - 14** 3 Zacian V SSH 138 2 Bronzor TEU 100 2 Bronzong BST 102 2 Crobat V DAA 104 2 Dedenne-GX UNB 57 1 Aegislash-EX PHF 65 1 Marshadow-GX BUS 80 1 Mew FCO 29
-
-**Trainer Cards - 33** 4 Professor's Research SSH 201 3 Guzma BUS 115 4 Max Elixir BKP 102 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 4 Trainers' Mail ROS 92 4 Ultra Ball SUM 135 2 Float Stone BKT 137 1 Field Blower GRI 125 1 Switch HS 102 1 Chaotic Swell CEC 187 1 Dowsing Machine PLS 128
-
-**Energy - 13** 13 Metal Energy SWSHEnergy 8
+```decklist
+Pokémon - 14
+3 Zacian V SSH 138
+2 Bronzor TEU 100
+2 Bronzong BST 102
+2 Crobat V DAA 104
+2 Dedenne-GX UNB 57
+1 Aegislash-EX PHF 65
+1 Marshadow-GX BUS 80
+1 Mew FCO 29
+Trainer Cards - 33
+4 Professor's Research SSH 201
+3 Guzma BUS 115
+4 Max Elixir BKP 102
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+4 Trainers' Mail ROS 92
+4 Ultra Ball SUM 135
+2 Float Stone BKT 137
+1 Field Blower GRI 125
+1 Switch HS 102
+1 Chaotic Swell CEC 187
+1 Dowsing Machine PLS 128
+Energy - 13
+13 Metal Energy SWSHEnergy 8
+```
 
 </div><div class="jb-col-9"><div class="jb-row"><div class="jb-col-3">
 
@@ -3455,11 +4943,42 @@ Energy - 0
 
 <p class="jb-center">KingK4RP, Ho-oh-EX Box</p>
 
-**Pokémon - 16** 4 Ho-Oh-EX DRX 22 2 Dedenne-GX UNB 57 2 Raikou VIV 50 2 Rayquaza VIV 138 1 Clefairy EVO 63 1 Crobat V DAA 104 1 Marshadow-GX BUS 80 1 Oranguru SUM 113 1 Tapu Lele-GX GRI 60 1 Zamazenta VIV 102
-
-**Trainer Cards - 34** 2 Ninja Boy STS 103 1 Guzma BUS 115 1 N FCO 105 1 Professor Sycamore XY 122 4 Acro Bike CES 123 4 Battle Compressor Team Flare Gear PHF 92 4 Quick Ball SSH 179 3 Trainers' Mail ROS 92 3 VS Seeker PHF 109 2 Escape Rope BUS 114 2 Float Stone PLF 99 2 Ultra Ball SUM 135 1 Ordinary Rod SSH 171 1 Professor's Letter XY 123 1 Rescue Stretcher GRI 130 1 Chaotic Swell CEC 187 1 Dowsing Machine PLS 128
-
-**Energy - 10** 3 Grass Energy SWSHEnergy 1 3 Lightning Energy SWSHEnergy 4 3 Metal Energy SWSHEnergy 8 1 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 16
+4 Ho-Oh-EX DRX 22
+2 Dedenne-GX UNB 57
+2 Raikou VIV 50
+2 Rayquaza VIV 138
+1 Clefairy EVO 63
+1 Crobat V DAA 104
+1 Marshadow-GX BUS 80
+1 Oranguru SUM 113
+1 Tapu Lele-GX GRI 60
+1 Zamazenta VIV 102
+Trainer Cards - 34
+2 Ninja Boy STS 103
+1 Guzma BUS 115
+1 N FCO 105
+1 Professor Sycamore XY 122
+4 Acro Bike CES 123
+4 Battle Compressor Team Flare Gear PHF 92
+4 Quick Ball SSH 179
+3 Trainers' Mail ROS 92
+3 VS Seeker PHF 109
+2 Escape Rope BUS 114
+2 Float Stone PLF 99
+2 Ultra Ball SUM 135
+1 Ordinary Rod SSH 171
+1 Professor's Letter XY 123
+1 Rescue Stretcher GRI 130
+1 Chaotic Swell CEC 187
+1 Dowsing Machine PLS 128
+Energy - 10
+3 Grass Energy SWSHEnergy 1
+3 Lightning Energy SWSHEnergy 4
+3 Metal Energy SWSHEnergy 8
+1 Fighting Energy SWSHEnergy 6
+```
 
 </div><div class="jb-col-6"><div class="jb-row"><div class="jb-col-3">
 
@@ -3467,11 +4986,37 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Ice Rider Calyrex VMAX</p>
 
-**Pokémon - 12** 3 Ice Rider Calyrex V CRE 45 3 Ice Rider Calyrex VMAX CRE 46 1 Cobalion-GX TEU 106 1 Crobat V SHF 44 1 Dedenne-GX UNB 195 1 Exeggcute PLF 4 1 Keldeo-EX BCR 49 1 Tapu Lele-GX GRI 60
-
-**Trainer Cards - 37** 3 Professor Sycamore STS 114 1 Guzma BUS 115 1 N FCO 105 1 Melony CRE 146 1 Pokémon Ranger STS 113 4 Aqua Patch GRI 119 4 Quick Ball SSH 179 4 Ultra Ball SUM 135 4 VS Seeker PHF 109 3 Float Stone BKT 137 3 Trainers' Mail ROS 92 2 Battle Compressor Team Flare Gear PHF 92 2 Choice Band GRI 121 1 Echoing Horn CRE 136 1 Field Blower GRI 125 1 Great Catcher CEC 192 1 Chaotic Swell CEC 187
-
-**Energy - 11** 11 Water Energy SMEnergy 12
+```decklist
+Pokémon - 12
+3 Ice Rider Calyrex V CRE 45
+3 Ice Rider Calyrex VMAX CRE 46
+1 Cobalion-GX TEU 106
+1 Crobat V SHF 44
+1 Dedenne-GX UNB 195
+1 Exeggcute PLF 4
+1 Keldeo-EX BCR 49
+1 Tapu Lele-GX GRI 60
+Trainer Cards - 37
+3 Professor Sycamore STS 114
+1 Guzma BUS 115
+1 N FCO 105
+1 Melony CRE 146
+1 Pokémon Ranger STS 113
+4 Aqua Patch GRI 119
+4 Quick Ball SSH 179
+4 Ultra Ball SUM 135
+4 VS Seeker PHF 109
+3 Float Stone BKT 137
+3 Trainers' Mail ROS 92
+2 Battle Compressor Team Flare Gear PHF 92
+2 Choice Band GRI 121
+1 Echoing Horn CRE 136
+1 Field Blower GRI 125
+1 Great Catcher CEC 192
+1 Chaotic Swell CEC 187
+Energy - 11
+11 Water Energy SMEnergy 12
+```
 
 </div><div class="jb-col-3">
 
@@ -3479,11 +5024,39 @@ Energy - 0
 
 <p class="jb-center">Twitchy, Mad Party</p>
 
-**Pokémon - 23** 4 Bunnelby DAA 150 4 Dedenne DAA 78 4 Galarian Mr. Rime DAA 36 4 Polteageist DAA 83 2 Dedenne-GX UNB 57 1 Crobat V DAA 182 1 Exeggcute PLF 4 1 Marshadow-GX BUS 80 1 Mew FCO 29 1 Oranguru SUM 113
-
-**Trainer Cards - 33** 3 Professor's Research SSH 178 1 Guzma BUS 115 1 N FCO 105 1 Pokémon Ranger STS 113 4 Battle Compressor Team Flare Gear PHF 92 4 Trainers' Mail ROS 92 4 Ultra Ball SUM 135 4 VS Seeker PHF 109 3 Quick Ball SSH 179 1 Escape Rope BUS 114 1 Float Stone BKT 137 1 Great Catcher CEC 192 1 Rescue Stretcher GRI 130 1 Special Charge STS 105 1 Target Whistle Team Flare Gear PHF 106 1 Parallel City BKT 145 1 Computer Search BCR 137
-
-**Energy - 4** 4 Double Colorless Energy SUM 136
+```decklist
+Pokémon - 23
+4 Bunnelby DAA 150
+4 Dedenne DAA 78
+4 Galarian Mr. Rime DAA 36
+4 Polteageist DAA 83
+2 Dedenne-GX UNB 57
+1 Crobat V DAA 182
+1 Exeggcute PLF 4
+1 Marshadow-GX BUS 80
+1 Mew FCO 29
+1 Oranguru SUM 113
+Trainer Cards - 33
+3 Professor's Research SSH 178
+1 Guzma BUS 115
+1 N FCO 105
+1 Pokémon Ranger STS 113
+4 Battle Compressor Team Flare Gear PHF 92
+4 Trainers' Mail ROS 92
+4 Ultra Ball SUM 135
+4 VS Seeker PHF 109
+3 Quick Ball SSH 179
+1 Escape Rope BUS 114
+1 Float Stone BKT 137
+1 Great Catcher CEC 192
+1 Rescue Stretcher GRI 130
+1 Special Charge STS 105
+1 Target Whistle Team Flare Gear PHF 106
+1 Parallel City BKT 145
+1 Computer Search BCR 137
+Energy - 4
+4 Double Colorless Energy SUM 136
+```
 
 </div></div></div></div></div></div><div class="jb-code-container">
     <div id="june21" class="deck_box">
@@ -3496,11 +5069,37 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Volcanion-EX</p>
 
-**Pokémon - 11** 2 Shaymin-EX ROS 106 1 Entei AOR 14 1 Flareon-EX GEN 106 2 Volcanion STS 25 1 Giratina PR-XY 184 1 Hoopa-EX AOR 36 3 Volcanion-EX STS 26
-
-**Trainer Cards - 38** 4 Professor Sycamore STS 114 3 Trainers' Mail ROS 92 1 Escape Rope PRC 127 1 Professor's Letter BKT 146 1 Pokémon Ranger STS 113 2 Scorched Earth FCO 110 2 Lysandre AOR 78 1 Karen PR-XY 177 1 Super Rod NVI 95 4 Ultra Ball SUM 135 2 Blacksmith FLF 88 4 Puzzle of Time BKP 109 1 Battle Compressor Team Flare Gear PHF 92 2 Fighting Fury Belt BKP 99 1 Energy Retrieval SUM 116 2 N FCO 105 2 Float Stone BKT 137 4 VS Seeker PHF 109
-
-**Energy - 11** 11 Fire Energy SMEnergy 11
+```decklist
+Pokémon - 11
+2 Shaymin-EX ROS 106
+1 Entei AOR 14
+1 Flareon-EX GEN 106
+2 Volcanion STS 25
+1 Giratina PR-XY 184
+1 Hoopa-EX AOR 36
+3 Volcanion-EX STS 26
+Trainer Cards - 38
+4 Professor Sycamore STS 114
+3 Trainers' Mail ROS 92
+1 Escape Rope PRC 127
+1 Professor's Letter BKT 146
+1 Pokémon Ranger STS 113
+2 Scorched Earth FCO 110
+2 Lysandre AOR 78
+1 Karen PR-XY 177
+1 Super Rod NVI 95
+4 Ultra Ball SUM 135
+2 Blacksmith FLF 88
+4 Puzzle of Time BKP 109
+1 Battle Compressor Team Flare Gear PHF 92
+2 Fighting Fury Belt BKP 99
+1 Energy Retrieval SUM 116
+2 N FCO 105
+2 Float Stone BKT 137
+4 VS Seeker PHF 109
+Energy - 11
+11 Fire Energy SMEnergy 11
+```
 
 </div><div class="jb-col-3">
 
@@ -3508,11 +5107,29 @@ Energy - 0
 
 <p class="jb-center">JarboyP, Lucario</p>
 
-**Pokémon - 12** 4 Talonflame STS 96 4 Riolu FCO 45 4 Lucario FCO 63
-
-**Trainer Cards - 38** 4 Trainers' Mail ROS 92 1 Lysandre FLF 90 3 N DEX 96 2 Super Rod BKT 149 4 Professor Sycamore BKP 107 3 Captivating Poké Puff STS 99 4 Ultra Ball FLF 99 2 Evosoda XY 116 1 Battle Compressor Team Flare Gear PHF 92 2 Teammates PRC 141 2 Level Ball AOR 76 4 VS Seeker PHF 109 2 Target Whistle Team Flare Gear PHF 106 4 Exp. Share NXD 87
-
-**Energy - 10** 10 Metal Energy Energy 8
+```decklist
+Pokémon - 12
+4 Talonflame STS 96
+4 Riolu FCO 45
+4 Lucario FCO 63
+Trainer Cards - 38
+4 Trainers' Mail ROS 92
+1 Lysandre FLF 90
+3 N DEX 96
+2 Super Rod BKT 149
+4 Professor Sycamore BKP 107
+3 Captivating Poké Puff STS 99
+4 Ultra Ball FLF 99
+2 Evosoda XY 116
+1 Battle Compressor Team Flare Gear PHF 92
+2 Teammates PRC 141
+2 Level Ball AOR 76
+4 VS Seeker PHF 109
+2 Target Whistle Team Flare Gear PHF 106
+4 Exp. Share NXD 87
+Energy - 10
+10 Metal Energy Energy 8
+```
 
 </div><div class="jb-col-3">
 
@@ -3520,11 +5137,35 @@ Energy - 0
 
 <p class="jb-center">KingK4RP, Trevenant BREAK</p>
 
-**Pokémon - 16** 2 Shaymin-EX ROS 77 2 Alakazam-EX FCO 25 3 Phantump BKP 64 2 Wobbuffet PHF 36 2 M Alakazam-EX FCO 26 3 Trevenant XY 55 2 Trevenant BREAK BKP 66
-
-**Trainer Cards - 36** 2 Bursting Balloon BKP 97 3 Trainers' Mail ROS 92 4 Dimension Valley PHF 93 1 Super Rod BKT 149 1 Lysandre AOR 78 4 Puzzle of Time BKP 109 1 Battle Compressor Team Flare Gear PHF 92 1 Float Stone PLF 99 3 N FCO 105 1 AZ PHF 91 2 Alakazam Spirit Link FCO 90 4 Ultra Ball FCO 113 1 Devolution Spray FCO 95 4 Professor Sycamore PHF 101 4 VS Seeker PHF 109
-
-**Energy - 8** 3 Mystery Energy PHF 112 5 Psychic Energy XYEnergy 8
+```decklist
+Pokémon - 16
+2 Shaymin-EX ROS 77
+2 Alakazam-EX FCO 25
+3 Phantump BKP 64
+2 Wobbuffet PHF 36
+2 M Alakazam-EX FCO 26
+3 Trevenant XY 55
+2 Trevenant BREAK BKP 66
+Trainer Cards - 36
+2 Bursting Balloon BKP 97
+3 Trainers' Mail ROS 92
+4 Dimension Valley PHF 93
+1 Super Rod BKT 149
+1 Lysandre AOR 78
+4 Puzzle of Time BKP 109
+1 Battle Compressor Team Flare Gear PHF 92
+1 Float Stone PLF 99
+3 N FCO 105
+1 AZ PHF 91
+2 Alakazam Spirit Link FCO 90
+4 Ultra Ball FCO 113
+1 Devolution Spray FCO 95
+4 Professor Sycamore PHF 101
+4 VS Seeker PHF 109
+Energy - 8
+3 Mystery Energy PHF 112
+5 Psychic Energy XYEnergy 8
+```
 
 </div><div class="jb-col-3">
 
@@ -3532,11 +5173,35 @@ Energy - 0
 
 <p class="jb-center">Twitchy, Rainbow Road</p>
 
-**Pokémon - 13** 1 Shaymin-EX ROS 106 1 Pawniard STS 63 1 Mr. Mime GEN 52 4 Xerneas BKT 107 1 Galvantula STS 42 2 Joltik STS 41 1 Bisharp STS 64 1 Mew-EX LTR 139 1 Volcanion-EX STS 107
-
-**Trainer Cards - 35** 4 Professor Sycamore STS 114 4 Trainers' Mail ROS 92 2 Lysandre AOR 78 1 Brigette BKT 134 1 Special Charge STS 105 4 Max Elixir BKP 102 3 Fighting Fury Belt BKP 99 2 Great Ball XY 118 4 Ultra Ball SUM 135 3 N FCO 105 2 Sky Field ROS 89 3 Float Stone BKT 137 2 VS Seeker PHF 109
-
-**Energy - 12** 8 Fairy Energy Energy 9 4 Double Colorless Energy SUM 136
+```decklist
+Pokémon - 13
+1 Shaymin-EX ROS 106
+1 Pawniard STS 63
+1 Mr. Mime GEN 52
+4 Xerneas BKT 107
+1 Galvantula STS 42
+2 Joltik STS 41
+1 Bisharp STS 64
+1 Mew-EX LTR 139
+1 Volcanion-EX STS 107
+Trainer Cards - 35
+4 Professor Sycamore STS 114
+4 Trainers' Mail ROS 92
+2 Lysandre AOR 78
+1 Brigette BKT 134
+1 Special Charge STS 105
+4 Max Elixir BKP 102
+3 Fighting Fury Belt BKP 99
+2 Great Ball XY 118
+4 Ultra Ball SUM 135
+3 N FCO 105
+2 Sky Field ROS 89
+3 Float Stone BKT 137
+2 VS Seeker PHF 109
+Energy - 12
+8 Fairy Energy Energy 9
+4 Double Colorless Energy SUM 136
+```
 
 </div></div><div class="jb-code-container">
     <div id="may21" class="deck_box">
@@ -3549,11 +5214,33 @@ Energy - 0
 
 <p class="jb-center">KingK4RP, Cramorant VMAX</p>
 
-**Pokémon - 18** 4 Cramorant V SSH 155 1 Dubwool V RCL 153 4 Porygon UNB 155 3 Porygon-Z UNB 157 2 Cramorant VMAX SHF 55 2 Crobat V DAA 104 1 Eldegoss V RCL 19 1 Kricketune V BST 6
-
-**Trainer Cards - 27** 1 Evolution Incense SSH 163 4 Quick Ball SSH 179 2 Glimwood Tangle DAA 162 4 Rare Candy SSH 180 1 Telescopic Sight VIV 160 3 Ultra Ball SUM 135 3 N FCO 105 4 Professor's Research SSH 178 3 Skyla RCL 166 2 Switch SSH 183
-
-**Energy - 15** 4 Recycle Energy UNM 212 4 Capture Energy RCL 171 4 Powerful {C} Energy DAA 176 3 Triple Acceleration Energy UNB 190
+```decklist
+Pokémon - 18
+4 Cramorant V SSH 155
+1 Dubwool V RCL 153
+4 Porygon UNB 155
+3 Porygon-Z UNB 157
+2 Cramorant VMAX SHF 55
+2 Crobat V DAA 104
+1 Eldegoss V RCL 19
+1 Kricketune V BST 6
+Trainer Cards - 27
+1 Evolution Incense SSH 163
+4 Quick Ball SSH 179
+2 Glimwood Tangle DAA 162
+4 Rare Candy SSH 180
+1 Telescopic Sight VIV 160
+3 Ultra Ball SUM 135
+3 N FCO 105
+4 Professor's Research SSH 178
+3 Skyla RCL 166
+2 Switch SSH 183
+Energy - 15
+4 Recycle Energy UNM 212
+4 Capture Energy RCL 171
+4 Powerful {C} Energy DAA 176
+3 Triple Acceleration Energy UNB 190
+```
 
 </div><div class="jb-col-3">
 
@@ -3561,11 +5248,33 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Victini VMAX</p>
 
-**Pokémon - 18** 3 Minccino SSH 145 3 Cinccino SSH 147 2 Crobat V DAA 104 3 Victini V SSH 25 1 Victini V BST 144 1 Volcanion UNB 25 3 Victini VMAX BST 22 1 Eldegoss V RCL 176 1 Mew PR-SM 215
-
-**Trainer Cards - 30** 4 N NVI 92 4 Boss's Orders RCL 154 4 Professor's Research SSH 201 1 Phoebe BST 130 4 Quick Ball SSH 179 3 Level Ball BST 129 2 Switch SSH 183 3 Pokémon Communication TEU 152 2 Fan of Waves BST 127 1 Escape Rope BST 125 2 Air Balloon SSH 156
-
-**Energy - 12** 10 Fire Energy SMEnergy 11 2 Heat {R} Energy DAA 174
+```decklist
+Pokémon - 18
+3 Minccino SSH 145
+3 Cinccino SSH 147
+2 Crobat V DAA 104
+3 Victini V SSH 25
+1 Victini V BST 144
+1 Volcanion UNB 25
+3 Victini VMAX BST 22
+1 Eldegoss V RCL 176
+1 Mew PR-SM 215
+Trainer Cards - 30
+4 N NVI 92
+4 Boss's Orders RCL 154
+4 Professor's Research SSH 201
+1 Phoebe BST 130
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+2 Switch SSH 183
+3 Pokémon Communication TEU 152
+2 Fan of Waves BST 127
+1 Escape Rope BST 125
+2 Air Balloon SSH 156
+Energy - 12
+10 Fire Energy SMEnergy 11
+2 Heat {R} Energy DAA 174
+```
 
 </div><div class="jb-col-3">
 
@@ -3573,11 +5282,37 @@ Energy - 0
 
 <p class="jb-center">JAMR, Sableye V</p>
 
-**Pokémon - 22** 3 Galarian Zigzagoon SSH 117 2 Sableye UNM 133 4 Sableye V SSH 120 2 Applin RCL 20 2 Flapple RCL 22 2 Arctozolt DAA 66 3 Koffing CEC 76 1 Mimikyu CEC 97 3 Weezing CEC 77
-
-**Trainer Cards - 26** 1 Circhester Bath VIV 150 2 Cape of Toughness DAA 160 2 Rare Fossil DAA 167 2 Crushing Hammer SUM 115 2 Evolution Incense SSH 163 1 Pal Pad SSH 172 2 Boss's Orders RCL 154 2 Bird Keeper SHF 66 3 Roxie CEC 205 1 Dark City UNM 193 2 Rocky Helmet VIV 159 3 Scoop Up Net RCL 165 1 Cara Liss VIV 149 2 Ordinary Rod SSH 171
-
-**Energy - 12** 2 Capture Energy RCL 171 7 Darkness Energy SWSHEnergy 7 3 Hiding {D} Energy DAA 175
+```decklist
+Pokémon - 22
+3 Galarian Zigzagoon SSH 117
+2 Sableye UNM 133
+4 Sableye V SSH 120
+2 Applin RCL 20
+2 Flapple RCL 22
+2 Arctozolt DAA 66
+3 Koffing CEC 76
+1 Mimikyu CEC 97
+3 Weezing CEC 77
+Trainer Cards - 26
+1 Circhester Bath VIV 150
+2 Cape of Toughness DAA 160
+2 Rare Fossil DAA 167
+2 Crushing Hammer SUM 115
+2 Evolution Incense SSH 163
+1 Pal Pad SSH 172
+2 Boss's Orders RCL 154
+2 Bird Keeper SHF 66
+3 Roxie CEC 205
+1 Dark City UNM 193
+2 Rocky Helmet VIV 159
+3 Scoop Up Net RCL 165
+1 Cara Liss VIV 149
+2 Ordinary Rod SSH 171
+Energy - 12
+2 Capture Energy RCL 171
+7 Darkness Energy SWSHEnergy 7
+3 Hiding {D} Energy DAA 175
+```
 
 </div><div class="jb-col-3">
 
@@ -3585,11 +5320,34 @@ Energy - 0
 
 <p class="jb-center">Twitchy, Corviknight VMAX</p>
 
-**Pokémon - 15** 2 Bronzor TEU 100 1 Bronzor BST 101 3 Corviknight V BST 109 1 Lucario & Melmetal-GX PR-SM 192 2 Zamazenta V SSH 196 2 Bronzong BST 102 3 Corviknight VMAX BST 110 1 Mew UNB 76
-
-**Trainer Cards - 33** 2 Metal Saucer SSH 214 3 Pokégear 3.0 SSH 174 1 Escape Rope PRC 127 3 Switch PRC 163 3 Cheryl BST 123 1 Pokémon Ranger STS 113 4 Quick Ball SSH 179 2 Ultra Ball SUM 135 3 Lillie's Poké Doll CEC 197 3 N FCO 105 4 Professor's Research SSH 201 2 Pokémon Communication BLW 99 2 Boss's Orders RCL 154
-
-**Energy - 12** 3 Coating {M} Energy VIV 163 9 Metal Energy Energy 8
+```decklist
+Pokémon - 15
+2 Bronzor TEU 100
+1 Bronzor BST 101
+3 Corviknight V BST 109
+1 Lucario & Melmetal-GX PR-SM 192
+2 Zamazenta V SSH 196
+2 Bronzong BST 102
+3 Corviknight VMAX BST 110
+1 Mew UNB 76
+Trainer Cards - 33
+2 Metal Saucer SSH 214
+3 Pokégear 3.0 SSH 174
+1 Escape Rope PRC 127
+3 Switch PRC 163
+3 Cheryl BST 123
+1 Pokémon Ranger STS 113
+4 Quick Ball SSH 179
+2 Ultra Ball SUM 135
+3 Lillie's Poké Doll CEC 197
+3 N FCO 105
+4 Professor's Research SSH 201
+2 Pokémon Communication BLW 99
+2 Boss's Orders RCL 154
+Energy - 12
+3 Coating {M} Energy VIV 163
+9 Metal Energy Energy 8
+```
 
 </div></div><div class="jb-code-container">
     <div id="apr21" class="deck_box">
@@ -3602,11 +5360,33 @@ Energy - 0
 
 <p class="jb-center">Bunnybird12, Gardevoir &amp; Sylveon-GX</p>
 
-**Pokémon - 10** 2 Oranguru SUM 113 4 Gardevoir & Sylveon-GX UNB 130 2 Spritzee UNB 141 2 Aromatisse XY 93
-
-**Trainer Cards - 39** 4 Professor Sycamore STS 114 3 Acerola BUS 112 2 Ultra Ball SUM 135 4 Friend Ball CES 131 1 Cynthia UPR 119 2 Guzma BUS 115 4 Fighting Fury Belt BKP 99 2 Power Plant UNB 183 3 N FCO 105 1 AZ PHF 91 2 Float Stone BKT 137 1 Field Blower GRI 125 4 VS Seeker PHF 109 1 Ordinary Rod SSH 215 4 Max Potion BKP 103 1 Colress PLS 118
-
-**Energy - 11** 4 Wonder Energy PRC 144 7 Fairy Energy SMEnergy 9
+```decklist
+Pokémon - 10
+2 Oranguru SUM 113
+4 Gardevoir & Sylveon-GX UNB 130
+2 Spritzee UNB 141
+2 Aromatisse XY 93
+Trainer Cards - 39
+4 Professor Sycamore STS 114
+3 Acerola BUS 112
+2 Ultra Ball SUM 135
+4 Friend Ball CES 131
+1 Cynthia UPR 119
+2 Guzma BUS 115
+4 Fighting Fury Belt BKP 99
+2 Power Plant UNB 183
+3 N FCO 105
+1 AZ PHF 91
+2 Float Stone BKT 137
+1 Field Blower GRI 125
+4 VS Seeker PHF 109
+1 Ordinary Rod SSH 215
+4 Max Potion BKP 103
+1 Colress PLS 118
+Energy - 11
+4 Wonder Energy PRC 144
+7 Fairy Energy SMEnergy 9
+```
 
 </div><div class="jb-col-3">
 
@@ -3614,11 +5394,39 @@ Energy - 0
 
 <p class="jb-center">Twitchy, Lickilicky Control</p>
 
-**Pokémon - 13** 3 Lickitung UNM 161 3 Lickilicky UNM 162 1 Cleffa UNB 131 3 Cottonee UNM 143 1 Mr. Mime GEN 52 2 Whimsicott UNM 144
-
-**Trainer Cards - 39** 1 Computer Search BCR 137 2 Pokémon Communication TEU 152 4 Crushing Hammer SSH 159 2 Rescue Stretcher GRI 130 3 Evolution Incense SSH 163 1 Team Skull Grunt SUM 133 2 Judge FLI 108 3 Professor Juniper PLB 84 3 Team Flare Grunt XY 129 1 Special Charge STS 105 2 N NVI 92 4 Scoop Up Net RCL 165 2 Power Plant UNB 183 1 Tool Scrapper RCL 208 2 Choice Band GRI 121 2 Escape Rope BUS 114 2 VS Seeker PHF 109 2 Boss's Orders RCL 154
-
-**Energy - 8** 2 Capture Energy RCL 171 4 Double Colorless Energy FCO 114 1 Draw Energy CEC 271 1 Triple Acceleration Energy UNB 190
+```decklist
+Pokémon - 13
+3 Lickitung UNM 161
+3 Lickilicky UNM 162
+1 Cleffa UNB 131
+3 Cottonee UNM 143
+1 Mr. Mime GEN 52
+2 Whimsicott UNM 144
+Trainer Cards - 39
+1 Computer Search BCR 137
+2 Pokémon Communication TEU 152
+4 Crushing Hammer SSH 159
+2 Rescue Stretcher GRI 130
+3 Evolution Incense SSH 163
+1 Team Skull Grunt SUM 133
+2 Judge FLI 108
+3 Professor Juniper PLB 84
+3 Team Flare Grunt XY 129
+1 Special Charge STS 105
+2 N NVI 92
+4 Scoop Up Net RCL 165
+2 Power Plant UNB 183
+1 Tool Scrapper RCL 208
+2 Choice Band GRI 121
+2 Escape Rope BUS 114
+2 VS Seeker PHF 109
+2 Boss's Orders RCL 154
+Energy - 8
+2 Capture Energy RCL 171
+4 Double Colorless Energy FCO 114
+1 Draw Energy CEC 271
+1 Triple Acceleration Energy UNB 190
+```
 
 </div><div class="jb-col-3">
 
@@ -3626,11 +5434,40 @@ Energy - 0
 
 <p class="jb-center">KingK4RP, Gardevoir &amp; Sylveon-GX</p>
 
-**Pokémon - 15** 1 Salamence V DAA 143 2 Togekiss V VIV 140 1 Salamence VMAX DAA 144 2 Togekiss VMAX VIV 141 4 Gardevoir & Sylveon-GX UNB 130 2 Spritzee UNB 141 1 Tapu Lele UPR 94 2 Aromatisse XY 93
-
-**Trainer Cards - 36** 1 Escape Rope BST 125 2 Big Charm SSH 158 1 Field Blower GRI 125 1 Guzma BUS 115 2 Cynthia & Caitlin CEC 189 2 Level Ball BST 129 2 Float Stone PLF 99 3 Ultra Ball SUM 135 2 Parallel City BKT 145 2 N FCO 105 1 Choice Band GRI 121 2 Guzma & Hala CEC 193 3 Professor's Research SSH 178 4 Tag Call CEC 206 1 Pokémon Communication HS 98 1 Dowsing Machine PLS 128 2 VS Seeker PHF 109 4 Max Potion GRI 128
-
-**Energy - 9** 2 Capture Energy RCL 171 1 Wonder Energy PRC 144 6 Fairy Energy SWSHEnergy 9
+```decklist
+Pokémon - 15
+1 Salamence V DAA 143
+2 Togekiss V VIV 140
+1 Salamence VMAX DAA 144
+2 Togekiss VMAX VIV 141
+4 Gardevoir & Sylveon-GX UNB 130
+2 Spritzee UNB 141
+1 Tapu Lele UPR 94
+2 Aromatisse XY 93
+Trainer Cards - 36
+1 Escape Rope BST 125
+2 Big Charm SSH 158
+1 Field Blower GRI 125
+1 Guzma BUS 115
+2 Cynthia & Caitlin CEC 189
+2 Level Ball BST 129
+2 Float Stone PLF 99
+3 Ultra Ball SUM 135
+2 Parallel City BKT 145
+2 N FCO 105
+1 Choice Band GRI 121
+2 Guzma & Hala CEC 193
+3 Professor's Research SSH 178
+4 Tag Call CEC 206
+1 Pokémon Communication HS 98
+1 Dowsing Machine PLS 128
+2 VS Seeker PHF 109
+4 Max Potion GRI 128
+Energy - 9
+2 Capture Energy RCL 171
+1 Wonder Energy PRC 144
+6 Fairy Energy SWSHEnergy 9
+```
 
 </div><div class="jb-col-3">
 
@@ -3638,11 +5475,35 @@ Energy - 0
 
 <p class="jb-center">CopyCody, Florges</p>
 
-**Pokémon - 20** 1 Oranguru SSH 148 1 Snorlax VIV 131 2 Stufful RCL 149 2 Togekiss V VIV 140 2 Bewear RCL 150 2 Togekiss VMAX VIV 141 3 Flabébé FLI 84 2 Mimikyu-GX LOT 206 3 Floette FLI 85 2 Florges FLI 86
-
-**Trainer Cards - 25** 2 Cynthia & Caitlin CEC 189 2 Will CEC 208 2 Marnie SSH 200 4 Nest Ball SUM 123 4 Evolution Incense SSH 163 1 Ear-Ringing Bell UNM 194 1 Muscle Band XY 121 3 Energy Spinner UNB 170 2 Switch SSH 183 2 Fan of Waves BST 127 2 Boss's Orders RCL 154
-
-**Energy - 15** 3 Double Colorless Energy NXD 92 10 Fairy Energy SMEnergy 9 2 Triple Acceleration Energy UNB 190
+```decklist
+Pokémon - 20
+1 Oranguru SSH 148
+1 Snorlax VIV 131
+2 Stufful RCL 149
+2 Togekiss V VIV 140
+2 Bewear RCL 150
+2 Togekiss VMAX VIV 141
+3 Flabébé FLI 84
+2 Mimikyu-GX LOT 206
+3 Floette FLI 85
+2 Florges FLI 86
+Trainer Cards - 25
+2 Cynthia & Caitlin CEC 189
+2 Will CEC 208
+2 Marnie SSH 200
+4 Nest Ball SUM 123
+4 Evolution Incense SSH 163
+1 Ear-Ringing Bell UNM 194
+1 Muscle Band XY 121
+3 Energy Spinner UNB 170
+2 Switch SSH 183
+2 Fan of Waves BST 127
+2 Boss's Orders RCL 154
+Energy - 15
+3 Double Colorless Energy NXD 92
+10 Fairy Energy SMEnergy 9
+2 Triple Acceleration Energy UNB 190
+```
 
 </div></div><div class="jb-code-container">
     <div id="mar21" class="deck_box">
@@ -3656,11 +5517,29 @@ Energy - 0
 
 <p class="jb-center">JimCheeseIt, Dragapult RCL</p>
 
-**Pokémon - 14** 3 Snorlax VIV 131 4 Dreepy RCL 89 1 Mewtwo UNB 75 2 Drakloak RCL 90 4 Dragapult RCL 91
-
-**Trainer Cards - 36** 4 Rare Candy SSH 180 4 Quick Ball SSH 179 3 Crushing Hammer SSH 159 2 Evolution Incense SSH 163 3 Marnie SSH 200 4 Rosa CEC 204 3 Boss's Orders RCL 189 4 Scoop Up Net RCL 165 2 Professor's Research SHF 60 2 Lillie's Poké Doll CEC 197 3 Great Ball SSH 164 2 Ordinary Rod SSH 171
-
-**Energy - 10** 10 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 14
+3 Snorlax VIV 131
+4 Dreepy RCL 89
+1 Mewtwo UNB 75
+2 Drakloak RCL 90
+4 Dragapult RCL 91
+Trainer Cards - 36
+4 Rare Candy SSH 180
+4 Quick Ball SSH 179
+3 Crushing Hammer SSH 159
+2 Evolution Incense SSH 163
+3 Marnie SSH 200
+4 Rosa CEC 204
+3 Boss's Orders RCL 189
+4 Scoop Up Net RCL 165
+2 Professor's Research SHF 60
+2 Lillie's Poké Doll CEC 197
+3 Great Ball SSH 164
+2 Ordinary Rod SSH 171
+Energy - 10
+10 Psychic Energy SWSHEnergy 5
+```
 
 </div><div class="jb-col-3">
 
@@ -3668,11 +5547,29 @@ Energy - 0
 
 <p class="jb-center">Blu3cheesecake, Duraludon RCL</p>
 
-**Pokémon - 14** 2 Minccino SSH 145 2 Cinccino SSH 147 4 Duraludon RCL 138 3 Galarian Meowth RCL 126 3 Galarian Perrserker SSH 128
-
-**Trainer Cards - 33** 2 Viridian Forest TEU 156 3 Marnie SSH 169 4 Metal Saucer SSH 170 3 Pokémon Communication TEU 152 2 Ordinary Rod SSH 171 2 Mallow & Lana CEC 198 4 Metal Goggles TEU 148 4 Professor's Research SSH 178 2 Erika's Hospitality TEU 140 4 Quick Ball SSH 179 3 Air Balloon SSH 156
-
-**Energy - 13** 11 Metal Energy SWSHEnergy 8 2 Capture Energy RCL 171
+```decklist
+Pokémon - 14
+2 Minccino SSH 145
+2 Cinccino SSH 147
+4 Duraludon RCL 138
+3 Galarian Meowth RCL 126
+3 Galarian Perrserker SSH 128
+Trainer Cards - 33
+2 Viridian Forest TEU 156
+3 Marnie SSH 169
+4 Metal Saucer SSH 170
+3 Pokémon Communication TEU 152
+2 Ordinary Rod SSH 171
+2 Mallow & Lana CEC 198
+4 Metal Goggles TEU 148
+4 Professor's Research SSH 178
+2 Erika's Hospitality TEU 140
+4 Quick Ball SSH 179
+3 Air Balloon SSH 156
+Energy - 13
+11 Metal Energy SWSHEnergy 8
+2 Capture Energy RCL 171
+```
 
 </div><div class="jb-col-3">
 
@@ -3680,11 +5577,34 @@ Energy - 0
 
 <p class="jb-center">kingK4RP, Galarian Weezing RCL</p>
 
-**Pokémon - 20** 2 Croagunk SSH 123 1 Galarian Zigzagoon SSH 117 4 Koffing SHF 41 3 Spiritomb UNB 112 4 Galarian Weezing RCL 113 2 Toxicroak SSH 124 2 Jirachi VIV 119 1 Mew UNB 76 1 Mewtwo UNB 75
-
-**Trainer Cards - 32** 1 Tool Scrapper RCL 168 2 Ordinary Rod SSH 171 2 Boss's Orders RCL 154 2 Reset Stamp UNM 206 4 Quick Ball SSH 179 2 Big Charm SSH 158 4 Scoop Up Net RCL 165 4 Professor's Research SSH 178 2 Pokégear 3.0 UNB 182 4 Marnie SSH 169 4 Pokémon Communication HS 98 1 U-Turn Board UNM 211
-
-**Energy - 8** 4 Darkness Energy HS 121 4 Hiding {D} Energy DAA 175
+```decklist
+Pokémon - 20
+2 Croagunk SSH 123
+1 Galarian Zigzagoon SSH 117
+4 Koffing SHF 41
+3 Spiritomb UNB 112
+4 Galarian Weezing RCL 113
+2 Toxicroak SSH 124
+2 Jirachi VIV 119
+1 Mew UNB 76
+1 Mewtwo UNB 75
+Trainer Cards - 32
+1 Tool Scrapper RCL 168
+2 Ordinary Rod SSH 171
+2 Boss's Orders RCL 154
+2 Reset Stamp UNM 206
+4 Quick Ball SSH 179
+2 Big Charm SSH 158
+4 Scoop Up Net RCL 165
+4 Professor's Research SSH 178
+2 Pokégear 3.0 UNB 182
+4 Marnie SSH 169
+4 Pokémon Communication HS 98
+1 U-Turn Board UNM 211
+Energy - 8
+4 Darkness Energy HS 121
+4 Hiding {D} Energy DAA 175
+```
 
 </div><div class="jb-col-3">
 
@@ -3692,11 +5612,33 @@ Energy - 0
 
 <p class="jb-center">AndreNGraham, Amazing Raikou</p>
 
-**Pokémon - 16** 1 Oranguru VIV 199 3 Porygon UNB 154 1 Porygon2 UNB 156 3 Porygon-Z UNB 157 4 Raikou VIV 50 3 Jirachi TEU 99 1 Mew UNB 76
-
-**Trainer Cards - 30** 2 Marnie SSH 169 2 Boss's Orders RCL 154 1 Chaotic Swell CEC 187 4 Bird Keeper DAA 159 4 Quick Ball SSH 179 2 Pokémon Communication TEU 152 4 Switch ROS 91 2 Lucky Egg SSH 167 4 Professor's Research SSH 178 3 Rare Candy CES 142 2 Great Ball SUM 119
-
-**Energy - 14** 3 Coating {M} Energy VIV 163 4 Speed Lightning Energy RCL 173 3 Aromatic {G} Energy VIV 162 4 Aurora Energy SSH 186
+```decklist
+Pokémon - 16
+1 Oranguru VIV 199
+3 Porygon UNB 154
+1 Porygon2 UNB 156
+3 Porygon-Z UNB 157
+4 Raikou VIV 50
+3 Jirachi TEU 99
+1 Mew UNB 76
+Trainer Cards - 30
+2 Marnie SSH 169
+2 Boss's Orders RCL 154
+1 Chaotic Swell CEC 187
+4 Bird Keeper DAA 159
+4 Quick Ball SSH 179
+2 Pokémon Communication TEU 152
+4 Switch ROS 91
+2 Lucky Egg SSH 167
+4 Professor's Research SSH 178
+3 Rare Candy CES 142
+2 Great Ball SUM 119
+Energy - 14
+3 Coating {M} Energy VIV 163
+4 Speed Lightning Energy RCL 173
+3 Aromatic {G} Energy VIV 162
+4 Aurora Energy SSH 186
+```
 
 </div></div><div class="jb-code-container">
     <div id="feb21" class="deck_box">
@@ -3707,41 +5649,114 @@ Energy - 0
 
 <p class="jb-center"><strong>1st Place<br /></strong>Bunnybird12, Eelektrik NVI</p>
 
-**Pokémon - 12** 1 Oranguru SUM 113 4 Tynamo NVI 38 4 Zeraora UNB 60 3 Eelektrik NVI 40
-
-**Trainer Cards - 36** 2 Viridian Forest TEU 156 2 Rescue Stretcher GRI 130 4 Trainers' Mail ROS 92 1 Professor's Letter XY 123 1 Escape Rope PRC 127 3 Sophocles BUS 123 4 Professor's Research SSH 178 4 Ultra Ball SUM 135 3 Cynthia UPR 119 4 U-Turn Board UNM 211 4 Nest Ball SUM 123 4 Level Ball NXD 89
-
-**Energy - 12** 12 Lightning Energy SMEnergy 13
+```decklist
+Pokémon - 12
+1 Oranguru SUM 113
+4 Tynamo NVI 38
+4 Zeraora UNB 60
+3 Eelektrik NVI 40
+Trainer Cards - 36
+2 Viridian Forest TEU 156
+2 Rescue Stretcher GRI 130
+4 Trainers' Mail ROS 92
+1 Professor's Letter XY 123
+1 Escape Rope PRC 127
+3 Sophocles BUS 123
+4 Professor's Research SSH 178
+4 Ultra Ball SUM 135
+3 Cynthia UPR 119
+4 U-Turn Board UNM 211
+4 Nest Ball SUM 123
+4 Level Ball NXD 89
+Energy - 12
+12 Lightning Energy SMEnergy 13
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place</strong><br />JimCheeseIt, Entei LOT</p>
 
-**Pokémon - 9** 1 Oranguru SUM 113 4 Entei LOT 47 2 Slugma LOT 43 2 Magcargo CES 24
-
-**Trainer Cards - 35** 2 Energy Retrieval SSH 160 2 Trainers' Mail ROS 92 3 Professor's Letter XY 123 4 Pokégear 3.0 SSH 174 2 Pal Pad SSH 172 4 Welder UNB 189 1 Rescue Stretcher GRI 130 1 Blacksmith FLF 88 3 Nest Ball SUM 123 1 Escape Rope PLS 120 1 Field Blower GRI 125 4 Ultra Ball SUM 135 1 N FCO 105 4 Acro Bike CES 123 2 Switch SSH 183
-
-**Energy - 16** 16 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 9
+1 Oranguru SUM 113
+4 Entei LOT 47
+2 Slugma LOT 43
+2 Magcargo CES 24
+Trainer Cards - 35
+2 Energy Retrieval SSH 160
+2 Trainers' Mail ROS 92
+3 Professor's Letter XY 123
+4 Pokégear 3.0 SSH 174
+2 Pal Pad SSH 172
+4 Welder UNB 189
+1 Rescue Stretcher GRI 130
+1 Blacksmith FLF 88
+3 Nest Ball SUM 123
+1 Escape Rope PLS 120
+1 Field Blower GRI 125
+4 Ultra Ball SUM 135
+1 N FCO 105
+4 Acro Bike CES 123
+2 Switch SSH 183
+Energy - 16
+16 Fire Energy SWSHEnergy 2
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place<br /></strong>Twitchy, Duraludon RCL</p>
 
-**Pokémon - 10** 2 Oranguru SUM 113 4 Duraludon RCL 138 1 Zamazenta RCL 140 3 Dhelmise GRI 59
-
-**Trainer Cards - 39** 3 Trainers' Mail ROS 92 4 Metal Saucer SSH 214 4 Switch PRC 163 3 Professor Sycamore BKP 107 1 Super Rod NVI 95 4 Nest Ball SUM 123 3 Guzma BUS 115 4 Max Elixir BKP 102 3 N FCO 105 3 Turbo Patch DAA 172 2 Ultra Ball ROS 93 3 Muscle Band XY 121 2 Professor Kukui SUM 128
-
-**Energy - 11** 11 Metal Energy Energy 8
+```decklist
+Pokémon - 10
+2 Oranguru SUM 113
+4 Duraludon RCL 138
+1 Zamazenta RCL 140
+3 Dhelmise GRI 59
+Trainer Cards - 39
+3 Trainers' Mail ROS 92
+4 Metal Saucer SSH 214
+4 Switch PRC 163
+3 Professor Sycamore BKP 107
+1 Super Rod NVI 95
+4 Nest Ball SUM 123
+3 Guzma BUS 115
+4 Max Elixir BKP 102
+3 N FCO 105
+3 Turbo Patch DAA 172
+2 Ultra Ball ROS 93
+3 Muscle Band XY 121
+2 Professor Kukui SUM 128
+Energy - 11
+11 Metal Energy Energy 8
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>4th Place</strong><br />KingK4RP, Turtonator DRM</p>
 
-**Pokémon - 9** 1 Oranguru SUM 113 4 Turtonator DRM 50 2 Poipole LOT 107 2 Naganadel LOT 108
-
-**Trainer Cards - 36** 4 Mysterious Treasure FLI 113 4 Trainers' Mail ROS 92 2 Professor's Letter XY 123 2 Pal Pad SSH 172 2 Super Rod BKT 149 4 Welder UNB 189 2 Scorched Earth PRC 138 1 Nest Ball SUM 123 3 Max Elixir BKP 102 4 Fiery Torch FLF 89 3 Acro Bike CES 123 4 Energy Retrieval SUM 116 1 Superior Energy Retrieval PLF 103
-
-**Energy - 15** 15 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 9
+1 Oranguru SUM 113
+4 Turtonator DRM 50
+2 Poipole LOT 107
+2 Naganadel LOT 108
+Trainer Cards - 36
+4 Mysterious Treasure FLI 113
+4 Trainers' Mail ROS 92
+2 Professor's Letter XY 123
+2 Pal Pad SSH 172
+2 Super Rod BKT 149
+4 Welder UNB 189
+2 Scorched Earth PRC 138
+1 Nest Ball SUM 123
+3 Max Elixir BKP 102
+4 Fiery Torch FLF 89
+3 Acro Bike CES 123
+4 Energy Retrieval SUM 116
+1 Superior Energy Retrieval PLF 103
+Energy - 15
+15 Fire Energy SWSHEnergy 2
+```
 
 </div></div>
 
@@ -4390,41 +6405,129 @@ Energy - 6
 
 <p class="jb-center"><strong>1st Place<br /></strong>Joecreed, Palossand Mill</p>
 
-**Pokémon - 19** 1 Ditto {\*} LOT 154 3 Alolan Grimer UNM 127 2 Alolan Muk TEU 84 4 Jirachi TEU 99 1 Mew UNB 76 4 Sandygast RCL 81 4 Palossand RCL 82
-
-**Trainer Cards - 33** 4 Quick Ball SSH 179 4 Pokémon Communication TEU 152 4 Cursed Shovel RCL 157 4 Professor's Research SSH 178 2 Reset Stamp UNM 206 3 Cynthia UPR 119 1 Escape Board UPR 122 4 Scoop Up Net RCL 165 2 Bellelba & Brycen-Man CEC 186 3 Lillie's Poké Doll CEC 197 1 Adventure Bag LOT 167 1 Lana's Fishing Rod CEC 195
-
-**Energy - 8** 4 Twin Energy RCL 174 4 Triple Acceleration Energy UNB 190
+```decklist
+Pokémon - 19
+1 Ditto {*} LOT 154
+3 Alolan Grimer UNM 127
+2 Alolan Muk TEU 84
+4 Jirachi TEU 99
+1 Mew UNB 76
+4 Sandygast RCL 81
+4 Palossand RCL 82
+Trainer Cards - 33
+4 Quick Ball SSH 179
+4 Pokémon Communication TEU 152
+4 Cursed Shovel RCL 157
+4 Professor's Research SSH 178
+2 Reset Stamp UNM 206
+3 Cynthia UPR 119
+1 Escape Board UPR 122
+4 Scoop Up Net RCL 165
+2 Bellelba & Brycen-Man CEC 186
+3 Lillie's Poké Doll CEC 197
+1 Adventure Bag LOT 167
+1 Lana's Fishing Rod CEC 195
+Energy - 8
+4 Twin Energy RCL 174
+4 Triple Acceleration Energy UNB 190
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place<br /></strong>Bunnybird12, Golurk</p>
 
-**Pokémon - 19** 1 Ditto {\*} LOT 154 1 Oranguru SSH 148 4 Blitzle LOT 81 4 Zebstrika LOT 82 4 Golett CEC 89 1 Mew UNB 76 4 Golurk CEC 90
-
-**Trainer Cards - 33** 4 Mysterious Treasure FLI 113 3 Pokémon Catcher BKP 105 2 Buff Padding TEU 136 4 Quick Ball SSH 179 4 Evolution Incense SSH 163 2 Switch CES 147 2 Ordinary Rod SSH 171 2 Friend Ball CES 131 2 Pokémon Communication TEU 152 1 Air Balloon SSH 156 2 Spell Tag LOT 190 4 Great Ball XY 118 1 Adventure Bag LOT 167
-
-**Energy - 8** 4 Twin Energy RCL 174 4 Triple Acceleration Energy UNB 190
+```decklist
+Pokémon - 19
+1 Ditto {*} LOT 154
+1 Oranguru SSH 148
+4 Blitzle LOT 81
+4 Zebstrika LOT 82
+4 Golett CEC 89
+1 Mew UNB 76
+4 Golurk CEC 90
+Trainer Cards - 33
+4 Mysterious Treasure FLI 113
+3 Pokémon Catcher BKP 105
+2 Buff Padding TEU 136
+4 Quick Ball SSH 179
+4 Evolution Incense SSH 163
+2 Switch CES 147
+2 Ordinary Rod SSH 171
+2 Friend Ball CES 131
+2 Pokémon Communication TEU 152
+1 Air Balloon SSH 156
+2 Spell Tag LOT 190
+4 Great Ball XY 118
+1 Adventure Bag LOT 167
+Energy - 8
+4 Twin Energy RCL 174
+4 Triple Acceleration Energy UNB 190
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place<br /></strong>Iskalla, Lapras</p>
 
-**Pokémon - 15** 1 Oranguru SSH 148 4 Jirachi TEU 99 4 Lapras TEU 31 2 Snom SSH 63 1 Tapu Fini UNM 53 1 Volcanion {\*} FLI 31 2 Frosmoth SSH 64
-
-**Trainer Cards - 34** 2 Viridian Forest TEU 156 2 Energy Retrieval SSH 160 1 Ordinary Rod SSH 171 4 Professor's Research SSH 178 4 Quick Ball SSH 179 2 Big Charm SSH 158 2 Escape Board UPR 122 2 Pokémon Communication TEU 152 3 Marnie SSH 169 4 Switch SSH 183 3 Great Ball SSH 164 3 Capacious Bucket RCL 156 2 Boss's Orders RCL 154
-
-**Energy - 11** 11 Water Energy SWSHEnergy 3
+```decklist
+Pokémon - 15
+1 Oranguru SSH 148
+4 Jirachi TEU 99
+4 Lapras TEU 31
+2 Snom SSH 63
+1 Tapu Fini UNM 53
+1 Volcanion {*} FLI 31
+2 Frosmoth SSH 64
+Trainer Cards - 34
+2 Viridian Forest TEU 156
+2 Energy Retrieval SSH 160
+1 Ordinary Rod SSH 171
+4 Professor's Research SSH 178
+4 Quick Ball SSH 179
+2 Big Charm SSH 158
+2 Escape Board UPR 122
+2 Pokémon Communication TEU 152
+3 Marnie SSH 169
+4 Switch SSH 183
+3 Great Ball SSH 164
+3 Capacious Bucket RCL 156
+2 Boss's Orders RCL 154
+Energy - 11
+11 Water Energy SWSHEnergy 3
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>4th Place<br /></strong>ReyesMR, Galarian Obstagoon</p>
 
-**Pokemon - 17** 4 Galarian Zigzagoon SSH 117 2 Galarian Linoone SSH 118 4 Galarian Obstagoon SSH 119 4 Jirachi TEU 99 1 Mew UNB 76 1 Mimikyu CEC 97 1 Tyrogue UNB 100
-
-**Trainer - 35** 4 Marnie SSH 169 3 Rosa CEC 204 2 Cynthia UPR 119 1 Professor's Research SSH 178 4 Lillie's Poké Doll CEC 197 4 Quick Ball SSH 179 4 Rare Candy SSH 180 3 Switch SSH 183 2 Evolution Incense SSH 163 1 Pokémon Communication TEU 152 1 Boss's Orders RCL 154 1 Ordinary Rod SSH 171 1 Dangerous Drill TEU 138 2 Escape Board UPR 122 1 Counter Gain LOT 170 1 Stealthy Hood UNB 186
-
-**Energy - 8** 8 Darkness Energy SWSHEnergy 7
+```decklist
+Pokemon - 17
+4 Galarian Zigzagoon SSH 117
+2 Galarian Linoone SSH 118
+4 Galarian Obstagoon SSH 119
+4 Jirachi TEU 99
+1 Mew UNB 76
+1 Mimikyu CEC 97
+1 Tyrogue UNB 100
+Trainer - 35
+4 Marnie SSH 169
+3 Rosa CEC 204
+2 Cynthia UPR 119
+1 Professor's Research SSH 178
+4 Lillie's Poké Doll CEC 197
+4 Quick Ball SSH 179
+4 Rare Candy SSH 180
+3 Switch SSH 183
+2 Evolution Incense SSH 163
+1 Pokémon Communication TEU 152
+1 Boss's Orders RCL 154
+1 Ordinary Rod SSH 171
+1 Dangerous Drill TEU 138
+2 Escape Board UPR 122
+1 Counter Gain LOT 170
+1 Stealthy Hood UNB 186
+Energy - 8
+8 Darkness Energy SWSHEnergy 7
+```
 
 </div></div><div class="jb-code-container">
     <div id="jul20" class="deck_box">
@@ -4435,41 +6538,125 @@ Energy - 6
 
 <p class="jb-center"><strong>1st Place<br /></strong>Bunnybird12, Luxio</p>
 
-**Pokémon - 14** 1 Galarian Zigzagoon SSH 117 4 Shinx UPR 45 4 Luxio UPR 47 3 Zubat PLS 53 2 Golbat PHF 32
-
-**Trainer Cards - 40** 3 Trainers' Mail ROS 92 2 Crushing Hammer SSH 159 3 Evolution Incense SSH 163 2 N FCO 105 1 Professor's Letter BKT 146 2 Hypnotoxic Laser PLS 123 4 Cynthia UPR 119 2 Enhanced Hammer GRI 124 4 Scoop Up Net RCL 165 4 Level Ball AOR 76 4 Electropower LOT 172 2 Muscle Band XY 121 2 Nest Ball SUM 123 3 Professor Sycamore PHF 101 1 VS Seeker PHF 109 1 Faba LOT 173
-
-**Energy - 6** 6 Lightning Energy SMEnergy 13
+```decklist
+Pokémon - 14
+1 Galarian Zigzagoon SSH 117
+4 Shinx UPR 45
+4 Luxio UPR 47
+3 Zubat PLS 53
+2 Golbat PHF 32
+Trainer Cards - 40
+3 Trainers' Mail ROS 92
+2 Crushing Hammer SSH 159
+3 Evolution Incense SSH 163
+2 N FCO 105
+1 Professor's Letter BKT 146
+2 Hypnotoxic Laser PLS 123
+4 Cynthia UPR 119
+2 Enhanced Hammer GRI 124
+4 Scoop Up Net RCL 165
+4 Level Ball AOR 76
+4 Electropower LOT 172
+2 Muscle Band XY 121
+2 Nest Ball SUM 123
+3 Professor Sycamore PHF 101
+1 VS Seeker PHF 109
+1 Faba LOT 173
+Energy - 6
+6 Lightning Energy SMEnergy 13
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>2nd Place<br /></strong>Joecreed, Alolan Dugtrio</p>
 
-**Pokémon - 14** 2 Pidgey TEU 122 2 Pidgeotto TEU 123 2 Alolan Meowth LOT 118 4 Alolan Diglett LOT 122 4 Alolan Dugtrio UPR 79
-
-**Trainer Cards - 33** 4 Professor's Letter XY 123 2 Rescue Stretcher GRI 130 1 Lysandre FLF 90 4 Mt. Coronet UPR 130 4 Professor Sycamore BKP 107 2 Switch EVO 88 4 Cynthia UPR 119 4 Energy Recycler GRI 123 4 Level Ball AOR 76 4 VS Seeker PHF 109
-
-**Energy - 13** 13 Metal Energy EVO 98
+```decklist
+Pokémon - 14
+2 Pidgey TEU 122
+2 Pidgeotto TEU 123
+2 Alolan Meowth LOT 118
+4 Alolan Diglett LOT 122
+4 Alolan Dugtrio UPR 79
+Trainer Cards - 33
+4 Professor's Letter XY 123
+2 Rescue Stretcher GRI 130
+1 Lysandre FLF 90
+4 Mt. Coronet UPR 130
+4 Professor Sycamore BKP 107
+2 Switch EVO 88
+4 Cynthia UPR 119
+4 Energy Recycler GRI 123
+4 Level Ball AOR 76
+4 VS Seeker PHF 109
+Energy - 13
+13 Metal Energy EVO 98
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>3rd Place<br /></strong>Iskalla, Vespiquen/Flareon</p>
 
-**Pokémon - 27** 4 Eevee SUM 101 2 Pidgey TEU 122 2 Pidgeotto TEU 123 3 Flareon PLF 12 4 Combee AOR 9 4 Exeggcute PLF 4 4 Vespiquen AOR 10 4 Unown AOR 30
-
-**Trainer Cards - 25** 1 Rescue Stretcher GRI 130 4 Professor Sycamore BKP 107 2 Hypnotoxic Laser PLS 123 1 Blacksmith FLF 88 4 Battle Compressor PHF 92 1 Special Charge STS 105 1 Guzma BUS 115 1 Colress PLS 118 4 Ultra Ball SUM 135 1 Cynthia UPR 119 1 Field Blower GRI 125 2 VS Seeker PHF 109 2 Level Ball NXD 89
-
-**Energy - 8** 4 Double Colorless Energy FCO 114 4 Fire Energy SWSHEnergy 2
+```decklist
+Pokémon - 27
+4 Eevee SUM 101
+2 Pidgey TEU 122
+2 Pidgeotto TEU 123
+3 Flareon PLF 12
+4 Combee AOR 9
+4 Exeggcute PLF 4
+4 Vespiquen AOR 10
+4 Unown AOR 30
+Trainer Cards - 25
+1 Rescue Stretcher GRI 130
+4 Professor Sycamore BKP 107
+2 Hypnotoxic Laser PLS 123
+1 Blacksmith FLF 88
+4 Battle Compressor PHF 92
+1 Special Charge STS 105
+1 Guzma BUS 115
+1 Colress PLS 118
+4 Ultra Ball SUM 135
+1 Cynthia UPR 119
+1 Field Blower GRI 125
+2 VS Seeker PHF 109
+2 Level Ball NXD 89
+Energy - 8
+4 Double Colorless Energy FCO 114
+4 Fire Energy SWSHEnergy 2
+```
 
 </div><div class="jb-col-3">
 
 <p class="jb-center"><strong>4th Place<br /></strong>JarboyP, Vespiquen/Flareon</p>
 
-**Pokémon - 24** 1 Eevee PLF 90 2 Eevee UPR 105 1 Eevee CEC 167 4 Flareon PLF 12 4 Combee LOT 31 4 Vespiquen AOR 10 4 Emolga TEU 46 4 Unown AOR 30
-
-**Trainer Cards - 28** 2 Rescue Stretcher GRI 130 2 Quick Ball SSH 179 1 Lysandre FLF 90 4 Acro Bike PRC 122 3 Professor Sycamore BKP 107 4 Ultra Ball FLF 99 2 Roxie CEC 205 4 Battle Compressor PHF 92 1 Teammates PRC 141 1 Parallel City BKT 145 1 N FCO 105 1 Float Stone BKT 137 2 VS Seeker PHF 109
-
-**Energy - 8** 4 Double Colorless Energy NXD 92 4 Twin Energy RCL 174
+```decklist
+Pokémon - 24
+1 Eevee PLF 90
+2 Eevee UPR 105
+1 Eevee CEC 167
+4 Flareon PLF 12
+4 Combee LOT 31
+4 Vespiquen AOR 10
+4 Emolga TEU 46
+4 Unown AOR 30
+Trainer Cards - 28
+2 Rescue Stretcher GRI 130
+2 Quick Ball SSH 179
+1 Lysandre FLF 90
+4 Acro Bike PRC 122
+3 Professor Sycamore BKP 107
+4 Ultra Ball FLF 99
+2 Roxie CEC 205
+4 Battle Compressor PHF 92
+1 Teammates PRC 141
+1 Parallel City BKT 145
+1 N FCO 105
+1 Float Stone BKT 137
+2 VS Seeker PHF 109
+Energy - 8
+4 Double Colorless Energy NXD 92
+4 Twin Energy RCL 174
+```
 
 </div></div>
 

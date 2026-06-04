@@ -491,11 +491,34 @@ Evolve Victini V into Victini VMAX and use a combination of manually attaching F
 
 Based on a list by [Peter Kica](https://twitter.com/PeterJoltik/status/1391186463170170882) and [Angel Miranda](https://twitter.com/AngelJMiranda)
 
-**Pokémon - 16** 2 Crobat V DAA 104 2 Umbreon V EVS 94 2 Umbreon VMAX EVS 95 2 Victini V BST 21 2 Victini V SSH 25 4 Victini VMAX BST 22 1 Eldegoss V RCL 19 1 Kricketune V BST 6
-
-**Trainer Cards - 32** 4 Professor's Research CPA 62 3 Boss's Orders RCL 154 2 Marnie CPA 56 2 Rose DAA 168 4 Quick Ball SSH 179 3 Pokégear 3.0 SSH 174 2 Air Balloon SSH 156 2 Big Charm SSH 158 2 Energy Search SSH 161 2 Escape Rope BST 125 2 Evolution Incense SSH 163 2 Switch SSH 183 2 Rose Tower DAA 169
-
-**Energy - 12** 10 Fire Energy SWSHEnergy 2 2 Heat Fire Energy DAA 174
+```decklist
+Pokémon - 16
+2 Crobat V DAA 104
+2 Umbreon V EVS 94
+2 Umbreon VMAX EVS 95
+2 Victini V BST 21
+2 Victini V SSH 25
+4 Victini VMAX BST 22
+1 Eldegoss V RCL 19
+1 Kricketune V BST 6
+Trainer Cards - 32
+4 Professor's Research CPA 62
+3 Boss's Orders RCL 154
+2 Marnie CPA 56
+2 Rose DAA 168
+4 Quick Ball SSH 179
+3 Pokégear 3.0 SSH 174
+2 Air Balloon SSH 156
+2 Big Charm SSH 158
+2 Energy Search SSH 161
+2 Escape Rope BST 125
+2 Evolution Incense SSH 163
+2 Switch SSH 183
+2 Rose Tower DAA 169
+Energy - 12
+10 Fire Energy SWSHEnergy 2
+2 Heat Fire Energy DAA 174
+```
 
 ### Alternate Lists
 
@@ -1070,11 +1093,29 @@ Bench and evolve Mareep into Flaaffy and use Pikachu V’s Electrify attack and 
 
 ### Example Deck List
 
-**Pokémon - 18** 4 Mareep DAA 55 4 Flaaffy EVS 55 3 Pikachu V VIV 43 3 Pikachu VMAX VIV 44 2 Crobat V DAA 104 2 Tapu Koko V SSH 72
-
-**Trainer Cards - 32** 3 Boss's Orders RCL 154 3 Marnie CPA 56 3 Professor's Research CPA 62 2 Bird Keeper DAA 159 4 Quick Ball SSH 179 3 Air Balloon SSH 156 3 Evolution Incense SSH 163 3 Level Ball BST 129 3 Switch SSH 183 2 Ordinary Rod SSH 171 3 Stormy Mountains EVS 161
-
-**Energy - 10** 10 Lightning Energy SWSHEnergy 4
+```decklist
+Pokémon - 18
+4 Mareep DAA 55
+4 Flaaffy EVS 55
+3 Pikachu V VIV 43
+3 Pikachu VMAX VIV 44
+2 Crobat V DAA 104
+2 Tapu Koko V SSH 72
+Trainer Cards - 32
+3 Boss's Orders RCL 154
+3 Marnie CPA 56
+3 Professor's Research CPA 62
+2 Bird Keeper DAA 159
+4 Quick Ball SSH 179
+3 Air Balloon SSH 156
+3 Evolution Incense SSH 163
+3 Level Ball BST 129
+3 Switch SSH 183
+2 Ordinary Rod SSH 171
+3 Stormy Mountains EVS 161
+Energy - 10
+10 Lightning Energy SWSHEnergy 4
+```
 
 </div></div>
 
@@ -1356,11 +1397,29 @@ Play down Gardevoir V and, if going second, start with Cresselia in the Active S
 
 Based on a pre-rotation [deck list by jonnybrah](https://play.limitlesstcg.com/tournament/60dacf495a6b7e0b0e262de6/player/jonnybrah/decklist).
 
-**Pokémon - 11** 4 Gardevoir V CPA 16 3 Gardevoir VMAX CPA 17 3 Cresselia CRE 64 1 Galarian Articuno V CRE 58
-
-**Trainer Cards - 37** 4 Professor's Research CPA 62 4 Rose DAA 168 2 Boss's Orders RCL 154 2 Zinnia's Resolve EVS 164 4 Crushing Hammer SSH 159 4 Fog Crystal CRE 140 4 Quick Ball SSH 179 3 Switch SSH 183 2 Air Balloon SSH 156 2 Suspicious Food Tin CPA 66 1 Evolution Incense SSH 163 1 Tool Scrapper RCL 168 4 Rose Tower DAA 169
-
-**Energy - 12** 12 Psychic Energy SWSHEnergy 5
+```decklist
+Pokémon - 11
+4 Gardevoir V CPA 16
+3 Gardevoir VMAX CPA 17
+3 Cresselia CRE 64
+1 Galarian Articuno V CRE 58
+Trainer Cards - 37
+4 Professor's Research CPA 62
+4 Rose DAA 168
+2 Boss's Orders RCL 154
+2 Zinnia's Resolve EVS 164
+4 Crushing Hammer SSH 159
+4 Fog Crystal CRE 140
+4 Quick Ball SSH 179
+3 Switch SSH 183
+2 Air Balloon SSH 156
+2 Suspicious Food Tin CPA 66
+1 Evolution Incense SSH 163
+1 Tool Scrapper RCL 168
+4 Rose Tower DAA 169
+Energy - 12
+12 Psychic Energy SWSHEnergy 5
+```
 
 </div></div>
 
@@ -2066,11 +2125,31 @@ Get out Houndour and Single Strike Urshifu V on early turns so that they can evo
 
 Source: [Anthony Alvarez (via Joey G)](https://twitter.com/JoeyREDSs/status/1382154182690492416)
 
-**Pokémon - 18** 4 Houndour BST 95 4 Houndoom BST 96 3 Single Strike Urshifu V BST 85 3 Single Strike Urshifu VMAX BST 86 2 Tyranitar V BST 97 2 Crobat V DAA 104
-
-**Trainer Cards - 32** 4 Boss's Orders RCL 154 4 Marnie CPA 56 4 Professor's Research CPA 62 4 Quick Ball SSH 179 4 Urn of Vitality BST 139 3 Evolution Incense SSH 163 2 Air Balloon SSH 156 2 Level Ball BST 129 2 Single Strike Scroll of Scorn BST 133 2 Switch SSH 183 1 Tower of Darkness BST 137
-
-**Energy - 10** 4 Single Strike Energy BST 141 3 Capture Energy RCL 171 3 Fighting Energy SWSHEnergy 6
+```decklist
+Pokémon - 18
+4 Houndour BST 95
+4 Houndoom BST 96
+3 Single Strike Urshifu V BST 85
+3 Single Strike Urshifu VMAX BST 86
+2 Tyranitar V BST 97
+2 Crobat V DAA 104
+Trainer Cards - 32
+4 Boss's Orders RCL 154
+4 Marnie CPA 56
+4 Professor's Research CPA 62
+4 Quick Ball SSH 179
+4 Urn of Vitality BST 139
+3 Evolution Incense SSH 163
+2 Air Balloon SSH 156
+2 Level Ball BST 129
+2 Single Strike Scroll of Scorn BST 133
+2 Switch SSH 183
+1 Tower of Darkness BST 137
+Energy - 10
+4 Single Strike Energy BST 141
+3 Capture Energy RCL 171
+3 Fighting Energy SWSHEnergy 6
+```
 
 ### Alternate Lists
 
@@ -2486,11 +2565,30 @@ Play down Sobble and Zamazenta V and attach energy to Zamazenta V via manual att
 
 Source: [Brandon Macleod](https://twitter.com/Brand0Macleod/status/1428515663581229067/photo/1)
 
-**Pokémon - 17** 4 Sobble CRE 41 4 Drizzile SSH 56 2 Inteleon CRE 43 1 Inteleon SSH 58 4 Zamazenta V SSH 139 2 Zacian V SSH 138
-
-**Trainer Cards - 32** 4 Boss's Orders RCL 154 4 Marnie CPA 56 3 Professor's Research CPA 62 4 Metal Saucer SSH 170 4 Quick Ball SSH 179 3 Level Ball BST 129 2 Air Balloon SSH 156 2 Evolution Incense SSH 163 2 Rusted Shield SHF 61 2 Circhester Bath VIV 150 2 Crystal Cave EVS 144
-
-**Energy - 11** 9 Metal Energy SWSHEnergy 8 2 Capture Energy RCL 171
+```decklist
+Pokémon - 17
+4 Sobble CRE 41
+4 Drizzile SSH 56
+2 Inteleon CRE 43
+1 Inteleon SSH 58
+4 Zamazenta V SSH 139
+2 Zacian V SSH 138
+Trainer Cards - 32
+4 Boss's Orders RCL 154
+4 Marnie CPA 56
+3 Professor's Research CPA 62
+4 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+3 Level Ball BST 129
+2 Air Balloon SSH 156
+2 Evolution Incense SSH 163
+2 Rusted Shield SHF 61
+2 Circhester Bath VIV 150
+2 Crystal Cave EVS 144
+Energy - 11
+9 Metal Energy SWSHEnergy 8
+2 Capture Energy RCL 171
+```
 
 </div></div>
 

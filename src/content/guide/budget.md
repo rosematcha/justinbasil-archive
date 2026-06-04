@@ -178,11 +178,30 @@ With the help of Miraidon ex’s Tandem Unit Ability, get Regieleki V into play.
 
 The list below reflects the cards contained in the sealed product.
 
-**Pokémon - 14** 2 Bibarel BRS 121 2 Bidoof CRZ 111 2 Miraidon ex SVI 81 2 Regieleki ASR 51 2 Regieleki V SIT 57 2 Regieleki VMAX SIT 58 2 Zeraora SIT 56
-
-**Trainer Cards - 31** 4 Arven OBF 186 4 Boss's Orders PAL 172 4 Professor's Research SVI 190 4 Electric Generator SVI 170 4 Ultra Ball SVI 196 3 Nest Ball SVI 181 2 Switch SVI 194 2 Vitality Band SVI 197 1 Forest Seal Stone SIT 156 1 Leafy Camo Poncho SIT 160 2 Beach Court SVI 167
-
-**Energy - 15** 15 Basic Lightning Energy SVE 4
+```decklist
+Pokémon - 14
+2 Bibarel BRS 121
+2 Bidoof CRZ 111
+2 Miraidon ex SVI 81
+2 Regieleki ASR 51
+2 Regieleki V SIT 57
+2 Regieleki VMAX SIT 58
+2 Zeraora SIT 56
+Trainer Cards - 31
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+4 Professor's Research SVI 190
+4 Electric Generator SVI 170
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+2 Switch SVI 194
+2 Vitality Band SVI 197
+1 Forest Seal Stone SIT 156
+1 Leafy Camo Poncho SIT 160
+2 Beach Court SVI 167
+Energy - 15
+15 Basic Lightning Energy SVE 4
+```
 
 ### Upgrades
 
