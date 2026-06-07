@@ -72,7 +72,7 @@ export const nav: NavEntry[] = [
       { label: 'External Resources', href: '/external' },
     ],
   },
-  { label: 'Store', href: 'https://store.justinbasil.com', external: true },
+  { label: 'Eternal', href: '/eternal' },
   { label: 'About', href: '/about' },
 ];
 
