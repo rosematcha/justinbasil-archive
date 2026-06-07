@@ -8,6 +8,9 @@ dist/
 # OS
 .DS_Store
 
+# Sidecar metadata
+*.xmp
+
 # Keystatic local cache
 .keystatic/
 
